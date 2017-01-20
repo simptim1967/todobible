@@ -1,0 +1,91 @@
+/* biblepage_print.css */
+
+.container {
+     width:100%;
+     margin:0px;
+}
+
+.contentblock {
+     width:100%;
+     margin:0px;
+     page-break-before:avoid;
+}
+
+.headerblock {
+     width:100%;
+     page-break-inside:avoid;
+     float:none;
+}
+
+.logoblock {
+     margin-right:0px;
+}
+
+.logoverse {
+     margin-right:0px;
+}
+
+.logoverse p {
+     margin-right:0px;
+}
+
+.logoverse a {
+     margin-right:0px;
+}
+
+.verse {
+     padding-left:0px;
+     padding-right:0px;
+     page-break-inside:avoid;
+     orphans:3;
+}
+
+/* left hand sidebar related styling */
+
+.leftsidebar {
+display:none;
+}
+
+.todopage {
+     margin:0;
+     width:100%;
+     float:none;
+	 padding-left: 0px;
+	 padding-right: 0px;
+     -moz-border-radius: 0px; 
+     border-radius: 0px; 
+     page-break-before:avoid;
+}
+
+body {
+      background:none; 
+}
+a {
+     text-decoration:none;
+}
+
+tr {
+     page-break-inside:avoid;
+}
+
+td {
+     page-break-inside:avoid;
+}
+
+.A2Z {
+display:none;
+}
+
+.BibleBooks {
+display:none;
+}
+
+.gotop a {
+display:none;
+}
+
+.footerblock { color:black; }
+
+.footerblock a {
+display:none;
+}
