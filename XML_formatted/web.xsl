@@ -134,7 +134,7 @@
           <!--End contentblock-->
           <div class="footerblock">
             <!--Begin footerblock-->
-            Copyright <xsl:text disable-output-escaping="yes">&amp;copy;</xsl:text> 2015 ToDoBible.org. All rights reserved.<xsl:text disable-output-escaping="yes">&amp;nbsp;&amp;nbsp;</xsl:text><a href="#top">Top of page</a>
+            Copyright <xsl:text disable-output-escaping="yes">&amp;copy;</xsl:text> 2017 ToDoBible.org. All rights reserved.<xsl:text disable-output-escaping="yes">&amp;nbsp;&amp;nbsp;</xsl:text><a href="#top">Top of page</a>
           </div>
           <!--End footerblock-->
         </div>
@@ -313,10 +313,11 @@
       <xsl:attribute name="id">v<xsl:value-of select="attribute::number"/></xsl:attribute>
       <xsl:text>
     </xsl:text>
-        <!--Does this verse contain a ToDo item?-->
+        <!--Does this verse contain a ToDo item?
         <xsl:if test="attribute::todo = 'true'">
           <xsl:text disable-output-escaping="yes">&lt;span style="background-color:#FFFF00; border:solid 1px black;"&gt;</xsl:text>
         </xsl:if>
+        -->
       <b><xsl:value-of select="attribute::number"/></b>
         <xsl:if test="attribute::todo = 'true'">
           <xsl:text disable-output-escaping="yes">&lt;/span&gt;</xsl:text>
