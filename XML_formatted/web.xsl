@@ -20,7 +20,10 @@
         <link href="../css/tbpage.css" rel="stylesheet" type="text/css" />
         <link href="../css/biblepage.css" rel="stylesheet" type="text/css" />
 		<link href="../css/biblepage_print.css" rel="stylesheet" type="text/css" media="print" />
-        <script src="../script/biblenav.js" type="text/javascript"></script>
+        <script type="text/javascript" src="../script/biblenav.js"></script>
+        <script type="text/javascript" src="../script/jquery-1.4.2.min.js"></script>
+        <script type="text/javascript" src="../script/jquery.scrollTo-1.4.2-min.js"></script>
+        <script type="text/javascript" src="../script/highlight-verses.js"></script>
       </head>
       <body>
         <div class="container">
@@ -46,7 +49,7 @@
               <p>
                 But be ye doers of the word,<br />
                   and not hearers only,<br />deceiving your own selves.</p>
-              <a href="james_1.html#v22">James 1:22</a>
+              <a href="james_1.html?goto=22">James 1:22</a>
             </div>
             <!--End logoverse-->
           </div>

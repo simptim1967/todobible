@@ -66,7 +66,7 @@ function GoToVerse()
      var results = vref.match(pattern3);
      if (results == null || results[0]!=vref)
      {
-       // default to chapter 1 verse 1
+       // default to chapter 1
        vref += " 1:1";
      }
      else
@@ -131,8 +131,8 @@ function GoToVerse()
   
   // Construct page name
   var page = realBookName + "_" + chapter + ".html";
-  if (verse.length != 0)
-     page += "#v" + verse;
+  if (verse.length != 0 && verse != '1')
+     page += "?goto=" + verse;
 
   // Navigate to bible chapter page
   window.location = page;  
