@@ -1,10 +1,5 @@
 /* biblepage.css */
 
-/* navbar */
-.navbar-default {
-    margin-bottom: 10px;
-}
-
 .col-md-4 {
     padding-left: 0px;
 }
@@ -14,49 +9,10 @@
     }
 }
 
-/* image header beneath menu */
-
-.bpheaderblock {
-    background-image: url("../images/head.jpg");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin-top: 0px;
-    height: 100px;
-}
-
-.logoverse {
-    width: auto;
-    padding:5px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    font-family: Verdana,Geneva,sans-serif;
-    text-align: right;
-    font-size: 1em;
-    font-weight: bold;
-    text-shadow: 0 0 0.3em black, 0 0 0.3em black,0 0 0.3em black,0 0 0.3em black;
-    color: violet;
-}
-
-.logoverse p {
-    font-style: italic;
-}
-
-.logoverse a {
-    text-decoration: none;
-    color: violet;
-}
-
-.logoverse a:hover {
-    text-decoration: none;
-    color: violet;
-}
-
 /* Bible navigation */
 .biblenavigation {
     background-color: #64091D; /* wine red */
-    margin-top: 10px;
+    margin-top: 0px;
     padding-top: 5px;
     padding-bottom: 7px;
     padding-left: 15px;
@@ -74,7 +30,7 @@
 
 .versenavigation label {
     color: #b388ff;
-    font-size: 1.1em;
+    font-size: 1em;
 }
 
 #vref {
@@ -102,8 +58,7 @@
 
 .chapternavigation td {
     border: solid #b388ff 1px;
-    padding: 2px;
-    font-size: small;
+    padding: 7px;
     text-align: center;
 }
 
@@ -121,10 +76,10 @@
 /* Bible page related styling */
 
 .biblepage {
-    margin-top: 10px;
+    margin-top: 0px;
     background-color: #FFFFFF;
-    padding-top: 14px;
-    padding-bottom: 12px;
+    padding-top: 7px;
+    padding-bottom: 5px;
     padding-left: 15px;
     padding-right: 15px;
     -moz-border-radius: 10px;
@@ -137,6 +92,8 @@
     border-top: solid 1px black;
     border-bottom: solid 1px black;
     background-color: #EEEEEE;
+    margin-bottom: 7px;
+    margin-top: 7px;
 }
 
 .bp_head_foot img {
@@ -149,13 +106,13 @@
     line-height: 1.3em;
     background-color: lightpink;
     font-family: Verdana, "Trebuchet MS", Arial, Helvetica, sans-serif;
-    font-size: 11pt;
+    font-size: 1em;
     color: black;
 }
 
 .verse {
     font-family: Verdana, "Trebuchet MS", Arial, Helvetica, sans-serif;
-    font-size: 11pt;
+    font-size: 1em;
     padding: 6px;
     text-indent: 1em;
     line-height: 1.3em;
@@ -234,9 +191,8 @@ h4 {
 
 .indexnavigation td {
     border: solid #D37BDD 1px;
-    padding: 2px;
+    padding: 7px;
     background-color: #F0D1F3;
-    font-size: small;
     text-align: center;
 }
 

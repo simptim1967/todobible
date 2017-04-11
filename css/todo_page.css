@@ -1,10 +1,5 @@
 /* todo_page.css */
 
-/* navbar */
-.navbar-default {
-    margin-bottom: 10px;
-}
-
 .col-md-4 {
     padding-left: 0px;
 }
@@ -15,45 +10,7 @@
 }
 
 .btn-primary {
-    margin-top: 3px;
-}
-/* image header beneath menu */
-
-.bpheaderblock {
-    background-image: url("../images/head.jpg");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin-top: 0px;
-    height: 100px;
-}
-
-.logoverse {
-    width: auto;
-    padding:18px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    font-family: Verdana,Geneva,sans-serif;
-    text-align: right;
-    font-size: 1em;
-    font-weight: bold;
-    text-shadow: 0 0 0.3em black, 0 0 0.3em black,0 0 0.3em black,0 0 0.3em black;
-}
-
-.logoverse p {
-    font-style: italic;
-    color: violet;
-}
-
-.logoverse a {
-    text-decoration: none;
-    color: violet;
-}
-
-.logoverse a:hover {
-    text-decoration: none;
-    color: violet;
+    margin: 3px;
 }
 
 /* ToDo page related styling */

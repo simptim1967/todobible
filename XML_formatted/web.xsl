@@ -99,7 +99,7 @@
 
         <!-- Bible page header -->
         <div class="container">
-          <div class="bpheaderblock hidden-sm hidden-xs">
+          <div class="headerblock hidden-sm hidden-xs">
             <div class="logoverse">
 
               <p>
@@ -136,7 +136,7 @@
                   <label for="vref">Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:</label>
                   <fieldset>
                     <input type="text" id="vref" maxlength="25" />
-                    <button class="btn-sm btn-primary" id="gotoverse" type="submit" onclick="GoToVerse(); return false">Go</button>
+                    <button class="btn-md btn-primary" id="gotoverse" type="submit" onclick="GoToVerse(); return false">Go</button>
                   </fieldset>
                 </form>
               </div>
@@ -154,7 +154,7 @@
                       </xsl:with-param>
                       <xsl:with-param name="lastChapter" select="/bible/book/attribute::chapterCount">
                       </xsl:with-param>
-                      <xsl:with-param name="max" select="7"><!--Max columns per chapter navigation row-->
+                      <xsl:with-param name="max" select="5"><!--Max columns per chapter navigation row for books with > 99 chapters-->
                       </xsl:with-param>
                     </xsl:call-template>
                   </xsl:when>
@@ -167,7 +167,7 @@
                       </xsl:with-param>
                       <xsl:with-param name="lastChapter" select="/bible/book/attribute::chapterCount">
                       </xsl:with-param>
-                      <xsl:with-param name="max" select="10">
+                      <xsl:with-param name="max" select="5"><!--Max columns per chapter navigation row for books with <= 99 chapters-->
                       </xsl:with-param>
                     </xsl:call-template>
                   </xsl:otherwise>
@@ -273,7 +273,7 @@
     <xsl:text>
     </xsl:text>
     <!-- Generate header for this chapter -->
-      <table class="bp_head_foot" width="100%" style="margin-bottom: 7px;">
+      <table class="bp_head_foot">
         <tr>
           <td width="20">
             <a>
@@ -319,7 +319,7 @@
     <xsl:text>
     </xsl:text>
     <!-- Generate footer for this chapter and make it hidden on print -->
-      <table class="bp_head_foot hidden-print" style="margin-top: 7px;">
+      <table class="bp_head_foot hidden-print">
         <tr>
           <td width="20">
             <a>

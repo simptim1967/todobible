@@ -1,8 +1,52 @@
 /* common.css - Stylesheet to override bootstrap defaults and share styling common to all website pages */
 
 body {
-    background-color: #d1c4e9; /* #ce93d8; #F0D1F3; #F8F8F8; */
+    /* set default colours */
+    background-color: #d1c4e9; 
     color: purple;
+
+    /* set font defaults */
+    font-size: 16px;
+}
+
+/* image header beneath menu */
+
+.headerblock {
+    background-image: url("../images/head.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 100px;
+}
+
+.logoverse {
+    width: auto;
+    padding:5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: Verdana,Geneva,sans-serif;
+    text-align: right;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-shadow: 0 0 0.3em black, 0 0 0.3em black,0 0 0.3em black,0 0 0.3em black;
+}
+
+.logoverse p {
+    font-style: italic;
+    color: violet;
+}
+
+.logoverse a {
+    text-decoration: none;
+    color: violet;
+}
+
+.logoverse a:hover {
+    text-decoration: none;
+    color: violet;
 }
 
 .jumbotron {
@@ -15,6 +59,7 @@ body {
 }
 
 h1 {
+    margin-top: 10px;
     color: purple;
 }
 
@@ -23,7 +68,7 @@ h2 {
 }
 
 .img-thumbnail {
-    border-color: purple; /* #E7E7E7; */
+    border-color: purple; 
 }
 
 .featurette-divider {
@@ -38,18 +83,19 @@ h2 {
 }
 
 .navbar-default {
-    background-color: #6a1b9a; /* purple; #F8F8F8; */
-    border-color: #6a1b9a; /* purple; #F0D1F3; #E7E7E7; */
+    background-color: #6a1b9a; 
+    border-color: #6a1b9a; 
+    margin-bottom: 10px;
 }
 
 /* title */
 .navbar-default .navbar-brand {
-    color: white; /* #F0D1F3; #777; */
+    color: white; 
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-    color: white; /* #5E5E5E; */
+    color: white; 
 }
 
 /* link */
@@ -65,21 +111,21 @@ h2 {
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-    color: white; /* #555;  */
-    background-color: #6a1b9a; /* purple; #E7E7E7; */
+    color: white; 
+    background-color: #6a1b9a; 
 }
 
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-    color: #6a1b9a; /* purple; #555; */
+    color: #6a1b9a; 
     background-color: #D5D5D5;
 }
 
 /* caret initial color */
 .navbar-default .navbar-nav > .dropdown > a .caret {
-    border-top-color: white; /* #777; */
-    border-bottom-color: white; /* #777; */
+    border-top-color: white; 
+    border-bottom-color: white; 
 }
 
 /* caret color to use when hover/focus on navbar drop-down option */
@@ -108,7 +154,7 @@ h2 {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: white; /* #CCC; */
+    background-color: white; 
 }
 
 @media (max-width: 767px) {
@@ -118,7 +164,7 @@ h2 {
 
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-        background-color: lightskyblue; /* #333; */
+        background-color: lightskyblue; 
     }
 }
 
@@ -126,9 +172,3 @@ h2 {
     background-color: lightskyblue;
 }
 
-/*
-.btn-primary {
-    background-color: darkorchid;
-    border-color: #6a1b9a;
-}
-*/
