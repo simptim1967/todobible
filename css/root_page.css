@@ -33,12 +33,11 @@ ul.affix-bottom {
     margin-top: 0px;
     margin-bottom: 10px;
     height: 100px;
-    color: gold;
 }
 
 .logoverse {
     width: auto;
-    padding:18px;
+    padding: 5px;
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -52,6 +51,7 @@ ul.affix-bottom {
 
 .logoverse p {
     font-style: italic;
+    color: violet;
 }
 
 .logoverse a {

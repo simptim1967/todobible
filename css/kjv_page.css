@@ -22,12 +22,11 @@
     background-size: 100% 100%;
     margin-top: 0px;
     height: 100px;
-    color: gold;
 }
 
 .logoverse {
     width: auto;
-    padding:18px;
+    padding:5px;
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -37,6 +36,7 @@
     font-size: 1em;
     font-weight: bold;
     text-shadow: 0 0 0.3em black, 0 0 0.3em black,0 0 0.3em black,0 0 0.3em black;
+    color: violet;
 }
 
 .logoverse p {

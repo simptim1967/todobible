@@ -103,11 +103,12 @@
             <div class="logoverse">
 
               <p>
-                <a href="james_1.html?goto=22">But be ye doers of the word,<br/>
+                But be ye doers of the word,<br/>
                   and not hearers only,<br/>
-                  deceiving your own selves.</a>
+                  deceiving your own selves.
               </p>
-
+              <a href="james_1.html?goto=22">James 1:22</a>
+              
             </div>
           </div>
         </div>
