@@ -1,0 +1,375 @@
+/* todo_page.css */
+
+/* navbar */
+.navbar-default {
+    margin-bottom: 10px;
+}
+
+.col-md-4 {
+    padding-left: 0px;
+}
+@media (max-width: 991px) {
+    .col-md-4 {
+        padding-left: 15px;
+    }
+}
+
+.btn-primary {
+    margin-top: 3px;
+}
+/* image header beneath menu */
+
+.bpheaderblock {
+    background-image: url("../images/head.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: 0px;
+    height: 100px;
+}
+
+.logoverse {
+    width: auto;
+    padding:18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: Verdana,Geneva,sans-serif;
+    text-align: right;
+    font-size: 1em;
+    font-weight: bold;
+    text-shadow: 0 0 0.3em black, 0 0 0.3em black,0 0 0.3em black,0 0 0.3em black;
+}
+
+.logoverse p {
+    font-style: italic;
+    color: violet;
+}
+
+.logoverse a {
+    text-decoration: none;
+    color: violet;
+}
+
+.logoverse a:hover {
+    text-decoration: none;
+    color: violet;
+}
+
+/* ToDo page related styling */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+}
+h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color:purple;
+    margin-bottom:2px;
+}
+h2 {
+    font-size: 1.4em;
+    font-weight: bold;
+    color:#AA2EB8;
+    margin-top:12px;
+    margin-bottom:10px;
+}
+h3 {
+    font-size: 1.2em;
+    font-weight: bold;
+    color:purple;
+    margin-top:10px;
+    margin-bottom:8px;
+}
+
+/* ToDo List page tab header */
+
+.tabheading {
+     width:100%;
+     margin-top: 5px;
+     margin-bottom:10px;
+}
+.tabheading tr td a {
+     color:purple;
+     text-decoration: underline;
+     display: block;
+}
+.tabheading td {
+     padding:5px;
+     text-align:center;
+     border-left:solid 2px purple;
+     border-right:solid 2px purple;
+     border-top:solid 2px purple;
+     border-bottom:solid 3px purple;
+     background-color:#b39ddb; /* #9575cd; #ce93d8; #E0B4DC; */
+     font-size:1.2em;
+}
+#current {
+     padding:5px;
+     text-align:center;
+     border-left:solid 5px purple;
+     border-right:solid 5px purple;
+     border-top:solid 5px purple;
+     border-bottom:none;
+     background-color:transparent;
+}
+#filler {
+     width: 80px;
+     padding:5px;
+     border-left:none;
+     border-right:none;
+     border-top:none;
+     border-bottom:solid 3px purple;
+     background-color:transparent;
+}
+
+.bibletodolist {
+     width:100%;
+     font-size:1.1em;
+     border:solid 1px purple;
+     margin-bottom: 5px;
+}
+.bibletodolist td {
+     margin-right:15px;
+     margin-top:3px;
+     border: solid purple 1px;
+     padding: 3px;
+     font-size: 0.9em;
+}
+.bibletodolist th {
+     text-align:left;
+     color:#AA2EB8;
+     background-color:#9e9e9e ; /* #E0B4DC; */
+     border:solid 1px purple;
+     padding: 3px;
+     font-size:1.1em;
+}
+
+.letter {
+    font-size: 2em;
+    color: purple;
+    background-color: #b39ddb;
+    vertical-align: top;
+    text-align: center;
+}
+.topiclist {
+    vertical-align: top;
+    margin-bottom: 10px;
+    font-size:1.1em;
+}
+.a2z {
+     width:100%;
+     margin-top:5px;
+     margin-bottom:10px;
+}
+
+.biblebooks {
+     width:100%;
+     margin-top:5px;
+     margin-bottom:10px;
+}
+
+.topic {
+     text-align:left;
+     color:purple;
+     background-color:#bdbdbd; /* #E2E2E2; */
+     border:solid 1px purple;
+     font-size:1.2em;
+}
+
+.biblebook {
+     text-align:left;
+     color:purple;
+     background-color:silver;
+     border:solid 1px purple;
+     font-size:1.2em;
+}
+
+.gotop {
+     text-align:center;
+}
+
+.gotop a {
+     color:purple;
+     font-size:0.8em;
+     text-decoration:none;
+     display: block;
+}
+
+/*
+
+.odd td {
+     background-color:#EEEEEE;
+}
+
+wow {
+     color:black;
+     background-color:#FFFF00;
+     text-decoration:underline;
+     font-size:xx-small;
+     vertical-align:super;
+}
+.verse {
+     padding: 6px;
+     text-indent: 1em;
+     line-height:1.3em;
+}
+.keyverse {
+     padding: 6px;
+     line-height:1.3em;
+}
+.versebox {
+     display:block;
+     margin-top:6px;
+     margin-bottom:2px;
+     margin-left:auto;
+     margin-right:auto;
+     border:solid 1px #D37BDD;
+     background-color:#F0D1F3;
+     color:purple;
+     width:80%;
+     font-size:1.1em;
+     line-height:1.3em;
+     padding:5px;
+}
+.versebox p {
+     margin-left:2px;
+     font-size:0.8em;
+}
+.versebox a {
+     display:block;
+     color:purple;
+     margin:2px;
+     padding:2px;
+     text-align:right;
+     font-size:0.9em;
+}
+
+.BibleBooks {
+     width:100%;
+     margin-top:5px;
+     margin-bottom:5px;
+     border-spacing:5px;
+}
+
+.BibleBooks a {
+     text-decoration:none;
+}
+
+.BibleBooks td {
+     padding:4px;
+     text-align:center;
+     background-color:#E2E2E2;
+     color:white;
+     font-size:0.9em;
+     border:solid 1px purple;
+}
+
+.relatedscripture {
+     width:100%;
+     border: solid 1px purple;
+}
+
+.relatedscripture td {
+     padding-left:5px;
+}
+
+.A2Z a {
+     text-decoration:none;
+}
+
+.A2Z td {
+     padding-left:6px;
+     padding-right:6px;
+     text-align:center;
+     background-color:#E2E2E2;
+     color:white;
+     font-size:1.2em;
+     border:solid 2px white;
+}
+
+.bibletodotopics {
+     width:100%;
+     font-size:1.1em;
+}
+.bibletodotopics td {
+     border:solid #D37BDD 1px;
+     padding: 3px;
+     font-size:0.9em;
+     vertical-align:text-top;
+}
+.bibletodotopics th {
+     text-align:center;
+     color:#AA2EB8;
+     background-color:#E0B4DC;
+     border:solid 1px purple;
+     padding: 3px;
+     font-size:1.1em;
+}
+#tabs-1 {
+     padding:0px;
+     margin-top:5px;
+     margin-bottom:3px;
+}
+#tabs-2 {
+     padding:0px;
+     margin-top:5px;
+     margin-bottom:3px;
+}
+
+.verse {
+     padding: 6px;
+     text-indent: 1em;
+     line-height:1.3em;
+}
+.keyverse {
+     padding: 6px;
+     line-height:1.3em;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+}
+h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color:purple;
+    margin-bottom:2px;
+}
+h2 {
+    font-size: 1.4em;
+    font-weight: bold;
+    color:#AA2EB8;
+    margin-top:12px;
+    margin-bottom:10px;
+}
+h3 {
+    font-size: 1.0em;
+    font-weight: bold;
+    color:#808080;
+    text-align:center;
+}
+
+.todopage {
+     margin-top:5px;
+     background-color: #FFFFFF;
+	 padding-top: 7px;
+	 padding-bottom: 7px;
+	 padding-left: 15px;
+	 padding-right: 15px;
+     -moz-border-radius: 10px; 
+     border-radius: 10px; 
+     width: 100%;
+}
+
+.todopage p {
+     padding-top:6px;
+     padding-bottom:6px;
+     line-height:1.3em;
+     text-align:justify;
+}
+.todopage ul {
+     margin-left:15px;
+     line-height:1.3em;
+}
+
+*/

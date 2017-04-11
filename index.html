@@ -1,58 +1,118 @@
 <!DOCTYPE html>
 <html lang="en-GB">
   <head>
-    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags-->
+    <meta name="keywords" content="bible todo list, holy bible, words of Jesus, commandments of Jesus, bible index, bible to do items">
+    <meta name="description" content="ToDoBible.org home page. Read the Holy Bible and learn about what God's Word teaches us to do as believers because we love Jesus.">
     <title>ToDo Bible Home Page</title>
-    <meta name="description" content="Read the Holy Bible and learn about what God's Word teaches us to do as believers." />
-    <meta name="keywords" content="holy bible, bible todo list, words of Jesus, commandments of Jesus, bible index, bible to do items" />
-    <meta name="viewport" content="width=1024">
-    <link href="css/reset.css" rel="stylesheet" type="text/css">
-    <link href="css/tbpage.css" rel="stylesheet" type="text/css">
-    <link href="css/homepage.css" rel="stylesheet" type="text/css">
+    <!-- Bootstrap-->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/common_page.css" rel="stylesheet">
   </head>
   <body>
-    <div class="container">
-      <div class="headerblock">
-	       <a href="index.html">
-	  	   <div class="logoblock">
-		   <h5><span style="color:white;">TODO:</span><span style="color:gold;">Bible</span></h5>
-           <p>Read it. Believe it.</p>
-           <p><b>Do it!</b></p>
-		   </div>
-		   </a>
-		   <div class="logoverse">
-           <p>But be ye doers of the word,<br>and not hearers only,<br>deceiving your own selves.</p>
-           <a href="kjv/james_1.html?goto=22">James 1:22</a>
-		   </div>
-	  </div>
-      <div class="contentblock">
-        <div class="homepage">
-          <h1>Be encouraged. God has a purpose for your life!</h1>
-          <hr>
-		  <div class="boxeditem">
-		     <h2>Read The Bible</h2>
-		     <img src="images/holybible2.jpg" width="270" height="178" alt="Holy Bible" />
-              <p><a href="kjv/genesis_1.html">Read the King James Bible</a> with the <span style="color:red;">words of Jesus in red</span>.</p>
-		     <p>Use the <a href="kjv/king_james_bible_index_page.html">Bible Index Page</a> to quickly navigate to any chapter of the bible.</p>
-		  </div>
-		  <div class="boxeditem">
-		     <h2>Bible ToDo List</h2>
-		     <img src="images/todo3.jpg" width="217" height="178" alt="ToDo Sticky Note" />
-		     <p>A <a href="todo/bible_todo_list.html">Bible ToDo List</a> reminding us of what God's Word teaches us to do as believers.</p>
-		     <p>The ToDo list is indexed <a href="todo/bible_todo_list.html">by topic</a>, <a href="todo/bible_todo_list_by_a_to_z.html">by A-Z</a> 
-			 and <a href="todo/bible_todo_list_by_bible_book.html">by bible book</a>.</p>
-              <p>See the <a href="todo/bible_todo_list_ultimate.html">Ultimate Bible ToDo List</a> recommended by Jesus.</p>
-		  </div>
-		  <div class="boxeditem">
-		     <h2>Follow Us On Twitter</h2>
-             <a class="twitter-timeline" height="300" data-dnt="true" href="https://twitter.com/ToDoBible" data-widget-id="436622149583785984">Tweets by @ToDoBible</a>
-             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-		  </div>
-        </div>
-      </div>
-      <div class="footerblock">
-          Copyright &copy; 2017 ToDoBible.org. All rights reserved.&nbsp;&nbsp;<a href="#top">Top of page</a>
+    <!--
+    Menu definition
+    ==================================================
+    -->
+    <div class="navbar-wrapper">
+      <div class="container bg-light-purple">
+        <nav class="navbar navbar-default navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand disabled"><strong> <span style="color: lightskyblue;">ToDo:</span><span style="color: gold;">Bible</span></strong></a>
+            </div>
+            <div class="navbar-collapse collapse" id="navbar">
+              <ul class="nav navbar-nav">
+                <li><a href="index.html">Home</a></li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bible <span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="kjv/genesis_1.html">Start Reading The Bible</a></li>
+                    <li><a href="kjv/king_james_bible_index_page.html">Bible Index Page</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ToDo <span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="todo/bible_todo_list_ultimate.html">Ultimate Bible ToDo List</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="todo/bible_todo_list.html">Bible ToDo List (By Topic)</a></li>
+                    <li><a href="todo/bible_todo_list_by_bible_book.html">Bible ToDo List (By Bible Book)</a></li>
+                    <li><a href="todo/bible_todo_list_by_a_to_z.html">Bible ToDo List (By A-Z)</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="todo/bible_todo_topics_index.html">ToDo List Topic Index</a></li>
+                  </ul>
+                </li>
+                <li><a href="about_todo_bible.html">About</a></li>
+              </ul>
+            </div>
+          </div>
+        </nav>
       </div>
     </div>
+    <!--
+    Primary marketing message or call to action
+    ==================================================
+    -->
+    <div class="container">
+      <div class="jumbotron text-center">
+        <h1>Be encouraged.</h1>
+        <p>God has a plan and a purpose for your life!</p>
+        <p>
+          Read the bible to discover your true identity and learn who you were created to be.</p>
+        <!--p//a.btn.btn-warning.btn-lg(href='kjv/jeremiah_29.html?goto=11', role='button') Jeremiah 29:11 »
+        -->
+      </div>
+    </div>
+    <!--
+    Main content features
+    ==================================================
+    -->
+    <div class="container text-center">
+      <!-- Three columns of text below the jumbotron / carousel-->
+      <div class="row">
+        <div class="col-sm-4"><img class="img-thumbnail" src="images/todo3.jpg" width="178" height="178" alt="ToDo Sticky Note">
+          <h2>Bible ToDo List</h2>
+          <p>A <a href="todo/bible_todo_list.html">Bible ToDo List</a>
+             reminding us what God's Word teaches us to do because we love Jesus.
+            See the <a href="todo/bible_todo_list_ultimate.html">Ultimate Bible ToDo List</a> recommended by Jesus.
+          </p>
+          <p><a class="btn btn-primary" href="todo/bible_todo_list_ultimate.html" role="button">View Ultimate Bible ToDo List »</a></p>
+          <hr class="featurette-divider hidden-sm hidden-md hidden-lg">
+        </div>
+        <!-- /.col-sm-4-->
+        <div class="col-sm-4"><img class="img-thumbnail" src="images/kjv.jpg" width="178" height="178" alt="King James Bible">
+          <h2>Read The Bible</h2>
+          <p>Read the King James Bible with the words of Jesus highlighted in <span style="color:red;">red</span>. Use the <a href="kjv/king_james_bible_index_page.html">Bible Index Page</a> to quickly navigate to any chapter of the bible.</p>
+          <p><a class="btn btn-primary" href="kjv/genesis_1.html" role="button">Start Reading The Bible »</a></p>
+          <hr class="featurette-divider hidden-sm hidden-md hidden-lg">
+        </div>
+        <!-- /.col-sm-4-->
+        <div class="col-sm-4"><img class="img-thumbnail" src="images/twitter_logo.png" width="178" height="178" alt="Twitter Logo">
+          <h2>Follow @ToDoBible</h2>
+          <p>
+            You can contact or follow @ToDoBible on Twitter
+            to learn about updates to the Bible ToDo List as well as to receive tweets of encouragement.
+          </p>
+          <p><a class="btn btn-primary" href="https://twitter.com/ToDoBible" role="button" target="_blank">View @ToDoBible »</a></p>
+        </div>
+        <!-- /.col-sm-4-->
+      </div>
+      <!-- /.row-->
+      <hr class="featurette-divider">
+      <footer class="footer">
+        <div class="container">
+          <p>Copyright © 2017 ToDoBible.org. All rights reserved. <a href="#"><small>Top&nbsp;of&nbsp;page</small></a></p>
+        </div>
+      </footer>
+    </div>
+    <!--
+    jQuery (necessary for Bootstrap's JavaScript plugins)
+    originally from: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+    -->
+    <script src="script/jquery-1.12.4.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed-->
+    <script src="script/bootstrap.min.js"></script>
   </body>
 </html>

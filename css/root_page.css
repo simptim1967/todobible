@@ -1,0 +1,138 @@
+/* rootpage.css */
+
+/* add for fixed navbar 
+body {
+    padding-top: 60px;
+}
+*/
+
+ul.affix {
+	position: fixed; 
+	top: 0px;
+}
+ul.affix-top {
+	position: static;
+}
+ul.affix-bottom {
+	position: absolute;
+}
+
+.alert-info {
+   background-color: darkslateblue;
+   background-color: lightgray;
+   color: purple;
+   font-size: 1.5em;
+   border-color: rebeccapurple;
+}
+/* image header beneath menu */
+
+.headerblock {
+    background-image: url("../images/head.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 100px;
+    color: gold;
+}
+
+.logoverse {
+    width: auto;
+    padding:18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: Verdana,Geneva,sans-serif;
+    text-align: right;
+    font-size: 1em;
+    font-weight: bold;
+    text-shadow: 0 0 0.3em black, 0 0 0.3em black,0 0 0.3em black,0 0 0.3em black;
+}
+
+.logoverse p {
+    font-style: italic;
+}
+
+.logoverse a {
+    text-decoration: none;
+    color: violet; /* lightskyblue; cornflowerblue; */
+}
+
+.logoverse a:hover {
+    text-decoration: none;
+    color: violet;
+}
+
+.quoteverse {
+    display:block;
+    width: 80%;
+    background-color: white;
+    color: black;
+    border-left: solid 3px gray;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 0.9em;
+}
+
+.quoteverse a {
+    display: block;
+    text-align: right;
+}
+
+.nav > li > a {
+    text-align: right;
+}
+/* right hand sidebar related styling */
+
+.rightsidebar {
+    background-color: #64091D; /* wine red */
+    padding-top: 5px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.rightsidebar p {
+     color:violet;
+     font-size:0.9em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+}
+h1 {
+    margin-top: 0px;
+    font-size: 1.5em;
+    font-weight: bold;
+    color:purple;
+}
+h2 {
+    font-size: 1.4em;
+    font-weight: bold;
+    color:#AA2EB8;
+    margin-top:12px;
+    margin-bottom:10px;
+}
+h3 {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-top:solid 1px #b388ff;
+    border-bottom:solid 1px #b388ff;
+    color:purple;
+    background-color: #ce93d8;
+    padding: 2px;
+}
+
+h4 {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #b388ff;
+}
+

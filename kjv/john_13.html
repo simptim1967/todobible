@@ -2,84 +2,77 @@
 <html lang="en-GB">
   <head>
     <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>John chapter 13 - King James Bible</title>
     <meta name="description" content="King James Bible: John chapter 13">
     <meta name="keywords" content="king james holy bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV">
-    <meta name="viewport" content="width=1024">
-    <link href="../css/reset.css" rel="stylesheet" type="text/css">
-    <link href="../css/tbpage.css" rel="stylesheet" type="text/css">
-    <link href="../css/biblepage.css" rel="stylesheet" type="text/css">
-    <link href="../css/biblepage_print.css" rel="stylesheet" type="text/css" media="print"><script type="text/javascript" src="../script/biblenav.js"></script><script type="text/javascript" src="../script/jquery-1.4.2.min.js"></script><script type="text/javascript" src="../script/jquery.scrollTo-1.4.2-min.js"></script><script type="text/javascript" src="../script/highlight-verses.js"></script></head>
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/common_page.css" rel="stylesheet">
+    <link href="../css/kjv_page.css" rel="stylesheet">
+  </head>
   <body>
+    <div class="navbar-wrapper">
+      <div class="container"><nav class="navbar navbar-default navbar-static-top"><div class="container">
+            <div class="navbar-header"><button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand disabled"><strong><span style="color: lightskyblue;">ToDo:</span><span style="color: gold;">Bible</span></strong></a></div>
+            <div class="navbar-collapse collapse" id="navbar">
+              <ul class="nav navbar-nav">
+                <li><a href="../index.html">Home</a></li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bible <span class="caret"></span></a><ul class="dropdown-menu">
+                    <li><a href="genesis_1.html">Start Reading The Bible</a></li>
+                    <li><a href="king_james_bible_index_page.html">Bible Index Page</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="john_14.html" alt="Next chapter (John 14)" title="Next chapter (John 14)">
+                          Next Chapter
+                        </a></li>
+                    <li><a href="john_12.html" alt="Previous chapter (John 12)" title="Previous chapter (John 12)">
+                            Previous Chapter
+                        </a></li>
+                    <li><a href="#gotoChapter" title="Go To Chapter (John)">
+                          Go To Chapter ...</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="#vref">Go To Bible Reference ...</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ToDo <span class="caret"></span></a><ul class="dropdown-menu">
+                    <li><a href="../todo/bible_todo_list_ultimate.html">Ultimate Bible ToDo List</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="../todo/bible_todo_list.html">Bible ToDo List (By Topic)</a></li>
+                    <li><a href="../todo/bible_todo_list_by_bible_book.html">Bible ToDo List (By Bible
+                          Book)</a></li>
+                    <li><a href="../todo/bible_todo_list_by_a_to_z.html">Bible ToDo List (By A-Z)</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="../todo/bible_todo_topics_index.html">ToDo List Topic Index</a></li>
+                  </ul>
+                </li>
+                <li><a href="../about_todo_bible.html">About</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </div>
     <div class="container">
-      <div class="headerblock"><a href="../index.html"><div class="logoblock">
-            <h5><span style="color:white;">TODO:</span><span style="color:gold;">Bible</span></h5>
-            <p>Read it. Believe it.</p>
-            <p><b>Do it!</b></p>
-          </div></a><div class="logoverse">
-          <p>
-                But be ye doers of the word,<br>
-                  and not hearers only,<br>deceiving your own selves.</p><a href="james_1.html?goto=22">James 1:22</a></div>
+      <div class="bpheaderblock hidden-sm hidden-xs">
+        <div class="logoverse">
+          <p><a href="james_1.html?goto=22">But be ye doers of the word,<br>
+                  and not hearers only,<br>
+                  deceiving your own selves.</a></p>
+        </div>
       </div>
-      <div class="contentblock">
-        <div class="leftsidebar">
-          <div class="p_menu"><a href="../index.html">Home</a><a href="../about_todo_bible.html">About TODO:Bible</a><a class="Selected">Read The Bible</a></div>
-          <div class="p_submenu"><a href="king_james_bible_index_page.html">Bible Index Page</a></div>
-          <div class="p_menu"><a href="../todo/bible_todo_list.html">Bible ToDo List</a></div>
-        </div>
-        <div class="rightsidebar">
-          <h4>Navigate The Bible</h4>
-          <h5>Go To Bible Reference</h5>
-          <div class="versenavigation">
-            <form>
-              <p>Type a reference to go to:</p>
-              <fieldset><input type="text" id="vref"><input id="gotoverse" type="submit" value="Go" onclick="GoToVerse(); return false"><p>e.g. 'John 3:16' or 'Ps 23'</p>
-              </fieldset>
-            </form>
-          </div>
-          <h5>Chapter [John]</h5>
-          <table class="chapternavigation">
-          <tr>
-<td><a href="john_1.html" title="Go to John chapter 1">1</a></td>
-            <td><a href="john_2.html" title="Go to John chapter 2">2</a></td>
-            <td><a href="john_3.html" title="Go to John chapter 3">3</a></td>
-            <td><a href="john_4.html" title="Go to John chapter 4">4</a></td>
-            <td><a href="john_5.html" title="Go to John chapter 5">5</a></td>
-            <td><a href="john_6.html" title="Go to John chapter 6">6</a></td>
-            <td><a href="john_7.html" title="Go to John chapter 7">7</a></td>
-            <td><a href="john_8.html" title="Go to John chapter 8">8</a></td>
-            <td><a href="john_9.html" title="Go to John chapter 9">9</a></td>
-            <td><a href="john_10.html" title="Go to John chapter 10">10</a></td>
-        </tr>
-
-          <tr>
-<td><a href="john_11.html" title="Go to John chapter 11">11</a></td>
-            <td><a href="john_12.html" title="Go to John chapter 12">12</a></td>
-            <td id="currentchapterhighlight">13</td>
-            <td><a href="john_14.html" title="Go to John chapter 14">14</a></td>
-            <td><a href="john_15.html" title="Go to John chapter 15">15</a></td>
-            <td><a href="john_16.html" title="Go to John chapter 16">16</a></td>
-            <td><a href="john_17.html" title="Go to John chapter 17">17</a></td>
-            <td><a href="john_18.html" title="Go to John chapter 18">18</a></td>
-            <td><a href="john_19.html" title="Go to John chapter 19">19</a></td>
-            <td><a href="john_20.html" title="Go to John chapter 20">20</a></td>
-        </tr>
-
-          <tr>
-<td><a href="john_21.html" title="Go to John chapter 21">21</a></td>
-        </tr>
-</table>
-        </div>
-        <div class="biblepage">
-    <table class="bp_head_foot">
-            <tr>
-              <td width="20"><a href="john_12.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (John 12)" title="Previous chapter (John 12)"></a></td>
-              <td>
-                <h1>John chapter 13</h1>
-              </td>
-              <td width="20"><a href="john_14.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (John 14)" title="Next chapter (John 14)"></a></td>
-            </tr>
-          </table>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <div class="biblepage">
+    <table class="bp_head_foot" width="100%" style="margin-bottom: 7px;">
+              <tr>
+                <td width="20"><a href="john_12.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (John 12)" title="Previous chapter (John 12)"></a></td>
+                <td>
+                  <h1>John chapter 13</h1>
+                </td>
+                <td width="20"><a href="john_14.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (John 14)" title="Next chapter (John 14)"></a></td>
+              </tr>
+            </table>
 <div class="verse" id="v1">
     <b>1</b> Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.
 </div>
@@ -99,49 +92,49 @@
     <b>6</b> Then cometh he to Simon Peter: and Peter saith unto him, Lord, dost thou wash my feet?
 </div>
 <div class="verse" id="v7">
-    <b>7</b> Jesus answered and said unto him, <woc>What I do thou knowest not now; but thou shalt know hereafter.</woc>
+    <b>7</b> Jesus answered and said unto him, <span style="color:red;">What I do thou knowest not now; but thou shalt know hereafter.</span>
 </div>
 <div class="verse" id="v8">
-    <b>8</b> Peter saith unto him, Thou shalt never wash my feet. Jesus answered him, <woc>If I wash thee not, thou hast no part with me.</woc>
+    <b>8</b> Peter saith unto him, Thou shalt never wash my feet. Jesus answered him, <span style="color:red;">If I wash thee not, thou hast no part with me.</span>
 </div>
 <div class="verse" id="v9">
     <b>9</b> Simon Peter saith unto him, Lord, not my feet only, but also <i>my</i> hands and <i>my</i> head.
 </div>
 <div class="verse" id="v10">
-    <b>10</b> Jesus saith to him, <woc>He that is washed needeth not save to wash <i>his</i> feet, but is clean every whit: and ye are clean, but not all.</woc>
+    <b>10</b> Jesus saith to him, <span style="color:red;">He that is washed needeth not save to wash <i>his</i> feet, but is clean every whit: and ye are clean, but not all.</span>
 </div>
 <div class="verse" id="v11">
-    <b>11</b> For he knew who should betray him; therefore said he, <woc>Ye are not all clean.</woc>
+    <b>11</b> For he knew who should betray him; therefore said he, <span style="color:red;">Ye are not all clean.</span>
 </div>
 <div class="verse" id="v12">
-    <b>12</b> So after he had washed their feet, and had taken his garments, and was set down again, he said unto them, <woc>Know ye what I have done to you?</woc>
+    <b>12</b> So after he had washed their feet, and had taken his garments, and was set down again, he said unto them, <span style="color:red;">Know ye what I have done to you?</span>
 </div>
 <div class="verse" id="v13">
-    <b>13</b> <woc>Ye call me Master and Lord: and ye say well; for <i>so</i> I am.</woc>
+    <b>13</b> <span style="color:red;">Ye call me Master and Lord: and ye say well; for <i>so</i> I am.</span>
 </div>
 <div class="verse" id="v14">
-    <b>14</b> <woc>If I then, <i>your</i> Lord and Master, have washed your feet; ye also ought to wash one another's feet.</woc>
+    <b>14</b> <span style="color:red;">If I then, <i>your</i> Lord and Master, have washed your feet; ye also ought to wash one another's feet.</span>
 </div>
 <div class="verse" id="v15">
-    <b>15</b> <woc>For I have given you an example, that ye should do as I have done to you.</woc>
+    <b>15</b> <span style="color:red;">For I have given you an example, that ye should do as I have done to you.</span>
 </div>
 <div class="verse" id="v16">
-    <b>16</b> <woc>Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.</woc>
+    <b>16</b> <span style="color:red;">Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.</span>
 </div>
 <div class="verse" id="v17">
-    <b>17</b> <woc>If ye know these things, happy are ye if ye do them.</woc>
+    <b>17</b> <span style="color:red;">If ye know these things, happy are ye if ye do them.</span>
 </div>
 <div class="verse" id="v18">
-    <b>18</b> <woc>I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.</woc>
+    <b>18</b> <span style="color:red;">I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.</span>
 </div>
 <div class="verse" id="v19">
-    <b>19</b> <woc>Now I tell you before it come, that, when it is come to pass, ye may believe that I am <i>he</i>.</woc>
+    <b>19</b> <span style="color:red;">Now I tell you before it come, that, when it is come to pass, ye may believe that I am <i>he</i>.</span>
 </div>
 <div class="verse" id="v20">
-    <b>20</b> <woc>Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.</woc>
+    <b>20</b> <span style="color:red;">Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.</span>
 </div>
 <div class="verse" id="v21">
-    <b>21</b> When Jesus had thus said, he was troubled in spirit, and testified, and said, <woc>Verily, verily, I say unto you, that one of you shall betray me.</woc>
+    <b>21</b> When Jesus had thus said, he was troubled in spirit, and testified, and said, <span style="color:red;">Verily, verily, I say unto you, that one of you shall betray me.</span>
 </div>
 <div class="verse" id="v22">
     <b>22</b> Then the disciples looked one on another, doubting of whom he spake.
@@ -156,10 +149,10 @@
     <b>25</b> He then lying on Jesus' breast saith unto him, Lord, who is it?
 </div>
 <div class="verse" id="v26">
-    <b>26</b> Jesus answered, <woc>He it is, to whom I shall give a sop, when I have dipped <i>it</i>.</woc> And when he had dipped the sop, he gave <i>it</i> to Judas Iscariot, <i>the son</i> of Simon.
+    <b>26</b> Jesus answered, <span style="color:red;">He it is, to whom I shall give a sop, when I have dipped <i>it</i>.</span> And when he had dipped the sop, he gave <i>it</i> to Judas Iscariot, <i>the son</i> of Simon.
 </div>
 <div class="verse" id="v27">
-    <b>27</b> And after the sop Satan entered into him. Then said Jesus unto him, <woc>That thou doest, do quickly.</woc>
+    <b>27</b> And after the sop Satan entered into him. Then said Jesus unto him, <span style="color:red;">That thou doest, do quickly.</span>
 </div>
 <div class="verse" id="v28">
     <b>28</b> Now no man at the table knew for what intent he spake this unto him.
@@ -171,43 +164,87 @@
     <b>30</b> He then having received the sop went immediately out: and it was night.
 </div>
 <div class="verse" id="v31">
-    <b>31</b> Therefore, when he was gone out, Jesus said, <woc>Now is the Son of man glorified, and God is glorified in him.</woc>
+    <b>31</b> Therefore, when he was gone out, Jesus said, <span style="color:red;">Now is the Son of man glorified, and God is glorified in him.</span>
 </div>
 <div class="verse" id="v32">
-    <b>32</b> <woc>If God be glorified in him, God shall also glorify him in himself, and shall straightway glorify him.</woc>
+    <b>32</b> <span style="color:red;">If God be glorified in him, God shall also glorify him in himself, and shall straightway glorify him.</span>
 </div>
 <div class="verse" id="v33">
-    <b>33</b> <woc>Little children, yet a little while I am with you. Ye shall seek me: and as I said unto the Jews, Whither I go, ye cannot come; so now I say to you.</woc>
+    <b>33</b> <span style="color:red;">Little children, yet a little while I am with you. Ye shall seek me: and as I said unto the Jews, Whither I go, ye cannot come; so now I say to you.</span>
 </div>
 <div class="verse" id="v34">
-    <b>34</b> <woc>A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.</woc>
+    <b>34</b> <span style="color:red;">A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.</span>
 </div>
 <div class="verse" id="v35">
-    <b>35</b> <woc>By this shall all <i>men</i> know that ye are my disciples, if ye have love one to another.</woc>
+    <b>35</b> <span style="color:red;">By this shall all <i>men</i> know that ye are my disciples, if ye have love one to another.</span>
 </div>
 <div class="verse" id="v36">
-    <b>36</b> Simon Peter said unto him, Lord, whither goest thou? Jesus answered him, <woc>Whither I go, thou canst not follow me now; but thou shalt follow me afterwards.</woc>
+    <b>36</b> Simon Peter said unto him, Lord, whither goest thou? Jesus answered him, <span style="color:red;">Whither I go, thou canst not follow me now; but thou shalt follow me afterwards.</span>
 </div>
 <div class="verse" id="v37">
     <b>37</b> Peter said unto him, Lord, why cannot I follow thee now? I will lay down my life for thy sake.
 </div>
 <div class="verse" id="v38">
-    <b>38</b> Jesus answered him, <woc>Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice.</woc>
+    <b>38</b> Jesus answered him, <span style="color:red;">Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice.</span>
 </div>
 
-    <table class="bp_head_foot">
-            <tr>
-              <td width="20"><a href="john_12.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (John 12)" title="Previous chapter (John 12)"></a></td>
-              <td>
-                <h2>John chapter 13</h2>
-              </td>
-              <td width="20"><a href="john_14.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (John 14)" title="Next chapter (John 14)"></a></td>
-            </tr>
-          </table>
+    <table class="bp_head_foot hidden-print" style="margin-top: 7px;">
+              <tr>
+                <td width="20"><a href="john_12.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (John 12)" title="Previous chapter (John 12)"></a></td>
+                <td>
+                  <h2>John chapter 13</h2>
+                </td>
+                <td width="20"><a href="john_14.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (John 14)" title="Next chapter (John 14)"></a></td>
+              </tr>
+            </table>
 </div>
+        </div>
+        <div class="col-md-4 hidden-print">
+          <hr class="featurette-divider hidden-md hidden-lg">
+          <div class="biblenavigation">
+            <h3>Navigate The Bible</h3>
+            <h4>Go To Bible Reference</h4>
+            <div class="versenavigation">
+              <form><label for="vref">Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:</label><fieldset><input type="text" id="vref" maxlength="25"><button class="btn-sm btn-primary" id="gotoverse" type="submit" onclick="GoToVerse(); return false">Go</button></fieldset>
+              </form>
+            </div>
+            <h4 id="gotoChapter">Go To Chapter [John]</h4>
+            <table class="chapternavigation">
+          <tr>
+<td><a href="john_1.html" title="Go to John chapter 1">1</a></td>
+              <td><a href="john_2.html" title="Go to John chapter 2">2</a></td>
+              <td><a href="john_3.html" title="Go to John chapter 3">3</a></td>
+              <td><a href="john_4.html" title="Go to John chapter 4">4</a></td>
+              <td><a href="john_5.html" title="Go to John chapter 5">5</a></td>
+              <td><a href="john_6.html" title="Go to John chapter 6">6</a></td>
+              <td><a href="john_7.html" title="Go to John chapter 7">7</a></td>
+              <td><a href="john_8.html" title="Go to John chapter 8">8</a></td>
+              <td><a href="john_9.html" title="Go to John chapter 9">9</a></td>
+              <td><a href="john_10.html" title="Go to John chapter 10">10</a></td>
+        </tr>
+
+          <tr>
+<td><a href="john_11.html" title="Go to John chapter 11">11</a></td>
+              <td><a href="john_12.html" title="Go to John chapter 12">12</a></td>
+              <td id="currentchapterhighlight">13</td>
+              <td><a href="john_14.html" title="Go to John chapter 14">14</a></td>
+              <td><a href="john_15.html" title="Go to John chapter 15">15</a></td>
+              <td><a href="john_16.html" title="Go to John chapter 16">16</a></td>
+              <td><a href="john_17.html" title="Go to John chapter 17">17</a></td>
+              <td><a href="john_18.html" title="Go to John chapter 18">18</a></td>
+              <td><a href="john_19.html" title="Go to John chapter 19">19</a></td>
+              <td><a href="john_20.html" title="Go to John chapter 20">20</a></td>
+        </tr>
+
+          <tr>
+<td><a href="john_21.html" title="Go to John chapter 21">21</a></td>
+        </tr>
+</table>
+          </div>
+        </div>
       </div>
-      <div class="footerblock">
-            Copyright &copy; 2017 ToDoBible.org. All rights reserved.&nbsp;&nbsp;<a href="#top">Top of page</a></div>
     </div>
-  </body>
+    <div class="container">
+      <hr class="featurette-divider"><footer class="footer text-center"><p>Copyright &copy; 2017 ToDoBible.org. All rights reserved. 
+              <a href="#"><small>Top&nbsp;of&nbsp;page</small></a></p></footer></div><script type="text/javascript" src="../script/biblenav.js"></script><script src="../script/jquery-1.12.4.min.js"></script><script type="text/javascript" src="../script/jquery.scrollTo.js"></script><script src="../script/bootstrap.min.js"></script><script type="text/javascript" src="../script/highlight-verses.js"></script></body>
 </html>

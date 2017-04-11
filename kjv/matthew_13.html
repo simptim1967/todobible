@@ -2,91 +2,77 @@
 <html lang="en-GB">
   <head>
     <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Matthew chapter 13 - King James Bible</title>
     <meta name="description" content="King James Bible: Matthew chapter 13">
     <meta name="keywords" content="king james holy bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV">
-    <meta name="viewport" content="width=1024">
-    <link href="../css/reset.css" rel="stylesheet" type="text/css">
-    <link href="../css/tbpage.css" rel="stylesheet" type="text/css">
-    <link href="../css/biblepage.css" rel="stylesheet" type="text/css">
-    <link href="../css/biblepage_print.css" rel="stylesheet" type="text/css" media="print"><script type="text/javascript" src="../script/biblenav.js"></script><script type="text/javascript" src="../script/jquery-1.4.2.min.js"></script><script type="text/javascript" src="../script/jquery.scrollTo-1.4.2-min.js"></script><script type="text/javascript" src="../script/highlight-verses.js"></script></head>
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/common_page.css" rel="stylesheet">
+    <link href="../css/kjv_page.css" rel="stylesheet">
+  </head>
   <body>
+    <div class="navbar-wrapper">
+      <div class="container"><nav class="navbar navbar-default navbar-static-top"><div class="container">
+            <div class="navbar-header"><button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand disabled"><strong><span style="color: lightskyblue;">ToDo:</span><span style="color: gold;">Bible</span></strong></a></div>
+            <div class="navbar-collapse collapse" id="navbar">
+              <ul class="nav navbar-nav">
+                <li><a href="../index.html">Home</a></li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bible <span class="caret"></span></a><ul class="dropdown-menu">
+                    <li><a href="genesis_1.html">Start Reading The Bible</a></li>
+                    <li><a href="king_james_bible_index_page.html">Bible Index Page</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="matthew_14.html" alt="Next chapter (Matthew 14)" title="Next chapter (Matthew 14)">
+                          Next Chapter
+                        </a></li>
+                    <li><a href="matthew_12.html" alt="Previous chapter (Matthew 12)" title="Previous chapter (Matthew 12)">
+                            Previous Chapter
+                        </a></li>
+                    <li><a href="#gotoChapter" title="Go To Chapter (Matthew)">
+                          Go To Chapter ...</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="#vref">Go To Bible Reference ...</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ToDo <span class="caret"></span></a><ul class="dropdown-menu">
+                    <li><a href="../todo/bible_todo_list_ultimate.html">Ultimate Bible ToDo List</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="../todo/bible_todo_list.html">Bible ToDo List (By Topic)</a></li>
+                    <li><a href="../todo/bible_todo_list_by_bible_book.html">Bible ToDo List (By Bible
+                          Book)</a></li>
+                    <li><a href="../todo/bible_todo_list_by_a_to_z.html">Bible ToDo List (By A-Z)</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="../todo/bible_todo_topics_index.html">ToDo List Topic Index</a></li>
+                  </ul>
+                </li>
+                <li><a href="../about_todo_bible.html">About</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </div>
     <div class="container">
-      <div class="headerblock"><a href="../index.html"><div class="logoblock">
-            <h5><span style="color:white;">TODO:</span><span style="color:gold;">Bible</span></h5>
-            <p>Read it. Believe it.</p>
-            <p><b>Do it!</b></p>
-          </div></a><div class="logoverse">
-          <p>
-                But be ye doers of the word,<br>
-                  and not hearers only,<br>deceiving your own selves.</p><a href="james_1.html?goto=22">James 1:22</a></div>
+      <div class="bpheaderblock hidden-sm hidden-xs">
+        <div class="logoverse">
+          <p><a href="james_1.html?goto=22">But be ye doers of the word,<br>
+                  and not hearers only,<br>
+                  deceiving your own selves.</a></p>
+        </div>
       </div>
-      <div class="contentblock">
-        <div class="leftsidebar">
-          <div class="p_menu"><a href="../index.html">Home</a><a href="../about_todo_bible.html">About TODO:Bible</a><a class="Selected">Read The Bible</a></div>
-          <div class="p_submenu"><a href="king_james_bible_index_page.html">Bible Index Page</a></div>
-          <div class="p_menu"><a href="../todo/bible_todo_list.html">Bible ToDo List</a></div>
-        </div>
-        <div class="rightsidebar">
-          <h4>Navigate The Bible</h4>
-          <h5>Go To Bible Reference</h5>
-          <div class="versenavigation">
-            <form>
-              <p>Type a reference to go to:</p>
-              <fieldset><input type="text" id="vref"><input id="gotoverse" type="submit" value="Go" onclick="GoToVerse(); return false"><p>e.g. 'John 3:16' or 'Ps 23'</p>
-              </fieldset>
-            </form>
-          </div>
-          <h5>Chapter [Matthew]</h5>
-          <table class="chapternavigation">
-          <tr>
-<td><a href="matthew_1.html" title="Go to Matthew chapter 1">1</a></td>
-            <td><a href="matthew_2.html" title="Go to Matthew chapter 2">2</a></td>
-            <td><a href="matthew_3.html" title="Go to Matthew chapter 3">3</a></td>
-            <td><a href="matthew_4.html" title="Go to Matthew chapter 4">4</a></td>
-            <td><a href="matthew_5.html" title="Go to Matthew chapter 5">5</a></td>
-            <td><a href="matthew_6.html" title="Go to Matthew chapter 6">6</a></td>
-            <td><a href="matthew_7.html" title="Go to Matthew chapter 7">7</a></td>
-            <td><a href="matthew_8.html" title="Go to Matthew chapter 8">8</a></td>
-            <td><a href="matthew_9.html" title="Go to Matthew chapter 9">9</a></td>
-            <td><a href="matthew_10.html" title="Go to Matthew chapter 10">10</a></td>
-        </tr>
-
-          <tr>
-<td><a href="matthew_11.html" title="Go to Matthew chapter 11">11</a></td>
-            <td><a href="matthew_12.html" title="Go to Matthew chapter 12">12</a></td>
-            <td id="currentchapterhighlight">13</td>
-            <td><a href="matthew_14.html" title="Go to Matthew chapter 14">14</a></td>
-            <td><a href="matthew_15.html" title="Go to Matthew chapter 15">15</a></td>
-            <td><a href="matthew_16.html" title="Go to Matthew chapter 16">16</a></td>
-            <td><a href="matthew_17.html" title="Go to Matthew chapter 17">17</a></td>
-            <td><a href="matthew_18.html" title="Go to Matthew chapter 18">18</a></td>
-            <td><a href="matthew_19.html" title="Go to Matthew chapter 19">19</a></td>
-            <td><a href="matthew_20.html" title="Go to Matthew chapter 20">20</a></td>
-        </tr>
-
-          <tr>
-<td><a href="matthew_21.html" title="Go to Matthew chapter 21">21</a></td>
-            <td><a href="matthew_22.html" title="Go to Matthew chapter 22">22</a></td>
-            <td><a href="matthew_23.html" title="Go to Matthew chapter 23">23</a></td>
-            <td><a href="matthew_24.html" title="Go to Matthew chapter 24">24</a></td>
-            <td><a href="matthew_25.html" title="Go to Matthew chapter 25">25</a></td>
-            <td><a href="matthew_26.html" title="Go to Matthew chapter 26">26</a></td>
-            <td><a href="matthew_27.html" title="Go to Matthew chapter 27">27</a></td>
-            <td><a href="matthew_28.html" title="Go to Matthew chapter 28">28</a></td>
-        </tr>
-</table>
-        </div>
-        <div class="biblepage">
-    <table class="bp_head_foot">
-            <tr>
-              <td width="20"><a href="matthew_12.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Matthew 12)" title="Previous chapter (Matthew 12)"></a></td>
-              <td>
-                <h1>Matthew chapter 13</h1>
-              </td>
-              <td width="20"><a href="matthew_14.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Matthew 14)" title="Next chapter (Matthew 14)"></a></td>
-            </tr>
-          </table>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <div class="biblepage">
+    <table class="bp_head_foot" width="100%" style="margin-bottom: 7px;">
+              <tr>
+                <td width="20"><a href="matthew_12.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Matthew 12)" title="Previous chapter (Matthew 12)"></a></td>
+                <td>
+                  <h1>Matthew chapter 13</h1>
+                </td>
+                <td width="20"><a href="matthew_14.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Matthew 14)" title="Next chapter (Matthew 14)"></a></td>
+              </tr>
+            </table>
 <div class="verse" id="v1">
     <b>1</b> The same day went Jesus out of the house, and sat by the sea side.
 </div>
@@ -94,97 +80,97 @@
     <b>2</b> And great multitudes were gathered together unto him, so that he went into a ship, and sat; and the whole multitude stood on the shore.
 </div>
 <div class="verse" id="v3">
-    <b>3</b> And he spake many things unto them in parables, saying, <woc>Behold, a sower went forth to sow;</woc>
+    <b>3</b> And he spake many things unto them in parables, saying, <span style="color:red;">Behold, a sower went forth to sow;</span>
 </div>
 <div class="verse" id="v4">
-    <b>4</b> <woc>And when he sowed, some <i>seeds</i> fell by the way side, and the fowls came and devoured them up:</woc>
+    <b>4</b> <span style="color:red;">And when he sowed, some <i>seeds</i> fell by the way side, and the fowls came and devoured them up:</span>
 </div>
 <div class="verse" id="v5">
-    <b>5</b> <woc>Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth:</woc>
+    <b>5</b> <span style="color:red;">Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth:</span>
 </div>
 <div class="verse" id="v6">
-    <b>6</b> <woc>And when the sun was up, they were scorched; and because they had no root, they withered away.</woc>
+    <b>6</b> <span style="color:red;">And when the sun was up, they were scorched; and because they had no root, they withered away.</span>
 </div>
 <div class="verse" id="v7">
-    <b>7</b> <woc>And some fell among thorns; and the thorns sprung up, and choked them:</woc>
+    <b>7</b> <span style="color:red;">And some fell among thorns; and the thorns sprung up, and choked them:</span>
 </div>
 <div class="verse" id="v8">
-    <b>8</b> <woc>But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.</woc>
+    <b>8</b> <span style="color:red;">But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.</span>
 </div>
 <div class="verse" id="v9">
-    <b>9</b> <woc>Who hath ears to hear, let him hear.</woc>
+    <b>9</b> <span style="color:red;">Who hath ears to hear, let him hear.</span>
 </div>
 <div class="verse" id="v10">
     <b>10</b> And the disciples came, and said unto him, Why speakest thou unto them in parables?
 </div>
 <div class="verse" id="v11">
-    <b>11</b> He answered and said unto them, <woc>Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given.</woc>
+    <b>11</b> He answered and said unto them, <span style="color:red;">Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given.</span>
 </div>
 <div class="verse" id="v12">
-    <b>12</b> <woc>For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.</woc>
+    <b>12</b> <span style="color:red;">For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.</span>
 </div>
 <div class="verse" id="v13">
-    <b>13</b> <woc>Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.</woc>
+    <b>13</b> <span style="color:red;">Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.</span>
 </div>
 <div class="verse" id="v14">
-    <b>14</b> <woc>And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:</woc>
+    <b>14</b> <span style="color:red;">And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:</span>
 </div>
 <div class="verse" id="v15">
-    <b>15</b> <woc>For this people's heart is waxed gross, and <i>their</i> ears are dull of hearing, and their eyes they have closed; lest at any time they should see with <i>their</i> eyes, and hear with <i>their</i> ears, and should understand with <i>their</i> heart, and should be converted, and I should heal them.</woc>
+    <b>15</b> <span style="color:red;">For this people's heart is waxed gross, and <i>their</i> ears are dull of hearing, and their eyes they have closed; lest at any time they should see with <i>their</i> eyes, and hear with <i>their</i> ears, and should understand with <i>their</i> heart, and should be converted, and I should heal them.</span>
 </div>
 <div class="verse" id="v16">
-    <b>16</b> <woc>But blessed <i>are</i> your eyes, for they see: and your ears, for they hear.</woc>
+    <b>16</b> <span style="color:red;">But blessed <i>are</i> your eyes, for they see: and your ears, for they hear.</span>
 </div>
 <div class="verse" id="v17">
-    <b>17</b> <woc>For verily I say unto you, That many prophets and righteous <i>men</i> have desired to see <i>those things</i> which ye see, and have not seen <i>them</i>; and to hear <i>those things</i> which ye hear, and have not heard <i>them</i>.</woc>
+    <b>17</b> <span style="color:red;">For verily I say unto you, That many prophets and righteous <i>men</i> have desired to see <i>those things</i> which ye see, and have not seen <i>them</i>; and to hear <i>those things</i> which ye hear, and have not heard <i>them</i>.</span>
 </div>
 <div class="verse" id="v18">
-    <b>18</b> <woc>Hear ye therefore the parable of the sower.</woc>
+    <b>18</b> <span style="color:red;">Hear ye therefore the parable of the sower.</span>
 </div>
 <div class="verse" id="v19">
-    <b>19</b> <woc>When any one heareth the word of the kingdom, and understandeth <i>it</i> not, then cometh the wicked <i>one</i>, and catcheth away that which was sown in his heart. This is he which received seed by the way side.</woc>
+    <b>19</b> <span style="color:red;">When any one heareth the word of the kingdom, and understandeth <i>it</i> not, then cometh the wicked <i>one</i>, and catcheth away that which was sown in his heart. This is he which received seed by the way side.</span>
 </div>
 <div class="verse" id="v20">
-    <b>20</b> <woc>But he that received the seed into stony places, the same is he that heareth the word, and anon with joy receiveth it;</woc>
+    <b>20</b> <span style="color:red;">But he that received the seed into stony places, the same is he that heareth the word, and anon with joy receiveth it;</span>
 </div>
 <div class="verse" id="v21">
-    <b>21</b> <woc>Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended.</woc>
+    <b>21</b> <span style="color:red;">Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended.</span>
 </div>
 <div class="verse" id="v22">
-    <b>22</b> <woc>He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful.</woc>
+    <b>22</b> <span style="color:red;">He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful.</span>
 </div>
 <div class="verse" id="v23">
-    <b>23</b> <woc>But he that received seed into the good ground is he that heareth the word, and understandeth <i>it</i>; which also beareth fruit, and bringeth forth, some an hundredfold, some sixty, some thirty.</woc>
+    <b>23</b> <span style="color:red;">But he that received seed into the good ground is he that heareth the word, and understandeth <i>it</i>; which also beareth fruit, and bringeth forth, some an hundredfold, some sixty, some thirty.</span>
 </div>
 <div class="verse" id="v24">
-    <b>24</b> Another parable put he forth unto them, saying, <woc>The kingdom of heaven is likened unto a man which sowed good seed in his field:</woc>
+    <b>24</b> Another parable put he forth unto them, saying, <span style="color:red;">The kingdom of heaven is likened unto a man which sowed good seed in his field:</span>
 </div>
 <div class="verse" id="v25">
-    <b>25</b> <woc>But while men slept, his enemy came and sowed tares among the wheat, and went his way.</woc>
+    <b>25</b> <span style="color:red;">But while men slept, his enemy came and sowed tares among the wheat, and went his way.</span>
 </div>
 <div class="verse" id="v26">
-    <b>26</b> <woc>But when the blade was sprung up, and brought forth fruit, then appeared the tares also.</woc>
+    <b>26</b> <span style="color:red;">But when the blade was sprung up, and brought forth fruit, then appeared the tares also.</span>
 </div>
 <div class="verse" id="v27">
-    <b>27</b> <woc>So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?</woc>
+    <b>27</b> <span style="color:red;">So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?</span>
 </div>
 <div class="verse" id="v28">
-    <b>28</b> <woc>He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?</woc>
+    <b>28</b> <span style="color:red;">He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?</span>
 </div>
 <div class="verse" id="v29">
-    <b>29</b> <woc>But he said, Nay; lest while ye gather up the tares, ye root up also the wheat with them.</woc>
+    <b>29</b> <span style="color:red;">But he said, Nay; lest while ye gather up the tares, ye root up also the wheat with them.</span>
 </div>
 <div class="verse" id="v30">
-    <b>30</b> <woc>Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.</woc>
+    <b>30</b> <span style="color:red;">Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.</span>
 </div>
 <div class="verse" id="v31">
-    <b>31</b> Another parable put he forth unto them, saying, <woc>The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:</woc>
+    <b>31</b> Another parable put he forth unto them, saying, <span style="color:red;">The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:</span>
 </div>
 <div class="verse" id="v32">
-    <b>32</b> <woc>Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.</woc>
+    <b>32</b> <span style="color:red;">Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.</span>
 </div>
 <div class="verse" id="v33">
-    <b>33</b> Another parable spake he unto them; <woc>The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.</woc>
+    <b>33</b> Another parable spake he unto them; <span style="color:red;">The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.</span>
 </div>
 <div class="verse" id="v34">
     <b>34</b> All these things spake Jesus unto the multitude in parables; and without a parable spake he not unto them:
@@ -196,52 +182,52 @@
     <b>36</b> Then Jesus sent the multitude away, and went into the house: and his disciples came unto him, saying, Declare unto us the parable of the tares of the field.
 </div>
 <div class="verse" id="v37">
-    <b>37</b> He answered and said unto them, <woc>He that soweth the good seed is the Son of man;</woc>
+    <b>37</b> He answered and said unto them, <span style="color:red;">He that soweth the good seed is the Son of man;</span>
 </div>
 <div class="verse" id="v38">
-    <b>38</b> <woc>The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked <i>one</i>;</woc>
+    <b>38</b> <span style="color:red;">The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked <i>one</i>;</span>
 </div>
 <div class="verse" id="v39">
-    <b>39</b> <woc>The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels.</woc>
+    <b>39</b> <span style="color:red;">The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels.</span>
 </div>
 <div class="verse" id="v40">
-    <b>40</b> <woc>As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world.</woc>
+    <b>40</b> <span style="color:red;">As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world.</span>
 </div>
 <div class="verse" id="v41">
-    <b>41</b> <woc>The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;</woc>
+    <b>41</b> <span style="color:red;">The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;</span>
 </div>
 <div class="verse" id="v42">
-    <b>42</b> <woc>And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth.</woc>
+    <b>42</b> <span style="color:red;">And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth.</span>
 </div>
 <div class="verse" id="v43">
-    <b>43</b> <woc>Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.</woc>
+    <b>43</b> <span style="color:red;">Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.</span>
 </div>
 <div class="verse" id="v44">
-    <b>44</b> <woc>Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field.</woc>
+    <b>44</b> <span style="color:red;">Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field.</span>
 </div>
 <div class="verse" id="v45">
-    <b>45</b> <woc>Again, the kingdom of heaven is like unto a merchant man, seeking goodly pearls:</woc>
+    <b>45</b> <span style="color:red;">Again, the kingdom of heaven is like unto a merchant man, seeking goodly pearls:</span>
 </div>
 <div class="verse" id="v46">
-    <b>46</b> <woc>Who, when he had found one pearl of great price, went and sold all that he had, and bought it.</woc>
+    <b>46</b> <span style="color:red;">Who, when he had found one pearl of great price, went and sold all that he had, and bought it.</span>
 </div>
 <div class="verse" id="v47">
-    <b>47</b> <woc>Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:</woc>
+    <b>47</b> <span style="color:red;">Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:</span>
 </div>
 <div class="verse" id="v48">
-    <b>48</b> <woc>Which, when it was full, they drew to shore, and sat down, and gathered the good into vessels, but cast the bad away.</woc>
+    <b>48</b> <span style="color:red;">Which, when it was full, they drew to shore, and sat down, and gathered the good into vessels, but cast the bad away.</span>
 </div>
 <div class="verse" id="v49">
-    <b>49</b> <woc>So shall it be at the end of the world: the angels shall come forth, and sever the wicked from among the just,</woc>
+    <b>49</b> <span style="color:red;">So shall it be at the end of the world: the angels shall come forth, and sever the wicked from among the just,</span>
 </div>
 <div class="verse" id="v50">
-    <b>50</b> <woc>And shall cast them into the furnace of fire: there shall be wailing and gnashing of teeth.</woc>
+    <b>50</b> <span style="color:red;">And shall cast them into the furnace of fire: there shall be wailing and gnashing of teeth.</span>
 </div>
 <div class="verse" id="v51">
-    <b>51</b> Jesus saith unto them, <woc>Have ye understood all these things?</woc> They say unto him, Yea, Lord.
+    <b>51</b> Jesus saith unto them, <span style="color:red;">Have ye understood all these things?</span> They say unto him, Yea, Lord.
 </div>
 <div class="verse" id="v52">
-    <b>52</b> Then said he unto them, <woc>Therefore every scribe <i>which is</i> instructed unto the kingdom of heaven is like unto a man <i>that is</i> an householder, which bringeth forth out of his treasure <i>things</i> new and old.</woc>
+    <b>52</b> Then said he unto them, <span style="color:red;">Therefore every scribe <i>which is</i> instructed unto the kingdom of heaven is like unto a man <i>that is</i> an householder, which bringeth forth out of his treasure <i>things</i> new and old.</span>
 </div>
 <div class="verse" id="v53">
     <b>53</b> And it came to pass, <i>that</i> when Jesus had finished these parables, he departed thence.
@@ -256,25 +242,76 @@
     <b>56</b> And his sisters, are they not all with us? Whence then hath this <i>man</i> all these things?
 </div>
 <div class="verse" id="v57">
-    <b>57</b> And they were offended in him. But Jesus said unto them, <woc>A prophet is not without honour, save in his own country, and in his own house.</woc>
+    <b>57</b> And they were offended in him. But Jesus said unto them, <span style="color:red;">A prophet is not without honour, save in his own country, and in his own house.</span>
 </div>
 <div class="verse" id="v58">
     <b>58</b> And he did not many mighty works there because of their unbelief.
 </div>
 
-    <table class="bp_head_foot">
-            <tr>
-              <td width="20"><a href="matthew_12.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Matthew 12)" title="Previous chapter (Matthew 12)"></a></td>
-              <td>
-                <h2>Matthew chapter 13</h2>
-              </td>
-              <td width="20"><a href="matthew_14.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Matthew 14)" title="Next chapter (Matthew 14)"></a></td>
-            </tr>
-          </table>
+    <table class="bp_head_foot hidden-print" style="margin-top: 7px;">
+              <tr>
+                <td width="20"><a href="matthew_12.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Matthew 12)" title="Previous chapter (Matthew 12)"></a></td>
+                <td>
+                  <h2>Matthew chapter 13</h2>
+                </td>
+                <td width="20"><a href="matthew_14.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Matthew 14)" title="Next chapter (Matthew 14)"></a></td>
+              </tr>
+            </table>
 </div>
+        </div>
+        <div class="col-md-4 hidden-print">
+          <hr class="featurette-divider hidden-md hidden-lg">
+          <div class="biblenavigation">
+            <h3>Navigate The Bible</h3>
+            <h4>Go To Bible Reference</h4>
+            <div class="versenavigation">
+              <form><label for="vref">Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:</label><fieldset><input type="text" id="vref" maxlength="25"><button class="btn-sm btn-primary" id="gotoverse" type="submit" onclick="GoToVerse(); return false">Go</button></fieldset>
+              </form>
+            </div>
+            <h4 id="gotoChapter">Go To Chapter [Matthew]</h4>
+            <table class="chapternavigation">
+          <tr>
+<td><a href="matthew_1.html" title="Go to Matthew chapter 1">1</a></td>
+              <td><a href="matthew_2.html" title="Go to Matthew chapter 2">2</a></td>
+              <td><a href="matthew_3.html" title="Go to Matthew chapter 3">3</a></td>
+              <td><a href="matthew_4.html" title="Go to Matthew chapter 4">4</a></td>
+              <td><a href="matthew_5.html" title="Go to Matthew chapter 5">5</a></td>
+              <td><a href="matthew_6.html" title="Go to Matthew chapter 6">6</a></td>
+              <td><a href="matthew_7.html" title="Go to Matthew chapter 7">7</a></td>
+              <td><a href="matthew_8.html" title="Go to Matthew chapter 8">8</a></td>
+              <td><a href="matthew_9.html" title="Go to Matthew chapter 9">9</a></td>
+              <td><a href="matthew_10.html" title="Go to Matthew chapter 10">10</a></td>
+        </tr>
+
+          <tr>
+<td><a href="matthew_11.html" title="Go to Matthew chapter 11">11</a></td>
+              <td><a href="matthew_12.html" title="Go to Matthew chapter 12">12</a></td>
+              <td id="currentchapterhighlight">13</td>
+              <td><a href="matthew_14.html" title="Go to Matthew chapter 14">14</a></td>
+              <td><a href="matthew_15.html" title="Go to Matthew chapter 15">15</a></td>
+              <td><a href="matthew_16.html" title="Go to Matthew chapter 16">16</a></td>
+              <td><a href="matthew_17.html" title="Go to Matthew chapter 17">17</a></td>
+              <td><a href="matthew_18.html" title="Go to Matthew chapter 18">18</a></td>
+              <td><a href="matthew_19.html" title="Go to Matthew chapter 19">19</a></td>
+              <td><a href="matthew_20.html" title="Go to Matthew chapter 20">20</a></td>
+        </tr>
+
+          <tr>
+<td><a href="matthew_21.html" title="Go to Matthew chapter 21">21</a></td>
+              <td><a href="matthew_22.html" title="Go to Matthew chapter 22">22</a></td>
+              <td><a href="matthew_23.html" title="Go to Matthew chapter 23">23</a></td>
+              <td><a href="matthew_24.html" title="Go to Matthew chapter 24">24</a></td>
+              <td><a href="matthew_25.html" title="Go to Matthew chapter 25">25</a></td>
+              <td><a href="matthew_26.html" title="Go to Matthew chapter 26">26</a></td>
+              <td><a href="matthew_27.html" title="Go to Matthew chapter 27">27</a></td>
+              <td><a href="matthew_28.html" title="Go to Matthew chapter 28">28</a></td>
+        </tr>
+</table>
+          </div>
+        </div>
       </div>
-      <div class="footerblock">
-            Copyright &copy; 2017 ToDoBible.org. All rights reserved.&nbsp;&nbsp;<a href="#top">Top of page</a></div>
     </div>
-  </body>
+    <div class="container">
+      <hr class="featurette-divider"><footer class="footer text-center"><p>Copyright &copy; 2017 ToDoBible.org. All rights reserved. 
+              <a href="#"><small>Top&nbsp;of&nbsp;page</small></a></p></footer></div><script type="text/javascript" src="../script/biblenav.js"></script><script src="../script/jquery-1.12.4.min.js"></script><script type="text/javascript" src="../script/jquery.scrollTo.js"></script><script src="../script/bootstrap.min.js"></script><script type="text/javascript" src="../script/highlight-verses.js"></script></body>
 </html>

@@ -1,0 +1,212 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(http-equiv='Content-Type', content='text/html; charset=utf-8')
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    title King James Bible: Index Page
+    meta(name='description', content='King James Bible Index')
+    meta(name='keywords', content='king james holy bible index, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV')
+    link(href='../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../css/common_page.css', rel='stylesheet')
+    link(href='../css/kjv_page.css', rel='stylesheet')
+  body
+    .navbar-wrapper
+      .container
+        nav.navbar.navbar-default.navbar-static-top
+          .container
+            .navbar-header
+              button.navbar-toggle.collapsed(type='button', data-toggle='collapse', data-target='#navbar', aria-expanded='false', aria-controls='navbar')
+                span.sr-only Toggle navigation
+                span.icon-bar
+                span.icon-bar
+                span.icon-bar
+              a.navbar-brand.disabled
+                strong
+                  span(style='color: lightskyblue;') ToDo:
+                  span(style='color: gold;') Bible
+            #navbar.navbar-collapse.collapse
+              ul.nav.navbar-nav
+                li
+                  a(href='../index.html') Home
+                li.dropdown
+                  a.dropdown-toggle(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
+                    | Bible 
+                    span.caret
+                  ul.dropdown-menu
+                    li
+                      a(href='genesis_1.html') Start Reading The Bible
+                    li.divider(role='separator')
+                    li
+                      a(href='#vref') Go To Bible Reference ...
+                li.dropdown
+                  a.dropdown-toggle(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
+                    | ToDo 
+                    span.caret
+                  ul.dropdown-menu
+                    li
+                      a(href='../todo/bible_todo_list_ultimate.html') Ultimate Bible ToDo List
+                    li.divider(role='separator')
+                    li
+                      a(href='../todo/bible_todo_list.html') Bible ToDo List (By Topic)
+                    li
+                      a(href='../todo/bible_todo_list_by_bible_book.html')
+                        | Bible ToDo List (By Bible
+                        | Book)
+                    li
+                      a(href='../todo/bible_todo_list_by_a_to_z.html') Bible ToDo List (By A-Z)
+                    li.divider(role='separator')
+                    li
+                      a(href='../todo/bible_todo_topics_index.html') ToDo List Topic Index
+                li
+                  a(href='../about_todo_bible.html') About
+    .container
+      .bpheaderblock.hidden-sm.hidden-xs
+        .logoverse
+          p
+            a(href='james_1.html?goto=22')
+              | But be ye doers of the word,
+              br
+              |                   and not hearers only,
+              br
+              |                   deceiving your own selves.
+    // </container>
+    .container
+      .row
+        .col-md-8
+          .biblepage
+            // <biblepage>
+            h1 Bible Index Page
+            hr.featurette-divider
+            .row
+              .col-md-12.hidden-md.hidden-lg.text-center
+                ul.nav.nav-primary.nav-pills.nav-justified
+                  li.active(role='presentation')
+                    a(href='#ot') Old Testament
+                  li(role='presentation')
+                    a(href='#nt') New Testament
+                  li(role='presentation')
+                    a(href='#vref') Go To Bible Reference
+                hr.featurette-divider
+            // /row
+            .row
+              .col-md-6
+                h3#ot
+                  | Old Testament 
+                  span.badge 39
+                //-Now generate the bootstrap panel for each OT book and the page links to each chapter for it.
+                //-Each book has a display name, id name, filename prefix and chapter count.
+                //-If the number of chapters in a book exceeds 99 then the number of links per row is reduced from 10 to 7.  
+
+                - var displayName    = ["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel","1 Kings","2 Kings","1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah", "Esther","Job","Psalms","Proverbs","Ecclesiastes","Song of Solomon","Isaiah","Jeremiah","Lamentations","Ezekiel","Daniel","Hosea","Joel","Amos","Obadiah","Jonah","Micah","Nahum","Habakkuk","Zephaniah","Haggai","Zechariah","Malachi"];
+                - var idName         = ["genesis", "exodus", "leviticus", "numbers", "deuteronomy", "joshua", "judges", "ruth", "1samuel", "2samuel","1kings","2kings","1chronicles", "2chronicles", "ezra", "nehemiah", "esther","job","psalms","proverbs","ecclesiastes","song_of_solomon","isaiah","jeremiah","lamentations","ezekiel","daniel","hosea","joel","amos","obadiah","jonah","micah","nahum","habakkuk","zephaniah","haggai","zechariah","malachi"];
+                - var chapterCount   = [50,40,27,36,34,24,21,4,31,24,22,25,29,36,10,13,10,42,150,31,12,8,66,52,5,48,12,14,3,9,1,4,7,3,3,3,2,14,4];
+                
+                //-Loop through each OT book in turn
+                - for (var i = 0; i<39; i++) {
+
+                //-Start of OT book output
+                - var step = chapterCount[i] > 99 ? 7 : 10;
+                - var idRef = "#" + idName[i];
+                .panel.panel-default
+                  .panel-heading
+                    a(role='button', data-toggle='collapse', href=idRef, aria-expanded='false', aria-controls=idName[i])
+                      b #{displayName[i]}
+                  .panel-content.collapse(id=idName[i])
+                    table.indexnavigation
+                      - var col = 1;
+                      - var chapter=1;
+                      - while (chapter <= chapterCount[i]) {
+                      tr
+                        - while (col <= step && chapter <= chapterCount[i]) {
+                        - pageLink = idName[i] + "_" + chapter + ".html";
+                        - titleText = "Go to " + displayName[i] + " chapter " + chapter;
+                        td
+                          a(href=pageLink, title=titleText) #{chapter}
+                        - ++col;
+                        - ++chapter;
+                        - }
+                        - col=1;
+                      - }
+                //End of OT book output
+                
+                - }
+                //-End loop
+
+              // /col-md-6
+              .col-md-6
+                hr.featurette-divider.hidden-md.hidden-lg
+                h3#nt
+                  | New Testament 
+                  span.badge 27
+
+                //-Now generate the bootstrap panel for each NT book and the page links to each chapter for it.
+                //-Each book has a display name, id name and chapter count.
+
+                - var displayName    = ["Matthew","Mark","Luke","John","Acts","Romans", "1 Corinthians", "2 Corinithians", "Galatians", "Ephesians", "Philippians", "Colossians", "1 Thessalonians", "2 Thessalonians","1 Timothy","2 Timothy","Titus","Philemon","Hebrews","James","1 Peter","2 Peter","1 John","2 John","3 John","Jude","Revelation"];
+                - var idName         = ["matthew","mark","luke","john","acts","romans", "1corinthians", "2corinithians", "galatians", "ephesians", "philippians", "colossians", "1thessalonians", "2thessalonians","1timothy","2timothy","titus","philemon","hebrews","james","1peter","2peter","1john","2john","3john","jude","revelation"];
+                - var chapterCount   = [28,16,24,21,28,16,16,13,6,6,4,4,5,3,6,4,3,1,13,5,5,3,5,1,1,1,22];
+                
+                //-Loop through each NT book in turn
+                - for (var i = 0; i<27; i++) {
+
+                //-Start of NT book output
+                - var step = chapterCount[i] > 99 ? 7 : 10;
+                - var idRef = "#" + idName[i];
+                .panel.panel-default
+                  .panel-heading
+                    a(role='button', data-toggle='collapse', href=idRef, aria-expanded='false', aria-controls=idName[i])
+                      b #{displayName[i]}
+                  .panel-content.collapse(id=idName[i])
+                    table.indexnavigation
+                      - var col = 1;
+                      - var chapter=1;
+                      - while (chapter <= chapterCount[i]) {
+                      tr
+                        - while (col <= step && chapter <= chapterCount[i]) {
+                        - pageLink = idName[i] + "_" + chapter + ".html";
+                        - titleText = "Go to " + displayName[i] + " chapter " + chapter;
+                        td
+                          a(href=pageLink, title=titleText) #{chapter}
+                        - ++col;
+                        - ++chapter;
+                        - }
+                        - col=1;
+                      - }
+                //End of NT book output
+                
+                - }
+                //-End loop
+
+              // /col-md-6
+            // /row
+            hr.featurette-divider
+            h2 Bible Index Page
+          // </biblepage>
+        // /col-md-8
+        .col-md-4.hidden-print
+          hr.featurette-divider.hidden-md.hidden-lg
+          .biblenavigation.hidden-print
+            h3#goto Navigate The Bible
+            h4 Go To Bible Reference
+            .versenavigation
+              form
+                label(for='vref') Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:
+                fieldset
+                  input#vref(type='text', maxlength='25')
+                  button#gotoverse.btn-sm.btn-primary(type='submit', onclick='GoToVerse(); return false') Go
+        // /col-md-4
+      // </row>
+    // </container>
+    .container
+      hr.featurette-divider
+      footer.footer.text-center
+        p
+          | Copyright © 2017 ToDoBible.org. All rights reserved.
+          a(href='#')
+            small Top of page
+    script(type='text/javascript', src='../script/biblenav.js')
+    script(src='../script/jquery-1.12.4.min.js')
+    script(type='text/javascript', src='../script/jquery.scrollTo.js')
+    script(src='../script/bootstrap.min.js')

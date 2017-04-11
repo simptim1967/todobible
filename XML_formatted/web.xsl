@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <!--<xsl:output
     method="html"
     doctype-public="XSLT-compat"
@@ -13,86 +13,134 @@
 </xsl:text>
     <html lang="en-GB"> 
       <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags-->
         <xsl:call-template name="PageTitle" />
         <meta name="keywords" content="king james holy bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV" />
-        <meta name="viewport" content="width=1024" />
-        <link href="../css/reset.css" rel="stylesheet" type="text/css" />
-        <link href="../css/tbpage.css" rel="stylesheet" type="text/css" />
-        <link href="../css/biblepage.css" rel="stylesheet" type="text/css" />
-		<link href="../css/biblepage_print.css" rel="stylesheet" type="text/css" media="print" />
-        <script type="text/javascript" src="../script/biblenav.js"></script>
-        <script type="text/javascript" src="../script/jquery-1.4.2.min.js"></script>
-        <script type="text/javascript" src="../script/jquery.scrollTo-1.4.2-min.js"></script>
-        <script type="text/javascript" src="../script/highlight-verses.js"></script>
+ 
+        <!-- Bootstrap-->
+        <link href="../css/bootstrap.min.css" rel="stylesheet" />
+        <link href="../css/common_page.css" rel="stylesheet" />
+        <link href="../css/kjv_page.css" rel="stylesheet" />
       </head>
       <body>
-        <div class="container">
-          <!--Begin container-->
-          <div class="headerblock">
-            <!--Begin headerblock-->
-            <a href="../index.html">
-              <div class="logoblock">
-                <!--Begin logoblock-->
-                <h5>
-                  <span style="color:white;">TODO:</span>
-                  <span style="color:gold;">Bible</span>
-                </h5>
-                <p>Read it. Believe it.</p>
-                <p>
-                  <b>Do it!</b>
-                </p>
+        <!-- Bible page menu -->
+        <div class="navbar-wrapper">
+          <div class="container">
+            <nav class="navbar navbar-default navbar-static-top">
+              <div class="container">
+                <div class="navbar-header">
+                  <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#navbar"
+                          aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                  <a class="navbar-brand disabled"><strong><span style="color: lightskyblue;">ToDo:</span><span
+                          style="color: gold;">Bible</span></strong></a>
+                </div>
+                <div class="navbar-collapse collapse" id="navbar">
+                  <ul class="nav navbar-nav">
+                    <li><a href="../index.html">Home</a></li>
+                    <li class="dropdown">
+                      <a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button"
+                                            aria-haspopup="true" aria-expanded="false">Bible <span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="genesis_1.html">Start Reading The Bible</a></li>
+                        <li><a href="king_james_bible_index_page.html">Bible Index Page</a></li>
+                        <li class="divider" role="separator"></li>
+                        <li><a>
+                          <xsl:attribute name="href">
+                            <xsl:value-of select="/bible/book/chapter/attribute::nextChapter"/>
+                          </xsl:attribute>
+                          <xsl:attribute name="alt">Next chapter (<xsl:value-of select="/bible/book/chapter/attribute::nextTitle"/>)</xsl:attribute>
+                          <xsl:attribute name="title">Next chapter (<xsl:value-of select="/bible/book/chapter/attribute::nextTitle"/>)</xsl:attribute>
+                          Next Chapter
+                        </a></li>
+                        <li><a>
+                            <xsl:attribute name="href">
+                              <xsl:value-of select="/bible/book/chapter/attribute::prevChapter"/>
+                            </xsl:attribute>
+                              <xsl:attribute name="alt">Previous chapter (<xsl:value-of select="/bible/book/chapter/attribute::prevTitle"/>)</xsl:attribute>
+                              <xsl:attribute name="title">Previous chapter (<xsl:value-of select="/bible/book/chapter/attribute::prevTitle"/>)</xsl:attribute>
+                            Previous Chapter
+                        </a></li>
+                        <li><a href="#gotoChapter">
+                          <xsl:attribute name="title">Go To Chapter (<xsl:value-of select="/bible/book/attribute::title"/>)</xsl:attribute>
+                          Go To Chapter ...</a></li>
+                        <li class="divider" role="separator"></li>
+                        <li><a href="#vref">Go To Bible Reference ...</a></li>
+                      </ul>
+                    </li>
+                    <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button"
+                                            aria-haspopup="true" aria-expanded="false">ToDo <span
+                            class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="../todo/bible_todo_list_ultimate.html">Ultimate Bible ToDo List</a></li>
+                        <li class="divider" role="separator"></li>
+                        <li><a href="../todo/bible_todo_list.html">Bible ToDo List (By Topic)</a></li>
+                        <li><a href="../todo/bible_todo_list_by_bible_book.html">Bible ToDo List (By Bible
+                          Book)</a></li>
+                        <li><a href="../todo/bible_todo_list_by_a_to_z.html">Bible ToDo List (By A-Z)</a></li>
+                        <li class="divider" role="separator"></li>
+                        <li><a href="../todo/bible_todo_topics_index.html">ToDo List Topic Index</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="../about_todo_bible.html">About</a></li>
+                  </ul>
+                </div>
               </div>
-              <!--End logoblock-->
-            </a>
-            <div class="logoverse">
-              <!--Begin logoverse-->
-              <p>
-                But be ye doers of the word,<br />
-                  and not hearers only,<br />deceiving your own selves.</p>
-              <a href="james_1.html?goto=22">James 1:22</a>
-            </div>
-            <!--End logoverse-->
+            </nav>
           </div>
-          <!--End headerblock-->
-          <div class="contentblock">
-            <!--Begin contentblock-->
-            <div class="leftsidebar">
-              <!--Begin leftsidebar-->
-              <div class="p_menu">
-                <!--Begin p_menu-->
-                <a href="../index.html">Home</a>
-                <a href="../about_todo_bible.html">About TODO:Bible</a>
-                <a class="Selected">Read The Bible</a>
-              </div>
-              <!--End p_menu-->
-              <div class="p_submenu">
-                <!--Begin p_submenu-->
-                <a href="king_james_bible_index_page.html">Bible Index Page</a>
-              </div>
-              <!--End p_submenu-->
-              <div class="p_menu">
-                <!--Begin p_menu-->
-                <a href="../todo/bible_todo_list.html">Bible ToDo List</a>
-              </div>
-              <!--End p_menu-->
+        </div>
+
+        <!-- Bible page header -->
+        <div class="container">
+          <div class="bpheaderblock hidden-sm hidden-xs">
+            <div class="logoverse">
+
+              <p>
+                <a href="james_1.html?goto=22">But be ye doers of the word,<br/>
+                  and not hearers only,<br/>
+                  deceiving your own selves.</a>
+              </p>
+
             </div>
-            <!--End leftsidebar-->
-            <div class="rightsidebar">
-              <!--Begin rightsidebar-->
-              <h4>Navigate The Bible</h4>
-              <h5>Go To Bible Reference</h5>
+          </div>
+        </div>
+
+        <!-- Bible page content -->
+        <div class="container">
+          <div class="row">
+        <!-- Bible chapter content -->
+        <div class="col-md-8">
+          <div class="biblepage">
+              <!--Begin biblepage-->
+              <xsl:call-template name="ChapterHeading" />
+              <xsl:call-template name="ChapterContent" />
+              <xsl:call-template name="ChapterFooter" />
+          </div>
+        </div><!--/col-md-8-->
+            <!-- Bible page navigation -->
+        <div class="col-md-4 hidden-print">
+          <hr class="featurette-divider hidden-md hidden-lg" />
+            <div class="biblenavigation">
+              <h3>Navigate The Bible</h3>
+              <h4>Go To Bible Reference</h4>
               <div class="versenavigation">
                 <form>
-                  <p>Type a reference to go to:</p>
+                  <label for="vref">Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:</label>
                   <fieldset>
-                    <input type="text" id="vref" />
-                    <input id="gotoverse" type="submit" value="Go" onclick="GoToVerse(); return false" />
-                    <p>e.g. 'John 3:16' or 'Ps 23'</p>
+                    <input type="text" id="vref" maxlength="25" />
+                    <button class="btn-sm btn-primary" id="gotoverse" type="submit" onclick="GoToVerse(); return false">Go</button>
                   </fieldset>
                 </form>
               </div>
               <!--End versenavigation-->
-              <h5>Chapter [<xsl:value-of select="/bible/book/attribute::title"/>]</h5>
+              <h4 id="gotoChapter">Go To Chapter [<xsl:value-of select="/bible/book/attribute::title"/>]</h4>
               <table class="chapternavigation">
                 <xsl:variable name="lastChapter" select="/bible/book/attribute::chapterCount"/>
                 <xsl:choose>
@@ -105,7 +153,7 @@
                       </xsl:with-param>
                       <xsl:with-param name="lastChapter" select="/bible/book/attribute::chapterCount">
                       </xsl:with-param>
-                      <xsl:with-param name="max" select="7">
+                      <xsl:with-param name="max" select="7"><!--Max columns per chapter navigation row-->
                       </xsl:with-param>
                     </xsl:call-template>
                   </xsl:when>
@@ -124,28 +172,33 @@
                   </xsl:otherwise>
                 </xsl:choose>
               </table>
-            </div>
-            <!--End rightsidebar-->
-            <div class="biblepage">
-              <!--Begin biblepage-->
-              <xsl:call-template name="ChapterHeading" />
-              <xsl:call-template name="ChapterContent" />
-              <xsl:call-template name="ChapterFooter" />
-            </div>
-            <!--End biblepage-->
-          </div>
-          <!--End contentblock-->
-          <div class="footerblock">
-            <!--Begin footerblock-->
-            Copyright <xsl:text disable-output-escaping="yes">&amp;copy;</xsl:text> 2017 ToDoBible.org. All rights reserved.<xsl:text disable-output-escaping="yes">&amp;nbsp;&amp;nbsp;</xsl:text><a href="#top">Top of page</a>
-          </div>
-          <!--End footerblock-->
+            </div><!--/biblenavigation-->
+         </div><!--/col-md-4-->
+          </div><!--/row-->
+        </div><!--/container-->
+
+        <!-- Bible page footer -->
+        <div class="container">
+          <hr class="featurette-divider" />
+          <footer class="footer text-center">
+            <p>Copyright <xsl:text disable-output-escaping='yes'>&amp;copy;</xsl:text> 2017 ToDoBible.org. All rights reserved. 
+              <a href="#"><small><xsl:text disable-output-escaping='yes'>Top&amp;nbsp;of&amp;nbsp;page</xsl:text></small></a>
+            </p>
+          </footer>
         </div>
-        <!--End container-->
+
+        <!-- end of bible page content -->
+        <script type="text/javascript" src="../script/biblenav.js"></script>
+        <script src="../script/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" src="../script/jquery.scrollTo.js"></script>
+        <script src="../script/bootstrap.min.js"></script>
+        <script type="text/javascript" src="../script/highlight-verses.js"></script>
       </body>
     </html>
   </xsl:template>
 
+  <!-- XSL TEMPLATE CODE STARTS HERE -->
+  
   <xsl:template name="loop">
     <xsl:param name="i"></xsl:param>
     <xsl:param name="currentChapter"></xsl:param>
@@ -219,7 +272,7 @@
     <xsl:text>
     </xsl:text>
     <!-- Generate header for this chapter -->
-      <table class="bp_head_foot">
+      <table class="bp_head_foot" width="100%" style="margin-bottom: 7px;">
         <tr>
           <td width="20">
             <a>
@@ -264,8 +317,8 @@
   <xsl:template name="ChapterFooter">
     <xsl:text>
     </xsl:text>
-    <!-- Generate footer for this chapter -->
-      <table class="bp_head_foot">
+    <!-- Generate footer for this chapter and make it hidden on print -->
+      <table class="bp_head_foot hidden-print" style="margin-top: 7px;">
         <tr>
           <td width="20">
             <a>
@@ -335,7 +388,7 @@
   </xsl:template>
 
   <xsl:template match="caption">
-    <p>
+    <p class="text-center">
       <xsl:value-of disable-output-escaping="yes" select="."/>
     </p>
     <xsl:text>

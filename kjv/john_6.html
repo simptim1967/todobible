@@ -2,84 +2,77 @@
 <html lang="en-GB">
   <head>
     <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>John chapter 6 - King James Bible</title>
     <meta name="description" content="King James Bible: John chapter 6">
     <meta name="keywords" content="king james holy bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV">
-    <meta name="viewport" content="width=1024">
-    <link href="../css/reset.css" rel="stylesheet" type="text/css">
-    <link href="../css/tbpage.css" rel="stylesheet" type="text/css">
-    <link href="../css/biblepage.css" rel="stylesheet" type="text/css">
-    <link href="../css/biblepage_print.css" rel="stylesheet" type="text/css" media="print"><script type="text/javascript" src="../script/biblenav.js"></script><script type="text/javascript" src="../script/jquery-1.4.2.min.js"></script><script type="text/javascript" src="../script/jquery.scrollTo-1.4.2-min.js"></script><script type="text/javascript" src="../script/highlight-verses.js"></script></head>
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/common_page.css" rel="stylesheet">
+    <link href="../css/kjv_page.css" rel="stylesheet">
+  </head>
   <body>
+    <div class="navbar-wrapper">
+      <div class="container"><nav class="navbar navbar-default navbar-static-top"><div class="container">
+            <div class="navbar-header"><button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand disabled"><strong><span style="color: lightskyblue;">ToDo:</span><span style="color: gold;">Bible</span></strong></a></div>
+            <div class="navbar-collapse collapse" id="navbar">
+              <ul class="nav navbar-nav">
+                <li><a href="../index.html">Home</a></li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bible <span class="caret"></span></a><ul class="dropdown-menu">
+                    <li><a href="genesis_1.html">Start Reading The Bible</a></li>
+                    <li><a href="king_james_bible_index_page.html">Bible Index Page</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="john_7.html" alt="Next chapter (John 7)" title="Next chapter (John 7)">
+                          Next Chapter
+                        </a></li>
+                    <li><a href="john_5.html" alt="Previous chapter (John 5)" title="Previous chapter (John 5)">
+                            Previous Chapter
+                        </a></li>
+                    <li><a href="#gotoChapter" title="Go To Chapter (John)">
+                          Go To Chapter ...</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="#vref">Go To Bible Reference ...</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ToDo <span class="caret"></span></a><ul class="dropdown-menu">
+                    <li><a href="../todo/bible_todo_list_ultimate.html">Ultimate Bible ToDo List</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="../todo/bible_todo_list.html">Bible ToDo List (By Topic)</a></li>
+                    <li><a href="../todo/bible_todo_list_by_bible_book.html">Bible ToDo List (By Bible
+                          Book)</a></li>
+                    <li><a href="../todo/bible_todo_list_by_a_to_z.html">Bible ToDo List (By A-Z)</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="../todo/bible_todo_topics_index.html">ToDo List Topic Index</a></li>
+                  </ul>
+                </li>
+                <li><a href="../about_todo_bible.html">About</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </div>
     <div class="container">
-      <div class="headerblock"><a href="../index.html"><div class="logoblock">
-            <h5><span style="color:white;">TODO:</span><span style="color:gold;">Bible</span></h5>
-            <p>Read it. Believe it.</p>
-            <p><b>Do it!</b></p>
-          </div></a><div class="logoverse">
-          <p>
-                But be ye doers of the word,<br>
-                  and not hearers only,<br>deceiving your own selves.</p><a href="james_1.html?goto=22">James 1:22</a></div>
+      <div class="bpheaderblock hidden-sm hidden-xs">
+        <div class="logoverse">
+          <p><a href="james_1.html?goto=22">But be ye doers of the word,<br>
+                  and not hearers only,<br>
+                  deceiving your own selves.</a></p>
+        </div>
       </div>
-      <div class="contentblock">
-        <div class="leftsidebar">
-          <div class="p_menu"><a href="../index.html">Home</a><a href="../about_todo_bible.html">About TODO:Bible</a><a class="Selected">Read The Bible</a></div>
-          <div class="p_submenu"><a href="king_james_bible_index_page.html">Bible Index Page</a></div>
-          <div class="p_menu"><a href="../todo/bible_todo_list.html">Bible ToDo List</a></div>
-        </div>
-        <div class="rightsidebar">
-          <h4>Navigate The Bible</h4>
-          <h5>Go To Bible Reference</h5>
-          <div class="versenavigation">
-            <form>
-              <p>Type a reference to go to:</p>
-              <fieldset><input type="text" id="vref"><input id="gotoverse" type="submit" value="Go" onclick="GoToVerse(); return false"><p>e.g. 'John 3:16' or 'Ps 23'</p>
-              </fieldset>
-            </form>
-          </div>
-          <h5>Chapter [John]</h5>
-          <table class="chapternavigation">
-          <tr>
-<td><a href="john_1.html" title="Go to John chapter 1">1</a></td>
-            <td><a href="john_2.html" title="Go to John chapter 2">2</a></td>
-            <td><a href="john_3.html" title="Go to John chapter 3">3</a></td>
-            <td><a href="john_4.html" title="Go to John chapter 4">4</a></td>
-            <td><a href="john_5.html" title="Go to John chapter 5">5</a></td>
-            <td id="currentchapterhighlight">6</td>
-            <td><a href="john_7.html" title="Go to John chapter 7">7</a></td>
-            <td><a href="john_8.html" title="Go to John chapter 8">8</a></td>
-            <td><a href="john_9.html" title="Go to John chapter 9">9</a></td>
-            <td><a href="john_10.html" title="Go to John chapter 10">10</a></td>
-        </tr>
-
-          <tr>
-<td><a href="john_11.html" title="Go to John chapter 11">11</a></td>
-            <td><a href="john_12.html" title="Go to John chapter 12">12</a></td>
-            <td><a href="john_13.html" title="Go to John chapter 13">13</a></td>
-            <td><a href="john_14.html" title="Go to John chapter 14">14</a></td>
-            <td><a href="john_15.html" title="Go to John chapter 15">15</a></td>
-            <td><a href="john_16.html" title="Go to John chapter 16">16</a></td>
-            <td><a href="john_17.html" title="Go to John chapter 17">17</a></td>
-            <td><a href="john_18.html" title="Go to John chapter 18">18</a></td>
-            <td><a href="john_19.html" title="Go to John chapter 19">19</a></td>
-            <td><a href="john_20.html" title="Go to John chapter 20">20</a></td>
-        </tr>
-
-          <tr>
-<td><a href="john_21.html" title="Go to John chapter 21">21</a></td>
-        </tr>
-</table>
-        </div>
-        <div class="biblepage">
-    <table class="bp_head_foot">
-            <tr>
-              <td width="20"><a href="john_5.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (John 5)" title="Previous chapter (John 5)"></a></td>
-              <td>
-                <h1>John chapter 6</h1>
-              </td>
-              <td width="20"><a href="john_7.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (John 7)" title="Next chapter (John 7)"></a></td>
-            </tr>
-          </table>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <div class="biblepage">
+    <table class="bp_head_foot" width="100%" style="margin-bottom: 7px;">
+              <tr>
+                <td width="20"><a href="john_5.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (John 5)" title="Previous chapter (John 5)"></a></td>
+                <td>
+                  <h1>John chapter 6</h1>
+                </td>
+                <td width="20"><a href="john_7.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (John 7)" title="Next chapter (John 7)"></a></td>
+              </tr>
+            </table>
 <div class="verse" id="v1">
     <b>1</b> After these things Jesus went over the sea of Galilee, which is <i>the sea</i> of Tiberias.
 </div>
@@ -93,7 +86,7 @@
     <b>4</b> And the passover, a feast of the Jews, was nigh.
 </div>
 <div class="verse" id="v5">
-    <b>5</b> When Jesus then lifted up <i>his</i> eyes, and saw a great company come unto him, he saith unto Philip, <woc>Whence shall we buy bread, that these may eat?</woc>
+    <b>5</b> When Jesus then lifted up <i>his</i> eyes, and saw a great company come unto him, he saith unto Philip, <span style="color:red;">Whence shall we buy bread, that these may eat?</span>
 </div>
 <div class="verse" id="v6">
     <b>6</b> And this he said to prove him: for he himself knew what he would do.
@@ -108,13 +101,13 @@
     <b>9</b> There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many?
 </div>
 <div class="verse" id="v10">
-    <b>10</b> And Jesus said, <woc>Make the men sit down.</woc> Now there was much grass in the place. So the men sat down, in number about five thousand.
+    <b>10</b> And Jesus said, <span style="color:red;">Make the men sit down.</span> Now there was much grass in the place. So the men sat down, in number about five thousand.
 </div>
 <div class="verse" id="v11">
     <b>11</b> And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would.
 </div>
 <div class="verse" id="v12">
-    <b>12</b> When they were filled, he said unto his disciples, <woc>Gather up the fragments that remain, that nothing be lost.</woc>
+    <b>12</b> When they were filled, he said unto his disciples, <span style="color:red;">Gather up the fragments that remain, that nothing be lost.</span>
 </div>
 <div class="verse" id="v13">
     <b>13</b> Therefore they gathered <i>them</i> together, and filled twelve baskets with the fragments of the five barley loaves, which remained over and above unto them that had eaten.
@@ -138,7 +131,7 @@
     <b>19</b> So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid.
 </div>
 <div class="verse" id="v20">
-    <b>20</b> But he saith unto them, <woc>It is I; be not afraid.</woc>
+    <b>20</b> But he saith unto them, <span style="color:red;">It is I; be not afraid.</span>
 </div>
 <div class="verse" id="v21">
     <b>21</b> Then they willingly received him into the ship: and immediately the ship was at the land whither they went.
@@ -156,16 +149,16 @@
     <b>25</b> And when they had found him on the other side of the sea, they said unto him, Rabbi, when camest thou hither?
 </div>
 <div class="verse" id="v26">
-    <b>26</b> Jesus answered them and said, <woc>Verily, verily, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled.</woc>
+    <b>26</b> Jesus answered them and said, <span style="color:red;">Verily, verily, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled.</span>
 </div>
 <div class="verse" id="v27">
-    <b>27</b> <woc>Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.</woc>
+    <b>27</b> <span style="color:red;">Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.</span>
 </div>
 <div class="verse" id="v28">
     <b>28</b> Then said they unto him, What shall we do, that we might work the works of God?
 </div>
 <div class="verse" id="v29">
-    <b>29</b> Jesus answered and said unto them, <woc>This is the work of God, that ye believe on him whom he hath sent.</woc>
+    <b>29</b> Jesus answered and said unto them, <span style="color:red;">This is the work of God, that ye believe on him whom he hath sent.</span>
 </div>
 <div class="verse" id="v30">
     <b>30</b> They said therefore unto him, What sign shewest thou then, that we may see, and believe thee? what dost thou work?
@@ -174,85 +167,85 @@
     <b>31</b> Our fathers did eat manna in the desert; as it is written, He gave them bread from heaven to eat.
 </div>
 <div class="verse" id="v32">
-    <b>32</b> Then Jesus said unto them, <woc>Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven.</woc>
+    <b>32</b> Then Jesus said unto them, <span style="color:red;">Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven.</span>
 </div>
 <div class="verse" id="v33">
-    <b>33</b> <woc>For the bread of God is he which cometh down from heaven, and giveth life unto the world.</woc>
+    <b>33</b> <span style="color:red;">For the bread of God is he which cometh down from heaven, and giveth life unto the world.</span>
 </div>
 <div class="verse" id="v34">
     <b>34</b> Then said they unto him, Lord, evermore give us this bread.
 </div>
 <div class="verse" id="v35">
-    <b>35</b> And Jesus said unto them, <woc>I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.</woc>
+    <b>35</b> And Jesus said unto them, <span style="color:red;">I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.</span>
 </div>
 <div class="verse" id="v36">
-    <b>36</b> <woc>But I said unto you, That ye also have seen me, and believe not.</woc>
+    <b>36</b> <span style="color:red;">But I said unto you, That ye also have seen me, and believe not.</span>
 </div>
 <div class="verse" id="v37">
-    <b>37</b> <woc>All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.</woc>
+    <b>37</b> <span style="color:red;">All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.</span>
 </div>
 <div class="verse" id="v38">
-    <b>38</b> <woc>For I came down from heaven, not to do mine own will, but the will of him that sent me.</woc>
+    <b>38</b> <span style="color:red;">For I came down from heaven, not to do mine own will, but the will of him that sent me.</span>
 </div>
 <div class="verse" id="v39">
-    <b>39</b> <woc>And this is the Father's will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.</woc>
+    <b>39</b> <span style="color:red;">And this is the Father's will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.</span>
 </div>
 <div class="verse" id="v40">
-    <b>40</b> <woc>And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.</woc>
+    <b>40</b> <span style="color:red;">And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.</span>
 </div>
 <div class="verse" id="v41">
-    <b>41</b> The Jews then murmured at him, because he said, <woc>I am the bread which came down from heaven.</woc>
+    <b>41</b> The Jews then murmured at him, because he said, <span style="color:red;">I am the bread which came down from heaven.</span>
 </div>
 <div class="verse" id="v42">
-    <b>42</b> And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, <woc>I came down from heaven?</woc>
+    <b>42</b> And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, <span style="color:red;">I came down from heaven?</span>
 </div>
 <div class="verse" id="v43">
-    <b>43</b> Jesus therefore answered and said unto them, <woc>Murmur not among yourselves.</woc>
+    <b>43</b> Jesus therefore answered and said unto them, <span style="color:red;">Murmur not among yourselves.</span>
 </div>
 <div class="verse" id="v44">
-    <b>44</b> <woc>No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.</woc>
+    <b>44</b> <span style="color:red;">No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.</span>
 </div>
 <div class="verse" id="v45">
-    <b>45</b> <woc>It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.</woc>
+    <b>45</b> <span style="color:red;">It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.</span>
 </div>
 <div class="verse" id="v46">
-    <b>46</b> <woc>Not that any man hath seen the Father, save he which is of God, he hath seen the Father.</woc>
+    <b>46</b> <span style="color:red;">Not that any man hath seen the Father, save he which is of God, he hath seen the Father.</span>
 </div>
 <div class="verse" id="v47">
-    <b>47</b> <woc>Verily, verily, I say unto you, He that believeth on me hath everlasting life.</woc>
+    <b>47</b> <span style="color:red;">Verily, verily, I say unto you, He that believeth on me hath everlasting life.</span>
 </div>
 <div class="verse" id="v48">
-    <b>48</b> <woc>I am that bread of life.</woc>
+    <b>48</b> <span style="color:red;">I am that bread of life.</span>
 </div>
 <div class="verse" id="v49">
-    <b>49</b> <woc>Your fathers did eat manna in the wilderness, and are dead.</woc>
+    <b>49</b> <span style="color:red;">Your fathers did eat manna in the wilderness, and are dead.</span>
 </div>
 <div class="verse" id="v50">
-    <b>50</b> <woc>This is the bread which cometh down from heaven, that a man may eat thereof, and not die.</woc>
+    <b>50</b> <span style="color:red;">This is the bread which cometh down from heaven, that a man may eat thereof, and not die.</span>
 </div>
 <div class="verse" id="v51">
-    <b>51</b> <woc>I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world.</woc>
+    <b>51</b> <span style="color:red;">I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world.</span>
 </div>
 <div class="verse" id="v52">
     <b>52</b> The Jews therefore strove among themselves, saying, How can this man give us <i>his</i> flesh to eat?
 </div>
 <div class="verse" id="v53">
-    <b>53</b> Then Jesus said unto them, <woc>Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you.</woc>
+    <b>53</b> Then Jesus said unto them, <span style="color:red;">Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you.</span>
 </div>
 <div class="verse" id="v54">
-    <b>54</b> <woc>Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day.</woc>
+    <b>54</b> <span style="color:red;">Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day.</span>
 </div>
 <div class="verse" id="v55">
-    <b>55</b> <woc>For my flesh is meat indeed, and my blood is drink indeed.</woc>
+    <b>55</b> <span style="color:red;">For my flesh is meat indeed, and my blood is drink indeed.</span>
 </div>
 <div class="verse" id="v56">
-    <b>56</b> <woc>He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him.</woc>
+    <b>56</b> <span style="color:red;">He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him.</span>
 </div>
 <div class="verse" id="v57">
-    <b>57</b> <woc>As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me.</woc>
+    <b>57</b> <span style="color:red;">As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me.</span>
 </div>
 <div class="verse" id="v58">
-    <b>58</b> <woc>This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever.</woc>
+    <b>58</b> <span style="color:red;">This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever.</span>
 </div>
 <div class="verse" id="v59">
     <b>59</b> These things said he in the synagogue, as he taught in Capernaum.
@@ -261,25 +254,25 @@
     <b>60</b> Many therefore of his disciples, when they had heard <i>this</i>, said, This is an hard saying; who can hear it?
 </div>
 <div class="verse" id="v61">
-    <b>61</b> When Jesus knew in himself that his disciples murmured at it, he said unto them, <woc>Doth this offend you?</woc>
+    <b>61</b> When Jesus knew in himself that his disciples murmured at it, he said unto them, <span style="color:red;">Doth this offend you?</span>
 </div>
 <div class="verse" id="v62">
-    <b>62</b> <woc><i>What</i> and if ye shall see the Son of man ascend up where he was before?</woc>
+    <b>62</b> <span style="color:red;"><i>What</i> and if ye shall see the Son of man ascend up where he was before?</span>
 </div>
 <div class="verse" id="v63">
-    <b>63</b> <woc>It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, <i>they</i> are spirit, and <i>they</i> are life.</woc>
+    <b>63</b> <span style="color:red;">It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, <i>they</i> are spirit, and <i>they</i> are life.</span>
 </div>
 <div class="verse" id="v64">
-    <b>64</b> <woc>But there are some of you that believe not.</woc> For Jesus knew from the beginning who they were that believed not, and who should betray him.
+    <b>64</b> <span style="color:red;">But there are some of you that believe not.</span> For Jesus knew from the beginning who they were that believed not, and who should betray him.
 </div>
 <div class="verse" id="v65">
-    <b>65</b> And he said, <woc>Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father.</woc>
+    <b>65</b> And he said, <span style="color:red;">Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father.</span>
 </div>
 <div class="verse" id="v66">
     <b>66</b> From that <i>time</i> many of his disciples went back, and walked no more with him.
 </div>
 <div class="verse" id="v67">
-    <b>67</b> Then said Jesus unto the twelve, <woc>Will ye also go away?</woc>
+    <b>67</b> Then said Jesus unto the twelve, <span style="color:red;">Will ye also go away?</span>
 </div>
 <div class="verse" id="v68">
     <b>68</b> Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.
@@ -288,25 +281,69 @@
     <b>69</b> And we believe and are sure that thou art that Christ, the Son of the living God.
 </div>
 <div class="verse" id="v70">
-    <b>70</b> Jesus answered them, <woc>Have not I chosen you twelve, and one of you is a devil?</woc>
+    <b>70</b> Jesus answered them, <span style="color:red;">Have not I chosen you twelve, and one of you is a devil?</span>
 </div>
 <div class="verse" id="v71">
     <b>71</b> He spake of Judas Iscariot <i>the son</i> of Simon: for he it was that should betray him, being one of the twelve.
 </div>
 
-    <table class="bp_head_foot">
-            <tr>
-              <td width="20"><a href="john_5.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (John 5)" title="Previous chapter (John 5)"></a></td>
-              <td>
-                <h2>John chapter 6</h2>
-              </td>
-              <td width="20"><a href="john_7.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (John 7)" title="Next chapter (John 7)"></a></td>
-            </tr>
-          </table>
+    <table class="bp_head_foot hidden-print" style="margin-top: 7px;">
+              <tr>
+                <td width="20"><a href="john_5.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (John 5)" title="Previous chapter (John 5)"></a></td>
+                <td>
+                  <h2>John chapter 6</h2>
+                </td>
+                <td width="20"><a href="john_7.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (John 7)" title="Next chapter (John 7)"></a></td>
+              </tr>
+            </table>
 </div>
+        </div>
+        <div class="col-md-4 hidden-print">
+          <hr class="featurette-divider hidden-md hidden-lg">
+          <div class="biblenavigation">
+            <h3>Navigate The Bible</h3>
+            <h4>Go To Bible Reference</h4>
+            <div class="versenavigation">
+              <form><label for="vref">Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:</label><fieldset><input type="text" id="vref" maxlength="25"><button class="btn-sm btn-primary" id="gotoverse" type="submit" onclick="GoToVerse(); return false">Go</button></fieldset>
+              </form>
+            </div>
+            <h4 id="gotoChapter">Go To Chapter [John]</h4>
+            <table class="chapternavigation">
+          <tr>
+<td><a href="john_1.html" title="Go to John chapter 1">1</a></td>
+              <td><a href="john_2.html" title="Go to John chapter 2">2</a></td>
+              <td><a href="john_3.html" title="Go to John chapter 3">3</a></td>
+              <td><a href="john_4.html" title="Go to John chapter 4">4</a></td>
+              <td><a href="john_5.html" title="Go to John chapter 5">5</a></td>
+              <td id="currentchapterhighlight">6</td>
+              <td><a href="john_7.html" title="Go to John chapter 7">7</a></td>
+              <td><a href="john_8.html" title="Go to John chapter 8">8</a></td>
+              <td><a href="john_9.html" title="Go to John chapter 9">9</a></td>
+              <td><a href="john_10.html" title="Go to John chapter 10">10</a></td>
+        </tr>
+
+          <tr>
+<td><a href="john_11.html" title="Go to John chapter 11">11</a></td>
+              <td><a href="john_12.html" title="Go to John chapter 12">12</a></td>
+              <td><a href="john_13.html" title="Go to John chapter 13">13</a></td>
+              <td><a href="john_14.html" title="Go to John chapter 14">14</a></td>
+              <td><a href="john_15.html" title="Go to John chapter 15">15</a></td>
+              <td><a href="john_16.html" title="Go to John chapter 16">16</a></td>
+              <td><a href="john_17.html" title="Go to John chapter 17">17</a></td>
+              <td><a href="john_18.html" title="Go to John chapter 18">18</a></td>
+              <td><a href="john_19.html" title="Go to John chapter 19">19</a></td>
+              <td><a href="john_20.html" title="Go to John chapter 20">20</a></td>
+        </tr>
+
+          <tr>
+<td><a href="john_21.html" title="Go to John chapter 21">21</a></td>
+        </tr>
+</table>
+          </div>
+        </div>
       </div>
-      <div class="footerblock">
-            Copyright &copy; 2017 ToDoBible.org. All rights reserved.&nbsp;&nbsp;<a href="#top">Top of page</a></div>
     </div>
-  </body>
+    <div class="container">
+      <hr class="featurette-divider"><footer class="footer text-center"><p>Copyright &copy; 2017 ToDoBible.org. All rights reserved. 
+              <a href="#"><small>Top&nbsp;of&nbsp;page</small></a></p></footer></div><script type="text/javascript" src="../script/biblenav.js"></script><script src="../script/jquery-1.12.4.min.js"></script><script type="text/javascript" src="../script/jquery.scrollTo.js"></script><script src="../script/bootstrap.min.js"></script><script type="text/javascript" src="../script/highlight-verses.js"></script></body>
 </html>

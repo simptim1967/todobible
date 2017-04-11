@@ -1,0 +1,248 @@
+/* biblepage.css */
+
+/* navbar */
+.navbar-default {
+    margin-bottom: 10px;
+}
+
+.col-md-4 {
+    padding-left: 0px;
+}
+@media (max-width: 991px) {
+    .col-md-4 {
+        padding-left: 15px;
+    }
+}
+
+/* image header beneath menu */
+
+.bpheaderblock {
+    background-image: url("../images/head.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: 0px;
+    height: 100px;
+    color: gold;
+}
+
+.logoverse {
+    width: auto;
+    padding:18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: Verdana,Geneva,sans-serif;
+    text-align: right;
+    font-size: 1em;
+    font-weight: bold;
+    text-shadow: 0 0 0.3em black, 0 0 0.3em black,0 0 0.3em black,0 0 0.3em black;
+}
+
+.logoverse p {
+    font-style: italic;
+}
+
+.logoverse a {
+    text-decoration: none;
+    color: violet;
+}
+
+.logoverse a:hover {
+    text-decoration: none;
+    color: violet;
+}
+
+/* Bible navigation */
+.biblenavigation {
+    background-color: #64091D; /* wine red */
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+/* Go To Bible reference */
+
+.versenavigation {
+    border: solid #b388ff 1px;
+    padding: 10px;
+}
+
+.versenavigation label {
+    color: #b388ff;
+    font-size: 1.1em;
+}
+
+#vref {
+    border: solid 1px silver;
+    background-color: #E0B4DC;
+    padding: 3px;
+    margin-right: 5px;
+    color: black;
+    width: 60%;
+}
+
+#gotoverse {
+    border: solid 1px silver;
+    background-color: purple; /* violet; */
+}
+
+/* Go To Chapter */
+
+.chapternavigation {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    table-layout: fixed;
+    width: 100%;
+}
+
+.chapternavigation td {
+    border: solid #b388ff 1px;
+    padding: 2px;
+    font-size: small;
+    text-align: center;
+}
+
+#currentchapterhighlight {
+    background-color: #b388ff; 
+    color: #790079; /* purple */
+}
+
+.chapternavigation a {
+    display: block;
+    color: #b388ff;
+    text-decoration: none;
+}
+
+/* Bible page related styling */
+
+.biblepage {
+    margin-top: 10px;
+    background-color: #FFFFFF;
+    padding-top: 14px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    border: solid 1px purple;
+}
+
+.bp_head_foot {
+    width: 100%;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+    background-color: #EEEEEE;
+}
+
+.bp_head_foot img {
+    vertical-align: middle;
+}
+
+.highlightverse {
+    padding: 6px;
+    text-indent: 1em;
+    line-height: 1.3em;
+    background-color: lightpink;
+    font-family: Verdana, "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    color: black;
+}
+
+.verse {
+    font-family: Verdana, "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    padding: 6px;
+    text-indent: 1em;
+    line-height: 1.3em;
+    color: black;
+}
+
+.verse i {
+    color: blue;
+}
+
+.verse:hover {
+    background-color: lemonchiffon;
+    border: solid 1px gray;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: purple;
+    text-align: center;
+    margin-bottom: 4px;
+    margin-top: 0px;
+}
+
+h3 {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-top:solid 1px #b388ff;
+    border-bottom:solid 1px #b388ff;
+    color:purple;
+    background-color: #ce93d8;
+    padding: 2px;
+}
+
+h4 {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #b388ff;
+}
+
+/* bible index page styling */
+.panel {
+    margin-bottom: 1px;
+}
+.panel-heading {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 1.2em;
+}
+.panel-heading a {
+    display: block;
+}
+.indexpage {
+    width: 100%;
+}
+
+.indexpage b {
+    color: purple;
+}
+
+.indexnavigation {
+    background-color: #a7a7a7;
+    width: 100%;
+    background: transparent;
+    table-layout: fixed;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.indexnavigation td {
+    border: solid #D37BDD 1px;
+    padding: 2px;
+    background-color: #F0D1F3;
+    font-size: small;
+    text-align: center;
+}
+
+.indexnavigation a {
+    display: block;
+    color: purple;
+    text-decoration: none;
+}
+

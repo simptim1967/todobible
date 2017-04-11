@@ -2,272 +2,79 @@
 <html lang="en-GB">
   <head>
     <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Psalms chapter 119 - King James Bible</title>
     <meta name="description" content="King James Bible: Psalms chapter 119">
     <meta name="keywords" content="king james holy bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV">
-    <meta name="viewport" content="width=1024">
-    <link href="../css/reset.css" rel="stylesheet" type="text/css">
-    <link href="../css/tbpage.css" rel="stylesheet" type="text/css">
-    <link href="../css/biblepage.css" rel="stylesheet" type="text/css">
-    <link href="../css/biblepage_print.css" rel="stylesheet" type="text/css" media="print"><script type="text/javascript" src="../script/biblenav.js"></script><script type="text/javascript" src="../script/jquery-1.4.2.min.js"></script><script type="text/javascript" src="../script/jquery.scrollTo-1.4.2-min.js"></script><script type="text/javascript" src="../script/highlight-verses.js"></script></head>
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/common_page.css" rel="stylesheet">
+    <link href="../css/kjv_page.css" rel="stylesheet">
+  </head>
   <body>
+    <div class="navbar-wrapper">
+      <div class="container"><nav class="navbar navbar-default navbar-static-top"><div class="container">
+            <div class="navbar-header"><button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand disabled"><strong><span style="color: lightskyblue;">ToDo:</span><span style="color: gold;">Bible</span></strong></a></div>
+            <div class="navbar-collapse collapse" id="navbar">
+              <ul class="nav navbar-nav">
+                <li><a href="../index.html">Home</a></li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bible <span class="caret"></span></a><ul class="dropdown-menu">
+                    <li><a href="genesis_1.html">Start Reading The Bible</a></li>
+                    <li><a href="king_james_bible_index_page.html">Bible Index Page</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="psalms_120.html" alt="Next chapter (Psalms 120)" title="Next chapter (Psalms 120)">
+                          Next Chapter
+                        </a></li>
+                    <li><a href="psalms_118.html" alt="Previous chapter (Psalms 118)" title="Previous chapter (Psalms 118)">
+                            Previous Chapter
+                        </a></li>
+                    <li><a href="#gotoChapter" title="Go To Chapter (Psalms)">
+                          Go To Chapter ...</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="#vref">Go To Bible Reference ...</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ToDo <span class="caret"></span></a><ul class="dropdown-menu">
+                    <li><a href="../todo/bible_todo_list_ultimate.html">Ultimate Bible ToDo List</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="../todo/bible_todo_list.html">Bible ToDo List (By Topic)</a></li>
+                    <li><a href="../todo/bible_todo_list_by_bible_book.html">Bible ToDo List (By Bible
+                          Book)</a></li>
+                    <li><a href="../todo/bible_todo_list_by_a_to_z.html">Bible ToDo List (By A-Z)</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="../todo/bible_todo_topics_index.html">ToDo List Topic Index</a></li>
+                  </ul>
+                </li>
+                <li><a href="../about_todo_bible.html">About</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </div>
     <div class="container">
-      <div class="headerblock"><a href="../index.html"><div class="logoblock">
-            <h5><span style="color:white;">TODO:</span><span style="color:gold;">Bible</span></h5>
-            <p>Read it. Believe it.</p>
-            <p><b>Do it!</b></p>
-          </div></a><div class="logoverse">
-          <p>
-                But be ye doers of the word,<br>
-                  and not hearers only,<br>deceiving your own selves.</p><a href="james_1.html?goto=22">James 1:22</a></div>
+      <div class="bpheaderblock hidden-sm hidden-xs">
+        <div class="logoverse">
+          <p><a href="james_1.html?goto=22">But be ye doers of the word,<br>
+                  and not hearers only,<br>
+                  deceiving your own selves.</a></p>
+        </div>
       </div>
-      <div class="contentblock">
-        <div class="leftsidebar">
-          <div class="p_menu"><a href="../index.html">Home</a><a href="../about_todo_bible.html">About TODO:Bible</a><a class="Selected">Read The Bible</a></div>
-          <div class="p_submenu"><a href="king_james_bible_index_page.html">Bible Index Page</a></div>
-          <div class="p_menu"><a href="../todo/bible_todo_list.html">Bible ToDo List</a></div>
-        </div>
-        <div class="rightsidebar">
-          <h4>Navigate The Bible</h4>
-          <h5>Go To Bible Reference</h5>
-          <div class="versenavigation">
-            <form>
-              <p>Type a reference to go to:</p>
-              <fieldset><input type="text" id="vref"><input id="gotoverse" type="submit" value="Go" onclick="GoToVerse(); return false"><p>e.g. 'John 3:16' or 'Ps 23'</p>
-              </fieldset>
-            </form>
-          </div>
-          <h5>Chapter [Psalms]</h5>
-          <table class="chapternavigation">
-          <tr>
-<td><a href="psalms_1.html" title="Go to Psalms chapter 1">1</a></td>
-            <td><a href="psalms_2.html" title="Go to Psalms chapter 2">2</a></td>
-            <td><a href="psalms_3.html" title="Go to Psalms chapter 3">3</a></td>
-            <td><a href="psalms_4.html" title="Go to Psalms chapter 4">4</a></td>
-            <td><a href="psalms_5.html" title="Go to Psalms chapter 5">5</a></td>
-            <td><a href="psalms_6.html" title="Go to Psalms chapter 6">6</a></td>
-            <td><a href="psalms_7.html" title="Go to Psalms chapter 7">7</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_8.html" title="Go to Psalms chapter 8">8</a></td>
-            <td><a href="psalms_9.html" title="Go to Psalms chapter 9">9</a></td>
-            <td><a href="psalms_10.html" title="Go to Psalms chapter 10">10</a></td>
-            <td><a href="psalms_11.html" title="Go to Psalms chapter 11">11</a></td>
-            <td><a href="psalms_12.html" title="Go to Psalms chapter 12">12</a></td>
-            <td><a href="psalms_13.html" title="Go to Psalms chapter 13">13</a></td>
-            <td><a href="psalms_14.html" title="Go to Psalms chapter 14">14</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_15.html" title="Go to Psalms chapter 15">15</a></td>
-            <td><a href="psalms_16.html" title="Go to Psalms chapter 16">16</a></td>
-            <td><a href="psalms_17.html" title="Go to Psalms chapter 17">17</a></td>
-            <td><a href="psalms_18.html" title="Go to Psalms chapter 18">18</a></td>
-            <td><a href="psalms_19.html" title="Go to Psalms chapter 19">19</a></td>
-            <td><a href="psalms_20.html" title="Go to Psalms chapter 20">20</a></td>
-            <td><a href="psalms_21.html" title="Go to Psalms chapter 21">21</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_22.html" title="Go to Psalms chapter 22">22</a></td>
-            <td><a href="psalms_23.html" title="Go to Psalms chapter 23">23</a></td>
-            <td><a href="psalms_24.html" title="Go to Psalms chapter 24">24</a></td>
-            <td><a href="psalms_25.html" title="Go to Psalms chapter 25">25</a></td>
-            <td><a href="psalms_26.html" title="Go to Psalms chapter 26">26</a></td>
-            <td><a href="psalms_27.html" title="Go to Psalms chapter 27">27</a></td>
-            <td><a href="psalms_28.html" title="Go to Psalms chapter 28">28</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_29.html" title="Go to Psalms chapter 29">29</a></td>
-            <td><a href="psalms_30.html" title="Go to Psalms chapter 30">30</a></td>
-            <td><a href="psalms_31.html" title="Go to Psalms chapter 31">31</a></td>
-            <td><a href="psalms_32.html" title="Go to Psalms chapter 32">32</a></td>
-            <td><a href="psalms_33.html" title="Go to Psalms chapter 33">33</a></td>
-            <td><a href="psalms_34.html" title="Go to Psalms chapter 34">34</a></td>
-            <td><a href="psalms_35.html" title="Go to Psalms chapter 35">35</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_36.html" title="Go to Psalms chapter 36">36</a></td>
-            <td><a href="psalms_37.html" title="Go to Psalms chapter 37">37</a></td>
-            <td><a href="psalms_38.html" title="Go to Psalms chapter 38">38</a></td>
-            <td><a href="psalms_39.html" title="Go to Psalms chapter 39">39</a></td>
-            <td><a href="psalms_40.html" title="Go to Psalms chapter 40">40</a></td>
-            <td><a href="psalms_41.html" title="Go to Psalms chapter 41">41</a></td>
-            <td><a href="psalms_42.html" title="Go to Psalms chapter 42">42</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_43.html" title="Go to Psalms chapter 43">43</a></td>
-            <td><a href="psalms_44.html" title="Go to Psalms chapter 44">44</a></td>
-            <td><a href="psalms_45.html" title="Go to Psalms chapter 45">45</a></td>
-            <td><a href="psalms_46.html" title="Go to Psalms chapter 46">46</a></td>
-            <td><a href="psalms_47.html" title="Go to Psalms chapter 47">47</a></td>
-            <td><a href="psalms_48.html" title="Go to Psalms chapter 48">48</a></td>
-            <td><a href="psalms_49.html" title="Go to Psalms chapter 49">49</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_50.html" title="Go to Psalms chapter 50">50</a></td>
-            <td><a href="psalms_51.html" title="Go to Psalms chapter 51">51</a></td>
-            <td><a href="psalms_52.html" title="Go to Psalms chapter 52">52</a></td>
-            <td><a href="psalms_53.html" title="Go to Psalms chapter 53">53</a></td>
-            <td><a href="psalms_54.html" title="Go to Psalms chapter 54">54</a></td>
-            <td><a href="psalms_55.html" title="Go to Psalms chapter 55">55</a></td>
-            <td><a href="psalms_56.html" title="Go to Psalms chapter 56">56</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_57.html" title="Go to Psalms chapter 57">57</a></td>
-            <td><a href="psalms_58.html" title="Go to Psalms chapter 58">58</a></td>
-            <td><a href="psalms_59.html" title="Go to Psalms chapter 59">59</a></td>
-            <td><a href="psalms_60.html" title="Go to Psalms chapter 60">60</a></td>
-            <td><a href="psalms_61.html" title="Go to Psalms chapter 61">61</a></td>
-            <td><a href="psalms_62.html" title="Go to Psalms chapter 62">62</a></td>
-            <td><a href="psalms_63.html" title="Go to Psalms chapter 63">63</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_64.html" title="Go to Psalms chapter 64">64</a></td>
-            <td><a href="psalms_65.html" title="Go to Psalms chapter 65">65</a></td>
-            <td><a href="psalms_66.html" title="Go to Psalms chapter 66">66</a></td>
-            <td><a href="psalms_67.html" title="Go to Psalms chapter 67">67</a></td>
-            <td><a href="psalms_68.html" title="Go to Psalms chapter 68">68</a></td>
-            <td><a href="psalms_69.html" title="Go to Psalms chapter 69">69</a></td>
-            <td><a href="psalms_70.html" title="Go to Psalms chapter 70">70</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_71.html" title="Go to Psalms chapter 71">71</a></td>
-            <td><a href="psalms_72.html" title="Go to Psalms chapter 72">72</a></td>
-            <td><a href="psalms_73.html" title="Go to Psalms chapter 73">73</a></td>
-            <td><a href="psalms_74.html" title="Go to Psalms chapter 74">74</a></td>
-            <td><a href="psalms_75.html" title="Go to Psalms chapter 75">75</a></td>
-            <td><a href="psalms_76.html" title="Go to Psalms chapter 76">76</a></td>
-            <td><a href="psalms_77.html" title="Go to Psalms chapter 77">77</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_78.html" title="Go to Psalms chapter 78">78</a></td>
-            <td><a href="psalms_79.html" title="Go to Psalms chapter 79">79</a></td>
-            <td><a href="psalms_80.html" title="Go to Psalms chapter 80">80</a></td>
-            <td><a href="psalms_81.html" title="Go to Psalms chapter 81">81</a></td>
-            <td><a href="psalms_82.html" title="Go to Psalms chapter 82">82</a></td>
-            <td><a href="psalms_83.html" title="Go to Psalms chapter 83">83</a></td>
-            <td><a href="psalms_84.html" title="Go to Psalms chapter 84">84</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_85.html" title="Go to Psalms chapter 85">85</a></td>
-            <td><a href="psalms_86.html" title="Go to Psalms chapter 86">86</a></td>
-            <td><a href="psalms_87.html" title="Go to Psalms chapter 87">87</a></td>
-            <td><a href="psalms_88.html" title="Go to Psalms chapter 88">88</a></td>
-            <td><a href="psalms_89.html" title="Go to Psalms chapter 89">89</a></td>
-            <td><a href="psalms_90.html" title="Go to Psalms chapter 90">90</a></td>
-            <td><a href="psalms_91.html" title="Go to Psalms chapter 91">91</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_92.html" title="Go to Psalms chapter 92">92</a></td>
-            <td><a href="psalms_93.html" title="Go to Psalms chapter 93">93</a></td>
-            <td><a href="psalms_94.html" title="Go to Psalms chapter 94">94</a></td>
-            <td><a href="psalms_95.html" title="Go to Psalms chapter 95">95</a></td>
-            <td><a href="psalms_96.html" title="Go to Psalms chapter 96">96</a></td>
-            <td><a href="psalms_97.html" title="Go to Psalms chapter 97">97</a></td>
-            <td><a href="psalms_98.html" title="Go to Psalms chapter 98">98</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_99.html" title="Go to Psalms chapter 99">99</a></td>
-            <td><a href="psalms_100.html" title="Go to Psalms chapter 100">100</a></td>
-            <td><a href="psalms_101.html" title="Go to Psalms chapter 101">101</a></td>
-            <td><a href="psalms_102.html" title="Go to Psalms chapter 102">102</a></td>
-            <td><a href="psalms_103.html" title="Go to Psalms chapter 103">103</a></td>
-            <td><a href="psalms_104.html" title="Go to Psalms chapter 104">104</a></td>
-            <td><a href="psalms_105.html" title="Go to Psalms chapter 105">105</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_106.html" title="Go to Psalms chapter 106">106</a></td>
-            <td><a href="psalms_107.html" title="Go to Psalms chapter 107">107</a></td>
-            <td><a href="psalms_108.html" title="Go to Psalms chapter 108">108</a></td>
-            <td><a href="psalms_109.html" title="Go to Psalms chapter 109">109</a></td>
-            <td><a href="psalms_110.html" title="Go to Psalms chapter 110">110</a></td>
-            <td><a href="psalms_111.html" title="Go to Psalms chapter 111">111</a></td>
-            <td><a href="psalms_112.html" title="Go to Psalms chapter 112">112</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_113.html" title="Go to Psalms chapter 113">113</a></td>
-            <td><a href="psalms_114.html" title="Go to Psalms chapter 114">114</a></td>
-            <td><a href="psalms_115.html" title="Go to Psalms chapter 115">115</a></td>
-            <td><a href="psalms_116.html" title="Go to Psalms chapter 116">116</a></td>
-            <td><a href="psalms_117.html" title="Go to Psalms chapter 117">117</a></td>
-            <td><a href="psalms_118.html" title="Go to Psalms chapter 118">118</a></td>
-            <td id="currentchapterhighlight">119</td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_120.html" title="Go to Psalms chapter 120">120</a></td>
-            <td><a href="psalms_121.html" title="Go to Psalms chapter 121">121</a></td>
-            <td><a href="psalms_122.html" title="Go to Psalms chapter 122">122</a></td>
-            <td><a href="psalms_123.html" title="Go to Psalms chapter 123">123</a></td>
-            <td><a href="psalms_124.html" title="Go to Psalms chapter 124">124</a></td>
-            <td><a href="psalms_125.html" title="Go to Psalms chapter 125">125</a></td>
-            <td><a href="psalms_126.html" title="Go to Psalms chapter 126">126</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_127.html" title="Go to Psalms chapter 127">127</a></td>
-            <td><a href="psalms_128.html" title="Go to Psalms chapter 128">128</a></td>
-            <td><a href="psalms_129.html" title="Go to Psalms chapter 129">129</a></td>
-            <td><a href="psalms_130.html" title="Go to Psalms chapter 130">130</a></td>
-            <td><a href="psalms_131.html" title="Go to Psalms chapter 131">131</a></td>
-            <td><a href="psalms_132.html" title="Go to Psalms chapter 132">132</a></td>
-            <td><a href="psalms_133.html" title="Go to Psalms chapter 133">133</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_134.html" title="Go to Psalms chapter 134">134</a></td>
-            <td><a href="psalms_135.html" title="Go to Psalms chapter 135">135</a></td>
-            <td><a href="psalms_136.html" title="Go to Psalms chapter 136">136</a></td>
-            <td><a href="psalms_137.html" title="Go to Psalms chapter 137">137</a></td>
-            <td><a href="psalms_138.html" title="Go to Psalms chapter 138">138</a></td>
-            <td><a href="psalms_139.html" title="Go to Psalms chapter 139">139</a></td>
-            <td><a href="psalms_140.html" title="Go to Psalms chapter 140">140</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_141.html" title="Go to Psalms chapter 141">141</a></td>
-            <td><a href="psalms_142.html" title="Go to Psalms chapter 142">142</a></td>
-            <td><a href="psalms_143.html" title="Go to Psalms chapter 143">143</a></td>
-            <td><a href="psalms_144.html" title="Go to Psalms chapter 144">144</a></td>
-            <td><a href="psalms_145.html" title="Go to Psalms chapter 145">145</a></td>
-            <td><a href="psalms_146.html" title="Go to Psalms chapter 146">146</a></td>
-            <td><a href="psalms_147.html" title="Go to Psalms chapter 147">147</a></td>
-        </tr>
-
-          <tr>
-<td><a href="psalms_148.html" title="Go to Psalms chapter 148">148</a></td>
-            <td><a href="psalms_149.html" title="Go to Psalms chapter 149">149</a></td>
-            <td><a href="psalms_150.html" title="Go to Psalms chapter 150">150</a></td>
-        </tr>
-</table>
-        </div>
-        <div class="biblepage">
-    <table class="bp_head_foot">
-            <tr>
-              <td width="20"><a href="psalms_118.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Psalms 118)" title="Previous chapter (Psalms 118)"></a></td>
-              <td>
-                <h1>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <div class="biblepage">
+    <table class="bp_head_foot" width="100%" style="margin-bottom: 7px;">
+              <tr>
+                <td width="20"><a href="psalms_118.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Psalms 118)" title="Previous chapter (Psalms 118)"></a></td>
+                <td>
+                  <h1>
                   Psalm 119</h1>
-              </td>
-              <td width="20"><a href="psalms_120.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Psalms 120)" title="Next chapter (Psalms 120)"></a></td>
-            </tr>
-          </table>
-<p>ALEPH</p>
+                </td>
+                <td width="20"><a href="psalms_120.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Psalms 120)" title="Next chapter (Psalms 120)"></a></td>
+              </tr>
+            </table>
+<p class="text-center">ALEPH</p>
 <div class="verse" id="v1">
     <b>1</b> Blessed <i>are</i> the undefiled in the way, who walk in the law of the <span style='font-variant: small-caps'>Lord</span>.
 </div>
@@ -292,7 +99,7 @@
 <div class="verse" id="v8">
     <b>8</b> I will keep thy statutes: O forsake me not utterly.
 </div>
-<p>BETH</p>
+<p class="text-center">BETH</p>
 <div class="verse" id="v9">
     <b>9</b> Wherewithal shall a young man cleanse his way? by taking heed <i>thereto</i> according to thy word.
 </div>
@@ -317,7 +124,7 @@
 <div class="verse" id="v16">
     <b>16</b> I will delight myself in thy statutes: I will not forget thy word.
 </div>
-<p>GIMEL</p>
+<p class="text-center">GIMEL</p>
 <div class="verse" id="v17">
     <b>17</b> Deal bountifully with thy servant, <i>that</i> I may live, and keep thy word.
 </div>
@@ -342,7 +149,7 @@
 <div class="verse" id="v24">
     <b>24</b> Thy testimonies also <i>are</i> my delight <i>and</i> my counsellors.
 </div>
-<p>DALETH</p>
+<p class="text-center">DALETH</p>
 <div class="verse" id="v25">
     <b>25</b> My soul cleaveth unto the dust: quicken thou me according to thy word.
 </div>
@@ -367,7 +174,7 @@
 <div class="verse" id="v32">
     <b>32</b> I will run the way of thy commandments, when thou shalt enlarge my heart.
 </div>
-<p>HE</p>
+<p class="text-center">HE</p>
 <div class="verse" id="v33">
     <b>33</b> Teach me, O <span style='font-variant: small-caps'>Lord</span>, the way of thy statutes; and I shall keep it <i>unto</i> the end.
 </div>
@@ -392,7 +199,7 @@
 <div class="verse" id="v40">
     <b>40</b> Behold, I have longed after thy precepts: quicken me in thy righteousness.
 </div>
-<p>VAU</p>
+<p class="text-center">VAU</p>
 <div class="verse" id="v41">
     <b>41</b> Let thy mercies come also unto me, O <span style='font-variant: small-caps'>Lord</span>, <i>even</i> thy salvation, according to thy word.
 </div>
@@ -417,7 +224,7 @@
 <div class="verse" id="v48">
     <b>48</b> My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes.
 </div>
-<p>ZAIN</p>
+<p class="text-center">ZAIN</p>
 <div class="verse" id="v49">
     <b>49</b> Remember the word unto thy servant, upon which thou hast caused me to hope.
 </div>
@@ -442,7 +249,7 @@
 <div class="verse" id="v56">
     <b>56</b> This I had, because I kept thy precepts.
 </div>
-<p>CHETH</p>
+<p class="text-center">CHETH</p>
 <div class="verse" id="v57">
     <b>57</b> <i>Thou art</i> my portion, O <span style='font-variant: small-caps'>Lord</span>: I have said that I would keep thy words.
 </div>
@@ -467,7 +274,7 @@
 <div class="verse" id="v64">
     <b>64</b> The earth, O <span style='font-variant: small-caps'>Lord</span>, is full of thy mercy: teach me thy statutes.
 </div>
-<p>TETH</p>
+<p class="text-center">TETH</p>
 <div class="verse" id="v65">
     <b>65</b> Thou hast dealt well with thy servant, O <span style='font-variant: small-caps'>Lord</span>, according unto thy word.
 </div>
@@ -492,7 +299,7 @@
 <div class="verse" id="v72">
     <b>72</b> The law of thy mouth <i>is</i> better unto me than thousands of gold and silver.
 </div>
-<p>JOD</p>
+<p class="text-center">JOD</p>
 <div class="verse" id="v73">
     <b>73</b> Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments.
 </div>
@@ -517,7 +324,7 @@
 <div class="verse" id="v80">
     <b>80</b> Let my heart be sound in thy statutes; that I be not ashamed.
 </div>
-<p>CAPH</p>
+<p class="text-center">CAPH</p>
 <div class="verse" id="v81">
     <b>81</b> My soul fainteth for thy salvation: <i>but</i> I hope in thy word.
 </div>
@@ -542,7 +349,7 @@
 <div class="verse" id="v88">
     <b>88</b> Quicken me after thy lovingkindness; so shall I keep the testimony of thy mouth.
 </div>
-<p>LAMED</p>
+<p class="text-center">LAMED</p>
 <div class="verse" id="v89">
     <b>89</b> For ever, O <span style='font-variant: small-caps'>Lord</span>, thy word is settled in heaven.
 </div>
@@ -567,7 +374,7 @@
 <div class="verse" id="v96">
     <b>96</b> I have seen an end of all perfection: <i>but</i> thy commandment <i>is</i> exceeding broad.
 </div>
-<p>MEM</p>
+<p class="text-center">MEM</p>
 <div class="verse" id="v97">
     <b>97</b> O how love I thy law! it <i>is</i> my meditation all the day.
 </div>
@@ -592,7 +399,7 @@
 <div class="verse" id="v104">
     <b>104</b> Through thy precepts I get understanding: therefore I hate every false way.
 </div>
-<p>NUN</p>
+<p class="text-center">NUN</p>
 <div class="verse" id="v105">
     <b>105</b> Thy word <i>is</i> a lamp unto my feet, and a light unto my path.
 </div>
@@ -617,7 +424,7 @@
 <div class="verse" id="v112">
     <b>112</b> I have inclined mine heart to perform thy statutes alway, <i>even unto</i> the end.
 </div>
-<p>SAMECH</p>
+<p class="text-center">SAMECH</p>
 <div class="verse" id="v113">
     <b>113</b> I hate <i>vain</i> thoughts: but thy law do I love.
 </div>
@@ -642,7 +449,7 @@
 <div class="verse" id="v120">
     <b>120</b> My flesh trembleth for fear of thee; and I am afraid of thy judgments.
 </div>
-<p>AIN</p>
+<p class="text-center">AIN</p>
 <div class="verse" id="v121">
     <b>121</b> I have done judgment and justice: leave me not to mine oppressors.
 </div>
@@ -667,7 +474,7 @@
 <div class="verse" id="v128">
     <b>128</b> Therefore I esteem all <i>thy</i> precepts <i>concerning</i> all <i>things to be</i> right; <i>and</i> I hate every false way.
 </div>
-<p>PE</p>
+<p class="text-center">PE</p>
 <div class="verse" id="v129">
     <b>129</b> Thy testimonies <i>are</i> wonderful: therefore doth my soul keep them.
 </div>
@@ -692,7 +499,7 @@
 <div class="verse" id="v136">
     <b>136</b> Rivers of waters run down mine eyes, because they keep not thy law.
 </div>
-<p>TZADDI</p>
+<p class="text-center">TZADDI</p>
 <div class="verse" id="v137">
     <b>137</b> Righteous <i>art</i> thou, O <span style='font-variant: small-caps'>Lord</span>, and upright <i>are</i> thy judgments.
 </div>
@@ -717,7 +524,7 @@
 <div class="verse" id="v144">
     <b>144</b> The righteousness of thy testimonies <i>is</i> everlasting: give me understanding, and I shall live.
 </div>
-<p>KOPH</p>
+<p class="text-center">KOPH</p>
 <div class="verse" id="v145">
     <b>145</b> I cried with <i>my</i> whole heart; hear me, O <span style='font-variant: small-caps'>Lord</span>: I will keep thy statutes.
 </div>
@@ -742,7 +549,7 @@
 <div class="verse" id="v152">
     <b>152</b> Concerning thy testimonies, I have known of old that thou hast founded them for ever.
 </div>
-<p>RESH</p>
+<p class="text-center">RESH</p>
 <div class="verse" id="v153">
     <b>153</b> Consider mine affliction, and deliver me: for I do not forget thy law.
 </div>
@@ -767,7 +574,7 @@
 <div class="verse" id="v160">
     <b>160</b> Thy word <i>is</i> true <i>from</i> the beginning: and every one of thy righteous judgments <i>endureth</i> for ever.
 </div>
-<p>SCHIN</p>
+<p class="text-center">SCHIN</p>
 <div class="verse" id="v161">
     <b>161</b> Princes have persecuted me without a cause: but my heart standeth in awe of thy word.
 </div>
@@ -792,7 +599,7 @@
 <div class="verse" id="v168">
     <b>168</b> I have kept thy precepts and thy testimonies: for all my ways <i>are</i> before thee.
 </div>
-<p>TAU</p>
+<p class="text-center">TAU</p>
 <div class="verse" id="v169">
     <b>169</b> Let my cry come near before thee, O <span style='font-variant: small-caps'>Lord</span>: give me understanding according to thy word.
 </div>
@@ -818,20 +625,250 @@
     <b>176</b> I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments.
 </div>
 
-    <table class="bp_head_foot">
-            <tr>
-              <td width="20"><a href="psalms_118.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Psalms 118)" title="Previous chapter (Psalms 118)"></a></td>
-              <td>
-                <h2>
+    <table class="bp_head_foot hidden-print" style="margin-top: 7px;">
+              <tr>
+                <td width="20"><a href="psalms_118.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Psalms 118)" title="Previous chapter (Psalms 118)"></a></td>
+                <td>
+                  <h2>
                   Psalm 119</h2>
-              </td>
-              <td width="20"><a href="psalms_120.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Psalms 120)" title="Next chapter (Psalms 120)"></a></td>
-            </tr>
-          </table>
+                </td>
+                <td width="20"><a href="psalms_120.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Psalms 120)" title="Next chapter (Psalms 120)"></a></td>
+              </tr>
+            </table>
 </div>
+        </div>
+        <div class="col-md-4 hidden-print">
+          <hr class="featurette-divider hidden-md hidden-lg">
+          <div class="biblenavigation">
+            <h3>Navigate The Bible</h3>
+            <h4>Go To Bible Reference</h4>
+            <div class="versenavigation">
+              <form><label for="vref">Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:</label><fieldset><input type="text" id="vref" maxlength="25"><button class="btn-sm btn-primary" id="gotoverse" type="submit" onclick="GoToVerse(); return false">Go</button></fieldset>
+              </form>
+            </div>
+            <h4 id="gotoChapter">Go To Chapter [Psalms]</h4>
+            <table class="chapternavigation">
+          <tr>
+<td><a href="psalms_1.html" title="Go to Psalms chapter 1">1</a></td>
+              <td><a href="psalms_2.html" title="Go to Psalms chapter 2">2</a></td>
+              <td><a href="psalms_3.html" title="Go to Psalms chapter 3">3</a></td>
+              <td><a href="psalms_4.html" title="Go to Psalms chapter 4">4</a></td>
+              <td><a href="psalms_5.html" title="Go to Psalms chapter 5">5</a></td>
+              <td><a href="psalms_6.html" title="Go to Psalms chapter 6">6</a></td>
+              <td><a href="psalms_7.html" title="Go to Psalms chapter 7">7</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_8.html" title="Go to Psalms chapter 8">8</a></td>
+              <td><a href="psalms_9.html" title="Go to Psalms chapter 9">9</a></td>
+              <td><a href="psalms_10.html" title="Go to Psalms chapter 10">10</a></td>
+              <td><a href="psalms_11.html" title="Go to Psalms chapter 11">11</a></td>
+              <td><a href="psalms_12.html" title="Go to Psalms chapter 12">12</a></td>
+              <td><a href="psalms_13.html" title="Go to Psalms chapter 13">13</a></td>
+              <td><a href="psalms_14.html" title="Go to Psalms chapter 14">14</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_15.html" title="Go to Psalms chapter 15">15</a></td>
+              <td><a href="psalms_16.html" title="Go to Psalms chapter 16">16</a></td>
+              <td><a href="psalms_17.html" title="Go to Psalms chapter 17">17</a></td>
+              <td><a href="psalms_18.html" title="Go to Psalms chapter 18">18</a></td>
+              <td><a href="psalms_19.html" title="Go to Psalms chapter 19">19</a></td>
+              <td><a href="psalms_20.html" title="Go to Psalms chapter 20">20</a></td>
+              <td><a href="psalms_21.html" title="Go to Psalms chapter 21">21</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_22.html" title="Go to Psalms chapter 22">22</a></td>
+              <td><a href="psalms_23.html" title="Go to Psalms chapter 23">23</a></td>
+              <td><a href="psalms_24.html" title="Go to Psalms chapter 24">24</a></td>
+              <td><a href="psalms_25.html" title="Go to Psalms chapter 25">25</a></td>
+              <td><a href="psalms_26.html" title="Go to Psalms chapter 26">26</a></td>
+              <td><a href="psalms_27.html" title="Go to Psalms chapter 27">27</a></td>
+              <td><a href="psalms_28.html" title="Go to Psalms chapter 28">28</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_29.html" title="Go to Psalms chapter 29">29</a></td>
+              <td><a href="psalms_30.html" title="Go to Psalms chapter 30">30</a></td>
+              <td><a href="psalms_31.html" title="Go to Psalms chapter 31">31</a></td>
+              <td><a href="psalms_32.html" title="Go to Psalms chapter 32">32</a></td>
+              <td><a href="psalms_33.html" title="Go to Psalms chapter 33">33</a></td>
+              <td><a href="psalms_34.html" title="Go to Psalms chapter 34">34</a></td>
+              <td><a href="psalms_35.html" title="Go to Psalms chapter 35">35</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_36.html" title="Go to Psalms chapter 36">36</a></td>
+              <td><a href="psalms_37.html" title="Go to Psalms chapter 37">37</a></td>
+              <td><a href="psalms_38.html" title="Go to Psalms chapter 38">38</a></td>
+              <td><a href="psalms_39.html" title="Go to Psalms chapter 39">39</a></td>
+              <td><a href="psalms_40.html" title="Go to Psalms chapter 40">40</a></td>
+              <td><a href="psalms_41.html" title="Go to Psalms chapter 41">41</a></td>
+              <td><a href="psalms_42.html" title="Go to Psalms chapter 42">42</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_43.html" title="Go to Psalms chapter 43">43</a></td>
+              <td><a href="psalms_44.html" title="Go to Psalms chapter 44">44</a></td>
+              <td><a href="psalms_45.html" title="Go to Psalms chapter 45">45</a></td>
+              <td><a href="psalms_46.html" title="Go to Psalms chapter 46">46</a></td>
+              <td><a href="psalms_47.html" title="Go to Psalms chapter 47">47</a></td>
+              <td><a href="psalms_48.html" title="Go to Psalms chapter 48">48</a></td>
+              <td><a href="psalms_49.html" title="Go to Psalms chapter 49">49</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_50.html" title="Go to Psalms chapter 50">50</a></td>
+              <td><a href="psalms_51.html" title="Go to Psalms chapter 51">51</a></td>
+              <td><a href="psalms_52.html" title="Go to Psalms chapter 52">52</a></td>
+              <td><a href="psalms_53.html" title="Go to Psalms chapter 53">53</a></td>
+              <td><a href="psalms_54.html" title="Go to Psalms chapter 54">54</a></td>
+              <td><a href="psalms_55.html" title="Go to Psalms chapter 55">55</a></td>
+              <td><a href="psalms_56.html" title="Go to Psalms chapter 56">56</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_57.html" title="Go to Psalms chapter 57">57</a></td>
+              <td><a href="psalms_58.html" title="Go to Psalms chapter 58">58</a></td>
+              <td><a href="psalms_59.html" title="Go to Psalms chapter 59">59</a></td>
+              <td><a href="psalms_60.html" title="Go to Psalms chapter 60">60</a></td>
+              <td><a href="psalms_61.html" title="Go to Psalms chapter 61">61</a></td>
+              <td><a href="psalms_62.html" title="Go to Psalms chapter 62">62</a></td>
+              <td><a href="psalms_63.html" title="Go to Psalms chapter 63">63</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_64.html" title="Go to Psalms chapter 64">64</a></td>
+              <td><a href="psalms_65.html" title="Go to Psalms chapter 65">65</a></td>
+              <td><a href="psalms_66.html" title="Go to Psalms chapter 66">66</a></td>
+              <td><a href="psalms_67.html" title="Go to Psalms chapter 67">67</a></td>
+              <td><a href="psalms_68.html" title="Go to Psalms chapter 68">68</a></td>
+              <td><a href="psalms_69.html" title="Go to Psalms chapter 69">69</a></td>
+              <td><a href="psalms_70.html" title="Go to Psalms chapter 70">70</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_71.html" title="Go to Psalms chapter 71">71</a></td>
+              <td><a href="psalms_72.html" title="Go to Psalms chapter 72">72</a></td>
+              <td><a href="psalms_73.html" title="Go to Psalms chapter 73">73</a></td>
+              <td><a href="psalms_74.html" title="Go to Psalms chapter 74">74</a></td>
+              <td><a href="psalms_75.html" title="Go to Psalms chapter 75">75</a></td>
+              <td><a href="psalms_76.html" title="Go to Psalms chapter 76">76</a></td>
+              <td><a href="psalms_77.html" title="Go to Psalms chapter 77">77</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_78.html" title="Go to Psalms chapter 78">78</a></td>
+              <td><a href="psalms_79.html" title="Go to Psalms chapter 79">79</a></td>
+              <td><a href="psalms_80.html" title="Go to Psalms chapter 80">80</a></td>
+              <td><a href="psalms_81.html" title="Go to Psalms chapter 81">81</a></td>
+              <td><a href="psalms_82.html" title="Go to Psalms chapter 82">82</a></td>
+              <td><a href="psalms_83.html" title="Go to Psalms chapter 83">83</a></td>
+              <td><a href="psalms_84.html" title="Go to Psalms chapter 84">84</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_85.html" title="Go to Psalms chapter 85">85</a></td>
+              <td><a href="psalms_86.html" title="Go to Psalms chapter 86">86</a></td>
+              <td><a href="psalms_87.html" title="Go to Psalms chapter 87">87</a></td>
+              <td><a href="psalms_88.html" title="Go to Psalms chapter 88">88</a></td>
+              <td><a href="psalms_89.html" title="Go to Psalms chapter 89">89</a></td>
+              <td><a href="psalms_90.html" title="Go to Psalms chapter 90">90</a></td>
+              <td><a href="psalms_91.html" title="Go to Psalms chapter 91">91</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_92.html" title="Go to Psalms chapter 92">92</a></td>
+              <td><a href="psalms_93.html" title="Go to Psalms chapter 93">93</a></td>
+              <td><a href="psalms_94.html" title="Go to Psalms chapter 94">94</a></td>
+              <td><a href="psalms_95.html" title="Go to Psalms chapter 95">95</a></td>
+              <td><a href="psalms_96.html" title="Go to Psalms chapter 96">96</a></td>
+              <td><a href="psalms_97.html" title="Go to Psalms chapter 97">97</a></td>
+              <td><a href="psalms_98.html" title="Go to Psalms chapter 98">98</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_99.html" title="Go to Psalms chapter 99">99</a></td>
+              <td><a href="psalms_100.html" title="Go to Psalms chapter 100">100</a></td>
+              <td><a href="psalms_101.html" title="Go to Psalms chapter 101">101</a></td>
+              <td><a href="psalms_102.html" title="Go to Psalms chapter 102">102</a></td>
+              <td><a href="psalms_103.html" title="Go to Psalms chapter 103">103</a></td>
+              <td><a href="psalms_104.html" title="Go to Psalms chapter 104">104</a></td>
+              <td><a href="psalms_105.html" title="Go to Psalms chapter 105">105</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_106.html" title="Go to Psalms chapter 106">106</a></td>
+              <td><a href="psalms_107.html" title="Go to Psalms chapter 107">107</a></td>
+              <td><a href="psalms_108.html" title="Go to Psalms chapter 108">108</a></td>
+              <td><a href="psalms_109.html" title="Go to Psalms chapter 109">109</a></td>
+              <td><a href="psalms_110.html" title="Go to Psalms chapter 110">110</a></td>
+              <td><a href="psalms_111.html" title="Go to Psalms chapter 111">111</a></td>
+              <td><a href="psalms_112.html" title="Go to Psalms chapter 112">112</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_113.html" title="Go to Psalms chapter 113">113</a></td>
+              <td><a href="psalms_114.html" title="Go to Psalms chapter 114">114</a></td>
+              <td><a href="psalms_115.html" title="Go to Psalms chapter 115">115</a></td>
+              <td><a href="psalms_116.html" title="Go to Psalms chapter 116">116</a></td>
+              <td><a href="psalms_117.html" title="Go to Psalms chapter 117">117</a></td>
+              <td><a href="psalms_118.html" title="Go to Psalms chapter 118">118</a></td>
+              <td id="currentchapterhighlight">119</td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_120.html" title="Go to Psalms chapter 120">120</a></td>
+              <td><a href="psalms_121.html" title="Go to Psalms chapter 121">121</a></td>
+              <td><a href="psalms_122.html" title="Go to Psalms chapter 122">122</a></td>
+              <td><a href="psalms_123.html" title="Go to Psalms chapter 123">123</a></td>
+              <td><a href="psalms_124.html" title="Go to Psalms chapter 124">124</a></td>
+              <td><a href="psalms_125.html" title="Go to Psalms chapter 125">125</a></td>
+              <td><a href="psalms_126.html" title="Go to Psalms chapter 126">126</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_127.html" title="Go to Psalms chapter 127">127</a></td>
+              <td><a href="psalms_128.html" title="Go to Psalms chapter 128">128</a></td>
+              <td><a href="psalms_129.html" title="Go to Psalms chapter 129">129</a></td>
+              <td><a href="psalms_130.html" title="Go to Psalms chapter 130">130</a></td>
+              <td><a href="psalms_131.html" title="Go to Psalms chapter 131">131</a></td>
+              <td><a href="psalms_132.html" title="Go to Psalms chapter 132">132</a></td>
+              <td><a href="psalms_133.html" title="Go to Psalms chapter 133">133</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_134.html" title="Go to Psalms chapter 134">134</a></td>
+              <td><a href="psalms_135.html" title="Go to Psalms chapter 135">135</a></td>
+              <td><a href="psalms_136.html" title="Go to Psalms chapter 136">136</a></td>
+              <td><a href="psalms_137.html" title="Go to Psalms chapter 137">137</a></td>
+              <td><a href="psalms_138.html" title="Go to Psalms chapter 138">138</a></td>
+              <td><a href="psalms_139.html" title="Go to Psalms chapter 139">139</a></td>
+              <td><a href="psalms_140.html" title="Go to Psalms chapter 140">140</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_141.html" title="Go to Psalms chapter 141">141</a></td>
+              <td><a href="psalms_142.html" title="Go to Psalms chapter 142">142</a></td>
+              <td><a href="psalms_143.html" title="Go to Psalms chapter 143">143</a></td>
+              <td><a href="psalms_144.html" title="Go to Psalms chapter 144">144</a></td>
+              <td><a href="psalms_145.html" title="Go to Psalms chapter 145">145</a></td>
+              <td><a href="psalms_146.html" title="Go to Psalms chapter 146">146</a></td>
+              <td><a href="psalms_147.html" title="Go to Psalms chapter 147">147</a></td>
+        </tr>
+
+          <tr>
+<td><a href="psalms_148.html" title="Go to Psalms chapter 148">148</a></td>
+              <td><a href="psalms_149.html" title="Go to Psalms chapter 149">149</a></td>
+              <td><a href="psalms_150.html" title="Go to Psalms chapter 150">150</a></td>
+        </tr>
+</table>
+          </div>
+        </div>
       </div>
-      <div class="footerblock">
-            Copyright &copy; 2017 ToDoBible.org. All rights reserved.&nbsp;&nbsp;<a href="#top">Top of page</a></div>
     </div>
-  </body>
+    <div class="container">
+      <hr class="featurette-divider"><footer class="footer text-center"><p>Copyright &copy; 2017 ToDoBible.org. All rights reserved. 
+              <a href="#"><small>Top&nbsp;of&nbsp;page</small></a></p></footer></div><script type="text/javascript" src="../script/biblenav.js"></script><script src="../script/jquery-1.12.4.min.js"></script><script type="text/javascript" src="../script/jquery.scrollTo.js"></script><script src="../script/bootstrap.min.js"></script><script type="text/javascript" src="../script/highlight-verses.js"></script></body>
 </html>

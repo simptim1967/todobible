@@ -1,0 +1,134 @@
+/* common.css - Stylesheet to override bootstrap defaults and share styling common to all website pages */
+
+body {
+    background-color: #d1c4e9; /* #ce93d8; #F0D1F3; #F8F8F8; */
+    color: purple;
+}
+
+.jumbotron {
+    background-image: url(../images/home2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-bottom: 10px;
+    color: white;
+    text-shadow: 0 0 0.3em black, 0 0 0.3em black, 0 0 0.3em black, 0 0 0.3em black;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: purple;
+}
+
+.img-thumbnail {
+    border-color: purple; /* #E7E7E7; */
+}
+
+.featurette-divider {
+    border-color: purple;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* navbar */
+.navbar {
+    margin-bottom: 10px;
+}
+
+.navbar-default {
+    background-color: #6a1b9a; /* purple; #F8F8F8; */
+    border-color: #6a1b9a; /* purple; #F0D1F3; #E7E7E7; */
+}
+
+/* title */
+.navbar-default .navbar-brand {
+    color: white; /* #F0D1F3; #777; */
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: white; /* #5E5E5E; */
+}
+
+/* link */
+.navbar-default .navbar-nav > li > a {
+    color: white; /* #777; */
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: lightskyblue; /* #333; */
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: white; /* #555;  */
+    background-color: #6a1b9a; /* purple; #E7E7E7; */
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #6a1b9a; /* purple; #555; */
+    background-color: #D5D5D5;
+}
+
+/* caret initial color */
+.navbar-default .navbar-nav > .dropdown > a .caret {
+    border-top-color: white; /* #777; */
+    border-bottom-color: white; /* #777; */
+}
+
+/* caret color to use when hover/focus on navbar drop-down option */
+.navbar-default .navbar-nav > .dropdown > a:hover .caret,
+.navbar-default .navbar-nav > .dropdown > a:focus .caret {
+    border-top-color: lightskyblue;
+    border-bottom-color: lightskyblue;
+}
+
+/* color to use when open navbar drop-down option */
+.navbar-default .navbar-nav > .open > a .caret,
+.navbar-default .navbar-nav > .open > a:hover .caret,
+.navbar-default .navbar-nav > .open > a:focus .caret {
+    border-top-color: #6a1b9a; /* purple; */
+    border-bottom-color: #6a1b9a; /* purple; */
+}
+
+/* mobile version - hamburger menu button */
+.navbar-default .navbar-toggle {
+    border-color: white;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: lightskyblue;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white; /* #CCC; */
+}
+
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: white; /* #777;*/
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        background-color: lightskyblue; /* #333; */
+    }
+}
+
+.dropdown-menu > li > a:hover {
+    background-color: lightskyblue;
+}
+
+/*
+.btn-primary {
+    background-color: darkorchid;
+    border-color: #6a1b9a;
+}
+*/

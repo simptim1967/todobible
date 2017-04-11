@@ -2,165 +2,202 @@
 <html lang="en-GB">
   <head>
     <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Revelation chapter 3 - King James Bible</title>
     <meta name="description" content="King James Bible: Revelation chapter 3">
     <meta name="keywords" content="king james holy bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV">
-    <meta name="viewport" content="width=1024">
-    <link href="../css/reset.css" rel="stylesheet" type="text/css">
-    <link href="../css/tbpage.css" rel="stylesheet" type="text/css">
-    <link href="../css/biblepage.css" rel="stylesheet" type="text/css">
-    <link href="../css/biblepage_print.css" rel="stylesheet" type="text/css" media="print"><script type="text/javascript" src="../script/biblenav.js"></script><script type="text/javascript" src="../script/jquery-1.4.2.min.js"></script><script type="text/javascript" src="../script/jquery.scrollTo-1.4.2-min.js"></script><script type="text/javascript" src="../script/highlight-verses.js"></script></head>
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/common_page.css" rel="stylesheet">
+    <link href="../css/kjv_page.css" rel="stylesheet">
+  </head>
   <body>
+    <div class="navbar-wrapper">
+      <div class="container"><nav class="navbar navbar-default navbar-static-top"><div class="container">
+            <div class="navbar-header"><button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand disabled"><strong><span style="color: lightskyblue;">ToDo:</span><span style="color: gold;">Bible</span></strong></a></div>
+            <div class="navbar-collapse collapse" id="navbar">
+              <ul class="nav navbar-nav">
+                <li><a href="../index.html">Home</a></li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bible <span class="caret"></span></a><ul class="dropdown-menu">
+                    <li><a href="genesis_1.html">Start Reading The Bible</a></li>
+                    <li><a href="king_james_bible_index_page.html">Bible Index Page</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="revelation_4.html" alt="Next chapter (Revelation 4)" title="Next chapter (Revelation 4)">
+                          Next Chapter
+                        </a></li>
+                    <li><a href="revelation_2.html" alt="Previous chapter (Revelation 2)" title="Previous chapter (Revelation 2)">
+                            Previous Chapter
+                        </a></li>
+                    <li><a href="#gotoChapter" title="Go To Chapter (Revelation)">
+                          Go To Chapter ...</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="#vref">Go To Bible Reference ...</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ToDo <span class="caret"></span></a><ul class="dropdown-menu">
+                    <li><a href="../todo/bible_todo_list_ultimate.html">Ultimate Bible ToDo List</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="../todo/bible_todo_list.html">Bible ToDo List (By Topic)</a></li>
+                    <li><a href="../todo/bible_todo_list_by_bible_book.html">Bible ToDo List (By Bible
+                          Book)</a></li>
+                    <li><a href="../todo/bible_todo_list_by_a_to_z.html">Bible ToDo List (By A-Z)</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="../todo/bible_todo_topics_index.html">ToDo List Topic Index</a></li>
+                  </ul>
+                </li>
+                <li><a href="../about_todo_bible.html">About</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </div>
     <div class="container">
-      <div class="headerblock"><a href="../index.html"><div class="logoblock">
-            <h5><span style="color:white;">TODO:</span><span style="color:gold;">Bible</span></h5>
-            <p>Read it. Believe it.</p>
-            <p><b>Do it!</b></p>
-          </div></a><div class="logoverse">
-          <p>
-                But be ye doers of the word,<br>
-                  and not hearers only,<br>deceiving your own selves.</p><a href="james_1.html?goto=22">James 1:22</a></div>
-      </div>
-      <div class="contentblock">
-        <div class="leftsidebar">
-          <div class="p_menu"><a href="../index.html">Home</a><a href="../about_todo_bible.html">About TODO:Bible</a><a class="Selected">Read The Bible</a></div>
-          <div class="p_submenu"><a href="king_james_bible_index_page.html">Bible Index Page</a></div>
-          <div class="p_menu"><a href="../todo/bible_todo_list.html">Bible ToDo List</a></div>
+      <div class="bpheaderblock hidden-sm hidden-xs">
+        <div class="logoverse">
+          <p><a href="james_1.html?goto=22">But be ye doers of the word,<br>
+                  and not hearers only,<br>
+                  deceiving your own selves.</a></p>
         </div>
-        <div class="rightsidebar">
-          <h4>Navigate The Bible</h4>
-          <h5>Go To Bible Reference</h5>
-          <div class="versenavigation">
-            <form>
-              <p>Type a reference to go to:</p>
-              <fieldset><input type="text" id="vref"><input id="gotoverse" type="submit" value="Go" onclick="GoToVerse(); return false"><p>e.g. 'John 3:16' or 'Ps 23'</p>
-              </fieldset>
-            </form>
-          </div>
-          <h5>Chapter [Revelation]</h5>
-          <table class="chapternavigation">
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <div class="biblepage">
+    <table class="bp_head_foot" width="100%" style="margin-bottom: 7px;">
+              <tr>
+                <td width="20"><a href="revelation_2.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Revelation 2)" title="Previous chapter (Revelation 2)"></a></td>
+                <td>
+                  <h1>Revelation chapter 3</h1>
+                </td>
+                <td width="20"><a href="revelation_4.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Revelation 4)" title="Next chapter (Revelation 4)"></a></td>
+              </tr>
+            </table>
+<div class="verse" id="v1">
+    <b>1</b> <span style="color:red;">And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.</span>
+</div>
+<div class="verse" id="v2">
+    <b>2</b> <span style="color:red;">Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.</span>
+</div>
+<div class="verse" id="v3">
+    <b>3</b> <span style="color:red;">Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.</span>
+</div>
+<div class="verse" id="v4">
+    <b>4</b> <span style="color:red;">Thou hast a few names even in Sardis which have not defiled their garments; and they shall walk with me in white: for they are worthy.</span>
+</div>
+<div class="verse" id="v5">
+    <b>5</b> <span style="color:red;">He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.</span>
+</div>
+<div class="verse" id="v6">
+    <b>6</b> <span style="color:red;">He that hath an ear, let him hear what the Spirit saith unto the churches.</span>
+</div>
+<div class="verse" id="v7">
+    <b>7</b> <span style="color:red;">And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;</span>
+</div>
+<div class="verse" id="v8">
+    <b>8</b> <span style="color:red;">I know thy works: behold, I have set before thee an open door, and no man can shut it: for thou hast a little strength, and hast kept my word, and hast not denied my name.</span>
+</div>
+<div class="verse" id="v9">
+    <b>9</b> <span style="color:red;">Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.</span>
+</div>
+<div class="verse" id="v10">
+    <b>10</b> <span style="color:red;">Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth.</span>
+</div>
+<div class="verse" id="v11">
+    <b>11</b> <span style="color:red;">Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.</span>
+</div>
+<div class="verse" id="v12">
+    <b>12</b> <span style="color:red;">Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, <i>which is</i> new Jerusalem, which cometh down out of heaven from my God: and <i>I will write upon him</i> my new name.</span>
+</div>
+<div class="verse" id="v13">
+    <b>13</b> <span style="color:red;">He that hath an ear, let him hear what the Spirit saith unto the churches.</span>
+</div>
+<div class="verse" id="v14">
+    <b>14</b> <span style="color:red;">And unto the angel of the church of the Laodiceans write; These things saith the Amen, the faithful and true witness, the beginning of the creation of God;</span>
+</div>
+<div class="verse" id="v15">
+    <b>15</b> <span style="color:red;">I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot.</span>
+</div>
+<div class="verse" id="v16">
+    <b>16</b> <span style="color:red;">So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth.</span>
+</div>
+<div class="verse" id="v17">
+    <b>17</b> <span style="color:red;">Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:</span>
+</div>
+<div class="verse" id="v18">
+    <b>18</b> <span style="color:red;">I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and <i>that</i> the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see.</span>
+</div>
+<div class="verse" id="v19">
+    <b>19</b> <span style="color:red;">As many as I love, I rebuke and chasten: be zealous therefore, and repent.</span>
+</div>
+<div class="verse" id="v20">
+    <b>20</b> <span style="color:red;">Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.</span>
+</div>
+<div class="verse" id="v21">
+    <b>21</b> <span style="color:red;">To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.</span>
+</div>
+<div class="verse" id="v22">
+    <b>22</b> <span style="color:red;">He that hath an ear, let him hear what the Spirit saith unto the churches.</span>
+</div>
+
+    <table class="bp_head_foot hidden-print" style="margin-top: 7px;">
+              <tr>
+                <td width="20"><a href="revelation_2.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Revelation 2)" title="Previous chapter (Revelation 2)"></a></td>
+                <td>
+                  <h2>Revelation chapter 3</h2>
+                </td>
+                <td width="20"><a href="revelation_4.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Revelation 4)" title="Next chapter (Revelation 4)"></a></td>
+              </tr>
+            </table>
+</div>
+        </div>
+        <div class="col-md-4 hidden-print">
+          <hr class="featurette-divider hidden-md hidden-lg">
+          <div class="biblenavigation">
+            <h3>Navigate The Bible</h3>
+            <h4>Go To Bible Reference</h4>
+            <div class="versenavigation">
+              <form><label for="vref">Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:</label><fieldset><input type="text" id="vref" maxlength="25"><button class="btn-sm btn-primary" id="gotoverse" type="submit" onclick="GoToVerse(); return false">Go</button></fieldset>
+              </form>
+            </div>
+            <h4 id="gotoChapter">Go To Chapter [Revelation]</h4>
+            <table class="chapternavigation">
           <tr>
 <td><a href="revelation_1.html" title="Go to Revelation chapter 1">1</a></td>
-            <td><a href="revelation_2.html" title="Go to Revelation chapter 2">2</a></td>
-            <td id="currentchapterhighlight">3</td>
-            <td><a href="revelation_4.html" title="Go to Revelation chapter 4">4</a></td>
-            <td><a href="revelation_5.html" title="Go to Revelation chapter 5">5</a></td>
-            <td><a href="revelation_6.html" title="Go to Revelation chapter 6">6</a></td>
-            <td><a href="revelation_7.html" title="Go to Revelation chapter 7">7</a></td>
-            <td><a href="revelation_8.html" title="Go to Revelation chapter 8">8</a></td>
-            <td><a href="revelation_9.html" title="Go to Revelation chapter 9">9</a></td>
-            <td><a href="revelation_10.html" title="Go to Revelation chapter 10">10</a></td>
+              <td><a href="revelation_2.html" title="Go to Revelation chapter 2">2</a></td>
+              <td id="currentchapterhighlight">3</td>
+              <td><a href="revelation_4.html" title="Go to Revelation chapter 4">4</a></td>
+              <td><a href="revelation_5.html" title="Go to Revelation chapter 5">5</a></td>
+              <td><a href="revelation_6.html" title="Go to Revelation chapter 6">6</a></td>
+              <td><a href="revelation_7.html" title="Go to Revelation chapter 7">7</a></td>
+              <td><a href="revelation_8.html" title="Go to Revelation chapter 8">8</a></td>
+              <td><a href="revelation_9.html" title="Go to Revelation chapter 9">9</a></td>
+              <td><a href="revelation_10.html" title="Go to Revelation chapter 10">10</a></td>
         </tr>
 
           <tr>
 <td><a href="revelation_11.html" title="Go to Revelation chapter 11">11</a></td>
-            <td><a href="revelation_12.html" title="Go to Revelation chapter 12">12</a></td>
-            <td><a href="revelation_13.html" title="Go to Revelation chapter 13">13</a></td>
-            <td><a href="revelation_14.html" title="Go to Revelation chapter 14">14</a></td>
-            <td><a href="revelation_15.html" title="Go to Revelation chapter 15">15</a></td>
-            <td><a href="revelation_16.html" title="Go to Revelation chapter 16">16</a></td>
-            <td><a href="revelation_17.html" title="Go to Revelation chapter 17">17</a></td>
-            <td><a href="revelation_18.html" title="Go to Revelation chapter 18">18</a></td>
-            <td><a href="revelation_19.html" title="Go to Revelation chapter 19">19</a></td>
-            <td><a href="revelation_20.html" title="Go to Revelation chapter 20">20</a></td>
+              <td><a href="revelation_12.html" title="Go to Revelation chapter 12">12</a></td>
+              <td><a href="revelation_13.html" title="Go to Revelation chapter 13">13</a></td>
+              <td><a href="revelation_14.html" title="Go to Revelation chapter 14">14</a></td>
+              <td><a href="revelation_15.html" title="Go to Revelation chapter 15">15</a></td>
+              <td><a href="revelation_16.html" title="Go to Revelation chapter 16">16</a></td>
+              <td><a href="revelation_17.html" title="Go to Revelation chapter 17">17</a></td>
+              <td><a href="revelation_18.html" title="Go to Revelation chapter 18">18</a></td>
+              <td><a href="revelation_19.html" title="Go to Revelation chapter 19">19</a></td>
+              <td><a href="revelation_20.html" title="Go to Revelation chapter 20">20</a></td>
         </tr>
 
           <tr>
 <td><a href="revelation_21.html" title="Go to Revelation chapter 21">21</a></td>
-            <td><a href="revelation_22.html" title="Go to Revelation chapter 22">22</a></td>
+              <td><a href="revelation_22.html" title="Go to Revelation chapter 22">22</a></td>
         </tr>
 </table>
+          </div>
         </div>
-        <div class="biblepage">
-    <table class="bp_head_foot">
-            <tr>
-              <td width="20"><a href="revelation_2.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Revelation 2)" title="Previous chapter (Revelation 2)"></a></td>
-              <td>
-                <h1>Revelation chapter 3</h1>
-              </td>
-              <td width="20"><a href="revelation_4.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Revelation 4)" title="Next chapter (Revelation 4)"></a></td>
-            </tr>
-          </table>
-<div class="verse" id="v1">
-    <b>1</b> <woc>And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.</woc>
-</div>
-<div class="verse" id="v2">
-    <b>2</b> <woc>Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.</woc>
-</div>
-<div class="verse" id="v3">
-    <b>3</b> <woc>Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.</woc>
-</div>
-<div class="verse" id="v4">
-    <b>4</b> <woc>Thou hast a few names even in Sardis which have not defiled their garments; and they shall walk with me in white: for they are worthy.</woc>
-</div>
-<div class="verse" id="v5">
-    <b>5</b> <woc>He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.</woc>
-</div>
-<div class="verse" id="v6">
-    <b>6</b> <woc>He that hath an ear, let him hear what the Spirit saith unto the churches.</woc>
-</div>
-<div class="verse" id="v7">
-    <b>7</b> <woc>And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;</woc>
-</div>
-<div class="verse" id="v8">
-    <b>8</b> <woc>I know thy works: behold, I have set before thee an open door, and no man can shut it: for thou hast a little strength, and hast kept my word, and hast not denied my name.</woc>
-</div>
-<div class="verse" id="v9">
-    <b>9</b> <woc>Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.</woc>
-</div>
-<div class="verse" id="v10">
-    <b>10</b> <woc>Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth.</woc>
-</div>
-<div class="verse" id="v11">
-    <b>11</b> <woc>Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.</woc>
-</div>
-<div class="verse" id="v12">
-    <b>12</b> <woc>Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, <i>which is</i> new Jerusalem, which cometh down out of heaven from my God: and <i>I will write upon him</i> my new name.</woc>
-</div>
-<div class="verse" id="v13">
-    <b>13</b> <woc>He that hath an ear, let him hear what the Spirit saith unto the churches.</woc>
-</div>
-<div class="verse" id="v14">
-    <b>14</b> <woc>And unto the angel of the church of the Laodiceans write; These things saith the Amen, the faithful and true witness, the beginning of the creation of God;</woc>
-</div>
-<div class="verse" id="v15">
-    <b>15</b> <woc>I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot.</woc>
-</div>
-<div class="verse" id="v16">
-    <b>16</b> <woc>So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth.</woc>
-</div>
-<div class="verse" id="v17">
-    <b>17</b> <woc>Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:</woc>
-</div>
-<div class="verse" id="v18">
-    <b>18</b> <woc>I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and <i>that</i> the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see.</woc>
-</div>
-<div class="verse" id="v19">
-    <b>19</b> <woc>As many as I love, I rebuke and chasten: be zealous therefore, and repent.</woc>
-</div>
-<div class="verse" id="v20">
-    <b>20</b> <woc>Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.</woc>
-</div>
-<div class="verse" id="v21">
-    <b>21</b> <woc>To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.</woc>
-</div>
-<div class="verse" id="v22">
-    <b>22</b> <woc>He that hath an ear, let him hear what the Spirit saith unto the churches.</woc>
-</div>
-
-    <table class="bp_head_foot">
-            <tr>
-              <td width="20"><a href="revelation_2.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Revelation 2)" title="Previous chapter (Revelation 2)"></a></td>
-              <td>
-                <h2>Revelation chapter 3</h2>
-              </td>
-              <td width="20"><a href="revelation_4.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Revelation 4)" title="Next chapter (Revelation 4)"></a></td>
-            </tr>
-          </table>
-</div>
       </div>
-      <div class="footerblock">
-            Copyright &copy; 2017 ToDoBible.org. All rights reserved.&nbsp;&nbsp;<a href="#top">Top of page</a></div>
     </div>
-  </body>
+    <div class="container">
+      <hr class="featurette-divider"><footer class="footer text-center"><p>Copyright &copy; 2017 ToDoBible.org. All rights reserved. 
+              <a href="#"><small>Top&nbsp;of&nbsp;page</small></a></p></footer></div><script type="text/javascript" src="../script/biblenav.js"></script><script src="../script/jquery-1.12.4.min.js"></script><script type="text/javascript" src="../script/jquery.scrollTo.js"></script><script src="../script/bootstrap.min.js"></script><script type="text/javascript" src="../script/highlight-verses.js"></script></body>
 </html>

@@ -2,91 +2,77 @@
 <html lang="en-GB">
   <head>
     <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Matthew chapter 18 - King James Bible</title>
     <meta name="description" content="King James Bible: Matthew chapter 18">
     <meta name="keywords" content="king james holy bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV">
-    <meta name="viewport" content="width=1024">
-    <link href="../css/reset.css" rel="stylesheet" type="text/css">
-    <link href="../css/tbpage.css" rel="stylesheet" type="text/css">
-    <link href="../css/biblepage.css" rel="stylesheet" type="text/css">
-    <link href="../css/biblepage_print.css" rel="stylesheet" type="text/css" media="print"><script type="text/javascript" src="../script/biblenav.js"></script><script type="text/javascript" src="../script/jquery-1.4.2.min.js"></script><script type="text/javascript" src="../script/jquery.scrollTo-1.4.2-min.js"></script><script type="text/javascript" src="../script/highlight-verses.js"></script></head>
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/common_page.css" rel="stylesheet">
+    <link href="../css/kjv_page.css" rel="stylesheet">
+  </head>
   <body>
+    <div class="navbar-wrapper">
+      <div class="container"><nav class="navbar navbar-default navbar-static-top"><div class="container">
+            <div class="navbar-header"><button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand disabled"><strong><span style="color: lightskyblue;">ToDo:</span><span style="color: gold;">Bible</span></strong></a></div>
+            <div class="navbar-collapse collapse" id="navbar">
+              <ul class="nav navbar-nav">
+                <li><a href="../index.html">Home</a></li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bible <span class="caret"></span></a><ul class="dropdown-menu">
+                    <li><a href="genesis_1.html">Start Reading The Bible</a></li>
+                    <li><a href="king_james_bible_index_page.html">Bible Index Page</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="matthew_19.html" alt="Next chapter (Matthew 19)" title="Next chapter (Matthew 19)">
+                          Next Chapter
+                        </a></li>
+                    <li><a href="matthew_17.html" alt="Previous chapter (Matthew 17)" title="Previous chapter (Matthew 17)">
+                            Previous Chapter
+                        </a></li>
+                    <li><a href="#gotoChapter" title="Go To Chapter (Matthew)">
+                          Go To Chapter ...</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="#vref">Go To Bible Reference ...</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ToDo <span class="caret"></span></a><ul class="dropdown-menu">
+                    <li><a href="../todo/bible_todo_list_ultimate.html">Ultimate Bible ToDo List</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="../todo/bible_todo_list.html">Bible ToDo List (By Topic)</a></li>
+                    <li><a href="../todo/bible_todo_list_by_bible_book.html">Bible ToDo List (By Bible
+                          Book)</a></li>
+                    <li><a href="../todo/bible_todo_list_by_a_to_z.html">Bible ToDo List (By A-Z)</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="../todo/bible_todo_topics_index.html">ToDo List Topic Index</a></li>
+                  </ul>
+                </li>
+                <li><a href="../about_todo_bible.html">About</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </div>
     <div class="container">
-      <div class="headerblock"><a href="../index.html"><div class="logoblock">
-            <h5><span style="color:white;">TODO:</span><span style="color:gold;">Bible</span></h5>
-            <p>Read it. Believe it.</p>
-            <p><b>Do it!</b></p>
-          </div></a><div class="logoverse">
-          <p>
-                But be ye doers of the word,<br>
-                  and not hearers only,<br>deceiving your own selves.</p><a href="james_1.html?goto=22">James 1:22</a></div>
+      <div class="bpheaderblock hidden-sm hidden-xs">
+        <div class="logoverse">
+          <p><a href="james_1.html?goto=22">But be ye doers of the word,<br>
+                  and not hearers only,<br>
+                  deceiving your own selves.</a></p>
+        </div>
       </div>
-      <div class="contentblock">
-        <div class="leftsidebar">
-          <div class="p_menu"><a href="../index.html">Home</a><a href="../about_todo_bible.html">About TODO:Bible</a><a class="Selected">Read The Bible</a></div>
-          <div class="p_submenu"><a href="king_james_bible_index_page.html">Bible Index Page</a></div>
-          <div class="p_menu"><a href="../todo/bible_todo_list.html">Bible ToDo List</a></div>
-        </div>
-        <div class="rightsidebar">
-          <h4>Navigate The Bible</h4>
-          <h5>Go To Bible Reference</h5>
-          <div class="versenavigation">
-            <form>
-              <p>Type a reference to go to:</p>
-              <fieldset><input type="text" id="vref"><input id="gotoverse" type="submit" value="Go" onclick="GoToVerse(); return false"><p>e.g. 'John 3:16' or 'Ps 23'</p>
-              </fieldset>
-            </form>
-          </div>
-          <h5>Chapter [Matthew]</h5>
-          <table class="chapternavigation">
-          <tr>
-<td><a href="matthew_1.html" title="Go to Matthew chapter 1">1</a></td>
-            <td><a href="matthew_2.html" title="Go to Matthew chapter 2">2</a></td>
-            <td><a href="matthew_3.html" title="Go to Matthew chapter 3">3</a></td>
-            <td><a href="matthew_4.html" title="Go to Matthew chapter 4">4</a></td>
-            <td><a href="matthew_5.html" title="Go to Matthew chapter 5">5</a></td>
-            <td><a href="matthew_6.html" title="Go to Matthew chapter 6">6</a></td>
-            <td><a href="matthew_7.html" title="Go to Matthew chapter 7">7</a></td>
-            <td><a href="matthew_8.html" title="Go to Matthew chapter 8">8</a></td>
-            <td><a href="matthew_9.html" title="Go to Matthew chapter 9">9</a></td>
-            <td><a href="matthew_10.html" title="Go to Matthew chapter 10">10</a></td>
-        </tr>
-
-          <tr>
-<td><a href="matthew_11.html" title="Go to Matthew chapter 11">11</a></td>
-            <td><a href="matthew_12.html" title="Go to Matthew chapter 12">12</a></td>
-            <td><a href="matthew_13.html" title="Go to Matthew chapter 13">13</a></td>
-            <td><a href="matthew_14.html" title="Go to Matthew chapter 14">14</a></td>
-            <td><a href="matthew_15.html" title="Go to Matthew chapter 15">15</a></td>
-            <td><a href="matthew_16.html" title="Go to Matthew chapter 16">16</a></td>
-            <td><a href="matthew_17.html" title="Go to Matthew chapter 17">17</a></td>
-            <td id="currentchapterhighlight">18</td>
-            <td><a href="matthew_19.html" title="Go to Matthew chapter 19">19</a></td>
-            <td><a href="matthew_20.html" title="Go to Matthew chapter 20">20</a></td>
-        </tr>
-
-          <tr>
-<td><a href="matthew_21.html" title="Go to Matthew chapter 21">21</a></td>
-            <td><a href="matthew_22.html" title="Go to Matthew chapter 22">22</a></td>
-            <td><a href="matthew_23.html" title="Go to Matthew chapter 23">23</a></td>
-            <td><a href="matthew_24.html" title="Go to Matthew chapter 24">24</a></td>
-            <td><a href="matthew_25.html" title="Go to Matthew chapter 25">25</a></td>
-            <td><a href="matthew_26.html" title="Go to Matthew chapter 26">26</a></td>
-            <td><a href="matthew_27.html" title="Go to Matthew chapter 27">27</a></td>
-            <td><a href="matthew_28.html" title="Go to Matthew chapter 28">28</a></td>
-        </tr>
-</table>
-        </div>
-        <div class="biblepage">
-    <table class="bp_head_foot">
-            <tr>
-              <td width="20"><a href="matthew_17.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Matthew 17)" title="Previous chapter (Matthew 17)"></a></td>
-              <td>
-                <h1>Matthew chapter 18</h1>
-              </td>
-              <td width="20"><a href="matthew_19.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Matthew 19)" title="Next chapter (Matthew 19)"></a></td>
-            </tr>
-          </table>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <div class="biblepage">
+    <table class="bp_head_foot" width="100%" style="margin-bottom: 7px;">
+              <tr>
+                <td width="20"><a href="matthew_17.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Matthew 17)" title="Previous chapter (Matthew 17)"></a></td>
+                <td>
+                  <h1>Matthew chapter 18</h1>
+                </td>
+                <td width="20"><a href="matthew_19.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Matthew 19)" title="Next chapter (Matthew 19)"></a></td>
+              </tr>
+            </table>
 <div class="verse" id="v1">
     <b>1</b> At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?
 </div>
@@ -94,118 +80,169 @@
     <b>2</b> And Jesus called a little child unto him, and set him in the midst of them,
 </div>
 <div class="verse" id="v3">
-    <b>3</b> And said, <woc>Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.</woc>
+    <b>3</b> And said, <span style="color:red;">Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.</span>
 </div>
 <div class="verse" id="v4">
-    <b>4</b> <woc>Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.</woc>
+    <b>4</b> <span style="color:red;">Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.</span>
 </div>
 <div class="verse" id="v5">
-    <b>5</b> <woc>And whoso shall receive one such little child in my name receiveth me.</woc>
+    <b>5</b> <span style="color:red;">And whoso shall receive one such little child in my name receiveth me.</span>
 </div>
 <div class="verse" id="v6">
-    <b>6</b> <woc>But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and <i>that</i> he were drowned in the depth of the sea.</woc>
+    <b>6</b> <span style="color:red;">But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and <i>that</i> he were drowned in the depth of the sea.</span>
 </div>
 <div class="verse" id="v7">
-    <b>7</b> <woc>Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!</woc>
+    <b>7</b> <span style="color:red;">Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!</span>
 </div>
 <div class="verse" id="v8">
-    <b>8</b> <woc>Wherefore if thy hand or thy foot offend thee, cut them off, and cast <i>them</i> from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.</woc>
+    <b>8</b> <span style="color:red;">Wherefore if thy hand or thy foot offend thee, cut them off, and cast <i>them</i> from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.</span>
 </div>
 <div class="verse" id="v9">
-    <b>9</b> <woc>And if thine eye offend thee, pluck it out, and cast <i>it</i> from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire.</woc>
+    <b>9</b> <span style="color:red;">And if thine eye offend thee, pluck it out, and cast <i>it</i> from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire.</span>
 </div>
 <div class="verse" id="v10">
-    <b>10</b> <woc>Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.</woc>
+    <b>10</b> <span style="color:red;">Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.</span>
 </div>
 <div class="verse" id="v11">
-    <b>11</b> <woc>For the Son of man is come to save that which was lost.</woc>
+    <b>11</b> <span style="color:red;">For the Son of man is come to save that which was lost.</span>
 </div>
 <div class="verse" id="v12">
-    <b>12</b> <woc>How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?</woc>
+    <b>12</b> <span style="color:red;">How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?</span>
 </div>
 <div class="verse" id="v13">
-    <b>13</b> <woc>And if so be that he find it, verily I say unto you, he rejoiceth more of that <i>sheep</i>, than of the ninety and nine which went not astray.</woc>
+    <b>13</b> <span style="color:red;">And if so be that he find it, verily I say unto you, he rejoiceth more of that <i>sheep</i>, than of the ninety and nine which went not astray.</span>
 </div>
 <div class="verse" id="v14">
-    <b>14</b> <woc>Even so it is not the will of your Father which is in heaven, that one of these little ones should perish. </woc>
+    <b>14</b> <span style="color:red;">Even so it is not the will of your Father which is in heaven, that one of these little ones should perish. </span>
 </div>
 <div class="verse" id="v15">
-    <b>15</b> <woc>Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.</woc>
+    <b>15</b> <span style="color:red;">Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.</span>
 </div>
 <div class="verse" id="v16">
-    <b>16</b> <woc>But if he will not hear <i>thee, then</i> take with thee one or two more, that in the mouth of two or three witnesses every word may be established.</woc>
+    <b>16</b> <span style="color:red;">But if he will not hear <i>thee, then</i> take with thee one or two more, that in the mouth of two or three witnesses every word may be established.</span>
 </div>
 <div class="verse" id="v17">
-    <b>17</b> <woc>And if he shall neglect to hear them, tell <i>it</i> unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.</woc>
+    <b>17</b> <span style="color:red;">And if he shall neglect to hear them, tell <i>it</i> unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.</span>
 </div>
 <div class="verse" id="v18">
-    <b>18</b> <woc>Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.</woc>
+    <b>18</b> <span style="color:red;">Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.</span>
 </div>
 <div class="verse" id="v19">
-    <b>19</b> <woc>Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.</woc>
+    <b>19</b> <span style="color:red;">Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.</span>
 </div>
 <div class="verse" id="v20">
-    <b>20</b> <woc>For where two or three are gathered together in my name, there am I in the midst of them.</woc>
+    <b>20</b> <span style="color:red;">For where two or three are gathered together in my name, there am I in the midst of them.</span>
 </div>
 <div class="verse" id="v21">
     <b>21</b> Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?
 </div>
 <div class="verse" id="v22">
-    <b>22</b> Jesus saith unto him, <woc>I say not unto thee, Until seven times: but, Until seventy times seven.</woc>
+    <b>22</b> Jesus saith unto him, <span style="color:red;">I say not unto thee, Until seven times: but, Until seventy times seven.</span>
 </div>
 <div class="verse" id="v23">
-    <b>23</b> <woc>Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants.</woc>
+    <b>23</b> <span style="color:red;">Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants.</span>
 </div>
 <div class="verse" id="v24">
-    <b>24</b> <woc>And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents.</woc>
+    <b>24</b> <span style="color:red;">And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents.</span>
 </div>
 <div class="verse" id="v25">
-    <b>25</b> <woc>But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.</woc>
+    <b>25</b> <span style="color:red;">But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.</span>
 </div>
 <div class="verse" id="v26">
-    <b>26</b> <woc>The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all.</woc>
+    <b>26</b> <span style="color:red;">The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all.</span>
 </div>
 <div class="verse" id="v27">
-    <b>27</b> <woc>Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt.</woc>
+    <b>27</b> <span style="color:red;">Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt.</span>
 </div>
 <div class="verse" id="v28">
-    <b>28</b> <woc>But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took <i>him</i> by the throat, saying, Pay me that thou owest.</woc>
+    <b>28</b> <span style="color:red;">But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took <i>him</i> by the throat, saying, Pay me that thou owest.</span>
 </div>
 <div class="verse" id="v29">
-    <b>29</b> <woc>And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all.</woc>
+    <b>29</b> <span style="color:red;">And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all.</span>
 </div>
 <div class="verse" id="v30">
-    <b>30</b> <woc>And he would not: but went and cast him into prison, till he should pay the debt.</woc>
+    <b>30</b> <span style="color:red;">And he would not: but went and cast him into prison, till he should pay the debt.</span>
 </div>
 <div class="verse" id="v31">
-    <b>31</b> <woc>So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done.</woc>
+    <b>31</b> <span style="color:red;">So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done.</span>
 </div>
 <div class="verse" id="v32">
-    <b>32</b> <woc>Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:</woc>
+    <b>32</b> <span style="color:red;">Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:</span>
 </div>
 <div class="verse" id="v33">
-    <b>33</b> <woc>Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?</woc>
+    <b>33</b> <span style="color:red;">Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?</span>
 </div>
 <div class="verse" id="v34">
-    <b>34</b> <woc>And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.</woc>
+    <b>34</b> <span style="color:red;">And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.</span>
 </div>
 <div class="verse" id="v35">
-    <b>35</b> <woc>So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses.</woc>
+    <b>35</b> <span style="color:red;">So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses.</span>
 </div>
 
-    <table class="bp_head_foot">
-            <tr>
-              <td width="20"><a href="matthew_17.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Matthew 17)" title="Previous chapter (Matthew 17)"></a></td>
-              <td>
-                <h2>Matthew chapter 18</h2>
-              </td>
-              <td width="20"><a href="matthew_19.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Matthew 19)" title="Next chapter (Matthew 19)"></a></td>
-            </tr>
-          </table>
+    <table class="bp_head_foot hidden-print" style="margin-top: 7px;">
+              <tr>
+                <td width="20"><a href="matthew_17.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Matthew 17)" title="Previous chapter (Matthew 17)"></a></td>
+                <td>
+                  <h2>Matthew chapter 18</h2>
+                </td>
+                <td width="20"><a href="matthew_19.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Matthew 19)" title="Next chapter (Matthew 19)"></a></td>
+              </tr>
+            </table>
 </div>
+        </div>
+        <div class="col-md-4 hidden-print">
+          <hr class="featurette-divider hidden-md hidden-lg">
+          <div class="biblenavigation">
+            <h3>Navigate The Bible</h3>
+            <h4>Go To Bible Reference</h4>
+            <div class="versenavigation">
+              <form><label for="vref">Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:</label><fieldset><input type="text" id="vref" maxlength="25"><button class="btn-sm btn-primary" id="gotoverse" type="submit" onclick="GoToVerse(); return false">Go</button></fieldset>
+              </form>
+            </div>
+            <h4 id="gotoChapter">Go To Chapter [Matthew]</h4>
+            <table class="chapternavigation">
+          <tr>
+<td><a href="matthew_1.html" title="Go to Matthew chapter 1">1</a></td>
+              <td><a href="matthew_2.html" title="Go to Matthew chapter 2">2</a></td>
+              <td><a href="matthew_3.html" title="Go to Matthew chapter 3">3</a></td>
+              <td><a href="matthew_4.html" title="Go to Matthew chapter 4">4</a></td>
+              <td><a href="matthew_5.html" title="Go to Matthew chapter 5">5</a></td>
+              <td><a href="matthew_6.html" title="Go to Matthew chapter 6">6</a></td>
+              <td><a href="matthew_7.html" title="Go to Matthew chapter 7">7</a></td>
+              <td><a href="matthew_8.html" title="Go to Matthew chapter 8">8</a></td>
+              <td><a href="matthew_9.html" title="Go to Matthew chapter 9">9</a></td>
+              <td><a href="matthew_10.html" title="Go to Matthew chapter 10">10</a></td>
+        </tr>
+
+          <tr>
+<td><a href="matthew_11.html" title="Go to Matthew chapter 11">11</a></td>
+              <td><a href="matthew_12.html" title="Go to Matthew chapter 12">12</a></td>
+              <td><a href="matthew_13.html" title="Go to Matthew chapter 13">13</a></td>
+              <td><a href="matthew_14.html" title="Go to Matthew chapter 14">14</a></td>
+              <td><a href="matthew_15.html" title="Go to Matthew chapter 15">15</a></td>
+              <td><a href="matthew_16.html" title="Go to Matthew chapter 16">16</a></td>
+              <td><a href="matthew_17.html" title="Go to Matthew chapter 17">17</a></td>
+              <td id="currentchapterhighlight">18</td>
+              <td><a href="matthew_19.html" title="Go to Matthew chapter 19">19</a></td>
+              <td><a href="matthew_20.html" title="Go to Matthew chapter 20">20</a></td>
+        </tr>
+
+          <tr>
+<td><a href="matthew_21.html" title="Go to Matthew chapter 21">21</a></td>
+              <td><a href="matthew_22.html" title="Go to Matthew chapter 22">22</a></td>
+              <td><a href="matthew_23.html" title="Go to Matthew chapter 23">23</a></td>
+              <td><a href="matthew_24.html" title="Go to Matthew chapter 24">24</a></td>
+              <td><a href="matthew_25.html" title="Go to Matthew chapter 25">25</a></td>
+              <td><a href="matthew_26.html" title="Go to Matthew chapter 26">26</a></td>
+              <td><a href="matthew_27.html" title="Go to Matthew chapter 27">27</a></td>
+              <td><a href="matthew_28.html" title="Go to Matthew chapter 28">28</a></td>
+        </tr>
+</table>
+          </div>
+        </div>
       </div>
-      <div class="footerblock">
-            Copyright &copy; 2017 ToDoBible.org. All rights reserved.&nbsp;&nbsp;<a href="#top">Top of page</a></div>
     </div>
-  </body>
+    <div class="container">
+      <hr class="featurette-divider"><footer class="footer text-center"><p>Copyright &copy; 2017 ToDoBible.org. All rights reserved. 
+              <a href="#"><small>Top&nbsp;of&nbsp;page</small></a></p></footer></div><script type="text/javascript" src="../script/biblenav.js"></script><script src="../script/jquery-1.12.4.min.js"></script><script type="text/javascript" src="../script/jquery.scrollTo.js"></script><script src="../script/bootstrap.min.js"></script><script type="text/javascript" src="../script/highlight-verses.js"></script></body>
 </html>

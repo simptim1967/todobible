@@ -1,0 +1,130 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    // The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags
+    meta(name='keywords', content='bible todo list, holy bible, words of Jesus, commandments of Jesus, bible index, bible to do items')
+    meta(name='description', content="ToDoBible.org home page. Read the Holy Bible and learn about what God's Word teaches us to do as believers because we love Jesus.")
+    title ToDo Bible Home Page
+    // Bootstrap
+    link(href='css/bootstrap.min.css', rel='stylesheet')
+    link(href='css/common_page.css', rel='stylesheet')
+  body
+    //
+      Menu definition
+      ==================================================
+    .navbar-wrapper
+      .container.bg-light-purple
+        nav.navbar.navbar-default.navbar-static-top
+          .container
+            .navbar-header
+              button.navbar-toggle.collapsed(type='button', data-toggle='collapse', data-target='#navbar', aria-expanded='false', aria-controls='navbar')
+                span.sr-only Toggle navigation
+                span.icon-bar
+                span.icon-bar
+                span.icon-bar
+              a.navbar-brand.disabled
+                strong 
+                  span(style="color: lightskyblue;") ToDo:
+                  span(style="color: gold;") Bible
+            #navbar.navbar-collapse.collapse
+              ul.nav.navbar-nav
+                li
+                  a(href='index.html') Home
+                li.dropdown
+                  a.dropdown-toggle(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
+                    | Bible 
+                    span.caret
+                  ul.dropdown-menu
+                    li
+                      a(href='kjv/genesis_1.html') Start Reading The Bible
+                    li
+                      a(href='kjv/king_james_bible_index_page.html') Bible Index Page
+                li.dropdown
+                  a.dropdown-toggle(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
+                    | ToDo 
+                    span.caret
+                  ul.dropdown-menu
+                    li
+                      a(href='todo/bible_todo_list_ultimate.html') Ultimate Bible ToDo List
+                    li.divider(role='separator')
+                    li
+                      a(href='todo/bible_todo_list.html') Bible ToDo List (By Topic)
+                    li
+                      a(href='todo/bible_todo_list_by_bible_book.html') Bible ToDo List (By Bible Book)
+                    li
+                      a(href='todo/bible_todo_list_by_a_to_z.html') Bible ToDo List (By A-Z)
+                    li.divider(role='separator')
+                    li
+                      a(href='todo/bible_todo_topics_index.html') ToDo List Topic Index
+                li
+                  a(href='about_todo_bible.html') About
+    //
+      Primary marketing message or call to action
+      ==================================================
+    .container
+      .jumbotron.text-center
+        h1 Be encouraged.
+        p God has a plan and a purpose for your life!
+        p Read the bible to discover your true identity 
+          | and learn who you were created to be.
+        //p
+          //a.btn.btn-warning.btn-lg(href='kjv/jeremiah_29.html?goto=11', role='button') Jeremiah 29:11 »
+    //
+      Main content features
+      ==================================================
+    .container.text-center
+      // Three columns of text below the jumbotron / carousel
+      .row
+        .col-sm-4
+          img.img-thumbnail(src='images/todo3.jpg', width='178', height='178', alt='ToDo Sticky Note')
+          h2 Bible ToDo List
+          p
+            | A 
+            a(href='todo/bible_todo_list.html') Bible ToDo List
+            |  reminding us what God's Word teaches us to do because we love Jesus.
+            | See the 
+            a(href='todo/bible_todo_list_ultimate.html') Ultimate Bible ToDo List
+            |  recommended by Jesus.
+          p
+            a.btn.btn-primary(href='todo/bible_todo_list_ultimate.html', role='button') View Ultimate Bible ToDo List »
+          hr.featurette-divider.hidden-sm.hidden-md.hidden-lg
+        // /.col-sm-4
+        .col-sm-4
+          img.img-thumbnail(src='images/kjv.jpg', width='178', height='178', alt='King James Bible')
+          h2 Read The Bible
+          p
+            | Read the King James Bible with the words of Jesus highlighted in 
+            span(style='color:red') red
+            | . Use the 
+            a(href='kjv/king_james_bible_index_page.html') Bible Index Page
+            |  to quickly navigate to any chapter of the bible.
+          p
+            a.btn.btn-primary(href='kjv/genesis_1.html', role='button') Start Reading The Bible »
+          hr.featurette-divider.hidden-sm.hidden-md.hidden-lg
+        // /.col-sm-4
+        .col-sm-4
+          img.img-thumbnail(src='images/twitter_logo.png', width='178', height='178', alt='Twitter Logo')
+          h2 Follow @ToDoBible
+          p
+            | You can contact or follow @ToDoBible on Twitter
+            | to learn about updates to the Bible ToDo List as well as to receive tweets of encouragement.
+          p
+            a.btn.btn-primary(href='https://twitter.com/ToDoBible', role='button', target="_blank") View @ToDoBible »
+        // /.col-sm-4
+      // /.row
+      hr.featurette-divider
+      footer.footer
+        .container
+          p
+            | Copyright © 2017 ToDoBible.org. All rights reserved. 
+            a(href='#')
+              small Top&nbsp;of&nbsp;page
+    //
+      jQuery (necessary for Bootstrap's JavaScript plugins)
+      originally from: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+    script(src='script/jquery-1.12.4.min.js')
+    // Include all compiled plugins (below), or include individual files as needed
+    script(src='script/bootstrap.min.js')

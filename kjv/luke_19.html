@@ -2,87 +2,77 @@
 <html lang="en-GB">
   <head>
     <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Luke chapter 19 - King James Bible</title>
     <meta name="description" content="King James Bible: Luke chapter 19">
     <meta name="keywords" content="king james holy bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV">
-    <meta name="viewport" content="width=1024">
-    <link href="../css/reset.css" rel="stylesheet" type="text/css">
-    <link href="../css/tbpage.css" rel="stylesheet" type="text/css">
-    <link href="../css/biblepage.css" rel="stylesheet" type="text/css">
-    <link href="../css/biblepage_print.css" rel="stylesheet" type="text/css" media="print"><script type="text/javascript" src="../script/biblenav.js"></script><script type="text/javascript" src="../script/jquery-1.4.2.min.js"></script><script type="text/javascript" src="../script/jquery.scrollTo-1.4.2-min.js"></script><script type="text/javascript" src="../script/highlight-verses.js"></script></head>
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/common_page.css" rel="stylesheet">
+    <link href="../css/kjv_page.css" rel="stylesheet">
+  </head>
   <body>
+    <div class="navbar-wrapper">
+      <div class="container"><nav class="navbar navbar-default navbar-static-top"><div class="container">
+            <div class="navbar-header"><button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand disabled"><strong><span style="color: lightskyblue;">ToDo:</span><span style="color: gold;">Bible</span></strong></a></div>
+            <div class="navbar-collapse collapse" id="navbar">
+              <ul class="nav navbar-nav">
+                <li><a href="../index.html">Home</a></li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bible <span class="caret"></span></a><ul class="dropdown-menu">
+                    <li><a href="genesis_1.html">Start Reading The Bible</a></li>
+                    <li><a href="king_james_bible_index_page.html">Bible Index Page</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="luke_20.html" alt="Next chapter (Luke 20)" title="Next chapter (Luke 20)">
+                          Next Chapter
+                        </a></li>
+                    <li><a href="luke_18.html" alt="Previous chapter (Luke 18)" title="Previous chapter (Luke 18)">
+                            Previous Chapter
+                        </a></li>
+                    <li><a href="#gotoChapter" title="Go To Chapter (Luke)">
+                          Go To Chapter ...</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="#vref">Go To Bible Reference ...</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ToDo <span class="caret"></span></a><ul class="dropdown-menu">
+                    <li><a href="../todo/bible_todo_list_ultimate.html">Ultimate Bible ToDo List</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="../todo/bible_todo_list.html">Bible ToDo List (By Topic)</a></li>
+                    <li><a href="../todo/bible_todo_list_by_bible_book.html">Bible ToDo List (By Bible
+                          Book)</a></li>
+                    <li><a href="../todo/bible_todo_list_by_a_to_z.html">Bible ToDo List (By A-Z)</a></li>
+                    <li class="divider" role="separator"></li>
+                    <li><a href="../todo/bible_todo_topics_index.html">ToDo List Topic Index</a></li>
+                  </ul>
+                </li>
+                <li><a href="../about_todo_bible.html">About</a></li>
+              </ul>
+            </div>
+          </div></nav></div>
+    </div>
     <div class="container">
-      <div class="headerblock"><a href="../index.html"><div class="logoblock">
-            <h5><span style="color:white;">TODO:</span><span style="color:gold;">Bible</span></h5>
-            <p>Read it. Believe it.</p>
-            <p><b>Do it!</b></p>
-          </div></a><div class="logoverse">
-          <p>
-                But be ye doers of the word,<br>
-                  and not hearers only,<br>deceiving your own selves.</p><a href="james_1.html?goto=22">James 1:22</a></div>
+      <div class="bpheaderblock hidden-sm hidden-xs">
+        <div class="logoverse">
+          <p><a href="james_1.html?goto=22">But be ye doers of the word,<br>
+                  and not hearers only,<br>
+                  deceiving your own selves.</a></p>
+        </div>
       </div>
-      <div class="contentblock">
-        <div class="leftsidebar">
-          <div class="p_menu"><a href="../index.html">Home</a><a href="../about_todo_bible.html">About TODO:Bible</a><a class="Selected">Read The Bible</a></div>
-          <div class="p_submenu"><a href="king_james_bible_index_page.html">Bible Index Page</a></div>
-          <div class="p_menu"><a href="../todo/bible_todo_list.html">Bible ToDo List</a></div>
-        </div>
-        <div class="rightsidebar">
-          <h4>Navigate The Bible</h4>
-          <h5>Go To Bible Reference</h5>
-          <div class="versenavigation">
-            <form>
-              <p>Type a reference to go to:</p>
-              <fieldset><input type="text" id="vref"><input id="gotoverse" type="submit" value="Go" onclick="GoToVerse(); return false"><p>e.g. 'John 3:16' or 'Ps 23'</p>
-              </fieldset>
-            </form>
-          </div>
-          <h5>Chapter [Luke]</h5>
-          <table class="chapternavigation">
-          <tr>
-<td><a href="luke_1.html" title="Go to Luke chapter 1">1</a></td>
-            <td><a href="luke_2.html" title="Go to Luke chapter 2">2</a></td>
-            <td><a href="luke_3.html" title="Go to Luke chapter 3">3</a></td>
-            <td><a href="luke_4.html" title="Go to Luke chapter 4">4</a></td>
-            <td><a href="luke_5.html" title="Go to Luke chapter 5">5</a></td>
-            <td><a href="luke_6.html" title="Go to Luke chapter 6">6</a></td>
-            <td><a href="luke_7.html" title="Go to Luke chapter 7">7</a></td>
-            <td><a href="luke_8.html" title="Go to Luke chapter 8">8</a></td>
-            <td><a href="luke_9.html" title="Go to Luke chapter 9">9</a></td>
-            <td><a href="luke_10.html" title="Go to Luke chapter 10">10</a></td>
-        </tr>
-
-          <tr>
-<td><a href="luke_11.html" title="Go to Luke chapter 11">11</a></td>
-            <td><a href="luke_12.html" title="Go to Luke chapter 12">12</a></td>
-            <td><a href="luke_13.html" title="Go to Luke chapter 13">13</a></td>
-            <td><a href="luke_14.html" title="Go to Luke chapter 14">14</a></td>
-            <td><a href="luke_15.html" title="Go to Luke chapter 15">15</a></td>
-            <td><a href="luke_16.html" title="Go to Luke chapter 16">16</a></td>
-            <td><a href="luke_17.html" title="Go to Luke chapter 17">17</a></td>
-            <td><a href="luke_18.html" title="Go to Luke chapter 18">18</a></td>
-            <td id="currentchapterhighlight">19</td>
-            <td><a href="luke_20.html" title="Go to Luke chapter 20">20</a></td>
-        </tr>
-
-          <tr>
-<td><a href="luke_21.html" title="Go to Luke chapter 21">21</a></td>
-            <td><a href="luke_22.html" title="Go to Luke chapter 22">22</a></td>
-            <td><a href="luke_23.html" title="Go to Luke chapter 23">23</a></td>
-            <td><a href="luke_24.html" title="Go to Luke chapter 24">24</a></td>
-        </tr>
-</table>
-        </div>
-        <div class="biblepage">
-    <table class="bp_head_foot">
-            <tr>
-              <td width="20"><a href="luke_18.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Luke 18)" title="Previous chapter (Luke 18)"></a></td>
-              <td>
-                <h1>Luke chapter 19</h1>
-              </td>
-              <td width="20"><a href="luke_20.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Luke 20)" title="Next chapter (Luke 20)"></a></td>
-            </tr>
-          </table>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <div class="biblepage">
+    <table class="bp_head_foot" width="100%" style="margin-bottom: 7px;">
+              <tr>
+                <td width="20"><a href="luke_18.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Luke 18)" title="Previous chapter (Luke 18)"></a></td>
+                <td>
+                  <h1>Luke chapter 19</h1>
+                </td>
+                <td width="20"><a href="luke_20.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Luke 20)" title="Next chapter (Luke 20)"></a></td>
+              </tr>
+            </table>
 <div class="verse" id="v1">
     <b>1</b> And <i>Jesus</i> entered and passed through Jericho.
 </div>
@@ -96,7 +86,7 @@
     <b>4</b> And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that <i>way</i>.
 </div>
 <div class="verse" id="v5">
-    <b>5</b> And when Jesus came to the place, he looked up, and saw him, and said unto him, <woc>Zacchaeus, make haste, and come down; for to day I must abide at thy house.</woc>
+    <b>5</b> And when Jesus came to the place, he looked up, and saw him, and said unto him, <span style="color:red;">Zacchaeus, make haste, and come down; for to day I must abide at thy house.</span>
 </div>
 <div class="verse" id="v6">
     <b>6</b> And he made haste, and came down, and received him joyfully.
@@ -108,61 +98,61 @@
     <b>8</b> And Zacchaeus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore <i>him</i> fourfold.
 </div>
 <div class="verse" id="v9">
-    <b>9</b> And Jesus said unto him, <woc>This day is salvation come to this house, forsomuch as he also is a son of Abraham.</woc>
+    <b>9</b> And Jesus said unto him, <span style="color:red;">This day is salvation come to this house, forsomuch as he also is a son of Abraham.</span>
 </div>
 <div class="verse" id="v10">
-    <b>10</b> <woc>For the Son of man is come to seek and to save that which was lost.</woc>
+    <b>10</b> <span style="color:red;">For the Son of man is come to seek and to save that which was lost.</span>
 </div>
 <div class="verse" id="v11">
     <b>11</b> And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.
 </div>
 <div class="verse" id="v12">
-    <b>12</b> He said therefore, <woc>A certain nobleman went into a far country to receive for himself a kingdom, and to return.</woc>
+    <b>12</b> He said therefore, <span style="color:red;">A certain nobleman went into a far country to receive for himself a kingdom, and to return.</span>
 </div>
 <div class="verse" id="v13">
-    <b>13</b> <woc>And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.</woc>
+    <b>13</b> <span style="color:red;">And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.</span>
 </div>
 <div class="verse" id="v14">
-    <b>14</b> <woc>But his citizens hated him, and sent a message after him, saying, We will not have this <i>man</i> to reign over us.</woc>
+    <b>14</b> <span style="color:red;">But his citizens hated him, and sent a message after him, saying, We will not have this <i>man</i> to reign over us.</span>
 </div>
 <div class="verse" id="v15">
-    <b>15</b> <woc>And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.</woc>
+    <b>15</b> <span style="color:red;">And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.</span>
 </div>
 <div class="verse" id="v16">
-    <b>16</b> <woc>Then came the first, saying, Lord, thy pound hath gained ten pounds.</woc>
+    <b>16</b> <span style="color:red;">Then came the first, saying, Lord, thy pound hath gained ten pounds.</span>
 </div>
 <div class="verse" id="v17">
-    <b>17</b> <woc>And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.</woc>
+    <b>17</b> <span style="color:red;">And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.</span>
 </div>
 <div class="verse" id="v18">
-    <b>18</b> <woc>And the second came, saying, Lord, thy pound hath gained five pounds.</woc>
+    <b>18</b> <span style="color:red;">And the second came, saying, Lord, thy pound hath gained five pounds.</span>
 </div>
 <div class="verse" id="v19">
-    <b>19</b> <woc>And he said likewise to him, Be thou also over five cities.</woc>
+    <b>19</b> <span style="color:red;">And he said likewise to him, Be thou also over five cities.</span>
 </div>
 <div class="verse" id="v20">
-    <b>20</b> <woc>And another came, saying, Lord, behold, <i>here is</i> thy pound, which I have kept laid up in a napkin:</woc>
+    <b>20</b> <span style="color:red;">And another came, saying, Lord, behold, <i>here is</i> thy pound, which I have kept laid up in a napkin:</span>
 </div>
 <div class="verse" id="v21">
-    <b>21</b> <woc>For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.</woc>
+    <b>21</b> <span style="color:red;">For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.</span>
 </div>
 <div class="verse" id="v22">
-    <b>22</b> <woc>And he saith unto him, Out of thine own mouth will I judge thee, <i>thou</i> wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:</woc>
+    <b>22</b> <span style="color:red;">And he saith unto him, Out of thine own mouth will I judge thee, <i>thou</i> wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:</span>
 </div>
 <div class="verse" id="v23">
-    <b>23</b> <woc>Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?</woc>
+    <b>23</b> <span style="color:red;">Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?</span>
 </div>
 <div class="verse" id="v24">
-    <b>24</b> <woc>And he said unto them that stood by, Take from him the pound, and give <i>it</i> to him that hath ten pounds.</woc>
+    <b>24</b> <span style="color:red;">And he said unto them that stood by, Take from him the pound, and give <i>it</i> to him that hath ten pounds.</span>
 </div>
 <div class="verse" id="v25">
-    <b>25</b> <woc>(And they said unto him, Lord, he hath ten pounds.)</woc>
+    <b>25</b> <span style="color:red;">(And they said unto him, Lord, he hath ten pounds.)</span>
 </div>
 <div class="verse" id="v26">
-    <b>26</b> <woc>For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.</woc>
+    <b>26</b> <span style="color:red;">For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.</span>
 </div>
 <div class="verse" id="v27">
-    <b>27</b> <woc>But those mine enemies, which would not that I should reign over them, bring hither, and slay <i>them</i> before me.</woc>
+    <b>27</b> <span style="color:red;">But those mine enemies, which would not that I should reign over them, bring hither, and slay <i>them</i> before me.</span>
 </div>
 <div class="verse" id="v28">
     <b>28</b> And when he had thus spoken, he went before, ascending up to Jerusalem.
@@ -171,10 +161,10 @@
     <b>29</b> And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called <i>the mount</i> of Olives, he sent two of his disciples,
 </div>
 <div class="verse" id="v30">
-    <b>30</b> Saying, <woc>Go ye into the village over against <i>you</i>; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring <i>him hither</i>.</woc>
+    <b>30</b> Saying, <span style="color:red;">Go ye into the village over against <i>you</i>; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring <i>him hither</i>.</span>
 </div>
 <div class="verse" id="v31">
-    <b>31</b> <woc>And if any man ask you, Why do ye loose <i>him</i>? thus shall ye say unto him, Because the Lord hath need of him.</woc>
+    <b>31</b> <span style="color:red;">And if any man ask you, Why do ye loose <i>him</i>? thus shall ye say unto him, Because the Lord hath need of him.</span>
 </div>
 <div class="verse" id="v32">
     <b>32</b> And they that were sent went their way, and found even as he had said unto them.
@@ -201,25 +191,25 @@
     <b>39</b> And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples.
 </div>
 <div class="verse" id="v40">
-    <b>40</b> And he answered and said unto them, <woc>I tell you that, if these should hold their peace, the stones would immediately cry out.</woc>
+    <b>40</b> And he answered and said unto them, <span style="color:red;">I tell you that, if these should hold their peace, the stones would immediately cry out.</span>
 </div>
 <div class="verse" id="v41">
     <b>41</b> And when he was come near, he beheld the city, and wept over it,
 </div>
 <div class="verse" id="v42">
-    <b>42</b> Saying, <woc>If thou hadst known, even thou, at least in this thy day, the things <i>which belong</i> unto thy peace! but now they are hid from thine eyes.</woc>
+    <b>42</b> Saying, <span style="color:red;">If thou hadst known, even thou, at least in this thy day, the things <i>which belong</i> unto thy peace! but now they are hid from thine eyes.</span>
 </div>
 <div class="verse" id="v43">
-    <b>43</b> <woc>For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,</woc>
+    <b>43</b> <span style="color:red;">For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,</span>
 </div>
 <div class="verse" id="v44">
-    <b>44</b> <woc>And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.</woc>
+    <b>44</b> <span style="color:red;">And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.</span>
 </div>
 <div class="verse" id="v45">
     <b>45</b> And he went into the temple, and began to cast out them that sold therein, and them that bought;
 </div>
 <div class="verse" id="v46">
-    <b>46</b> Saying unto them, <woc>It is written, My house is the house of prayer: but ye have made it a den of thieves.</woc>
+    <b>46</b> Saying unto them, <span style="color:red;">It is written, My house is the house of prayer: but ye have made it a den of thieves.</span>
 </div>
 <div class="verse" id="v47">
     <b>47</b> And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,
@@ -228,19 +218,66 @@
     <b>48</b> And could not find what they might do: for all the people were very attentive to hear him.
 </div>
 
-    <table class="bp_head_foot">
-            <tr>
-              <td width="20"><a href="luke_18.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Luke 18)" title="Previous chapter (Luke 18)"></a></td>
-              <td>
-                <h2>Luke chapter 19</h2>
-              </td>
-              <td width="20"><a href="luke_20.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Luke 20)" title="Next chapter (Luke 20)"></a></td>
-            </tr>
-          </table>
+    <table class="bp_head_foot hidden-print" style="margin-top: 7px;">
+              <tr>
+                <td width="20"><a href="luke_18.html"><img src="../images/prev.png" width="20" height="20" alt="Previous chapter (Luke 18)" title="Previous chapter (Luke 18)"></a></td>
+                <td>
+                  <h2>Luke chapter 19</h2>
+                </td>
+                <td width="20"><a href="luke_20.html"><img src="../images/next.png" width="20" height="20" alt="Next chapter (Luke 20)" title="Next chapter (Luke 20)"></a></td>
+              </tr>
+            </table>
 </div>
+        </div>
+        <div class="col-md-4 hidden-print">
+          <hr class="featurette-divider hidden-md hidden-lg">
+          <div class="biblenavigation">
+            <h3>Navigate The Bible</h3>
+            <h4>Go To Bible Reference</h4>
+            <div class="versenavigation">
+              <form><label for="vref">Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:</label><fieldset><input type="text" id="vref" maxlength="25"><button class="btn-sm btn-primary" id="gotoverse" type="submit" onclick="GoToVerse(); return false">Go</button></fieldset>
+              </form>
+            </div>
+            <h4 id="gotoChapter">Go To Chapter [Luke]</h4>
+            <table class="chapternavigation">
+          <tr>
+<td><a href="luke_1.html" title="Go to Luke chapter 1">1</a></td>
+              <td><a href="luke_2.html" title="Go to Luke chapter 2">2</a></td>
+              <td><a href="luke_3.html" title="Go to Luke chapter 3">3</a></td>
+              <td><a href="luke_4.html" title="Go to Luke chapter 4">4</a></td>
+              <td><a href="luke_5.html" title="Go to Luke chapter 5">5</a></td>
+              <td><a href="luke_6.html" title="Go to Luke chapter 6">6</a></td>
+              <td><a href="luke_7.html" title="Go to Luke chapter 7">7</a></td>
+              <td><a href="luke_8.html" title="Go to Luke chapter 8">8</a></td>
+              <td><a href="luke_9.html" title="Go to Luke chapter 9">9</a></td>
+              <td><a href="luke_10.html" title="Go to Luke chapter 10">10</a></td>
+        </tr>
+
+          <tr>
+<td><a href="luke_11.html" title="Go to Luke chapter 11">11</a></td>
+              <td><a href="luke_12.html" title="Go to Luke chapter 12">12</a></td>
+              <td><a href="luke_13.html" title="Go to Luke chapter 13">13</a></td>
+              <td><a href="luke_14.html" title="Go to Luke chapter 14">14</a></td>
+              <td><a href="luke_15.html" title="Go to Luke chapter 15">15</a></td>
+              <td><a href="luke_16.html" title="Go to Luke chapter 16">16</a></td>
+              <td><a href="luke_17.html" title="Go to Luke chapter 17">17</a></td>
+              <td><a href="luke_18.html" title="Go to Luke chapter 18">18</a></td>
+              <td id="currentchapterhighlight">19</td>
+              <td><a href="luke_20.html" title="Go to Luke chapter 20">20</a></td>
+        </tr>
+
+          <tr>
+<td><a href="luke_21.html" title="Go to Luke chapter 21">21</a></td>
+              <td><a href="luke_22.html" title="Go to Luke chapter 22">22</a></td>
+              <td><a href="luke_23.html" title="Go to Luke chapter 23">23</a></td>
+              <td><a href="luke_24.html" title="Go to Luke chapter 24">24</a></td>
+        </tr>
+</table>
+          </div>
+        </div>
       </div>
-      <div class="footerblock">
-            Copyright &copy; 2017 ToDoBible.org. All rights reserved.&nbsp;&nbsp;<a href="#top">Top of page</a></div>
     </div>
-  </body>
+    <div class="container">
+      <hr class="featurette-divider"><footer class="footer text-center"><p>Copyright &copy; 2017 ToDoBible.org. All rights reserved. 
+              <a href="#"><small>Top&nbsp;of&nbsp;page</small></a></p></footer></div><script type="text/javascript" src="../script/biblenav.js"></script><script src="../script/jquery-1.12.4.min.js"></script><script type="text/javascript" src="../script/jquery.scrollTo.js"></script><script src="../script/bootstrap.min.js"></script><script type="text/javascript" src="../script/highlight-verses.js"></script></body>
 </html>
