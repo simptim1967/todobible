@@ -85,8 +85,13 @@ h3 {
 }
 
 h4 {
-    font-size: 1.3em;
+    font-size: 1.1em;
     font-weight: bold;
     color: #b388ff;
 }
 
+#mugshot {
+    margin-left: 3px;
+    margin-bottom: 3px;
+    float: right;
+}
