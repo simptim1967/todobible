@@ -56,7 +56,6 @@
                           <xsl:attribute name="href">
                             <xsl:value-of select="/bible/book/chapter/attribute::nextChapter"/>
                           </xsl:attribute>
-                          <xsl:attribute name="alt">Next chapter (<xsl:value-of select="/bible/book/chapter/attribute::nextTitle"/>)</xsl:attribute>
                           <xsl:attribute name="title">Next chapter (<xsl:value-of select="/bible/book/chapter/attribute::nextTitle"/>)</xsl:attribute>
                           Next Chapter
                         </a></li>
@@ -64,7 +63,6 @@
                             <xsl:attribute name="href">
                               <xsl:value-of select="/bible/book/chapter/attribute::prevChapter"/>
                             </xsl:attribute>
-                              <xsl:attribute name="alt">Previous chapter (<xsl:value-of select="/bible/book/chapter/attribute::prevTitle"/>)</xsl:attribute>
                               <xsl:attribute name="title">Previous chapter (<xsl:value-of select="/bible/book/chapter/attribute::prevTitle"/>)</xsl:attribute>
                             Previous Chapter
                         </a></li>

@@ -97,25 +97,25 @@
 }
 
 .bp_head_foot img {
-    vertical-align: middle;
+    display:block;
 }
 
 .highlightverse {
     padding: 6px;
     text-indent: 1em;
     line-height: 1.3em;
-    background-color: lightpink;
     font-family: Verdana, "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-size: 1em;
     color: black;
+    background-color: lightpink;
 }
 
 .verse {
-    font-family: Verdana, "Trebuchet MS", Arial, Helvetica, sans-serif;
-    font-size: 1em;
     padding: 6px;
     text-indent: 1em;
     line-height: 1.3em;
+    font-family: Verdana, "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 1em;
     color: black;
 }
 
@@ -125,7 +125,6 @@
 
 .verse:hover {
     background-color: lemonchiffon;
-    border: solid 1px gray;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -172,14 +171,6 @@ h4 {
 .panel-heading a {
     display: block;
 }
-.indexpage {
-    width: 100%;
-}
-
-.indexpage b {
-    color: purple;
-}
-
 .indexnavigation {
     background-color: #a7a7a7;
     width: 100%;
