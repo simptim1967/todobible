@@ -53,6 +53,17 @@ body {
     color:red;
 }
 
+.panel {
+    margin-bottom: 1px;
+}
+.panel-heading {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 1.2em;
+}
+.panel-heading a {
+    display: block;
+}
 .jumbotron {
     background-image: url(../images/home2.jpg);
     background-repeat: no-repeat;

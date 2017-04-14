@@ -114,6 +114,14 @@ h3 {
     margin-bottom: 10px;
     font-size:1.1em;
 }
+.topic {
+     text-align:left;
+     color:purple;
+     background-color:#bdbdbd; /* #E2E2E2; */
+     border:solid 1px purple;
+     font-size:1.2em;
+}
+
 .a2z {
      width:100%;
      margin-top:5px;
@@ -125,13 +133,9 @@ h3 {
      margin-top:5px;
      margin-bottom:10px;
 }
-
-.topic {
-     text-align:left;
-     color:purple;
-     background-color:#bdbdbd; /* #E2E2E2; */
-     border:solid 1px purple;
-     font-size:1.2em;
+.booklist {
+     background-color: #F0D1F3;
+     padding: 3px;
 }
 
 .biblebook {

@@ -22,7 +22,7 @@ call xslt-all.bat
 
 call pug-all.bat
 
-copy .\todo\*.html ..\live\todo
+call todo-all.bat
 
 echo Copying root files ...
 copy .\sitemap.xml ..\live
