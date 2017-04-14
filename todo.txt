@@ -3,10 +3,6 @@ ToDoBible.org TODO
 
 Dev Tasks
 =========
-Separate website content from source components
-Create full website build script (including linting)
-Learn Visual Studio Code (vsc)
-Get tasks working in vsc (build, lint etc.)
 Start using pug templates
 Figure out how to load JSON data into pug
 Generate ToDo list & topic index pages from data
@@ -15,9 +11,7 @@ Generate Topic Index from data
 Transition from git into GitHub
 Learn GitHub 
 Test printing
-Audit website for accessibility
-Fix accessibility issues
-Audit website with bootstrap lint tool
+Audit website for accessibility & fix issues
 Audit website for all styling in CSS
 
 Website Content
@@ -28,6 +22,7 @@ Make menu bar static
 Create article: Who am I? Why am I here?
 Create article: How can I stopp sinning?
 Create article: The batlle for good and evil
+Create article: You are not alone
 Create "Navigate Life On Earth" sidebar for article links
 Create links to other Christian websites (lifestylechristianity.com, healing, overcoming etc.) 
 Create Fav icon for home page
@@ -38,6 +33,8 @@ Create My Testimony page
 
 Dev Tools
 =========
+Learn Visual Studio Code (vsc)
+Get tasks working in vsc (build, lint etc.)
 Obtain HTML lint tool
 Obtain HTML bad link analyser
 

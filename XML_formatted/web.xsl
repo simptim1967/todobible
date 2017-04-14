@@ -273,7 +273,7 @@
     <!-- Generate header for this chapter -->
       <table class="bp_head_foot">
         <tr>
-          <td width="20">
+          <td class="nav-arrow">
             <a>
               <xsl:attribute name="href">
                 <xsl:value-of select="/bible/book/chapter/attribute::prevChapter"/>
@@ -296,7 +296,7 @@
               </xsl:choose>
             </h1>
           </td>
-          <td width="20">
+          <td class="nav-arrow">
             <a>
               <xsl:attribute name="href">
                 <xsl:value-of select="/bible/book/chapter/attribute::nextChapter"/>
@@ -319,7 +319,7 @@
     <!-- Generate footer for this chapter and make it hidden on print -->
       <table class="bp_head_foot hidden-print">
         <tr>
-          <td width="20">
+          <td class="nav-arrow">
             <a>
               <xsl:attribute name="href">
                 <xsl:value-of select="/bible/book/chapter/attribute::prevChapter"/>
@@ -342,7 +342,7 @@
               </xsl:choose>
             </h2>
           </td>
-          <td width="20">
+          <td class="nav-arrow">
             <a>
               <xsl:attribute name="href">
                 <xsl:value-of select="/bible/book/chapter/attribute::nextChapter"/>

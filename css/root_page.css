@@ -20,12 +20,14 @@ ul.affix-bottom {
 
 .quoteverse {
     display:block;
-    width: 80%;
+    float: right;
+    width: 50%;
     background-color: white;
     color: black;
-    border-left: solid 3px gray;
-    margin: auto;
-    margin-bottom: 10px;
+    border-left: solid 3px purple;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
     padding: 5px;
     font-size: 0.9em;
 }

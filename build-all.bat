@@ -1,9 +1,6 @@
 @echo off
 
-echo Copying CSS files ...
-del ..\live\css\*.css
-copy .\css\*_page.css ..\live\css
-copy .\css\bootstrap.min.css ..\live\css
+call css-all.bat
 
 echo Copying image files ...
 del ..\live\images\*.png
@@ -30,3 +27,9 @@ copy .\todo\*.html ..\live\todo
 echo Copying root files ...
 copy .\sitemap.xml ..\live
 copy .\robots.txt ..\live
+
+echo Running bootlint against HTML files ...
+bootlint ..\live\about_todo_bible.html
+bootlint ..\live\index.html
+bootlint ..\live\todo\*.html
+bootlint ..\live\kjv\*.html
