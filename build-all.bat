@@ -29,7 +29,7 @@ copy .\sitemap.xml ..\live
 copy .\robots.txt ..\live
 
 echo Running bootlint against HTML files ...
-bootlint ..\live\about_todo_bible.html
-bootlint ..\live\index.html
-bootlint ..\live\todo\*.html
-bootlint ..\live\kjv\*.html
+call bootlint ..\live\about_todo_bible.html
+call bootlint ..\live\index.html
+call bootlint ..\live\todo\*.html
+call bootlint ..\live\kjv\*.html
