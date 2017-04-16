@@ -13,56 +13,7 @@ html(lang='en-GB')
     link(href='css/common_page.css', rel='stylesheet')
     link(href='css/root_page.css', rel='stylesheet')
   body(data-spy='scroll', data-target='#myScrollspy')
-    //
-      data-spy="scroll" data-target="#myScrollspy"
-      Menu definition
-      ==================================================
-    .navbar-wrapper
-      .container.bg-light-purple
-        nav.navbar.navbar-default
-          .container
-            .navbar-header
-              button.navbar-toggle.collapsed(type='button', data-toggle='collapse', data-target='#navbar', aria-expanded='false', aria-controls='navbar')
-                span.sr-only Toggle navigation
-                span.icon-bar
-                span.icon-bar
-                span.icon-bar
-              a.navbar-brand.disabled
-                strong
-                  span(style='color: lightskyblue;') ToDo:
-                  span(style='color: gold;') Bible
-            #navbar.navbar-collapse.collapse
-              ul.nav.navbar-nav
-                li
-                  a(href='index.html') Home
-                li.dropdown
-                  a.dropdown-toggle(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
-                    | Bible 
-                    span.caret
-                  ul.dropdown-menu
-                    li
-                      a(href='kjv/genesis_1.html') Start Reading The Bible
-                    li
-                      a(href='kjv/king_james_bible_index_page.html') Bible Index Page
-                li.dropdown
-                  a.dropdown-toggle(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
-                    | ToDo 
-                    span.caret
-                  ul.dropdown-menu
-                    li
-                      a(href='todo/bible_todo_list_ultimate.html') Ultimate Bible ToDo List
-                    li.divider(role='separator')
-                    li
-                      a(href='todo/bible_todo_list.html') Bible ToDo List (By Topic)
-                    li
-                      a(href='todo/bible_todo_list_by_bible_book.html') Bible ToDo List (By Bible Book)
-                    li
-                      a(href='todo/bible_todo_list_by_a_to_z.html') Bible ToDo List (By A-Z)
-                    li.divider(role='separator')
-                    li
-                      a(href='todo/bible_todo_topics_index.html') ToDo List Topic Index
-                li
-                  a(href='about_todo_bible.html') About
+    include ./includes/root_page_menu.pug
     //
       Header
       ==================================================
@@ -190,6 +141,9 @@ html(lang='en-GB')
           .rightsidebar
             // <rightsidebar>
             h3 ToDo Bible News
+            h4 16th April, 2017
+            p
+              | He is risen. Jesus is alive forever more!
             h4 14th April, 2017
             p
               | Today (Good Friday), we remember what you did on the cross Lord Jesus.

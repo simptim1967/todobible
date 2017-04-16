@@ -84,7 +84,7 @@
                           Book)</a></li>
                         <li><a href="../todo/bible_todo_list_by_a_to_z.html">Bible ToDo List (By A-Z)</a></li>
                         <li class="divider" role="separator"></li>
-                        <li><a href="../todo/bible_todo_topics_index.html">ToDo List Topic Index</a></li>
+                        <li><a href="../todo/bible_todo_topics_index.html">Bible ToDo List Topic Index</a></li>
                       </ul>
                     </li>
                     <li><a href="../about_todo_bible.html">About</a></li>
