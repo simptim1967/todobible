@@ -1,0 +1,49 @@
+//
+// Todo page menu bar definition
+// ==================================================
+.navbar-wrapper
+  .container
+    nav.navbar.navbar-default
+      .container
+        .navbar-header
+          button.navbar-toggle.collapsed(type='button', data-toggle='collapse', data-target='#navbar', aria-expanded='false', aria-controls='navbar')
+            span.sr-only Toggle navigation
+            span.icon-bar
+            span.icon-bar
+            span.icon-bar
+          a.navbar-brand.disabled
+            strong
+              span(style='color: lightskyblue;') ToDo:
+              span(style='color: gold;') Bible
+        #navbar.navbar-collapse.collapse
+          ul.nav.navbar-nav
+            li
+              a(href='../index.html') Home
+            li.dropdown
+              a.dropdown-toggle(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
+                | Bible 
+                span.caret
+              ul.dropdown-menu
+                li
+                  a(href='../kjv/genesis_1.html') Start Reading The Bible
+                li
+                  a(href='../kjv/king_james_bible_index_page.html') Bible Index Page
+            li.dropdown
+              a.dropdown-toggle(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
+                | ToDo 
+                span.caret
+              ul.dropdown-menu
+                li
+                  a(href='bible_todo_list_ultimate.html') Ultimate Bible ToDo List
+                li.divider(role='separator')
+                li
+                  a(href='bible_todo_list.html') Bible ToDo List (By Topic)
+                li
+                  a(href='bible_todo_list_by_bible_book.html') Bible ToDo List (By Bible Book)
+                li
+                  a(href='bible_todo_list_by_a_to_z.html') Bible ToDo List (By A-Z)
+                li.divider(role='separator')
+                li
+                  a(href='bible_todo_topics_index.html') Bible ToDo List Topic Index
+            li
+              a(href='../about_todo_bible.html') About
