@@ -16,124 +16,47 @@ html(lang='en-GB')
     include ../includes/todo_page_header.pug
     include ../includes/todo_page_a2z_buttons.pug
     //-Define mixin to list topics for letter
-    mixin MIXIN_LIST_TOPICS(i)      
+    mixin MIXIN_LIST_TOPICS(i)
+      //-Compute actual letter from index
+      - var topicLetter = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"[i];
+      - var idRef = "todo_" + topicLetter;
+      //-Generate row header for this letter
+      .row(style="margin-left:0; margin-right:0;")
+        .col-md-12.col-sm-12.col-xs-12.letter(id=idRef)
+          | -#{topicLetter}- 
+          a.pull-right.gotop(href='#')
+            small Top of page
+      //-Generate topic links for this letter using 3 columns per row      
+      - var loop = 0;
       - var links = letters[i].topics;
-      - if (links.length > 0) {
-      - for (var loop = 0; loop < links.length; loop++) {
-      //- Process topic links for this letter
-      - var topic = links[loop];
-      - var href = "bible_todo_list.html#todo_" + topic.link;
-      - if (topic.prefix !== "") {
-        //-Indirect link to topic
-        | #{topic.prefix} (see 
-        a(href=href) #{topic.linkText}
-        | )
-        br        
-      - }
-      - else {
-        //-Direct link to topic
-        a(href=href) #{topic.linkText}
-        br
-      - }
-      - }
-      - }
-      - else {
-        //- No topic links exist for this letter
-        | N/A
-      - }
+      - while (loop < links.length) {
+      - var col = 1;
+      .row(style="margin-left:0; margin-right:0;")
+        - while (col < 4 && loop < links.length) {
+        .col-md-4.col-sm-12.col-xs-12.topiclist
+          //-Output topic link
+          - var topic = links[loop];
+          - var href = "bible_todo_list.html#todo_" + topic.link;
+          - if (topic.prefix !== "") {
+              //-Indirect link to topic
+              | #{topic.prefix} (see 
+              a(href=href) #{topic.linkText}
+              | )
+          - }
+          - else {
+              //-Direct link to topic
+              a(href=href) #{topic.linkText}
+          - }
+          - ++loop;
+          - ++col;
+        - } //-while col
+      - } //-while loop
     //-End of mixin definition
     .container
-      .row
-        #todo_A.col-md-1.col-sm-12.letter A
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(0)
-        #todo_B.col-md-1.col-sm-12.letter B
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(1)
-      .row
-        #todo_C.col-md-1.col-sm-12.letter C
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(2)
-        #todo_D.col-md-1.col-sm-12.letter D
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(3)
-      .row
-        #todo_E.col-md-1.col-sm-12.letter E
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(4)
-        #todo_F.col-md-1.col-sm-12.letter F
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(5)
-      .row
-        #todo_G.col-md-1.col-sm-12.letter G
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(6)
-        #todo_H.col-md-1.col-sm-12.letter H
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(7)
-      .row
-        #todo_I.col-md-1.col-sm-12.letter I
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(8)
-        #todo_J.col-md-1.col-sm-12.letter J
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(9)
-      .row
-        #todo_K.col-md-1.col-sm-12.letter K
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(10)
-        #todo_L.col-md-1.col-sm-12.letter L
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(11)
-      .row
-        #todo_M.col-md-1.col-sm-12.letter M
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(12)
-        #todo_N.col-md-1.col-sm-12.letter N
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(13)
-      .row
-        #todo_O.col-md-1.col-sm-12.letter O
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(14)
-        #todo_P.col-md-1.col-sm-12.letter P
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(15)
-      .row
-        #todo_Q.col-md-1.col-sm-12.letter Q
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(16)
-        #todo_R.col-md-1.col-sm-12.letter R
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(17)
-      .row
-        #todo_S.col-md-1.col-sm-12.letter S
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(18)
-        #todo_T.col-md-1.col-sm-12.letter T
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(19)
-      .row
-        #todo_U.col-md-1.col-sm-12.letter U
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(20)
-        #todo_V.col-md-1.col-sm-12.letter V
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(21)
-      .row
-        #todo_W.col-md-1.col-sm-12.letter W
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(22)
-        #todo_X.col-md-1.col-sm-12.letter X
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(23)
-      .row
-        #todo_Y.col-md-1.col-sm-12.letter Y
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(24)
-        #todo_Z.col-md-1.col-sm-12.letter Z
-        .col-md-5.col-sm-12.topiclist
-          + MIXIN_LIST_TOPICS(25)
+      //-Generate links for each letter of the alphabet indexed 0-25
+      - for (var i=0; i < 26; i++) {
+        + MIXIN_LIST_TOPICS(i)
+      - }
     .container
       hr.featurette-divider
       footer.footer.text-center

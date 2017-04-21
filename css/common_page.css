@@ -59,7 +59,7 @@ body {
 .panel-heading {
     padding-top: 2px;
     padding-bottom: 2px;
-    font-size: 1.2em;
+    font-size: 1.3em;
 }
 .panel-heading a {
     display: block;
@@ -187,3 +187,14 @@ h2 {
     background-color: lightskyblue;
 }
 
+@media (min-width: 768px) {
+   .container .row {
+      margin-right: -15px;
+      margin-left: -15px;
+    }
+  
+  @media (min-width: 768px) {
+  .container .form-horizontal .form-group {
+      margin-right: -15px;
+      margin-left: -15px;
+    }

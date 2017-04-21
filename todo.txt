@@ -1,35 +1,71 @@
 ToDoBible.org TODO
 ==================
 
+Website Automation
+==================
+Export todo list (by topic) data from Excel
+Generate todo list (by topic) from data
+Export todo list (by A-Z) data from Excel
+Generate todo list (by A-Z) from data
+Export todo list (by bible book) data from Excel
+Generate todo list (by bible book) from data
+Include todo item type badge in each todo item on todo lists
+Convert bible page formatted XML to JSON
+Generate bible pages from JSON
+Include todo items directly into bible page beneath verse as collapsable +/- view
+
+Website Visuals
+===============
+Optimise home page for mobile download (fix jumbotron image sizing)
+Sort out standard font for website (Consider trebuchet ms - see cssfontstack.com)
+ - Using standard sizing units (rems)
+Make menu bar static
+Make A-Z link buttons same size & spacing on different todo pages
+Replace images on home page with nicer SVG images
+
 Dev Tasks
 =========
-Start using pug templates
-Figure out how to load JSON data into pug
-Generate ToDo list & topic index pages from data
-Export ToDo list & topic index data from Excel
-Generate Topic Index from data
 Transition from git into GitHub
-Learn GitHub 
-Test printing
-Audit website for accessibility & fix issues
+Learn Git/GitHub 
+
+Website Standards
+=================
 Audit website for all styling in CSS
+Audit website for W3C HTML compliance
+Perform google webmaster analysis of site (???)
+Perform bing webmaster analysis of site (???)
+
+Website Printing
+================
+Test printing
+Fix printing issues
+
+Website Legal
+=============
+Audit website for accessibility 
+Fix accessibility issues
+Create Privacy page & link from all pages (see Is your website legal article)
 
 Website Content
 ===============
-Optimise home page for mobile download (fix jumbotron image sizing)
-Sort out standard font for website
-Make menu bar static
 Create article: Who am I? Why am I here?
 Create article: How can I stopp sinning?
 Create article: The batlle for good and evil
 Create article: You are not alone
-Create "Navigate Life On Earth" sidebar for article links
-Create links to other Christian websites (lifestylechristianity.com, healing, overcoming etc.) 
-Create Fav icon for home page
-Create Privacy page (see Is your website legal article)
+Create article: How can I find peace?
+Create My Testimony page
+Create "Navigate Life On Earth" sidebar for article & todo topic links
+ - format: What does the bible say about: <keyword> ...
+Create links to other Christian websites 
+- lifestylechristianity.com
+- healing, overcoming, 
+- blue letter bible
+- samaritans purse
+- tear fund 
 Create Contact Us page
 Create Bible reading plan page
-Create My Testimony page
+Learn about fav icons
+Create Fav icon for home page
 
 Dev Tools
 =========
