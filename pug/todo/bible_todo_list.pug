@@ -1,0 +1,123 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    title Bible ToDo List (By Topic)
+    meta(name='description', content='Bible todo list with todo items grouped by topic in alphabetical order.')
+    meta(name='keywords', content="bible todo list, holy king james bible, words of Jesus, commandments of Jesus, God's word, bible index, bible to do list")
+    link(href='../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../css/common_page.css', rel='stylesheet')
+    link(href='../css/todo_page.css', rel='stylesheet', type='text/css')
+  body
+    include ../includes/todo_page_menu.pug
+    include ../includes/todo_page_header.pug
+    .container
+      // <container>
+      .row
+        .col-md-12
+          h1 Bible ToDo List (By Topic)
+          hr.featurette-divider
+          table.tabheading
+            tr
+              td
+                a(href='bible_todo_list_disclaimer.html') Not By Works
+              td
+                a(href='bible_todo_list_ultimate.html') Ultimate Bible ToDo List
+              td#current Items By Topic
+              td
+                a(href='bible_todo_list_by_bible_book.html') Items By Bible Book
+              td
+                a(href='bible_todo_list_by_a_to_z.html') Items By A-Z
+              td#filler  
+          p
+            | See the 
+            a(href='bible_todo_topics_index.html') Bible ToDo List Topic Index
+            |  for a list of topics.
+          // ToDo List Items By Topic
+          table.bibletodolist
+            thead
+              tr
+                th(width='75%')
+                  | Topic / ToDo Item
+                  span.keylink
+                    | [
+                    a(href='bible_todo_list_disclaimer.html#key') Key
+                    | ]
+                th(width='25%') Bible Reference
+            //- Output row header followed by todo items for specified book 
+            //-Define mixin to list topics for book
+            mixin MIXIN_LIST_TODO_ITEMS_FOR_TOPIC(i)
+              - var displayName = topics[i].topic;
+              - var idName = "todo_" + topics[i].topicId;
+              //-Generate table row header for this topic
+              tr.topic
+                td(id=idName)
+                  | #{displayName} 
+                  span.badge.groupcount
+                    |   #{topics[i].items.length}  
+                td.gotop
+                  a(href='#') Top of page
+              //-Generate todo items for this topic      
+              - var loop = 0;
+              - var items = topics[i].items;
+              - while (loop < items.length) {
+              - var todo = items[loop];
+                tr
+                  td
+                    case todo.type
+                      when "F"
+                        span.badge.itemfact F
+                      when "FR"
+                        span.badge.itemtodowoc F
+                      when "P"
+                        span.badge.itempromise P
+                      when "PR"
+                        span.badge.itemtodowoc P
+                      when "T"
+                        span.badge.itemtodo T
+                      when "TR"
+                        span.badge.itemtodowoc T
+                      when "W"
+                        span.badge.itemwarn W
+                      when "WR"
+                        span.badge.itemtodowoc W
+                      default
+                        span.badge.itemtodo #{todo.type}
+                    |  !{todo.todoItem}
+                  td
+                    //-Output todo item bible ref(s)
+                    - var links = todo.bibleRefs;
+                    - for (var j=0; j<links.length; j++) {
+                    - var href = "../kjv/" + links[j].link;
+                    - if (j === links.length-1) {
+                      //-Last of possible multiple bible references
+                      a(href=href) #{links[j].linkText}  
+                    - }
+                    - else {
+                      //-Bible reference
+                      a(href=href) #{links[j].linkText},
+                      br   
+                    - }
+                    - }
+              - ++loop;
+              - } //-while loop
+            //-End of mixin definition 
+            tbody
+              //-Generate links for each topic
+              - for (var i=0; i < topics.length; i++) {
+                + MIXIN_LIST_TODO_ITEMS_FOR_TOPIC(i)
+              - }
+        // </col-md-12>
+      // </row>
+    // </container>
+    .container
+      hr.featurette-divider
+      footer.footer.text-center
+        p
+          | Copyright © 2017 ToDoBible.org. All rights reserved.
+          a(href='#')
+            small  Top of page
+    script(src='../script/jquery-1.12.4.min.js')
+    script(src='../script/bootstrap.min.js')

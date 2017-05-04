@@ -1,0 +1,115 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    title Bible ToDo List Disclaimer
+    meta(name='description', content='Bible todo list disclaimer.')
+    meta(name='keywords', content="bible todo list disclaimer, not by works, bible to do list, holy king james bible")
+    link(href='../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../css/common_page.css', rel='stylesheet')
+    link(href='../css/todo_page.css', rel='stylesheet', type='text/css')
+  body
+    include ../includes/todo_page_menu.pug
+    include ../includes/todo_page_header.pug
+    .container
+      // <container>
+      .row
+        .col-md-12
+          h1 Disclaimer
+          hr.featurette-divider
+          table.tabheading
+            tr
+              td#current Not By Works
+              td
+                a(href='bible_todo_list_ultimate.html') Ultimate Bible ToDo List
+              td
+                a(href='bible_todo_list.html') Items By Topic
+              td
+                a(href='bible_todo_list_by_bible_book.html') Items By Bible Book
+              td
+                a(href='bible_todo_list_by_a_to_z.html') Items By A-Z
+              td#filler.hidden-xs  
+          h2 Not By Works
+          p
+            | Nothing about this website seeks to promote salvation by works. 
+          p
+            | Salvation is
+            | the free gift of God by faith in Jesus Christ and cannot be earned.
+          .quoteverse
+            p
+              b 8
+              |   For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
+            p
+              b 9
+              |   Not of works, lest any man should boast.
+            p
+              b 10
+              |   For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
+            a(href='kjv/ephesians_2.html?goto=8-10') Ephesians 2:8-10
+          p
+            | The Bible ToDo List Items listed on this website are therefore not presented
+            | as legalistic lists of Christian do's and don'ts.
+          p
+            | The Bible ToDo List Items echo what the Holy scriptures teach us to do.
+            | Some also serve as sincere warnings or to highlight doctrinal truths and promises.
+            | All offer friendly encouragement and act as reminders to challenge the believer to
+            | incorporate them into daily living whenever opportunity arises.
+          p
+            | Why not make your bible your ToDo list? 
+          p
+            | Read it. Believe it. Do it. All for God's glory!
+          h2#key ToDo Item Key
+          p
+            | The following table explains the different types of ToDo items listed on this website:
+          table.todokey
+            thead
+              tr
+                th
+                  | Type
+                th
+                  | Meaning
+                th
+                  | When Spoken By Jesus
+            tbody
+              tr
+                td
+                  span.badge.itemfact F
+                td
+                  | Bible Fact
+                td
+                  span.badge.itemtodowoc F
+              tr
+                td
+                  span.badge.itempromise P
+                td
+                  | Bible Promise
+                td
+                  span.badge.itemtodowoc P
+              tr
+                td
+                  span.badge.itemtodo T
+                td
+                  | Bible To Do
+                td
+                  span.badge.itemtodowoc T
+              tr
+                td
+                  span.badge.itemwarn W
+                td
+                  | Bible Warning
+                td
+                  span.badge.itemtodowoc W
+        // </col-md-12>
+      // </row>
+    // </container>
+    .container
+      hr.featurette-divider
+      footer.footer.text-center
+        p
+          | Copyright © 2017 ToDoBible.org. All rights reserved.
+          a(href='#')
+            small  Top of page
+    script(src='../script/jquery-1.12.4.min.js')
+    script(src='../script/bootstrap.min.js')

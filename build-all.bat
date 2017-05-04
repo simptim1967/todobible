@@ -22,8 +22,6 @@ call xslt-all.bat
 
 call pug-all.bat
 
-call todo-all.bat
-
 echo Copying root files ...
 copy .\sitemap.xml ..\live
 copy .\robots.txt ..\live
@@ -31,5 +29,5 @@ copy .\robots.txt ..\live
 echo Running bootlint against HTML files ...
 call bootlint ..\live\about_todo_bible.html
 call bootlint ..\live\index.html
-call bootlint ..\live\todo\*.html
 call bootlint ..\live\kjv\*.html
+call bootlint ..\live\todo\*.html

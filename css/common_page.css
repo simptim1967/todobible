@@ -1,12 +1,18 @@
 /* common.css - Stylesheet to override bootstrap defaults and share styling common to all website pages */
 
+html {
+    /* set font defaults */
+/*    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; */
+    font-size: 18px; 
+}
+
 body {
+    /* set font defaults */
+/*    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; */
+    font-size: 18px; 
     /* set default colours */
     background-color: #d1c4e9; 
     color: purple;
-
-    /* set font defaults */
-    font-size: 16px;
 }
 
 /* image header beneath menu */
@@ -27,21 +33,23 @@ body {
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
-    font-family: Verdana,Geneva,sans-serif;
     text-align: right;
-    font-size: 0.9em;
+    text-shadow: 0 0 0.2rem black, 0 0 0.2rem black,0 0 0.2rem black,0 0 0.2rem black;
     font-weight: bold;
-    text-shadow: 0 0 0.3em black, 0 0 0.3em black,0 0 0.3em black,0 0 0.3em black;
 }
 
 .logoverse p {
     font-style: italic;
     color: violet;
+    font-size: 0.9rem;
+    margin-bottom: 3px;
+    line-height: 1.1rem;
 }
 
 .logoverse a {
     text-decoration: none;
     color: violet;
+    font-size: 0.9rem;
 }
 
 .logoverse a:hover {
@@ -56,10 +64,10 @@ body {
 .panel {
     margin-bottom: 1px;
 }
-.panel-heading {
+.panel-heading  {
     padding-top: 2px;
     padding-bottom: 2px;
-    font-size: 1.3em;
+    font-size: 1.3rem;
 }
 .panel-heading a {
     display: block;
@@ -80,6 +88,10 @@ h1 {
 
 h2 {
     color: purple;
+}
+
+p {
+    font-size: 1rem;
 }
 
 .img-thumbnail {
@@ -172,6 +184,10 @@ h2 {
     background-color: white; 
 }
 
+.dropdown-menu {
+    font-size: 0.9rem;
+}
+
 @media (max-width: 767px) {
     .navbar-default .navbar-nav .open .dropdown-menu > li > a {
         color: white; /* #777;*/
@@ -187,14 +203,76 @@ h2 {
     background-color: lightskyblue;
 }
 
+.itemfact {
+    background-color: cornflowerblue;
+    color: purple;
+    /* used monospaced font size for A-Z link buttons */
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 1rem;
+}
+.itempromise {
+    background-color: gold;
+    color: purple;
+    /* used monospaced font size for A-Z link buttons */
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 1rem;
+}
+.itemtodo {
+    background-color: purple;
+    color: white;
+    /* used monospaced font size for A-Z link buttons */
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 1rem;
+    font-weight: normal;
+}
+.itemwarn {
+    background-color: coral;
+    color: purple;
+    /* used monospaced font size for A-Z link buttons */
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 1rem;
+}
+.itemtodowoc {
+    background-color: #d32f2f;
+    color: white;
+    /* used monospaced font size for A-Z link buttons */
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 1rem;
+    font-weight: normal;
+}
+.quoteverse {
+    display:block;
+    width: 80%;
+    background-color: white;
+    color: black;
+    border-left: solid 3px purple;
+    margin: 10px auto;
+    padding: 5px;
+    font-size: 0.9rem;
+    text-indent: 0.8rem;
+}
+
+.quoteverse p {
+    font-size: 0.9rem;
+    padding-left: 5px;
+}
+
+.quoteverse a {
+    display: block;
+    text-align: center;
+}
+
+/*
 @media (min-width: 768px) {
-   .container .row {
-      margin-right: -15px;
-      margin-left: -15px;
+    .container .row {
+        margin-right: -15px;
+        margin-left: -15px;
     }
-  
-  @media (min-width: 768px) {
-  .container .form-horizontal .form-group {
-      margin-right: -15px;
-      margin-left: -15px;
+}
+@media (min-width: 768px) {
+    .container .form-horizontal .form-group {
+        margin-right: -15px;
+        margin-left: -15px;
     }
+}
+*/

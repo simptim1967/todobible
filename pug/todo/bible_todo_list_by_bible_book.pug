@@ -1,0 +1,200 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    title Bible ToDo List (By Bible Book)
+    meta(name='description', content='Bible todo list with todo items in order of bible book, chapter and verse.')
+    meta(name='keywords', content="bible todo list, holy king james bible, words of Jesus, commandments of Jesus, God's word, bible index, bible to do list")
+    link(href='../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../css/common_page.css', rel='stylesheet')
+    link(href='../css/todo_page.css', rel='stylesheet', type='text/css')
+  body
+    include ../includes/todo_page_menu.pug
+    include ../includes/todo_page_header.pug
+    .container
+      // <container>
+      .row
+        .col-md-12
+          h1 Bible ToDo List (By Bible Book)
+          hr.featurette-divider
+          table.tabheading
+            tr
+              td
+                a(href='bible_todo_list_disclaimer.html') Not By Works
+              td
+                a(href='bible_todo_list_ultimate.html') Ultimate Bible ToDo List
+              td
+                a(href='bible_todo_list.html') Items By Topic
+              td#current Items By Bible Book
+              td
+                a(href='bible_todo_list_by_a_to_z.html') Items By A-Z
+              td#filler  
+          .biblebooks
+            .panel.panel-default
+              .panel-heading
+                a(role='button', data-toggle='collapse', href='#ot', aria-expanded='false', aria-controls='ot')
+                  b Old Testament Books
+              #ot.panel-content.collapse.booklist
+                a.btn.btn-lg.btn-primary(href='#todo_genesis') Genesis
+                a.btn.btn-lg.btn-primary(href='#todo_exodus') Exodus
+                a.btn.btn-lg.btn-primary(href='#todo_leviticus') Leviticus
+                a.btn.btn-lg.btn-primary(href='#todo_numbers') Numbers
+                a.btn.btn-lg.btn-primary(href='#todo_deuteronomy') Deuteronomy
+                a.btn.btn-lg.btn-primary(href='#todo_joshua') Joshua
+                a.btn.btn-lg.btn-primary(href='#todo_judges') Judges
+                a.btn.btn-lg.btn-primary(href='#todo_ruth') Ruth
+                a.btn.btn-lg.btn-primary(href='#todo_1samuel') 1 Samuel
+                a.btn.btn-lg.btn-primary(href='#todo_2samuel') 2 Samuel
+                a.btn.btn-lg.btn-primary(href='#todo_1kings') 1 Kings
+                a.btn.btn-lg.btn-primary(href='#todo_2kings') 2 Kings
+                a.btn.btn-lg.btn-primary(href='#todo_1chronicles') 1 Chronicles
+                a.btn.btn-lg.btn-primary(href='#todo_2chronicles') 2 Chronicles
+                a.btn.btn-lg.btn-primary(href='#todo_ezra') Ezra
+                a.btn.btn-lg.btn-primary(href='#todo_nehemiah') Nehemiah
+                a.btn.btn-lg.btn-primary(href='#todo_esther') Esther
+                a.btn.btn-lg.btn-primary(href='#todo_job') Job
+                a.btn.btn-lg.btn-primary(href='#todo_psalms') Psalms
+                a.btn.btn-lg.btn-primary(href='#todo_proverbs') Proverbs
+                a.btn.btn-lg.btn-primary(href='#todo_ecclesiastes') Ecclesiastes
+                a.btn.btn-lg.btn-primary(href='#todo_song_of_solomon') Song of Solomon
+                a.btn.btn-lg.btn-primary(href='#todo_isaiah') Isaiah
+                a.btn.btn-lg.btn-primary(href='#todo_jeremiah') Jeremiah
+                a.btn.btn-lg.btn-primary(href='#todo_lamentations') Lamentations
+                a.btn.btn-lg.btn-primary(href='#todo_ezekiel') Ezekiel
+                a.btn.btn-lg.btn-primary(href='#todo_daniel') Daniel
+                a.btn.btn-lg.btn-primary(href='#todo_hosea') Hosea
+                a.btn.btn-lg.btn-primary(href='#todo_joel') Joel
+                a.btn.btn-lg.btn-primary(href='#todo_amos') Amos
+                a.btn.btn-lg.btn-primary(href='#todo_obadiah') Obadiah
+                a.btn.btn-lg.btn-primary(href='#todo_jonah') Jonah
+                a.btn.btn-lg.btn-primary(href='#todo_micah') Micah
+                a.btn.btn-lg.btn-primary(href='#todo_nahum') Nahum
+                a.btn.btn-lg.btn-primary(href='#todo_habakkuk') Habakkuk
+                a.btn.btn-lg.btn-primary(href='#todo_zephaniah') Zephaniah
+                a.btn.btn-lg.btn-primary(href='#todo_haggai') Haggai
+                a.btn.btn-lg.btn-primary(href='#todo_zechariah') Zechariah
+                a.btn.btn-lg.btn-primary(href='#todo_malachi') Malachi
+            .panel.panel-default
+              .panel-heading
+                a(role='button', data-toggle='collapse', href='#nt', aria-expanded='false', aria-controls='nt')
+                  b New Testament Books
+              #nt.panel-content.collapse.booklist
+                a.btn.btn-lg.btn-primary(href='#todo_matthew') Matthew
+                a.btn.btn-lg.btn-primary(href='#todo_mark') Mark
+                a.btn.btn-lg.btn-primary(href='#todo_luke') Luke
+                a.btn.btn-lg.btn-primary(href='#todo_john') John
+                a.btn.btn-lg.btn-primary(href='#todo_acts') Acts
+                a.btn.btn-lg.btn-primary(href='#todo_romans') Romans
+                a.btn.btn-lg.btn-primary(href='#todo_1corinthians') 1 Corinthians
+                a.btn.btn-lg.btn-primary(href='#todo_2corinthians') 2 Corinthians
+                a.btn.btn-lg.btn-primary(href='#todo_galatians') Galatians
+                a.btn.btn-lg.btn-primary(href='#todo_ephesians') Ephesians
+                a.btn.btn-lg.btn-primary(href='#todo_philippians') Philippians
+                a.btn.btn-lg.btn-primary(href='#todo_colossians') Colossians
+                a.btn.btn-lg.btn-primary(href='#todo_1thessalonians') 1 Thessalonians
+                a.btn.btn-lg.btn-primary(href='#todo_2thessalonians') 2 Thessalonians
+                a.btn.btn-lg.btn-primary(href='#todo_1timothy') 1 Timothy
+                a.btn.btn-lg.btn-primary(href='#todo_2timothy') 2 Timothy
+                a.btn.btn-lg.btn-primary(href='#todo_titus') Titus
+                a.btn.btn-lg.btn-primary(href='#todo_philemon') Philemon
+                a.btn.btn-lg.btn-primary(href='#todo_hebrews') Hebrews
+                a.btn.btn-lg.btn-primary(href='#todo_james') James
+                a.btn.btn-lg.btn-primary(href='#todo_1peter') 1 Peter
+                a.btn.btn-lg.btn-primary(href='#todo_2peter') 2 Peter
+                a.btn.btn-lg.btn-primary(href='#todo_1john') 1 John
+                a.btn.btn-lg.btn-primary(href='#todo_2john') 2 John
+                a.btn.btn-lg.btn-primary(href='#todo_3john') 3 John
+                a.btn.btn-lg.btn-primary(href='#todo_jude') Jude
+                a.btn.btn-lg.btn-primary(href='#todo_revelation') Revelation
+          // ToDo List Items By Bible Book
+          table.bibletodolist
+            thead
+              tr
+                th(width='75%')
+                  | Book / ToDo Item
+                  span.keylink
+                    | [
+                    a(href='bible_todo_list_disclaimer.html#key') Key
+                    | ]
+                th(width='25%') Bible Reference
+            //- Output row header followed by todo items for specified book 
+            //-Define mixin to list topics for book
+            mixin MIXIN_LIST_TODO_ITEMS_FOR_BOOK(i)
+              - var displayNameOT    = ["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel","1 Kings","2 Kings","1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah", "Esther","Job","Psalms","Proverbs","Ecclesiastes","Song of Solomon","Isaiah","Jeremiah","Lamentations","Ezekiel","Daniel","Hosea","Joel","Amos","Obadiah","Jonah","Micah","Nahum","Habakkuk","Zephaniah","Haggai","Zechariah","Malachi"];
+              - var idNameOT         = ["genesis", "exodus", "leviticus", "numbers", "deuteronomy", "joshua", "judges", "ruth", "1samuel", "2samuel","1kings","2kings","1chronicles", "2chronicles", "ezra", "nehemiah", "esther","job","psalms","proverbs","ecclesiastes","song_of_solomon","isaiah","jeremiah","lamentations","ezekiel","daniel","hosea","joel","amos","obadiah","jonah","micah","nahum","habakkuk","zephaniah","haggai","zechariah","malachi"];
+              - var displayNameNT    = ["Matthew","Mark","Luke","John","Acts","Romans", "1 Corinthians", "2 Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", "1 Thessalonians", "2 Thessalonians","1 Timothy","2 Timothy","Titus","Philemon","Hebrews","James","1 Peter","2 Peter","1 John","2 John","3 John","Jude","Revelation"];
+              - var idNameNT         = ["matthew","mark","luke","john","acts","romans", "1corinthians", "2corinthians", "galatians", "ephesians", "philippians", "colossians", "1thessalonians", "2thessalonians","1timothy","2timothy","titus","philemon","hebrews","james","1peter","2peter","1john","2john","3john","jude","revelation"];
+              - var displayName;
+              - var idName;
+              //-Compute display name and link id for this book
+              - if (i < 39) {
+                //-Old testament
+              - displayName = displayNameOT[i];
+              - idName = idNameOT[i];
+              - }
+              - else {
+                //-New testament
+              - displayName = displayNameNT[i-39];
+              - idName = "todo_" + idNameNT[i-39];
+              - }
+              //-Generate table row header for this book
+              tr.biblebook
+                td(id=idName)
+                  | #{displayName} 
+                  span.badge.groupcount
+                    |   #{books[i].items.length}  
+                td.gotop
+                  a(href='#') Top of page
+              //-Generate todo items for this book (if any)      
+              - var loop = 0;
+              - var items = books[i].items;
+              - while (loop < items.length) {
+              - var todo = items[loop];
+                tr
+                  td
+                    case todo.type
+                      when "F"
+                        span.badge.itemfact F
+                      when "FR"
+                        span.badge.itemtodowoc F
+                      when "P"
+                        span.badge.itempromise P
+                      when "PR"
+                        span.badge.itemtodowoc P
+                      when "T"
+                        span.badge.itemtodo T
+                      when "TR"
+                        span.badge.itemtodowoc T
+                      when "W"
+                        span.badge.itemwarn W
+                      when "WR"
+                        span.badge.itemtodowoc W
+                      default
+                        span.badge.itemtodo #{todo.type}
+                    |  !{todo.todoItem}
+                  td
+                    //-Output todo item bible ref
+                    - var href = "../kjv/" + todo.link;
+                      a(href=href) #{todo.linkText}  
+              - ++loop;
+              - } //-while loop
+            //-End of mixin definition 
+            tbody
+              //-Generate links for each book of the bible indexed 0-65
+              - for (var i=0; i < 66; i++) {
+                + MIXIN_LIST_TODO_ITEMS_FOR_BOOK(i)
+              - }
+        // </col-md-12>
+      // </row>
+    // </container>
+    .container
+      hr.featurette-divider
+      footer.footer.text-center
+        p
+          | Copyright © 2017 ToDoBible.org. All rights reserved.
+          a(href='#')
+            small  Top of page
+    script(src='../script/jquery-1.12.4.min.js')
+    script(src='../script/bootstrap.min.js')

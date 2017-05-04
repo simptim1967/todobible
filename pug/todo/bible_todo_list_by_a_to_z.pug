@@ -1,0 +1,121 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    title Bible ToDo List (A-Z)
+    meta(name='description', content='Bible todo list with todo items in alphabetical order.')
+    meta(name='keywords', content="bible todo list, holy king james bible, words of Jesus, commandments of Jesus, God's word, bible index, bible to do list")
+    link(href='../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../css/common_page.css', rel='stylesheet')
+    link(href='../css/todo_page.css', rel='stylesheet', type='text/css')
+  body
+    include ../includes/todo_page_menu.pug
+    include ../includes/todo_page_header.pug
+    .container
+      // <container>
+      .row
+        .col-md-12
+          h1 Bible ToDo List (By A-Z)
+          hr.featurette-divider
+          table.tabheading
+            tr
+              td
+                a(href='bible_todo_list_disclaimer.html') Not By Works
+              td
+                a(href='bible_todo_list_ultimate.html') Ultimate Bible ToDo List
+              td
+                a(href='bible_todo_list.html') Items By Topic
+              td
+                a(href='bible_todo_list_by_bible_book.html') Items By Bible Book
+              td#current Items By A-Z
+              td#filler  
+          include ../includes/todo_page_a2z_buttons.pug
+      .row
+        .col-md-12
+          // ToDo List Items By A-Z
+          table.bibletodolist
+            thead
+              tr
+                th(width='75%')
+                  | Letter / ToDo Item
+                  span.keylink
+                    | [
+                    a(href='bible_todo_list_disclaimer.html#key') Key
+                    | ]
+                th(width='25%') Bible Reference
+            //- Output row header followed by todo items for specified letter 
+            //-Define mixin to list topics for letter
+            mixin MIXIN_LIST_TODO_ITEMS_FOR_LETTER(i)
+              //-Compute actual letter from index
+              - var topicLetter = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"[i];
+              - var idRef = "todo_" + topicLetter;
+              //-Generate table row header for this letter
+              tr.topic
+                td(id=idRef)
+                  | - #{topicLetter} - 
+                td.gotop
+                  a(href='#') Top of page
+              //-Generate todo items for this letter (if any)      
+              - var loop = 0;
+              - var items = letters[i].items;
+              - while (loop < items.length) {
+              - var todo = items[loop];
+                tr
+                  td
+                    case todo.type
+                      when "F"
+                        span.badge.itemfact F
+                      when "FR"
+                        span.badge.itemtodowoc F
+                      when "P"
+                        span.badge.itempromise P
+                      when "PR"
+                        span.badge.itemtodowoc P
+                      when "T"
+                        span.badge.itemtodo T
+                      when "TR"
+                        span.badge.itemtodowoc T
+                      when "W"
+                        span.badge.itemwarn W
+                      when "WR"
+                        span.badge.itemtodowoc W
+                      default
+                        span.badge.itemtodo #{todo.type}
+                    |  !{todo.todoItem}
+                  td
+                    //-Output todo item bible ref(s)
+                    - var links = todo.bibleRefs;
+                    - for (var j=0; j<links.length; j++) {
+                    - var href = "../kjv/" + links[j].link;
+                    - if (j === links.length-1) {
+                      //-Last of possible multiple bible references
+                      a(href=href) #{links[j].linkText}  
+                    - }
+                    - else {
+                      //-Bible reference
+                      a(href=href) #{links[j].linkText},
+                      br   
+                    - }
+                    - }
+                  - ++loop;
+              - } //-while loop
+            //-End of mixin definition 
+            tbody
+              //-Generate links for each letter of the alphabet indexed 0-25
+              - for (var i=0; i < 26; i++) {
+                + MIXIN_LIST_TODO_ITEMS_FOR_LETTER(i)
+              - }
+        // </col-md-12>
+      // </row>
+    // </container>
+    .container
+      hr.featurette-divider
+      footer.footer.text-center
+        p
+          | Copyright © 2017 ToDoBible.org. All rights reserved.
+          a(href='#')
+            small  Top of page
+    script(src='../script/jquery-1.12.4.min.js')
+    script(src='../script/bootstrap.min.js')

@@ -18,7 +18,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags-->
         <xsl:call-template name="PageTitle" />
-        <meta name="keywords" content="king james holy bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV" />
+        <meta name="keywords" content="online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV" />
  
         <!-- Bootstrap-->
         <link href="../css/bootstrap.min.css" rel="stylesheet" />
@@ -77,8 +77,9 @@
                                             aria-haspopup="true" aria-expanded="false">ToDo <span
                             class="caret"></span></a>
                       <ul class="dropdown-menu">
-                        <li><a href="../todo/bible_todo_list_ultimate.html">Ultimate Bible ToDo List</a></li>
+                        <li><a href="../todo/bible_todo_list_disclaimer.html">Disclaimer</a></li>
                         <li class="divider" role="separator"></li>
+                        <li><a href="../todo/bible_todo_list_ultimate.html">Ultimate Bible ToDo List</a></li>
                         <li><a href="../todo/bible_todo_list.html">Bible ToDo List (By Topic)</a></li>
                         <li><a href="../todo/bible_todo_list_by_bible_book.html">Bible ToDo List (By Bible
                           Book)</a></li>
@@ -125,7 +126,11 @@
         </div><!--/col-md-8-->
             <!-- Bible page navigation -->
         <div class="col-md-4 hidden-print">
-          <hr class="featurette-divider hidden-md hidden-lg" />
+          <div class="hidden-md hidden-lg text-center">
+            <hr class="featurette-divider" />
+            <a href="#"><small><xsl:text disable-output-escaping='yes'>Top&amp;nbsp;of&amp;nbsp;page</xsl:text></small></a>
+            <hr class="featurette-divider" />
+          </div>
             <div class="biblenavigation">
               <h3>Navigate The Bible</h3>
               <h4>Go To Bible Reference</h4>

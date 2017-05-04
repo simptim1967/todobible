@@ -14,7 +14,12 @@ html(lang='en-GB')
   body
     include ../includes/todo_page_menu.pug
     include ../includes/todo_page_header.pug
-    include ../includes/todo_page_a2z_buttons.pug
+    .container
+      // <container>
+      .row
+        .col-md-12
+          h1 Bible ToDo List Topic Index
+          include ../includes/todo_page_a2z_buttons.pug
     //-Define mixin to list topics for letter
     mixin MIXIN_LIST_TOPICS(i)
       //-Compute actual letter from index
@@ -22,9 +27,9 @@ html(lang='en-GB')
       - var idRef = "todo_" + topicLetter;
       //-Generate row header for this letter
       .row(style="margin-left:0; margin-right:0;")
-        .col-md-12.col-sm-12.col-xs-12.letter(id=idRef)
-          | -#{topicLetter}- 
-          a.pull-right.gotop(href='#')
+        .col-xs-12.letter(id=idRef)
+          | - #{topicLetter} - 
+          a.pull-right.gotop(href='#') 
             small Top of page
       //-Generate topic links for this letter using 3 columns per row      
       - var loop = 0;
@@ -33,7 +38,7 @@ html(lang='en-GB')
       - var col = 1;
       .row(style="margin-left:0; margin-right:0;")
         - while (col < 4 && loop < links.length) {
-        .col-md-4.col-sm-12.col-xs-12.topiclist
+        .col-md-4.col-xs-12.topiclist
           //-Output topic link
           - var topic = links[loop];
           - var href = "bible_todo_list.html#todo_" + topic.link;
@@ -45,13 +50,15 @@ html(lang='en-GB')
           - }
           - else {
               //-Direct link to topic
-              a(href=href) #{topic.linkText}
+              a(href=href) #{topic.linkText}  
+              | 
+              span.badge.groupcount #{topic.count}
           - }
           - ++loop;
           - ++col;
         - } //-while col
       - } //-while loop
-    //-End of mixin definition
+    //-End of mixin definition 
     .container
       //-Generate links for each letter of the alphabet indexed 0-25
       - for (var i=0; i < 26; i++) {
@@ -63,6 +70,6 @@ html(lang='en-GB')
         p
           | Copyright © 2017 ToDoBible.org. All rights reserved.
           a(href='#')
-            small Top of page
+            small  Top of page
     script(src='../script/jquery-1.12.4.min.js')
     script(src='../script/bootstrap.min.js')

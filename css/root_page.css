@@ -14,31 +14,19 @@ ul.affix-bottom {
 .alert-info {
    background-color: lightgray;
    color: purple;
-   font-size: 1.4em;
+   font-size: 1.2rem;
    border-color: rebeccapurple;
 }
 
-.quoteverse {
-    display:block;
-    float: right;
-    width: 50%;
-    background-color: white;
-    color: black;
-    border-left: solid 3px purple;
-    margin-top: 5px;
-    margin-left: 5px;
-    margin-bottom: 5px;
-    padding: 5px;
-    font-size: 0.9em;
-}
-
-.quoteverse a {
-    display: block;
-    text-align: right;
+.woc {
+    color:#d32f2f;
 }
 
 #myScrollspy ul > li > a {
     text-align: right;
+    font-size: 0.8rem;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 /* right hand sidebar related styling */
 
@@ -54,27 +42,24 @@ ul.affix-bottom {
 
 .rightsidebar p {
      color:violet;
-     font-size:0.9em;
+     font-size:0.9rem;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
-}
 h1 {
     margin-top: 0px;
-    font-size: 1.5em;
+    font-size: 1.6rem;
     font-weight: bold;
     color:purple;
 }
 h2 {
-    font-size: 1.4em;
+    font-size: 1.5rem;
     font-weight: bold;
     color:#AA2EB8;
-    margin-top:12px;
+    margin-top:14px;
     margin-bottom:10px;
 }
 h3 {
-    font-size: 1.4em;
+    font-size: 1.4rem;
     font-weight: bold;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -87,13 +72,20 @@ h3 {
 }
 
 h4 {
-    font-size: 1.1em;
+    font-size: 1rem;
     font-weight: bold;
     color: #b388ff;
 }
 
 #mugshot {
-    margin-left: 3px;
+    margin-left: 5px;
     margin-bottom: 3px;
     float: right;
 }
+
+#tweet {
+    margin-left: 5px;
+    margin-bottom: 3px;
+    float: right;
+}
+

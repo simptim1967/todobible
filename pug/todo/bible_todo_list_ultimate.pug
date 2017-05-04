@@ -1,0 +1,86 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    title The Ultimate Bible ToDo List
+    meta(name='description', content='The ultimate bible todo list recommended by Jesus.')
+    meta(name='keywords', content="ultimate bible todo list, greatest commandments, words of Jesus, commandments of Jesus, God's word, bible index, bible to do list, holy king james bible")
+    link(href='../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../css/common_page.css', rel='stylesheet')
+    link(href='../css/todo_page.css', rel='stylesheet', type='text/css')
+  body
+    include ../includes/todo_page_menu.pug
+    include ../includes/todo_page_header.pug
+    .container
+      // <container>
+      .row
+        .col-md-12
+          h1 The Ultimate Bible ToDo List
+          hr.featurette-divider
+          table.tabheading
+            tr
+              td
+                a(href='bible_todo_list_disclaimer.html') Not By Works
+              td#current Ultimate Bible ToDo List
+              td
+                a(href='bible_todo_list.html') Items By Topic
+              td
+                a(href='bible_todo_list_by_bible_book.html') Items By Bible Book
+              td
+                a(href='bible_todo_list_by_a_to_z.html') Items By A-Z
+              td#filler.hidden-xs  
+          h2 The Greatest Commandments
+          p
+            | In Mark's gospel (
+            a(href='../kjv/mark_12.html?goto=28') Mark 12:28
+            =")"
+            | Jesus is asked "Which is the first commandment of all?" Jesus replies and names not only the
+            |           first commandment of all but also the second, stating that there are no commandments greater than these. Jesus
+            |           also says "
+            span.woc On these two commandments hang all the law and the prophets
+            | " (
+            a(href='../kjv/matthew_22.html?goto=40') Matthew 22:40
+            | ).
+          p
+            | The two commands in question are listed below and therefore represent the "Ultimate Bible ToDo List".
+          p
+            strong Note:
+            |  This is the only Bible ToDo List that Christians are recommended to adhere to by this website.
+            |           All other Bible ToDo Lists listed on this website are merely for encouragement and reminder purposes for those who love Jesus.
+          // Ultimate Bible ToDo Item
+          table.bibletodolist
+            thead
+              tr
+                th(width='75%')
+                  | ToDo Item
+                  span.keylink
+                    | [
+                    a(href='bible_todo_list_disclaimer.html#key') Key
+                    | ]
+                th(width='25%') Bible Reference
+            tr
+              td
+                span.badge.itemtodowoc T
+                span.woc  Thou shalt love the Lord thy God with all thy heart, soul, mind and strength.
+              td
+                a(href='../kjv/mark_12.html?goto=30') Mark 12:30
+            tr
+              td
+                span.badge.itemtodowoc T
+                span.woc  Thou shalt love thy neighbour as thyself.
+              td
+                a(href='../kjv/mark_12.html?goto=31') Mark 12:31
+        // </col-md-12>
+      // </row>
+    // </container>
+    .container
+      hr.featurette-divider
+      footer.footer.text-center
+        p
+          | Copyright © 2017 ToDoBible.org. All rights reserved.
+          a(href='#')
+            small  Top of page
+    script(src='../script/jquery-1.12.4.min.js')
+    script(src='../script/bootstrap.min.js')

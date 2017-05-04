@@ -106,20 +106,32 @@
 
 .highlightverse {
     padding: 6px;
-    text-indent: 1em;
-    line-height: 1.3em;
-    font-family: Verdana, "Trebuchet MS", Arial, Helvetica, sans-serif;
-    font-size: 1em;
+    text-indent: 1rem;
+    line-height: 1.3rem;
+    font-size: 1rem;
+    font-weight: 200;
+    color: #707070;
+    background-color: #fce4ec;
+}
+
+.highlightverse b {
     color: black;
-    background-color: lightpink;
+}
+
+.highlightverse i {
+    color: blue;
 }
 
 .verse {
     padding: 6px;
-    text-indent: 1em;
-    line-height: 1.3em;
-    font-family: Verdana, "Trebuchet MS", Arial, Helvetica, sans-serif;
-    font-size: 1em;
+    text-indent: 1rem;
+    line-height: 1.3rem;
+    font-size: 1rem;
+    font-weight: 200;
+    color: #707070;
+}
+
+.verse b {
     color: black;
 }
 
@@ -128,19 +140,15 @@
 }
 
 .woc i {
-    color:red;
+    color:#ef9a9a;
 }
 
 .verse:hover {
     background-color: lemonchiffon;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-}
-
 h1, h2 {
-    font-size: 1.5em;
+    font-size: 1.4rem;
     font-weight: bold;
     color: purple;
     text-align: center;
@@ -149,7 +157,7 @@ h1, h2 {
 }
 
 h3 {
-    font-size: 1.4em;
+    font-size: 1.3rem;
     font-weight: bold;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -162,7 +170,7 @@ h3 {
 }
 
 h4 {
-    font-size: 1.3em;
+    font-size: 1.2rem;
     font-weight: bold;
     color: #b388ff;
 }

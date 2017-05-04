@@ -1,50 +1,37 @@
 ToDoBible.org TODO
 ==================
 
+Current Feature Release
+=======================
+Review all todo item types and wording content by chapter/context before publishing the new list
+
+Next Release
+============
+Audit website for accessibility 
+Fix accessibility issues
+Test printing
+Fix printing issues
+
 Website Automation
 ==================
-Export todo list (by topic) data from Excel
-Generate todo list (by topic) from data
-Export todo list (by A-Z) data from Excel
-Generate todo list (by A-Z) from data
-Export todo list (by bible book) data from Excel
-Generate todo list (by bible book) from data
-Include todo item type badge in each todo item on todo lists
 Convert bible page formatted XML to JSON
 Generate bible pages from JSON
 Include todo items directly into bible page beneath verse as collapsable +/- view
 
-Website Visuals
-===============
-Optimise home page for mobile download (fix jumbotron image sizing)
-Sort out standard font for website (Consider trebuchet ms - see cssfontstack.com)
- - Using standard sizing units (rems)
-Make menu bar static
-Make A-Z link buttons same size & spacing on different todo pages
+Website Visuals / Usability
+===========================
+Optimise home page for mobile download (fix jumbotron image sizing - need to restrict minwidth and use alternative low-res image)
+Consider changing images for next/prev chapter to make them bigger for use on mobiles
 Replace images on home page with nicer SVG images
-
-Dev Tasks
-=========
-Transition from git into GitHub
-Learn Git/GitHub 
+Make menu bar static ???
 
 Website Standards
 =================
-Audit website for all styling in CSS
+Put the bible page styling of the word "LORD" into a span styled by CSS
+Audit website for all styling in CSS (is still some in html & pug)
 Audit website for W3C HTML compliance
 Perform google webmaster analysis of site (???)
 Perform bing webmaster analysis of site (???)
-
-Website Printing
-================
-Test printing
-Fix printing issues
-
-Website Legal
-=============
-Audit website for accessibility 
-Fix accessibility issues
-Create Privacy page & link from all pages (see Is your website legal article)
 
 Website Content
 ===============
@@ -60,12 +47,17 @@ Create links to other Christian websites
 - lifestylechristianity.com
 - healing, overcoming, 
 - blue letter bible
-- samaritans purse
+- samaritans purse + other Billy Graham banners etc.
 - tear fund 
+Create bible signpost page with links to parables etc.
 Create Contact Us page
 Create Bible reading plan page
 Learn about fav icons
 Create Fav icon for home page
+
+Website Legal
+=============
+Create Privacy page & link from all pages (see Is your website legal article)
 
 Dev Tools
 =========
@@ -73,4 +65,10 @@ Learn Visual Studio Code (vsc)
 Get tasks working in vsc (build, lint etc.)
 Obtain HTML lint tool
 Obtain HTML bad link analyser
+Obtain HTML accessibility testing tool
+
+Dev Tasks
+=========
+Transition from git into GitHub
+Learn Git/GitHub 
 
