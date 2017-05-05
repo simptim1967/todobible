@@ -7,10 +7,6 @@ Review all todo item types and wording content by chapter/context before publish
 
 Next Release
 ============
-Audit website for accessibility 
-Fix accessibility issues
-Test printing
-Fix printing issues
 
 Website Automation
 ==================
@@ -20,6 +16,8 @@ Include todo items directly into bible page beneath verse as collapsable +/- vie
 
 Website Visuals / Usability
 ===========================
+Test printing
+Fix printing issues
 Optimise home page for mobile download (fix jumbotron image sizing - need to restrict minwidth and use alternative low-res image)
 Consider changing images for next/prev chapter to make them bigger for use on mobiles
 Replace images on home page with nicer SVG images
@@ -27,6 +25,8 @@ Make menu bar static ???
 
 Website Standards
 =================
+Audit website for accessibility 
+Fix accessibility issues
 Put the bible page styling of the word "LORD" into a span styled by CSS
 Audit website for all styling in CSS (is still some in html & pug)
 Audit website for W3C HTML compliance
