@@ -4,15 +4,18 @@ ToDoBible.org TODO
 Current Feature Release
 =======================
 Review all todo item types and wording content by chapter/context before publishing the new list
+Publish updated todo lists
 
 Next Release
 ============
+Convert bible page formatted XML to JSON
+Generate bible pages from JSON
+Generate JSON todo list for each bible chapter
+Include todo items directly into bible page beneath verse as collapsable +/- style view
+Upgrade jQuery to latest production version
 
 Website Automation
 ==================
-Convert bible page formatted XML to JSON
-Generate bible pages from JSON
-Include todo items directly into bible page beneath verse as collapsable +/- view
 
 Website Visuals / Usability
 ===========================
@@ -37,11 +40,14 @@ Website Content
 ===============
 Create article: Who am I? Why am I here?
 Create article: How can I stopp sinning?
-Create article: The batlle for good and evil
+Create article: The batlle for good and evil: Which side are you on?
 Create article: You are not alone
 Create article: How can I find peace?
+Create article: Who is Jesus?
 Create My Testimony page
-Create "Navigate Life On Earth" sidebar for article & todo topic links
+Create "Navigate Life On Earth" sidebar for article & todo topic links & other links
+ - How can I find peace? BEGIN YOUR JOURNEY TO PEACE.
+   -> peace with god (peacewithgod.net)
  - format: What does the bible say about: <keyword> ...
 Create links to other Christian websites 
 - lifestylechristianity.com
@@ -54,6 +60,12 @@ Create Contact Us page
 Create Bible reading plan page
 Learn about fav icons
 Create Fav icon for home page
+List meanings of old english words on bible pages
+
+Website Functionality
+=====================
+Create bible search Functionality
+Create bible notes/highlighting Functionality
 
 Website Legal
 =============
