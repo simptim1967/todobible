@@ -278,7 +278,7 @@
     <!-- Generate header for this chapter -->
       <table class="bp_head_foot">
         <tr>
-          <td class="nav-arrow">
+          <td class="nav-arrow hidden-print">
             <a>
               <xsl:attribute name="href">
                 <xsl:value-of select="/bible/book/chapter/attribute::prevChapter"/>
@@ -301,7 +301,7 @@
               </xsl:choose>
             </h1>
           </td>
-          <td class="nav-arrow">
+          <td class="nav-arrow hidden-print">
             <a>
               <xsl:attribute name="href">
                 <xsl:value-of select="/bible/book/chapter/attribute::nextChapter"/>
