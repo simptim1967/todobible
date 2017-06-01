@@ -1,5 +1,3 @@
-@echo off
-
 call css-all.bat
 
 echo Copying image files ...

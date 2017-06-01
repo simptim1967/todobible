@@ -3,23 +3,38 @@ ToDoBible.org TODO
 
 Current Feature Release
 =======================
-Review all todo item types and wording content by chapter/context before publishing the new list
-Publish updated todo lists
+Put the bible page styling of the word "LORD" into a span styled by CSS
+Convert bible page formatted XML to JSON
+Generate bible pages from JSON
+Add link to bible index page to "Navigate The Bible" sidebar
+
+Release Checklist
+=================
+Check for broken links
 
 Next Release
 ============
-Convert bible page formatted XML to JSON
-Generate bible pages from JSON
+Upgrade jQuery to latest production version
 Generate JSON todo list for each bible chapter
 Include todo items directly into bible page beneath verse as collapsable +/- style view
-Upgrade jQuery to latest production version
+Make todo list bible links auto select the todo item on the bible page
+
+ToDo Item Research / Bible Study
+================================
+Complete bible study for Ephesians 4, 5, 6
+Review all todo item types, topics and wording content by chapter/context before publishing the new list
+Create visual bible study for Ephesians
+Continue to review each chapter of NT to extract ToDo items
+Continue to review each chapter of Proverbs + Psalms to extract ToDo items
 
 Website Automation
 ==================
 
 Website Visuals / Usability
 ===========================
-Test printing
+Make sure no page has text paragraphs that exceed a width of 90 chars
+Make sure no line spacing is >= 120% or <= 150%
+Test printing of todo lists and other non-bible pages
 Fix printing issues
 Optimise home page for mobile download (fix jumbotron image sizing - need to restrict minwidth and use alternative low-res image)
 Consider changing images for next/prev chapter to make them bigger for use on mobiles
@@ -30,7 +45,6 @@ Website Standards
 =================
 Audit website for accessibility 
 Fix accessibility issues
-Put the bible page styling of the word "LORD" into a span styled by CSS
 Audit website for all styling in CSS (is still some in html & pug)
 Audit website for W3C HTML compliance
 Perform google webmaster analysis of site (???)
@@ -39,11 +53,9 @@ Perform bing webmaster analysis of site (???)
 Website Content
 ===============
 Create article: Who am I? Why am I here?
-Create article: How can I stopp sinning?
 Create article: The batlle for good and evil: Which side are you on?
-Create article: You are not alone
-Create article: How can I find peace?
-Create article: Who is Jesus?
+Create article: What is the bible? Why should I read it?
+Create article: Know your identity in Christ
 Create My Testimony page
 Create "Navigate Life On Earth" sidebar for article & todo topic links & other links
  - How can I find peace? BEGIN YOUR JOURNEY TO PEACE.
@@ -55,15 +67,21 @@ Create links to other Christian websites
 - blue letter bible
 - samaritans purse + other Billy Graham banners etc.
 - tear fund 
-Create bible signpost page with links to parables etc.
-Create Contact Us page
-Create Bible reading plan page
+Create bible signpost page with links to parables, miracles, promises etc.
+Create Contact Us page (consider using JotForm.com)
+Create Bible reading plan page (see choices available on Blue Letter Bible)
 Learn about fav icons
 Create Fav icon for home page
-List meanings of old english words on bible pages
+Create article: How can I stopp sinning?
+Create article: You are not alone
+Create article: How can I find peace?
+Create article: Who is Jesus?
 
 Website Functionality
 =====================
+Create modal dialog showing the Hebrew/Greek interlinear and Strong numbers for a OT/NT verse (powered by Blue Letter Bible content)
+Create old english word meaning look-up on bible pages 
+ - Display meanings of old english words on bible pages e.g. froward (like KJV dictionary on av1611.com)
 Create bible search Functionality
 Create bible notes/highlighting Functionality
 

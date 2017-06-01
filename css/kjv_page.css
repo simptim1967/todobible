@@ -109,9 +109,12 @@
     text-indent: 1rem;
     line-height: 1.3rem;
     font-size: 1rem;
-    font-weight: 200;
-    color: #707070;
     background-color: #fce4ec;
+    /* 
+    color: #707070;
+    font-weight: 200;
+    */
+    color: black;
 }
 
 .highlightverse b {
@@ -127,8 +130,11 @@
     text-indent: 1rem;
     line-height: 1.3rem;
     font-size: 1rem;
+    /* 
+    color: #707070; 
     font-weight: 200;
-    color: #707070;
+    */
+    color: black;
 }
 
 .verse b {

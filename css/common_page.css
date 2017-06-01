@@ -242,7 +242,7 @@ p {
 }
 .quoteverse {
     display:block;
-    width: 80%;
+    width: 70%;
     background-color: white;
     color: black;
     border-left: solid 3px purple;
@@ -260,6 +260,10 @@ p {
 .quoteverse a {
     display: block;
     text-align: center;
+}
+
+.quoteverse i {
+    color: blue;
 }
 
 /*
