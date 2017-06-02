@@ -121,10 +121,6 @@
     color: black;
 }
 
-.highlightverse i {
-    color: blue;
-}
-
 .verse {
     padding: 6px;
     text-indent: 1rem;
@@ -139,14 +135,6 @@
 
 .verse b {
     color: black;
-}
-
-.verse i {
-    color: blue;
-}
-
-.woc i {
-    color:#ef9a9a;
 }
 
 .verse:hover {

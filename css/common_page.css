@@ -58,7 +58,23 @@ body {
 }
 
 .woc {
+    /* style for words of Christ */
     color:red;
+}
+
+.nog {
+    /* style for name of God */
+    font-variant: small-caps;
+}
+
+.extra {
+    /* style for extra words added in English for clarity */
+    font-style: italic;
+    color: blue;
+}
+
+.woc .extra {
+    color:#ef9a9a;
 }
 
 .panel {
