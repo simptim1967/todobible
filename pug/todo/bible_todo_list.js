@@ -2,11 +2,11 @@ const TODO_FILE = "bible_todo_list";
 var pug = require('pug');
 var fs = require('fs');
 
-// Determine pug template filename from command line arg
+// Determine pug template filename 
 var templateFile = __dirname + "\\" + TODO_FILE + ".pug";
 
-// Determine JSON data filename from command line arg
-var jsonFile = __dirname + "\\" + TODO_FILE + ".json";
+// Determine JSON data filename 
+var jsonFile = __dirname + "\\..\\..\\json\\todo\\" + TODO_FILE + ".json";
 
 var json = JSON.parse(fs.readFileSync(jsonFile, 'utf8'));
 
