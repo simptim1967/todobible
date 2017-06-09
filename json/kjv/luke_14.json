@@ -1,0 +1,307 @@
+{
+  "book": {
+    "number" : "42",
+    "filenamePrefix" : "luke",
+    "bookPage" : "luke.html",
+    "title" : "Luke",
+    "chapterCount" : "24",
+    "testament" : "new",
+    "nt" : "true",
+    "ot" : "false",
+    "nextBook" : "john_1.html",
+    "nextTitle" : "John",
+    "prevBook" : "mark_1.html",
+    "prevTitle" : "Mark"
+  },
+  "chapter": {
+    "number" : "14",
+    "verseCount" : "35",
+    "nextChapter" : "luke_15.html",
+    "nextTitle" : "Luke 15",
+    "prevChapter" : "luke_13.html",
+    "prevTitle" : "Luke 13",
+    "filename" : "luke_14.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "25555",
+      "text" : "And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "25556",
+      "text" : "And, behold, there was a certain man before him which had the dropsy."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "25557",
+      "text" : "And Jesus answering spake unto the lawyers and Pharisees, saying, <span class='woc'>Is it lawful to heal on the sabbath day?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v4",
+      "number" : "4",
+      "absolute" : "25558",
+      "text" : "And they held their peace. And he took <span class='extra'>him<\/span>, and healed him, and let him go;"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v5",
+      "number" : "5",
+      "absolute" : "25559",
+      "text" : "And answered them, saying, <span class='woc'>Which of you shall have an ass or an ox fallen into a pit, and will not straightway pull him out on the sabbath day?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v6",
+      "number" : "6",
+      "absolute" : "25560",
+      "text" : "And they could not answer him again to these things."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v7",
+      "number" : "7",
+      "absolute" : "25561",
+      "text" : "And he put forth a parable to those which were bidden, when he marked how they chose out the chief rooms; saying unto them,"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v8",
+      "number" : "8",
+      "absolute" : "25562",
+      "text" : "<span class='woc'>When thou art bidden of any <span class='extra'>man<\/span> to a wedding, sit not down in the highest room; lest a more honourable man than thou be bidden of him;<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v9",
+      "number" : "9",
+      "absolute" : "25563",
+      "text" : "<span class='woc'>And he that bade thee and him come and say to thee, Give this man place; and thou begin with shame to take the lowest room.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v10",
+      "number" : "10",
+      "absolute" : "25564",
+      "text" : "<span class='woc'>But when thou art bidden, go and sit down in the lowest room; that when he that bade thee cometh, he may say unto thee, Friend, go up higher: then shalt thou have worship in the presence of them that sit at meat with thee.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v11",
+      "number" : "11",
+      "absolute" : "25565",
+      "text" : "<span class='woc'>For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v12",
+      "number" : "12",
+      "absolute" : "25566",
+      "text" : "Then said he also to him that bade him, <span class='woc'>When thou makest a dinner or a supper, call not thy friends, nor thy brethren, neither thy kinsmen, nor <span class='extra'>thy<\/span> rich neighbours; lest they also bid thee again, and a recompence be made thee.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v13",
+      "number" : "13",
+      "absolute" : "25567",
+      "text" : "<span class='woc'>But when thou makest a feast, call the poor, the maimed, the lame, the blind:<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v14",
+      "number" : "14",
+      "absolute" : "25568",
+      "text" : "<span class='woc'>And thou shalt be blessed; for they cannot recompense thee: for thou shalt be recompensed at the resurrection of the just.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v15",
+      "number" : "15",
+      "absolute" : "25569",
+      "text" : "And when one of them that sat at meat with him heard these things, he said unto him, Blessed <span class='extra'>is<\/span> he that shall eat bread in the kingdom of God."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v16",
+      "number" : "16",
+      "absolute" : "25570",
+      "text" : "Then said he unto him, <span class='woc'>A certain man made a great supper, and bade many:<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v17",
+      "number" : "17",
+      "absolute" : "25571",
+      "text" : "<span class='woc'>And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v18",
+      "number" : "18",
+      "absolute" : "25572",
+      "text" : "<span class='woc'>And they all with one <span class='extra'>consent<\/span> began to make excuse. The first said unto him, I have bought a piece of ground, and I must needs go and see it: I pray thee have me excused.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v19",
+      "number" : "19",
+      "absolute" : "25573",
+      "text" : "<span class='woc'>And another said, I have bought five yoke of oxen, and I go to prove them: I pray thee have me excused.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v20",
+      "number" : "20",
+      "absolute" : "25574",
+      "text" : "<span class='woc'>And another said, I have married a wife, and therefore I cannot come.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v21",
+      "number" : "21",
+      "absolute" : "25575",
+      "text" : "<span class='woc'>So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v22",
+      "number" : "22",
+      "absolute" : "25576",
+      "text" : "<span class='woc'>And the servant said, Lord, it is done as thou hast commanded, and yet there is room.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v23",
+      "number" : "23",
+      "absolute" : "25577",
+      "text" : "<span class='woc'>And the lord said unto the servant, Go out into the highways and hedges, and compel <span class='extra'>them<\/span> to come in, that my house may be filled.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v24",
+      "number" : "24",
+      "absolute" : "25578",
+      "text" : "<span class='woc'>For I say unto you, That none of those men which were bidden shall taste of my supper.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v25",
+      "number" : "25",
+      "absolute" : "25579",
+      "text" : "And there went great multitudes with him: and he turned, and said unto them,"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v26",
+      "number" : "26",
+      "absolute" : "25580",
+      "text" : "<span class='woc'>If any <span class='extra'>man<\/span> come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v27",
+      "number" : "27",
+      "absolute" : "25581",
+      "text" : "<span class='woc'>And whosoever doth not bear his cross, and come after me, cannot be my disciple.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v28",
+      "number" : "28",
+      "absolute" : "25582",
+      "text" : "<span class='woc'>For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have <span class='extra'>sufficient<\/span> to finish <span class='extra'>it<\/span>?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v29",
+      "number" : "29",
+      "absolute" : "25583",
+      "text" : "<span class='woc'>Lest haply, after he hath laid the foundation, and is not able to finish <span class='extra'>it<\/span>, all that behold <span class='extra'>it<\/span> begin to mock him,<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v30",
+      "number" : "30",
+      "absolute" : "25584",
+      "text" : "<span class='woc'>Saying, This man began to build, and was not able to finish.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v31",
+      "number" : "31",
+      "absolute" : "25585",
+      "text" : "<span class='woc'>Or what king, going to make war against another king, sitteth not down first, and consulteth whether he be able with ten thousand to meet him that cometh against him with twenty thousand?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v32",
+      "number" : "32",
+      "absolute" : "25586",
+      "text" : "<span class='woc'>Or else, while the other is yet a great way off, he sendeth an ambassage, and desireth conditions of peace.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v33",
+      "number" : "33",
+      "absolute" : "25587",
+      "text" : "<span class='woc'>So likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v34",
+      "number" : "34",
+      "absolute" : "25588",
+      "text" : "<span class='woc'>Salt <span class='extra'>is<\/span> good: but if the salt have lost his savour, wherewith shall it be seasoned?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v35",
+      "number" : "35",
+      "absolute" : "25589",
+      "text" : "<span class='woc'>It is neither fit for the land, nor yet for the dunghill; <span class='extra'>but<\/span> men cast it out. He that hath ears to hear, let him hear.<\/span>"
+    }
+  ]
+}

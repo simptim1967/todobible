@@ -1,0 +1,323 @@
+{
+  "book": {
+    "number" : "42",
+    "filenamePrefix" : "luke",
+    "bookPage" : "luke.html",
+    "title" : "Luke",
+    "chapterCount" : "24",
+    "testament" : "new",
+    "nt" : "true",
+    "ot" : "false",
+    "nextBook" : "john_1.html",
+    "nextTitle" : "John",
+    "prevBook" : "mark_1.html",
+    "prevTitle" : "Mark"
+  },
+  "chapter": {
+    "number" : "17",
+    "verseCount" : "37",
+    "nextChapter" : "luke_18.html",
+    "nextTitle" : "Luke 18",
+    "prevChapter" : "luke_16.html",
+    "prevTitle" : "Luke 16",
+    "filename" : "luke_17.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "25653",
+      "text" : "Then said he unto the disciples, <span class='woc'>It is impossible but that offences will come: but woe <span class='extra'>unto him<\/span>, through whom they come!<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "25654",
+      "text" : "<span class='woc'>It were better for him that a millstone were hanged about his neck, and he cast into the sea, than that he should offend one of these little ones.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "25655",
+      "text" : "<span class='woc'>Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v4",
+      "number" : "4",
+      "absolute" : "25656",
+      "text" : "<span class='woc'>And if he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v5",
+      "number" : "5",
+      "absolute" : "25657",
+      "text" : "And the apostles said unto the Lord, Increase our faith."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v6",
+      "number" : "6",
+      "absolute" : "25658",
+      "text" : "And the Lord said, <span class='woc'>If ye had faith as a grain of mustard seed, ye might say unto this sycamine tree, Be thou plucked up by the root, and be thou planted in the sea; and it should obey you.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v7",
+      "number" : "7",
+      "absolute" : "25659",
+      "text" : "<span class='woc'>But which of you, having a servant plowing or feeding cattle, will say unto him by and by, when he is come from the field, Go and sit down to meat?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v8",
+      "number" : "8",
+      "absolute" : "25660",
+      "text" : "<span class='woc'>And will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v9",
+      "number" : "9",
+      "absolute" : "25661",
+      "text" : "<span class='woc'>Doth he thank that servant because he did the things that were commanded him? I trow not.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v10",
+      "number" : "10",
+      "absolute" : "25662",
+      "text" : "<span class='woc'>So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v11",
+      "number" : "11",
+      "absolute" : "25663",
+      "text" : "And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v12",
+      "number" : "12",
+      "absolute" : "25664",
+      "text" : "And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v13",
+      "number" : "13",
+      "absolute" : "25665",
+      "text" : "And they lifted up <span class='extra'>their<\/span> voices, and said, Jesus, Master, have mercy on us."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v14",
+      "number" : "14",
+      "absolute" : "25666",
+      "text" : "And when he saw <span class='extra'>them<\/span>, he said unto them, <span class='woc'>Go shew yourselves unto the priests.<\/span> And it came to pass, that, as they went, they were cleansed."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v15",
+      "number" : "15",
+      "absolute" : "25667",
+      "text" : "And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v16",
+      "number" : "16",
+      "absolute" : "25668",
+      "text" : "And fell down on <span class='extra'>his<\/span> face at his feet, giving him thanks: and he was a Samaritan."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v17",
+      "number" : "17",
+      "absolute" : "25669",
+      "text" : "And Jesus answering said, <span class='woc'>Were there not ten cleansed? but where <span class='extra'>are<\/span> the nine?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v18",
+      "number" : "18",
+      "absolute" : "25670",
+      "text" : "<span class='woc'>There are not found that returned to give glory to God, save this stranger.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v19",
+      "number" : "19",
+      "absolute" : "25671",
+      "text" : "And he said unto him, <span class='woc'>Arise, go thy way: thy faith hath made thee whole.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v20",
+      "number" : "20",
+      "absolute" : "25672",
+      "text" : "And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, <span class='woc'>The kingdom of God cometh not with observation:<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v21",
+      "number" : "21",
+      "absolute" : "25673",
+      "text" : "<span class='woc'>Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v22",
+      "number" : "22",
+      "absolute" : "25674",
+      "text" : "And he said unto the disciples, <span class='woc'>The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see <span class='extra'>it<\/span>.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v23",
+      "number" : "23",
+      "absolute" : "25675",
+      "text" : "<span class='woc'>And they shall say to you, See here; or, see there: go not after <span class='extra'>them<\/span>, nor follow <span class='extra'>them<\/span>.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v24",
+      "number" : "24",
+      "absolute" : "25676",
+      "text" : "<span class='woc'>For as the lightning, that lighteneth out of the one <span class='extra'>part<\/span> under heaven, shineth unto the other <span class='extra'>part<\/span> under heaven; so shall also the Son of man be in his day.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v25",
+      "number" : "25",
+      "absolute" : "25677",
+      "text" : "<span class='woc'>But first must he suffer many things, and be rejected of this generation.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v26",
+      "number" : "26",
+      "absolute" : "25678",
+      "text" : "<span class='woc'>And as it was in the days of Noe, so shall it be also in the days of the Son of man.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v27",
+      "number" : "27",
+      "absolute" : "25679",
+      "text" : "<span class='woc'>They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v28",
+      "number" : "28",
+      "absolute" : "25680",
+      "text" : "<span class='woc'>Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v29",
+      "number" : "29",
+      "absolute" : "25681",
+      "text" : "<span class='woc'>But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed <span class='extra'>them<\/span> all.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v30",
+      "number" : "30",
+      "absolute" : "25682",
+      "text" : "<span class='woc'>Even thus shall it be in the day when the Son of man is revealed.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v31",
+      "number" : "31",
+      "absolute" : "25683",
+      "text" : "<span class='woc'>In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v32",
+      "number" : "32",
+      "absolute" : "25684",
+      "text" : "<span class='woc'>Remember Lot's wife.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v33",
+      "number" : "33",
+      "absolute" : "25685",
+      "text" : "<span class='woc'>Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v34",
+      "number" : "34",
+      "absolute" : "25686",
+      "text" : "<span class='woc'>I tell you, in that night there shall be two <span class='extra'>men<\/span> in one bed; the one shall be taken, and the other shall be left.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v35",
+      "number" : "35",
+      "absolute" : "25687",
+      "text" : "<span class='woc'>Two <span class='extra'>women<\/span> shall be grinding together; the one shall be taken, and the other left.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v36",
+      "number" : "36",
+      "absolute" : "25688",
+      "text" : "<span class='woc'>Two <span class='extra'>men<\/span> shall be in the field; the one shall be taken, and the other left.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v37",
+      "number" : "37",
+      "absolute" : "25689",
+      "text" : "And they answered and said unto him, Where, Lord? And he said unto them, <span class='woc'>Wheresoever the body <span class='extra'>is<\/span>, thither will the eagles be gathered together.<\/span>"
+    }
+  ]
+}

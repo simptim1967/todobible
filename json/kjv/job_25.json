@@ -1,0 +1,75 @@
+{
+  "book": {
+    "number" : "18",
+    "filenamePrefix" : "job",
+    "bookPage" : "job.html",
+    "title" : "Job",
+    "chapterCount" : "42",
+    "testament" : "old",
+    "nt" : "false",
+    "ot" : "true",
+    "nextBook" : "psalms_1.html",
+    "nextTitle" : "Psalms",
+    "prevBook" : "esther_1.html",
+    "prevTitle" : "Esther"
+  },
+  "chapter": {
+    "number" : "25",
+    "verseCount" : "6",
+    "nextChapter" : "job_26.html",
+    "nextTitle" : "Job 26",
+    "prevChapter" : "job_24.html",
+    "prevTitle" : "Job 24",
+    "filename" : "job_25.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "13463",
+      "text" : "Then answered Bildad the Shuhite, and said,"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "13464",
+      "text" : "Dominion and fear <span class='extra'>are<\/span> with him, he maketh peace in his high places."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "13465",
+      "text" : "Is there any number of his armies? and upon whom doth not his light arise?"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v4",
+      "number" : "4",
+      "absolute" : "13466",
+      "text" : "How then can man be justified with God? or how can he be clean <span class='extra'>that is<\/span> born of a woman?"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v5",
+      "number" : "5",
+      "absolute" : "13467",
+      "text" : "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v6",
+      "number" : "6",
+      "absolute" : "13468",
+      "text" : "How much less man, <span class='extra'>that is<\/span> a worm? and the son of man, <span class='extra'>which is<\/span> a worm?"
+    }
+  ]
+}

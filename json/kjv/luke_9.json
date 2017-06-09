@@ -1,0 +1,523 @@
+{
+  "book": {
+    "number" : "42",
+    "filenamePrefix" : "luke",
+    "bookPage" : "luke.html",
+    "title" : "Luke",
+    "chapterCount" : "24",
+    "testament" : "new",
+    "nt" : "true",
+    "ot" : "false",
+    "nextBook" : "john_1.html",
+    "nextTitle" : "John",
+    "prevBook" : "mark_1.html",
+    "prevTitle" : "Mark"
+  },
+  "chapter": {
+    "number" : "9",
+    "verseCount" : "62",
+    "nextChapter" : "luke_10.html",
+    "nextTitle" : "Luke 10",
+    "prevChapter" : "luke_8.html",
+    "prevTitle" : "Luke 8",
+    "filename" : "luke_9.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "25303",
+      "text" : "Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "25304",
+      "text" : "And he sent them to preach the kingdom of God, and to heal the sick."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "25305",
+      "text" : "And he said unto them, <span class='woc'>Take nothing for <span class='extra'>your<\/span> journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v4",
+      "number" : "4",
+      "absolute" : "25306",
+      "text" : "<span class='woc'>And whatsoever house ye enter into, there abide, and thence depart.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v5",
+      "number" : "5",
+      "absolute" : "25307",
+      "text" : "<span class='woc'>And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v6",
+      "number" : "6",
+      "absolute" : "25308",
+      "text" : "And they departed, and went through the towns, preaching the gospel, and healing every where."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v7",
+      "number" : "7",
+      "absolute" : "25309",
+      "text" : "Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v8",
+      "number" : "8",
+      "absolute" : "25310",
+      "text" : "And of some, that Elias had appeared; and of others, that one of the old prophets was risen again."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v9",
+      "number" : "9",
+      "absolute" : "25311",
+      "text" : "And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v10",
+      "number" : "10",
+      "absolute" : "25312",
+      "text" : "And the apostles, when they were returned, told him all that they had done. And he took them, and went aside privately into a desert place belonging to the city called Bethsaida."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v11",
+      "number" : "11",
+      "absolute" : "25313",
+      "text" : "And the people, when they knew <span class='extra'>it<\/span>, followed him: and he received them, and spake unto them of the kingdom of God, and healed them that had need of healing."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v12",
+      "number" : "12",
+      "absolute" : "25314",
+      "text" : "And when the day began to wear away, then came the twelve, and said unto him, Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v13",
+      "number" : "13",
+      "absolute" : "25315",
+      "text" : "But he said unto them, <span class='woc'>Give ye them to eat.<\/span> And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v14",
+      "number" : "14",
+      "absolute" : "25316",
+      "text" : "For they were about five thousand men. And he said to his disciples, <span class='woc'>Make them sit down by fifties in a company.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v15",
+      "number" : "15",
+      "absolute" : "25317",
+      "text" : "And they did so, and made them all sit down."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v16",
+      "number" : "16",
+      "absolute" : "25318",
+      "text" : "Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v17",
+      "number" : "17",
+      "absolute" : "25319",
+      "text" : "And they did eat, and were all filled: and there was taken up of fragments that remained to them twelve baskets."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v18",
+      "number" : "18",
+      "absolute" : "25320",
+      "text" : "And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, <span class='woc'>Whom say the people that I am?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v19",
+      "number" : "19",
+      "absolute" : "25321",
+      "text" : "They answering said, John the Baptist; but some <span class='extra'>say<\/span>, Elias; and others <span class='extra'>say<\/span>, that one of the old prophets is risen again."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v20",
+      "number" : "20",
+      "absolute" : "25322",
+      "text" : "He said unto them, <span class='woc'>But whom say ye that I am?<\/span> Peter answering said, The Christ of God."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v21",
+      "number" : "21",
+      "absolute" : "25323",
+      "text" : "And he straitly charged them, and commanded <span class='extra'>them<\/span> to tell no man that thing;"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v22",
+      "number" : "22",
+      "absolute" : "25324",
+      "text" : "Saying, <span class='woc'>The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v23",
+      "number" : "23",
+      "absolute" : "25325",
+      "text" : "And he said to <span class='extra'>them<\/span> all, <span class='woc'>If any <span class='extra'>man<\/span> will come after me, let him deny himself, and take up his cross daily, and follow me.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v24",
+      "number" : "24",
+      "absolute" : "25326",
+      "text" : "<span class='woc'>For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v25",
+      "number" : "25",
+      "absolute" : "25327",
+      "text" : "<span class='woc'>For what is a man advantaged, if he gain the whole world, and lose himself, or be cast away?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v26",
+      "number" : "26",
+      "absolute" : "25328",
+      "text" : "<span class='woc'>For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and <span class='extra'>in his<\/span> Father's, and of the holy angels.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v27",
+      "number" : "27",
+      "absolute" : "25329",
+      "text" : "<span class='woc'>But I tell you of a truth, there be some standing here, which shall not taste of death, till they see the kingdom of God.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v28",
+      "number" : "28",
+      "absolute" : "25330",
+      "text" : "And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v29",
+      "number" : "29",
+      "absolute" : "25331",
+      "text" : "And as he prayed, the fashion of his countenance was altered, and his raiment <span class='extra'>was<\/span> white <span class='extra'>and<\/span> glistering."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v30",
+      "number" : "30",
+      "absolute" : "25332",
+      "text" : "And, behold, there talked with him two men, which were Moses and Elias:"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v31",
+      "number" : "31",
+      "absolute" : "25333",
+      "text" : "Who appeared in glory, and spake of his decease which he should accomplish at Jerusalem."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v32",
+      "number" : "32",
+      "absolute" : "25334",
+      "text" : "But Peter and they that were with him were heavy with sleep: and when they were awake, they saw his glory, and the two men that stood with him."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v33",
+      "number" : "33",
+      "absolute" : "25335",
+      "text" : "And it came to pass, as they departed from him, Peter said unto Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias: not knowing what he said."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v34",
+      "number" : "34",
+      "absolute" : "25336",
+      "text" : "While he thus spake, there came a cloud, and overshadowed them: and they feared as they entered into the cloud."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v35",
+      "number" : "35",
+      "absolute" : "25337",
+      "text" : "And there came a voice out of the cloud, saying, This is my beloved Son: hear him."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v36",
+      "number" : "36",
+      "absolute" : "25338",
+      "text" : "And when the voice was past, Jesus was found alone. And they kept <span class='extra'>it<\/span> close, and told no man in those days any of those things which they had seen."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v37",
+      "number" : "37",
+      "absolute" : "25339",
+      "text" : "And it came to pass, that on the next day, when they were come down from the hill, much people met him."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v38",
+      "number" : "38",
+      "absolute" : "25340",
+      "text" : "And, behold, a man of the company cried out, saying, Master, I beseech thee, look upon my son: for he is mine only child."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v39",
+      "number" : "39",
+      "absolute" : "25341",
+      "text" : "And, lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly departeth from him."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v40",
+      "number" : "40",
+      "absolute" : "25342",
+      "text" : "And I besought thy disciples to cast him out; and they could not."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v41",
+      "number" : "41",
+      "absolute" : "25343",
+      "text" : "And Jesus answering said, <span class='woc'>O faithless and perverse generation, how long shall I be with you, and suffer you? Bring thy son hither.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v42",
+      "number" : "42",
+      "absolute" : "25344",
+      "text" : "And as he was yet a coming, the devil threw him down, and tare <span class='extra'>him<\/span>. And Jesus rebuked the unclean spirit, and healed the child, and delivered him again to his father."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v43",
+      "number" : "43",
+      "absolute" : "25345",
+      "text" : "And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples,"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v44",
+      "number" : "44",
+      "absolute" : "25346",
+      "text" : "<span class='woc'>Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v45",
+      "number" : "45",
+      "absolute" : "25347",
+      "text" : "But they understood not this saying, and it was hid from them, that they perceived it not: and they feared to ask him of that saying."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v46",
+      "number" : "46",
+      "absolute" : "25348",
+      "text" : "Then there arose a reasoning among them, which of them should be greatest."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v47",
+      "number" : "47",
+      "absolute" : "25349",
+      "text" : "And Jesus, perceiving the thought of their heart, took a child, and set him by him,"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v48",
+      "number" : "48",
+      "absolute" : "25350",
+      "text" : "And said unto them, <span class='woc'>Whosoever shall receive this child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v49",
+      "number" : "49",
+      "absolute" : "25351",
+      "text" : "And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v50",
+      "number" : "50",
+      "absolute" : "25352",
+      "text" : "And Jesus said unto him, <span class='woc'>Forbid <span class='extra'>him<\/span> not: for he that is not against us is for us.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v51",
+      "number" : "51",
+      "absolute" : "25353",
+      "text" : "And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v52",
+      "number" : "52",
+      "absolute" : "25354",
+      "text" : "And sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v53",
+      "number" : "53",
+      "absolute" : "25355",
+      "text" : "And they did not receive him, because his face was as though he would go to Jerusalem."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v54",
+      "number" : "54",
+      "absolute" : "25356",
+      "text" : "And when his disciples James and John saw <span class='extra'>this<\/span>, they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did?"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v55",
+      "number" : "55",
+      "absolute" : "25357",
+      "text" : "But he turned, and rebuked them, and said, <span class='woc'>Ye know not what manner of spirit ye are of.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v56",
+      "number" : "56",
+      "absolute" : "25358",
+      "text" : "<span class='woc'>For the Son of man is not come to destroy men's lives, but to save <span class='extra'>them<\/span>.<\/span> And they went to another village."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v57",
+      "number" : "57",
+      "absolute" : "25359",
+      "text" : "And it came to pass, that, as they went in the way, a certain <span class='extra'>man<\/span> said unto him, Lord, I will follow thee whithersoever thou goest."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v58",
+      "number" : "58",
+      "absolute" : "25360",
+      "text" : "And Jesus said unto him, <span class='woc'>Foxes have holes, and birds of the air <span class='extra'>have<\/span> nests; but the Son of man hath not where to lay <span class='extra'>his<\/span> head.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v59",
+      "number" : "59",
+      "absolute" : "25361",
+      "text" : "And he said unto another, <span class='woc'>Follow me.<\/span> But he said, Lord, suffer me first to go and bury my father."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v60",
+      "number" : "60",
+      "absolute" : "25362",
+      "text" : "Jesus said unto him, <span class='woc'>Let the dead bury their dead: but go thou and preach the kingdom of God.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v61",
+      "number" : "61",
+      "absolute" : "25363",
+      "text" : "And another also said, Lord, I will follow thee; but let me first go bid them farewell, which are at home at my house."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v62",
+      "number" : "62",
+      "absolute" : "25364",
+      "text" : "And Jesus said unto him, <span class='woc'>No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.<\/span>"
+    }
+  ]
+}

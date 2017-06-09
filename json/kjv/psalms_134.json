@@ -1,0 +1,57 @@
+{
+  "book": {
+    "number" : "19",
+    "filenamePrefix" : "psalms",
+    "bookPage" : "psalms.html",
+    "title" : "Psalms",
+    "chapterCount" : "150",
+    "testament" : "old",
+    "nt" : "false",
+    "ot" : "true",
+    "nextBook" : "proverbs_1.html",
+    "nextTitle" : "Proverbs",
+    "prevBook" : "job_1.html",
+    "prevTitle" : "Job"
+  },
+  "chapter": {
+    "number" : "134",
+    "verseCount" : "3",
+    "nextChapter" : "psalms_135.html",
+    "nextTitle" : "Psalms 135",
+    "prevChapter" : "psalms_133.html",
+    "prevTitle" : "Psalms 133",
+    "filename" : "psalms_134.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "caption",
+      "id" : "c0",
+      "text" : "A Song of degrees."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "16174",
+      "text" : "Behold, bless ye the <span class='nog'>Lord<\/span>, all <span class='extra'>ye<\/span> servants of the <span class='nog'>Lord<\/span>, which by night stand in the house of the <span class='nog'>Lord<\/span>."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "16175",
+      "text" : "Lift up your hands <span class='extra'>in<\/span> the sanctuary, and bless the <span class='nog'>Lord<\/span>."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "16176",
+      "text" : "The <span class='nog'>Lord<\/span> that made heaven and earth bless thee out of Zion."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "book": {
+    "number" : "19",
+    "filenamePrefix" : "psalms",
+    "bookPage" : "psalms.html",
+    "title" : "Psalms",
+    "chapterCount" : "150",
+    "testament" : "old",
+    "nt" : "false",
+    "ot" : "true",
+    "nextBook" : "proverbs_1.html",
+    "nextTitle" : "Proverbs",
+    "prevBook" : "job_1.html",
+    "prevTitle" : "Job"
+  },
+  "chapter": {
+    "number" : "43",
+    "verseCount" : "5",
+    "nextChapter" : "psalms_44.html",
+    "nextTitle" : "Psalms 44",
+    "prevChapter" : "psalms_42.html",
+    "prevTitle" : "Psalms 42",
+    "filename" : "psalms_43.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "14568",
+      "text" : "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "14569",
+      "text" : "For thou <span class='extra'>art<\/span> the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "14570",
+      "text" : "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v4",
+      "number" : "4",
+      "absolute" : "14571",
+      "text" : "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v5",
+      "number" : "5",
+      "absolute" : "14572",
+      "text" : "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, <span class='extra'>who is<\/span> the health of my countenance, and my God."
+    }
+  ]
+}

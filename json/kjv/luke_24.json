@@ -1,0 +1,451 @@
+{
+  "book": {
+    "number" : "42",
+    "filenamePrefix" : "luke",
+    "bookPage" : "luke.html",
+    "title" : "Luke",
+    "chapterCount" : "24",
+    "testament" : "new",
+    "nt" : "true",
+    "ot" : "false",
+    "nextBook" : "john_1.html",
+    "nextTitle" : "John",
+    "prevBook" : "mark_1.html",
+    "prevTitle" : "Mark"
+  },
+  "chapter": {
+    "number" : "24",
+    "verseCount" : "53",
+    "nextChapter" : "john_1.html",
+    "nextTitle" : "John 1",
+    "prevChapter" : "luke_23.html",
+    "prevTitle" : "Luke 23",
+    "filename" : "luke_24.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "25993",
+      "text" : "Now upon the first <span class='extra'>day<\/span> of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain <span class='extra'>others<\/span> with them."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "25994",
+      "text" : "And they found the stone rolled away from the sepulchre."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "25995",
+      "text" : "And they entered in, and found not the body of the Lord Jesus."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v4",
+      "number" : "4",
+      "absolute" : "25996",
+      "text" : "And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments:"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v5",
+      "number" : "5",
+      "absolute" : "25997",
+      "text" : "And as they were afraid, and bowed down <span class='extra'>their<\/span> faces to the earth, they said unto them, Why seek ye the living among the dead?"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v6",
+      "number" : "6",
+      "absolute" : "25998",
+      "text" : "He is not here, but is risen: remember how he spake unto you when he was yet in Galilee,"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v7",
+      "number" : "7",
+      "absolute" : "25999",
+      "text" : "Saying, <span class='woc'>The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v8",
+      "number" : "8",
+      "absolute" : "26000",
+      "text" : "And they remembered his words,"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v9",
+      "number" : "9",
+      "absolute" : "26001",
+      "text" : "And returned from the sepulchre, and told all these things unto the eleven, and to all the rest."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v10",
+      "number" : "10",
+      "absolute" : "26002",
+      "text" : "It was Mary Magdalene, and Joanna, and Mary <span class='extra'>the mother<\/span> of James, and other <span class='extra'>women that were<\/span> with them, which told these things unto the apostles."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v11",
+      "number" : "11",
+      "absolute" : "26003",
+      "text" : "And their words seemed to them as idle tales, and they believed them not."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v12",
+      "number" : "12",
+      "absolute" : "26004",
+      "text" : "Then arose Peter, and ran unto the sepulchre; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v13",
+      "number" : "13",
+      "absolute" : "26005",
+      "text" : "And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem <span class='extra'>about<\/span> threescore furlongs."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v14",
+      "number" : "14",
+      "absolute" : "26006",
+      "text" : "And they talked together of all these things which had happened."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v15",
+      "number" : "15",
+      "absolute" : "26007",
+      "text" : "And it came to pass, that, while they communed <span class='extra'>together<\/span> and reasoned, Jesus himself drew near, and went with them."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v16",
+      "number" : "16",
+      "absolute" : "26008",
+      "text" : "But their eyes were holden that they should not know him."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v17",
+      "number" : "17",
+      "absolute" : "26009",
+      "text" : "And he said unto them, <span class='woc'>What manner of communications <span class='extra'>are<\/span> these that ye have one to another, as ye walk, and are sad?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v18",
+      "number" : "18",
+      "absolute" : "26010",
+      "text" : "And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v19",
+      "number" : "19",
+      "absolute" : "26011",
+      "text" : "And he said unto them, <span class='woc'>What things?<\/span> And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v20",
+      "number" : "20",
+      "absolute" : "26012",
+      "text" : "And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v21",
+      "number" : "21",
+      "absolute" : "26013",
+      "text" : "But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v22",
+      "number" : "22",
+      "absolute" : "26014",
+      "text" : "Yea, and certain women also of our company made us astonished, which were early at the sepulchre;"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v23",
+      "number" : "23",
+      "absolute" : "26015",
+      "text" : "And when they found not his body, they came, saying, that they had also seen a vision of angels, which said that he was alive."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v24",
+      "number" : "24",
+      "absolute" : "26016",
+      "text" : "And certain of them which were with us went to the sepulchre, and found <span class='extra'>it<\/span> even so as the women had said: but him they saw not."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v25",
+      "number" : "25",
+      "absolute" : "26017",
+      "text" : "Then he said unto them, <span class='woc'>O fools, and slow of heart to believe all that the prophets have spoken:<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v26",
+      "number" : "26",
+      "absolute" : "26018",
+      "text" : "<span class='woc'>Ought not Christ to have suffered these things, and to enter into his glory?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v27",
+      "number" : "27",
+      "absolute" : "26019",
+      "text" : "And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v28",
+      "number" : "28",
+      "absolute" : "26020",
+      "text" : "And they drew nigh unto the village, whither they went: and he made as though he would have gone further."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v29",
+      "number" : "29",
+      "absolute" : "26021",
+      "text" : "But they constrained him, saying, Abide with us: for it is toward evening, and the day is far spent. And he went in to tarry with them."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v30",
+      "number" : "30",
+      "absolute" : "26022",
+      "text" : "And it came to pass, as he sat at meat with them, he took bread, and blessed <span class='extra'>it<\/span>, and brake, and gave to them."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v31",
+      "number" : "31",
+      "absolute" : "26023",
+      "text" : "And their eyes were opened, and they knew him; and he vanished out of their sight."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v32",
+      "number" : "32",
+      "absolute" : "26024",
+      "text" : "And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v33",
+      "number" : "33",
+      "absolute" : "26025",
+      "text" : "And they rose up the same hour, and returned to Jerusalem, and found the eleven gathered together, and them that were with them,"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v34",
+      "number" : "34",
+      "absolute" : "26026",
+      "text" : "Saying, The Lord is risen indeed, and hath appeared to Simon."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v35",
+      "number" : "35",
+      "absolute" : "26027",
+      "text" : "And they told what things <span class='extra'>were done<\/span> in the way, and how he was known of them in breaking of bread."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v36",
+      "number" : "36",
+      "absolute" : "26028",
+      "text" : "And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, <span class='woc'>Peace <span class='extra'>be<\/span> unto you.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v37",
+      "number" : "37",
+      "absolute" : "26029",
+      "text" : "But they were terrified and affrighted, and supposed that they had seen a spirit."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v38",
+      "number" : "38",
+      "absolute" : "26030",
+      "text" : "And he said unto them, <span class='woc'>Why are ye troubled? and why do thoughts arise in your hearts?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v39",
+      "number" : "39",
+      "absolute" : "26031",
+      "text" : "<span class='woc'>Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v40",
+      "number" : "40",
+      "absolute" : "26032",
+      "text" : "And when he had thus spoken, he shewed them <span class='extra'>his<\/span> hands and <span class='extra'>his<\/span> feet."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v41",
+      "number" : "41",
+      "absolute" : "26033",
+      "text" : "And while they yet believed not for joy, and wondered, he said unto them, <span class='woc'>Have ye here any meat?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v42",
+      "number" : "42",
+      "absolute" : "26034",
+      "text" : "And they gave him a piece of a broiled fish, and of an honeycomb."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v43",
+      "number" : "43",
+      "absolute" : "26035",
+      "text" : "And he took <span class='extra'>it<\/span>, and did eat before them."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v44",
+      "number" : "44",
+      "absolute" : "26036",
+      "text" : "And he said unto them, <span class='woc'>These <span class='extra'>are<\/span> the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and <span class='extra'>in<\/span> the prophets, and <span class='extra'>in<\/span> the psalms, concerning me.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v45",
+      "number" : "45",
+      "absolute" : "26037",
+      "text" : "Then opened he their understanding, that they might understand the scriptures,"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v46",
+      "number" : "46",
+      "absolute" : "26038",
+      "text" : "And said unto them, <span class='woc'>Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v47",
+      "number" : "47",
+      "absolute" : "26039",
+      "text" : "<span class='woc'>And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v48",
+      "number" : "48",
+      "absolute" : "26040",
+      "text" : "<span class='woc'>And ye are witnesses of these things.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v49",
+      "number" : "49",
+      "absolute" : "26041",
+      "text" : "<span class='woc'>And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v50",
+      "number" : "50",
+      "absolute" : "26042",
+      "text" : "And he led them out as far as to Bethany, and he lifted up his hands, and blessed them."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v51",
+      "number" : "51",
+      "absolute" : "26043",
+      "text" : "And it came to pass, while he blessed them, he was parted from them, and carried up into heaven."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v52",
+      "number" : "52",
+      "absolute" : "26044",
+      "text" : "And they worshipped him, and returned to Jerusalem with great joy:"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v53",
+      "number" : "53",
+      "absolute" : "26045",
+      "text" : "And were continually in the temple, praising and blessing God. Amen."
+    }
+  ]
+}

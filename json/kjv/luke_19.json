@@ -1,0 +1,411 @@
+{
+  "book": {
+    "number" : "42",
+    "filenamePrefix" : "luke",
+    "bookPage" : "luke.html",
+    "title" : "Luke",
+    "chapterCount" : "24",
+    "testament" : "new",
+    "nt" : "true",
+    "ot" : "false",
+    "nextBook" : "john_1.html",
+    "nextTitle" : "John",
+    "prevBook" : "mark_1.html",
+    "prevTitle" : "Mark"
+  },
+  "chapter": {
+    "number" : "19",
+    "verseCount" : "48",
+    "nextChapter" : "luke_20.html",
+    "nextTitle" : "Luke 20",
+    "prevChapter" : "luke_18.html",
+    "prevTitle" : "Luke 18",
+    "filename" : "luke_19.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "25733",
+      "text" : "And <span class='extra'>Jesus<\/span> entered and passed through Jericho."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "25734",
+      "text" : "And, behold, <span class='extra'>there was<\/span> a man named Zacchaeus, which was the chief among the publicans, and he was rich."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "25735",
+      "text" : "And he sought to see Jesus who he was; and could not for the press, because he was little of stature."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v4",
+      "number" : "4",
+      "absolute" : "25736",
+      "text" : "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that <span class='extra'>way<\/span>."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v5",
+      "number" : "5",
+      "absolute" : "25737",
+      "text" : "And when Jesus came to the place, he looked up, and saw him, and said unto him, <span class='woc'>Zacchaeus, make haste, and come down; for to day I must abide at thy house.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v6",
+      "number" : "6",
+      "absolute" : "25738",
+      "text" : "And he made haste, and came down, and received him joyfully."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v7",
+      "number" : "7",
+      "absolute" : "25739",
+      "text" : "And when they saw <span class='extra'>it<\/span>, they all murmured, saying, That he was gone to be guest with a man that is a sinner."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v8",
+      "number" : "8",
+      "absolute" : "25740",
+      "text" : "And Zacchaeus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore <span class='extra'>him<\/span> fourfold."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v9",
+      "number" : "9",
+      "absolute" : "25741",
+      "text" : "And Jesus said unto him, <span class='woc'>This day is salvation come to this house, forsomuch as he also is a son of Abraham.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v10",
+      "number" : "10",
+      "absolute" : "25742",
+      "text" : "<span class='woc'>For the Son of man is come to seek and to save that which was lost.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v11",
+      "number" : "11",
+      "absolute" : "25743",
+      "text" : "And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v12",
+      "number" : "12",
+      "absolute" : "25744",
+      "text" : "He said therefore, <span class='woc'>A certain nobleman went into a far country to receive for himself a kingdom, and to return.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v13",
+      "number" : "13",
+      "absolute" : "25745",
+      "text" : "<span class='woc'>And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v14",
+      "number" : "14",
+      "absolute" : "25746",
+      "text" : "<span class='woc'>But his citizens hated him, and sent a message after him, saying, We will not have this <span class='extra'>man<\/span> to reign over us.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v15",
+      "number" : "15",
+      "absolute" : "25747",
+      "text" : "<span class='woc'>And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v16",
+      "number" : "16",
+      "absolute" : "25748",
+      "text" : "<span class='woc'>Then came the first, saying, Lord, thy pound hath gained ten pounds.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v17",
+      "number" : "17",
+      "absolute" : "25749",
+      "text" : "<span class='woc'>And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v18",
+      "number" : "18",
+      "absolute" : "25750",
+      "text" : "<span class='woc'>And the second came, saying, Lord, thy pound hath gained five pounds.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v19",
+      "number" : "19",
+      "absolute" : "25751",
+      "text" : "<span class='woc'>And he said likewise to him, Be thou also over five cities.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v20",
+      "number" : "20",
+      "absolute" : "25752",
+      "text" : "<span class='woc'>And another came, saying, Lord, behold, <span class='extra'>here is<\/span> thy pound, which I have kept laid up in a napkin:<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v21",
+      "number" : "21",
+      "absolute" : "25753",
+      "text" : "<span class='woc'>For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v22",
+      "number" : "22",
+      "absolute" : "25754",
+      "text" : "<span class='woc'>And he saith unto him, Out of thine own mouth will I judge thee, <span class='extra'>thou<\/span> wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v23",
+      "number" : "23",
+      "absolute" : "25755",
+      "text" : "<span class='woc'>Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v24",
+      "number" : "24",
+      "absolute" : "25756",
+      "text" : "<span class='woc'>And he said unto them that stood by, Take from him the pound, and give <span class='extra'>it<\/span> to him that hath ten pounds.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v25",
+      "number" : "25",
+      "absolute" : "25757",
+      "text" : "<span class='woc'>(And they said unto him, Lord, he hath ten pounds.)<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v26",
+      "number" : "26",
+      "absolute" : "25758",
+      "text" : "<span class='woc'>For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v27",
+      "number" : "27",
+      "absolute" : "25759",
+      "text" : "<span class='woc'>But those mine enemies, which would not that I should reign over them, bring hither, and slay <span class='extra'>them<\/span> before me.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v28",
+      "number" : "28",
+      "absolute" : "25760",
+      "text" : "And when he had thus spoken, he went before, ascending up to Jerusalem."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v29",
+      "number" : "29",
+      "absolute" : "25761",
+      "text" : "And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called <span class='extra'>the mount<\/span> of Olives, he sent two of his disciples,"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v30",
+      "number" : "30",
+      "absolute" : "25762",
+      "text" : "Saying, <span class='woc'>Go ye into the village over against <span class='extra'>you<\/span>; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring <span class='extra'>him hither<\/span>.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v31",
+      "number" : "31",
+      "absolute" : "25763",
+      "text" : "<span class='woc'>And if any man ask you, Why do ye loose <span class='extra'>him<\/span>? thus shall ye say unto him, Because the Lord hath need of him.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v32",
+      "number" : "32",
+      "absolute" : "25764",
+      "text" : "And they that were sent went their way, and found even as he had said unto them."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v33",
+      "number" : "33",
+      "absolute" : "25765",
+      "text" : "And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v34",
+      "number" : "34",
+      "absolute" : "25766",
+      "text" : "And they said, The Lord hath need of him."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v35",
+      "number" : "35",
+      "absolute" : "25767",
+      "text" : "And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v36",
+      "number" : "36",
+      "absolute" : "25768",
+      "text" : "And as he went, they spread their clothes in the way."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v37",
+      "number" : "37",
+      "absolute" : "25769",
+      "text" : "And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v38",
+      "number" : "38",
+      "absolute" : "25770",
+      "text" : "Saying, Blessed <span class='extra'>be<\/span> the King that cometh in the name of the Lord: peace in heaven, and glory in the highest."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v39",
+      "number" : "39",
+      "absolute" : "25771",
+      "text" : "And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v40",
+      "number" : "40",
+      "absolute" : "25772",
+      "text" : "And he answered and said unto them, <span class='woc'>I tell you that, if these should hold their peace, the stones would immediately cry out.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v41",
+      "number" : "41",
+      "absolute" : "25773",
+      "text" : "And when he was come near, he beheld the city, and wept over it,"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v42",
+      "number" : "42",
+      "absolute" : "25774",
+      "text" : "Saying, <span class='woc'>If thou hadst known, even thou, at least in this thy day, the things <span class='extra'>which belong<\/span> unto thy peace! but now they are hid from thine eyes.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v43",
+      "number" : "43",
+      "absolute" : "25775",
+      "text" : "<span class='woc'>For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v44",
+      "number" : "44",
+      "absolute" : "25776",
+      "text" : "<span class='woc'>And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v45",
+      "number" : "45",
+      "absolute" : "25777",
+      "text" : "And he went into the temple, and began to cast out them that sold therein, and them that bought;"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v46",
+      "number" : "46",
+      "absolute" : "25778",
+      "text" : "Saying unto them, <span class='woc'>It is written, My house is the house of prayer: but ye have made it a den of thieves.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v47",
+      "number" : "47",
+      "absolute" : "25779",
+      "text" : "And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v48",
+      "number" : "48",
+      "absolute" : "25780",
+      "text" : "And could not find what they might do: for all the people were very attentive to hear him."
+    }
+  ]
+}

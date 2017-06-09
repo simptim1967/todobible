@@ -1,0 +1,73 @@
+{
+  "book": {
+    "number" : "19",
+    "filenamePrefix" : "psalms",
+    "bookPage" : "psalms.html",
+    "title" : "Psalms",
+    "chapterCount" : "150",
+    "testament" : "old",
+    "nt" : "false",
+    "ot" : "true",
+    "nextBook" : "proverbs_1.html",
+    "nextTitle" : "Proverbs",
+    "prevBook" : "job_1.html",
+    "prevTitle" : "Job"
+  },
+  "chapter": {
+    "number" : "125",
+    "verseCount" : "5",
+    "nextChapter" : "psalms_126.html",
+    "nextTitle" : "Psalms 126",
+    "prevChapter" : "psalms_124.html",
+    "prevTitle" : "Psalms 124",
+    "filename" : "psalms_125.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "caption",
+      "id" : "c0",
+      "text" : "A Song of degrees."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "16112",
+      "text" : "They that trust in the <span class='nog'>Lord<\/span> <span class='extra'>shall be<\/span> as mount Zion, <span class='extra'>which<\/span> cannot be removed, <span class='extra'>but<\/span> abideth for ever."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "16113",
+      "text" : "<span class='extra'>As<\/span> the mountains <span class='extra'>are<\/span> round about Jerusalem, so the <span class='nog'>Lord<\/span> <span class='extra'>is<\/span> round about his people from henceforth even for ever."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "16114",
+      "text" : "For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v4",
+      "number" : "4",
+      "absolute" : "16115",
+      "text" : "Do good, O <span class='nog'>Lord<\/span>, unto <span class='extra'>those that be<\/span> good, and to <span class='extra'>them that are<\/span> upright in their hearts."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v5",
+      "number" : "5",
+      "absolute" : "16116",
+      "text" : "As for such as turn aside unto their crooked ways, the <span class='nog'>Lord<\/span> shall lead them forth with the workers of iniquity: <span class='extra'>but<\/span> peace <span class='extra'>shall be<\/span> upon Israel."
+    }
+  ]
+}

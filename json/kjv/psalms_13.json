@@ -1,0 +1,81 @@
+{
+  "book": {
+    "number" : "19",
+    "filenamePrefix" : "psalms",
+    "bookPage" : "psalms.html",
+    "title" : "Psalms",
+    "chapterCount" : "150",
+    "testament" : "old",
+    "nt" : "false",
+    "ot" : "true",
+    "nextBook" : "proverbs_1.html",
+    "nextTitle" : "Proverbs",
+    "prevBook" : "job_1.html",
+    "prevTitle" : "Job"
+  },
+  "chapter": {
+    "number" : "13",
+    "verseCount" : "6",
+    "nextChapter" : "psalms_14.html",
+    "nextTitle" : "Psalms 14",
+    "prevChapter" : "psalms_12.html",
+    "prevTitle" : "Psalms 12",
+    "filename" : "psalms_13.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "caption",
+      "id" : "c0",
+      "text" : "To the chief Musician, A Psalm of David."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "14076",
+      "text" : "How long wilt thou forget me, O <span class='nog'>Lord<\/span>? for ever? how long wilt thou hide thy face from me?"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "14077",
+      "text" : "How long shall I take counsel in my soul, <span class='extra'>having<\/span> sorrow in my heart daily? how long shall mine enemy be exalted over me?"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "14078",
+      "text" : "Consider <span class='extra'>and<\/span> hear me, O <span class='nog'>Lord<\/span> my God: lighten mine eyes, lest I sleep the <span class='extra'>sleep of<\/span> death;"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v4",
+      "number" : "4",
+      "absolute" : "14079",
+      "text" : "Lest mine enemy say, I have prevailed against him; <span class='extra'>and<\/span> those that trouble me rejoice when I am moved."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v5",
+      "number" : "5",
+      "absolute" : "14080",
+      "text" : "But I have trusted in thy mercy; my heart shall rejoice in thy salvation."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v6",
+      "number" : "6",
+      "absolute" : "14081",
+      "text" : "I will sing unto the <span class='nog'>Lord<\/span>, because he hath dealt bountifully with me."
+    }
+  ]
+}

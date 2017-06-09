@@ -1,0 +1,81 @@
+{
+  "book": {
+    "number" : "19",
+    "filenamePrefix" : "psalms",
+    "bookPage" : "psalms.html",
+    "title" : "Psalms",
+    "chapterCount" : "150",
+    "testament" : "old",
+    "nt" : "false",
+    "ot" : "true",
+    "nextBook" : "proverbs_1.html",
+    "nextTitle" : "Proverbs",
+    "prevBook" : "job_1.html",
+    "prevTitle" : "Job"
+  },
+  "chapter": {
+    "number" : "126",
+    "verseCount" : "6",
+    "nextChapter" : "psalms_127.html",
+    "nextTitle" : "Psalms 127",
+    "prevChapter" : "psalms_125.html",
+    "prevTitle" : "Psalms 125",
+    "filename" : "psalms_126.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "caption",
+      "id" : "c0",
+      "text" : "A Song of degrees."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "16117",
+      "text" : "When the <span class='nog'>Lord<\/span> turned again the captivity of Zion, we were like them that dream."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "16118",
+      "text" : "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The <span class='nog'>Lord<\/span> hath done great things for them."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "16119",
+      "text" : "The <span class='nog'>Lord<\/span> hath done great things for us; <span class='extra'>whereof<\/span> we are glad."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v4",
+      "number" : "4",
+      "absolute" : "16120",
+      "text" : "Turn again our captivity, O <span class='nog'>Lord<\/span>, as the streams in the south."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v5",
+      "number" : "5",
+      "absolute" : "16121",
+      "text" : "They that sow in tears shall reap in joy."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v6",
+      "number" : "6",
+      "absolute" : "16122",
+      "text" : "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves <span class='extra'>with him<\/span>."
+    }
+  ]
+}

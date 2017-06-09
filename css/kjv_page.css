@@ -33,18 +33,25 @@
     font-size: 1em;
 }
 
+.versenavigation form a {
+    border: solid 1px silver;
+    background-color: purple; 
+    padding: 5px;
+}
+
 #vref {
     border: solid 1px silver;
     background-color: #E0B4DC;
     padding: 3px;
     margin-right: 5px;
+    margin-bottom: 7px;
     color: black;
     width: 60%;
 }
 
 #gotoverse {
     border: solid 1px silver;
-    background-color: purple; /* violet; */
+    background-color: purple; 
 }
 
 /* Go To Chapter */

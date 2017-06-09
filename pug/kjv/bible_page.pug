@@ -1,0 +1,191 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    //-Construct page title for this bible book/chapter
+    //-Format: <book title> chapter <chapterNumber> - King James Bible
+    - var pageTitle = page.book.title + " chapter " + page.chapter.number + " - King James Bible";
+    title #{pageTitle}
+    meta(name='description', content='King James Bible: Psalms chapter 119')
+    //-Use the keywords from the bible page chapter JSON data for better SEO indexing
+    meta(name='keywords', content=page.chapter.keywords)
+    link(href='../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../css/common_page.css', rel='stylesheet')
+    link(href='../css/kjv_page.css', rel='stylesheet')
+  body
+    //-Bible page menu is customised for navigation from the current chapter to the next/previous and for the current bible book 
+    .navbar-wrapper
+      .container
+        nav.navbar.navbar-default.navbar-static-top
+          .container
+            .navbar-header
+              button.navbar-toggle.collapsed(type='button', data-toggle='collapse', data-target='#navbar', aria-expanded='false', aria-controls='navbar')
+                span.sr-only Toggle navigation
+                span.icon-bar
+                span.icon-bar
+                span.icon-bar
+              a.navbar-brand.disabled
+                strong
+                  span(style='color: lightskyblue;') ToDo:
+                  span(style='color: gold;') Bible
+            #navbar.navbar-collapse.collapse
+              ul.nav.navbar-nav
+                li
+                  a(href='../index.html') Home
+                li.dropdown
+                  a.dropdown-toggle(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
+                    | Bible 
+                    span.caret
+                  ul.dropdown-menu
+                    li
+                      a(href='genesis_1.html') Start Reading The Bible
+                    li
+                      a(href='king_james_bible_index_page.html') Bible Index Page
+                    li.divider(role='separator')
+                    li
+                      //-Construct menu option link/title text for next chapter
+                      a(href=page.chapter.nextChapter, title='Next Chapter (' + page.chapter.nextTitle + ')')
+                        | Next Chapter
+                    li
+                      //-Construct menu option link/title text for previous chapter
+                      a(href=page.chapter.prevChapter, title='Previous Chapter (' + page.chapter.prevTitle + ')')
+                        | Previous Chapter
+                    li
+                      //-Construct menu option from book name
+                      - var mnuGoToChapter = "Go To Chapter (" + page.book.title + ")";
+                      a(href='#gotoChapter', title=mnuGoToChapter)
+                        | Go To Chapter ...
+                    li.divider(role='separator')
+                    li
+                      a(href='#vref') Go To Bible Reference ...
+                li.dropdown
+                  a.dropdown-toggle(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
+                    | ToDo 
+                    span.caret
+                  ul.dropdown-menu
+                    li
+                      a(href='../todo/bible_todo_list_disclaimer.html') Disclaimer
+                    li.divider(role='separator')
+                    li
+                      a(href='../todo/bible_todo_list_ultimate.html') Ultimate Bible ToDo List
+                    li
+                      a(href='../todo/bible_todo_list.html') Bible ToDo List (By Topic)
+                    li
+                      a(href='../todo/bible_todo_list_by_bible_book.html')
+                        | Bible ToDo List (By Bible
+                        | Book)
+                    li
+                      a(href='../todo/bible_todo_list_by_a_to_z.html') Bible ToDo List (By A-Z)
+                    li.divider(role='separator')
+                    li
+                      a(href='../todo/bible_todo_topics_index.html') Bible ToDo List Topic Index
+                li
+                  a(href='../about_todo_bible.html') About
+    include ../includes/bible_page_header.pug
+    .container
+      .row
+        .col-md-8
+          .biblepage
+            //-Display navigation and heading for bible page chapter
+            table.bp_head_foot
+              tr
+                td.nav-arrow.hidden-print
+                  //-Link to previous chapter
+                  - var altPrev = 'Previous Chapter (' + page.chapter.prevTitle + ')';
+                  a(href=page.chapter.prevChapter)
+                    img(src='../images/prev.png', width='20', height='20', alt=altPrev, title=altPrev)
+                td
+                  //-Compute bible page heading
+                  - var pageHeading = (page.book.number == 19) ? "Psalm " + page.chapter.number : page.book.title + " chapter " + page.chapter.number;
+                  //-Primary bible page heading (h1)
+                  h1
+                    | #{pageHeading}
+                td.nav-arrow.hidden-print
+                  //-Link to next chapter
+                  - var altNext = 'Next Chapter (' + page.chapter.nextTitle + ')';
+                  a(href=page.chapter.nextChapter)
+                    img(src='../images/next.png', width='20', height='20', alt=altNext, title=altNext)
+            //-Display bible chapter content
+            //-Generate verse/caption content from JSON
+            - for(var i=0; i<page.items.length; i++) {
+            - var text = page.items[i].text;
+            - if (page.items[i].type === "verse") {
+              .verse(id="v" + page.items[i].number)
+                b #{page.items[i].number} 
+                | !{text}
+            - }
+            - else {
+              //-Caption
+              p.text-center !{text}
+            - }
+            - }
+            //-Display navigation and footer heading for bible page chapter
+            table.bp_head_foot.hidden-print
+              tr
+                td.nav-arrow
+                  //-Link to previous chapter
+                  a(href=page.chapter.prevChapter)
+                    img(src='../images/prev.png', width='20', height='20', alt=altPrev, title=altPrev)
+                td
+                  //-Secondary bible page heading (h2) as should only be one h1 on page
+                  h2
+                    | #{pageHeading}
+                td.nav-arrow
+                  //-Link to next chapter
+                  a(href=page.chapter.nextChapter)
+                    img(src='../images/next.png', width='20', height='20', alt=altNext, title=altNext)
+        .col-md-4.hidden-print
+          .hidden-md.hidden-lg.text-center
+            hr.featurette-divider
+            a(href='#')
+              small Top of page
+            hr.featurette-divider
+          .biblenavigation
+            h3 Navigate The Bible
+            h4 Go To Bible Reference
+            .versenavigation
+              form
+                label(for='vref') Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:
+                fieldset
+                  input#vref(type='text', maxlength='25')
+                  button#gotoverse.btn-md.btn-primary(type='submit', onclick='GoToVerse(); return false') Go
+                label(for='vindex') Alternatively you can visit:
+                br
+                a.btn-md.btn-primary(id='vindex', href='king_james_bible_index_page.html') Bible Index Page
+            h4#gotoChapter Go To Chapter [#{page.book.title}]
+            //-Generate chapter navigation table
+            - var step = page.book.chapterCount > 99 ? 5 : 5;
+            table.chapternavigation
+              - var col = 1;
+              - var chapter=1;
+              - while (chapter <= page.book.chapterCount) {
+              tr
+                - while (col <= step && chapter <= page.book.chapterCount) {
+                - pageLink = page.book.filenamePrefix + "_" + chapter + ".html";
+                - titleText = "Go to " + page.book.title + " chapter " + chapter;
+                - if (chapter == page.chapter.number) {
+                td#currentchapterhighlight #{chapter}
+                - }
+                - else {
+                td
+                  a(href=pageLink, title=titleText) #{chapter}
+                - }
+                - ++col;
+                - ++chapter;
+                - }
+                - col=1;
+              - }
+    .container
+      hr.featurette-divider
+      footer.footer.text-center
+        p
+          | Copyright © 2017 ToDoBible.org. All rights reserved. 
+          a(href='#')
+            small Top of page
+    script(type='text/javascript', src='../script/biblenav.js')
+    script(src='../script/jquery-1.12.4.min.js')
+    script(type='text/javascript', src='../script/jquery.scrollTo.js')
+    script(src='../script/bootstrap.min.js')
+    script(type='text/javascript', src='../script/highlight-verses.js')

@@ -1,0 +1,97 @@
+{
+  "book": {
+    "number" : "19",
+    "filenamePrefix" : "psalms",
+    "bookPage" : "psalms.html",
+    "title" : "Psalms",
+    "chapterCount" : "150",
+    "testament" : "old",
+    "nt" : "false",
+    "ot" : "true",
+    "nextBook" : "proverbs_1.html",
+    "nextTitle" : "Proverbs",
+    "prevBook" : "job_1.html",
+    "prevTitle" : "Job"
+  },
+  "chapter": {
+    "number" : "82",
+    "verseCount" : "8",
+    "nextChapter" : "psalms_83.html",
+    "nextTitle" : "Psalms 83",
+    "prevChapter" : "psalms_81.html",
+    "prevTitle" : "Psalms 81",
+    "filename" : "psalms_82.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "caption",
+      "id" : "c0",
+      "text" : "A Psalm of Asaph."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "15235",
+      "text" : "God standeth in the congregation of the mighty; he judgeth among the gods."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "15236",
+      "text" : "How long will ye judge unjustly, and accept the persons of the wicked? Selah."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "15237",
+      "text" : "Defend the poor and fatherless: do justice to the afflicted and needy."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v4",
+      "number" : "4",
+      "absolute" : "15238",
+      "text" : "Deliver the poor and needy: rid <span class='extra'>them<\/span> out of the hand of the wicked."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v5",
+      "number" : "5",
+      "absolute" : "15239",
+      "text" : "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v6",
+      "number" : "6",
+      "absolute" : "15240",
+      "text" : "I have said, Ye <span class='extra'>are<\/span> gods; and all of you <span class='extra'>are<\/span> children of the most High."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v7",
+      "number" : "7",
+      "absolute" : "15241",
+      "text" : "But ye shall die like men, and fall like one of the princes."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v8",
+      "number" : "8",
+      "absolute" : "15242",
+      "text" : "Arise, O God, judge the earth: for thou shalt inherit all nations."
+    }
+  ]
+}

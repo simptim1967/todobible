@@ -1,0 +1,81 @@
+{
+  "book": {
+    "number" : "19",
+    "filenamePrefix" : "psalms",
+    "bookPage" : "psalms.html",
+    "title" : "Psalms",
+    "chapterCount" : "150",
+    "testament" : "old",
+    "nt" : "false",
+    "ot" : "true",
+    "nextBook" : "proverbs_1.html",
+    "nextTitle" : "Proverbs",
+    "prevBook" : "job_1.html",
+    "prevTitle" : "Job"
+  },
+  "chapter": {
+    "number" : "128",
+    "verseCount" : "6",
+    "nextChapter" : "psalms_129.html",
+    "nextTitle" : "Psalms 129",
+    "prevChapter" : "psalms_127.html",
+    "prevTitle" : "Psalms 127",
+    "filename" : "psalms_128.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "caption",
+      "id" : "c0",
+      "text" : "A Song of degrees."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "16128",
+      "text" : "Blessed <span class='extra'>is<\/span> every one that feareth the <span class='nog'>Lord<\/span>; that walketh in his ways."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "16129",
+      "text" : "For thou shalt eat the labour of thine hands: happy <span class='extra'>shalt<\/span> thou <span class='extra'>be<\/span>, and <span class='extra'>it shall be<\/span> well with thee."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "16130",
+      "text" : "Thy wife <span class='extra'>shall be<\/span> as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v4",
+      "number" : "4",
+      "absolute" : "16131",
+      "text" : "Behold, that thus shall the man be blessed that feareth the <span class='nog'>Lord<\/span>."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v5",
+      "number" : "5",
+      "absolute" : "16132",
+      "text" : "The <span class='nog'>Lord<\/span> shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v6",
+      "number" : "6",
+      "absolute" : "16133",
+      "text" : "Yea, thou shalt see thy children's children, <span class='extra'>and<\/span> peace upon Israel."
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "book": {
+    "number" : "43",
+    "filenamePrefix" : "john",
+    "bookPage" : "john.html",
+    "title" : "John",
+    "chapterCount" : "21",
+    "testament" : "new",
+    "nt" : "true",
+    "ot" : "false",
+    "nextBook" : "acts_1.html",
+    "nextTitle" : "Acts",
+    "prevBook" : "luke_1.html",
+    "prevTitle" : "Luke"
+  },
+  "chapter": {
+    "number" : "14",
+    "verseCount" : "31",
+    "nextChapter" : "john_15.html",
+    "nextTitle" : "John 15",
+    "prevChapter" : "john_13.html",
+    "prevTitle" : "John 13",
+    "filename" : "john_14.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "26670",
+      "text" : "<span class='woc'>Let not your heart be troubled: ye believe in God, believe also in me.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "26671",
+      "text" : "<span class='woc'>In my Father's house are many mansions: if <span class='extra'>it were<\/span> not <span class='extra'>so<\/span>, I would have told you. I go to prepare a place for you.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "26672",
+      "text" : "<span class='woc'>And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, <span class='extra'>there<\/span> ye may be also.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v4",
+      "number" : "4",
+      "absolute" : "26673",
+      "text" : "<span class='woc'>And whither I go ye know, and the way ye know.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v5",
+      "number" : "5",
+      "absolute" : "26674",
+      "text" : "Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v6",
+      "number" : "6",
+      "absolute" : "26675",
+      "text" : "Jesus saith unto him, <span class='woc'>I am the way, the truth, and the life: no man cometh unto the Father, but by me.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v7",
+      "number" : "7",
+      "absolute" : "26676",
+      "text" : "<span class='woc'>If ye had known me, ye should have known my Father also: and from henceforth ye know him, and have seen him.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v8",
+      "number" : "8",
+      "absolute" : "26677",
+      "text" : "Philip saith unto him, Lord, shew us the Father, and it sufficeth us."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v9",
+      "number" : "9",
+      "absolute" : "26678",
+      "text" : "Jesus saith unto him, <span class='woc'>Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou <span class='extra'>then<\/span>, Shew us the Father?<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v10",
+      "number" : "10",
+      "absolute" : "26679",
+      "text" : "<span class='woc'>Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v11",
+      "number" : "11",
+      "absolute" : "26680",
+      "text" : "<span class='woc'>Believe me that I <span class='extra'>am<\/span> in the Father, and the Father in me: or else believe me for the very works' sake.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v12",
+      "number" : "12",
+      "absolute" : "26681",
+      "text" : "<span class='woc'>Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater <span class='extra'>works<\/span> than these shall he do; because I go unto my Father.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v13",
+      "number" : "13",
+      "absolute" : "26682",
+      "text" : "<span class='woc'>And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v14",
+      "number" : "14",
+      "absolute" : "26683",
+      "text" : "<span class='woc'>If ye shall ask any thing in my name, I will do <span class='extra'>it<\/span>.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v15",
+      "number" : "15",
+      "absolute" : "26684",
+      "text" : "<span class='woc'>If ye love me, keep my commandments.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v16",
+      "number" : "16",
+      "absolute" : "26685",
+      "text" : "<span class='woc'>And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v17",
+      "number" : "17",
+      "absolute" : "26686",
+      "text" : "<span class='woc'><span class='extra'>Even<\/span> the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v18",
+      "number" : "18",
+      "absolute" : "26687",
+      "text" : "<span class='woc'>I will not leave you comfortless: I will come to you.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v19",
+      "number" : "19",
+      "absolute" : "26688",
+      "text" : "<span class='woc'>Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v20",
+      "number" : "20",
+      "absolute" : "26689",
+      "text" : "<span class='woc'>At that day ye shall know that I <span class='extra'>am<\/span> in my Father, and ye in me, and I in you.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v21",
+      "number" : "21",
+      "absolute" : "26690",
+      "text" : "<span class='woc'>He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v22",
+      "number" : "22",
+      "absolute" : "26691",
+      "text" : "Judas saith unto him, not Iscariot, Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v23",
+      "number" : "23",
+      "absolute" : "26692",
+      "text" : "Jesus answered and said unto him, <span class='woc'>If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v24",
+      "number" : "24",
+      "absolute" : "26693",
+      "text" : "<span class='woc'>He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father's which sent me.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v25",
+      "number" : "25",
+      "absolute" : "26694",
+      "text" : "<span class='woc'>These things have I spoken unto you, being <span class='extra'>yet<\/span> present with you.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v26",
+      "number" : "26",
+      "absolute" : "26695",
+      "text" : "<span class='woc'>But the Comforter, <span class='extra'>which is<\/span> the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v27",
+      "number" : "27",
+      "absolute" : "26696",
+      "text" : "<span class='woc'>Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v28",
+      "number" : "28",
+      "absolute" : "26697",
+      "text" : "<span class='woc'>Ye have heard how I said unto you, I go away, and come <span class='extra'>again<\/span> unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v29",
+      "number" : "29",
+      "absolute" : "26698",
+      "text" : "<span class='woc'>And now I have told you before it come to pass, that, when it is come to pass, ye might believe.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v30",
+      "number" : "30",
+      "absolute" : "26699",
+      "text" : "<span class='woc'>Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me.<\/span>"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v31",
+      "number" : "31",
+      "absolute" : "26700",
+      "text" : "<span class='woc'>But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.<\/span>"
+    }
+  ]
+}

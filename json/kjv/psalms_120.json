@@ -1,0 +1,89 @@
+{
+  "book": {
+    "number" : "19",
+    "filenamePrefix" : "psalms",
+    "bookPage" : "psalms.html",
+    "title" : "Psalms",
+    "chapterCount" : "150",
+    "testament" : "old",
+    "nt" : "false",
+    "ot" : "true",
+    "nextBook" : "proverbs_1.html",
+    "nextTitle" : "Proverbs",
+    "prevBook" : "job_1.html",
+    "prevTitle" : "Job"
+  },
+  "chapter": {
+    "number" : "120",
+    "verseCount" : "7",
+    "nextChapter" : "psalms_121.html",
+    "nextTitle" : "Psalms 121",
+    "prevChapter" : "psalms_119.html",
+    "prevTitle" : "Psalms 119",
+    "filename" : "psalms_120.html",
+    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+  },
+  "items": [
+    {
+      "type" : "caption",
+      "id" : "c0",
+      "text" : "A Song of degrees."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v1",
+      "number" : "1",
+      "absolute" : "16076",
+      "text" : "In my distress I cried unto the <span class='nog'>Lord<\/span>, and he heard me."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v2",
+      "number" : "2",
+      "absolute" : "16077",
+      "text" : "Deliver my soul, O <span class='nog'>Lord<\/span>, from lying lips, <span class='extra'>and<\/span> from a deceitful tongue."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v3",
+      "number" : "3",
+      "absolute" : "16078",
+      "text" : "What shall be given unto thee? or what shall be done unto thee, thou false tongue?"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v4",
+      "number" : "4",
+      "absolute" : "16079",
+      "text" : "Sharp arrows of the mighty, with coals of juniper."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v5",
+      "number" : "5",
+      "absolute" : "16080",
+      "text" : "Woe is me, that I sojourn in Mesech, <span class='extra'>that<\/span> I dwell in the tents of Kedar!"
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v6",
+      "number" : "6",
+      "absolute" : "16081",
+      "text" : "My soul hath long dwelt with him that hateth peace."
+    }
+    ,
+    {
+      "type" : "verse",
+      "id" : "v7",
+      "number" : "7",
+      "absolute" : "16082",
+      "text" : "I <span class='extra'>am for<\/span> peace: but when I speak, they <span class='extra'>are<\/span> for war."
+    }
+  ]
+}
