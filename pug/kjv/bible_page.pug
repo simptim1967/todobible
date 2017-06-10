@@ -8,7 +8,9 @@ html(lang='en-GB')
     //-Format: <book title> chapter <chapterNumber> - King James Bible
     - var pageTitle = page.book.title + " chapter " + page.chapter.number + " - King James Bible";
     title #{pageTitle}
-    meta(name='description', content='King James Bible: Psalms chapter 119')
+    //-Construct page description
+    - var description = "King James Bible: " + page.book.title + " chapter " + page.chapter.number;
+    meta(name='description', content=description)
     //-Use the keywords from the bible page chapter JSON data for better SEO indexing
     meta(name='keywords', content=page.chapter.keywords)
     link(href='../css/bootstrap.min.css', rel='stylesheet')
