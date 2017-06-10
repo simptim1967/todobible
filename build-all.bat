@@ -16,8 +16,6 @@ copy .\script\jquery-1.12.4.min.js ..\live\script
 
 echo Copying HTML files ...
 
-call xslt-all.bat
-
 call pug-all.bat
 
 echo Copying root files ...
