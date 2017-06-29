@@ -1,11 +1,17 @@
 ToDoBible.org TODO
 ==================
 
+Done
+====
+
 Current Feature Release
 =======================
 
 Release Checklist
 =================
+Update ToDo Bible News (if appropriate)
+Check for broken links
+Publish updated website
 
 Next Release
 ============
@@ -13,15 +19,13 @@ Upgrade jQuery to latest production version
 Generate JSON todo list for each bible chapter
 Include todo items directly into bible page beneath verse as collapsable +/- style view
 Make todo list bible links auto select the todo item on the bible page
-Check for broken links
-Publish updated website
 
 ToDo Item Research / Bible Study
 ================================
 Complete bible study for Ephesians 4, 5, 6
 Review topics arising from Ephesians
 Create visual bible study for Ephesians
-Review all todo item types, topics and wording content by chapter/context 
+Review all todo item types, topics and wording content by chapter/context (reviewed items publishing flag marked in green)
 Continue to review each chapter of NT to extract ToDo items
 Continue to review each chapter of Proverbs + Psalms to extract ToDo items
 
@@ -77,6 +81,7 @@ Create modal dialog showing the Hebrew/Greek interlinear and Strong numbers for 
 Create old english word meaning look-up on bible pages 
  - Display meanings of old english words on bible pages e.g. froward (like KJV dictionary on av1611.com)
 Create bible search Functionality
+Allow filtering of todo lists
 Create bible notes/highlighting Functionality
 
 Website Legal
@@ -93,7 +98,7 @@ Obtain HTML accessibility testing tool
 
 Dev Tasks
 =========
-Transition from git into GitHub
-Learn Git/GitHub 
+Learn Git
+Learn GitHub 
 Learn about fav icons
 
