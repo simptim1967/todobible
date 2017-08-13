@@ -91,13 +91,14 @@ html(lang='en-GB')
         .col-md-8
           .biblepage
             //-Display navigation and heading for bible page chapter
+            //-TODO: Set accessibility role for this layout table
             table.bp_head_foot
               tr
                 td.nav-arrow.hidden-print
                   //-Link to previous chapter
                   - var altPrev = 'Previous Chapter (' + page.chapter.prevTitle + ')';
                   a(href=page.chapter.prevChapter)
-                    img(src='../images/prev.png', width='20', height='20', alt=altPrev, title=altPrev)
+                    img(src='../images/previous_button.svg', width='24', alt=altPrev, title=altPrev)
                 td
                   //-Compute bible page heading
                   - var pageHeading = (page.book.number == 19) ? "Psalm " + page.chapter.number : page.book.title + " chapter " + page.chapter.number;
@@ -108,15 +109,54 @@ html(lang='en-GB')
                   //-Link to next chapter
                   - var altNext = 'Next Chapter (' + page.chapter.nextTitle + ')';
                   a(href=page.chapter.nextChapter)
-                    img(src='../images/next.png', width='20', height='20', alt=altNext, title=altNext)
+                    img(src='../images/next_button.svg', width='24', alt=altNext, title=altNext)
             //-Display bible chapter content
             //-Generate verse/caption content from JSON
             - for(var i=0; i<page.items.length; i++) {
             - var text = page.items[i].text;
             - if (page.items[i].type === "verse") {
+              //-Verse
+              - var vno = page.items[i].number;
               .verse(id="v" + page.items[i].number)
+                - if (page.todo[vno-1].length > 0) {
+                img.tl-btn-open(id="v" + vno + "o", src="../images/down-arrow.svg", alt="Show verse " + vno + " ToDo items", title="Show verse " + vno + " ToDo items")
+                img.tl-btn-close.tl-btn-hide(id="v" + vno + "c", src="../images/up-arrow.svg", alt="Hide verse " + vno + " ToDo items", title="Hide verse " + vno + " ToDo items")
+                - }
                 b #{page.items[i].number} 
                 | !{text}
+              - if (page.todo[vno-1].length > 0) {
+              //-Output todo list items for this verse
+              .verse-todo-list.tl-btn-hide(id=id="v" + vno + "tl")
+                - var tl = page.todo[vno-1];
+                - for (var tdi = 0; tdi < page.todo[vno-1].length; tdi++) {
+                  - var todo = tl[tdi];
+                  .verse-todo-item
+                    case todo.type
+                      when "F"
+                        span.badge.itemfact F
+                      when "FR"
+                        span.badge.itemtodowoc F
+                      when "P"
+                        span.badge.itempromise P
+                      when "PR"
+                        span.badge.itemtodowoc P
+                      when "T"
+                        span.badge.itemtodo T
+                      when "TR"
+                        span.badge.itemtodowoc T
+                      when "W"
+                        span.badge.itemwarn W
+                      when "WR"
+                        span.badge.itemtodowoc W
+                      default
+                        span.badge.itemtodo #{todo.type}
+                    |  !{todo.todoItem}
+                    //-High the range of verses that relate to this todo item
+                    - if (todo.verseStart != todo.verseEnd) {
+                      span  [v#{todo.verseRange}]
+                    - }
+                - }
+              - }
             - }
             - else {
               //-Caption
@@ -129,7 +169,7 @@ html(lang='en-GB')
                 td.nav-arrow
                   //-Link to previous chapter
                   a(href=page.chapter.prevChapter)
-                    img(src='../images/prev.png', width='20', height='20', alt=altPrev, title=altPrev)
+                    img(src='../images/previous_button.svg', width='24', alt=altPrev, title=altPrev)
                 td
                   //-Secondary bible page heading (h2) as should only be one h1 on page
                   h2
@@ -137,7 +177,7 @@ html(lang='en-GB')
                 td.nav-arrow
                   //-Link to next chapter
                   a(href=page.chapter.nextChapter)
-                    img(src='../images/next.png', width='20', height='20', alt=altNext, title=altNext)
+                    img(src='../images/next_button.svg', width='24', alt=altNext, title=altNext)
         .col-md-4.hidden-print
           .hidden-md.hidden-lg.text-center
             hr.featurette-divider
@@ -187,7 +227,7 @@ html(lang='en-GB')
           a(href='#')
             small Top of page
     script(type='text/javascript', src='../script/biblenav.js')
-    script(src='../script/jquery-1.12.4.min.js')
+    script(type="text/javascript", src='../script/jquery-1.12.4.min.js')
     script(type='text/javascript', src='../script/jquery.scrollTo.js')
-    script(src='../script/bootstrap.min.js')
+    script(type="text/javascript", src='../script/bootstrap.min.js')
     script(type='text/javascript', src='../script/highlight-verses.js')

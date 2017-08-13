@@ -3,28 +3,42 @@ ToDoBible.org TODO
 
 Done
 ====
+Create visual prototype of new UI
+Use SVG images for next/previous chapter buttons
+Use SVG images for show/hide todo items buttons
+Display todo items beneath bible verse
+Make show/hide todo items buttons work
+Change verse highlight styling to add purple border on right edge
+Generate JSON todo list for each bible chapter
+Auto generate todo items in bible pages
+Include todo items directly into bible page beneath verse as collapsable +/- style view
 
 Current Feature Release
 =======================
+
+Tasks
+=====
 
 Release Checklist
 =================
 Update ToDo Bible News (if appropriate)
 Check for/fix broken links
 Check code changes into git/remote
+Tag release (if appropriate milestone)
 Publish updated website
 
 Next Release
 ============
+Extract English/Greek interlinear and Strong's number word breakdown for each verse in Ephesians
+Display Strong number definition as modal dialog
 Upgrade jQuery to latest production version
-Generate JSON todo list for each bible chapter
-Include todo items directly into bible page beneath verse as collapsable +/- style view
-Make todo list bible links auto select the todo item on the bible page
 
 ToDo Item Research / Bible Study
 ================================
-Complete bible study for Ephesians 4, 5, 6
 Review topics arising from Ephesians
+Wring out every word of Ephesians
+Show verse breakdown ... (including the Hebrew / Greek and YLT)
+Create tables for Strong numbers (Greek and Hebrew)
 Create visual bible study for Ephesians
 Review all todo item types, topics and wording content by chapter/context (reviewed items publishing flag marked in green)
 Continue to review each chapter of NT to extract ToDo items
@@ -43,6 +57,10 @@ Optimise home page for mobile download (fix jumbotron image sizing - need to res
 Consider changing images for next/prev chapter to make them bigger for use on mobiles
 Replace images on home page with nicer SVG images
 Make menu bar static ???
+Provide better visual feedback when links are hovered over and when clicked 
+Put radio buttons against todo items
+Make radio button selection highlight appropriate todo itme and bible verse(s)
+Make todo item click highlight appropriate todo itme and bible verse(s)
 
 Website Standards
 =================
@@ -55,10 +73,10 @@ Perform bing webmaster analysis of site (???)
 
 Website Content
 ===============
-Create article: Who am I? Why am I here?
-Create article: The batlle for good and evil: Which side are you on?
 Create article: What is the bible? Why should I read it?
-Create article: Know your identity in Christ
+Create article: Who am I? Why am I here?
+  - Know your identity in Christ
+Create article: The battle for good and evil: Which side are you on?
 Create My Testimony page
 Create "Navigate Life On Earth" sidebar for article & todo topic links & other links
  - How can I find peace? BEGIN YOUR JOURNEY TO PEACE.
@@ -82,8 +100,9 @@ Create modal dialog showing the Hebrew/Greek interlinear and Strong numbers for 
 Create old english word meaning look-up on bible pages 
  - Display meanings of old english words on bible pages e.g. froward (like KJV dictionary on av1611.com)
 Create bible search Functionality
-Allow filtering of todo lists
+Allow filtering of todo lists by todo item type, bible book etc.
 Create bible notes/highlighting Functionality
+Make todo list bible links auto select the todo item (or verse todo list) on the bible page (consider)
 
 Website Legal
 =============
@@ -102,4 +121,5 @@ Dev Tasks
 Learn Git
 Learn GitHub 
 Learn about fav icons
+Learn about SASS
 

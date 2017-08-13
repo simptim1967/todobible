@@ -51,5 +51,35 @@ function addLoadEvent(f)
 	}
 }
 
-//do highlighting when page is done loading.		
+// Do highlighting when page is done loading.		
 addLoadEvent(highlightVerses);
+
+// Initialise todo list button events
+
+$(".tl-btn-open").on("click", function() {
+	// $(this).parent().hide();
+	var v = "#" + $(this).parent().attr("id");
+	$(v+"o").toggleClass("tl-btn-hide");
+	$(v+"c").toggleClass("tl-btn-hide");
+	// show todo list
+	$(v+"tl").toggleClass("tl-btn-hide");
+});
+
+$(".tl-btn-close").on("click", function() {
+	// $(this).parent().hide();
+	var v = "#" + $(this).parent().attr("id");
+	$(v+"o").toggleClass("tl-btn-hide");
+	$(v+"c").toggleClass("tl-btn-hide");
+	// hide todo list
+	$(v+"tl").toggleClass("tl-btn-hide");
+});
+
+/* TODO: add radio button event handling 
+$(".verse-todo-item").on("click", function() {
+	$(this).toggleClass("selected-todo-item");
+});
+
+$("[type='radio']").on("change", function() {
+	$(this).parent().toggleClass("selected-todo-item");
+});
+*/

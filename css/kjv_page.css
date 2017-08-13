@@ -113,7 +113,7 @@
 
 .highlightverse {
     padding: 6px;
-    text-indent: 1rem;
+    text-indent: 1.3rem;
     line-height: 1.3rem;
     font-size: 1rem;
     background-color: #fce4ec;
@@ -122,6 +122,8 @@
     font-weight: 200;
     */
     color: black;
+    position: relative; 
+    border-right: solid 6px purple;
 }
 
 .highlightverse b {
@@ -129,8 +131,9 @@
 }
 
 .verse {
+    position: relative;
     padding: 6px;
-    text-indent: 1rem;
+    text-indent: 1.3rem;
     line-height: 1.3rem;
     font-size: 1rem;
     /* 
@@ -146,6 +149,51 @@
 
 .verse:hover {
     background-color: lemonchiffon;
+}
+
+.tl-btn-open {
+    position: absolute;
+    top: 7px;
+    left: 0px;
+    width: 20px;
+    color: blue;
+}
+
+img .tl-btn-open:hover {
+    cursor: hand;
+}
+
+img .tl-btn-close:hover {
+    cursor: hand;
+}
+
+.tl-btn-close {
+    position: absolute;
+    top: 7px;
+    left: 0px;
+    width: 20px;
+    color: blue;
+}
+.tl-btn-hide {
+    display: none;
+}
+.tl-hide {
+    display: none;
+}
+.verse-todo-list {
+    margin-left: 3%;
+    background-color: lavender;
+    border-left: solid 1px purple;
+    border-right: solid 1px purple;
+    border-bottom: solid 1px purple;
+}
+.verse-todo-item {
+    padding: 3px 5px;
+    border-top: solid 1px purple;
+}
+.selected-todo-item {
+    padding-right: 0;
+    border-right: solid 6px purple;
 }
 
 h1, h2 {

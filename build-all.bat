@@ -3,8 +3,10 @@ call css-all.bat
 echo Copying image files ...
 del ..\live\images\*.png
 del ..\live\images\*.jpg
+del ..\live\images\*.svg
 copy .\images\*.png ..\live\images
 copy .\images\*.jpg ..\live\images
+copy .\images\*.svg ..\live\images
 
 echo Copying script files ...
 del ..\live\script\*.js
