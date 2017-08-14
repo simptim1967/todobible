@@ -3,44 +3,36 @@ ToDoBible.org TODO
 
 Done
 ====
-Create visual prototype of new UI
-Use SVG images for next/previous chapter buttons
-Use SVG images for show/hide todo items buttons
-Display todo items beneath bible verse
-Make show/hide todo items buttons work
-Change verse highlight styling to add purple border on right edge
-Generate JSON todo list for each bible chapter
-Auto generate todo items in bible pages
-Include todo items directly into bible page beneath verse as collapsable +/- style view
-Update ToDo Bible News (if appropriate)
-Check for/fix broken links
 
 Current Feature Release
 =======================
+Extract English/Greek interlinear and Strong's number word breakdown for each verse in Ephesians
+Display Strong number definition as modal dialog
+Review topics arising from Ephesians
+Wring out every word of Ephesians
+Show verse breakdown ... (including the Hebrew / Greek and YLT)
+Remove word "chapter" from bible page headings
+Create tables for Strong numbers (Greek and Hebrew)
+Upgrade jQuery to latest production version
 
 Tasks
 =====
-Fix cursor not changing to link hand cursor when hovering over todo list drop-down buttons
+Bug: Fix cursor not changing to link hand cursor when hovering over todo list drop-down buttons
 
 Release Checklist
 =================
+Update ToDo Bible News (if appropriate)
+Check for/fix broken links
 Check code changes into git/remote
 Tag release (if appropriate milestone)
 Publish updated website
 
 Next Release
 ============
-Extract English/Greek interlinear and Strong's number word breakdown for each verse in Ephesians
-Display Strong number definition as modal dialog
-Upgrade jQuery to latest production version
+Create visual bible study for Ephesians
 
 ToDo Item Research / Bible Study
 ================================
-Review topics arising from Ephesians
-Wring out every word of Ephesians
-Show verse breakdown ... (including the Hebrew / Greek and YLT)
-Create tables for Strong numbers (Greek and Hebrew)
-Create visual bible study for Ephesians
 Review all todo item types, topics and wording content by chapter/context (reviewed items publishing flag marked in green)
 Continue to review each chapter of NT to extract ToDo items
 Continue to review each chapter of Proverbs + Psalms to extract ToDo items
