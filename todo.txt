@@ -12,17 +12,18 @@ Change verse highlight styling to add purple border on right edge
 Generate JSON todo list for each bible chapter
 Auto generate todo items in bible pages
 Include todo items directly into bible page beneath verse as collapsable +/- style view
+Update ToDo Bible News (if appropriate)
+Check for/fix broken links
 
 Current Feature Release
 =======================
 
 Tasks
 =====
+Fix cursor not changing to link hand cursor when hovering over todo list drop-down buttons
 
 Release Checklist
 =================
-Update ToDo Bible News (if appropriate)
-Check for/fix broken links
 Check code changes into git/remote
 Tag release (if appropriate milestone)
 Publish updated website
