@@ -27,7 +27,8 @@
     {
       "type" : "caption",
       "id" : "c0",
-      "text" : "A Song of degrees of David."
+      "text" : "A Song of degrees of David.",
+      "plainText" : "A Song of degrees of David."
     }
     ,
     {
@@ -35,7 +36,8 @@
       "id" : "v1",
       "number" : "1",
       "absolute" : "16150",
-      "text" : "<span class='nog'>Lord<\/span>, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me."
+      "text" : "<span class='nog'>LORD<\/span>, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.",
+      "plainText" : "LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me."
     }
     ,
     {
@@ -43,7 +45,8 @@
       "id" : "v2",
       "number" : "2",
       "absolute" : "16151",
-      "text" : "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul <span class='extra'>is<\/span> even as a weaned child."
+      "text" : "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul <span class='extra'>is<\/span> even as a weaned child.",
+      "plainText" : "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child."
     }
     ,
     {
@@ -51,7 +54,10 @@
       "id" : "v3",
       "number" : "3",
       "absolute" : "16152",
-      "text" : "Let Israel hope in the <span class='nog'>Lord<\/span> from henceforth and for ever."
+      "text" : "Let Israel hope in the <span class='nog'>LORD<\/span> from henceforth and for ever.",
+      "plainText" : "Let Israel hope in the LORD from henceforth and for ever."
     }
   ]
 }
+
+

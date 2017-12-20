@@ -3,21 +3,50 @@ ToDoBible.org TODO
 
 Done
 ====
+Extract the plain KJV text into each bible verse/caption
+Update disclaimer page to include type "C" and "I" items in ToDo item key table
+Add todo item type "C" for bible facts about the character of God (Silver badge?)
+Add todo item type "I" for bible facts about identity in Christ (Green badge?)
+Update todo list pages to include type "C" and "I" items in ToDo lists
+Review todo items and re-categorise as type "C" appropriate.
+Remove word "chapter" from bible page headings (mobile first design)
+Change page heading to show book name only for single chapter books
+Review todo items and re-categorise as type "I" as appropriate.
+Ensure that wherever "nog" style is used in formatted text that KJV text and plain text is upper case.
+
+In Progress
+===========
+Complete UI prototype for new interlinear functionality
+
+BUG
+===
+
+Release Objectives
+==================
+Understand the character of God expressed in Ephesians
+Understand identity in Christ expressed in Ephesians
+Review topics arising from Ephesians
+Wring out every word of Ephesians
+Create visual bible study of Ephesians
 
 Current Feature Release
 =======================
 Extract English/Greek interlinear and Strong's number word breakdown for each verse in Ephesians
-Display Strong number definition as modal dialog
-Review topics arising from Ephesians
-Wring out every word of Ephesians
-Show verse breakdown ... (including the Hebrew / Greek and YLT)
-Remove word "chapter" from bible page headings
-Create tables for Strong numbers (Greek and Hebrew)
-Upgrade jQuery to latest production version
+Show verse breakdown ... (including the Greek and YLT)
+Display Strong number definition as modal dialog on bible page accessed from links on interlinear
+Consider lookup page for viewing Strong number definitions (Greek and Hebrew)
+Create modal dialog showing the Hebrew/Greek interlinear and Strong numbers for a OT/NT verse
 
 Tasks
 =====
-Bug: Fix cursor not changing to link hand cursor when hovering over todo list drop-down buttons
+Separate todo list javascript into separate js file
+Separate interlinear javascript into separate js file
+Create a master KJV text document
+Create a master KJV text document with captions
+Extract the Strong's words/numbers from two different sources
+Compare source KJV text with master text and strong numbers against each source
+Create a master KJV text with strong's document
+Upgrade jQuery to latest production version
 
 Release Checklist
 =================
@@ -29,6 +58,7 @@ Publish updated website
 
 Next Release
 ============
+Update copyright year to 2018
 Create visual bible study for Ephesians
 
 ToDo Item Research / Bible Study
@@ -89,13 +119,14 @@ Create Fav icon for home page
 
 Website Functionality
 =====================
-Create modal dialog showing the Hebrew/Greek interlinear and Strong numbers for a OT/NT verse (powered by Blue Letter Bible content)
 Create old english word meaning look-up on bible pages 
  - Display meanings of old english words on bible pages e.g. froward (like KJV dictionary on av1611.com)
 Create bible search Functionality
-Allow filtering of todo lists by todo item type, bible book etc.
+Allow filtering of todo lists by todo item type, bible book, topic etc.
+Display bible verse when hover over bible link (especially useful on todo list pages where verse is not visible)
 Create bible notes/highlighting Functionality
-Make todo list bible links auto select the todo item (or verse todo list) on the bible page (consider)
+Create side-by-side display for todo list and bible chapters -> click on todo item would display bible chapter with verse(s) highlighted
+Create side-by-side display for bible search result and bible chapter -> click on search result item would display bible chapter with verse(s) highlighted
 
 Website Legal
 =============

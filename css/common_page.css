@@ -226,6 +226,20 @@ p {
     font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
     font-size: 1rem;
 }
+.itemcog {
+    background-color: gray;
+    color: purple;
+    /* used monospaced font size for A-Z link buttons */
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 1rem;
+}
+.itemiic {
+    background-color: green;
+    color: white;
+    /* used monospaced font size for A-Z link buttons */
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 1rem;
+}
 .itempromise {
     background-color: gold;
     color: purple;
@@ -282,17 +296,14 @@ p {
     color: blue;
 }
 
-/*
-@media (min-width: 768px) {
-    .container .row {
-        margin-right: -15px;
-        margin-left: -15px;
-    }
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    padding: 3px;
+    line-height: 1.4285;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
 }
-@media (min-width: 768px) {
-    .container .form-horizontal .form-group {
-        margin-right: -15px;
-        margin-left: -15px;
-    }
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 3px;
 }
-*/

@@ -27,7 +27,8 @@
     {
       "type" : "caption",
       "id" : "c0",
-      "text" : "A Psalm of David."
+      "text" : "A Psalm of David.",
+      "plainText" : "A Psalm of David."
     }
     ,
     {
@@ -35,7 +36,8 @@
       "id" : "v1",
       "number" : "1",
       "absolute" : "14089",
-      "text" : "<span class='nog'>Lord<\/span>, who shall abide in thy tabernacle? who shall dwell in thy holy hill?"
+      "text" : "<span class='nog'>LORD<\/span>, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+      "plainText" : "LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?"
     }
     ,
     {
@@ -43,7 +45,8 @@
       "id" : "v2",
       "number" : "2",
       "absolute" : "14090",
-      "text" : "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart."
+      "text" : "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
+      "plainText" : "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart."
     }
     ,
     {
@@ -51,7 +54,8 @@
       "id" : "v3",
       "number" : "3",
       "absolute" : "14091",
-      "text" : "<span class='extra'>He that<\/span> backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour."
+      "text" : "<span class='extra'>He that<\/span> backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
+      "plainText" : "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour."
     }
     ,
     {
@@ -59,7 +63,8 @@
       "id" : "v4",
       "number" : "4",
       "absolute" : "14092",
-      "text" : "In whose eyes a vile person is contemned; but he honoureth them that fear the <span class='nog'>Lord<\/span>. <span class='extra'>He that<\/span> sweareth to <span class='extra'>his own<\/span> hurt, and changeth not."
+      "text" : "In whose eyes a vile person is contemned; but he honoureth them that fear the <span class='nog'>LORD<\/span>. <span class='extra'>He that<\/span> sweareth to <span class='extra'>his own<\/span> hurt, and changeth not.",
+      "plainText" : "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. He that sweareth to his own hurt, and changeth not."
     }
     ,
     {
@@ -67,7 +72,10 @@
       "id" : "v5",
       "number" : "5",
       "absolute" : "14093",
-      "text" : "<span class='extra'>He that<\/span> putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these <span class='extra'>things<\/span> shall never be moved."
+      "text" : "<span class='extra'>He that<\/span> putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these <span class='extra'>things<\/span> shall never be moved.",
+      "plainText" : "He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved."
     }
   ]
 }
+
+

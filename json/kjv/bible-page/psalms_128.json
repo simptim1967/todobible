@@ -27,7 +27,8 @@
     {
       "type" : "caption",
       "id" : "c0",
-      "text" : "A Song of degrees."
+      "text" : "A Song of degrees.",
+      "plainText" : "A Song of degrees."
     }
     ,
     {
@@ -35,7 +36,8 @@
       "id" : "v1",
       "number" : "1",
       "absolute" : "16128",
-      "text" : "Blessed <span class='extra'>is<\/span> every one that feareth the <span class='nog'>Lord<\/span>; that walketh in his ways."
+      "text" : "Blessed <span class='extra'>is<\/span> every one that feareth the <span class='nog'>LORD<\/span>; that walketh in his ways.",
+      "plainText" : "Blessed is every one that feareth the LORD; that walketh in his ways."
     }
     ,
     {
@@ -43,7 +45,8 @@
       "id" : "v2",
       "number" : "2",
       "absolute" : "16129",
-      "text" : "For thou shalt eat the labour of thine hands: happy <span class='extra'>shalt<\/span> thou <span class='extra'>be<\/span>, and <span class='extra'>it shall be<\/span> well with thee."
+      "text" : "For thou shalt eat the labour of thine hands: happy <span class='extra'>shalt<\/span> thou <span class='extra'>be<\/span>, and <span class='extra'>it shall be<\/span> well with thee.",
+      "plainText" : "For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee."
     }
     ,
     {
@@ -51,7 +54,8 @@
       "id" : "v3",
       "number" : "3",
       "absolute" : "16130",
-      "text" : "Thy wife <span class='extra'>shall be<\/span> as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table."
+      "text" : "Thy wife <span class='extra'>shall be<\/span> as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.",
+      "plainText" : "Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table."
     }
     ,
     {
@@ -59,7 +63,8 @@
       "id" : "v4",
       "number" : "4",
       "absolute" : "16131",
-      "text" : "Behold, that thus shall the man be blessed that feareth the <span class='nog'>Lord<\/span>."
+      "text" : "Behold, that thus shall the man be blessed that feareth the <span class='nog'>LORD<\/span>.",
+      "plainText" : "Behold, that thus shall the man be blessed that feareth the LORD."
     }
     ,
     {
@@ -67,7 +72,8 @@
       "id" : "v5",
       "number" : "5",
       "absolute" : "16132",
-      "text" : "The <span class='nog'>Lord<\/span> shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life."
+      "text" : "The <span class='nog'>LORD<\/span> shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
+      "plainText" : "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life."
     }
     ,
     {
@@ -75,7 +81,10 @@
       "id" : "v6",
       "number" : "6",
       "absolute" : "16133",
-      "text" : "Yea, thou shalt see thy children's children, <span class='extra'>and<\/span> peace upon Israel."
+      "text" : "Yea, thou shalt see thy children's children, <span class='extra'>and<\/span> peace upon Israel.",
+      "plainText" : "Yea, thou shalt see thy children's children, and peace upon Israel."
     }
   ]
 }
+
+

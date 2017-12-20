@@ -27,7 +27,8 @@
     {
       "type" : "caption",
       "id" : "c0",
-      "text" : "A Psalm of David."
+      "text" : "A Psalm of David.",
+      "plainText" : "A Psalm of David."
     }
     ,
     {
@@ -35,7 +36,8 @@
       "id" : "v1",
       "number" : "1",
       "absolute" : "14237",
-      "text" : "The <span class='nog'>Lord<\/span> <span class='extra'>is<\/span> my shepherd; I shall not want."
+      "text" : "The <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> my shepherd; I shall not want.",
+      "plainText" : "The LORD is my shepherd; I shall not want."
     }
     ,
     {
@@ -43,7 +45,8 @@
       "id" : "v2",
       "number" : "2",
       "absolute" : "14238",
-      "text" : "He maketh me to lie down in green pastures: he leadeth me beside the still waters."
+      "text" : "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+      "plainText" : "He maketh me to lie down in green pastures: he leadeth me beside the still waters."
     }
     ,
     {
@@ -51,7 +54,8 @@
       "id" : "v3",
       "number" : "3",
       "absolute" : "14239",
-      "text" : "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake."
+      "text" : "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.",
+      "plainText" : "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake."
     }
     ,
     {
@@ -59,7 +63,8 @@
       "id" : "v4",
       "number" : "4",
       "absolute" : "14240",
-      "text" : "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou <span class='extra'>art<\/span> with me; thy rod and thy staff they comfort me."
+      "text" : "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou <span class='extra'>art<\/span> with me; thy rod and thy staff they comfort me.",
+      "plainText" : "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me."
     }
     ,
     {
@@ -67,7 +72,8 @@
       "id" : "v5",
       "number" : "5",
       "absolute" : "14241",
-      "text" : "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over."
+      "text" : "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
+      "plainText" : "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over."
     }
     ,
     {
@@ -75,7 +81,10 @@
       "id" : "v6",
       "number" : "6",
       "absolute" : "14242",
-      "text" : "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the <span class='nog'>Lord<\/span> for ever."
+      "text" : "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the <span class='nog'>LORD<\/span> for ever.",
+      "plainText" : "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."
     }
   ]
 }
+
+

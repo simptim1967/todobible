@@ -101,7 +101,13 @@ html(lang='en-GB')
                     img(src='../images/previous_button.svg', width='24', alt=altPrev, title=altPrev)
                 td
                   //-Compute bible page heading
-                  - var pageHeading = (page.book.number == 19) ? "Psalm " + page.chapter.number : page.book.title + " chapter " + page.chapter.number;
+                  //-Use book name only for single chapter books e.g. Jude
+                  - var pageHeading;
+                  - if (page.book.chapterCount == 1) {
+                  -   pageHeading = page.book.title;
+                  - } else {
+                  -   pageHeading = (page.book.number == 19) ? "Psalm " + page.chapter.number : page.book.title + " " + page.chapter.number;
+                  - }
                   //-Primary bible page heading (h1)
                   h1
                     | #{pageHeading}
@@ -132,10 +138,18 @@ html(lang='en-GB')
                   - var todo = tl[tdi];
                   .verse-todo-item
                     case todo.type
+                      when "C"
+                        span.badge.itemcog C
+                      when "CR"
+                        span.badge.itemtodowoc C
                       when "F"
                         span.badge.itemfact F
                       when "FR"
                         span.badge.itemtodowoc F
+                      when "I"
+                        span.badge.itemiic I
+                      when "IR"
+                        span.badge.itemtodowoc I
                       when "P"
                         span.badge.itempromise P
                       when "PR"

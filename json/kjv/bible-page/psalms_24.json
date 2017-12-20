@@ -27,7 +27,8 @@
     {
       "type" : "caption",
       "id" : "c0",
-      "text" : "A Psalm of David."
+      "text" : "A Psalm of David.",
+      "plainText" : "A Psalm of David."
     }
     ,
     {
@@ -35,7 +36,8 @@
       "id" : "v1",
       "number" : "1",
       "absolute" : "14243",
-      "text" : "The earth <span class='extra'>is<\/span> the <span class='nog'>Lord<\/span>'s, and the fulness thereof; the world, and they that dwell therein."
+      "text" : "The earth <span class='extra'>is<\/span> the <span class='nog'>LORD<\/span>'s, and the fulness thereof; the world, and they that dwell therein.",
+      "plainText" : "The earth is the LORD's, and the fulness thereof; the world, and they that dwell therein."
     }
     ,
     {
@@ -43,7 +45,8 @@
       "id" : "v2",
       "number" : "2",
       "absolute" : "14244",
-      "text" : "For he hath founded it upon the seas, and established it upon the floods."
+      "text" : "For he hath founded it upon the seas, and established it upon the floods.",
+      "plainText" : "For he hath founded it upon the seas, and established it upon the floods."
     }
     ,
     {
@@ -51,7 +54,8 @@
       "id" : "v3",
       "number" : "3",
       "absolute" : "14245",
-      "text" : "Who shall ascend into the hill of the <span class='nog'>Lord<\/span>? or who shall stand in his holy place?"
+      "text" : "Who shall ascend into the hill of the <span class='nog'>LORD<\/span>? or who shall stand in his holy place?",
+      "plainText" : "Who shall ascend into the hill of the LORD? or who shall stand in his holy place?"
     }
     ,
     {
@@ -59,7 +63,8 @@
       "id" : "v4",
       "number" : "4",
       "absolute" : "14246",
-      "text" : "He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully."
+      "text" : "He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.",
+      "plainText" : "He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully."
     }
     ,
     {
@@ -67,7 +72,8 @@
       "id" : "v5",
       "number" : "5",
       "absolute" : "14247",
-      "text" : "He shall receive the blessing from the <span class='nog'>Lord<\/span>, and righteousness from the God of his salvation."
+      "text" : "He shall receive the blessing from the <span class='nog'>LORD<\/span>, and righteousness from the God of his salvation.",
+      "plainText" : "He shall receive the blessing from the LORD, and righteousness from the God of his salvation."
     }
     ,
     {
@@ -75,7 +81,8 @@
       "id" : "v6",
       "number" : "6",
       "absolute" : "14248",
-      "text" : "This <span class='extra'>is<\/span> the generation of them that seek him, that seek thy face, O Jacob. Selah."
+      "text" : "This <span class='extra'>is<\/span> the generation of them that seek him, that seek thy face, O Jacob. Selah.",
+      "plainText" : "This is the generation of them that seek him, that seek thy face, O Jacob. Selah."
     }
     ,
     {
@@ -83,7 +90,8 @@
       "id" : "v7",
       "number" : "7",
       "absolute" : "14249",
-      "text" : "Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in."
+      "text" : "Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.",
+      "plainText" : "Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in."
     }
     ,
     {
@@ -91,7 +99,8 @@
       "id" : "v8",
       "number" : "8",
       "absolute" : "14250",
-      "text" : "Who <span class='extra'>is<\/span> this King of glory? The <span class='nog'>Lord<\/span> strong and mighty, the <span class='nog'>Lord<\/span> mighty in battle."
+      "text" : "Who <span class='extra'>is<\/span> this King of glory? The <span class='nog'>LORD<\/span> strong and mighty, the <span class='nog'>LORD<\/span> mighty in battle.",
+      "plainText" : "Who is this King of glory? The LORD strong and mighty, the LORD mighty in battle."
     }
     ,
     {
@@ -99,7 +108,8 @@
       "id" : "v9",
       "number" : "9",
       "absolute" : "14251",
-      "text" : "Lift up your heads, O ye gates; even lift <span class='extra'>them<\/span> up, ye everlasting doors; and the King of glory shall come in."
+      "text" : "Lift up your heads, O ye gates; even lift <span class='extra'>them<\/span> up, ye everlasting doors; and the King of glory shall come in.",
+      "plainText" : "Lift up your heads, O ye gates; even lift them up, ye everlasting doors; and the King of glory shall come in."
     }
     ,
     {
@@ -107,7 +117,10 @@
       "id" : "v10",
       "number" : "10",
       "absolute" : "14252",
-      "text" : "Who is this King of glory? The <span class='nog'>Lord<\/span> of hosts, he <span class='extra'>is<\/span> the King of glory. Selah."
+      "text" : "Who is this King of glory? The <span class='nog'>LORD<\/span> of hosts, he <span class='extra'>is<\/span> the King of glory. Selah.",
+      "plainText" : "Who is this King of glory? The LORD of hosts, he is the King of glory. Selah."
     }
   ]
 }
+
+

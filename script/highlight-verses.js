@@ -2,8 +2,7 @@
 	Highlight verse(s) based on URL goto parameter range e.g. ?goto=1-3
 */
 
-function highlightVerses()
-{
+function highlightVerses() {
 	var hv = /\?goto=(\d+)-?(\d+)?/i;
 	var match = hv.exec(window.location.href);
 	var startVerse;
@@ -17,7 +16,7 @@ function highlightVerses()
 		} else {
 			endVerse = startVerse;
 		}
-		if ((startVerse	>= 1) && (endVerse >= startVerse) && (endVerse <= 255)) {
+		if ((startVerse >= 1) && (endVerse >= startVerse) && (endVerse <= 255)) {
 			// highlights verse divs when URL contains ?vhl=startVerse[-endVerse]
 			var v = 0;
 			var vid = "";
@@ -31,22 +30,21 @@ function highlightVerses()
 			}
 		}
 		if (scrollElem) {
-			$.scrollTo(scrollElem,800,{offset:-200});
+			$.scrollTo(scrollElem, 800, { offset: -200 });
 		}
 	}
 }
 
-function addLoadEvent(f)
-{
+function addLoadEvent(f) {
 	var oldonload = window.onload;
 	if (typeof window.onload != 'function') {
 		window.onload = f;
 	} else {
-		window.onload = function() {
+		window.onload = function () {
 			if (oldonload) {
 				oldonload();
 			}
-		f();
+			f();
 		};
 	}
 }
@@ -56,30 +54,21 @@ addLoadEvent(highlightVerses);
 
 // Initialise todo list button events
 
-$(".tl-btn-open").on("click", function() {
+$(".tl-btn-open").on("click", function () {
 	// $(this).parent().hide();
 	var v = "#" + $(this).parent().attr("id");
-	$(v+"o").toggleClass("tl-btn-hide");
-	$(v+"c").toggleClass("tl-btn-hide");
+	$(v + "o").toggleClass("tl-btn-hide");
+	$(v + "c").toggleClass("tl-btn-hide");
 	// show todo list
-	$(v+"tl").toggleClass("tl-btn-hide");
+	$(v + "tl").toggleClass("tl-btn-hide");
 });
 
-$(".tl-btn-close").on("click", function() {
+$(".tl-btn-close").on("click", function () {
 	// $(this).parent().hide();
 	var v = "#" + $(this).parent().attr("id");
-	$(v+"o").toggleClass("tl-btn-hide");
-	$(v+"c").toggleClass("tl-btn-hide");
+	$(v + "o").toggleClass("tl-btn-hide");
+	$(v + "c").toggleClass("tl-btn-hide");
 	// hide todo list
-	$(v+"tl").toggleClass("tl-btn-hide");
+	$(v + "tl").toggleClass("tl-btn-hide");
 });
 
-/* TODO: add radio button event handling 
-$(".verse-todo-item").on("click", function() {
-	$(this).toggleClass("selected-todo-item");
-});
-
-$("[type='radio']").on("change", function() {
-	$(this).parent().toggleClass("selected-todo-item");
-});
-*/

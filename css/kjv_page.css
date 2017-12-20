@@ -136,10 +136,6 @@
     text-indent: 1.3rem;
     line-height: 1.3rem;
     font-size: 1rem;
-    /* 
-    color: #707070; 
-    font-weight: 200;
-    */
     color: black;
 }
 
@@ -151,6 +147,8 @@
     background-color: lemonchiffon;
 }
 
+/* Verse todo list styling */ 
+
 .tl-btn-open {
     position: absolute;
     top: 7px;
@@ -159,12 +157,12 @@
     color: blue;
 }
 
-img .tl-btn-open:hover {
-    cursor: hand;
+.tl-btn-open:hover {
+    cursor: pointer;
 }
 
-img .tl-btn-close:hover {
-    cursor: hand;
+.tl-btn-close:hover {
+    cursor: pointer;
 }
 
 .tl-btn-close {
@@ -188,12 +186,8 @@ img .tl-btn-close:hover {
     border-bottom: solid 1px purple;
 }
 .verse-todo-item {
-    padding: 3px 5px;
+    padding: 3px;
     border-top: solid 1px purple;
-}
-.selected-todo-item {
-    padding-right: 0;
-    border-right: solid 6px purple;
 }
 
 h1, h2 {

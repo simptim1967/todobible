@@ -27,7 +27,8 @@
     {
       "type" : "caption",
       "id" : "c0",
-      "text" : "A Song of degrees."
+      "text" : "A Song of degrees.",
+      "plainText" : "A Song of degrees."
     }
     ,
     {
@@ -35,7 +36,8 @@
       "id" : "v1",
       "number" : "1",
       "absolute" : "16076",
-      "text" : "In my distress I cried unto the <span class='nog'>Lord<\/span>, and he heard me."
+      "text" : "In my distress I cried unto the <span class='nog'>LORD<\/span>, and he heard me.",
+      "plainText" : "In my distress I cried unto the LORD, and he heard me."
     }
     ,
     {
@@ -43,7 +45,8 @@
       "id" : "v2",
       "number" : "2",
       "absolute" : "16077",
-      "text" : "Deliver my soul, O <span class='nog'>Lord<\/span>, from lying lips, <span class='extra'>and<\/span> from a deceitful tongue."
+      "text" : "Deliver my soul, O <span class='nog'>LORD<\/span>, from lying lips, <span class='extra'>and<\/span> from a deceitful tongue.",
+      "plainText" : "Deliver my soul, O LORD, from lying lips, and from a deceitful tongue."
     }
     ,
     {
@@ -51,7 +54,8 @@
       "id" : "v3",
       "number" : "3",
       "absolute" : "16078",
-      "text" : "What shall be given unto thee? or what shall be done unto thee, thou false tongue?"
+      "text" : "What shall be given unto thee? or what shall be done unto thee, thou false tongue?",
+      "plainText" : "What shall be given unto thee? or what shall be done unto thee, thou false tongue?"
     }
     ,
     {
@@ -59,7 +63,8 @@
       "id" : "v4",
       "number" : "4",
       "absolute" : "16079",
-      "text" : "Sharp arrows of the mighty, with coals of juniper."
+      "text" : "Sharp arrows of the mighty, with coals of juniper.",
+      "plainText" : "Sharp arrows of the mighty, with coals of juniper."
     }
     ,
     {
@@ -67,7 +72,8 @@
       "id" : "v5",
       "number" : "5",
       "absolute" : "16080",
-      "text" : "Woe is me, that I sojourn in Mesech, <span class='extra'>that<\/span> I dwell in the tents of Kedar!"
+      "text" : "Woe is me, that I sojourn in Mesech, <span class='extra'>that<\/span> I dwell in the tents of Kedar!",
+      "plainText" : "Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!"
     }
     ,
     {
@@ -75,7 +81,8 @@
       "id" : "v6",
       "number" : "6",
       "absolute" : "16081",
-      "text" : "My soul hath long dwelt with him that hateth peace."
+      "text" : "My soul hath long dwelt with him that hateth peace.",
+      "plainText" : "My soul hath long dwelt with him that hateth peace."
     }
     ,
     {
@@ -83,7 +90,10 @@
       "id" : "v7",
       "number" : "7",
       "absolute" : "16082",
-      "text" : "I <span class='extra'>am for<\/span> peace: but when I speak, they <span class='extra'>are<\/span> for war."
+      "text" : "I <span class='extra'>am for<\/span> peace: but when I speak, they <span class='extra'>are<\/span> for war.",
+      "plainText" : "I am for peace: but when I speak, they are for war."
     }
   ]
 }
+
+

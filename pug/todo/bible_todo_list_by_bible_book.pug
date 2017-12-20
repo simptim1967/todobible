@@ -155,10 +155,18 @@ html(lang='en-GB')
                 tr
                   td
                     case todo.type
+                      when "C"
+                        span.badge.itemcog C
+                      when "CR"
+                        span.badge.itemtodowoc C
                       when "F"
                         span.badge.itemfact F
                       when "FR"
                         span.badge.itemtodowoc F
+                      when "I"
+                        span.badge.itemiic I
+                      when "IR"
+                        span.badge.itemtodowoc I
                       when "P"
                         span.badge.itempromise P
                       when "PR"

@@ -6,10 +6,8 @@ var fs = require('fs');
 var templateFile = __dirname + "\\" + TEMPLATE_FILE;
 
 // Initialise arrays for OT and NT bible books
-var otBookNames = ["genesis", "exodus", "leviticus", "numbers", "deuteronomy", "joshua", "judges", "ruth", "1samuel", "2samuel","1kings","2kings","1chronicles", "2chronicles", "ezra", "nehemiah", "esther","job","psalms","proverbs","ecclesiastes","song_of_solomon","isaiah","jeremiah","lamentations","ezekiel","daniel","hosea","joel","amos","obadiah","jonah","micah","nahum","habakkuk","zephaniah","haggai","zechariah","malachi"];
-var otChapterCounts = [50,40,27,36,34,24,21,4,31,24,22,25,29,36,10,13,10,42,150,31,12,8,66,52,5,48,12,14,3,9,1,4,7,3,3,3,2,14,4];
-var ntBookNames = ["matthew","mark","luke","john","acts","romans", "1corinthians", "2corinthians", "galatians", "ephesians", "philippians", "colossians", "1thessalonians", "2thessalonians","1timothy","2timothy","titus","philemon","hebrews","james","1peter","2peter","1john","2john","3john","jude","revelation"];
-var ntChapterCounts   = [28,16,24,21,28,16,16,13,6,6,4,4,5,3,6,4,3,1,13,5,5,3,5,1,1,1,22];
+var BookNames = ["genesis", "exodus", "leviticus", "numbers", "deuteronomy", "joshua", "judges", "ruth", "1samuel", "2samuel","1kings","2kings","1chronicles", "2chronicles", "ezra", "nehemiah", "esther","job","psalms","proverbs","ecclesiastes","song_of_solomon","isaiah","jeremiah","lamentations","ezekiel","daniel","hosea","joel","amos","obadiah","jonah","micah","nahum","habakkuk","zephaniah","haggai","zechariah","malachi","matthew","mark","luke","john","acts","romans", "1corinthians", "2corinthians", "galatians", "ephesians", "philippians", "colossians", "1thessalonians", "2thessalonians","1timothy","2timothy","titus","philemon","hebrews","james","1peter","2peter","1john","2john","3john","jude","revelation"];
+var ChapterCounts = [50,40,27,36,34,24,21,4,31,24,22,25,29,36,10,13,10,42,150,31,12,8,66,52,5,48,12,14,3,9,1,4,7,3,3,3,2,14,4,28,16,24,21,28,16,16,13,6,6,4,4,5,3,6,4,3,1,13,5,5,3,5,1,1,1,22];
 
 function GenerateBiblePages(bookNames, chapterCounts) {
   //-Loop through each book in turn
@@ -73,6 +71,5 @@ function GenerateBiblePages(bookNames, chapterCounts) {
 }
 
 // Generate bible pages
-GenerateBiblePages(ntBookNames, ntChapterCounts);  // NT
-GenerateBiblePages(otBookNames, otChapterCounts);  // OT
+GenerateBiblePages(BookNames, ChapterCounts);
 

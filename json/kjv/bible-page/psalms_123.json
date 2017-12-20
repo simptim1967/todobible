@@ -27,7 +27,8 @@
     {
       "type" : "caption",
       "id" : "c0",
-      "text" : "A Song of degrees."
+      "text" : "A Song of degrees.",
+      "plainText" : "A Song of degrees."
     }
     ,
     {
@@ -35,7 +36,8 @@
       "id" : "v1",
       "number" : "1",
       "absolute" : "16100",
-      "text" : "Unto thee lift I up mine eyes, O thou that dwellest in the heavens."
+      "text" : "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
+      "plainText" : "Unto thee lift I up mine eyes, O thou that dwellest in the heavens."
     }
     ,
     {
@@ -43,7 +45,8 @@
       "id" : "v2",
       "number" : "2",
       "absolute" : "16101",
-      "text" : "Behold, as the eyes of servants <span class='extra'>look<\/span> unto the hand of their masters, <span class='extra'>and<\/span> as the eyes of a maiden unto the hand of her mistress; so our eyes <span class='extra'>wait<\/span> upon the <span class='nog'>Lord<\/span> our God, until that he have mercy upon us."
+      "text" : "Behold, as the eyes of servants <span class='extra'>look<\/span> unto the hand of their masters, <span class='extra'>and<\/span> as the eyes of a maiden unto the hand of her mistress; so our eyes <span class='extra'>wait<\/span> upon the <span class='nog'>LORD<\/span> our God, until that he have mercy upon us.",
+      "plainText" : "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the LORD our God, until that he have mercy upon us."
     }
     ,
     {
@@ -51,7 +54,8 @@
       "id" : "v3",
       "number" : "3",
       "absolute" : "16102",
-      "text" : "Have mercy upon us, O <span class='nog'>Lord<\/span>, have mercy upon us: for we are exceedingly filled with contempt."
+      "text" : "Have mercy upon us, O <span class='nog'>LORD<\/span>, have mercy upon us: for we are exceedingly filled with contempt.",
+      "plainText" : "Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt."
     }
     ,
     {
@@ -59,7 +63,10 @@
       "id" : "v4",
       "number" : "4",
       "absolute" : "16103",
-      "text" : "Our soul is exceedingly filled with the scorning of those that are at ease, <span class='extra'>and<\/span> with the contempt of the proud."
+      "text" : "Our soul is exceedingly filled with the scorning of those that are at ease, <span class='extra'>and<\/span> with the contempt of the proud.",
+      "plainText" : "Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud."
     }
   ]
 }
+
+
