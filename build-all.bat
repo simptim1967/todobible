@@ -4,7 +4,6 @@ echo Copying image files ...
 del ..\live\images\*.png
 del ..\live\images\*.jpg
 del ..\live\images\*.svg
-del ..\live\images\*.gif
 
 copy .\images\*.png ..\live\images
 copy .\images\*.jpg ..\live\images

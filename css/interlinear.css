@@ -1,0 +1,36 @@
+/* verse interlinear styling */
+
+.inter-open {
+  width: 25px;
+}
+.inter-open:hover {
+  cursor: pointer;
+}
+.inter-close {
+  width: 25px;
+}
+.inter-close:hover {
+  cursor: pointer;
+}
+.inter-hide {
+  display: none;
+}
+.inter-content {
+  padding: 3px;
+}
+
+.interlinear {
+  margin-left: 3%;
+  background-color: rgb(222, 242, 251);
+  border: solid 1px purple;
+}
+.interlinear thead {
+  color: black;
+  font-weight: bold;
+}
+
+.inter-title {
+  text-align: center;
+  background-color: cornflowerblue;
+  color: white;
+}
