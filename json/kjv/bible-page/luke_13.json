@@ -1,343 +1,309 @@
 {
   "book": {
-    "number" : "42",
-    "filenamePrefix" : "luke",
-    "bookPage" : "luke.html",
-    "title" : "Luke",
-    "chapterCount" : "24",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "john_1.html",
-    "nextTitle" : "John",
-    "prevBook" : "mark_1.html",
-    "prevTitle" : "Mark"
+    "number": "42",
+    "filenamePrefix": "luke",
+    "bookPage": "luke.html",
+    "title": "Luke",
+    "chapterCount": "24",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "john_1.html",
+    "nextTitle": "John",
+    "prevBook": "mark_1.html",
+    "prevTitle": "Mark",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "13",
-    "verseCount" : "35",
-    "nextChapter" : "luke_14.html",
-    "nextTitle" : "Luke 14",
-    "prevChapter" : "luke_12.html",
-    "prevTitle" : "Luke 12",
-    "filename" : "luke_13.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "13",
+    "verseCount": "35",
+    "nextChapter": "luke_14.html",
+    "nextTitle": "Luke 14",
+    "prevChapter": "luke_12.html",
+    "prevTitle": "Luke 12",
+    "filename": "luke_13.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "25520",
-      "text" : "There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.",
-      "plainText" : "There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "25520",
+      "text": "There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.",
+      "plainText": "There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "25521",
-      "text" : "And Jesus answering said unto them, <span class='woc'>Suppose ye that these Galilaeans were sinners above all the Galilaeans, because they suffered such things?<\/span>",
-      "plainText" : "And Jesus answering said unto them, Suppose ye that these Galilaeans were sinners above all the Galilaeans, because they suffered such things?"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "25521",
+      "text": "And Jesus answering said unto them, <span class='woc'>Suppose ye that these Galilaeans were sinners above all the Galilaeans, because they suffered such things?</span>",
+      "plainText": "And Jesus answering said unto them, Suppose ye that these Galilaeans were sinners above all the Galilaeans, because they suffered such things?"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "25522",
-      "text" : "<span class='woc'>I tell you, Nay: but, except ye repent, ye shall all likewise perish.<\/span>",
-      "plainText" : "I tell you, Nay: but, except ye repent, ye shall all likewise perish."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "25522",
+      "text": "<span class='woc'>I tell you, Nay: but, except ye repent, ye shall all likewise perish.</span>",
+      "plainText": "I tell you, Nay: but, except ye repent, ye shall all likewise perish."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "25523",
-      "text" : "<span class='woc'>Or those eighteen, upon whom the tower in Siloam fell, and slew them, think ye that they were sinners above all men that dwelt in Jerusalem?<\/span>",
-      "plainText" : "Or those eighteen, upon whom the tower in Siloam fell, and slew them, think ye that they were sinners above all men that dwelt in Jerusalem?"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "25523",
+      "text": "<span class='woc'>Or those eighteen, upon whom the tower in Siloam fell, and slew them, think ye that they were sinners above all men that dwelt in Jerusalem?</span>",
+      "plainText": "Or those eighteen, upon whom the tower in Siloam fell, and slew them, think ye that they were sinners above all men that dwelt in Jerusalem?"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "25524",
-      "text" : "<span class='woc'>I tell you, Nay: but, except ye repent, ye shall all likewise perish.<\/span>",
-      "plainText" : "I tell you, Nay: but, except ye repent, ye shall all likewise perish."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "25524",
+      "text": "<span class='woc'>I tell you, Nay: but, except ye repent, ye shall all likewise perish.</span>",
+      "plainText": "I tell you, Nay: but, except ye repent, ye shall all likewise perish."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "25525",
-      "text" : "He spake also this parable; <span class='woc'>A certain <span class='extra'>man<\/span> had a fig tree planted in his vineyard; and he came and sought fruit thereon, and found none.<\/span>",
-      "plainText" : "He spake also this parable; A certain man had a fig tree planted in his vineyard; and he came and sought fruit thereon, and found none."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "25525",
+      "text": "He spake also this parable; <span class='woc'>A certain <span class='extra'>man</span> had a fig tree planted in his vineyard; and he came and sought fruit thereon, and found none.</span>",
+      "plainText": "He spake also this parable; A certain man had a fig tree planted in his vineyard; and he came and sought fruit thereon, and found none."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "25526",
-      "text" : "<span class='woc'>Then said he unto the dresser of his vineyard, Behold, these three years I come seeking fruit on this fig tree, and find none: cut it down; why cumbereth it the ground?<\/span>",
-      "plainText" : "Then said he unto the dresser of his vineyard, Behold, these three years I come seeking fruit on this fig tree, and find none: cut it down; why cumbereth it the ground?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "25526",
+      "text": "<span class='woc'>Then said he unto the dresser of his vineyard, Behold, these three years I come seeking fruit on this fig tree, and find none: cut it down; why cumbereth it the ground?</span>",
+      "plainText": "Then said he unto the dresser of his vineyard, Behold, these three years I come seeking fruit on this fig tree, and find none: cut it down; why cumbereth it the ground?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "25527",
-      "text" : "<span class='woc'>And he answering said unto him, Lord, let it alone this year also, till I shall dig about it, and dung <span class='extra'>it<\/span>:<\/span>",
-      "plainText" : "And he answering said unto him, Lord, let it alone this year also, till I shall dig about it, and dung it:"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "25527",
+      "text": "<span class='woc'>And he answering said unto him, Lord, let it alone this year also, till I shall dig about it, and dung <span class='extra'>it</span>:</span>",
+      "plainText": "And he answering said unto him, Lord, let it alone this year also, till I shall dig about it, and dung it:"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "25528",
-      "text" : "<span class='woc'>And if it bear fruit, <span class='extra'>well<\/span>: and if not, <span class='extra'>then<\/span> after that thou shalt cut it down.<\/span>",
-      "plainText" : "And if it bear fruit, well: and if not, then after that thou shalt cut it down."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "25528",
+      "text": "<span class='woc'>And if it bear fruit, <span class='extra'>well</span>: and if not, <span class='extra'>then</span> after that thou shalt cut it down.</span>",
+      "plainText": "And if it bear fruit, well: and if not, then after that thou shalt cut it down."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "25529",
-      "text" : "And he was teaching in one of the synagogues on the sabbath.",
-      "plainText" : "And he was teaching in one of the synagogues on the sabbath."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "25529",
+      "text": "And he was teaching in one of the synagogues on the sabbath.",
+      "plainText": "And he was teaching in one of the synagogues on the sabbath."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "25530",
-      "text" : "And, behold, there was a woman which had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift up <span class='extra'>herself<\/span>.",
-      "plainText" : "And, behold, there was a woman which had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift up herself."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "25530",
+      "text": "And, behold, there was a woman which had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift up <span class='extra'>herself</span>.",
+      "plainText": "And, behold, there was a woman which had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift up herself."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "25531",
-      "text" : "And when Jesus saw her, he called <span class='extra'>her to him<\/span>, and said unto her, <span class='woc'>Woman, thou art loosed from thine infirmity.<\/span>",
-      "plainText" : "And when Jesus saw her, he called her to him, and said unto her, Woman, thou art loosed from thine infirmity."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "25531",
+      "text": "And when Jesus saw her, he called <span class='extra'>her to him</span>, and said unto her, <span class='woc'>Woman, thou art loosed from thine infirmity.</span>",
+      "plainText": "And when Jesus saw her, he called her to him, and said unto her, Woman, thou art loosed from thine infirmity."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "25532",
-      "text" : "And he laid <span class='extra'>his<\/span> hands on her: and immediately she was made straight, and glorified God.",
-      "plainText" : "And he laid his hands on her: and immediately she was made straight, and glorified God."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "25532",
+      "text": "And he laid <span class='extra'>his</span> hands on her: and immediately she was made straight, and glorified God.",
+      "plainText": "And he laid his hands on her: and immediately she was made straight, and glorified God."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "25533",
-      "text" : "And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day.",
-      "plainText" : "And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "25533",
+      "text": "And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day.",
+      "plainText": "And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "25534",
-      "text" : "The Lord then answered him, and said, <span class='woc'><span class='extra'>Thou<\/span> hypocrite, doth not each one of you on the sabbath loose his ox or <span class='extra'>his<\/span> ass from the stall, and lead <span class='extra'>him<\/span> away to watering?<\/span>",
-      "plainText" : "The Lord then answered him, and said, Thou hypocrite, doth not each one of you on the sabbath loose his ox or his ass from the stall, and lead him away to watering?"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "25534",
+      "text": "The Lord then answered him, and said, <span class='woc'><span class='extra'>Thou</span> hypocrite, doth not each one of you on the sabbath loose his ox or <span class='extra'>his</span> ass from the stall, and lead <span class='extra'>him</span> away to watering?</span>",
+      "plainText": "The Lord then answered him, and said, Thou hypocrite, doth not each one of you on the sabbath loose his ox or his ass from the stall, and lead him away to watering?"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "25535",
-      "text" : "<span class='woc'>And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?<\/span>",
-      "plainText" : "And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "25535",
+      "text": "<span class='woc'>And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?</span>",
+      "plainText": "And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "25536",
-      "text" : "And when he had said these things, all his adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by him.",
-      "plainText" : "And when he had said these things, all his adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by him."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "25536",
+      "text": "And when he had said these things, all his adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by him.",
+      "plainText": "And when he had said these things, all his adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by him."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "25537",
-      "text" : "Then said he, <span class='woc'>Unto what is the kingdom of God like? and whereunto shall I resemble it?<\/span>",
-      "plainText" : "Then said he, Unto what is the kingdom of God like? and whereunto shall I resemble it?"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "25537",
+      "text": "Then said he, <span class='woc'>Unto what is the kingdom of God like? and whereunto shall I resemble it?</span>",
+      "plainText": "Then said he, Unto what is the kingdom of God like? and whereunto shall I resemble it?"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "25538",
-      "text" : "<span class='woc'>It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and waxed a great tree; and the fowls of the air lodged in the branches of it.<\/span>",
-      "plainText" : "It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and waxed a great tree; and the fowls of the air lodged in the branches of it."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "25538",
+      "text": "<span class='woc'>It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and waxed a great tree; and the fowls of the air lodged in the branches of it.</span>",
+      "plainText": "It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and waxed a great tree; and the fowls of the air lodged in the branches of it."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "25539",
-      "text" : "And again he said, <span class='woc'>Whereunto shall I liken the kingdom of God?<\/span>",
-      "plainText" : "And again he said, Whereunto shall I liken the kingdom of God?"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "25539",
+      "text": "And again he said, <span class='woc'>Whereunto shall I liken the kingdom of God?</span>",
+      "plainText": "And again he said, Whereunto shall I liken the kingdom of God?"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "25540",
-      "text" : "<span class='woc'>It is like leaven, which a woman took and hid in three measures of meal, till the whole was leavened.<\/span>",
-      "plainText" : "It is like leaven, which a woman took and hid in three measures of meal, till the whole was leavened."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "25540",
+      "text": "<span class='woc'>It is like leaven, which a woman took and hid in three measures of meal, till the whole was leavened.</span>",
+      "plainText": "It is like leaven, which a woman took and hid in three measures of meal, till the whole was leavened."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "25541",
-      "text" : "And he went through the cities and villages, teaching, and journeying toward Jerusalem.",
-      "plainText" : "And he went through the cities and villages, teaching, and journeying toward Jerusalem."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "25541",
+      "text": "And he went through the cities and villages, teaching, and journeying toward Jerusalem.",
+      "plainText": "And he went through the cities and villages, teaching, and journeying toward Jerusalem."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "25542",
-      "text" : "Then said one unto him, Lord, are there few that be saved? And he said unto them,",
-      "plainText" : "Then said one unto him, Lord, are there few that be saved? And he said unto them,"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "25542",
+      "text": "Then said one unto him, Lord, are there few that be saved? And he said unto them,",
+      "plainText": "Then said one unto him, Lord, are there few that be saved? And he said unto them,"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "25543",
-      "text" : "<span class='woc'>Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.<\/span>",
-      "plainText" : "Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "25543",
+      "text": "<span class='woc'>Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.</span>",
+      "plainText": "Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "25544",
-      "text" : "<span class='woc'>When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are:<\/span>",
-      "plainText" : "When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are:"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "25544",
+      "text": "<span class='woc'>When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are:</span>",
+      "plainText": "When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are:"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "25545",
-      "text" : "<span class='woc'>Then shall ye begin to say, We have eaten and drunk in thy presence, and thou hast taught in our streets.<\/span>",
-      "plainText" : "Then shall ye begin to say, We have eaten and drunk in thy presence, and thou hast taught in our streets."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "25545",
+      "text": "<span class='woc'>Then shall ye begin to say, We have eaten and drunk in thy presence, and thou hast taught in our streets.</span>",
+      "plainText": "Then shall ye begin to say, We have eaten and drunk in thy presence, and thou hast taught in our streets."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "25546",
-      "text" : "<span class='woc'>But he shall say, I tell you, I know you not whence ye are; depart from me, all <span class='extra'>ye<\/span> workers of iniquity.<\/span>",
-      "plainText" : "But he shall say, I tell you, I know you not whence ye are; depart from me, all ye workers of iniquity."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "25546",
+      "text": "<span class='woc'>But he shall say, I tell you, I know you not whence ye are; depart from me, all <span class='extra'>ye</span> workers of iniquity.</span>",
+      "plainText": "But he shall say, I tell you, I know you not whence ye are; depart from me, all ye workers of iniquity."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "25547",
-      "text" : "<span class='woc'>There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you <span class='extra'>yourselves<\/span> thrust out.<\/span>",
-      "plainText" : "There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you yourselves thrust out."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "25547",
+      "text": "<span class='woc'>There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you <span class='extra'>yourselves</span> thrust out.</span>",
+      "plainText": "There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you yourselves thrust out."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "25548",
-      "text" : "<span class='woc'>And they shall come from the east, and <span class='extra'>from<\/span> the west, and from the north, and <span class='extra'>from<\/span> the south, and shall sit down in the kingdom of God.<\/span>",
-      "plainText" : "And they shall come from the east, and from the west, and from the north, and from the south, and shall sit down in the kingdom of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "25548",
+      "text": "<span class='woc'>And they shall come from the east, and <span class='extra'>from</span> the west, and from the north, and <span class='extra'>from</span> the south, and shall sit down in the kingdom of God.</span>",
+      "plainText": "And they shall come from the east, and from the west, and from the north, and from the south, and shall sit down in the kingdom of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "25549",
-      "text" : "<span class='woc'>And, behold, there are last which shall be first, and there are first which shall be last.<\/span>",
-      "plainText" : "And, behold, there are last which shall be first, and there are first which shall be last."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "25549",
+      "text": "<span class='woc'>And, behold, there are last which shall be first, and there are first which shall be last.</span>",
+      "plainText": "And, behold, there are last which shall be first, and there are first which shall be last."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "25550",
-      "text" : "The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee.",
-      "plainText" : "The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "25550",
+      "text": "The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee.",
+      "plainText": "The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "25551",
-      "text" : "And he said unto them, <span class='woc'>Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third <span class='extra'>day<\/span> I shall be perfected.<\/span>",
-      "plainText" : "And he said unto them, Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third day I shall be perfected."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "25551",
+      "text": "And he said unto them, <span class='woc'>Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third <span class='extra'>day</span> I shall be perfected.</span>",
+      "plainText": "And he said unto them, Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third day I shall be perfected."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "25552",
-      "text" : "<span class='woc'>Nevertheless I must walk to day, and to morrow, and the <span class='extra'>day<\/span> following: for it cannot be that a prophet perish out of Jerusalem.<\/span>",
-      "plainText" : "Nevertheless I must walk to day, and to morrow, and the day following: for it cannot be that a prophet perish out of Jerusalem."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "25552",
+      "text": "<span class='woc'>Nevertheless I must walk to day, and to morrow, and the <span class='extra'>day</span> following: for it cannot be that a prophet perish out of Jerusalem.</span>",
+      "plainText": "Nevertheless I must walk to day, and to morrow, and the day following: for it cannot be that a prophet perish out of Jerusalem."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "25553",
-      "text" : "<span class='woc'>O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen <span class='extra'>doth gather<\/span> her brood under <span class='extra'>her<\/span> wings, and ye would not!<\/span>",
-      "plainText" : "O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen doth gather her brood under her wings, and ye would not!"
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "25553",
+      "text": "<span class='woc'>O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen <span class='extra'>doth gather</span> her brood under <span class='extra'>her</span> wings, and ye would not!</span>",
+      "plainText": "O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen doth gather her brood under her wings, and ye would not!"
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "25554",
-      "text" : "<span class='woc'>Behold, your house is left unto you desolate: and verily I say unto you, Ye shall not see me, until <span class='extra'>the time<\/span> come when ye shall say, Blessed <span class='extra'>is<\/span> he that cometh in the name of the Lord.<\/span>",
-      "plainText" : "Behold, your house is left unto you desolate: and verily I say unto you, Ye shall not see me, until the time come when ye shall say, Blessed is he that cometh in the name of the Lord."
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "25554",
+      "text": "<span class='woc'>Behold, your house is left unto you desolate: and verily I say unto you, Ye shall not see me, until <span class='extra'>the time</span> come when ye shall say, Blessed <span class='extra'>is</span> he that cometh in the name of the Lord.</span>",
+      "plainText": "Behold, your house is left unto you desolate: and verily I say unto you, Ye shall not see me, until the time come when ye shall say, Blessed is he that cometh in the name of the Lord."
     }
   ]
 }
-

@@ -1,245 +1,221 @@
 {
   "book": {
-    "number" : "23",
-    "filenamePrefix" : "isaiah",
-    "bookPage" : "isaiah.html",
-    "title" : "Isaiah",
-    "chapterCount" : "66",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "jeremiah_1.html",
-    "nextTitle" : "Jeremiah",
-    "prevBook" : "song_of_solomon_1.html",
-    "prevTitle" : "Song of Solomon"
+    "number": "23",
+    "filenamePrefix": "isaiah",
+    "bookPage": "isaiah.html",
+    "title": "Isaiah",
+    "chapterCount": "66",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "jeremiah_1.html",
+    "nextTitle": "Jeremiah",
+    "prevBook": "song_of_solomon_1.html",
+    "prevTitle": "Song of Solomon",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "29",
-    "verseCount" : "24",
-    "nextChapter" : "isaiah_30.html",
-    "nextTitle" : "Isaiah 30",
-    "prevChapter" : "isaiah_28.html",
-    "prevTitle" : "Isaiah 28",
-    "filename" : "isaiah_29.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "29",
+    "verseCount": "24",
+    "nextChapter": "isaiah_30.html",
+    "nextTitle": "Isaiah 30",
+    "prevChapter": "isaiah_28.html",
+    "prevTitle": "Isaiah 28",
+    "filename": "isaiah_29.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "18195",
-      "text" : "Woe to Ariel, to Ariel, the city <span class='extra'>where<\/span> David dwelt! add ye year to year; let them kill sacrifices.",
-      "plainText" : "Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "18195",
+      "text": "Woe to Ariel, to Ariel, the city <span class='extra'>where</span> David dwelt! add ye year to year; let them kill sacrifices.",
+      "plainText": "Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "18196",
-      "text" : "Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel.",
-      "plainText" : "Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "18196",
+      "text": "Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel.",
+      "plainText": "Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "18197",
-      "text" : "And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee.",
-      "plainText" : "And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "18197",
+      "text": "And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee.",
+      "plainText": "And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "18198",
-      "text" : "And thou shalt be brought down, <span class='extra'>and<\/span> shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.",
-      "plainText" : "And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "18198",
+      "text": "And thou shalt be brought down, <span class='extra'>and</span> shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.",
+      "plainText": "And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "18199",
-      "text" : "Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones <span class='extra'>shall be<\/span> as chaff that passeth away: yea, it shall be at an instant suddenly.",
-      "plainText" : "Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones shall be as chaff that passeth away: yea, it shall be at an instant suddenly."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "18199",
+      "text": "Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones <span class='extra'>shall be</span> as chaff that passeth away: yea, it shall be at an instant suddenly.",
+      "plainText": "Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones shall be as chaff that passeth away: yea, it shall be at an instant suddenly."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "18200",
-      "text" : "Thou shalt be visited of the <span class='nog'>LORD<\/span> of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.",
-      "plainText" : "Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "18200",
+      "text": "Thou shalt be visited of the <span class='nog'>LORD</span> of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.",
+      "plainText": "Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "18201",
-      "text" : "And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.",
-      "plainText" : "And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "18201",
+      "text": "And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.",
+      "plainText": "And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "18202",
-      "text" : "It shall even be as when an hungry <span class='extra'>man<\/span> dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, <span class='extra'>he is<\/span> faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.",
-      "plainText" : "It shall even be as when an hungry man dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, he is faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "18202",
+      "text": "It shall even be as when an hungry <span class='extra'>man</span> dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, <span class='extra'>he is</span> faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.",
+      "plainText": "It shall even be as when an hungry man dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, he is faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "18203",
-      "text" : "Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.",
-      "plainText" : "Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "18203",
+      "text": "Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.",
+      "plainText": "Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "18204",
-      "text" : "For the <span class='nog'>LORD<\/span> hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.",
-      "plainText" : "For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "18204",
+      "text": "For the <span class='nog'>LORD</span> hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.",
+      "plainText": "For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "18205",
-      "text" : "And the vision of all is become unto you as the words of a book that is sealed, which <span class='extra'>men<\/span> deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it <span class='extra'>is<\/span> sealed:",
-      "plainText" : "And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "18205",
+      "text": "And the vision of all is become unto you as the words of a book that is sealed, which <span class='extra'>men</span> deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it <span class='extra'>is</span> sealed:",
+      "plainText": "And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "18206",
-      "text" : "And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.",
-      "plainText" : "And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "18206",
+      "text": "And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.",
+      "plainText": "And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "18207",
-      "text" : "Wherefore the Lord said, Forasmuch as this people draw near <span class='extra'>me<\/span> with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:",
-      "plainText" : "Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "18207",
+      "text": "Wherefore the Lord said, Forasmuch as this people draw near <span class='extra'>me</span> with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:",
+      "plainText": "Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "18208",
-      "text" : "Therefore, behold, I will proceed to do a marvellous work among this people, <span class='extra'>even<\/span> a marvellous work and a wonder: for the wisdom of their wise <span class='extra'>men<\/span> shall perish, and the understanding of their prudent <span class='extra'>men<\/span> shall be hid.",
-      "plainText" : "Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "18208",
+      "text": "Therefore, behold, I will proceed to do a marvellous work among this people, <span class='extra'>even</span> a marvellous work and a wonder: for the wisdom of their wise <span class='extra'>men</span> shall perish, and the understanding of their prudent <span class='extra'>men</span> shall be hid.",
+      "plainText": "Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "18209",
-      "text" : "Woe unto them that seek deep to hide their counsel from the <span class='nog'>LORD<\/span>, and their works are in the dark, and they say, Who seeth us? and who knoweth us?",
-      "plainText" : "Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who seeth us? and who knoweth us?"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "18209",
+      "text": "Woe unto them that seek deep to hide their counsel from the <span class='nog'>LORD</span>, and their works are in the dark, and they say, Who seeth us? and who knoweth us?",
+      "plainText": "Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who seeth us? and who knoweth us?"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "18210",
-      "text" : "Surely your turning of things upside down shall be esteemed as the potter's clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?",
-      "plainText" : "Surely your turning of things upside down shall be esteemed as the potter's clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "18210",
+      "text": "Surely your turning of things upside down shall be esteemed as the potter's clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?",
+      "plainText": "Surely your turning of things upside down shall be esteemed as the potter's clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "18211",
-      "text" : "<span class='extra'>Is<\/span> it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?",
-      "plainText" : "Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "18211",
+      "text": "<span class='extra'>Is</span> it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?",
+      "plainText": "Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "18212",
-      "text" : "And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness.",
-      "plainText" : "And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "18212",
+      "text": "And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness.",
+      "plainText": "And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "18213",
-      "text" : "The meek also shall increase <span class='extra'>their<\/span> joy in the <span class='nog'>LORD<\/span>, and the poor among men shall rejoice in the Holy One of Israel.",
-      "plainText" : "The meek also shall increase their joy in the LORD, and the poor among men shall rejoice in the Holy One of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "18213",
+      "text": "The meek also shall increase <span class='extra'>their</span> joy in the <span class='nog'>LORD</span>, and the poor among men shall rejoice in the Holy One of Israel.",
+      "plainText": "The meek also shall increase their joy in the LORD, and the poor among men shall rejoice in the Holy One of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "18214",
-      "text" : "For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:",
-      "plainText" : "For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "18214",
+      "text": "For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:",
+      "plainText": "For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "18215",
-      "text" : "That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.",
-      "plainText" : "That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "18215",
+      "text": "That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.",
+      "plainText": "That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "18216",
-      "text" : "Therefore thus saith the <span class='nog'>LORD<\/span>, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale.",
-      "plainText" : "Therefore thus saith the LORD, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "18216",
+      "text": "Therefore thus saith the <span class='nog'>LORD</span>, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale.",
+      "plainText": "Therefore thus saith the LORD, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "18217",
-      "text" : "But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel.",
-      "plainText" : "But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "18217",
+      "text": "But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel.",
+      "plainText": "But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "18218",
-      "text" : "They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.",
-      "plainText" : "They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine."
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "18218",
+      "text": "They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.",
+      "plainText": "They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine."
     }
   ]
 }
-
-

@@ -1,236 +1,213 @@
 {
   "book": {
-    "number" : "1",
-    "filenamePrefix" : "genesis",
-    "bookPage" : "genesis.html",
-    "title" : "Genesis",
-    "chapterCount" : "50",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "exodus_1.html",
-    "nextTitle" : "Exodus",
-    "prevBook" : "revelation_1.html",
-    "prevTitle" : "Revelation"
+    "number": "1",
+    "filenamePrefix": "genesis",
+    "bookPage": "genesis.html",
+    "title": "Genesis",
+    "chapterCount": "50",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "exodus_1.html",
+    "nextTitle": "Exodus",
+    "prevBook": "revelation_1.html",
+    "prevTitle": "Revelation",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "39",
-    "verseCount" : "23",
-    "nextChapter" : "genesis_40.html",
-    "nextTitle" : "Genesis 40",
-    "prevChapter" : "genesis_38.html",
-    "prevTitle" : "Genesis 38",
-    "filename" : "genesis_39.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "39",
+    "verseCount": "23",
+    "nextChapter": "genesis_40.html",
+    "nextTitle": "Genesis 40",
+    "prevChapter": "genesis_38.html",
+    "prevTitle": "Genesis 38",
+    "filename": "genesis_39.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "1151",
-      "text" : "And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.",
-      "plainText" : "And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "1151",
+      "text": "And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.",
+      "plainText": "And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "1152",
-      "text" : "And the <span class='nog'>LORD<\/span> was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian.",
-      "plainText" : "And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "1152",
+      "text": "And the <span class='nog'>LORD</span> was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian.",
+      "plainText": "And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "1153",
-      "text" : "And his master saw that the <span class='nog'>LORD<\/span> <span class='extra'>was<\/span> with him, and that the <span class='nog'>LORD<\/span> made all that he did to prosper in his hand.",
-      "plainText" : "And his master saw that the LORD was with him, and that the LORD made all that he did to prosper in his hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "1153",
+      "text": "And his master saw that the <span class='nog'>LORD</span> <span class='extra'>was</span> with him, and that the <span class='nog'>LORD</span> made all that he did to prosper in his hand.",
+      "plainText": "And his master saw that the LORD was with him, and that the LORD made all that he did to prosper in his hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "1154",
-      "text" : "And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all <span class='extra'>that<\/span> he had he put into his hand.",
-      "plainText" : "And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all that he had he put into his hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "1154",
+      "text": "And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all <span class='extra'>that</span> he had he put into his hand.",
+      "plainText": "And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all that he had he put into his hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "1155",
-      "text" : "And it came to pass from the time <span class='extra'>that<\/span> he had made him overseer in his house, and over all that he had, that the <span class='nog'>LORD<\/span> blessed the Egyptian's house for Joseph's sake; and the blessing of the <span class='nog'>LORD<\/span> was upon all that he had in the house, and in the field.",
-      "plainText" : "And it came to pass from the time that he had made him overseer in his house, and over all that he had, that the LORD blessed the Egyptian's house for Joseph's sake; and the blessing of the LORD was upon all that he had in the house, and in the field."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "1155",
+      "text": "And it came to pass from the time <span class='extra'>that</span> he had made him overseer in his house, and over all that he had, that the <span class='nog'>LORD</span> blessed the Egyptian's house for Joseph's sake; and the blessing of the <span class='nog'>LORD</span> was upon all that he had in the house, and in the field.",
+      "plainText": "And it came to pass from the time that he had made him overseer in his house, and over all that he had, that the LORD blessed the Egyptian's house for Joseph's sake; and the blessing of the LORD was upon all that he had in the house, and in the field."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "1156",
-      "text" : "And he left all that he had in Joseph's hand; and he knew not ought he had, save the bread which he did eat. And Joseph was <span class='extra'>a<\/span> goodly <span class='extra'>person<\/span>, and well favoured.",
-      "plainText" : "And he left all that he had in Joseph's hand; and he knew not ought he had, save the bread which he did eat. And Joseph was a goodly person, and well favoured."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "1156",
+      "text": "And he left all that he had in Joseph's hand; and he knew not ought he had, save the bread which he did eat. And Joseph was <span class='extra'>a</span> goodly <span class='extra'>person</span>, and well favoured.",
+      "plainText": "And he left all that he had in Joseph's hand; and he knew not ought he had, save the bread which he did eat. And Joseph was a goodly person, and well favoured."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "1157",
-      "text" : "And it came to pass after these things, that his master's wife cast her eyes upon Joseph; and she said, Lie with me.",
-      "plainText" : "And it came to pass after these things, that his master's wife cast her eyes upon Joseph; and she said, Lie with me."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "1157",
+      "text": "And it came to pass after these things, that his master's wife cast her eyes upon Joseph; and she said, Lie with me.",
+      "plainText": "And it came to pass after these things, that his master's wife cast her eyes upon Joseph; and she said, Lie with me."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "1158",
-      "text" : "But he refused, and said unto his master's wife, Behold, my master wotteth not what <span class='extra'>is<\/span> with me in the house, and he hath committed all that he hath to my hand;",
-      "plainText" : "But he refused, and said unto his master's wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "1158",
+      "text": "But he refused, and said unto his master's wife, Behold, my master wotteth not what <span class='extra'>is</span> with me in the house, and he hath committed all that he hath to my hand;",
+      "plainText": "But he refused, and said unto his master's wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "1159",
-      "text" : "<span class='extra'>There is<\/span> none greater in this house than I; neither hath he kept back any thing from me but thee, because thou <span class='extra'>art<\/span> his wife: how then can I do this great wickedness, and sin against God?",
-      "plainText" : "There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "1159",
+      "text": "<span class='extra'>There is</span> none greater in this house than I; neither hath he kept back any thing from me but thee, because thou <span class='extra'>art</span> his wife: how then can I do this great wickedness, and sin against God?",
+      "plainText": "There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "1160",
-      "text" : "And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, <span class='extra'>or<\/span> to be with her.",
-      "plainText" : "And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "1160",
+      "text": "And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, <span class='extra'>or</span> to be with her.",
+      "plainText": "And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "1161",
-      "text" : "And it came to pass about this time, that <span class='extra'>Joseph<\/span> went into the house to do his business; and <span class='extra'>there was<\/span> none of the men of the house there within.",
-      "plainText" : "And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "1161",
+      "text": "And it came to pass about this time, that <span class='extra'>Joseph</span> went into the house to do his business; and <span class='extra'>there was</span> none of the men of the house there within.",
+      "plainText": "And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "1162",
-      "text" : "And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.",
-      "plainText" : "And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "1162",
+      "text": "And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.",
+      "plainText": "And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "1163",
-      "text" : "And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,",
-      "plainText" : "And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "1163",
+      "text": "And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,",
+      "plainText": "And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "1164",
-      "text" : "That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:",
-      "plainText" : "That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "1164",
+      "text": "That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:",
+      "plainText": "That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "1165",
-      "text" : "And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out.",
-      "plainText" : "And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "1165",
+      "text": "And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out.",
+      "plainText": "And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "1166",
-      "text" : "And she laid up his garment by her, until his lord came home.",
-      "plainText" : "And she laid up his garment by her, until his lord came home."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "1166",
+      "text": "And she laid up his garment by her, until his lord came home.",
+      "plainText": "And she laid up his garment by her, until his lord came home."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "1167",
-      "text" : "And she spake unto him according to these words, saying, The Hebrew servant, which thou hast brought unto us, came in unto me to mock me:",
-      "plainText" : "And she spake unto him according to these words, saying, The Hebrew servant, which thou hast brought unto us, came in unto me to mock me:"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "1167",
+      "text": "And she spake unto him according to these words, saying, The Hebrew servant, which thou hast brought unto us, came in unto me to mock me:",
+      "plainText": "And she spake unto him according to these words, saying, The Hebrew servant, which thou hast brought unto us, came in unto me to mock me:"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "1168",
-      "text" : "And it came to pass, as I lifted up my voice and cried, that he left his garment with me, and fled out.",
-      "plainText" : "And it came to pass, as I lifted up my voice and cried, that he left his garment with me, and fled out."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "1168",
+      "text": "And it came to pass, as I lifted up my voice and cried, that he left his garment with me, and fled out.",
+      "plainText": "And it came to pass, as I lifted up my voice and cried, that he left his garment with me, and fled out."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "1169",
-      "text" : "And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled.",
-      "plainText" : "And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "1169",
+      "text": "And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled.",
+      "plainText": "And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "1170",
-      "text" : "And Joseph's master took him, and put him into the prison, a place where the king's prisoners <span class='extra'>were<\/span> bound: and he was there in the prison.",
-      "plainText" : "And Joseph's master took him, and put him into the prison, a place where the king's prisoners were bound: and he was there in the prison."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "1170",
+      "text": "And Joseph's master took him, and put him into the prison, a place where the king's prisoners <span class='extra'>were</span> bound: and he was there in the prison.",
+      "plainText": "And Joseph's master took him, and put him into the prison, a place where the king's prisoners were bound: and he was there in the prison."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "1171",
-      "text" : "But the <span class='nog'>LORD<\/span> was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison.",
-      "plainText" : "But the LORD was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "1171",
+      "text": "But the <span class='nog'>LORD</span> was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison.",
+      "plainText": "But the LORD was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "1172",
-      "text" : "And the keeper of the prison committed to Joseph's hand all the prisoners that <span class='extra'>were<\/span> in the prison; and whatsoever they did there, he was the doer <span class='extra'>of it<\/span>.",
-      "plainText" : "And the keeper of the prison committed to Joseph's hand all the prisoners that were in the prison; and whatsoever they did there, he was the doer of it."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "1172",
+      "text": "And the keeper of the prison committed to Joseph's hand all the prisoners that <span class='extra'>were</span> in the prison; and whatsoever they did there, he was the doer <span class='extra'>of it</span>.",
+      "plainText": "And the keeper of the prison committed to Joseph's hand all the prisoners that were in the prison; and whatsoever they did there, he was the doer of it."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "1173",
-      "text" : "The keeper of the prison looked not to any thing <span class='extra'>that was<\/span> under his hand; because the <span class='nog'>LORD<\/span> was with him, and <span class='extra'>that<\/span> which he did, the <span class='nog'>LORD<\/span> made <span class='extra'>it<\/span> to prosper.",
-      "plainText" : "The keeper of the prison looked not to any thing that was under his hand; because the LORD was with him, and that which he did, the LORD made it to prosper."
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "1173",
+      "text": "The keeper of the prison looked not to any thing <span class='extra'>that was</span> under his hand; because the <span class='nog'>LORD</span> was with him, and <span class='extra'>that</span> which he did, the <span class='nog'>LORD</span> made <span class='extra'>it</span> to prosper.",
+      "plainText": "The keeper of the prison looked not to any thing that was under his hand; because the LORD was with him, and that which he did, the LORD made it to prosper."
     }
   ]
 }
-
-

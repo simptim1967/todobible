@@ -1,335 +1,301 @@
 {
   "book": {
-    "number" : "1",
-    "filenamePrefix" : "genesis",
-    "bookPage" : "genesis.html",
-    "title" : "Genesis",
-    "chapterCount" : "50",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "exodus_1.html",
-    "nextTitle" : "Exodus",
-    "prevBook" : "revelation_1.html",
-    "prevTitle" : "Revelation"
+    "number": "1",
+    "filenamePrefix": "genesis",
+    "bookPage": "genesis.html",
+    "title": "Genesis",
+    "chapterCount": "50",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "exodus_1.html",
+    "nextTitle": "Exodus",
+    "prevBook": "revelation_1.html",
+    "prevTitle": "Revelation",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "21",
-    "verseCount" : "34",
-    "nextChapter" : "genesis_22.html",
-    "nextTitle" : "Genesis 22",
-    "prevChapter" : "genesis_20.html",
-    "prevTitle" : "Genesis 20",
-    "filename" : "genesis_21.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "21",
+    "verseCount": "34",
+    "nextChapter": "genesis_22.html",
+    "nextTitle": "Genesis 22",
+    "prevChapter": "genesis_20.html",
+    "prevTitle": "Genesis 20",
+    "filename": "genesis_21.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "515",
-      "text" : "And the <span class='nog'>LORD<\/span> visited Sarah as he had said, and the <span class='nog'>LORD<\/span> did unto Sarah as he had spoken.",
-      "plainText" : "And the LORD visited Sarah as he had said, and the LORD did unto Sarah as he had spoken."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "515",
+      "text": "And the <span class='nog'>LORD</span> visited Sarah as he had said, and the <span class='nog'>LORD</span> did unto Sarah as he had spoken.",
+      "plainText": "And the LORD visited Sarah as he had said, and the LORD did unto Sarah as he had spoken."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "516",
-      "text" : "For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him.",
-      "plainText" : "For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "516",
+      "text": "For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him.",
+      "plainText": "For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "517",
-      "text" : "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac.",
-      "plainText" : "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "517",
+      "text": "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac.",
+      "plainText": "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "518",
-      "text" : "And Abraham circumcised his son Isaac being eight days old, as God had commanded him.",
-      "plainText" : "And Abraham circumcised his son Isaac being eight days old, as God had commanded him."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "518",
+      "text": "And Abraham circumcised his son Isaac being eight days old, as God had commanded him.",
+      "plainText": "And Abraham circumcised his son Isaac being eight days old, as God had commanded him."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "519",
-      "text" : "And Abraham was an hundred years old, when his son Isaac was born unto him.",
-      "plainText" : "And Abraham was an hundred years old, when his son Isaac was born unto him."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "519",
+      "text": "And Abraham was an hundred years old, when his son Isaac was born unto him.",
+      "plainText": "And Abraham was an hundred years old, when his son Isaac was born unto him."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "520",
-      "text" : "And Sarah said, God hath made me to laugh, <span class='extra'>so that<\/span> all that hear will laugh with me.",
-      "plainText" : "And Sarah said, God hath made me to laugh, so that all that hear will laugh with me."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "520",
+      "text": "And Sarah said, God hath made me to laugh, <span class='extra'>so that</span> all that hear will laugh with me.",
+      "plainText": "And Sarah said, God hath made me to laugh, so that all that hear will laugh with me."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "521",
-      "text" : "And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born <span class='extra'>him<\/span> a son in his old age.",
-      "plainText" : "And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born him a son in his old age."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "521",
+      "text": "And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born <span class='extra'>him</span> a son in his old age.",
+      "plainText": "And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born him a son in his old age."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "522",
-      "text" : "And the child grew, and was weaned: and Abraham made a great feast the <span class='extra'>same<\/span> day that Isaac was weaned.",
-      "plainText" : "And the child grew, and was weaned: and Abraham made a great feast the same day that Isaac was weaned."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "522",
+      "text": "And the child grew, and was weaned: and Abraham made a great feast the <span class='extra'>same</span> day that Isaac was weaned.",
+      "plainText": "And the child grew, and was weaned: and Abraham made a great feast the same day that Isaac was weaned."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "523",
-      "text" : "And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking.",
-      "plainText" : "And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "523",
+      "text": "And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking.",
+      "plainText": "And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "524",
-      "text" : "Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, <span class='extra'>even<\/span> with Isaac.",
-      "plainText" : "Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, even with Isaac."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "524",
+      "text": "Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, <span class='extra'>even</span> with Isaac.",
+      "plainText": "Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, even with Isaac."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "525",
-      "text" : "And the thing was very grievous in Abraham's sight because of his son.",
-      "plainText" : "And the thing was very grievous in Abraham's sight because of his son."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "525",
+      "text": "And the thing was very grievous in Abraham's sight because of his son.",
+      "plainText": "And the thing was very grievous in Abraham's sight because of his son."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "526",
-      "text" : "And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called.",
-      "plainText" : "And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "526",
+      "text": "And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called.",
+      "plainText": "And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "527",
-      "text" : "And also of the son of the bondwoman will I make a nation, because he <span class='extra'>is<\/span> thy seed.",
-      "plainText" : "And also of the son of the bondwoman will I make a nation, because he is thy seed."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "527",
+      "text": "And also of the son of the bondwoman will I make a nation, because he <span class='extra'>is</span> thy seed.",
+      "plainText": "And also of the son of the bondwoman will I make a nation, because he is thy seed."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "528",
-      "text" : "And Abraham rose up early in the morning, and took bread, and a bottle of water, and gave <span class='extra'>it<\/span> unto Hagar, putting <span class='extra'>it<\/span> on her shoulder, and the child, and sent her away: and she departed, and wandered in the wilderness of Beer-sheba.",
-      "plainText" : "And Abraham rose up early in the morning, and took bread, and a bottle of water, and gave it unto Hagar, putting it on her shoulder, and the child, and sent her away: and she departed, and wandered in the wilderness of Beer-sheba."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "528",
+      "text": "And Abraham rose up early in the morning, and took bread, and a bottle of water, and gave <span class='extra'>it</span> unto Hagar, putting <span class='extra'>it</span> on her shoulder, and the child, and sent her away: and she departed, and wandered in the wilderness of Beer-sheba.",
+      "plainText": "And Abraham rose up early in the morning, and took bread, and a bottle of water, and gave it unto Hagar, putting it on her shoulder, and the child, and sent her away: and she departed, and wandered in the wilderness of Beer-sheba."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "529",
-      "text" : "And the water was spent in the bottle, and she cast the child under one of the shrubs.",
-      "plainText" : "And the water was spent in the bottle, and she cast the child under one of the shrubs."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "529",
+      "text": "And the water was spent in the bottle, and she cast the child under one of the shrubs.",
+      "plainText": "And the water was spent in the bottle, and she cast the child under one of the shrubs."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "530",
-      "text" : "And she went, and sat her down over against <span class='extra'>him<\/span> a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against <span class='extra'>him<\/span>, and lift up her voice, and wept.",
-      "plainText" : "And she went, and sat her down over against him a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against him, and lift up her voice, and wept."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "530",
+      "text": "And she went, and sat her down over against <span class='extra'>him</span> a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against <span class='extra'>him</span>, and lift up her voice, and wept.",
+      "plainText": "And she went, and sat her down over against him a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against him, and lift up her voice, and wept."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "531",
-      "text" : "And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he <span class='extra'>is<\/span>.",
-      "plainText" : "And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he is."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "531",
+      "text": "And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he <span class='extra'>is</span>.",
+      "plainText": "And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he is."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "532",
-      "text" : "Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation.",
-      "plainText" : "Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "532",
+      "text": "Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation.",
+      "plainText": "Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "533",
-      "text" : "And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink.",
-      "plainText" : "And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "533",
+      "text": "And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink.",
+      "plainText": "And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "534",
-      "text" : "And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer.",
-      "plainText" : "And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "534",
+      "text": "And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer.",
+      "plainText": "And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "535",
-      "text" : "And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt.",
-      "plainText" : "And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "535",
+      "text": "And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt.",
+      "plainText": "And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "536",
-      "text" : "And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God <span class='extra'>is<\/span> with thee in all that thou doest:",
-      "plainText" : "And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God is with thee in all that thou doest:"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "536",
+      "text": "And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God <span class='extra'>is</span> with thee in all that thou doest:",
+      "plainText": "And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God is with thee in all that thou doest:"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "537",
-      "text" : "Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son's son: <span class='extra'>but<\/span> according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned.",
-      "plainText" : "Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son's son: but according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "537",
+      "text": "Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son's son: <span class='extra'>but</span> according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned.",
+      "plainText": "Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son's son: but according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "538",
-      "text" : "And Abraham said, I will swear.",
-      "plainText" : "And Abraham said, I will swear."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "538",
+      "text": "And Abraham said, I will swear.",
+      "plainText": "And Abraham said, I will swear."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "539",
-      "text" : "And Abraham reproved Abimelech because of a well of water, which Abimelech's servants had violently taken away.",
-      "plainText" : "And Abraham reproved Abimelech because of a well of water, which Abimelech's servants had violently taken away."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "539",
+      "text": "And Abraham reproved Abimelech because of a well of water, which Abimelech's servants had violently taken away.",
+      "plainText": "And Abraham reproved Abimelech because of a well of water, which Abimelech's servants had violently taken away."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "540",
-      "text" : "And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I <span class='extra'>of it<\/span>, but to day.",
-      "plainText" : "And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I of it, but to day."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "540",
+      "text": "And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I <span class='extra'>of it</span>, but to day.",
+      "plainText": "And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I of it, but to day."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "541",
-      "text" : "And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant.",
-      "plainText" : "And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "541",
+      "text": "And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant.",
+      "plainText": "And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "542",
-      "text" : "And Abraham set seven ewe lambs of the flock by themselves.",
-      "plainText" : "And Abraham set seven ewe lambs of the flock by themselves."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "542",
+      "text": "And Abraham set seven ewe lambs of the flock by themselves.",
+      "plainText": "And Abraham set seven ewe lambs of the flock by themselves."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "543",
-      "text" : "And Abimelech said unto Abraham, What <span class='extra'>mean<\/span> these seven ewe lambs which thou hast set by themselves?",
-      "plainText" : "And Abimelech said unto Abraham, What mean these seven ewe lambs which thou hast set by themselves?"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "543",
+      "text": "And Abimelech said unto Abraham, What <span class='extra'>mean</span> these seven ewe lambs which thou hast set by themselves?",
+      "plainText": "And Abimelech said unto Abraham, What mean these seven ewe lambs which thou hast set by themselves?"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "544",
-      "text" : "And he said, For <span class='extra'>these<\/span> seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well.",
-      "plainText" : "And he said, For these seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "544",
+      "text": "And he said, For <span class='extra'>these</span> seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well.",
+      "plainText": "And he said, For these seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "545",
-      "text" : "Wherefore he called that place Beer-sheba; because there they sware both of them.",
-      "plainText" : "Wherefore he called that place Beer-sheba; because there they sware both of them."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "545",
+      "text": "Wherefore he called that place Beer-sheba; because there they sware both of them.",
+      "plainText": "Wherefore he called that place Beer-sheba; because there they sware both of them."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "546",
-      "text" : "Thus they made a covenant at Beer-sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines.",
-      "plainText" : "Thus they made a covenant at Beer-sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "546",
+      "text": "Thus they made a covenant at Beer-sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines.",
+      "plainText": "Thus they made a covenant at Beer-sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "547",
-      "text" : "And <span class='extra'>Abraham<\/span> planted a grove in Beer-sheba, and called there on the name of the <span class='nog'>LORD<\/span>, the everlasting God.",
-      "plainText" : "And Abraham planted a grove in Beer-sheba, and called there on the name of the LORD, the everlasting God."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "547",
+      "text": "And <span class='extra'>Abraham</span> planted a grove in Beer-sheba, and called there on the name of the <span class='nog'>LORD</span>, the everlasting God.",
+      "plainText": "And Abraham planted a grove in Beer-sheba, and called there on the name of the LORD, the everlasting God."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "548",
-      "text" : "And Abraham sojourned in the Philistines' land many days.",
-      "plainText" : "And Abraham sojourned in the Philistines' land many days."
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "548",
+      "text": "And Abraham sojourned in the Philistines' land many days.",
+      "plainText": "And Abraham sojourned in the Philistines' land many days."
     }
   ]
 }
-
-

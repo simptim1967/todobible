@@ -1,442 +1,397 @@
 {
   "book": {
-    "number" : "40",
-    "filenamePrefix" : "matthew",
-    "bookPage" : "matthew.html",
-    "title" : "Matthew",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "mark_1.html",
-    "nextTitle" : "Mark",
-    "prevBook" : "malachi_1.html",
-    "prevTitle" : "Malachi"
+    "number": "40",
+    "filenamePrefix": "matthew",
+    "bookPage": "matthew.html",
+    "title": "Matthew",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "mark_1.html",
+    "nextTitle": "Mark",
+    "prevBook": "malachi_1.html",
+    "prevTitle": "Malachi",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "22",
-    "verseCount" : "46",
-    "nextChapter" : "matthew_23.html",
-    "nextTitle" : "Matthew 23",
-    "prevChapter" : "matthew_21.html",
-    "prevTitle" : "Matthew 21",
-    "filename" : "matthew_22.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "22",
+    "verseCount": "46",
+    "nextChapter": "matthew_23.html",
+    "nextTitle": "Matthew 23",
+    "prevChapter": "matthew_21.html",
+    "prevTitle": "Matthew 21",
+    "filename": "matthew_22.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "23874",
-      "text" : "And Jesus answered and spake unto them again by parables, and said,",
-      "plainText" : "And Jesus answered and spake unto them again by parables, and said,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "23874",
+      "text": "And Jesus answered and spake unto them again by parables, and said,",
+      "plainText": "And Jesus answered and spake unto them again by parables, and said,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "23875",
-      "text" : "<span class='woc'>The kingdom of heaven is like unto a certain king, which made a marriage for his son,<\/span>",
-      "plainText" : "The kingdom of heaven is like unto a certain king, which made a marriage for his son,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "23875",
+      "text": "<span class='woc'>The kingdom of heaven is like unto a certain king, which made a marriage for his son,</span>",
+      "plainText": "The kingdom of heaven is like unto a certain king, which made a marriage for his son,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "23876",
-      "text" : "<span class='woc'>And sent forth his servants to call them that were bidden to the wedding: and they would not come.<\/span>",
-      "plainText" : "And sent forth his servants to call them that were bidden to the wedding: and they would not come."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "23876",
+      "text": "<span class='woc'>And sent forth his servants to call them that were bidden to the wedding: and they would not come.</span>",
+      "plainText": "And sent forth his servants to call them that were bidden to the wedding: and they would not come."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "23877",
-      "text" : "<span class='woc'>Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and <span class='extra'>my<\/span> fatlings <span class='extra'>are<\/span> killed, and all things <span class='extra'>are<\/span> ready: come unto the marriage.<\/span>",
-      "plainText" : "Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and my fatlings are killed, and all things are ready: come unto the marriage."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "23877",
+      "text": "<span class='woc'>Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and <span class='extra'>my</span> fatlings <span class='extra'>are</span> killed, and all things <span class='extra'>are</span> ready: come unto the marriage.</span>",
+      "plainText": "Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and my fatlings are killed, and all things are ready: come unto the marriage."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "23878",
-      "text" : "<span class='woc'>But they made light of <span class='extra'>it<\/span>, and went their ways, one to his farm, another to his merchandise:<\/span>",
-      "plainText" : "But they made light of it, and went their ways, one to his farm, another to his merchandise:"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "23878",
+      "text": "<span class='woc'>But they made light of <span class='extra'>it</span>, and went their ways, one to his farm, another to his merchandise:</span>",
+      "plainText": "But they made light of it, and went their ways, one to his farm, another to his merchandise:"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "23879",
-      "text" : "<span class='woc'>And the remnant took his servants, and entreated <span class='extra'>them<\/span> spitefully, and slew <span class='extra'>them<\/span>.<\/span>",
-      "plainText" : "And the remnant took his servants, and entreated them spitefully, and slew them."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "23879",
+      "text": "<span class='woc'>And the remnant took his servants, and entreated <span class='extra'>them</span> spitefully, and slew <span class='extra'>them</span>.</span>",
+      "plainText": "And the remnant took his servants, and entreated them spitefully, and slew them."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "23880",
-      "text" : "<span class='woc'>But when the king heard <span class='extra'>thereof<\/span>, he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city.<\/span>",
-      "plainText" : "But when the king heard thereof, he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "23880",
+      "text": "<span class='woc'>But when the king heard <span class='extra'>thereof</span>, he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city.</span>",
+      "plainText": "But when the king heard thereof, he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "23881",
-      "text" : "<span class='woc'>Then saith he to his servants, The wedding is ready, but they which were bidden were not worthy.<\/span>",
-      "plainText" : "Then saith he to his servants, The wedding is ready, but they which were bidden were not worthy."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "23881",
+      "text": "<span class='woc'>Then saith he to his servants, The wedding is ready, but they which were bidden were not worthy.</span>",
+      "plainText": "Then saith he to his servants, The wedding is ready, but they which were bidden were not worthy."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "23882",
-      "text" : "<span class='woc'>Go ye therefore into the highways, and as many as ye shall find, bid to the marriage.<\/span>",
-      "plainText" : "Go ye therefore into the highways, and as many as ye shall find, bid to the marriage."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "23882",
+      "text": "<span class='woc'>Go ye therefore into the highways, and as many as ye shall find, bid to the marriage.</span>",
+      "plainText": "Go ye therefore into the highways, and as many as ye shall find, bid to the marriage."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "23883",
-      "text" : "<span class='woc'>So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests.<\/span>",
-      "plainText" : "So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "23883",
+      "text": "<span class='woc'>So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests.</span>",
+      "plainText": "So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "23884",
-      "text" : "<span class='woc'>And when the king came in to see the guests, he saw there a man which had not on a wedding garment:<\/span>",
-      "plainText" : "And when the king came in to see the guests, he saw there a man which had not on a wedding garment:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "23884",
+      "text": "<span class='woc'>And when the king came in to see the guests, he saw there a man which had not on a wedding garment:</span>",
+      "plainText": "And when the king came in to see the guests, he saw there a man which had not on a wedding garment:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "23885",
-      "text" : "<span class='woc'>And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless.<\/span>",
-      "plainText" : "And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "23885",
+      "text": "<span class='woc'>And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless.</span>",
+      "plainText": "And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "23886",
-      "text" : "<span class='woc'>Then said the king to the servants, Bind him hand and foot, and take him away, and cast <span class='extra'>him<\/span> into outer darkness; there shall be weeping and gnashing of teeth.<\/span>",
-      "plainText" : "Then said the king to the servants, Bind him hand and foot, and take him away, and cast him into outer darkness; there shall be weeping and gnashing of teeth."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "23886",
+      "text": "<span class='woc'>Then said the king to the servants, Bind him hand and foot, and take him away, and cast <span class='extra'>him</span> into outer darkness; there shall be weeping and gnashing of teeth.</span>",
+      "plainText": "Then said the king to the servants, Bind him hand and foot, and take him away, and cast him into outer darkness; there shall be weeping and gnashing of teeth."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "23887",
-      "text" : "<span class='woc'>For many are called, but few <span class='extra'>are<\/span> chosen.<\/span>",
-      "plainText" : "For many are called, but few are chosen."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "23887",
+      "text": "<span class='woc'>For many are called, but few <span class='extra'>are</span> chosen.</span>",
+      "plainText": "For many are called, but few are chosen."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "23888",
-      "text" : "Then went the Pharisees, and took counsel how they might entangle him in <span class='extra'>his<\/span> talk.",
-      "plainText" : "Then went the Pharisees, and took counsel how they might entangle him in his talk."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "23888",
+      "text": "Then went the Pharisees, and took counsel how they might entangle him in <span class='extra'>his</span> talk.",
+      "plainText": "Then went the Pharisees, and took counsel how they might entangle him in his talk."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "23889",
-      "text" : "And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any <span class='extra'>man<\/span>: for thou regardest not the person of men.",
-      "plainText" : "And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any man: for thou regardest not the person of men."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "23889",
+      "text": "And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any <span class='extra'>man</span>: for thou regardest not the person of men.",
+      "plainText": "And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any man: for thou regardest not the person of men."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "23890",
-      "text" : "Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not?",
-      "plainText" : "Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not?"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "23890",
+      "text": "Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not?",
+      "plainText": "Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not?"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "23891",
-      "text" : "But Jesus perceived their wickedness, and said, <span class='woc'>Why tempt ye me, <span class='extra'>ye<\/span> hypocrites?<\/span>",
-      "plainText" : "But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites?"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "23891",
+      "text": "But Jesus perceived their wickedness, and said, <span class='woc'>Why tempt ye me, <span class='extra'>ye</span> hypocrites?</span>",
+      "plainText": "But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites?"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "23892",
-      "text" : "<span class='woc'>Shew me the tribute money.<\/span> And they brought unto him a penny.",
-      "plainText" : "Shew me the tribute money. And they brought unto him a penny."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "23892",
+      "text": "<span class='woc'>Shew me the tribute money.</span> And they brought unto him a penny.",
+      "plainText": "Shew me the tribute money. And they brought unto him a penny."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "23893",
-      "text" : "And he saith unto them, <span class='woc'>Whose <span class='extra'>is<\/span> this image and superscription?<\/span>",
-      "plainText" : "And he saith unto them, Whose is this image and superscription?"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "23893",
+      "text": "And he saith unto them, <span class='woc'>Whose <span class='extra'>is</span> this image and superscription?</span>",
+      "plainText": "And he saith unto them, Whose is this image and superscription?"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "23894",
-      "text" : "They say unto him, Caesar's. Then saith he unto them, <span class='woc'>Render therefore unto Caesar the things which are Caesar's; and unto God the things that are God's.<\/span>",
-      "plainText" : "They say unto him, Caesar's. Then saith he unto them, Render therefore unto Caesar the things which are Caesar's; and unto God the things that are God's."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "23894",
+      "text": "They say unto him, Caesar's. Then saith he unto them, <span class='woc'>Render therefore unto Caesar the things which are Caesar's; and unto God the things that are God's.</span>",
+      "plainText": "They say unto him, Caesar's. Then saith he unto them, Render therefore unto Caesar the things which are Caesar's; and unto God the things that are God's."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "23895",
-      "text" : "When they had heard <span class='extra'>these words<\/span>, they marvelled, and left him, and went their way.",
-      "plainText" : "When they had heard these words, they marvelled, and left him, and went their way."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "23895",
+      "text": "When they had heard <span class='extra'>these words</span>, they marvelled, and left him, and went their way.",
+      "plainText": "When they had heard these words, they marvelled, and left him, and went their way."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "23896",
-      "text" : "The same day came to him the Sadducees, which say that there is no resurrection, and asked him,",
-      "plainText" : "The same day came to him the Sadducees, which say that there is no resurrection, and asked him,"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "23896",
+      "text": "The same day came to him the Sadducees, which say that there is no resurrection, and asked him,",
+      "plainText": "The same day came to him the Sadducees, which say that there is no resurrection, and asked him,"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "23897",
-      "text" : "Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother.",
-      "plainText" : "Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "23897",
+      "text": "Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother.",
+      "plainText": "Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "23898",
-      "text" : "Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:",
-      "plainText" : "Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "23898",
+      "text": "Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:",
+      "plainText": "Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "23899",
-      "text" : "Likewise the second also, and the third, unto the seventh.",
-      "plainText" : "Likewise the second also, and the third, unto the seventh."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "23899",
+      "text": "Likewise the second also, and the third, unto the seventh.",
+      "plainText": "Likewise the second also, and the third, unto the seventh."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "23900",
-      "text" : "And last of all the woman died also.",
-      "plainText" : "And last of all the woman died also."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "23900",
+      "text": "And last of all the woman died also.",
+      "plainText": "And last of all the woman died also."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "23901",
-      "text" : "Therefore in the resurrection whose wife shall she be of the seven? for they all had her.",
-      "plainText" : "Therefore in the resurrection whose wife shall she be of the seven? for they all had her."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "23901",
+      "text": "Therefore in the resurrection whose wife shall she be of the seven? for they all had her.",
+      "plainText": "Therefore in the resurrection whose wife shall she be of the seven? for they all had her."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "23902",
-      "text" : "Jesus answered and said unto them, <span class='woc'>Ye do err, not knowing the scriptures, nor the power of God.<\/span>",
-      "plainText" : "Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "23902",
+      "text": "Jesus answered and said unto them, <span class='woc'>Ye do err, not knowing the scriptures, nor the power of God.</span>",
+      "plainText": "Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "23903",
-      "text" : "<span class='woc'>For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven.<\/span>",
-      "plainText" : "For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "23903",
+      "text": "<span class='woc'>For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven.</span>",
+      "plainText": "For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "23904",
-      "text" : "<span class='woc'>But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,<\/span>",
-      "plainText" : "But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "23904",
+      "text": "<span class='woc'>But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,</span>",
+      "plainText": "But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "23905",
-      "text" : "<span class='woc'>I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.<\/span>",
-      "plainText" : "I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "23905",
+      "text": "<span class='woc'>I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.</span>",
+      "plainText": "I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "23906",
-      "text" : "And when the multitude heard <span class='extra'>this<\/span>, they were astonished at his doctrine.",
-      "plainText" : "And when the multitude heard this, they were astonished at his doctrine."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "23906",
+      "text": "And when the multitude heard <span class='extra'>this</span>, they were astonished at his doctrine.",
+      "plainText": "And when the multitude heard this, they were astonished at his doctrine."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "23907",
-      "text" : "But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together.",
-      "plainText" : "But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "23907",
+      "text": "But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together.",
+      "plainText": "But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "23908",
-      "text" : "Then one of them, <span class='extra'>which was<\/span> a lawyer, asked <span class='extra'>him a question<\/span>, tempting him, and saying,",
-      "plainText" : "Then one of them, which was a lawyer, asked him a question, tempting him, and saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "23908",
+      "text": "Then one of them, <span class='extra'>which was</span> a lawyer, asked <span class='extra'>him a question</span>, tempting him, and saying,",
+      "plainText": "Then one of them, which was a lawyer, asked him a question, tempting him, and saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "23909",
-      "text" : "Master, which <span class='extra'>is<\/span> the great commandment in the law?",
-      "plainText" : "Master, which is the great commandment in the law?"
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "23909",
+      "text": "Master, which <span class='extra'>is</span> the great commandment in the law?",
+      "plainText": "Master, which is the great commandment in the law?"
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "23910",
-      "text" : "Jesus said unto him, <span class='woc'>Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.<\/span>",
-      "plainText" : "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "23910",
+      "text": "Jesus said unto him, <span class='woc'>Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.</span>",
+      "plainText": "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "23911",
-      "text" : "<span class='woc'>This is the first and great commandment.<\/span>",
-      "plainText" : "This is the first and great commandment."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "23911",
+      "text": "<span class='woc'>This is the first and great commandment.</span>",
+      "plainText": "This is the first and great commandment."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "23912",
-      "text" : "<span class='woc'>And the second <span class='extra'>is<\/span> like unto it, Thou shalt love thy neighbour as thyself.<\/span>",
-      "plainText" : "And the second is like unto it, Thou shalt love thy neighbour as thyself."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "23912",
+      "text": "<span class='woc'>And the second <span class='extra'>is</span> like unto it, Thou shalt love thy neighbour as thyself.</span>",
+      "plainText": "And the second is like unto it, Thou shalt love thy neighbour as thyself."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "23913",
-      "text" : "<span class='woc'>On these two commandments hang all the law and the prophets.<\/span>",
-      "plainText" : "On these two commandments hang all the law and the prophets."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "23913",
+      "text": "<span class='woc'>On these two commandments hang all the law and the prophets.</span>",
+      "plainText": "On these two commandments hang all the law and the prophets."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "23914",
-      "text" : "While the Pharisees were gathered together, Jesus asked them,",
-      "plainText" : "While the Pharisees were gathered together, Jesus asked them,"
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "23914",
+      "text": "While the Pharisees were gathered together, Jesus asked them,",
+      "plainText": "While the Pharisees were gathered together, Jesus asked them,"
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "23915",
-      "text" : "Saying, <span class='woc'>What think ye of Christ? whose son is he?<\/span> They say unto him, <span class='extra'>The Son<\/span> of David.",
-      "plainText" : "Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David."
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "23915",
+      "text": "Saying, <span class='woc'>What think ye of Christ? whose son is he?</span> They say unto him, <span class='extra'>The Son</span> of David.",
+      "plainText": "Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "23916",
-      "text" : "He saith unto them, <span class='woc'>How then doth David in spirit call him Lord, saying,<\/span>",
-      "plainText" : "He saith unto them, How then doth David in spirit call him Lord, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "23916",
+      "text": "He saith unto them, <span class='woc'>How then doth David in spirit call him Lord, saying,</span>",
+      "plainText": "He saith unto them, How then doth David in spirit call him Lord, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "23917",
-      "text" : "<span class='woc'>The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?<\/span>",
-      "plainText" : "The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?"
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "23917",
+      "text": "<span class='woc'>The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?</span>",
+      "plainText": "The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?"
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "23918",
-      "text" : "<span class='woc'>If David then call him Lord, how is he his son?<\/span>",
-      "plainText" : "If David then call him Lord, how is he his son?"
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "23918",
+      "text": "<span class='woc'>If David then call him Lord, how is he his son?</span>",
+      "plainText": "If David then call him Lord, how is he his son?"
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "23919",
-      "text" : "And no man was able to answer him a word, neither durst any <span class='extra'>man<\/span> from that day forth ask him any more <span class='extra'>questions<\/span>.",
-      "plainText" : "And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions."
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "23919",
+      "text": "And no man was able to answer him a word, neither durst any <span class='extra'>man</span> from that day forth ask him any more <span class='extra'>questions</span>.",
+      "plainText": "And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions."
     }
   ]
 }
-

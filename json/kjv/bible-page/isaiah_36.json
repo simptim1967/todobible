@@ -1,227 +1,205 @@
 {
   "book": {
-    "number" : "23",
-    "filenamePrefix" : "isaiah",
-    "bookPage" : "isaiah.html",
-    "title" : "Isaiah",
-    "chapterCount" : "66",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "jeremiah_1.html",
-    "nextTitle" : "Jeremiah",
-    "prevBook" : "song_of_solomon_1.html",
-    "prevTitle" : "Song of Solomon"
+    "number": "23",
+    "filenamePrefix": "isaiah",
+    "bookPage": "isaiah.html",
+    "title": "Isaiah",
+    "chapterCount": "66",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "jeremiah_1.html",
+    "nextTitle": "Jeremiah",
+    "prevBook": "song_of_solomon_1.html",
+    "prevTitle": "Song of Solomon",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "36",
-    "verseCount" : "22",
-    "nextChapter" : "isaiah_37.html",
-    "nextTitle" : "Isaiah 37",
-    "prevChapter" : "isaiah_35.html",
-    "prevTitle" : "Isaiah 35",
-    "filename" : "isaiah_36.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "36",
+    "verseCount": "22",
+    "nextChapter": "isaiah_37.html",
+    "nextTitle": "Isaiah 37",
+    "prevChapter": "isaiah_35.html",
+    "prevTitle": "Isaiah 35",
+    "filename": "isaiah_36.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "18332",
-      "text" : "Now it came to pass in the fourteenth year of king Hezekiah, <span class='extra'>that<\/span> Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them.",
-      "plainText" : "Now it came to pass in the fourteenth year of king Hezekiah, that Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "18332",
+      "text": "Now it came to pass in the fourteenth year of king Hezekiah, <span class='extra'>that</span> Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them.",
+      "plainText": "Now it came to pass in the fourteenth year of king Hezekiah, that Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "18333",
-      "text" : "And the king of Assyria sent Rab-shakeh from Lachish to Jerusalem unto king Hezekiah with a great army. And he stood by the conduit of the upper pool in the highway of the fuller's field.",
-      "plainText" : "And the king of Assyria sent Rab-shakeh from Lachish to Jerusalem unto king Hezekiah with a great army. And he stood by the conduit of the upper pool in the highway of the fuller's field."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "18333",
+      "text": "And the king of Assyria sent Rab-shakeh from Lachish to Jerusalem unto king Hezekiah with a great army. And he stood by the conduit of the upper pool in the highway of the fuller's field.",
+      "plainText": "And the king of Assyria sent Rab-shakeh from Lachish to Jerusalem unto king Hezekiah with a great army. And he stood by the conduit of the upper pool in the highway of the fuller's field."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "18334",
-      "text" : "Then came forth unto him Eliakim, Hilkiah's son, which was over the house, and Shebna the scribe, and Joah, Asaph's son, the recorder.",
-      "plainText" : "Then came forth unto him Eliakim, Hilkiah's son, which was over the house, and Shebna the scribe, and Joah, Asaph's son, the recorder."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "18334",
+      "text": "Then came forth unto him Eliakim, Hilkiah's son, which was over the house, and Shebna the scribe, and Joah, Asaph's son, the recorder.",
+      "plainText": "Then came forth unto him Eliakim, Hilkiah's son, which was over the house, and Shebna the scribe, and Joah, Asaph's son, the recorder."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "18335",
-      "text" : "And Rab-shakeh said unto them, Say ye now to Hezekiah, Thus saith the great king, the king of Assyria, What confidence <span class='extra'>is<\/span> this wherein thou trustest?",
-      "plainText" : "And Rab-shakeh said unto them, Say ye now to Hezekiah, Thus saith the great king, the king of Assyria, What confidence is this wherein thou trustest?"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "18335",
+      "text": "And Rab-shakeh said unto them, Say ye now to Hezekiah, Thus saith the great king, the king of Assyria, What confidence <span class='extra'>is</span> this wherein thou trustest?",
+      "plainText": "And Rab-shakeh said unto them, Say ye now to Hezekiah, Thus saith the great king, the king of Assyria, What confidence is this wherein thou trustest?"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "18336",
-      "text" : "I say, <span class='extra'>sayest thou<\/span>, (but <span class='extra'>they are but<\/span> vain words) <span class='extra'>I have<\/span> counsel and strength for war: now on whom dost thou trust, that thou rebellest against me?",
-      "plainText" : "I say, sayest thou, (but they are but vain words) I have counsel and strength for war: now on whom dost thou trust, that thou rebellest against me?"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "18336",
+      "text": "I say, <span class='extra'>sayest thou</span>, (but <span class='extra'>they are but</span> vain words) <span class='extra'>I have</span> counsel and strength for war: now on whom dost thou trust, that thou rebellest against me?",
+      "plainText": "I say, sayest thou, (but they are but vain words) I have counsel and strength for war: now on whom dost thou trust, that thou rebellest against me?"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "18337",
-      "text" : "Lo, thou trustest in the staff of this broken reed, on Egypt; whereon if a man lean, it will go into his hand, and pierce it: so <span class='extra'>is<\/span> Pharaoh king of Egypt to all that trust in him.",
-      "plainText" : "Lo, thou trustest in the staff of this broken reed, on Egypt; whereon if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt to all that trust in him."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "18337",
+      "text": "Lo, thou trustest in the staff of this broken reed, on Egypt; whereon if a man lean, it will go into his hand, and pierce it: so <span class='extra'>is</span> Pharaoh king of Egypt to all that trust in him.",
+      "plainText": "Lo, thou trustest in the staff of this broken reed, on Egypt; whereon if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt to all that trust in him."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "18338",
-      "text" : "But if thou say to me, We trust in the <span class='nog'>LORD<\/span> our God: <span class='extra'>is it<\/span> not he, whose high places and whose altars Hezekiah hath taken away, and said to Judah and to Jerusalem, Ye shall worship before this altar?",
-      "plainText" : "But if thou say to me, We trust in the LORD our God: is it not he, whose high places and whose altars Hezekiah hath taken away, and said to Judah and to Jerusalem, Ye shall worship before this altar?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "18338",
+      "text": "But if thou say to me, We trust in the <span class='nog'>LORD</span> our God: <span class='extra'>is it</span> not he, whose high places and whose altars Hezekiah hath taken away, and said to Judah and to Jerusalem, Ye shall worship before this altar?",
+      "plainText": "But if thou say to me, We trust in the LORD our God: is it not he, whose high places and whose altars Hezekiah hath taken away, and said to Judah and to Jerusalem, Ye shall worship before this altar?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "18339",
-      "text" : "Now therefore give pledges, I pray thee, to my master the king of Assyria, and I will give thee two thousand horses, if thou be able on thy part to set riders upon them.",
-      "plainText" : "Now therefore give pledges, I pray thee, to my master the king of Assyria, and I will give thee two thousand horses, if thou be able on thy part to set riders upon them."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "18339",
+      "text": "Now therefore give pledges, I pray thee, to my master the king of Assyria, and I will give thee two thousand horses, if thou be able on thy part to set riders upon them.",
+      "plainText": "Now therefore give pledges, I pray thee, to my master the king of Assyria, and I will give thee two thousand horses, if thou be able on thy part to set riders upon them."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "18340",
-      "text" : "How then wilt thou turn away the face of one captain of the least of my master's servants, and put thy trust on Egypt for chariots and for horsemen?",
-      "plainText" : "How then wilt thou turn away the face of one captain of the least of my master's servants, and put thy trust on Egypt for chariots and for horsemen?"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "18340",
+      "text": "How then wilt thou turn away the face of one captain of the least of my master's servants, and put thy trust on Egypt for chariots and for horsemen?",
+      "plainText": "How then wilt thou turn away the face of one captain of the least of my master's servants, and put thy trust on Egypt for chariots and for horsemen?"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "18341",
-      "text" : "And am I now come up without the <span class='nog'>LORD<\/span> against this land to destroy it? the <span class='nog'>LORD<\/span> said unto me, Go up against this land, and destroy it.",
-      "plainText" : "And am I now come up without the LORD against this land to destroy it? the LORD said unto me, Go up against this land, and destroy it."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "18341",
+      "text": "And am I now come up without the <span class='nog'>LORD</span> against this land to destroy it? the <span class='nog'>LORD</span> said unto me, Go up against this land, and destroy it.",
+      "plainText": "And am I now come up without the LORD against this land to destroy it? the LORD said unto me, Go up against this land, and destroy it."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "18342",
-      "text" : "Then said Eliakim and Shebna and Joah unto Rab-shakeh, Speak, I pray thee, unto thy servants in the Syrian language; for we understand <span class='extra'>it<\/span>: and speak not to us in the Jews' language, in the ears of the people that <span class='extra'>are<\/span> on the wall.",
-      "plainText" : "Then said Eliakim and Shebna and Joah unto Rab-shakeh, Speak, I pray thee, unto thy servants in the Syrian language; for we understand it: and speak not to us in the Jews' language, in the ears of the people that are on the wall."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "18342",
+      "text": "Then said Eliakim and Shebna and Joah unto Rab-shakeh, Speak, I pray thee, unto thy servants in the Syrian language; for we understand <span class='extra'>it</span>: and speak not to us in the Jews' language, in the ears of the people that <span class='extra'>are</span> on the wall.",
+      "plainText": "Then said Eliakim and Shebna and Joah unto Rab-shakeh, Speak, I pray thee, unto thy servants in the Syrian language; for we understand it: and speak not to us in the Jews' language, in the ears of the people that are on the wall."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "18343",
-      "text" : "But Rab-shakeh said, Hath my master sent me to thy master and to thee to speak these words? <span class='extra'>hath he<\/span> not <span class='extra'>sent me<\/span> to the men that sit upon the wall, that they may eat their own dung, and drink their own piss with you?",
-      "plainText" : "But Rab-shakeh said, Hath my master sent me to thy master and to thee to speak these words? hath he not sent me to the men that sit upon the wall, that they may eat their own dung, and drink their own piss with you?"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "18343",
+      "text": "But Rab-shakeh said, Hath my master sent me to thy master and to thee to speak these words? <span class='extra'>hath he</span> not <span class='extra'>sent me</span> to the men that sit upon the wall, that they may eat their own dung, and drink their own piss with you?",
+      "plainText": "But Rab-shakeh said, Hath my master sent me to thy master and to thee to speak these words? hath he not sent me to the men that sit upon the wall, that they may eat their own dung, and drink their own piss with you?"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "18344",
-      "text" : "Then Rab-shakeh stood, and cried with a loud voice in the Jews' language, and said, Hear ye the words of the great king, the king of Assyria.",
-      "plainText" : "Then Rab-shakeh stood, and cried with a loud voice in the Jews' language, and said, Hear ye the words of the great king, the king of Assyria."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "18344",
+      "text": "Then Rab-shakeh stood, and cried with a loud voice in the Jews' language, and said, Hear ye the words of the great king, the king of Assyria.",
+      "plainText": "Then Rab-shakeh stood, and cried with a loud voice in the Jews' language, and said, Hear ye the words of the great king, the king of Assyria."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "18345",
-      "text" : "Thus saith the king, Let not Hezekiah deceive you: for he shall not be able to deliver you.",
-      "plainText" : "Thus saith the king, Let not Hezekiah deceive you: for he shall not be able to deliver you."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "18345",
+      "text": "Thus saith the king, Let not Hezekiah deceive you: for he shall not be able to deliver you.",
+      "plainText": "Thus saith the king, Let not Hezekiah deceive you: for he shall not be able to deliver you."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "18346",
-      "text" : "Neither let Hezekiah make you trust in the <span class='nog'>LORD<\/span>, saying, The <span class='nog'>LORD<\/span> will surely deliver us: this city shall not be delivered into the hand of the king of Assyria.",
-      "plainText" : "Neither let Hezekiah make you trust in the LORD, saying, The LORD will surely deliver us: this city shall not be delivered into the hand of the king of Assyria."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "18346",
+      "text": "Neither let Hezekiah make you trust in the <span class='nog'>LORD</span>, saying, The <span class='nog'>LORD</span> will surely deliver us: this city shall not be delivered into the hand of the king of Assyria.",
+      "plainText": "Neither let Hezekiah make you trust in the LORD, saying, The LORD will surely deliver us: this city shall not be delivered into the hand of the king of Assyria."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "18347",
-      "text" : "Hearken not to Hezekiah: for thus saith the king of Assyria, Make <span class='extra'>an agreement<\/span> with me <span class='extra'>by<\/span> a present, and come out to me: and eat ye every one of his vine, and every one of his fig tree, and drink ye every one the waters of his own cistern;",
-      "plainText" : "Hearken not to Hezekiah: for thus saith the king of Assyria, Make an agreement with me by a present, and come out to me: and eat ye every one of his vine, and every one of his fig tree, and drink ye every one the waters of his own cistern;"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "18347",
+      "text": "Hearken not to Hezekiah: for thus saith the king of Assyria, Make <span class='extra'>an agreement</span> with me <span class='extra'>by</span> a present, and come out to me: and eat ye every one of his vine, and every one of his fig tree, and drink ye every one the waters of his own cistern;",
+      "plainText": "Hearken not to Hezekiah: for thus saith the king of Assyria, Make an agreement with me by a present, and come out to me: and eat ye every one of his vine, and every one of his fig tree, and drink ye every one the waters of his own cistern;"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "18348",
-      "text" : "Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards.",
-      "plainText" : "Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "18348",
+      "text": "Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards.",
+      "plainText": "Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "18349",
-      "text" : "<span class='extra'>Beware<\/span> lest Hezekiah persuade you, saying, The <span class='nog'>LORD<\/span> will deliver us. Hath any of the gods of the nations delivered his land out of the hand of the king of Assyria?",
-      "plainText" : "Beware lest Hezekiah persuade you, saying, The LORD will deliver us. Hath any of the gods of the nations delivered his land out of the hand of the king of Assyria?"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "18349",
+      "text": "<span class='extra'>Beware</span> lest Hezekiah persuade you, saying, The <span class='nog'>LORD</span> will deliver us. Hath any of the gods of the nations delivered his land out of the hand of the king of Assyria?",
+      "plainText": "Beware lest Hezekiah persuade you, saying, The LORD will deliver us. Hath any of the gods of the nations delivered his land out of the hand of the king of Assyria?"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "18350",
-      "text" : "Where <span class='extra'>are<\/span> the gods of Hamath and Arphad? where <span class='extra'>are<\/span> the gods of Sepharvaim? and have they delivered Samaria out of my hand?",
-      "plainText" : "Where are the gods of Hamath and Arphad? where are the gods of Sepharvaim? and have they delivered Samaria out of my hand?"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "18350",
+      "text": "Where <span class='extra'>are</span> the gods of Hamath and Arphad? where <span class='extra'>are</span> the gods of Sepharvaim? and have they delivered Samaria out of my hand?",
+      "plainText": "Where are the gods of Hamath and Arphad? where are the gods of Sepharvaim? and have they delivered Samaria out of my hand?"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "18351",
-      "text" : "Who <span class='extra'>are they<\/span> among all the gods of these lands, that have delivered their land out of my hand, that the <span class='nog'>LORD<\/span> should deliver Jerusalem out of my hand?",
-      "plainText" : "Who are they among all the gods of these lands, that have delivered their land out of my hand, that the LORD should deliver Jerusalem out of my hand?"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "18351",
+      "text": "Who <span class='extra'>are they</span> among all the gods of these lands, that have delivered their land out of my hand, that the <span class='nog'>LORD</span> should deliver Jerusalem out of my hand?",
+      "plainText": "Who are they among all the gods of these lands, that have delivered their land out of my hand, that the LORD should deliver Jerusalem out of my hand?"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "18352",
-      "text" : "But they held their peace, and answered him not a word: for the king's commandment was, saying, Answer him not.",
-      "plainText" : "But they held their peace, and answered him not a word: for the king's commandment was, saying, Answer him not."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "18352",
+      "text": "But they held their peace, and answered him not a word: for the king's commandment was, saying, Answer him not.",
+      "plainText": "But they held their peace, and answered him not a word: for the king's commandment was, saying, Answer him not."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "18353",
-      "text" : "Then came Eliakim, the son of Hilkiah, that <span class='extra'>was<\/span> over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, to Hezekiah with <span class='extra'>their<\/span> clothes rent, and told him the words of Rab-shakeh.",
-      "plainText" : "Then came Eliakim, the son of Hilkiah, that was over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, to Hezekiah with their clothes rent, and told him the words of Rab-shakeh."
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "18353",
+      "text": "Then came Eliakim, the son of Hilkiah, that <span class='extra'>was</span> over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, to Hezekiah with <span class='extra'>their</span> clothes rent, and told him the words of Rab-shakeh.",
+      "plainText": "Then came Eliakim, the son of Hilkiah, that was over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, to Hezekiah with their clothes rent, and told him the words of Rab-shakeh."
     }
   ]
 }
-
-

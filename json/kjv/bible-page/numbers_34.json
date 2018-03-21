@@ -1,290 +1,261 @@
 {
   "book": {
-    "number" : "4",
-    "filenamePrefix" : "numbers",
-    "bookPage" : "numbers.html",
-    "title" : "Numbers",
-    "chapterCount" : "36",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "deuteronomy_1.html",
-    "nextTitle" : "Deuteronomy",
-    "prevBook" : "leviticus_1.html",
-    "prevTitle" : "Leviticus"
+    "number": "4",
+    "filenamePrefix": "numbers",
+    "bookPage": "numbers.html",
+    "title": "Numbers",
+    "chapterCount": "36",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "deuteronomy_1.html",
+    "nextTitle": "Deuteronomy",
+    "prevBook": "leviticus_1.html",
+    "prevTitle": "Leviticus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "34",
-    "verseCount" : "29",
-    "nextChapter" : "numbers_35.html",
-    "nextTitle" : "Numbers 35",
-    "prevChapter" : "numbers_33.html",
-    "prevTitle" : "Numbers 33",
-    "filename" : "numbers_34.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "34",
+    "verseCount": "29",
+    "nextChapter": "numbers_35.html",
+    "nextTitle": "Numbers 35",
+    "prevChapter": "numbers_33.html",
+    "prevTitle": "Numbers 33",
+    "filename": "numbers_34.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "4818",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "4818",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "4819",
-      "text" : "Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this <span class='extra'>is<\/span> the land that shall fall unto you for an inheritance, <span class='extra'>even<\/span> the land of Canaan with the coasts thereof:)",
-      "plainText" : "Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this is the land that shall fall unto you for an inheritance, even the land of Canaan with the coasts thereof:)"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "4819",
+      "text": "Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this <span class='extra'>is</span> the land that shall fall unto you for an inheritance, <span class='extra'>even</span> the land of Canaan with the coasts thereof:)",
+      "plainText": "Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this is the land that shall fall unto you for an inheritance, even the land of Canaan with the coasts thereof:)"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "4820",
-      "text" : "Then your south quarter shall be from the wilderness of Zin along by the coast of Edom, and your south border shall be the outmost coast of the salt sea eastward:",
-      "plainText" : "Then your south quarter shall be from the wilderness of Zin along by the coast of Edom, and your south border shall be the outmost coast of the salt sea eastward:"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "4820",
+      "text": "Then your south quarter shall be from the wilderness of Zin along by the coast of Edom, and your south border shall be the outmost coast of the salt sea eastward:",
+      "plainText": "Then your south quarter shall be from the wilderness of Zin along by the coast of Edom, and your south border shall be the outmost coast of the salt sea eastward:"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "4821",
-      "text" : "And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadesh-barnea, and shall go on to Hazar-addar, and pass on to Azmon:",
-      "plainText" : "And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadesh-barnea, and shall go on to Hazar-addar, and pass on to Azmon:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "4821",
+      "text": "And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadesh-barnea, and shall go on to Hazar-addar, and pass on to Azmon:",
+      "plainText": "And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadesh-barnea, and shall go on to Hazar-addar, and pass on to Azmon:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "4822",
-      "text" : "And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea.",
-      "plainText" : "And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "4822",
+      "text": "And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea.",
+      "plainText": "And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "4823",
-      "text" : "And <span class='extra'>as for<\/span> the western border, ye shall even have the great sea for a border: this shall be your west border.",
-      "plainText" : "And as for the western border, ye shall even have the great sea for a border: this shall be your west border."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "4823",
+      "text": "And <span class='extra'>as for</span> the western border, ye shall even have the great sea for a border: this shall be your west border.",
+      "plainText": "And as for the western border, ye shall even have the great sea for a border: this shall be your west border."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "4824",
-      "text" : "And this shall be your north border: from the great sea ye shall point out for you mount Hor:",
-      "plainText" : "And this shall be your north border: from the great sea ye shall point out for you mount Hor:"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "4824",
+      "text": "And this shall be your north border: from the great sea ye shall point out for you mount Hor:",
+      "plainText": "And this shall be your north border: from the great sea ye shall point out for you mount Hor:"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "4825",
-      "text" : "From mount Hor ye shall point out <span class='extra'>your border<\/span> unto the entrance of Hamath; and the goings forth of the border shall be to Zedad:",
-      "plainText" : "From mount Hor ye shall point out your border unto the entrance of Hamath; and the goings forth of the border shall be to Zedad:"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "4825",
+      "text": "From mount Hor ye shall point out <span class='extra'>your border</span> unto the entrance of Hamath; and the goings forth of the border shall be to Zedad:",
+      "plainText": "From mount Hor ye shall point out your border unto the entrance of Hamath; and the goings forth of the border shall be to Zedad:"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "4826",
-      "text" : "And the border shall go on to Ziphron, and the goings out of it shall be at Hazar-enan: this shall be your north border.",
-      "plainText" : "And the border shall go on to Ziphron, and the goings out of it shall be at Hazar-enan: this shall be your north border."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "4826",
+      "text": "And the border shall go on to Ziphron, and the goings out of it shall be at Hazar-enan: this shall be your north border.",
+      "plainText": "And the border shall go on to Ziphron, and the goings out of it shall be at Hazar-enan: this shall be your north border."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "4827",
-      "text" : "And ye shall point out your east border from Hazar-enan to Shepham:",
-      "plainText" : "And ye shall point out your east border from Hazar-enan to Shepham:"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "4827",
+      "text": "And ye shall point out your east border from Hazar-enan to Shepham:",
+      "plainText": "And ye shall point out your east border from Hazar-enan to Shepham:"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "4828",
-      "text" : "And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:",
-      "plainText" : "And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "4828",
+      "text": "And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:",
+      "plainText": "And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "4829",
-      "text" : "And the border shall go down to Jordan, and the goings out of it shall be at the salt sea: this shall be your land with the coasts thereof round about.",
-      "plainText" : "And the border shall go down to Jordan, and the goings out of it shall be at the salt sea: this shall be your land with the coasts thereof round about."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "4829",
+      "text": "And the border shall go down to Jordan, and the goings out of it shall be at the salt sea: this shall be your land with the coasts thereof round about.",
+      "plainText": "And the border shall go down to Jordan, and the goings out of it shall be at the salt sea: this shall be your land with the coasts thereof round about."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "4830",
-      "text" : "And Moses commanded the children of Israel, saying, This <span class='extra'>is<\/span> the land which ye shall inherit by lot, which the <span class='nog'>LORD<\/span> commanded to give unto the nine tribes, and to the half tribe:",
-      "plainText" : "And Moses commanded the children of Israel, saying, This is the land which ye shall inherit by lot, which the LORD commanded to give unto the nine tribes, and to the half tribe:"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "4830",
+      "text": "And Moses commanded the children of Israel, saying, This <span class='extra'>is</span> the land which ye shall inherit by lot, which the <span class='nog'>LORD</span> commanded to give unto the nine tribes, and to the half tribe:",
+      "plainText": "And Moses commanded the children of Israel, saying, This is the land which ye shall inherit by lot, which the LORD commanded to give unto the nine tribes, and to the half tribe:"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "4831",
-      "text" : "For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received <span class='extra'>their inheritance<\/span>; and half the tribe of Manasseh have received their inheritance:",
-      "plainText" : "For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received their inheritance; and half the tribe of Manasseh have received their inheritance:"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "4831",
+      "text": "For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received <span class='extra'>their inheritance</span>; and half the tribe of Manasseh have received their inheritance:",
+      "plainText": "For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received their inheritance; and half the tribe of Manasseh have received their inheritance:"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "4832",
-      "text" : "The two tribes and the half tribe have received their inheritance on this side Jordan <span class='extra'>near<\/span> Jericho eastward, toward the sunrising.",
-      "plainText" : "The two tribes and the half tribe have received their inheritance on this side Jordan near Jericho eastward, toward the sunrising."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "4832",
+      "text": "The two tribes and the half tribe have received their inheritance on this side Jordan <span class='extra'>near</span> Jericho eastward, toward the sunrising.",
+      "plainText": "The two tribes and the half tribe have received their inheritance on this side Jordan near Jericho eastward, toward the sunrising."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "4833",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "4833",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "4834",
-      "text" : "These <span class='extra'>are<\/span> the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun.",
-      "plainText" : "These are the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "4834",
+      "text": "These <span class='extra'>are</span> the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun.",
+      "plainText": "These are the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "4835",
-      "text" : "And ye shall take one prince of every tribe, to divide the land by inheritance.",
-      "plainText" : "And ye shall take one prince of every tribe, to divide the land by inheritance."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "4835",
+      "text": "And ye shall take one prince of every tribe, to divide the land by inheritance.",
+      "plainText": "And ye shall take one prince of every tribe, to divide the land by inheritance."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "4836",
-      "text" : "And the names of the men <span class='extra'>are<\/span> these: Of the tribe of Judah, Caleb the son of Jephunneh.",
-      "plainText" : "And the names of the men are these: Of the tribe of Judah, Caleb the son of Jephunneh."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "4836",
+      "text": "And the names of the men <span class='extra'>are</span> these: Of the tribe of Judah, Caleb the son of Jephunneh.",
+      "plainText": "And the names of the men are these: Of the tribe of Judah, Caleb the son of Jephunneh."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "4837",
-      "text" : "And of the tribe of the children of Simeon, Shemuel the son of Ammihud.",
-      "plainText" : "And of the tribe of the children of Simeon, Shemuel the son of Ammihud."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "4837",
+      "text": "And of the tribe of the children of Simeon, Shemuel the son of Ammihud.",
+      "plainText": "And of the tribe of the children of Simeon, Shemuel the son of Ammihud."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "4838",
-      "text" : "Of the tribe of Benjamin, Elidad the son of Chislon.",
-      "plainText" : "Of the tribe of Benjamin, Elidad the son of Chislon."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "4838",
+      "text": "Of the tribe of Benjamin, Elidad the son of Chislon.",
+      "plainText": "Of the tribe of Benjamin, Elidad the son of Chislon."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "4839",
-      "text" : "And the prince of the tribe of the children of Dan, Bukki the son of Jogli.",
-      "plainText" : "And the prince of the tribe of the children of Dan, Bukki the son of Jogli."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "4839",
+      "text": "And the prince of the tribe of the children of Dan, Bukki the son of Jogli.",
+      "plainText": "And the prince of the tribe of the children of Dan, Bukki the son of Jogli."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "4840",
-      "text" : "The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod.",
-      "plainText" : "The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "4840",
+      "text": "The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod.",
+      "plainText": "The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "4841",
-      "text" : "And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan.",
-      "plainText" : "And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "4841",
+      "text": "And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan.",
+      "plainText": "And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "4842",
-      "text" : "And the prince of the tribe of the children of Zebulun, Elizaphan the son of Parnach.",
-      "plainText" : "And the prince of the tribe of the children of Zebulun, Elizaphan the son of Parnach."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "4842",
+      "text": "And the prince of the tribe of the children of Zebulun, Elizaphan the son of Parnach.",
+      "plainText": "And the prince of the tribe of the children of Zebulun, Elizaphan the son of Parnach."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "4843",
-      "text" : "And the prince of the tribe of the children of Issachar, Paltiel the son of Azzan.",
-      "plainText" : "And the prince of the tribe of the children of Issachar, Paltiel the son of Azzan."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "4843",
+      "text": "And the prince of the tribe of the children of Issachar, Paltiel the son of Azzan.",
+      "plainText": "And the prince of the tribe of the children of Issachar, Paltiel the son of Azzan."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "4844",
-      "text" : "And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi.",
-      "plainText" : "And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "4844",
+      "text": "And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi.",
+      "plainText": "And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "4845",
-      "text" : "And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud.",
-      "plainText" : "And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "4845",
+      "text": "And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud.",
+      "plainText": "And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "4846",
-      "text" : "These <span class='extra'>are they<\/span> whom the <span class='nog'>LORD<\/span> commanded to divide the inheritance unto the children of Israel in the land of Canaan.",
-      "plainText" : "These are they whom the LORD commanded to divide the inheritance unto the children of Israel in the land of Canaan."
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "4846",
+      "text": "These <span class='extra'>are they</span> whom the <span class='nog'>LORD</span> commanded to divide the inheritance unto the children of Israel in the land of Canaan.",
+      "plainText": "These are they whom the LORD commanded to divide the inheritance unto the children of Israel in the land of Canaan."
     }
   ]
 }
-
-

@@ -1,264 +1,237 @@
 {
   "book": {
-    "number" : "23",
-    "filenamePrefix" : "isaiah",
-    "bookPage" : "isaiah.html",
-    "title" : "Isaiah",
-    "chapterCount" : "66",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "jeremiah_1.html",
-    "nextTitle" : "Jeremiah",
-    "prevBook" : "song_of_solomon_1.html",
-    "prevTitle" : "Song of Solomon"
+    "number": "23",
+    "filenamePrefix": "isaiah",
+    "bookPage": "isaiah.html",
+    "title": "Isaiah",
+    "chapterCount": "66",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "jeremiah_1.html",
+    "nextTitle": "Jeremiah",
+    "prevBook": "song_of_solomon_1.html",
+    "prevTitle": "Song of Solomon",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "3",
-    "verseCount" : "26",
-    "nextChapter" : "isaiah_4.html",
-    "nextTitle" : "Isaiah 4",
-    "prevChapter" : "isaiah_2.html",
-    "prevTitle" : "Isaiah 2",
-    "filename" : "isaiah_3.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "3",
+    "verseCount": "26",
+    "nextChapter": "isaiah_4.html",
+    "nextTitle": "Isaiah 4",
+    "prevChapter": "isaiah_2.html",
+    "prevTitle": "Isaiah 2",
+    "filename": "isaiah_3.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "17709",
-      "text" : "For, behold, the Lord, the <span class='nog'>LORD<\/span> of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water,",
-      "plainText" : "For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "17709",
+      "text": "For, behold, the Lord, the <span class='nog'>LORD</span> of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water,",
+      "plainText": "For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "17710",
-      "text" : "The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,",
-      "plainText" : "The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "17710",
+      "text": "The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,",
+      "plainText": "The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "17711",
-      "text" : "The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator.",
-      "plainText" : "The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "17711",
+      "text": "The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator.",
+      "plainText": "The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "17712",
-      "text" : "And I will give children <span class='extra'>to be<\/span> their princes, and babes shall rule over them.",
-      "plainText" : "And I will give children to be their princes, and babes shall rule over them."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "17712",
+      "text": "And I will give children <span class='extra'>to be</span> their princes, and babes shall rule over them.",
+      "plainText": "And I will give children to be their princes, and babes shall rule over them."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "17713",
-      "text" : "And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable.",
-      "plainText" : "And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "17713",
+      "text": "And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable.",
+      "plainText": "And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "17714",
-      "text" : "When a man shall take hold of his brother of the house of his father, <span class='extra'>saying<\/span>, Thou hast clothing, be thou our ruler, and <span class='extra'>let<\/span> this ruin <span class='extra'>be<\/span> under thy hand:",
-      "plainText" : "When a man shall take hold of his brother of the house of his father, saying, Thou hast clothing, be thou our ruler, and let this ruin be under thy hand:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "17714",
+      "text": "When a man shall take hold of his brother of the house of his father, <span class='extra'>saying</span>, Thou hast clothing, be thou our ruler, and <span class='extra'>let</span> this ruin <span class='extra'>be</span> under thy hand:",
+      "plainText": "When a man shall take hold of his brother of the house of his father, saying, Thou hast clothing, be thou our ruler, and let this ruin be under thy hand:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "17715",
-      "text" : "In that day shall he swear, saying, I will not be an healer; for in my house <span class='extra'>is<\/span> neither bread nor clothing: make me not a ruler of the people.",
-      "plainText" : "In that day shall he swear, saying, I will not be an healer; for in my house is neither bread nor clothing: make me not a ruler of the people."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "17715",
+      "text": "In that day shall he swear, saying, I will not be an healer; for in my house <span class='extra'>is</span> neither bread nor clothing: make me not a ruler of the people.",
+      "plainText": "In that day shall he swear, saying, I will not be an healer; for in my house is neither bread nor clothing: make me not a ruler of the people."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "17716",
-      "text" : "For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings <span class='extra'>are<\/span> against the <span class='nog'>LORD<\/span>, to provoke the eyes of his glory.",
-      "plainText" : "For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the LORD, to provoke the eyes of his glory."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "17716",
+      "text": "For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings <span class='extra'>are</span> against the <span class='nog'>LORD</span>, to provoke the eyes of his glory.",
+      "plainText": "For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the LORD, to provoke the eyes of his glory."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "17717",
-      "text" : "The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide <span class='extra'>it<\/span> not. Woe unto their soul! for they have rewarded evil unto themselves.",
-      "plainText" : "The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "17717",
+      "text": "The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide <span class='extra'>it</span> not. Woe unto their soul! for they have rewarded evil unto themselves.",
+      "plainText": "The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "17718",
-      "text" : "Say ye to the righteous, that <span class='extra'>it shall be<\/span> well <span class='extra'>with him<\/span>: for they shall eat the fruit of their doings.",
-      "plainText" : "Say ye to the righteous, that it shall be well with him: for they shall eat the fruit of their doings."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "17718",
+      "text": "Say ye to the righteous, that <span class='extra'>it shall be</span> well <span class='extra'>with him</span>: for they shall eat the fruit of their doings.",
+      "plainText": "Say ye to the righteous, that it shall be well with him: for they shall eat the fruit of their doings."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "17719",
-      "text" : "Woe unto the wicked! <span class='extra'>it shall be<\/span> ill <span class='extra'>with him<\/span>: for the reward of his hands shall be given him.",
-      "plainText" : "Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "17719",
+      "text": "Woe unto the wicked! <span class='extra'>it shall be</span> ill <span class='extra'>with him</span>: for the reward of his hands shall be given him.",
+      "plainText": "Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "17720",
-      "text" : "<span class='extra'>As for<\/span> my people, children <span class='extra'>are<\/span> their oppressors, and women rule over them. O my people, they which lead thee cause <span class='extra'>thee<\/span> to err, and destroy the way of thy paths.",
-      "plainText" : "As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "17720",
+      "text": "<span class='extra'>As for</span> my people, children <span class='extra'>are</span> their oppressors, and women rule over them. O my people, they which lead thee cause <span class='extra'>thee</span> to err, and destroy the way of thy paths.",
+      "plainText": "As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "17721",
-      "text" : "The <span class='nog'>LORD<\/span> standeth up to plead, and standeth to judge the people.",
-      "plainText" : "The LORD standeth up to plead, and standeth to judge the people."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "17721",
+      "text": "The <span class='nog'>LORD</span> standeth up to plead, and standeth to judge the people.",
+      "plainText": "The LORD standeth up to plead, and standeth to judge the people."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "17722",
-      "text" : "The <span class='nog'>LORD<\/span> will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor <span class='extra'>is<\/span> in your houses.",
-      "plainText" : "The LORD will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor is in your houses."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "17722",
+      "text": "The <span class='nog'>LORD</span> will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor <span class='extra'>is</span> in your houses.",
+      "plainText": "The LORD will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor is in your houses."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "17723",
-      "text" : "What mean ye <span class='extra'>that<\/span> ye beat my people to pieces, and grind the faces of the poor? saith the Lord <span class='nog'>GOD<\/span> of hosts.",
-      "plainText" : "What mean ye that ye beat my people to pieces, and grind the faces of the poor? saith the Lord GOD of hosts."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "17723",
+      "text": "What mean ye <span class='extra'>that</span> ye beat my people to pieces, and grind the faces of the poor? saith the Lord <span class='nog'>GOD</span> of hosts.",
+      "plainText": "What mean ye that ye beat my people to pieces, and grind the faces of the poor? saith the Lord GOD of hosts."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "17724",
-      "text" : "Moreover the <span class='nog'>LORD<\/span> saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing <span class='extra'>as<\/span> they go, and making a tinkling with their feet:",
-      "plainText" : "Moreover the LORD saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "17724",
+      "text": "Moreover the <span class='nog'>LORD</span> saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing <span class='extra'>as</span> they go, and making a tinkling with their feet:",
+      "plainText": "Moreover the LORD saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "17725",
-      "text" : "Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the <span class='nog'>LORD<\/span> will discover their secret parts.",
-      "plainText" : "Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the LORD will discover their secret parts."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "17725",
+      "text": "Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the <span class='nog'>LORD</span> will discover their secret parts.",
+      "plainText": "Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the LORD will discover their secret parts."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "17726",
-      "text" : "In that day the Lord will take away the bravery of <span class='extra'>their<\/span> tinkling ornaments <span class='extra'>about their feet<\/span>, and <span class='extra'>their<\/span> cauls, and <span class='extra'>their<\/span> round tires like the moon,",
-      "plainText" : "In that day the Lord will take away the bravery of their tinkling ornaments about their feet, and their cauls, and their round tires like the moon,"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "17726",
+      "text": "In that day the Lord will take away the bravery of <span class='extra'>their</span> tinkling ornaments <span class='extra'>about their feet</span>, and <span class='extra'>their</span> cauls, and <span class='extra'>their</span> round tires like the moon,",
+      "plainText": "In that day the Lord will take away the bravery of their tinkling ornaments about their feet, and their cauls, and their round tires like the moon,"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "17727",
-      "text" : "The chains, and the bracelets, and the mufflers,",
-      "plainText" : "The chains, and the bracelets, and the mufflers,"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "17727",
+      "text": "The chains, and the bracelets, and the mufflers,",
+      "plainText": "The chains, and the bracelets, and the mufflers,"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "17728",
-      "text" : "The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,",
-      "plainText" : "The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "17728",
+      "text": "The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,",
+      "plainText": "The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "17729",
-      "text" : "The rings, and nose jewels,",
-      "plainText" : "The rings, and nose jewels,"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "17729",
+      "text": "The rings, and nose jewels,",
+      "plainText": "The rings, and nose jewels,"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "17730",
-      "text" : "The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,",
-      "plainText" : "The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "17730",
+      "text": "The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,",
+      "plainText": "The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "17731",
-      "text" : "The glasses, and the fine linen, and the hoods, and the vails.",
-      "plainText" : "The glasses, and the fine linen, and the hoods, and the vails."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "17731",
+      "text": "The glasses, and the fine linen, and the hoods, and the vails.",
+      "plainText": "The glasses, and the fine linen, and the hoods, and the vails."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "17732",
-      "text" : "And it shall come to pass, <span class='extra'>that<\/span> instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; <span class='extra'>and<\/span> burning instead of beauty.",
-      "plainText" : "And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; and burning instead of beauty."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "17732",
+      "text": "And it shall come to pass, <span class='extra'>that</span> instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; <span class='extra'>and</span> burning instead of beauty.",
+      "plainText": "And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; and burning instead of beauty."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "17733",
-      "text" : "Thy men shall fall by the sword, and thy mighty in the war.",
-      "plainText" : "Thy men shall fall by the sword, and thy mighty in the war."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "17733",
+      "text": "Thy men shall fall by the sword, and thy mighty in the war.",
+      "plainText": "Thy men shall fall by the sword, and thy mighty in the war."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "17734",
-      "text" : "And her gates shall lament and mourn; and she <span class='extra'>being<\/span> desolate shall sit upon the ground.",
-      "plainText" : "And her gates shall lament and mourn; and she being desolate shall sit upon the ground."
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "17734",
+      "text": "And her gates shall lament and mourn; and she <span class='extra'>being</span> desolate shall sit upon the ground.",
+      "plainText": "And her gates shall lament and mourn; and she being desolate shall sit upon the ground."
     }
   ]
 }
-
-
-

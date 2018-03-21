@@ -1,335 +1,301 @@
 {
   "book": {
-    "number" : "3",
-    "filenamePrefix" : "leviticus",
-    "bookPage" : "leviticus.html",
-    "title" : "Leviticus",
-    "chapterCount" : "27",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "numbers_1.html",
-    "nextTitle" : "Numbers",
-    "prevBook" : "exodus_1.html",
-    "prevTitle" : "Exodus"
+    "number": "3",
+    "filenamePrefix": "leviticus",
+    "bookPage": "leviticus.html",
+    "title": "Leviticus",
+    "chapterCount": "27",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "numbers_1.html",
+    "nextTitle": "Numbers",
+    "prevBook": "exodus_1.html",
+    "prevTitle": "Exodus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "16",
-    "verseCount" : "34",
-    "nextChapter" : "leviticus_17.html",
-    "nextTitle" : "Leviticus 17",
-    "prevChapter" : "leviticus_15.html",
-    "prevTitle" : "Leviticus 15",
-    "filename" : "leviticus_16.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "16",
+    "verseCount": "34",
+    "nextChapter": "leviticus_17.html",
+    "nextTitle": "Leviticus 17",
+    "prevChapter": "leviticus_15.html",
+    "prevTitle": "Leviticus 15",
+    "filename": "leviticus_16.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "3203",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses after the death of the two sons of Aaron, when they offered before the <span class='nog'>LORD<\/span>, and died;",
-      "plainText" : "And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "3203",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses after the death of the two sons of Aaron, when they offered before the <span class='nog'>LORD</span>, and died;",
+      "plainText": "And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "3204",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy <span class='extra'>place<\/span> within the vail before the mercy seat, which <span class='extra'>is<\/span> upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.",
-      "plainText" : "And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "3204",
+      "text": "And the <span class='nog'>LORD</span> said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy <span class='extra'>place</span> within the vail before the mercy seat, which <span class='extra'>is</span> upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.",
+      "plainText": "And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "3205",
-      "text" : "Thus shall Aaron come into the holy <span class='extra'>place<\/span>: with a young bullock for a sin offering, and a ram for a burnt offering.",
-      "plainText" : "Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a ram for a burnt offering."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "3205",
+      "text": "Thus shall Aaron come into the holy <span class='extra'>place</span>: with a young bullock for a sin offering, and a ram for a burnt offering.",
+      "plainText": "Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a ram for a burnt offering."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "3206",
-      "text" : "He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these <span class='extra'>are<\/span> holy garments; therefore shall he wash his flesh in water, and <span class='extra'>so<\/span> put them on.",
-      "plainText" : "He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these are holy garments; therefore shall he wash his flesh in water, and so put them on."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "3206",
+      "text": "He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these <span class='extra'>are</span> holy garments; therefore shall he wash his flesh in water, and <span class='extra'>so</span> put them on.",
+      "plainText": "He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these are holy garments; therefore shall he wash his flesh in water, and so put them on."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "3207",
-      "text" : "And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering.",
-      "plainText" : "And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "3207",
+      "text": "And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering.",
+      "plainText": "And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "3208",
-      "text" : "And Aaron shall offer his bullock of the sin offering, which <span class='extra'>is<\/span> for himself, and make an atonement for himself, and for his house.",
-      "plainText" : "And Aaron shall offer his bullock of the sin offering, which is for himself, and make an atonement for himself, and for his house."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "3208",
+      "text": "And Aaron shall offer his bullock of the sin offering, which <span class='extra'>is</span> for himself, and make an atonement for himself, and for his house.",
+      "plainText": "And Aaron shall offer his bullock of the sin offering, which is for himself, and make an atonement for himself, and for his house."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "3209",
-      "text" : "And he shall take the two goats, and present them before the <span class='nog'>LORD<\/span> <span class='extra'>at<\/span> the door of the tabernacle of the congregation.",
-      "plainText" : "And he shall take the two goats, and present them before the LORD at the door of the tabernacle of the congregation."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "3209",
+      "text": "And he shall take the two goats, and present them before the <span class='nog'>LORD</span> <span class='extra'>at</span> the door of the tabernacle of the congregation.",
+      "plainText": "And he shall take the two goats, and present them before the LORD at the door of the tabernacle of the congregation."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "3210",
-      "text" : "And Aaron shall cast lots upon the two goats; one lot for the <span class='nog'>LORD<\/span>, and the other lot for the scapegoat.",
-      "plainText" : "And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "3210",
+      "text": "And Aaron shall cast lots upon the two goats; one lot for the <span class='nog'>LORD</span>, and the other lot for the scapegoat.",
+      "plainText": "And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "3211",
-      "text" : "And Aaron shall bring the goat upon which the <span class='nog'>LORD<\/span>'s lot fell, and offer him <span class='extra'>for<\/span> a sin offering.",
-      "plainText" : "And Aaron shall bring the goat upon which the LORD's lot fell, and offer him for a sin offering."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "3211",
+      "text": "And Aaron shall bring the goat upon which the <span class='nog'>LORD</span>'s lot fell, and offer him <span class='extra'>for</span> a sin offering.",
+      "plainText": "And Aaron shall bring the goat upon which the LORD's lot fell, and offer him for a sin offering."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "3212",
-      "text" : "But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the <span class='nog'>LORD<\/span>, to make an atonement with him, <span class='extra'>and<\/span> to let him go for a scapegoat into the wilderness.",
-      "plainText" : "But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, and to let him go for a scapegoat into the wilderness."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "3212",
+      "text": "But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the <span class='nog'>LORD</span>, to make an atonement with him, <span class='extra'>and</span> to let him go for a scapegoat into the wilderness.",
+      "plainText": "But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, and to let him go for a scapegoat into the wilderness."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "3213",
-      "text" : "And Aaron shall bring the bullock of the sin offering, which <span class='extra'>is<\/span> for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which <span class='extra'>is<\/span> for himself:",
-      "plainText" : "And Aaron shall bring the bullock of the sin offering, which is for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which is for himself:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "3213",
+      "text": "And Aaron shall bring the bullock of the sin offering, which <span class='extra'>is</span> for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which <span class='extra'>is</span> for himself:",
+      "plainText": "And Aaron shall bring the bullock of the sin offering, which is for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which is for himself:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "3214",
-      "text" : "And he shall take a censer full of burning coals of fire from off the altar before the <span class='nog'>LORD<\/span>, and his hands full of sweet incense beaten small, and bring <span class='extra'>it<\/span> within the vail:",
-      "plainText" : "And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring it within the vail:"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "3214",
+      "text": "And he shall take a censer full of burning coals of fire from off the altar before the <span class='nog'>LORD</span>, and his hands full of sweet incense beaten small, and bring <span class='extra'>it</span> within the vail:",
+      "plainText": "And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring it within the vail:"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "3215",
-      "text" : "And he shall put the incense upon the fire before the <span class='nog'>LORD<\/span>, that the cloud of the incense may cover the mercy seat that <span class='extra'>is<\/span> upon the testimony, that he die not:",
-      "plainText" : "And he shall put the incense upon the fire before the LORD, that the cloud of the incense may cover the mercy seat that is upon the testimony, that he die not:"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "3215",
+      "text": "And he shall put the incense upon the fire before the <span class='nog'>LORD</span>, that the cloud of the incense may cover the mercy seat that <span class='extra'>is</span> upon the testimony, that he die not:",
+      "plainText": "And he shall put the incense upon the fire before the LORD, that the cloud of the incense may cover the mercy seat that is upon the testimony, that he die not:"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "3216",
-      "text" : "And he shall take of the blood of the bullock, and sprinkle <span class='extra'>it<\/span> with his finger upon the mercy seat eastward; and before the mercy seat shall he sprinkle of the blood with his finger seven times.",
-      "plainText" : "And he shall take of the blood of the bullock, and sprinkle it with his finger upon the mercy seat eastward; and before the mercy seat shall he sprinkle of the blood with his finger seven times."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "3216",
+      "text": "And he shall take of the blood of the bullock, and sprinkle <span class='extra'>it</span> with his finger upon the mercy seat eastward; and before the mercy seat shall he sprinkle of the blood with his finger seven times.",
+      "plainText": "And he shall take of the blood of the bullock, and sprinkle it with his finger upon the mercy seat eastward; and before the mercy seat shall he sprinkle of the blood with his finger seven times."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "3217",
-      "text" : "Then shall he kill the goat of the sin offering, that <span class='extra'>is<\/span> for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:",
-      "plainText" : "Then shall he kill the goat of the sin offering, that is for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "3217",
+      "text": "Then shall he kill the goat of the sin offering, that <span class='extra'>is</span> for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:",
+      "plainText": "Then shall he kill the goat of the sin offering, that is for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "3218",
-      "text" : "And he shall make an atonement for the holy <span class='extra'>place<\/span>, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness.",
-      "plainText" : "And he shall make an atonement for the holy place, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "3218",
+      "text": "And he shall make an atonement for the holy <span class='extra'>place</span>, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness.",
+      "plainText": "And he shall make an atonement for the holy place, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "3219",
-      "text" : "And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy <span class='extra'>place<\/span>, until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel.",
-      "plainText" : "And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy place, until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "3219",
+      "text": "And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy <span class='extra'>place</span>, until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel.",
+      "plainText": "And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy place, until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "3220",
-      "text" : "And he shall go out unto the altar that <span class='extra'>is<\/span> before the <span class='nog'>LORD<\/span>, and make an atonement for it; and shall take of the blood of the bullock, and of the blood of the goat, and put <span class='extra'>it<\/span> upon the horns of the altar round about.",
-      "plainText" : "And he shall go out unto the altar that is before the LORD, and make an atonement for it; and shall take of the blood of the bullock, and of the blood of the goat, and put it upon the horns of the altar round about."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "3220",
+      "text": "And he shall go out unto the altar that <span class='extra'>is</span> before the <span class='nog'>LORD</span>, and make an atonement for it; and shall take of the blood of the bullock, and of the blood of the goat, and put <span class='extra'>it</span> upon the horns of the altar round about.",
+      "plainText": "And he shall go out unto the altar that is before the LORD, and make an atonement for it; and shall take of the blood of the bullock, and of the blood of the goat, and put it upon the horns of the altar round about."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "3221",
-      "text" : "And he shall sprinkle of the blood upon it with his finger seven times, and cleanse it, and hallow it from the uncleanness of the children of Israel.",
-      "plainText" : "And he shall sprinkle of the blood upon it with his finger seven times, and cleanse it, and hallow it from the uncleanness of the children of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "3221",
+      "text": "And he shall sprinkle of the blood upon it with his finger seven times, and cleanse it, and hallow it from the uncleanness of the children of Israel.",
+      "plainText": "And he shall sprinkle of the blood upon it with his finger seven times, and cleanse it, and hallow it from the uncleanness of the children of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "3222",
-      "text" : "And when he hath made an end of reconciling the holy <span class='extra'>place<\/span>, and the tabernacle of the congregation, and the altar, he shall bring the live goat:",
-      "plainText" : "And when he hath made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he shall bring the live goat:"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "3222",
+      "text": "And when he hath made an end of reconciling the holy <span class='extra'>place</span>, and the tabernacle of the congregation, and the altar, he shall bring the live goat:",
+      "plainText": "And when he hath made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he shall bring the live goat:"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "3223",
-      "text" : "And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send <span class='extra'>him<\/span> away by the hand of a fit man into the wilderness:",
-      "plainText" : "And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness:"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "3223",
+      "text": "And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send <span class='extra'>him</span> away by the hand of a fit man into the wilderness:",
+      "plainText": "And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness:"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "3224",
-      "text" : "And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness.",
-      "plainText" : "And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "3224",
+      "text": "And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness.",
+      "plainText": "And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "3225",
-      "text" : "And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy <span class='extra'>place<\/span>, and shall leave them there:",
-      "plainText" : "And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy place, and shall leave them there:"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "3225",
+      "text": "And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy <span class='extra'>place</span>, and shall leave them there:",
+      "plainText": "And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy place, and shall leave them there:"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "3226",
-      "text" : "And he shall wash his flesh with water in the holy place, and put on his garments, and come forth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himself, and for the people.",
-      "plainText" : "And he shall wash his flesh with water in the holy place, and put on his garments, and come forth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himself, and for the people."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "3226",
+      "text": "And he shall wash his flesh with water in the holy place, and put on his garments, and come forth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himself, and for the people.",
+      "plainText": "And he shall wash his flesh with water in the holy place, and put on his garments, and come forth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himself, and for the people."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "3227",
-      "text" : "And the fat of the sin offering shall he burn upon the altar.",
-      "plainText" : "And the fat of the sin offering shall he burn upon the altar."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "3227",
+      "text": "And the fat of the sin offering shall he burn upon the altar.",
+      "plainText": "And the fat of the sin offering shall he burn upon the altar."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "3228",
-      "text" : "And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp.",
-      "plainText" : "And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "3228",
+      "text": "And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp.",
+      "plainText": "And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "3229",
-      "text" : "And the bullock <span class='extra'>for<\/span> the sin offering, and the goat <span class='extra'>for<\/span> the sin offering, whose blood was brought in to make atonement in the holy <span class='extra'>place<\/span>, shall <span class='extra'>one<\/span> carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung.",
-      "plainText" : "And the bullock for the sin offering, and the goat for the sin offering, whose blood was brought in to make atonement in the holy place, shall one carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "3229",
+      "text": "And the bullock <span class='extra'>for</span> the sin offering, and the goat <span class='extra'>for</span> the sin offering, whose blood was brought in to make atonement in the holy <span class='extra'>place</span>, shall <span class='extra'>one</span> carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung.",
+      "plainText": "And the bullock for the sin offering, and the goat for the sin offering, whose blood was brought in to make atonement in the holy place, shall one carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "3230",
-      "text" : "And he that burneth them shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp.",
-      "plainText" : "And he that burneth them shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "3230",
+      "text": "And he that burneth them shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp.",
+      "plainText": "And he that burneth them shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "3231",
-      "text" : "And <span class='extra'>this<\/span> shall be a statute for ever unto you: <span class='extra'>that<\/span> in the seventh month, on the tenth <span class='extra'>day<\/span> of the month, ye shall afflict your souls, and do no work at all, <span class='extra'>whether it be<\/span> one of your own country, or a stranger that sojourneth among you:",
-      "plainText" : "And this shall be a statute for ever unto you: that in the seventh month, on the tenth day of the month, ye shall afflict your souls, and do no work at all, whether it be one of your own country, or a stranger that sojourneth among you:"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "3231",
+      "text": "And <span class='extra'>this</span> shall be a statute for ever unto you: <span class='extra'>that</span> in the seventh month, on the tenth <span class='extra'>day</span> of the month, ye shall afflict your souls, and do no work at all, <span class='extra'>whether it be</span> one of your own country, or a stranger that sojourneth among you:",
+      "plainText": "And this shall be a statute for ever unto you: that in the seventh month, on the tenth day of the month, ye shall afflict your souls, and do no work at all, whether it be one of your own country, or a stranger that sojourneth among you:"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "3232",
-      "text" : "For on that day shall <span class='extra'>the priest<\/span> make an atonement for you, to cleanse you, <span class='extra'>that<\/span> ye may be clean from all your sins before the <span class='nog'>LORD<\/span>.",
-      "plainText" : "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "3232",
+      "text": "For on that day shall <span class='extra'>the priest</span> make an atonement for you, to cleanse you, <span class='extra'>that</span> ye may be clean from all your sins before the <span class='nog'>LORD</span>.",
+      "plainText": "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "3233",
-      "text" : "It <span class='extra'>shall be<\/span> a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever.",
-      "plainText" : "It shall be a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "3233",
+      "text": "It <span class='extra'>shall be</span> a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever.",
+      "plainText": "It shall be a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "3234",
-      "text" : "And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest's office in his father's stead, shall make the atonement, and shall put on the linen clothes, <span class='extra'>even<\/span> the holy garments:",
-      "plainText" : "And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest's office in his father's stead, shall make the atonement, and shall put on the linen clothes, even the holy garments:"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "3234",
+      "text": "And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest's office in his father's stead, shall make the atonement, and shall put on the linen clothes, <span class='extra'>even</span> the holy garments:",
+      "plainText": "And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest's office in his father's stead, shall make the atonement, and shall put on the linen clothes, even the holy garments:"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "3235",
-      "text" : "And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation.",
-      "plainText" : "And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "3235",
+      "text": "And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation.",
+      "plainText": "And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "3236",
-      "text" : "And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the <span class='nog'>LORD<\/span> commanded Moses.",
-      "plainText" : "And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the LORD commanded Moses."
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "3236",
+      "text": "And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the <span class='nog'>LORD</span> commanded Moses.",
+      "plainText": "And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the LORD commanded Moses."
     }
   ]
 }
-
-

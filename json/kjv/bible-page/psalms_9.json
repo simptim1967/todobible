@@ -1,216 +1,195 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "9",
-    "verseCount" : "20",
-    "nextChapter" : "psalms_10.html",
-    "nextTitle" : "Psalms 10",
-    "prevChapter" : "psalms_8.html",
-    "prevTitle" : "Psalms 8",
-    "filename" : "psalms_9.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "9",
+    "verseCount": "20",
+    "nextChapter": "psalms_10.html",
+    "nextTitle": "Psalms 10",
+    "prevChapter": "psalms_8.html",
+    "prevTitle": "Psalms 8",
+    "filename": "psalms_9.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "To the chief Musician upon Muth-labben, A Psalm of David.",
-      "plainText" : "To the chief Musician upon Muth-labben, A Psalm of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "To the chief Musician upon Muth-labben, A Psalm of David.",
+      "plainText": "To the chief Musician upon Muth-labben, A Psalm of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14023",
-      "text" : "I will praise <span class='extra'>thee<\/span>, O <span class='nog'>LORD<\/span>, with my whole heart; I will shew forth all thy marvellous works.",
-      "plainText" : "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14023",
+      "text": "I will praise <span class='extra'>thee</span>, O <span class='nog'>LORD</span>, with my whole heart; I will shew forth all thy marvellous works.",
+      "plainText": "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14024",
-      "text" : "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.",
-      "plainText" : "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14024",
+      "text": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.",
+      "plainText": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14025",
-      "text" : "When mine enemies are turned back, they shall fall and perish at thy presence.",
-      "plainText" : "When mine enemies are turned back, they shall fall and perish at thy presence."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14025",
+      "text": "When mine enemies are turned back, they shall fall and perish at thy presence.",
+      "plainText": "When mine enemies are turned back, they shall fall and perish at thy presence."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14026",
-      "text" : "For thou hast maintained my right and my cause; thou satest in the throne judging right.",
-      "plainText" : "For thou hast maintained my right and my cause; thou satest in the throne judging right."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14026",
+      "text": "For thou hast maintained my right and my cause; thou satest in the throne judging right.",
+      "plainText": "For thou hast maintained my right and my cause; thou satest in the throne judging right."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14027",
-      "text" : "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.",
-      "plainText" : "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14027",
+      "text": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.",
+      "plainText": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14028",
-      "text" : "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.",
-      "plainText" : "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14028",
+      "text": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.",
+      "plainText": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14029",
-      "text" : "But the <span class='nog'>LORD<\/span> shall endure for ever: he hath prepared his throne for judgment.",
-      "plainText" : "But the LORD shall endure for ever: he hath prepared his throne for judgment."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14029",
+      "text": "But the <span class='nog'>LORD</span> shall endure for ever: he hath prepared his throne for judgment.",
+      "plainText": "But the LORD shall endure for ever: he hath prepared his throne for judgment."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14030",
-      "text" : "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.",
-      "plainText" : "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14030",
+      "text": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.",
+      "plainText": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14031",
-      "text" : "The <span class='nog'>LORD<\/span> also will be a refuge for the oppressed, a refuge in times of trouble.",
-      "plainText" : "The LORD also will be a refuge for the oppressed, a refuge in times of trouble."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14031",
+      "text": "The <span class='nog'>LORD</span> also will be a refuge for the oppressed, a refuge in times of trouble.",
+      "plainText": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "14032",
-      "text" : "And they that know thy name will put their trust in thee: for thou, <span class='nog'>LORD<\/span>, hast not forsaken them that seek thee.",
-      "plainText" : "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "14032",
+      "text": "And they that know thy name will put their trust in thee: for thou, <span class='nog'>LORD</span>, hast not forsaken them that seek thee.",
+      "plainText": "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "14033",
-      "text" : "Sing praises to the <span class='nog'>LORD<\/span>, which dwelleth in Zion: declare among the people his doings.",
-      "plainText" : "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "14033",
+      "text": "Sing praises to the <span class='nog'>LORD</span>, which dwelleth in Zion: declare among the people his doings.",
+      "plainText": "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "14034",
-      "text" : "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble.",
-      "plainText" : "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "14034",
+      "text": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble.",
+      "plainText": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "14035",
-      "text" : "Have mercy upon me, O <span class='nog'>LORD<\/span>; consider my trouble <span class='extra'>which I suffer<\/span> of them that hate me, thou that liftest me up from the gates of death:",
-      "plainText" : "Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "14035",
+      "text": "Have mercy upon me, O <span class='nog'>LORD</span>; consider my trouble <span class='extra'>which I suffer</span> of them that hate me, thou that liftest me up from the gates of death:",
+      "plainText": "Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "14036",
-      "text" : "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.",
-      "plainText" : "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "14036",
+      "text": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.",
+      "plainText": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "14037",
-      "text" : "The heathen are sunk down in the pit <span class='extra'>that<\/span> they made: in the net which they hid is their own foot taken.",
-      "plainText" : "The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "14037",
+      "text": "The heathen are sunk down in the pit <span class='extra'>that</span> they made: in the net which they hid is their own foot taken.",
+      "plainText": "The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "14038",
-      "text" : "The <span class='nog'>LORD<\/span> is known <span class='extra'>by<\/span> the judgment <span class='extra'>which<\/span> he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.",
-      "plainText" : "The LORD is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "14038",
+      "text": "The <span class='nog'>LORD</span> is known <span class='extra'>by</span> the judgment <span class='extra'>which</span> he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.",
+      "plainText": "The LORD is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "14039",
-      "text" : "The wicked shall be turned into hell, <span class='extra'>and<\/span> all the nations that forget God.",
-      "plainText" : "The wicked shall be turned into hell, and all the nations that forget God."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "14039",
+      "text": "The wicked shall be turned into hell, <span class='extra'>and</span> all the nations that forget God.",
+      "plainText": "The wicked shall be turned into hell, and all the nations that forget God."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "14040",
-      "text" : "For the needy shall not alway be forgotten: the expectation of the poor shall <span class='extra'>not<\/span> perish for ever.",
-      "plainText" : "For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "14040",
+      "text": "For the needy shall not alway be forgotten: the expectation of the poor shall <span class='extra'>not</span> perish for ever.",
+      "plainText": "For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "14041",
-      "text" : "Arise, O <span class='nog'>LORD<\/span>; let not man prevail: let the heathen be judged in thy sight.",
-      "plainText" : "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "14041",
+      "text": "Arise, O <span class='nog'>LORD</span>; let not man prevail: let the heathen be judged in thy sight.",
+      "plainText": "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "14042",
-      "text" : "Put them in fear, O <span class='nog'>LORD<\/span>: <span class='extra'>that<\/span> the nations may know themselves <span class='extra'>to be but<\/span> men. Selah.",
-      "plainText" : "Put them in fear, O LORD: that the nations may know themselves to be but men. Selah."
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "14042",
+      "text": "Put them in fear, O <span class='nog'>LORD</span>: <span class='extra'>that</span> the nations may know themselves <span class='extra'>to be but</span> men. Selah.",
+      "plainText": "Put them in fear, O LORD: that the nations may know themselves to be but men. Selah."
     }
   ]
 }
-
-

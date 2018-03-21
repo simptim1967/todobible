@@ -1,107 +1,99 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "61",
-    "verseCount" : "8",
-    "nextChapter" : "psalms_62.html",
-    "nextTitle" : "Psalms 62",
-    "prevChapter" : "psalms_60.html",
-    "prevTitle" : "Psalms 60",
-    "filename" : "psalms_61.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "61",
+    "verseCount": "8",
+    "nextChapter": "psalms_62.html",
+    "nextTitle": "Psalms 62",
+    "prevChapter": "psalms_60.html",
+    "prevTitle": "Psalms 60",
+    "filename": "psalms_61.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "To the chief Musician upon Neginah, <span class='extra'>A Psalm<\/span> of David.",
-      "plainText" : "To the chief Musician upon Neginah, A Psalm of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "To the chief Musician upon Neginah, <span class='extra'>A Psalm</span> of David.",
+      "plainText": "To the chief Musician upon Neginah, A Psalm of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14821",
-      "text" : "Hear my cry, O God; attend unto my prayer.",
-      "plainText" : "Hear my cry, O God; attend unto my prayer."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14821",
+      "text": "Hear my cry, O God; attend unto my prayer.",
+      "plainText": "Hear my cry, O God; attend unto my prayer."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14822",
-      "text" : "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock <span class='extra'>that<\/span> is higher than I.",
-      "plainText" : "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14822",
+      "text": "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock <span class='extra'>that</span> is higher than I.",
+      "plainText": "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14823",
-      "text" : "For thou hast been a shelter for me, <span class='extra'>and<\/span> a strong tower from the enemy.",
-      "plainText" : "For thou hast been a shelter for me, and a strong tower from the enemy."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14823",
+      "text": "For thou hast been a shelter for me, <span class='extra'>and</span> a strong tower from the enemy.",
+      "plainText": "For thou hast been a shelter for me, and a strong tower from the enemy."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14824",
-      "text" : "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.",
-      "plainText" : "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14824",
+      "text": "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.",
+      "plainText": "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14825",
-      "text" : "For thou, O God, hast heard my vows: thou hast given <span class='extra'>me<\/span> the heritage of those that fear thy name.",
-      "plainText" : "For thou, O God, hast heard my vows: thou hast given me the heritage of those that fear thy name."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14825",
+      "text": "For thou, O God, hast heard my vows: thou hast given <span class='extra'>me</span> the heritage of those that fear thy name.",
+      "plainText": "For thou, O God, hast heard my vows: thou hast given me the heritage of those that fear thy name."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14826",
-      "text" : "Thou wilt prolong the king's life: <span class='extra'>and<\/span> his years as many generations.",
-      "plainText" : "Thou wilt prolong the king's life: and his years as many generations."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14826",
+      "text": "Thou wilt prolong the king's life: <span class='extra'>and</span> his years as many generations.",
+      "plainText": "Thou wilt prolong the king's life: and his years as many generations."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14827",
-      "text" : "He shall abide before God for ever: O prepare mercy and truth, <span class='extra'>which<\/span> may preserve him.",
-      "plainText" : "He shall abide before God for ever: O prepare mercy and truth, which may preserve him."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14827",
+      "text": "He shall abide before God for ever: O prepare mercy and truth, <span class='extra'>which</span> may preserve him.",
+      "plainText": "He shall abide before God for ever: O prepare mercy and truth, which may preserve him."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14828",
-      "text" : "So will I sing praise unto thy name for ever, that I may daily perform my vows.",
-      "plainText" : "So will I sing praise unto thy name for ever, that I may daily perform my vows."
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14828",
+      "text": "So will I sing praise unto thy name for ever, that I may daily perform my vows.",
+      "plainText": "So will I sing praise unto thy name for ever, that I may daily perform my vows."
     }
   ]
 }
-

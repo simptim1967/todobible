@@ -1,190 +1,173 @@
 {
   "book": {
-    "number" : "21",
-    "filenamePrefix" : "ecclesiastes",
-    "bookPage" : "ecclesiastes.html",
-    "title" : "Ecclesiastes",
-    "chapterCount" : "12",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "song_of_solomon_1.html",
-    "nextTitle" : "Song of Solomon",
-    "prevBook" : "proverbs_1.html",
-    "prevTitle" : "Proverbs"
+    "number": "21",
+    "filenamePrefix": "ecclesiastes",
+    "bookPage": "ecclesiastes.html",
+    "title": "Ecclesiastes",
+    "chapterCount": "12",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "song_of_solomon_1.html",
+    "nextTitle": "Song of Solomon",
+    "prevBook": "proverbs_1.html",
+    "prevTitle": "Proverbs",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "1",
-    "verseCount" : "18",
-    "nextChapter" : "ecclesiastes_2.html",
-    "nextTitle" : "Ecclesiastes 2",
-    "prevChapter" : "proverbs_31.html",
-    "prevTitle" : "Proverbs 31",
-    "filename" : "ecclesiastes_1.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "1",
+    "verseCount": "18",
+    "nextChapter": "ecclesiastes_2.html",
+    "nextTitle": "Ecclesiastes 2",
+    "prevChapter": "proverbs_31.html",
+    "prevTitle": "Proverbs 31",
+    "filename": "ecclesiastes_1.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "17317",
-      "text" : "The words of the Preacher, the son of David, king in Jerusalem.",
-      "plainText" : "The words of the Preacher, the son of David, king in Jerusalem."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "17317",
+      "text": "The words of the Preacher, the son of David, king in Jerusalem.",
+      "plainText": "The words of the Preacher, the son of David, king in Jerusalem."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "17318",
-      "text" : "Vanity of vanities, saith the Preacher, vanity of vanities; all <span class='extra'>is<\/span> vanity.",
-      "plainText" : "Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "17318",
+      "text": "Vanity of vanities, saith the Preacher, vanity of vanities; all <span class='extra'>is</span> vanity.",
+      "plainText": "Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "17319",
-      "text" : "What profit hath a man of all his labour which he taketh under the sun?",
-      "plainText" : "What profit hath a man of all his labour which he taketh under the sun?"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "17319",
+      "text": "What profit hath a man of all his labour which he taketh under the sun?",
+      "plainText": "What profit hath a man of all his labour which he taketh under the sun?"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "17320",
-      "text" : "<span class='extra'>One<\/span> generation passeth away, and <span class='extra'>another<\/span> generation cometh: but the earth abideth for ever.",
-      "plainText" : "One generation passeth away, and another generation cometh: but the earth abideth for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "17320",
+      "text": "<span class='extra'>One</span> generation passeth away, and <span class='extra'>another</span> generation cometh: but the earth abideth for ever.",
+      "plainText": "One generation passeth away, and another generation cometh: but the earth abideth for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "17321",
-      "text" : "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.",
-      "plainText" : "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "17321",
+      "text": "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.",
+      "plainText": "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "17322",
-      "text" : "The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.",
-      "plainText" : "The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "17322",
+      "text": "The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.",
+      "plainText": "The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "17323",
-      "text" : "All the rivers run into the sea; yet the sea <span class='extra'>is<\/span> not full; unto the place from whence the rivers come, thither they return again.",
-      "plainText" : "All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "17323",
+      "text": "All the rivers run into the sea; yet the sea <span class='extra'>is</span> not full; unto the place from whence the rivers come, thither they return again.",
+      "plainText": "All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "17324",
-      "text" : "All things <span class='extra'>are<\/span> full of labour; man cannot utter <span class='extra'>it<\/span>: the eye is not satisfied with seeing, nor the ear filled with hearing.",
-      "plainText" : "All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "17324",
+      "text": "All things <span class='extra'>are</span> full of labour; man cannot utter <span class='extra'>it</span>: the eye is not satisfied with seeing, nor the ear filled with hearing.",
+      "plainText": "All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "17325",
-      "text" : "The thing that hath been, it <span class='extra'>is that<\/span> which shall be; and that which is done <span class='extra'>is<\/span> that which shall be done: and <span class='extra'>there is<\/span> no new <span class='extra'>thing<\/span> under the sun.",
-      "plainText" : "The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "17325",
+      "text": "The thing that hath been, it <span class='extra'>is that</span> which shall be; and that which is done <span class='extra'>is</span> that which shall be done: and <span class='extra'>there is</span> no new <span class='extra'>thing</span> under the sun.",
+      "plainText": "The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "17326",
-      "text" : "Is there <span class='extra'>any<\/span> thing whereof it may be said, See, this <span class='extra'>is<\/span> new? it hath been already of old time, which was before us.",
-      "plainText" : "Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "17326",
+      "text": "Is there <span class='extra'>any</span> thing whereof it may be said, See, this <span class='extra'>is</span> new? it hath been already of old time, which was before us.",
+      "plainText": "Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "17327",
-      "text" : "<span class='extra'>There is<\/span> no remembrance of former <span class='extra'>things<\/span>; neither shall there be <span class='extra'>any<\/span> remembrance of <span class='extra'>things<\/span> that are to come with <span class='extra'>those<\/span> that shall come after.",
-      "plainText" : "There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "17327",
+      "text": "<span class='extra'>There is</span> no remembrance of former <span class='extra'>things</span>; neither shall there be <span class='extra'>any</span> remembrance of <span class='extra'>things</span> that are to come with <span class='extra'>those</span> that shall come after.",
+      "plainText": "There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "17328",
-      "text" : "I the Preacher was king over Israel in Jerusalem.",
-      "plainText" : "I the Preacher was king over Israel in Jerusalem."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "17328",
+      "text": "I the Preacher was king over Israel in Jerusalem.",
+      "plainText": "I the Preacher was king over Israel in Jerusalem."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "17329",
-      "text" : "And I gave my heart to seek and search out by wisdom concerning all <span class='extra'>things<\/span> that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.",
-      "plainText" : "And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "17329",
+      "text": "And I gave my heart to seek and search out by wisdom concerning all <span class='extra'>things</span> that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.",
+      "plainText": "And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "17330",
-      "text" : "I have seen all the works that are done under the sun; and, behold, all <span class='extra'>is<\/span> vanity and vexation of spirit.",
-      "plainText" : "I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "17330",
+      "text": "I have seen all the works that are done under the sun; and, behold, all <span class='extra'>is</span> vanity and vexation of spirit.",
+      "plainText": "I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "17331",
-      "text" : "<span class='extra'>That which is<\/span> crooked cannot be made straight: and that which is wanting cannot be numbered.",
-      "plainText" : "That which is crooked cannot be made straight: and that which is wanting cannot be numbered."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "17331",
+      "text": "<span class='extra'>That which is</span> crooked cannot be made straight: and that which is wanting cannot be numbered.",
+      "plainText": "That which is crooked cannot be made straight: and that which is wanting cannot be numbered."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "17332",
-      "text" : "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all <span class='extra'>they<\/span> that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.",
-      "plainText" : "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "17332",
+      "text": "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all <span class='extra'>they</span> that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.",
+      "plainText": "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "17333",
-      "text" : "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.",
-      "plainText" : "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "17333",
+      "text": "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.",
+      "plainText": "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "17334",
-      "text" : "For in much wisdom <span class='extra'>is<\/span> much grief: and he that increaseth knowledge increaseth sorrow.",
-      "plainText" : "For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow."
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "17334",
+      "text": "For in much wisdom <span class='extra'>is</span> much grief: and he that increaseth knowledge increaseth sorrow.",
+      "plainText": "For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow."
     }
   ]
 }
-

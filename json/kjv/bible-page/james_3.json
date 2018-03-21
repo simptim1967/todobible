@@ -1,190 +1,173 @@
 {
   "book": {
-    "number" : "59",
-    "filenamePrefix" : "james",
-    "bookPage" : "james.html",
-    "title" : "James",
-    "chapterCount" : "5",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "1peter_1.html",
-    "nextTitle" : "1 Peter",
-    "prevBook" : "hebrews_1.html",
-    "prevTitle" : "Hebrews"
+    "number": "59",
+    "filenamePrefix": "james",
+    "bookPage": "james.html",
+    "title": "James",
+    "chapterCount": "5",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "1peter_1.html",
+    "nextTitle": "1 Peter",
+    "prevBook": "hebrews_1.html",
+    "prevTitle": "Hebrews",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "3",
-    "verseCount" : "18",
-    "nextChapter" : "james_4.html",
-    "nextTitle" : "James 4",
-    "prevChapter" : "james_2.html",
-    "prevTitle" : "James 2",
-    "filename" : "james_3.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "3",
+    "verseCount": "18",
+    "nextChapter": "james_4.html",
+    "nextTitle": "James 4",
+    "prevChapter": "james_2.html",
+    "prevTitle": "James 2",
+    "filename": "james_3.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "30321",
-      "text" : "My brethren, be not many masters, knowing that we shall receive the greater condemnation.",
-      "plainText" : "My brethren, be not many masters, knowing that we shall receive the greater condemnation."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "30321",
+      "text": "My brethren, be not many masters, knowing that we shall receive the greater condemnation.",
+      "plainText": "My brethren, be not many masters, knowing that we shall receive the greater condemnation."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "30322",
-      "text" : "For in many things we offend all. If any man offend not in word, the same <span class='extra'>is<\/span> a perfect man, <span class='extra'>and<\/span> able also to bridle the whole body.",
-      "plainText" : "For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "30322",
+      "text": "For in many things we offend all. If any man offend not in word, the same <span class='extra'>is</span> a perfect man, <span class='extra'>and</span> able also to bridle the whole body.",
+      "plainText": "For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "30323",
-      "text" : "Behold, we put bits in the horses' mouths, that they may obey us; and we turn about their whole body.",
-      "plainText" : "Behold, we put bits in the horses' mouths, that they may obey us; and we turn about their whole body."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "30323",
+      "text": "Behold, we put bits in the horses' mouths, that they may obey us; and we turn about their whole body.",
+      "plainText": "Behold, we put bits in the horses' mouths, that they may obey us; and we turn about their whole body."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "30324",
-      "text" : "Behold also the ships, which though <span class='extra'>they be<\/span> so great, and <span class='extra'>are<\/span> driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth.",
-      "plainText" : "Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "30324",
+      "text": "Behold also the ships, which though <span class='extra'>they be</span> so great, and <span class='extra'>are</span> driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth.",
+      "plainText": "Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "30325",
-      "text" : "Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!",
-      "plainText" : "Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "30325",
+      "text": "Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!",
+      "plainText": "Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "30326",
-      "text" : "And the tongue <span class='extra'>is<\/span> a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell.",
-      "plainText" : "And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "30326",
+      "text": "And the tongue <span class='extra'>is</span> a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell.",
+      "plainText": "And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "30327",
-      "text" : "For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:",
-      "plainText" : "For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "30327",
+      "text": "For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:",
+      "plainText": "For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "30328",
-      "text" : "But the tongue can no man tame; <span class='extra'>it is<\/span> an unruly evil, full of deadly poison.",
-      "plainText" : "But the tongue can no man tame; it is an unruly evil, full of deadly poison."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "30328",
+      "text": "But the tongue can no man tame; <span class='extra'>it is</span> an unruly evil, full of deadly poison.",
+      "plainText": "But the tongue can no man tame; it is an unruly evil, full of deadly poison."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "30329",
-      "text" : "Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God.",
-      "plainText" : "Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "30329",
+      "text": "Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God.",
+      "plainText": "Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "30330",
-      "text" : "Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be.",
-      "plainText" : "Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "30330",
+      "text": "Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be.",
+      "plainText": "Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "30331",
-      "text" : "Doth a fountain send forth at the same place sweet <span class='extra'>water<\/span> and bitter?",
-      "plainText" : "Doth a fountain send forth at the same place sweet water and bitter?"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "30331",
+      "text": "Doth a fountain send forth at the same place sweet <span class='extra'>water</span> and bitter?",
+      "plainText": "Doth a fountain send forth at the same place sweet water and bitter?"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "30332",
-      "text" : "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so <span class='extra'>can<\/span> no fountain both yield salt water and fresh.",
-      "plainText" : "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "30332",
+      "text": "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so <span class='extra'>can</span> no fountain both yield salt water and fresh.",
+      "plainText": "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "30333",
-      "text" : "Who <span class='extra'>is<\/span> a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.",
-      "plainText" : "Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "30333",
+      "text": "Who <span class='extra'>is</span> a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.",
+      "plainText": "Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "30334",
-      "text" : "But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.",
-      "plainText" : "But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "30334",
+      "text": "But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.",
+      "plainText": "But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "30335",
-      "text" : "This wisdom descendeth not from above, but <span class='extra'>is<\/span> earthly, sensual, devilish.",
-      "plainText" : "This wisdom descendeth not from above, but is earthly, sensual, devilish."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "30335",
+      "text": "This wisdom descendeth not from above, but <span class='extra'>is</span> earthly, sensual, devilish.",
+      "plainText": "This wisdom descendeth not from above, but is earthly, sensual, devilish."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "30336",
-      "text" : "For where envying and strife <span class='extra'>is<\/span>, there <span class='extra'>is<\/span> confusion and every evil work.",
-      "plainText" : "For where envying and strife is, there is confusion and every evil work."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "30336",
+      "text": "For where envying and strife <span class='extra'>is</span>, there <span class='extra'>is</span> confusion and every evil work.",
+      "plainText": "For where envying and strife is, there is confusion and every evil work."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "30337",
-      "text" : "But the wisdom that is from above is first pure, then peaceable, gentle, <span class='extra'>and<\/span> easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.",
-      "plainText" : "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "30337",
+      "text": "But the wisdom that is from above is first pure, then peaceable, gentle, <span class='extra'>and</span> easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.",
+      "plainText": "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "30338",
-      "text" : "And the fruit of righteousness is sown in peace of them that make peace.",
-      "plainText" : "And the fruit of righteousness is sown in peace of them that make peace."
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "30338",
+      "text": "And the fruit of righteousness is sown in peace of them that make peace.",
+      "plainText": "And the fruit of righteousness is sown in peace of them that make peace."
     }
   ]
 }
-

@@ -1,163 +1,149 @@
 {
   "book": {
-    "number" : "66",
-    "filenamePrefix" : "revelation",
-    "bookPage" : "revelation.html",
-    "title" : "Revelation",
-    "chapterCount" : "22",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "genesis_1.html",
-    "nextTitle" : "Genesis",
-    "prevBook" : "jude_1.html",
-    "prevTitle" : "Jude"
+    "number": "66",
+    "filenamePrefix": "revelation",
+    "bookPage": "revelation.html",
+    "title": "Revelation",
+    "chapterCount": "22",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "genesis_1.html",
+    "nextTitle": "Genesis",
+    "prevBook": "jude_1.html",
+    "prevTitle": "Jude",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "20",
-    "verseCount" : "15",
-    "nextChapter" : "revelation_21.html",
-    "nextTitle" : "Revelation 21",
-    "prevChapter" : "revelation_19.html",
-    "prevTitle" : "Revelation 19",
-    "filename" : "revelation_20.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "20",
+    "verseCount": "15",
+    "nextChapter": "revelation_21.html",
+    "nextTitle": "Revelation 21",
+    "prevChapter": "revelation_19.html",
+    "prevTitle": "Revelation 19",
+    "filename": "revelation_20.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "31040",
-      "text" : "And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.",
-      "plainText" : "And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "31040",
+      "text": "And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.",
+      "plainText": "And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "31041",
-      "text" : "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,",
-      "plainText" : "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "31041",
+      "text": "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,",
+      "plainText": "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "31042",
-      "text" : "And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season.",
-      "plainText" : "And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "31042",
+      "text": "And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season.",
+      "plainText": "And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "31043",
-      "text" : "And I saw thrones, and they sat upon them, and judgment was given unto them: and <span class='extra'>I saw<\/span> the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received <span class='extra'>his<\/span> mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.",
-      "plainText" : "And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "31043",
+      "text": "And I saw thrones, and they sat upon them, and judgment was given unto them: and <span class='extra'>I saw</span> the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received <span class='extra'>his</span> mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.",
+      "plainText": "And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "31044",
-      "text" : "But the rest of the dead lived not again until the thousand years were finished. This <span class='extra'>is<\/span> the first resurrection.",
-      "plainText" : "But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "31044",
+      "text": "But the rest of the dead lived not again until the thousand years were finished. This <span class='extra'>is</span> the first resurrection.",
+      "plainText": "But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "31045",
-      "text" : "Blessed and holy <span class='extra'>is<\/span> he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years.",
-      "plainText" : "Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "31045",
+      "text": "Blessed and holy <span class='extra'>is</span> he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years.",
+      "plainText": "Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "31046",
-      "text" : "And when the thousand years are expired, Satan shall be loosed out of his prison,",
-      "plainText" : "And when the thousand years are expired, Satan shall be loosed out of his prison,"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "31046",
+      "text": "And when the thousand years are expired, Satan shall be loosed out of his prison,",
+      "plainText": "And when the thousand years are expired, Satan shall be loosed out of his prison,"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "31047",
-      "text" : "And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom <span class='extra'>is<\/span> as the sand of the sea.",
-      "plainText" : "And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom is as the sand of the sea."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "31047",
+      "text": "And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom <span class='extra'>is</span> as the sand of the sea.",
+      "plainText": "And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom is as the sand of the sea."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "31048",
-      "text" : "And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them.",
-      "plainText" : "And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "31048",
+      "text": "And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them.",
+      "plainText": "And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "31049",
-      "text" : "And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet <span class='extra'>are<\/span>, and shall be tormented day and night for ever and ever.",
-      "plainText" : "And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "31049",
+      "text": "And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet <span class='extra'>are</span>, and shall be tormented day and night for ever and ever.",
+      "plainText": "And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "31050",
-      "text" : "And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.",
-      "plainText" : "And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "31050",
+      "text": "And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.",
+      "plainText": "And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "31051",
-      "text" : "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is <span class='extra'>the book<\/span> of life: and the dead were judged out of those things which were written in the books, according to their works.",
-      "plainText" : "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "31051",
+      "text": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is <span class='extra'>the book</span> of life: and the dead were judged out of those things which were written in the books, according to their works.",
+      "plainText": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "31052",
-      "text" : "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.",
-      "plainText" : "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "31052",
+      "text": "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.",
+      "plainText": "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "31053",
-      "text" : "And death and hell were cast into the lake of fire. This is the second death.",
-      "plainText" : "And death and hell were cast into the lake of fire. This is the second death."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "31053",
+      "text": "And death and hell were cast into the lake of fire. This is the second death.",
+      "plainText": "And death and hell were cast into the lake of fire. This is the second death."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "31054",
-      "text" : "And whosoever was not found written in the book of life was cast into the lake of fire.",
-      "plainText" : "And whosoever was not found written in the book of life was cast into the lake of fire."
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "31054",
+      "text": "And whosoever was not found written in the book of life was cast into the lake of fire.",
+      "plainText": "And whosoever was not found written in the book of life was cast into the lake of fire."
     }
   ]
 }
-

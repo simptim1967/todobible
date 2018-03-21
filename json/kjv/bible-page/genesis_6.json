@@ -1,227 +1,205 @@
 {
   "book": {
-    "number" : "1",
-    "filenamePrefix" : "genesis",
-    "bookPage" : "genesis.html",
-    "title" : "Genesis",
-    "chapterCount" : "50",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "exodus_1.html",
-    "nextTitle" : "Exodus",
-    "prevBook" : "revelation_1.html",
-    "prevTitle" : "Revelation"
+    "number": "1",
+    "filenamePrefix": "genesis",
+    "bookPage": "genesis.html",
+    "title": "Genesis",
+    "chapterCount": "50",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "exodus_1.html",
+    "nextTitle": "Exodus",
+    "prevBook": "revelation_1.html",
+    "prevTitle": "Revelation",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "6",
-    "verseCount" : "22",
-    "nextChapter" : "genesis_7.html",
-    "nextTitle" : "Genesis 7",
-    "prevChapter" : "genesis_5.html",
-    "prevTitle" : "Genesis 5",
-    "filename" : "genesis_6.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "6",
+    "verseCount": "22",
+    "nextChapter": "genesis_7.html",
+    "nextTitle": "Genesis 7",
+    "prevChapter": "genesis_5.html",
+    "prevTitle": "Genesis 5",
+    "filename": "genesis_6.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "139",
-      "text" : "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,",
-      "plainText" : "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "139",
+      "text": "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,",
+      "plainText": "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "140",
-      "text" : "That the sons of God saw the daughters of men that they <span class='extra'>were<\/span> fair; and they took them wives of all which they chose.",
-      "plainText" : "That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "140",
+      "text": "That the sons of God saw the daughters of men that they <span class='extra'>were</span> fair; and they took them wives of all which they chose.",
+      "plainText": "That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "141",
-      "text" : "And the <span class='nog'>LORD<\/span> said, My spirit shall not always strive with man, for that he also <span class='extra'>is<\/span> flesh: yet his days shall be an hundred and twenty years.",
-      "plainText" : "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "141",
+      "text": "And the <span class='nog'>LORD</span> said, My spirit shall not always strive with man, for that he also <span class='extra'>is</span> flesh: yet his days shall be an hundred and twenty years.",
+      "plainText": "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "142",
-      "text" : "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare <span class='extra'>children<\/span> to them, the same <span class='extra'>became<\/span> mighty men which <span class='extra'>were<\/span> of old, men of renown.",
-      "plainText" : "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "142",
+      "text": "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare <span class='extra'>children</span> to them, the same <span class='extra'>became</span> mighty men which <span class='extra'>were</span> of old, men of renown.",
+      "plainText": "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "143",
-      "text" : "And <span class='nog'>GOD<\/span> saw that the wickedness of man <span class='extra'>was<\/span> great in the earth, and <span class='extra'>that<\/span> every imagination of the thoughts of his heart <span class='extra'>was<\/span> only evil continually.",
-      "plainText" : "And GOD saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "143",
+      "text": "And <span class='nog'>GOD</span> saw that the wickedness of man <span class='extra'>was</span> great in the earth, and <span class='extra'>that</span> every imagination of the thoughts of his heart <span class='extra'>was</span> only evil continually.",
+      "plainText": "And GOD saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "144",
-      "text" : "And it repented the <span class='nog'>LORD<\/span> that he had made man on the earth, and it grieved him at his heart.",
-      "plainText" : "And it repented the LORD that he had made man on the earth, and it grieved him at his heart."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "144",
+      "text": "And it repented the <span class='nog'>LORD</span> that he had made man on the earth, and it grieved him at his heart.",
+      "plainText": "And it repented the LORD that he had made man on the earth, and it grieved him at his heart."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "145",
-      "text" : "And the <span class='nog'>LORD<\/span> said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.",
-      "plainText" : "And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "145",
+      "text": "And the <span class='nog'>LORD</span> said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.",
+      "plainText": "And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "146",
-      "text" : "But Noah found grace in the eyes of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "But Noah found grace in the eyes of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "146",
+      "text": "But Noah found grace in the eyes of the <span class='nog'>LORD</span>.",
+      "plainText": "But Noah found grace in the eyes of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "147",
-      "text" : "These <span class='extra'>are<\/span> the generations of Noah: Noah was a just man <span class='extra'>and<\/span> perfect in his generations, <span class='extra'>and<\/span> Noah walked with God.",
-      "plainText" : "These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "147",
+      "text": "These <span class='extra'>are</span> the generations of Noah: Noah was a just man <span class='extra'>and</span> perfect in his generations, <span class='extra'>and</span> Noah walked with God.",
+      "plainText": "These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "148",
-      "text" : "And Noah begat three sons, Shem, Ham, and Japheth.",
-      "plainText" : "And Noah begat three sons, Shem, Ham, and Japheth."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "148",
+      "text": "And Noah begat three sons, Shem, Ham, and Japheth.",
+      "plainText": "And Noah begat three sons, Shem, Ham, and Japheth."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "149",
-      "text" : "The earth also was corrupt before God, and the earth was filled with violence.",
-      "plainText" : "The earth also was corrupt before God, and the earth was filled with violence."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "149",
+      "text": "The earth also was corrupt before God, and the earth was filled with violence.",
+      "plainText": "The earth also was corrupt before God, and the earth was filled with violence."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "150",
-      "text" : "And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.",
-      "plainText" : "And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "150",
+      "text": "And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.",
+      "plainText": "And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "151",
-      "text" : "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.",
-      "plainText" : "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "151",
+      "text": "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.",
+      "plainText": "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "152",
-      "text" : "Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.",
-      "plainText" : "Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "152",
+      "text": "Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.",
+      "plainText": "Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "153",
-      "text" : "And this <span class='extra'>is the fashion<\/span> which thou shalt make it <span class='extra'>of<\/span>: The length of the ark <span class='extra'>shall be<\/span> three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.",
-      "plainText" : "And this is the fashion which thou shalt make it of: The length of the ark shall be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "153",
+      "text": "And this <span class='extra'>is the fashion</span> which thou shalt make it <span class='extra'>of</span>: The length of the ark <span class='extra'>shall be</span> three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.",
+      "plainText": "And this is the fashion which thou shalt make it of: The length of the ark shall be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "154",
-      "text" : "A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; <span class='extra'>with<\/span> lower, second, and third <span class='extra'>stories<\/span> shalt thou make it.",
-      "plainText" : "A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "154",
+      "text": "A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; <span class='extra'>with</span> lower, second, and third <span class='extra'>stories</span> shalt thou make it.",
+      "plainText": "A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "155",
-      "text" : "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein <span class='extra'>is<\/span> the breath of life, from under heaven; <span class='extra'>and<\/span> every thing that <span class='extra'>is<\/span> in the earth shall die.",
-      "plainText" : "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "155",
+      "text": "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein <span class='extra'>is</span> the breath of life, from under heaven; <span class='extra'>and</span> every thing that <span class='extra'>is</span> in the earth shall die.",
+      "plainText": "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "156",
-      "text" : "But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons' wives with thee.",
-      "plainText" : "But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons' wives with thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "156",
+      "text": "But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons' wives with thee.",
+      "plainText": "But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons' wives with thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "157",
-      "text" : "And of every living thing of all flesh, two of every <span class='extra'>sort<\/span> shalt thou bring into the ark, to keep <span class='extra'>them<\/span> alive with thee; they shall be male and female.",
-      "plainText" : "And of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "157",
+      "text": "And of every living thing of all flesh, two of every <span class='extra'>sort</span> shalt thou bring into the ark, to keep <span class='extra'>them</span> alive with thee; they shall be male and female.",
+      "plainText": "And of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "158",
-      "text" : "Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every <span class='extra'>sort<\/span> shall come unto thee, to keep <span class='extra'>them<\/span> alive.",
-      "plainText" : "Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every sort shall come unto thee, to keep them alive."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "158",
+      "text": "Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every <span class='extra'>sort</span> shall come unto thee, to keep <span class='extra'>them</span> alive.",
+      "plainText": "Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every sort shall come unto thee, to keep them alive."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "159",
-      "text" : "And take thou unto thee of all food that is eaten, and thou shalt gather <span class='extra'>it<\/span> to thee; and it shall be for food for thee, and for them.",
-      "plainText" : "And take thou unto thee of all food that is eaten, and thou shalt gather it to thee; and it shall be for food for thee, and for them."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "159",
+      "text": "And take thou unto thee of all food that is eaten, and thou shalt gather <span class='extra'>it</span> to thee; and it shall be for food for thee, and for them.",
+      "plainText": "And take thou unto thee of all food that is eaten, and thou shalt gather it to thee; and it shall be for food for thee, and for them."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "160",
-      "text" : "Thus did Noah; according to all that God commanded him, so did he.",
-      "plainText" : "Thus did Noah; according to all that God commanded him, so did he."
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "160",
+      "text": "Thus did Noah; according to all that God commanded him, so did he.",
+      "plainText": "Thus did Noah; according to all that God commanded him, so did he."
     }
   ]
 }
-
-

@@ -1,235 +1,214 @@
 {
   "book": {
-    "number" : "49",
-    "filenamePrefix" : "ephesians",
-    "bookPage" : "ephesians.html",
-    "title" : "Ephesians",
-    "chapterCount" : "6",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "philippians_1.html",
-    "nextTitle" : "Philippians",
-    "prevBook" : "galatians_1.html",
-    "prevTitle" : "Galatians"
+    "number": "49",
+    "filenamePrefix": "ephesians",
+    "bookPage": "ephesians.html",
+    "title": "Ephesians",
+    "chapterCount": "6",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "philippians_1.html",
+    "nextTitle": "Philippians",
+    "prevBook": "galatians_1.html",
+    "prevTitle": "Galatians",
+    "tooltipwords": true,
+    "interlinear": false
   },
   "chapter": {
-    "number" : "1",
-    "verseCount" : "23",
-    "nextChapter" : "ephesians_2.html",
-    "nextTitle" : "Ephesians 2",
-    "prevChapter" : "galatians_6.html",
-    "prevTitle" : "Galatians 6",
-    "filename" : "ephesians_1.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "1",
+    "verseCount": "23",
+    "nextChapter": "ephesians_2.html",
+    "nextTitle": "Ephesians 2",
+    "prevChapter": "galatians_6.html",
+    "prevTitle": "Galatians 6",
+    "filename": "ephesians_1.html",
+    "keywords": "Ephesians, Ephesus, online King James Holy Bible, King James Bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "29208",
-      "text" : "Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:",
-      "plainText" : "Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "29208",
+      "text": "<span class='ttw'; data-toggle='tooltip' data-placement='top' title='formerly a Pharisee known as Saul of Tarsus'>Paul</span>, an <span class='ttw'; data-toggle='tooltip' data-placement='top' title='one sent out with orders'>apostle</span> of Jesus Christ by the will of God, to the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='most holy, sacred, morally blameless'>saints</span> which are at <span class='ttw'; data-toggle='tooltip' data-placement='top' title='a maritime city of Asia Minor'>Ephesus</span>, and to the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='believing, believer'>faithful</span> in Christ Jesus:",
+      "plainText": "Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "29209",
-      "text" : "Grace <span class='extra'>be<\/span> to you, and peace, from God our Father, and <span class='extra'>from<\/span> the Lord Jesus Christ.",
-      "plainText" : "Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "29209",
+      "text": "<span class='ttw'; data-toggle='tooltip' data-placement='top' title='good will, loving-kindness, favour'>Grace</span> <span class='extra'>be</span> to you, and <span class='ttw'; data-toggle='tooltip' data-placement='top' title='tranquillity, harmony, concord, security, safety, prosperity, freedom from fear, quietness of mind'>peace</span>, from God our Father, and <span class='extra'>from</span> the Lord Jesus Christ.",
+      "plainText": "Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "29210",
-      "text" : "Blessed <span class='extra'>be<\/span> the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly <span class='extra'>places<\/span> in Christ:",
-      "plainText" : "Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "29210",
+      "text": "<span class='ttw'; data-toggle='tooltip' data-placement='top' title='praised, adorable'>Blessed</span> <span class='extra'>be</span> the God and Father of our Lord Jesus Christ, who <span class='ttw'; data-toggle='tooltip' data-placement='top' title='has'>hath</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='to cause to prosper, to make happy, to bestow blessings on'>blessed</span> us with all spiritual <span class='ttw'; data-toggle='tooltip' data-placement='top' title='a gift, benefit or advantage; that which promotes temporal prosperity and welfare, or secures immortal felicity'>blessings</span> in <span class='ttw'; data-toggle='tooltip' data-placement='top' title='heaven'>heavenly <span class='extra'>places</span></span> in Christ:",
+      "plainText": "Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "29211",
-      "text" : "According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:",
-      "plainText" : "According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "29211",
+      "text": "According as <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>he</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='has'>hath</span> chosen us in <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>him</span> before the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='founding, creation'>foundation</span> of the world, that we should be <span class='ttw'; data-toggle='tooltip' data-placement='top' title='sacred, physically pure, morally blameless or religious ceremonially consecrated'>holy</span> and <span class='ttw'; data-toggle='tooltip' data-placement='top' title='morally: without blemish, faultless, unblameable'>without blame</span> before <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>him</span> in love:",
+      "plainText": "According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "29212",
-      "text" : "Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,",
-      "plainText" : "Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "29212",
+      "text": "Having <span class='ttw'; data-toggle='tooltip' data-placement='top' title='predetermined, decided or appointed beforehand, preordained'>predestinated</span> us <span class='ttw'; data-toggle='tooltip' data-placement='top' title='to'>unto</span> the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='the giving of the name and place and privileges of a son to someone who is not a son by birth'>adoption</span> of children by Jesus Christ to <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>himself</span>, according to the good pleasure of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>his</span> will,",
+      "plainText": "Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "29213",
-      "text" : "To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.",
-      "plainText" : "To the praise of the glory of his grace, wherein he hath made us accepted in the beloved."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "29213",
+      "text": "To the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='to commend, to applaud, to express approbation of personal worth or actions, to extol in words or song, to magnify, to glorify on account of perfections or excellent works, to express gratitude, to do honour to, to display the excellence of'>praise</span> of the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='splendour, brightness, magnificence, majesty, excellence'>glory</span> of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>his</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='good will, loving-kindness, favour'>grace</span>, <span class='ttw'; data-toggle='tooltip' data-placement='top' title='in which'>wherein</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>he</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='has'>hath</span> made us <span class='ttw'; data-toggle='tooltip' data-placement='top' title='highly favoured, agreeable'>accepted</span> in <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ: the beloved Son of God'>the beloved</span>.",
+      "plainText": "To the praise of the glory of his grace, wherein he hath made us accepted in the beloved."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "29214",
-      "text" : "In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;",
-      "plainText" : "In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "29214",
+      "text": "In <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>whom</span> we have <span class='ttw'; data-toggle='tooltip' data-placement='top' title='release or liberation effected by payment of a ransom'>redemption</span> through <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>his</span> blood, the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='deliverance, liberty, remission, pardon'>forgiveness</span> of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='offence, fault, lapse or deviation from truth and uprightness, unintentional error or willful transgression'>sins</span>, according to the riches of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>his</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='good will, loving-kindness, favour'>grace</span>;",
+      "plainText": "In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "29215",
-      "text" : "Wherein he hath abounded toward us in all wisdom and prudence;",
-      "plainText" : "Wherein he hath abounded toward us in all wisdom and prudence;"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "29215",
+      "text": "<span class='ttw'; data-toggle='tooltip' data-placement='top' title='in which'>Wherein</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>he</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='has'>hath</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='abundantly or plentifully supplied'>abounded</span> toward us in all <span class='ttw'; data-toggle='tooltip' data-placement='top' title='the right use or exercise of knowledge'>wisdom</span> and <span class='ttw'; data-toggle='tooltip' data-placement='top' title='understanding, moral insight, sound judgment in avoiding evil'>prudence</span>;",
+      "plainText": "Wherein he hath abounded toward us in all wisdom and prudence;"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "29216",
-      "text" : "Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:",
-      "plainText" : "Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "29216",
+      "text": "Having made known <span class='ttw'; data-toggle='tooltip' data-placement='top' title='to'>unto</span> us the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='hidden secret'>mystery</span> of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>his</span> will, according to <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>his</span> good pleasure which <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>he</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='has'>hath</span> purposed in <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>himself</span>:",
+      "plainText": "Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "29217",
-      "text" : "That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; <span class='extra'>even<\/span> in him:",
-      "plainText" : "That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "29217",
+      "text": "That in the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='period of time'>dispensation</span> of the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='fullness: being full, completeness'>fulness</span> of times <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>he</span> might gather together in one all things in Christ, both which are in heaven, and which are on earth; <span class='extra'>even</span> in <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>him</span>:",
+      "plainText": "That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "29218",
-      "text" : "In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:",
-      "plainText" : "In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "29218",
+      "text": "In <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>whom</span> also we have obtained an <span class='ttw'; data-toggle='tooltip' data-placement='top' title='the estate or possession which has or may descend to an heir'>inheritance</span>, being <span class='ttw'; data-toggle='tooltip' data-placement='top' title='predetermined, decided or appointed beforehand, preordained'>predestinated</span> according to the purpose of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>him</span> who <span class='ttw'; data-toggle='tooltip' data-placement='top' title='works, does'>worketh</span> all things after the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='advice, consultation'>counsel</span> of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>his</span> own will:",
+      "plainText": "In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "29219",
-      "text" : "That we should be to the praise of his glory, who first trusted in Christ.",
-      "plainText" : "That we should be to the praise of his glory, who first trusted in Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "29219",
+      "text": "That we should be to the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='to commend, to applaud, to express approbation of personal worth or actions, to extol in words or song, to magnify, to glorify on account of perfections or excellent works, to express gratitude, to do honour to, to display the excellence of'>praise</span> of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>his</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='splendour, brightness, magnificence, majesty, excellence'>glory</span>, who first trusted in Christ.",
+      "plainText": "That we should be to the praise of his glory, who first trusted in Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "29220",
-      "text" : "In whom ye also <span class='extra'>trusted<\/span>, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,",
-      "plainText" : "In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "29220",
+      "text": "In <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>whom</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='you (plural)'>ye</span> also <span class='extra'>trusted</span>, after that <span class='ttw'; data-toggle='tooltip' data-placement='top' title='you (plural)'>ye</span> heard the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>word of truth</span>, the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='good news, glad tidings'>gospel</span> of your <span class='ttw'; data-toggle='tooltip' data-placement='top' title='the act of saving; preservation from destruction, danger or great calamity'>salvation</span>: in <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>whom</span> also after that <span class='ttw'; data-toggle='tooltip' data-placement='top' title='you (plural)'>ye</span> believed, <span class='ttw'; data-toggle='tooltip' data-placement='top' title='you (plural)'>ye</span> were <span class='ttw'; data-toggle='tooltip' data-placement='top' title='marked'>sealed</span> with that holy Spirit of promise,",
+      "plainText": "In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "29221",
-      "text" : "Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.",
-      "plainText" : "Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "29221",
+      "text": "Which is the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='down payment, pledge'>earnest</span> of our <span class='ttw'; data-toggle='tooltip' data-placement='top' title='the estate or possession which has or may descend to an heir'>inheritance</span> until the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='release or liberation effected by payment of a ransom'>redemption</span> of the <span class='ttw'; data-toggle='tooltip' data-placement='top' title=\"to take full ownership or possession, obtaining or acquiring one's own property (our earthly body)\">purchased possession</span>, <span class='ttw'; data-toggle='tooltip' data-placement='top' title='to'>unto</span> the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='to commend, to applaud, to express approbation of personal worth or actions, to extol in words or song, to magnify, to glorify on account of perfections or excellent works, to express gratitude, to do honour to, to display the excellence of'>praise</span> of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Holy Spirit'>his</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='splendour, brightness, magnificence, majesty, excellence'>glory</span>.",
+      "plainText": "Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "29222",
-      "text" : "Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,",
-      "plainText" : "Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "29222",
+      "text": "<span class='ttw'; data-toggle='tooltip' data-placement='top' title='for which reason'>Wherefore</span> I also, after I heard of your faith in the Lord Jesus, and love <span class='ttw'; data-toggle='tooltip' data-placement='top' title='to'>unto</span> all the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='most holy, sacred, morally blameless'>saints</span>,",
+      "plainText": "Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "29223",
-      "text" : "Cease not to give thanks for you, making mention of you in my prayers;",
-      "plainText" : "Cease not to give thanks for you, making mention of you in my prayers;"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "29223",
+      "text": "Cease not to give thanks for you, making mention of you in my prayers;",
+      "plainText": "Cease not to give thanks for you, making mention of you in my prayers;"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "29224",
-      "text" : "That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:",
-      "plainText" : "That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "29224",
+      "text": "That the God of our Lord Jesus Christ, the Father of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='splendour, brightness, magnificence, majesty, excellence'>glory</span>, may give <span class='ttw'; data-toggle='tooltip' data-placement='top' title='to'>unto</span> you the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='disposition or influence'>spirit</span> of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='the right use or exercise of knowledge'>wisdom</span> and <span class='ttw'; data-toggle='tooltip' data-placement='top' title='a disclosure of truth'>revelation</span> in the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='experiential knowledge gained through first-hand relationship'>knowledge</span> of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>him</span>:",
+      "plainText": "That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "29225",
-      "text" : "The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,",
-      "plainText" : "The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "29225",
+      "text": "The eyes of your <span class='ttw'; data-toggle='tooltip' data-placement='top' title='mind, way of thinking and feeling'>understanding</span> being <span class='ttw'; data-toggle='tooltip' data-placement='top' title='illuminated, instructed, informed, furnished with clear views'>enlightened</span>; that <span class='ttw'; data-toggle='tooltip' data-placement='top' title='you (plural)'>ye</span> may <span class='ttw'; data-toggle='tooltip' data-placement='top' title='see, perceive, be aware, discover'>know</span> what is the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='confident expectation'>hope</span> of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>his</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='invitation, vocation'>calling</span>, and what the riches of the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='splendour, brightness, magnificence, majesty, excellence'>glory</span> of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>his</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='the estate or possession which has or may descend to an heir'>inheritance</span> in the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='most holy, sacred, morally blameless'>saints</span>,",
+      "plainText": "The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "29226",
-      "text" : "And what <span class='extra'>is<\/span> the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,",
-      "plainText" : "And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "29226",
+      "text": "And what <span class='extra'>is</span> the exceeding greatness of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>his</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='inherent strength, ability to perform'>power</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='toward us'>to us-ward</span> who believe, according to the working of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>his</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='force, miraculous power'>mighty power</span>,",
+      "plainText": "And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "29227",
-      "text" : "Which he wrought in Christ, when he raised him from the dead, and set <span class='extra'>him<\/span> at his own right hand in the heavenly <span class='extra'>places<\/span>,",
-      "plainText" : "Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "29227",
+      "text": "Which <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>he</span> <span class='ttw'; data-toggle='tooltip' data-placement='top' title='worked, effected, performed, fashioned, produced'>wrought</span> in Christ, when <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>he</span> raised <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>him</span> from the dead, and set <span class='extra ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>him</span> at <span class='ttw'; data-toggle='tooltip' data-placement='top' title='God the Father'>his</span> own right hand in the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='heaven'>heavenly <span class='extra'>places</span></span>,",
+      "plainText": "Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "29228",
-      "text" : "Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:",
-      "plainText" : "Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "29228",
+      "text": "Far above all <span class='ttw'; data-toggle='tooltip' data-placement='top' title='principal office, sovereignty, supreme power'>principality</span>, and <span class='ttw'; data-toggle='tooltip' data-placement='top' title='authority, jurisdiction'>power</span>, and <span class='ttw'; data-toggle='tooltip' data-placement='top' title='inherent strength, ability to perform'>might</span>, and <span class='ttw'; data-toggle='tooltip' data-placement='top' title='government, rulers, lordship'>dominion</span>, and every name that is named, not only in this world, but also in that which is to come:",
+      "plainText": "Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "29229",
-      "text" : "And hath put all <span class='extra'>things<\/span> under his feet, and gave him <span class='extra'>to be<\/span> the head over all <span class='extra'>things<\/span> to the church,",
-      "plainText" : "And hath put all things under his feet, and gave him to be the head over all things to the church,"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "29229",
+      "text": "And <span class='ttw'; data-toggle='tooltip' data-placement='top' title='has'>hath</span> put all <span class='extra'>things</span> under <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>his</span> feet, and gave <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>him</span> <span class='extra'>to be</span> the head over all <span class='extra'>things</span> to the church,",
+      "plainText": "And hath put all things under his feet, and gave him to be the head over all things to the church,"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "29230",
-      "text" : "Which is his body, the fulness of him that filleth all in all.",
-      "plainText" : "Which is his body, the fulness of him that filleth all in all."
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "29230",
+      "text": "Which is <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>his</span> body, the <span class='ttw'; data-toggle='tooltip' data-placement='top' title='fullness: being full, completeness, fulfilling'>fulness</span> of <span class='ttw'; data-toggle='tooltip' data-placement='top' title='Jesus Christ'>him</span> that <span class='ttw'; data-toggle='tooltip' data-placement='top' title='to make full, to fill up, to complete'>filleth</span> all in all.",
+      "plainText": "Which is his body, the fulness of him that filleth all in all."
     }
   ]
 }
-

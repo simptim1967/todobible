@@ -1,153 +1,139 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "79",
-    "verseCount" : "13",
-    "nextChapter" : "psalms_80.html",
-    "nextTitle" : "Psalms 80",
-    "prevChapter" : "psalms_78.html",
-    "prevTitle" : "Psalms 78",
-    "filename" : "psalms_79.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "79",
+    "verseCount": "13",
+    "nextChapter": "psalms_80.html",
+    "nextTitle": "Psalms 80",
+    "prevChapter": "psalms_78.html",
+    "prevTitle": "Psalms 78",
+    "filename": "psalms_79.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Psalm of Asaph.",
-      "plainText" : "A Psalm of Asaph."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Psalm of Asaph.",
+      "plainText": "A Psalm of Asaph."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "15187",
-      "text" : "O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.",
-      "plainText" : "O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "15187",
+      "text": "O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.",
+      "plainText": "O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "15188",
-      "text" : "The dead bodies of thy servants have they given <span class='extra'>to be<\/span> meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth.",
-      "plainText" : "The dead bodies of thy servants have they given to be meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "15188",
+      "text": "The dead bodies of thy servants have they given <span class='extra'>to be</span> meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth.",
+      "plainText": "The dead bodies of thy servants have they given to be meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "15189",
-      "text" : "Their blood have they shed like water round about Jerusalem; and <span class='extra'>there was<\/span> none to bury <span class='extra'>them<\/span>.",
-      "plainText" : "Their blood have they shed like water round about Jerusalem; and there was none to bury them."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "15189",
+      "text": "Their blood have they shed like water round about Jerusalem; and <span class='extra'>there was</span> none to bury <span class='extra'>them</span>.",
+      "plainText": "Their blood have they shed like water round about Jerusalem; and there was none to bury them."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "15190",
-      "text" : "We are become a reproach to our neighbours, a scorn and derision to them that are round about us.",
-      "plainText" : "We are become a reproach to our neighbours, a scorn and derision to them that are round about us."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "15190",
+      "text": "We are become a reproach to our neighbours, a scorn and derision to them that are round about us.",
+      "plainText": "We are become a reproach to our neighbours, a scorn and derision to them that are round about us."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "15191",
-      "text" : "How long, <span class='nog'>LORD<\/span>? wilt thou be angry for ever? shall thy jealousy burn like fire?",
-      "plainText" : "How long, LORD? wilt thou be angry for ever? shall thy jealousy burn like fire?"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "15191",
+      "text": "How long, <span class='nog'>LORD</span>? wilt thou be angry for ever? shall thy jealousy burn like fire?",
+      "plainText": "How long, LORD? wilt thou be angry for ever? shall thy jealousy burn like fire?"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "15192",
-      "text" : "Pour out thy wrath upon the heathen that have not known thee, and upon the kingdoms that have not called upon thy name.",
-      "plainText" : "Pour out thy wrath upon the heathen that have not known thee, and upon the kingdoms that have not called upon thy name."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "15192",
+      "text": "Pour out thy wrath upon the heathen that have not known thee, and upon the kingdoms that have not called upon thy name.",
+      "plainText": "Pour out thy wrath upon the heathen that have not known thee, and upon the kingdoms that have not called upon thy name."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "15193",
-      "text" : "For they have devoured Jacob, and laid waste his dwelling place.",
-      "plainText" : "For they have devoured Jacob, and laid waste his dwelling place."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "15193",
+      "text": "For they have devoured Jacob, and laid waste his dwelling place.",
+      "plainText": "For they have devoured Jacob, and laid waste his dwelling place."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "15194",
-      "text" : "O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low.",
-      "plainText" : "O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "15194",
+      "text": "O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low.",
+      "plainText": "O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "15195",
-      "text" : "Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name's sake.",
-      "plainText" : "Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name's sake."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "15195",
+      "text": "Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name's sake.",
+      "plainText": "Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name's sake."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "15196",
-      "text" : "Wherefore should the heathen say, Where <span class='extra'>is<\/span> their God? let him be known among the heathen in our sight <span class='extra'>by<\/span> the revenging of the blood of thy servants <span class='extra'>which is<\/span> shed.",
-      "plainText" : "Wherefore should the heathen say, Where is their God? let him be known among the heathen in our sight by the revenging of the blood of thy servants which is shed."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "15196",
+      "text": "Wherefore should the heathen say, Where <span class='extra'>is</span> their God? let him be known among the heathen in our sight <span class='extra'>by</span> the revenging of the blood of thy servants <span class='extra'>which is</span> shed.",
+      "plainText": "Wherefore should the heathen say, Where is their God? let him be known among the heathen in our sight by the revenging of the blood of thy servants which is shed."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "15197",
-      "text" : "Let the sighing of the prisoner come before thee; according to the greatness of thy power preserve thou those that are appointed to die;",
-      "plainText" : "Let the sighing of the prisoner come before thee; according to the greatness of thy power preserve thou those that are appointed to die;"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "15197",
+      "text": "Let the sighing of the prisoner come before thee; according to the greatness of thy power preserve thou those that are appointed to die;",
+      "plainText": "Let the sighing of the prisoner come before thee; according to the greatness of thy power preserve thou those that are appointed to die;"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "15198",
-      "text" : "And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord.",
-      "plainText" : "And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "15198",
+      "text": "And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord.",
+      "plainText": "And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "15199",
-      "text" : "So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations.",
-      "plainText" : "So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations."
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "15199",
+      "text": "So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations.",
+      "plainText": "So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations."
     }
   ]
 }
-
-

@@ -1,309 +1,277 @@
 {
   "book": {
-    "number" : "23",
-    "filenamePrefix" : "isaiah",
-    "bookPage" : "isaiah.html",
-    "title" : "Isaiah",
-    "chapterCount" : "66",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "jeremiah_1.html",
-    "nextTitle" : "Jeremiah",
-    "prevBook" : "song_of_solomon_1.html",
-    "prevTitle" : "Song of Solomon"
+    "number": "23",
+    "filenamePrefix": "isaiah",
+    "bookPage": "isaiah.html",
+    "title": "Isaiah",
+    "chapterCount": "66",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "jeremiah_1.html",
+    "nextTitle": "Jeremiah",
+    "prevBook": "song_of_solomon_1.html",
+    "prevTitle": "Song of Solomon",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "40",
-    "verseCount" : "31",
-    "nextChapter" : "isaiah_41.html",
-    "nextTitle" : "Isaiah 41",
-    "prevChapter" : "isaiah_39.html",
-    "prevTitle" : "Isaiah 39",
-    "filename" : "isaiah_40.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "40",
+    "verseCount": "31",
+    "nextChapter": "isaiah_41.html",
+    "nextTitle": "Isaiah 41",
+    "prevChapter": "isaiah_39.html",
+    "prevTitle": "Isaiah 39",
+    "filename": "isaiah_40.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "18422",
-      "text" : "Comfort ye, comfort ye my people, saith your God.",
-      "plainText" : "Comfort ye, comfort ye my people, saith your God."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "18422",
+      "text": "Comfort ye, comfort ye my people, saith your God.",
+      "plainText": "Comfort ye, comfort ye my people, saith your God."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "18423",
-      "text" : "Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the <span class='nog'>LORD<\/span>'s hand double for all her sins.",
-      "plainText" : "Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the LORD's hand double for all her sins."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "18423",
+      "text": "Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the <span class='nog'>LORD</span>'s hand double for all her sins.",
+      "plainText": "Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the LORD's hand double for all her sins."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "18424",
-      "text" : "The voice of him that crieth in the wilderness, Prepare ye the way of the <span class='nog'>LORD<\/span>, make straight in the desert a highway for our God.",
-      "plainText" : "The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "18424",
+      "text": "The voice of him that crieth in the wilderness, Prepare ye the way of the <span class='nog'>LORD</span>, make straight in the desert a highway for our God.",
+      "plainText": "The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "18425",
-      "text" : "Every valley shall be exalted, and every mountain and hill shall be made low: and the crooked shall be made straight, and the rough places plain:",
-      "plainText" : "Every valley shall be exalted, and every mountain and hill shall be made low: and the crooked shall be made straight, and the rough places plain:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "18425",
+      "text": "Every valley shall be exalted, and every mountain and hill shall be made low: and the crooked shall be made straight, and the rough places plain:",
+      "plainText": "Every valley shall be exalted, and every mountain and hill shall be made low: and the crooked shall be made straight, and the rough places plain:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "18426",
-      "text" : "And the glory of the <span class='nog'>LORD<\/span> shall be revealed, and all flesh shall see <span class='extra'>it<\/span> together: for the mouth of the <span class='nog'>LORD<\/span> hath spoken <span class='extra'>it<\/span>.",
-      "plainText" : "And the glory of the LORD shall be revealed, and all flesh shall see it together: for the mouth of the LORD hath spoken it."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "18426",
+      "text": "And the glory of the <span class='nog'>LORD</span> shall be revealed, and all flesh shall see <span class='extra'>it</span> together: for the mouth of the <span class='nog'>LORD</span> hath spoken <span class='extra'>it</span>.",
+      "plainText": "And the glory of the LORD shall be revealed, and all flesh shall see it together: for the mouth of the LORD hath spoken it."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "18427",
-      "text" : "The voice said, Cry. And he said, What shall I cry? All flesh <span class='extra'>is<\/span> grass, and all the goodliness thereof <span class='extra'>is<\/span> as the flower of the field:",
-      "plainText" : "The voice said, Cry. And he said, What shall I cry? All flesh is grass, and all the goodliness thereof is as the flower of the field:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "18427",
+      "text": "The voice said, Cry. And he said, What shall I cry? All flesh <span class='extra'>is</span> grass, and all the goodliness thereof <span class='extra'>is</span> as the flower of the field:",
+      "plainText": "The voice said, Cry. And he said, What shall I cry? All flesh is grass, and all the goodliness thereof is as the flower of the field:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "18428",
-      "text" : "The grass withereth, the flower fadeth: because the spirit of the <span class='nog'>LORD<\/span> bloweth upon it: surely the people <span class='extra'>is<\/span> grass.",
-      "plainText" : "The grass withereth, the flower fadeth: because the spirit of the LORD bloweth upon it: surely the people is grass."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "18428",
+      "text": "The grass withereth, the flower fadeth: because the spirit of the <span class='nog'>LORD</span> bloweth upon it: surely the people <span class='extra'>is</span> grass.",
+      "plainText": "The grass withereth, the flower fadeth: because the spirit of the LORD bloweth upon it: surely the people is grass."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "18429",
-      "text" : "The grass withereth, the flower fadeth: but the word of our God shall stand for ever.",
-      "plainText" : "The grass withereth, the flower fadeth: but the word of our God shall stand for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "18429",
+      "text": "The grass withereth, the flower fadeth: but the word of our God shall stand for ever.",
+      "plainText": "The grass withereth, the flower fadeth: but the word of our God shall stand for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "18430",
-      "text" : "O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift <span class='extra'>it<\/span> up, be not afraid; say unto the cities of Judah, Behold your God!",
-      "plainText" : "O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift it up, be not afraid; say unto the cities of Judah, Behold your God!"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "18430",
+      "text": "O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift <span class='extra'>it</span> up, be not afraid; say unto the cities of Judah, Behold your God!",
+      "plainText": "O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift it up, be not afraid; say unto the cities of Judah, Behold your God!"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "18431",
-      "text" : "Behold, the Lord <span class='nog'>GOD<\/span> will come with strong <span class='extra'>hand<\/span>, and his arm shall rule for him: behold, his reward <span class='extra'>is<\/span> with him, and his work before him.",
-      "plainText" : "Behold, the Lord GOD will come with strong hand, and his arm shall rule for him: behold, his reward is with him, and his work before him."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "18431",
+      "text": "Behold, the Lord <span class='nog'>GOD</span> will come with strong <span class='extra'>hand</span>, and his arm shall rule for him: behold, his reward <span class='extra'>is</span> with him, and his work before him.",
+      "plainText": "Behold, the Lord GOD will come with strong hand, and his arm shall rule for him: behold, his reward is with him, and his work before him."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "18432",
-      "text" : "He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry <span class='extra'>them<\/span> in his bosom, <span class='extra'>and<\/span> shall gently lead those that are with young.",
-      "plainText" : "He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry them in his bosom, and shall gently lead those that are with young."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "18432",
+      "text": "He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry <span class='extra'>them</span> in his bosom, <span class='extra'>and</span> shall gently lead those that are with young.",
+      "plainText": "He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry them in his bosom, and shall gently lead those that are with young."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "18433",
-      "text" : "Who hath measured the waters in the hollow of his hand, and meted out heaven with the span, and comprehended the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?",
-      "plainText" : "Who hath measured the waters in the hollow of his hand, and meted out heaven with the span, and comprehended the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "18433",
+      "text": "Who hath measured the waters in the hollow of his hand, and meted out heaven with the span, and comprehended the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?",
+      "plainText": "Who hath measured the waters in the hollow of his hand, and meted out heaven with the span, and comprehended the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "18434",
-      "text" : "Who hath directed the Spirit of the <span class='nog'>LORD<\/span>, or <span class='extra'>being<\/span> his counsellor hath taught him?",
-      "plainText" : "Who hath directed the Spirit of the LORD, or being his counsellor hath taught him?"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "18434",
+      "text": "Who hath directed the Spirit of the <span class='nog'>LORD</span>, or <span class='extra'>being</span> his counsellor hath taught him?",
+      "plainText": "Who hath directed the Spirit of the LORD, or being his counsellor hath taught him?"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "18435",
-      "text" : "With whom took he counsel, and <span class='extra'>who<\/span> instructed him, and taught him in the path of judgment, and taught him knowledge, and shewed to him the way of understanding?",
-      "plainText" : "With whom took he counsel, and who instructed him, and taught him in the path of judgment, and taught him knowledge, and shewed to him the way of understanding?"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "18435",
+      "text": "With whom took he counsel, and <span class='extra'>who</span> instructed him, and taught him in the path of judgment, and taught him knowledge, and shewed to him the way of understanding?",
+      "plainText": "With whom took he counsel, and who instructed him, and taught him in the path of judgment, and taught him knowledge, and shewed to him the way of understanding?"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "18436",
-      "text" : "Behold, the nations <span class='extra'>are<\/span> as a drop of a bucket, and are counted as the small dust of the balance: behold, he taketh up the isles as a very little thing.",
-      "plainText" : "Behold, the nations are as a drop of a bucket, and are counted as the small dust of the balance: behold, he taketh up the isles as a very little thing."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "18436",
+      "text": "Behold, the nations <span class='extra'>are</span> as a drop of a bucket, and are counted as the small dust of the balance: behold, he taketh up the isles as a very little thing.",
+      "plainText": "Behold, the nations are as a drop of a bucket, and are counted as the small dust of the balance: behold, he taketh up the isles as a very little thing."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "18437",
-      "text" : "And Lebanon <span class='extra'>is<\/span> not sufficient to burn, nor the beasts thereof sufficient for a burnt offering.",
-      "plainText" : "And Lebanon is not sufficient to burn, nor the beasts thereof sufficient for a burnt offering."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "18437",
+      "text": "And Lebanon <span class='extra'>is</span> not sufficient to burn, nor the beasts thereof sufficient for a burnt offering.",
+      "plainText": "And Lebanon is not sufficient to burn, nor the beasts thereof sufficient for a burnt offering."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "18438",
-      "text" : "All nations before him <span class='extra'>are<\/span> as nothing; and they are counted to him less than nothing, and vanity.",
-      "plainText" : "All nations before him are as nothing; and they are counted to him less than nothing, and vanity."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "18438",
+      "text": "All nations before him <span class='extra'>are</span> as nothing; and they are counted to him less than nothing, and vanity.",
+      "plainText": "All nations before him are as nothing; and they are counted to him less than nothing, and vanity."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "18439",
-      "text" : "To whom then will ye liken God? or what likeness will ye compare unto him?",
-      "plainText" : "To whom then will ye liken God? or what likeness will ye compare unto him?"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "18439",
+      "text": "To whom then will ye liken God? or what likeness will ye compare unto him?",
+      "plainText": "To whom then will ye liken God? or what likeness will ye compare unto him?"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "18440",
-      "text" : "The workman melteth a graven image, and the goldsmith spreadeth it over with gold, and casteth silver chains.",
-      "plainText" : "The workman melteth a graven image, and the goldsmith spreadeth it over with gold, and casteth silver chains."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "18440",
+      "text": "The workman melteth a graven image, and the goldsmith spreadeth it over with gold, and casteth silver chains.",
+      "plainText": "The workman melteth a graven image, and the goldsmith spreadeth it over with gold, and casteth silver chains."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "18441",
-      "text" : "He that <span class='extra'>is<\/span> so impoverished that he hath no oblation chooseth a tree <span class='extra'>that<\/span> will not rot; he seeketh unto him a cunning workman to prepare a graven image, <span class='extra'>that<\/span> shall not be moved.",
-      "plainText" : "He that is so impoverished that he hath no oblation chooseth a tree that will not rot; he seeketh unto him a cunning workman to prepare a graven image, that shall not be moved."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "18441",
+      "text": "He that <span class='extra'>is</span> so impoverished that he hath no oblation chooseth a tree <span class='extra'>that</span> will not rot; he seeketh unto him a cunning workman to prepare a graven image, <span class='extra'>that</span> shall not be moved.",
+      "plainText": "He that is so impoverished that he hath no oblation chooseth a tree that will not rot; he seeketh unto him a cunning workman to prepare a graven image, that shall not be moved."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "18442",
-      "text" : "Have ye not known? have ye not heard? hath it not been told you from the beginning? have ye not understood from the foundations of the earth?",
-      "plainText" : "Have ye not known? have ye not heard? hath it not been told you from the beginning? have ye not understood from the foundations of the earth?"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "18442",
+      "text": "Have ye not known? have ye not heard? hath it not been told you from the beginning? have ye not understood from the foundations of the earth?",
+      "plainText": "Have ye not known? have ye not heard? hath it not been told you from the beginning? have ye not understood from the foundations of the earth?"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "18443",
-      "text" : "<span class='extra'>It is<\/span> he that sitteth upon the circle of the earth, and the inhabitants thereof <span class='extra'>are<\/span> as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:",
-      "plainText" : "It is he that sitteth upon the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "18443",
+      "text": "<span class='extra'>It is</span> he that sitteth upon the circle of the earth, and the inhabitants thereof <span class='extra'>are</span> as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:",
+      "plainText": "It is he that sitteth upon the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "18444",
-      "text" : "That bringeth the princes to nothing; he maketh the judges of the earth as vanity.",
-      "plainText" : "That bringeth the princes to nothing; he maketh the judges of the earth as vanity."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "18444",
+      "text": "That bringeth the princes to nothing; he maketh the judges of the earth as vanity.",
+      "plainText": "That bringeth the princes to nothing; he maketh the judges of the earth as vanity."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "18445",
-      "text" : "Yea, they shall not be planted; yea, they shall not be sown: yea, their stock shall not take root in the earth: and he shall also blow upon them, and they shall wither, and the whirlwind shall take them away as stubble.",
-      "plainText" : "Yea, they shall not be planted; yea, they shall not be sown: yea, their stock shall not take root in the earth: and he shall also blow upon them, and they shall wither, and the whirlwind shall take them away as stubble."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "18445",
+      "text": "Yea, they shall not be planted; yea, they shall not be sown: yea, their stock shall not take root in the earth: and he shall also blow upon them, and they shall wither, and the whirlwind shall take them away as stubble.",
+      "plainText": "Yea, they shall not be planted; yea, they shall not be sown: yea, their stock shall not take root in the earth: and he shall also blow upon them, and they shall wither, and the whirlwind shall take them away as stubble."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "18446",
-      "text" : "To whom then will ye liken me, or shall I be equal? saith the Holy One.",
-      "plainText" : "To whom then will ye liken me, or shall I be equal? saith the Holy One."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "18446",
+      "text": "To whom then will ye liken me, or shall I be equal? saith the Holy One.",
+      "plainText": "To whom then will ye liken me, or shall I be equal? saith the Holy One."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "18447",
-      "text" : "Lift up your eyes on high, and behold who hath created these <span class='extra'>things<\/span>, that bringeth out their host by number: he calleth them all by names by the greatness of his might, for that <span class='extra'>he is<\/span> strong in power; not one faileth.",
-      "plainText" : "Lift up your eyes on high, and behold who hath created these things, that bringeth out their host by number: he calleth them all by names by the greatness of his might, for that he is strong in power; not one faileth."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "18447",
+      "text": "Lift up your eyes on high, and behold who hath created these <span class='extra'>things</span>, that bringeth out their host by number: he calleth them all by names by the greatness of his might, for that <span class='extra'>he is</span> strong in power; not one faileth.",
+      "plainText": "Lift up your eyes on high, and behold who hath created these things, that bringeth out their host by number: he calleth them all by names by the greatness of his might, for that he is strong in power; not one faileth."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "18448",
-      "text" : "Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from the <span class='nog'>LORD<\/span>, and my judgment is passed over from my God?",
-      "plainText" : "Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from the LORD, and my judgment is passed over from my God?"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "18448",
+      "text": "Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from the <span class='nog'>LORD</span>, and my judgment is passed over from my God?",
+      "plainText": "Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from the LORD, and my judgment is passed over from my God?"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "18449",
-      "text" : "Hast thou not known? hast thou not heard, <span class='extra'>that<\/span> the everlasting God, the <span class='nog'>LORD<\/span>, the Creator of the ends of the earth, fainteth not, neither is weary? <span class='extra'>there is<\/span> no searching of his understanding.",
-      "plainText" : "Hast thou not known? hast thou not heard, that the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? there is no searching of his understanding."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "18449",
+      "text": "Hast thou not known? hast thou not heard, <span class='extra'>that</span> the everlasting God, the <span class='nog'>LORD</span>, the Creator of the ends of the earth, fainteth not, neither is weary? <span class='extra'>there is</span> no searching of his understanding.",
+      "plainText": "Hast thou not known? hast thou not heard, that the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? there is no searching of his understanding."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "18450",
-      "text" : "He giveth power to the faint; and to <span class='extra'>them that have<\/span> no might he increaseth strength.",
-      "plainText" : "He giveth power to the faint; and to them that have no might he increaseth strength."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "18450",
+      "text": "He giveth power to the faint; and to <span class='extra'>them that have</span> no might he increaseth strength.",
+      "plainText": "He giveth power to the faint; and to them that have no might he increaseth strength."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "18451",
-      "text" : "Even the youths shall faint and be weary, and the young men shall utterly fall:",
-      "plainText" : "Even the youths shall faint and be weary, and the young men shall utterly fall:"
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "18451",
+      "text": "Even the youths shall faint and be weary, and the young men shall utterly fall:",
+      "plainText": "Even the youths shall faint and be weary, and the young men shall utterly fall:"
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "18452",
-      "text" : "But they that wait upon the <span class='nog'>LORD<\/span> shall renew <span class='extra'>their<\/span> strength; they shall mount up with wings as eagles; they shall run, and not be weary; <span class='extra'>and<\/span> they shall walk, and not faint.",
-      "plainText" : "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint."
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "18452",
+      "text": "But they that wait upon the <span class='nog'>LORD</span> shall renew <span class='extra'>their</span> strength; they shall mount up with wings as eagles; they shall run, and not be weary; <span class='extra'>and</span> they shall walk, and not faint.",
+      "plainText": "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint."
     }
   ]
 }
-
-
-

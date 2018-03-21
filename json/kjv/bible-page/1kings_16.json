@@ -1,335 +1,301 @@
 {
   "book": {
-    "number" : "11",
-    "filenamePrefix" : "1kings",
-    "bookPage" : "1kings.html",
-    "title" : "1 Kings",
-    "chapterCount" : "22",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "2kings_1.html",
-    "nextTitle" : "2 Kings",
-    "prevBook" : "2samuel_1.html",
-    "prevTitle" : "2 Samuel"
+    "number": "11",
+    "filenamePrefix": "1kings",
+    "bookPage": "1kings.html",
+    "title": "1 Kings",
+    "chapterCount": "22",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "2kings_1.html",
+    "nextTitle": "2 Kings",
+    "prevBook": "2samuel_1.html",
+    "prevTitle": "2 Samuel",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "16",
-    "verseCount" : "34",
-    "nextChapter" : "1kings_17.html",
-    "nextTitle" : "1 Kings 17",
-    "prevChapter" : "1kings_15.html",
-    "prevTitle" : "1 Kings 15",
-    "filename" : "1kings_16.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "16",
+    "verseCount": "34",
+    "nextChapter": "1kings_17.html",
+    "nextTitle": "1 Kings 17",
+    "prevChapter": "1kings_15.html",
+    "prevTitle": "1 Kings 15",
+    "filename": "1kings_16.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "9285",
-      "text" : "Then the word of the <span class='nog'>LORD<\/span> came to Jehu the son of Hanani against Baasha, saying,",
-      "plainText" : "Then the word of the LORD came to Jehu the son of Hanani against Baasha, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "9285",
+      "text": "Then the word of the <span class='nog'>LORD</span> came to Jehu the son of Hanani against Baasha, saying,",
+      "plainText": "Then the word of the LORD came to Jehu the son of Hanani against Baasha, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "9286",
-      "text" : "Forasmuch as I exalted thee out of the dust, and made thee prince over my people Israel; and thou hast walked in the way of Jeroboam, and hast made my people Israel to sin, to provoke me to anger with their sins;",
-      "plainText" : "Forasmuch as I exalted thee out of the dust, and made thee prince over my people Israel; and thou hast walked in the way of Jeroboam, and hast made my people Israel to sin, to provoke me to anger with their sins;"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "9286",
+      "text": "Forasmuch as I exalted thee out of the dust, and made thee prince over my people Israel; and thou hast walked in the way of Jeroboam, and hast made my people Israel to sin, to provoke me to anger with their sins;",
+      "plainText": "Forasmuch as I exalted thee out of the dust, and made thee prince over my people Israel; and thou hast walked in the way of Jeroboam, and hast made my people Israel to sin, to provoke me to anger with their sins;"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "9287",
-      "text" : "Behold, I will take away the posterity of Baasha, and the posterity of his house; and will make thy house like the house of Jeroboam the son of Nebat.",
-      "plainText" : "Behold, I will take away the posterity of Baasha, and the posterity of his house; and will make thy house like the house of Jeroboam the son of Nebat."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "9287",
+      "text": "Behold, I will take away the posterity of Baasha, and the posterity of his house; and will make thy house like the house of Jeroboam the son of Nebat.",
+      "plainText": "Behold, I will take away the posterity of Baasha, and the posterity of his house; and will make thy house like the house of Jeroboam the son of Nebat."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "9288",
-      "text" : "Him that dieth of Baasha in the city shall the dogs eat; and him that dieth of his in the fields shall the fowls of the air eat.",
-      "plainText" : "Him that dieth of Baasha in the city shall the dogs eat; and him that dieth of his in the fields shall the fowls of the air eat."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "9288",
+      "text": "Him that dieth of Baasha in the city shall the dogs eat; and him that dieth of his in the fields shall the fowls of the air eat.",
+      "plainText": "Him that dieth of Baasha in the city shall the dogs eat; and him that dieth of his in the fields shall the fowls of the air eat."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "9289",
-      "text" : "Now the rest of the acts of Baasha, and what he did, and his might, <span class='extra'>are<\/span> they not written in the book of the chronicles of the kings of Israel?",
-      "plainText" : "Now the rest of the acts of Baasha, and what he did, and his might, are they not written in the book of the chronicles of the kings of Israel?"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "9289",
+      "text": "Now the rest of the acts of Baasha, and what he did, and his might, <span class='extra'>are</span> they not written in the book of the chronicles of the kings of Israel?",
+      "plainText": "Now the rest of the acts of Baasha, and what he did, and his might, are they not written in the book of the chronicles of the kings of Israel?"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "9290",
-      "text" : "So Baasha slept with his fathers, and was buried in Tirzah: and Elah his son reigned in his stead.",
-      "plainText" : "So Baasha slept with his fathers, and was buried in Tirzah: and Elah his son reigned in his stead."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "9290",
+      "text": "So Baasha slept with his fathers, and was buried in Tirzah: and Elah his son reigned in his stead.",
+      "plainText": "So Baasha slept with his fathers, and was buried in Tirzah: and Elah his son reigned in his stead."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "9291",
-      "text" : "And also by the hand of the prophet Jehu the son of Hanani came the word of the <span class='nog'>LORD<\/span> against Baasha, and against his house, even for all the evil that he did in the sight of the <span class='nog'>LORD<\/span>, in provoking him to anger with the work of his hands, in being like the house of Jeroboam; and because he killed him.",
-      "plainText" : "And also by the hand of the prophet Jehu the son of Hanani came the word of the LORD against Baasha, and against his house, even for all the evil that he did in the sight of the LORD, in provoking him to anger with the work of his hands, in being like the house of Jeroboam; and because he killed him."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "9291",
+      "text": "And also by the hand of the prophet Jehu the son of Hanani came the word of the <span class='nog'>LORD</span> against Baasha, and against his house, even for all the evil that he did in the sight of the <span class='nog'>LORD</span>, in provoking him to anger with the work of his hands, in being like the house of Jeroboam; and because he killed him.",
+      "plainText": "And also by the hand of the prophet Jehu the son of Hanani came the word of the LORD against Baasha, and against his house, even for all the evil that he did in the sight of the LORD, in provoking him to anger with the work of his hands, in being like the house of Jeroboam; and because he killed him."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "9292",
-      "text" : "In the twenty and sixth year of Asa king of Judah began Elah the son of Baasha to reign over Israel in Tirzah, two years.",
-      "plainText" : "In the twenty and sixth year of Asa king of Judah began Elah the son of Baasha to reign over Israel in Tirzah, two years."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "9292",
+      "text": "In the twenty and sixth year of Asa king of Judah began Elah the son of Baasha to reign over Israel in Tirzah, two years.",
+      "plainText": "In the twenty and sixth year of Asa king of Judah began Elah the son of Baasha to reign over Israel in Tirzah, two years."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "9293",
-      "text" : "And his servant Zimri, captain of half <span class='extra'>his<\/span> chariots, conspired against him, as he was in Tirzah, drinking himself drunk in the house of Arza steward of <span class='extra'>his<\/span> house in Tirzah.",
-      "plainText" : "And his servant Zimri, captain of half his chariots, conspired against him, as he was in Tirzah, drinking himself drunk in the house of Arza steward of his house in Tirzah."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "9293",
+      "text": "And his servant Zimri, captain of half <span class='extra'>his</span> chariots, conspired against him, as he was in Tirzah, drinking himself drunk in the house of Arza steward of <span class='extra'>his</span> house in Tirzah.",
+      "plainText": "And his servant Zimri, captain of half his chariots, conspired against him, as he was in Tirzah, drinking himself drunk in the house of Arza steward of his house in Tirzah."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "9294",
-      "text" : "And Zimri went in and smote him, and killed him, in the twenty and seventh year of Asa king of Judah, and reigned in his stead.",
-      "plainText" : "And Zimri went in and smote him, and killed him, in the twenty and seventh year of Asa king of Judah, and reigned in his stead."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "9294",
+      "text": "And Zimri went in and smote him, and killed him, in the twenty and seventh year of Asa king of Judah, and reigned in his stead.",
+      "plainText": "And Zimri went in and smote him, and killed him, in the twenty and seventh year of Asa king of Judah, and reigned in his stead."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "9295",
-      "text" : "And it came to pass, when he began to reign, as soon as he sat on his throne, <span class='extra'>that<\/span> he slew all the house of Baasha: he left him not one that pisseth against a wall, neither of his kinsfolks, nor of his friends.",
-      "plainText" : "And it came to pass, when he began to reign, as soon as he sat on his throne, that he slew all the house of Baasha: he left him not one that pisseth against a wall, neither of his kinsfolks, nor of his friends."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "9295",
+      "text": "And it came to pass, when he began to reign, as soon as he sat on his throne, <span class='extra'>that</span> he slew all the house of Baasha: he left him not one that pisseth against a wall, neither of his kinsfolks, nor of his friends.",
+      "plainText": "And it came to pass, when he began to reign, as soon as he sat on his throne, that he slew all the house of Baasha: he left him not one that pisseth against a wall, neither of his kinsfolks, nor of his friends."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "9296",
-      "text" : "Thus did Zimri destroy all the house of Baasha, according to the word of the <span class='nog'>LORD<\/span>, which he spake against Baasha by Jehu the prophet,",
-      "plainText" : "Thus did Zimri destroy all the house of Baasha, according to the word of the LORD, which he spake against Baasha by Jehu the prophet,"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "9296",
+      "text": "Thus did Zimri destroy all the house of Baasha, according to the word of the <span class='nog'>LORD</span>, which he spake against Baasha by Jehu the prophet,",
+      "plainText": "Thus did Zimri destroy all the house of Baasha, according to the word of the LORD, which he spake against Baasha by Jehu the prophet,"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "9297",
-      "text" : "For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the <span class='nog'>LORD<\/span> God of Israel to anger with their vanities.",
-      "plainText" : "For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the LORD God of Israel to anger with their vanities."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "9297",
+      "text": "For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the <span class='nog'>LORD</span> God of Israel to anger with their vanities.",
+      "plainText": "For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the LORD God of Israel to anger with their vanities."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "9298",
-      "text" : "Now the rest of the acts of Elah, and all that he did, <span class='extra'>are<\/span> they not written in the book of the chronicles of the kings of Israel?",
-      "plainText" : "Now the rest of the acts of Elah, and all that he did, are they not written in the book of the chronicles of the kings of Israel?"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "9298",
+      "text": "Now the rest of the acts of Elah, and all that he did, <span class='extra'>are</span> they not written in the book of the chronicles of the kings of Israel?",
+      "plainText": "Now the rest of the acts of Elah, and all that he did, are they not written in the book of the chronicles of the kings of Israel?"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "9299",
-      "text" : "In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people <span class='extra'>were<\/span> encamped against Gibbethon, which <span class='extra'>belonged<\/span> to the Philistines.",
-      "plainText" : "In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people were encamped against Gibbethon, which belonged to the Philistines."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "9299",
+      "text": "In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people <span class='extra'>were</span> encamped against Gibbethon, which <span class='extra'>belonged</span> to the Philistines.",
+      "plainText": "In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people were encamped against Gibbethon, which belonged to the Philistines."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "9300",
-      "text" : "And the people <span class='extra'>that were<\/span> encamped heard say, Zimri hath conspired, and hath also slain the king: wherefore all Israel made Omri, the captain of the host, king over Israel that day in the camp.",
-      "plainText" : "And the people that were encamped heard say, Zimri hath conspired, and hath also slain the king: wherefore all Israel made Omri, the captain of the host, king over Israel that day in the camp."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "9300",
+      "text": "And the people <span class='extra'>that were</span> encamped heard say, Zimri hath conspired, and hath also slain the king: wherefore all Israel made Omri, the captain of the host, king over Israel that day in the camp.",
+      "plainText": "And the people that were encamped heard say, Zimri hath conspired, and hath also slain the king: wherefore all Israel made Omri, the captain of the host, king over Israel that day in the camp."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "9301",
-      "text" : "And Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah.",
-      "plainText" : "And Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "9301",
+      "text": "And Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah.",
+      "plainText": "And Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "9302",
-      "text" : "And it came to pass, when Zimri saw that the city was taken, that he went into the palace of the king's house, and burnt the king's house over him with fire, and died,",
-      "plainText" : "And it came to pass, when Zimri saw that the city was taken, that he went into the palace of the king's house, and burnt the king's house over him with fire, and died,"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "9302",
+      "text": "And it came to pass, when Zimri saw that the city was taken, that he went into the palace of the king's house, and burnt the king's house over him with fire, and died,",
+      "plainText": "And it came to pass, when Zimri saw that the city was taken, that he went into the palace of the king's house, and burnt the king's house over him with fire, and died,"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "9303",
-      "text" : "For his sins which he sinned in doing evil in the sight of the <span class='nog'>LORD<\/span>, in walking in the way of Jeroboam, and in his sin which he did, to make Israel to sin.",
-      "plainText" : "For his sins which he sinned in doing evil in the sight of the LORD, in walking in the way of Jeroboam, and in his sin which he did, to make Israel to sin."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "9303",
+      "text": "For his sins which he sinned in doing evil in the sight of the <span class='nog'>LORD</span>, in walking in the way of Jeroboam, and in his sin which he did, to make Israel to sin.",
+      "plainText": "For his sins which he sinned in doing evil in the sight of the LORD, in walking in the way of Jeroboam, and in his sin which he did, to make Israel to sin."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "9304",
-      "text" : "Now the rest of the acts of Zimri, and his treason that he wrought, <span class='extra'>are<\/span> they not written in the book of the chronicles of the kings of Israel?",
-      "plainText" : "Now the rest of the acts of Zimri, and his treason that he wrought, are they not written in the book of the chronicles of the kings of Israel?"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "9304",
+      "text": "Now the rest of the acts of Zimri, and his treason that he wrought, <span class='extra'>are</span> they not written in the book of the chronicles of the kings of Israel?",
+      "plainText": "Now the rest of the acts of Zimri, and his treason that he wrought, are they not written in the book of the chronicles of the kings of Israel?"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "9305",
-      "text" : "Then were the people of Israel divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri.",
-      "plainText" : "Then were the people of Israel divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "9305",
+      "text": "Then were the people of Israel divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri.",
+      "plainText": "Then were the people of Israel divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "9306",
-      "text" : "But the people that followed Omri prevailed against the people that followed Tibni the son of Ginath: so Tibni died, and Omri reigned.",
-      "plainText" : "But the people that followed Omri prevailed against the people that followed Tibni the son of Ginath: so Tibni died, and Omri reigned."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "9306",
+      "text": "But the people that followed Omri prevailed against the people that followed Tibni the son of Ginath: so Tibni died, and Omri reigned.",
+      "plainText": "But the people that followed Omri prevailed against the people that followed Tibni the son of Ginath: so Tibni died, and Omri reigned."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "9307",
-      "text" : "In the thirty and first year of Asa king of Judah began Omri to reign over Israel, twelve years: six years reigned he in Tirzah.",
-      "plainText" : "In the thirty and first year of Asa king of Judah began Omri to reign over Israel, twelve years: six years reigned he in Tirzah."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "9307",
+      "text": "In the thirty and first year of Asa king of Judah began Omri to reign over Israel, twelve years: six years reigned he in Tirzah.",
+      "plainText": "In the thirty and first year of Asa king of Judah began Omri to reign over Israel, twelve years: six years reigned he in Tirzah."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "9308",
-      "text" : "And he bought the hill Samaria of Shemer for two talents of silver, and built on the hill, and called the name of the city which he built, after the name of Shemer, owner of the hill, Samaria.",
-      "plainText" : "And he bought the hill Samaria of Shemer for two talents of silver, and built on the hill, and called the name of the city which he built, after the name of Shemer, owner of the hill, Samaria."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "9308",
+      "text": "And he bought the hill Samaria of Shemer for two talents of silver, and built on the hill, and called the name of the city which he built, after the name of Shemer, owner of the hill, Samaria.",
+      "plainText": "And he bought the hill Samaria of Shemer for two talents of silver, and built on the hill, and called the name of the city which he built, after the name of Shemer, owner of the hill, Samaria."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "9309",
-      "text" : "But Omri wrought evil in the eyes of the <span class='nog'>LORD<\/span>, and did worse than all that <span class='extra'>were<\/span> before him.",
-      "plainText" : "But Omri wrought evil in the eyes of the LORD, and did worse than all that were before him."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "9309",
+      "text": "But Omri wrought evil in the eyes of the <span class='nog'>LORD</span>, and did worse than all that <span class='extra'>were</span> before him.",
+      "plainText": "But Omri wrought evil in the eyes of the LORD, and did worse than all that were before him."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "9310",
-      "text" : "For he walked in all the way of Jeroboam the son of Nebat, and in his sin wherewith he made Israel to sin, to provoke the <span class='nog'>LORD<\/span> God of Israel to anger with their vanities.",
-      "plainText" : "For he walked in all the way of Jeroboam the son of Nebat, and in his sin wherewith he made Israel to sin, to provoke the LORD God of Israel to anger with their vanities."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "9310",
+      "text": "For he walked in all the way of Jeroboam the son of Nebat, and in his sin wherewith he made Israel to sin, to provoke the <span class='nog'>LORD</span> God of Israel to anger with their vanities.",
+      "plainText": "For he walked in all the way of Jeroboam the son of Nebat, and in his sin wherewith he made Israel to sin, to provoke the LORD God of Israel to anger with their vanities."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "9311",
-      "text" : "Now the rest of the acts of Omri which he did, and his might that he shewed, <span class='extra'>are<\/span> they not written in the book of the chronicles of the kings of Israel?",
-      "plainText" : "Now the rest of the acts of Omri which he did, and his might that he shewed, are they not written in the book of the chronicles of the kings of Israel?"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "9311",
+      "text": "Now the rest of the acts of Omri which he did, and his might that he shewed, <span class='extra'>are</span> they not written in the book of the chronicles of the kings of Israel?",
+      "plainText": "Now the rest of the acts of Omri which he did, and his might that he shewed, are they not written in the book of the chronicles of the kings of Israel?"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "9312",
-      "text" : "So Omri slept with his fathers, and was buried in Samaria: and Ahab his son reigned in his stead.",
-      "plainText" : "So Omri slept with his fathers, and was buried in Samaria: and Ahab his son reigned in his stead."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "9312",
+      "text": "So Omri slept with his fathers, and was buried in Samaria: and Ahab his son reigned in his stead.",
+      "plainText": "So Omri slept with his fathers, and was buried in Samaria: and Ahab his son reigned in his stead."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "9313",
-      "text" : "And in the thirty and eighth year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty and two years.",
-      "plainText" : "And in the thirty and eighth year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty and two years."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "9313",
+      "text": "And in the thirty and eighth year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty and two years.",
+      "plainText": "And in the thirty and eighth year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty and two years."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "9314",
-      "text" : "And Ahab the son of Omri did evil in the sight of the <span class='nog'>LORD<\/span> above all that <span class='extra'>were<\/span> before him.",
-      "plainText" : "And Ahab the son of Omri did evil in the sight of the LORD above all that were before him."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "9314",
+      "text": "And Ahab the son of Omri did evil in the sight of the <span class='nog'>LORD</span> above all that <span class='extra'>were</span> before him.",
+      "plainText": "And Ahab the son of Omri did evil in the sight of the LORD above all that were before him."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "9315",
-      "text" : "And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel the daughter of Ethbaal king of the Zidonians, and went and served Baal, and worshipped him.",
-      "plainText" : "And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel the daughter of Ethbaal king of the Zidonians, and went and served Baal, and worshipped him."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "9315",
+      "text": "And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel the daughter of Ethbaal king of the Zidonians, and went and served Baal, and worshipped him.",
+      "plainText": "And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel the daughter of Ethbaal king of the Zidonians, and went and served Baal, and worshipped him."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "9316",
-      "text" : "And he reared up an altar for Baal in the house of Baal, which he had built in Samaria.",
-      "plainText" : "And he reared up an altar for Baal in the house of Baal, which he had built in Samaria."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "9316",
+      "text": "And he reared up an altar for Baal in the house of Baal, which he had built in Samaria.",
+      "plainText": "And he reared up an altar for Baal in the house of Baal, which he had built in Samaria."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "9317",
-      "text" : "And Ahab made a grove; and Ahab did more to provoke the <span class='nog'>LORD<\/span> God of Israel to anger than all the kings of Israel that were before him.",
-      "plainText" : "And Ahab made a grove; and Ahab did more to provoke the LORD God of Israel to anger than all the kings of Israel that were before him."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "9317",
+      "text": "And Ahab made a grove; and Ahab did more to provoke the <span class='nog'>LORD</span> God of Israel to anger than all the kings of Israel that were before him.",
+      "plainText": "And Ahab made a grove; and Ahab did more to provoke the LORD God of Israel to anger than all the kings of Israel that were before him."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "9318",
-      "text" : "In his days did Hiel the Beth-elite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest <span class='extra'>son<\/span> Segub, according to the word of the <span class='nog'>LORD<\/span>, which he spake by Joshua the son of Nun.",
-      "plainText" : "In his days did Hiel the Beth-elite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest son Segub, according to the word of the LORD, which he spake by Joshua the son of Nun."
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "9318",
+      "text": "In his days did Hiel the Beth-elite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest <span class='extra'>son</span> Segub, according to the word of the <span class='nog'>LORD</span>, which he spake by Joshua the son of Nun.",
+      "plainText": "In his days did Hiel the Beth-elite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest son Segub, according to the word of the LORD, which he spake by Joshua the son of Nun."
     }
   ]
 }
-
-

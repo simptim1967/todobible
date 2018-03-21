@@ -1,243 +1,219 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "50",
-    "verseCount" : "23",
-    "nextChapter" : "psalms_51.html",
-    "nextTitle" : "Psalms 51",
-    "prevChapter" : "psalms_49.html",
-    "prevTitle" : "Psalms 49",
-    "filename" : "psalms_50.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "50",
+    "verseCount": "23",
+    "nextChapter": "psalms_51.html",
+    "nextTitle": "Psalms 51",
+    "prevChapter": "psalms_49.html",
+    "prevTitle": "Psalms 49",
+    "filename": "psalms_50.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Psalm of Asaph.",
-      "plainText" : "A Psalm of Asaph."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Psalm of Asaph.",
+      "plainText": "A Psalm of Asaph."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14670",
-      "text" : "The mighty God, <span class='extra'>even<\/span> the <span class='nog'>LORD<\/span>, hath spoken, and called the earth from the rising of the sun unto the going down thereof.",
-      "plainText" : "The mighty God, even the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14670",
+      "text": "The mighty God, <span class='extra'>even</span> the <span class='nog'>LORD</span>, hath spoken, and called the earth from the rising of the sun unto the going down thereof.",
+      "plainText": "The mighty God, even the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14671",
-      "text" : "Out of Zion, the perfection of beauty, God hath shined.",
-      "plainText" : "Out of Zion, the perfection of beauty, God hath shined."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14671",
+      "text": "Out of Zion, the perfection of beauty, God hath shined.",
+      "plainText": "Out of Zion, the perfection of beauty, God hath shined."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14672",
-      "text" : "Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him.",
-      "plainText" : "Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14672",
+      "text": "Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him.",
+      "plainText": "Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14673",
-      "text" : "He shall call to the heavens from above, and to the earth, that he may judge his people.",
-      "plainText" : "He shall call to the heavens from above, and to the earth, that he may judge his people."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14673",
+      "text": "He shall call to the heavens from above, and to the earth, that he may judge his people.",
+      "plainText": "He shall call to the heavens from above, and to the earth, that he may judge his people."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14674",
-      "text" : "Gather my saints together unto me; those that have made a covenant with me by sacrifice.",
-      "plainText" : "Gather my saints together unto me; those that have made a covenant with me by sacrifice."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14674",
+      "text": "Gather my saints together unto me; those that have made a covenant with me by sacrifice.",
+      "plainText": "Gather my saints together unto me; those that have made a covenant with me by sacrifice."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14675",
-      "text" : "And the heavens shall declare his righteousness: for God <span class='extra'>is<\/span> judge himself. Selah.",
-      "plainText" : "And the heavens shall declare his righteousness: for God is judge himself. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14675",
+      "text": "And the heavens shall declare his righteousness: for God <span class='extra'>is</span> judge himself. Selah.",
+      "plainText": "And the heavens shall declare his righteousness: for God is judge himself. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14676",
-      "text" : "Hear, O my people, and I will speak; O Israel, and I will testify against thee: I <span class='extra'>am<\/span> God, <span class='extra'>even<\/span> thy God.",
-      "plainText" : "Hear, O my people, and I will speak; O Israel, and I will testify against thee: I am God, even thy God."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14676",
+      "text": "Hear, O my people, and I will speak; O Israel, and I will testify against thee: I <span class='extra'>am</span> God, <span class='extra'>even</span> thy God.",
+      "plainText": "Hear, O my people, and I will speak; O Israel, and I will testify against thee: I am God, even thy God."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14677",
-      "text" : "I will not reprove thee for thy sacrifices or thy burnt offerings, <span class='extra'>to have been<\/span> continually before me.",
-      "plainText" : "I will not reprove thee for thy sacrifices or thy burnt offerings, to have been continually before me."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14677",
+      "text": "I will not reprove thee for thy sacrifices or thy burnt offerings, <span class='extra'>to have been</span> continually before me.",
+      "plainText": "I will not reprove thee for thy sacrifices or thy burnt offerings, to have been continually before me."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14678",
-      "text" : "I will take no bullock out of thy house, <span class='extra'>nor<\/span> he goats out of thy folds.",
-      "plainText" : "I will take no bullock out of thy house, nor he goats out of thy folds."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14678",
+      "text": "I will take no bullock out of thy house, <span class='extra'>nor</span> he goats out of thy folds.",
+      "plainText": "I will take no bullock out of thy house, nor he goats out of thy folds."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "14679",
-      "text" : "For every beast of the forest <span class='extra'>is<\/span> mine, <span class='extra'>and<\/span> the cattle upon a thousand hills.",
-      "plainText" : "For every beast of the forest is mine, and the cattle upon a thousand hills."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "14679",
+      "text": "For every beast of the forest <span class='extra'>is</span> mine, <span class='extra'>and</span> the cattle upon a thousand hills.",
+      "plainText": "For every beast of the forest is mine, and the cattle upon a thousand hills."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "14680",
-      "text" : "I know all the fowls of the mountains: and the wild beasts of the field <span class='extra'>are<\/span> mine.",
-      "plainText" : "I know all the fowls of the mountains: and the wild beasts of the field are mine."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "14680",
+      "text": "I know all the fowls of the mountains: and the wild beasts of the field <span class='extra'>are</span> mine.",
+      "plainText": "I know all the fowls of the mountains: and the wild beasts of the field are mine."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "14681",
-      "text" : "If I were hungry, I would not tell thee: for the world <span class='extra'>is<\/span> mine, and the fulness thereof.",
-      "plainText" : "If I were hungry, I would not tell thee: for the world is mine, and the fulness thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "14681",
+      "text": "If I were hungry, I would not tell thee: for the world <span class='extra'>is</span> mine, and the fulness thereof.",
+      "plainText": "If I were hungry, I would not tell thee: for the world is mine, and the fulness thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "14682",
-      "text" : "Will I eat the flesh of bulls, or drink the blood of goats?",
-      "plainText" : "Will I eat the flesh of bulls, or drink the blood of goats?"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "14682",
+      "text": "Will I eat the flesh of bulls, or drink the blood of goats?",
+      "plainText": "Will I eat the flesh of bulls, or drink the blood of goats?"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "14683",
-      "text" : "Offer unto God thanksgiving; and pay thy vows unto the most High:",
-      "plainText" : "Offer unto God thanksgiving; and pay thy vows unto the most High:"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "14683",
+      "text": "Offer unto God thanksgiving; and pay thy vows unto the most High:",
+      "plainText": "Offer unto God thanksgiving; and pay thy vows unto the most High:"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "14684",
-      "text" : "And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.",
-      "plainText" : "And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "14684",
+      "text": "And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.",
+      "plainText": "And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "14685",
-      "text" : "But unto the wicked God saith, What hast thou to do to declare my statutes, or <span class='extra'>that<\/span> thou shouldest take my covenant in thy mouth?",
-      "plainText" : "But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "14685",
+      "text": "But unto the wicked God saith, What hast thou to do to declare my statutes, or <span class='extra'>that</span> thou shouldest take my covenant in thy mouth?",
+      "plainText": "But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "14686",
-      "text" : "Seeing thou hatest instruction, and castest my words behind thee.",
-      "plainText" : "Seeing thou hatest instruction, and castest my words behind thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "14686",
+      "text": "Seeing thou hatest instruction, and castest my words behind thee.",
+      "plainText": "Seeing thou hatest instruction, and castest my words behind thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "14687",
-      "text" : "When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers.",
-      "plainText" : "When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "14687",
+      "text": "When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers.",
+      "plainText": "When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "14688",
-      "text" : "Thou givest thy mouth to evil, and thy tongue frameth deceit.",
-      "plainText" : "Thou givest thy mouth to evil, and thy tongue frameth deceit."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "14688",
+      "text": "Thou givest thy mouth to evil, and thy tongue frameth deceit.",
+      "plainText": "Thou givest thy mouth to evil, and thy tongue frameth deceit."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "14689",
-      "text" : "Thou sittest <span class='extra'>and<\/span> speakest against thy brother; thou slanderest thine own mother's son.",
-      "plainText" : "Thou sittest and speakest against thy brother; thou slanderest thine own mother's son."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "14689",
+      "text": "Thou sittest <span class='extra'>and</span> speakest against thy brother; thou slanderest thine own mother's son.",
+      "plainText": "Thou sittest and speakest against thy brother; thou slanderest thine own mother's son."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "14690",
-      "text" : "These <span class='extra'>things<\/span> hast thou done, and I kept silence; thou thoughtest that I was altogether <span class='extra'>such an one<\/span> as thyself: <span class='extra'>but<\/span> I will reprove thee, and set <span class='extra'>them<\/span> in order before thine eyes.",
-      "plainText" : "These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "14690",
+      "text": "These <span class='extra'>things</span> hast thou done, and I kept silence; thou thoughtest that I was altogether <span class='extra'>such an one</span> as thyself: <span class='extra'>but</span> I will reprove thee, and set <span class='extra'>them</span> in order before thine eyes.",
+      "plainText": "These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "14691",
-      "text" : "Now consider this, ye that forget God, lest I tear <span class='extra'>you<\/span> in pieces, and <span class='extra'>there be<\/span> none to deliver.",
-      "plainText" : "Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "14691",
+      "text": "Now consider this, ye that forget God, lest I tear <span class='extra'>you</span> in pieces, and <span class='extra'>there be</span> none to deliver.",
+      "plainText": "Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "14692",
-      "text" : "Whoso offereth praise glorifieth me: and to him that ordereth <span class='extra'>his<\/span> conversation <span class='extra'>aright<\/span> will I shew the salvation of God.",
-      "plainText" : "Whoso offereth praise glorifieth me: and to him that ordereth his conversation aright will I shew the salvation of God."
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "14692",
+      "text": "Whoso offereth praise glorifieth me: and to him that ordereth <span class='extra'>his</span> conversation <span class='extra'>aright</span> will I shew the salvation of God.",
+      "plainText": "Whoso offereth praise glorifieth me: and to him that ordereth his conversation aright will I shew the salvation of God."
     }
   ]
 }
-
-

@@ -1,1767 +1,1569 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "119",
-    "verseCount" : "176",
-    "nextChapter" : "psalms_120.html",
-    "nextTitle" : "Psalms 120",
-    "prevChapter" : "psalms_118.html",
-    "prevTitle" : "Psalms 118",
-    "filename" : "psalms_119.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "119",
+    "verseCount": "176",
+    "nextChapter": "psalms_120.html",
+    "nextTitle": "Psalms 120",
+    "prevChapter": "psalms_118.html",
+    "prevTitle": "Psalms 118",
+    "filename": "psalms_119.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "ALEPH",
-      "plainText" : "ALEPH"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "15900",
-      "text" : "Blessed <span class='extra'>are<\/span> the undefiled in the way, who walk in the law of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Blessed are the undefiled in the way, who walk in the law of the LORD."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "15901",
-      "text" : "Blessed <span class='extra'>are<\/span> they that keep his testimonies, <span class='extra'>and that<\/span> seek him with the whole heart.",
-      "plainText" : "Blessed are they that keep his testimonies, and that seek him with the whole heart."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "15902",
-      "text" : "They also do no iniquity: they walk in his ways.",
-      "plainText" : "They also do no iniquity: they walk in his ways."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "15903",
-      "text" : "Thou hast commanded <span class='extra'>us<\/span> to keep thy precepts diligently.",
-      "plainText" : "Thou hast commanded us to keep thy precepts diligently."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "15904",
-      "text" : "O that my ways were directed to keep thy statutes!",
-      "plainText" : "O that my ways were directed to keep thy statutes!"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "15905",
-      "text" : "Then shall I not be ashamed, when I have respect unto all thy commandments.",
-      "plainText" : "Then shall I not be ashamed, when I have respect unto all thy commandments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "15906",
-      "text" : "I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments.",
-      "plainText" : "I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "15907",
-      "text" : "I will keep thy statutes: O forsake me not utterly.",
-      "plainText" : "I will keep thy statutes: O forsake me not utterly."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c8",
-      "text" : "BETH",
-      "plainText" : "BETH"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "15908",
-      "text" : "Wherewithal shall a young man cleanse his way? by taking heed <span class='extra'>thereto<\/span> according to thy word.",
-      "plainText" : "Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "15909",
-      "text" : "With my whole heart have I sought thee: O let me not wander from thy commandments.",
-      "plainText" : "With my whole heart have I sought thee: O let me not wander from thy commandments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "15910",
-      "text" : "Thy word have I hid in mine heart, that I might not sin against thee.",
-      "plainText" : "Thy word have I hid in mine heart, that I might not sin against thee."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "15911",
-      "text" : "Blessed <span class='extra'>art<\/span> thou, O <span class='nog'>LORD<\/span>: teach me thy statutes.",
-      "plainText" : "Blessed art thou, O LORD: teach me thy statutes."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "15912",
-      "text" : "With my lips have I declared all the judgments of thy mouth.",
-      "plainText" : "With my lips have I declared all the judgments of thy mouth."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "15913",
-      "text" : "I have rejoiced in the way of thy testimonies, as <span class='extra'>much as<\/span> in all riches.",
-      "plainText" : "I have rejoiced in the way of thy testimonies, as much as in all riches."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "15914",
-      "text" : "I will meditate in thy precepts, and have respect unto thy ways.",
-      "plainText" : "I will meditate in thy precepts, and have respect unto thy ways."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "15915",
-      "text" : "I will delight myself in thy statutes: I will not forget thy word.",
-      "plainText" : "I will delight myself in thy statutes: I will not forget thy word."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c16",
-      "text" : "GIMEL",
-      "plainText" : "GIMEL"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "15916",
-      "text" : "Deal bountifully with thy servant, <span class='extra'>that<\/span> I may live, and keep thy word.",
-      "plainText" : "Deal bountifully with thy servant, that I may live, and keep thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "15917",
-      "text" : "Open thou mine eyes, that I may behold wondrous things out of thy law.",
-      "plainText" : "Open thou mine eyes, that I may behold wondrous things out of thy law."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "15918",
-      "text" : "I <span class='extra'>am<\/span> a stranger in the earth: hide not thy commandments from me.",
-      "plainText" : "I am a stranger in the earth: hide not thy commandments from me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "15919",
-      "text" : "My soul breaketh for the longing <span class='extra'>that it hath<\/span> unto thy judgments at all times.",
-      "plainText" : "My soul breaketh for the longing that it hath unto thy judgments at all times."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "15920",
-      "text" : "Thou hast rebuked the proud <span class='extra'>that are<\/span> cursed, which do err from thy commandments.",
-      "plainText" : "Thou hast rebuked the proud that are cursed, which do err from thy commandments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "15921",
-      "text" : "Remove from me reproach and contempt; for I have kept thy testimonies.",
-      "plainText" : "Remove from me reproach and contempt; for I have kept thy testimonies."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "15922",
-      "text" : "Princes also did sit <span class='extra'>and<\/span> speak against me: <span class='extra'>but<\/span> thy servant did meditate in thy statutes.",
-      "plainText" : "Princes also did sit and speak against me: but thy servant did meditate in thy statutes."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "15923",
-      "text" : "Thy testimonies also <span class='extra'>are<\/span> my delight <span class='extra'>and<\/span> my counsellors.",
-      "plainText" : "Thy testimonies also are my delight and my counsellors."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c24",
-      "text" : "DALETH",
-      "plainText" : "DALETH"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "15924",
-      "text" : "My soul cleaveth unto the dust: quicken thou me according to thy word.",
-      "plainText" : "My soul cleaveth unto the dust: quicken thou me according to thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "15925",
-      "text" : "I have declared my ways, and thou heardest me: teach me thy statutes.",
-      "plainText" : "I have declared my ways, and thou heardest me: teach me thy statutes."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "15926",
-      "text" : "Make me to understand the way of thy precepts: so shall I talk of thy wondrous works.",
-      "plainText" : "Make me to understand the way of thy precepts: so shall I talk of thy wondrous works."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "15927",
-      "text" : "My soul melteth for heaviness: strengthen thou me according unto thy word.",
-      "plainText" : "My soul melteth for heaviness: strengthen thou me according unto thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "15928",
-      "text" : "Remove from me the way of lying: and grant me thy law graciously.",
-      "plainText" : "Remove from me the way of lying: and grant me thy law graciously."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "15929",
-      "text" : "I have chosen the way of truth: thy judgments have I laid <span class='extra'>before me<\/span>.",
-      "plainText" : "I have chosen the way of truth: thy judgments have I laid before me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "15930",
-      "text" : "I have stuck unto thy testimonies: O <span class='nog'>LORD<\/span>, put me not to shame.",
-      "plainText" : "I have stuck unto thy testimonies: O LORD, put me not to shame."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "15931",
-      "text" : "I will run the way of thy commandments, when thou shalt enlarge my heart.",
-      "plainText" : "I will run the way of thy commandments, when thou shalt enlarge my heart."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c32",
-      "text" : "HE",
-      "plainText" : "HE"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "15932",
-      "text" : "Teach me, O <span class='nog'>LORD<\/span>, the way of thy statutes; and I shall keep it <span class='extra'>unto<\/span> the end.",
-      "plainText" : "Teach me, O LORD, the way of thy statutes; and I shall keep it unto the end."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "15933",
-      "text" : "Give me understanding, and I shall keep thy law; yea, I shall observe it with <span class='extra'>my<\/span> whole heart.",
-      "plainText" : "Give me understanding, and I shall keep thy law; yea, I shall observe it with my whole heart."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "15934",
-      "text" : "Make me to go in the path of thy commandments; for therein do I delight.",
-      "plainText" : "Make me to go in the path of thy commandments; for therein do I delight."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "15935",
-      "text" : "Incline my heart unto thy testimonies, and not to covetousness.",
-      "plainText" : "Incline my heart unto thy testimonies, and not to covetousness."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "15936",
-      "text" : "Turn away mine eyes from beholding vanity; <span class='extra'>and<\/span> quicken thou me in thy way.",
-      "plainText" : "Turn away mine eyes from beholding vanity; and quicken thou me in thy way."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "15937",
-      "text" : "Stablish thy word unto thy servant, who <span class='extra'>is devoted<\/span> to thy fear.",
-      "plainText" : "Stablish thy word unto thy servant, who is devoted to thy fear."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "15938",
-      "text" : "Turn away my reproach which I fear: for thy judgments <span class='extra'>are<\/span> good.",
-      "plainText" : "Turn away my reproach which I fear: for thy judgments are good."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "15939",
-      "text" : "Behold, I have longed after thy precepts: quicken me in thy righteousness.",
-      "plainText" : "Behold, I have longed after thy precepts: quicken me in thy righteousness."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c40",
-      "text" : "VAU",
-      "plainText" : "VAU"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "15940",
-      "text" : "Let thy mercies come also unto me, O <span class='nog'>LORD<\/span>, <span class='extra'>even<\/span> thy salvation, according to thy word.",
-      "plainText" : "Let thy mercies come also unto me, O LORD, even thy salvation, according to thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "15941",
-      "text" : "So shall I have wherewith to answer him that reproacheth me: for I trust in thy word.",
-      "plainText" : "So shall I have wherewith to answer him that reproacheth me: for I trust in thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "15942",
-      "text" : "And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments.",
-      "plainText" : "And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "15943",
-      "text" : "So shall I keep thy law continually for ever and ever.",
-      "plainText" : "So shall I keep thy law continually for ever and ever."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "15944",
-      "text" : "And I will walk at liberty: for I seek thy precepts.",
-      "plainText" : "And I will walk at liberty: for I seek thy precepts."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "15945",
-      "text" : "I will speak of thy testimonies also before kings, and will not be ashamed.",
-      "plainText" : "I will speak of thy testimonies also before kings, and will not be ashamed."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "15946",
-      "text" : "And I will delight myself in thy commandments, which I have loved.",
-      "plainText" : "And I will delight myself in thy commandments, which I have loved."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "15947",
-      "text" : "My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes.",
-      "plainText" : "My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c48",
-      "text" : "ZAIN",
-      "plainText" : "ZAIN"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "15948",
-      "text" : "Remember the word unto thy servant, upon which thou hast caused me to hope.",
-      "plainText" : "Remember the word unto thy servant, upon which thou hast caused me to hope."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v50",
-      "number" : "50",
-      "absolute" : "15949",
-      "text" : "This <span class='extra'>is<\/span> my comfort in my affliction: for thy word hath quickened me.",
-      "plainText" : "This is my comfort in my affliction: for thy word hath quickened me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v51",
-      "number" : "51",
-      "absolute" : "15950",
-      "text" : "The proud have had me greatly in derision: <span class='extra'>yet<\/span> have I not declined from thy law.",
-      "plainText" : "The proud have had me greatly in derision: yet have I not declined from thy law."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v52",
-      "number" : "52",
-      "absolute" : "15951",
-      "text" : "I remembered thy judgments of old, O <span class='nog'>LORD<\/span>; and have comforted myself.",
-      "plainText" : "I remembered thy judgments of old, O LORD; and have comforted myself."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v53",
-      "number" : "53",
-      "absolute" : "15952",
-      "text" : "Horror hath taken hold upon me because of the wicked that forsake thy law.",
-      "plainText" : "Horror hath taken hold upon me because of the wicked that forsake thy law."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v54",
-      "number" : "54",
-      "absolute" : "15953",
-      "text" : "Thy statutes have been my songs in the house of my pilgrimage.",
-      "plainText" : "Thy statutes have been my songs in the house of my pilgrimage."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v55",
-      "number" : "55",
-      "absolute" : "15954",
-      "text" : "I have remembered thy name, O <span class='nog'>LORD<\/span>, in the night, and have kept thy law.",
-      "plainText" : "I have remembered thy name, O LORD, in the night, and have kept thy law."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v56",
-      "number" : "56",
-      "absolute" : "15955",
-      "text" : "This I had, because I kept thy precepts.",
-      "plainText" : "This I had, because I kept thy precepts."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c56",
-      "text" : "CHETH",
-      "plainText" : "CHETH"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v57",
-      "number" : "57",
-      "absolute" : "15956",
-      "text" : "<span class='extra'>Thou art<\/span> my portion, O <span class='nog'>LORD<\/span>: I have said that I would keep thy words.",
-      "plainText" : "Thou art my portion, O LORD: I have said that I would keep thy words."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v58",
-      "number" : "58",
-      "absolute" : "15957",
-      "text" : "I intreated thy favour with <span class='extra'>my<\/span> whole heart: be merciful unto me according to thy word.",
-      "plainText" : "I intreated thy favour with my whole heart: be merciful unto me according to thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v59",
-      "number" : "59",
-      "absolute" : "15958",
-      "text" : "I thought on my ways, and turned my feet unto thy testimonies.",
-      "plainText" : "I thought on my ways, and turned my feet unto thy testimonies."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v60",
-      "number" : "60",
-      "absolute" : "15959",
-      "text" : "I made haste, and delayed not to keep thy commandments.",
-      "plainText" : "I made haste, and delayed not to keep thy commandments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v61",
-      "number" : "61",
-      "absolute" : "15960",
-      "text" : "The bands of the wicked have robbed me: <span class='extra'>but<\/span> I have not forgotten thy law.",
-      "plainText" : "The bands of the wicked have robbed me: but I have not forgotten thy law."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v62",
-      "number" : "62",
-      "absolute" : "15961",
-      "text" : "At midnight I will rise to give thanks unto thee because of thy righteous judgments.",
-      "plainText" : "At midnight I will rise to give thanks unto thee because of thy righteous judgments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v63",
-      "number" : "63",
-      "absolute" : "15962",
-      "text" : "I <span class='extra'>am<\/span> a companion of all <span class='extra'>them<\/span> that fear thee, and of them that keep thy precepts.",
-      "plainText" : "I am a companion of all them that fear thee, and of them that keep thy precepts."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v64",
-      "number" : "64",
-      "absolute" : "15963",
-      "text" : "The earth, O <span class='nog'>LORD<\/span>, is full of thy mercy: teach me thy statutes.",
-      "plainText" : "The earth, O LORD, is full of thy mercy: teach me thy statutes."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c64",
-      "text" : "TETH",
-      "plainText" : "TETH"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v65",
-      "number" : "65",
-      "absolute" : "15964",
-      "text" : "Thou hast dealt well with thy servant, O <span class='nog'>LORD<\/span>, according unto thy word.",
-      "plainText" : "Thou hast dealt well with thy servant, O LORD, according unto thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v66",
-      "number" : "66",
-      "absolute" : "15965",
-      "text" : "Teach me good judgment and knowledge: for I have believed thy commandments.",
-      "plainText" : "Teach me good judgment and knowledge: for I have believed thy commandments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v67",
-      "number" : "67",
-      "absolute" : "15966",
-      "text" : "Before I was afflicted I went astray: but now have I kept thy word.",
-      "plainText" : "Before I was afflicted I went astray: but now have I kept thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v68",
-      "number" : "68",
-      "absolute" : "15967",
-      "text" : "Thou <span class='extra'>art<\/span> good, and doest good; teach me thy statutes.",
-      "plainText" : "Thou art good, and doest good; teach me thy statutes."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v69",
-      "number" : "69",
-      "absolute" : "15968",
-      "text" : "The proud have forged a lie against me: <span class='extra'>but<\/span> I will keep thy precepts with <span class='extra'>my<\/span> whole heart.",
-      "plainText" : "The proud have forged a lie against me: but I will keep thy precepts with my whole heart."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v70",
-      "number" : "70",
-      "absolute" : "15969",
-      "text" : "Their heart is as fat as grease; <span class='extra'>but<\/span> I delight in thy law.",
-      "plainText" : "Their heart is as fat as grease; but I delight in thy law."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v71",
-      "number" : "71",
-      "absolute" : "15970",
-      "text" : "<span class='extra'>It is<\/span> good for me that I have been afflicted; that I might learn thy statutes.",
-      "plainText" : "It is good for me that I have been afflicted; that I might learn thy statutes."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v72",
-      "number" : "72",
-      "absolute" : "15971",
-      "text" : "The law of thy mouth <span class='extra'>is<\/span> better unto me than thousands of gold and silver.",
-      "plainText" : "The law of thy mouth is better unto me than thousands of gold and silver."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c72",
-      "text" : "JOD",
-      "plainText" : "JOD"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v73",
-      "number" : "73",
-      "absolute" : "15972",
-      "text" : "Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments.",
-      "plainText" : "Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v74",
-      "number" : "74",
-      "absolute" : "15973",
-      "text" : "They that fear thee will be glad when they see me; because I have hoped in thy word.",
-      "plainText" : "They that fear thee will be glad when they see me; because I have hoped in thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v75",
-      "number" : "75",
-      "absolute" : "15974",
-      "text" : "I know, O <span class='nog'>LORD<\/span>, that thy judgments <span class='extra'>are<\/span> right, and <span class='extra'>that<\/span> thou in faithfulness hast afflicted me.",
-      "plainText" : "I know, O LORD, that thy judgments are right, and that thou in faithfulness hast afflicted me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v76",
-      "number" : "76",
-      "absolute" : "15975",
-      "text" : "Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant.",
-      "plainText" : "Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v77",
-      "number" : "77",
-      "absolute" : "15976",
-      "text" : "Let thy tender mercies come unto me, that I may live: for thy law <span class='extra'>is<\/span> my delight.",
-      "plainText" : "Let thy tender mercies come unto me, that I may live: for thy law is my delight."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v78",
-      "number" : "78",
-      "absolute" : "15977",
-      "text" : "Let the proud be ashamed; for they dealt perversely with me without a cause: <span class='extra'>but<\/span> I will meditate in thy precepts.",
-      "plainText" : "Let the proud be ashamed; for they dealt perversely with me without a cause: but I will meditate in thy precepts."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v79",
-      "number" : "79",
-      "absolute" : "15978",
-      "text" : "Let those that fear thee turn unto me, and those that have known thy testimonies.",
-      "plainText" : "Let those that fear thee turn unto me, and those that have known thy testimonies."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v80",
-      "number" : "80",
-      "absolute" : "15979",
-      "text" : "Let my heart be sound in thy statutes; that I be not ashamed.",
-      "plainText" : "Let my heart be sound in thy statutes; that I be not ashamed."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c80",
-      "text" : "CAPH",
-      "plainText" : "CAPH"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v81",
-      "number" : "81",
-      "absolute" : "15980",
-      "text" : "My soul fainteth for thy salvation: <span class='extra'>but<\/span> I hope in thy word.",
-      "plainText" : "My soul fainteth for thy salvation: but I hope in thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v82",
-      "number" : "82",
-      "absolute" : "15981",
-      "text" : "Mine eyes fail for thy word, saying, When wilt thou comfort me?",
-      "plainText" : "Mine eyes fail for thy word, saying, When wilt thou comfort me?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v83",
-      "number" : "83",
-      "absolute" : "15982",
-      "text" : "For I am become like a bottle in the smoke; <span class='extra'>yet<\/span> do I not forget thy statutes.",
-      "plainText" : "For I am become like a bottle in the smoke; yet do I not forget thy statutes."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v84",
-      "number" : "84",
-      "absolute" : "15983",
-      "text" : "How many <span class='extra'>are<\/span> the days of thy servant? when wilt thou execute judgment on them that persecute me?",
-      "plainText" : "How many are the days of thy servant? when wilt thou execute judgment on them that persecute me?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v85",
-      "number" : "85",
-      "absolute" : "15984",
-      "text" : "The proud have digged pits for me, which <span class='extra'>are<\/span> not after thy law.",
-      "plainText" : "The proud have digged pits for me, which are not after thy law."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v86",
-      "number" : "86",
-      "absolute" : "15985",
-      "text" : "All thy commandments <span class='extra'>are<\/span> faithful: they persecute me wrongfully; help thou me.",
-      "plainText" : "All thy commandments are faithful: they persecute me wrongfully; help thou me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v87",
-      "number" : "87",
-      "absolute" : "15986",
-      "text" : "They had almost consumed me upon earth; but I forsook not thy precepts.",
-      "plainText" : "They had almost consumed me upon earth; but I forsook not thy precepts."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v88",
-      "number" : "88",
-      "absolute" : "15987",
-      "text" : "Quicken me after thy lovingkindness; so shall I keep the testimony of thy mouth.",
-      "plainText" : "Quicken me after thy lovingkindness; so shall I keep the testimony of thy mouth."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c88",
-      "text" : "LAMED",
-      "plainText" : "LAMED"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v89",
-      "number" : "89",
-      "absolute" : "15988",
-      "text" : "For ever, O <span class='nog'>LORD<\/span>, thy word is settled in heaven.",
-      "plainText" : "For ever, O LORD, thy word is settled in heaven."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v90",
-      "number" : "90",
-      "absolute" : "15989",
-      "text" : "Thy faithfulness <span class='extra'>is<\/span> unto all generations: thou hast established the earth, and it abideth.",
-      "plainText" : "Thy faithfulness is unto all generations: thou hast established the earth, and it abideth."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v91",
-      "number" : "91",
-      "absolute" : "15990",
-      "text" : "They continue this day according to thine ordinances: for all <span class='extra'>are<\/span> thy servants.",
-      "plainText" : "They continue this day according to thine ordinances: for all are thy servants."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v92",
-      "number" : "92",
-      "absolute" : "15991",
-      "text" : "Unless thy law <span class='extra'>had been<\/span> my delights, I should then have perished in mine affliction.",
-      "plainText" : "Unless thy law had been my delights, I should then have perished in mine affliction."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v93",
-      "number" : "93",
-      "absolute" : "15992",
-      "text" : "I will never forget thy precepts: for with them thou hast quickened me.",
-      "plainText" : "I will never forget thy precepts: for with them thou hast quickened me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v94",
-      "number" : "94",
-      "absolute" : "15993",
-      "text" : "I <span class='extra'>am<\/span> thine, save me; for I have sought thy precepts.",
-      "plainText" : "I am thine, save me; for I have sought thy precepts."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v95",
-      "number" : "95",
-      "absolute" : "15994",
-      "text" : "The wicked have waited for me to destroy me: <span class='extra'>but<\/span> I will consider thy testimonies.",
-      "plainText" : "The wicked have waited for me to destroy me: but I will consider thy testimonies."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v96",
-      "number" : "96",
-      "absolute" : "15995",
-      "text" : "I have seen an end of all perfection: <span class='extra'>but<\/span> thy commandment <span class='extra'>is<\/span> exceeding broad.",
-      "plainText" : "I have seen an end of all perfection: but thy commandment is exceeding broad."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c96",
-      "text" : "MEM",
-      "plainText" : "MEM"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v97",
-      "number" : "97",
-      "absolute" : "15996",
-      "text" : "O how love I thy law! it <span class='extra'>is<\/span> my meditation all the day.",
-      "plainText" : "O how love I thy law! it is my meditation all the day."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v98",
-      "number" : "98",
-      "absolute" : "15997",
-      "text" : "Thou through thy commandments hast made me wiser than mine enemies: for they <span class='extra'>are<\/span> ever with me.",
-      "plainText" : "Thou through thy commandments hast made me wiser than mine enemies: for they are ever with me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v99",
-      "number" : "99",
-      "absolute" : "15998",
-      "text" : "I have more understanding than all my teachers: for thy testimonies <span class='extra'>are<\/span> my meditation.",
-      "plainText" : "I have more understanding than all my teachers: for thy testimonies are my meditation."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v100",
-      "number" : "100",
-      "absolute" : "15999",
-      "text" : "I understand more than the ancients, because I keep thy precepts.",
-      "plainText" : "I understand more than the ancients, because I keep thy precepts."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v101",
-      "number" : "101",
-      "absolute" : "16000",
-      "text" : "I have refrained my feet from every evil way, that I might keep thy word.",
-      "plainText" : "I have refrained my feet from every evil way, that I might keep thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v102",
-      "number" : "102",
-      "absolute" : "16001",
-      "text" : "I have not departed from thy judgments: for thou hast taught me.",
-      "plainText" : "I have not departed from thy judgments: for thou hast taught me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v103",
-      "number" : "103",
-      "absolute" : "16002",
-      "text" : "How sweet are thy words unto my taste! <span class='extra'>yea, sweeter<\/span> than honey to my mouth!",
-      "plainText" : "How sweet are thy words unto my taste! yea, sweeter than honey to my mouth!"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v104",
-      "number" : "104",
-      "absolute" : "16003",
-      "text" : "Through thy precepts I get understanding: therefore I hate every false way.",
-      "plainText" : "Through thy precepts I get understanding: therefore I hate every false way."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c104",
-      "text" : "NUN",
-      "plainText" : "NUN"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v105",
-      "number" : "105",
-      "absolute" : "16004",
-      "text" : "Thy word <span class='extra'>is<\/span> a lamp unto my feet, and a light unto my path.",
-      "plainText" : "Thy word is a lamp unto my feet, and a light unto my path."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v106",
-      "number" : "106",
-      "absolute" : "16005",
-      "text" : "I have sworn, and I will perform <span class='extra'>it<\/span>, that I will keep thy righteous judgments.",
-      "plainText" : "I have sworn, and I will perform it, that I will keep thy righteous judgments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v107",
-      "number" : "107",
-      "absolute" : "16006",
-      "text" : "I am afflicted very much: quicken me, O <span class='nog'>LORD<\/span>, according unto thy word.",
-      "plainText" : "I am afflicted very much: quicken me, O LORD, according unto thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v108",
-      "number" : "108",
-      "absolute" : "16007",
-      "text" : "Accept, I beseech thee, the freewill offerings of my mouth, O <span class='nog'>LORD<\/span>, and teach me thy judgments.",
-      "plainText" : "Accept, I beseech thee, the freewill offerings of my mouth, O LORD, and teach me thy judgments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v109",
-      "number" : "109",
-      "absolute" : "16008",
-      "text" : "My soul <span class='extra'>is<\/span> continually in my hand: yet do I not forget thy law.",
-      "plainText" : "My soul is continually in my hand: yet do I not forget thy law."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v110",
-      "number" : "110",
-      "absolute" : "16009",
-      "text" : "The wicked have laid a snare for me: yet I erred not from thy precepts.",
-      "plainText" : "The wicked have laid a snare for me: yet I erred not from thy precepts."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v111",
-      "number" : "111",
-      "absolute" : "16010",
-      "text" : "Thy testimonies have I taken as an heritage for ever: for they <span class='extra'>are<\/span> the rejoicing of my heart.",
-      "plainText" : "Thy testimonies have I taken as an heritage for ever: for they are the rejoicing of my heart."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v112",
-      "number" : "112",
-      "absolute" : "16011",
-      "text" : "I have inclined mine heart to perform thy statutes alway, <span class='extra'>even unto<\/span> the end.",
-      "plainText" : "I have inclined mine heart to perform thy statutes alway, even unto the end."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c112",
-      "text" : "SAMECH",
-      "plainText" : "SAMECH"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v113",
-      "number" : "113",
-      "absolute" : "16012",
-      "text" : "I hate <span class='extra'>vain<\/span> thoughts: but thy law do I love.",
-      "plainText" : "I hate vain thoughts: but thy law do I love."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v114",
-      "number" : "114",
-      "absolute" : "16013",
-      "text" : "Thou <span class='extra'>art<\/span> my hiding place and my shield: I hope in thy word.",
-      "plainText" : "Thou art my hiding place and my shield: I hope in thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v115",
-      "number" : "115",
-      "absolute" : "16014",
-      "text" : "Depart from me, ye evildoers: for I will keep the commandments of my God.",
-      "plainText" : "Depart from me, ye evildoers: for I will keep the commandments of my God."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v116",
-      "number" : "116",
-      "absolute" : "16015",
-      "text" : "Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope.",
-      "plainText" : "Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v117",
-      "number" : "117",
-      "absolute" : "16016",
-      "text" : "Hold thou me up, and I shall be safe: and I will have respect unto thy statutes continually.",
-      "plainText" : "Hold thou me up, and I shall be safe: and I will have respect unto thy statutes continually."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v118",
-      "number" : "118",
-      "absolute" : "16017",
-      "text" : "Thou hast trodden down all them that err from thy statutes: for their deceit <span class='extra'>is<\/span> falsehood.",
-      "plainText" : "Thou hast trodden down all them that err from thy statutes: for their deceit is falsehood."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v119",
-      "number" : "119",
-      "absolute" : "16018",
-      "text" : "Thou puttest away all the wicked of the earth <span class='extra'>like<\/span> dross: therefore I love thy testimonies.",
-      "plainText" : "Thou puttest away all the wicked of the earth like dross: therefore I love thy testimonies."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v120",
-      "number" : "120",
-      "absolute" : "16019",
-      "text" : "My flesh trembleth for fear of thee; and I am afraid of thy judgments.",
-      "plainText" : "My flesh trembleth for fear of thee; and I am afraid of thy judgments."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c120",
-      "text" : "AIN",
-      "plainText" : "AIN"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v121",
-      "number" : "121",
-      "absolute" : "16020",
-      "text" : "I have done judgment and justice: leave me not to mine oppressors.",
-      "plainText" : "I have done judgment and justice: leave me not to mine oppressors."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v122",
-      "number" : "122",
-      "absolute" : "16021",
-      "text" : "Be surety for thy servant for good: let not the proud oppress me.",
-      "plainText" : "Be surety for thy servant for good: let not the proud oppress me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v123",
-      "number" : "123",
-      "absolute" : "16022",
-      "text" : "Mine eyes fail for thy salvation, and for the word of thy righteousness.",
-      "plainText" : "Mine eyes fail for thy salvation, and for the word of thy righteousness."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v124",
-      "number" : "124",
-      "absolute" : "16023",
-      "text" : "Deal with thy servant according unto thy mercy, and teach me thy statutes.",
-      "plainText" : "Deal with thy servant according unto thy mercy, and teach me thy statutes."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v125",
-      "number" : "125",
-      "absolute" : "16024",
-      "text" : "I <span class='extra'>am<\/span> thy servant; give me understanding, that I may know thy testimonies.",
-      "plainText" : "I am thy servant; give me understanding, that I may know thy testimonies."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v126",
-      "number" : "126",
-      "absolute" : "16025",
-      "text" : "<span class='extra'>It is<\/span> time for <span class='extra'>thee<\/span>, <span class='nog'>LORD<\/span>, to work: <span class='extra'>for<\/span> they have made void thy law.",
-      "plainText" : "It is time for thee, LORD, to work: for they have made void thy law."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v127",
-      "number" : "127",
-      "absolute" : "16026",
-      "text" : "Therefore I love thy commandments above gold; yea, above fine gold.",
-      "plainText" : "Therefore I love thy commandments above gold; yea, above fine gold."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v128",
-      "number" : "128",
-      "absolute" : "16027",
-      "text" : "Therefore I esteem all <span class='extra'>thy<\/span> precepts <span class='extra'>concerning<\/span> all <span class='extra'>things to be<\/span> right; <span class='extra'>and<\/span> I hate every false way.",
-      "plainText" : "Therefore I esteem all thy precepts concerning all things to be right; and I hate every false way."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c128",
-      "text" : "PE",
-      "plainText" : "PE"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v129",
-      "number" : "129",
-      "absolute" : "16028",
-      "text" : "Thy testimonies <span class='extra'>are<\/span> wonderful: therefore doth my soul keep them.",
-      "plainText" : "Thy testimonies are wonderful: therefore doth my soul keep them."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v130",
-      "number" : "130",
-      "absolute" : "16029",
-      "text" : "The entrance of thy words giveth light; it giveth understanding unto the simple.",
-      "plainText" : "The entrance of thy words giveth light; it giveth understanding unto the simple."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v131",
-      "number" : "131",
-      "absolute" : "16030",
-      "text" : "I opened my mouth, and panted: for I longed for thy commandments.",
-      "plainText" : "I opened my mouth, and panted: for I longed for thy commandments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v132",
-      "number" : "132",
-      "absolute" : "16031",
-      "text" : "Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name.",
-      "plainText" : "Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v133",
-      "number" : "133",
-      "absolute" : "16032",
-      "text" : "Order my steps in thy word: and let not any iniquity have dominion over me.",
-      "plainText" : "Order my steps in thy word: and let not any iniquity have dominion over me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v134",
-      "number" : "134",
-      "absolute" : "16033",
-      "text" : "Deliver me from the oppression of man: so will I keep thy precepts.",
-      "plainText" : "Deliver me from the oppression of man: so will I keep thy precepts."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v135",
-      "number" : "135",
-      "absolute" : "16034",
-      "text" : "Make thy face to shine upon thy servant; and teach me thy statutes.",
-      "plainText" : "Make thy face to shine upon thy servant; and teach me thy statutes."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v136",
-      "number" : "136",
-      "absolute" : "16035",
-      "text" : "Rivers of waters run down mine eyes, because they keep not thy law.",
-      "plainText" : "Rivers of waters run down mine eyes, because they keep not thy law."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c136",
-      "text" : "TZADDI",
-      "plainText" : "TZADDI"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v137",
-      "number" : "137",
-      "absolute" : "16036",
-      "text" : "Righteous <span class='extra'>art<\/span> thou, O <span class='nog'>LORD<\/span>, and upright <span class='extra'>are<\/span> thy judgments.",
-      "plainText" : "Righteous art thou, O LORD, and upright are thy judgments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v138",
-      "number" : "138",
-      "absolute" : "16037",
-      "text" : "Thy testimonies <span class='extra'>that<\/span> thou hast commanded <span class='extra'>are<\/span> righteous and very faithful.",
-      "plainText" : "Thy testimonies that thou hast commanded are righteous and very faithful."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v139",
-      "number" : "139",
-      "absolute" : "16038",
-      "text" : "My zeal hath consumed me, because mine enemies have forgotten thy words.",
-      "plainText" : "My zeal hath consumed me, because mine enemies have forgotten thy words."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v140",
-      "number" : "140",
-      "absolute" : "16039",
-      "text" : "Thy word <span class='extra'>is<\/span> very pure: therefore thy servant loveth it.",
-      "plainText" : "Thy word is very pure: therefore thy servant loveth it."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v141",
-      "number" : "141",
-      "absolute" : "16040",
-      "text" : "I <span class='extra'>am<\/span> small and despised: <span class='extra'>yet<\/span> do not I forget thy precepts.",
-      "plainText" : "I am small and despised: yet do not I forget thy precepts."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v142",
-      "number" : "142",
-      "absolute" : "16041",
-      "text" : "Thy righteousness <span class='extra'>is<\/span> an everlasting righteousness, and thy law <span class='extra'>is<\/span> the truth.",
-      "plainText" : "Thy righteousness is an everlasting righteousness, and thy law is the truth."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v143",
-      "number" : "143",
-      "absolute" : "16042",
-      "text" : "Trouble and anguish have taken hold on me: <span class='extra'>yet<\/span> thy commandments <span class='extra'>are<\/span> my delights.",
-      "plainText" : "Trouble and anguish have taken hold on me: yet thy commandments are my delights."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v144",
-      "number" : "144",
-      "absolute" : "16043",
-      "text" : "The righteousness of thy testimonies <span class='extra'>is<\/span> everlasting: give me understanding, and I shall live.",
-      "plainText" : "The righteousness of thy testimonies is everlasting: give me understanding, and I shall live."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c144",
-      "text" : "KOPH",
-      "plainText" : "KOPH"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v145",
-      "number" : "145",
-      "absolute" : "16044",
-      "text" : "I cried with <span class='extra'>my<\/span> whole heart; hear me, O <span class='nog'>LORD<\/span>: I will keep thy statutes.",
-      "plainText" : "I cried with my whole heart; hear me, O LORD: I will keep thy statutes."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v146",
-      "number" : "146",
-      "absolute" : "16045",
-      "text" : "I cried unto thee; save me, and I shall keep thy testimonies.",
-      "plainText" : "I cried unto thee; save me, and I shall keep thy testimonies."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v147",
-      "number" : "147",
-      "absolute" : "16046",
-      "text" : "I prevented the dawning of the morning, and cried: I hoped in thy word.",
-      "plainText" : "I prevented the dawning of the morning, and cried: I hoped in thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v148",
-      "number" : "148",
-      "absolute" : "16047",
-      "text" : "Mine eyes prevent the <span class='extra'>night<\/span> watches, that I might meditate in thy word.",
-      "plainText" : "Mine eyes prevent the night watches, that I might meditate in thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v149",
-      "number" : "149",
-      "absolute" : "16048",
-      "text" : "Hear my voice according unto thy lovingkindness: O <span class='nog'>LORD<\/span>, quicken me according to thy judgment.",
-      "plainText" : "Hear my voice according unto thy lovingkindness: O LORD, quicken me according to thy judgment."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v150",
-      "number" : "150",
-      "absolute" : "16049",
-      "text" : "They draw nigh that follow after mischief: they are far from thy law.",
-      "plainText" : "They draw nigh that follow after mischief: they are far from thy law."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v151",
-      "number" : "151",
-      "absolute" : "16050",
-      "text" : "Thou <span class='extra'>art<\/span> near, O <span class='nog'>LORD<\/span>; and all thy commandments <span class='extra'>are<\/span> truth.",
-      "plainText" : "Thou art near, O LORD; and all thy commandments are truth."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v152",
-      "number" : "152",
-      "absolute" : "16051",
-      "text" : "Concerning thy testimonies, I have known of old that thou hast founded them for ever.",
-      "plainText" : "Concerning thy testimonies, I have known of old that thou hast founded them for ever."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c152",
-      "text" : "RESH",
-      "plainText" : "RESH"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v153",
-      "number" : "153",
-      "absolute" : "16052",
-      "text" : "Consider mine affliction, and deliver me: for I do not forget thy law.",
-      "plainText" : "Consider mine affliction, and deliver me: for I do not forget thy law."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v154",
-      "number" : "154",
-      "absolute" : "16053",
-      "text" : "Plead my cause, and deliver me: quicken me according to thy word.",
-      "plainText" : "Plead my cause, and deliver me: quicken me according to thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v155",
-      "number" : "155",
-      "absolute" : "16054",
-      "text" : "Salvation <span class='extra'>is<\/span> far from the wicked: for they seek not thy statutes.",
-      "plainText" : "Salvation is far from the wicked: for they seek not thy statutes."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v156",
-      "number" : "156",
-      "absolute" : "16055",
-      "text" : "Great <span class='extra'>are<\/span> thy tender mercies, O <span class='nog'>LORD<\/span>: quicken me according to thy judgments.",
-      "plainText" : "Great are thy tender mercies, O LORD: quicken me according to thy judgments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v157",
-      "number" : "157",
-      "absolute" : "16056",
-      "text" : "Many <span class='extra'>are<\/span> my persecutors and mine enemies; <span class='extra'>yet<\/span> do I not decline from thy testimonies.",
-      "plainText" : "Many are my persecutors and mine enemies; yet do I not decline from thy testimonies."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v158",
-      "number" : "158",
-      "absolute" : "16057",
-      "text" : "I beheld the transgressors, and was grieved; because they kept not thy word.",
-      "plainText" : "I beheld the transgressors, and was grieved; because they kept not thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v159",
-      "number" : "159",
-      "absolute" : "16058",
-      "text" : "Consider how I love thy precepts: quicken me, O <span class='nog'>LORD<\/span>, according to thy lovingkindness.",
-      "plainText" : "Consider how I love thy precepts: quicken me, O LORD, according to thy lovingkindness."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v160",
-      "number" : "160",
-      "absolute" : "16059",
-      "text" : "Thy word <span class='extra'>is<\/span> true <span class='extra'>from<\/span> the beginning: and every one of thy righteous judgments <span class='extra'>endureth<\/span> for ever.",
-      "plainText" : "Thy word is true from the beginning: and every one of thy righteous judgments endureth for ever."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c160",
-      "text" : "SCHIN",
-      "plainText" : "SCHIN"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v161",
-      "number" : "161",
-      "absolute" : "16060",
-      "text" : "Princes have persecuted me without a cause: but my heart standeth in awe of thy word.",
-      "plainText" : "Princes have persecuted me without a cause: but my heart standeth in awe of thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v162",
-      "number" : "162",
-      "absolute" : "16061",
-      "text" : "I rejoice at thy word, as one that findeth great spoil.",
-      "plainText" : "I rejoice at thy word, as one that findeth great spoil."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v163",
-      "number" : "163",
-      "absolute" : "16062",
-      "text" : "I hate and abhor lying: <span class='extra'>but<\/span> thy law do I love.",
-      "plainText" : "I hate and abhor lying: but thy law do I love."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v164",
-      "number" : "164",
-      "absolute" : "16063",
-      "text" : "Seven times a day do I praise thee because of thy righteous judgments.",
-      "plainText" : "Seven times a day do I praise thee because of thy righteous judgments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v165",
-      "number" : "165",
-      "absolute" : "16064",
-      "text" : "Great peace have they which love thy law: and nothing shall offend them.",
-      "plainText" : "Great peace have they which love thy law: and nothing shall offend them."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v166",
-      "number" : "166",
-      "absolute" : "16065",
-      "text" : "<span class='nog'>LORD<\/span>, I have hoped for thy salvation, and done thy commandments.",
-      "plainText" : "LORD, I have hoped for thy salvation, and done thy commandments."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v167",
-      "number" : "167",
-      "absolute" : "16066",
-      "text" : "My soul hath kept thy testimonies; and I love them exceedingly.",
-      "plainText" : "My soul hath kept thy testimonies; and I love them exceedingly."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v168",
-      "number" : "168",
-      "absolute" : "16067",
-      "text" : "I have kept thy precepts and thy testimonies: for all my ways <span class='extra'>are<\/span> before thee.",
-      "plainText" : "I have kept thy precepts and thy testimonies: for all my ways are before thee."
-    }
-    ,
-    {
-      "type" : "caption",
-      "id" : "c168",
-      "text" : "TAU",
-      "plainText" : "TAU"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v169",
-      "number" : "169",
-      "absolute" : "16068",
-      "text" : "Let my cry come near before thee, O <span class='nog'>LORD<\/span>: give me understanding according to thy word.",
-      "plainText" : "Let my cry come near before thee, O LORD: give me understanding according to thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v170",
-      "number" : "170",
-      "absolute" : "16069",
-      "text" : "Let my supplication come before thee: deliver me according to thy word.",
-      "plainText" : "Let my supplication come before thee: deliver me according to thy word."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v171",
-      "number" : "171",
-      "absolute" : "16070",
-      "text" : "My lips shall utter praise, when thou hast taught me thy statutes.",
-      "plainText" : "My lips shall utter praise, when thou hast taught me thy statutes."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v172",
-      "number" : "172",
-      "absolute" : "16071",
-      "text" : "My tongue shall speak of thy word: for all thy commandments <span class='extra'>are<\/span> righteousness.",
-      "plainText" : "My tongue shall speak of thy word: for all thy commandments are righteousness."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v173",
-      "number" : "173",
-      "absolute" : "16072",
-      "text" : "Let thine hand help me; for I have chosen thy precepts.",
-      "plainText" : "Let thine hand help me; for I have chosen thy precepts."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v174",
-      "number" : "174",
-      "absolute" : "16073",
-      "text" : "I have longed for thy salvation, O <span class='nog'>LORD<\/span>; and thy law <span class='extra'>is<\/span> my delight.",
-      "plainText" : "I have longed for thy salvation, O LORD; and thy law is my delight."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v175",
-      "number" : "175",
-      "absolute" : "16074",
-      "text" : "Let my soul live, and it shall praise thee; and let thy judgments help me.",
-      "plainText" : "Let my soul live, and it shall praise thee; and let thy judgments help me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v176",
-      "number" : "176",
-      "absolute" : "16075",
-      "text" : "I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments.",
-      "plainText" : "I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments."
+      "type": "caption",
+      "id": "c0",
+      "text": "ALEPH",
+      "plainText": "ALEPH"
+    },
+    {
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "15900",
+      "text": "Blessed <span class='extra'>are</span> the undefiled in the way, who walk in the law of the <span class='nog'>LORD</span>.",
+      "plainText": "Blessed are the undefiled in the way, who walk in the law of the LORD."
+    },
+    {
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "15901",
+      "text": "Blessed <span class='extra'>are</span> they that keep his testimonies, <span class='extra'>and that</span> seek him with the whole heart.",
+      "plainText": "Blessed are they that keep his testimonies, and that seek him with the whole heart."
+    },
+    {
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "15902",
+      "text": "They also do no iniquity: they walk in his ways.",
+      "plainText": "They also do no iniquity: they walk in his ways."
+    },
+    {
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "15903",
+      "text": "Thou hast commanded <span class='extra'>us</span> to keep thy precepts diligently.",
+      "plainText": "Thou hast commanded us to keep thy precepts diligently."
+    },
+    {
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "15904",
+      "text": "O that my ways were directed to keep thy statutes!",
+      "plainText": "O that my ways were directed to keep thy statutes!"
+    },
+    {
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "15905",
+      "text": "Then shall I not be ashamed, when I have respect unto all thy commandments.",
+      "plainText": "Then shall I not be ashamed, when I have respect unto all thy commandments."
+    },
+    {
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "15906",
+      "text": "I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments.",
+      "plainText": "I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments."
+    },
+    {
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "15907",
+      "text": "I will keep thy statutes: O forsake me not utterly.",
+      "plainText": "I will keep thy statutes: O forsake me not utterly."
+    },
+    {
+      "type": "caption",
+      "id": "c8",
+      "text": "BETH",
+      "plainText": "BETH"
+    },
+    {
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "15908",
+      "text": "Wherewithal shall a young man cleanse his way? by taking heed <span class='extra'>thereto</span> according to thy word.",
+      "plainText": "Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "15909",
+      "text": "With my whole heart have I sought thee: O let me not wander from thy commandments.",
+      "plainText": "With my whole heart have I sought thee: O let me not wander from thy commandments."
+    },
+    {
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "15910",
+      "text": "Thy word have I hid in mine heart, that I might not sin against thee.",
+      "plainText": "Thy word have I hid in mine heart, that I might not sin against thee."
+    },
+    {
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "15911",
+      "text": "Blessed <span class='extra'>art</span> thou, O <span class='nog'>LORD</span>: teach me thy statutes.",
+      "plainText": "Blessed art thou, O LORD: teach me thy statutes."
+    },
+    {
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "15912",
+      "text": "With my lips have I declared all the judgments of thy mouth.",
+      "plainText": "With my lips have I declared all the judgments of thy mouth."
+    },
+    {
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "15913",
+      "text": "I have rejoiced in the way of thy testimonies, as <span class='extra'>much as</span> in all riches.",
+      "plainText": "I have rejoiced in the way of thy testimonies, as much as in all riches."
+    },
+    {
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "15914",
+      "text": "I will meditate in thy precepts, and have respect unto thy ways.",
+      "plainText": "I will meditate in thy precepts, and have respect unto thy ways."
+    },
+    {
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "15915",
+      "text": "I will delight myself in thy statutes: I will not forget thy word.",
+      "plainText": "I will delight myself in thy statutes: I will not forget thy word."
+    },
+    {
+      "type": "caption",
+      "id": "c16",
+      "text": "GIMEL",
+      "plainText": "GIMEL"
+    },
+    {
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "15916",
+      "text": "Deal bountifully with thy servant, <span class='extra'>that</span> I may live, and keep thy word.",
+      "plainText": "Deal bountifully with thy servant, that I may live, and keep thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "15917",
+      "text": "Open thou mine eyes, that I may behold wondrous things out of thy law.",
+      "plainText": "Open thou mine eyes, that I may behold wondrous things out of thy law."
+    },
+    {
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "15918",
+      "text": "I <span class='extra'>am</span> a stranger in the earth: hide not thy commandments from me.",
+      "plainText": "I am a stranger in the earth: hide not thy commandments from me."
+    },
+    {
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "15919",
+      "text": "My soul breaketh for the longing <span class='extra'>that it hath</span> unto thy judgments at all times.",
+      "plainText": "My soul breaketh for the longing that it hath unto thy judgments at all times."
+    },
+    {
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "15920",
+      "text": "Thou hast rebuked the proud <span class='extra'>that are</span> cursed, which do err from thy commandments.",
+      "plainText": "Thou hast rebuked the proud that are cursed, which do err from thy commandments."
+    },
+    {
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "15921",
+      "text": "Remove from me reproach and contempt; for I have kept thy testimonies.",
+      "plainText": "Remove from me reproach and contempt; for I have kept thy testimonies."
+    },
+    {
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "15922",
+      "text": "Princes also did sit <span class='extra'>and</span> speak against me: <span class='extra'>but</span> thy servant did meditate in thy statutes.",
+      "plainText": "Princes also did sit and speak against me: but thy servant did meditate in thy statutes."
+    },
+    {
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "15923",
+      "text": "Thy testimonies also <span class='extra'>are</span> my delight <span class='extra'>and</span> my counsellors.",
+      "plainText": "Thy testimonies also are my delight and my counsellors."
+    },
+    {
+      "type": "caption",
+      "id": "c24",
+      "text": "DALETH",
+      "plainText": "DALETH"
+    },
+    {
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "15924",
+      "text": "My soul cleaveth unto the dust: quicken thou me according to thy word.",
+      "plainText": "My soul cleaveth unto the dust: quicken thou me according to thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "15925",
+      "text": "I have declared my ways, and thou heardest me: teach me thy statutes.",
+      "plainText": "I have declared my ways, and thou heardest me: teach me thy statutes."
+    },
+    {
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "15926",
+      "text": "Make me to understand the way of thy precepts: so shall I talk of thy wondrous works.",
+      "plainText": "Make me to understand the way of thy precepts: so shall I talk of thy wondrous works."
+    },
+    {
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "15927",
+      "text": "My soul melteth for heaviness: strengthen thou me according unto thy word.",
+      "plainText": "My soul melteth for heaviness: strengthen thou me according unto thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "15928",
+      "text": "Remove from me the way of lying: and grant me thy law graciously.",
+      "plainText": "Remove from me the way of lying: and grant me thy law graciously."
+    },
+    {
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "15929",
+      "text": "I have chosen the way of truth: thy judgments have I laid <span class='extra'>before me</span>.",
+      "plainText": "I have chosen the way of truth: thy judgments have I laid before me."
+    },
+    {
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "15930",
+      "text": "I have stuck unto thy testimonies: O <span class='nog'>LORD</span>, put me not to shame.",
+      "plainText": "I have stuck unto thy testimonies: O LORD, put me not to shame."
+    },
+    {
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "15931",
+      "text": "I will run the way of thy commandments, when thou shalt enlarge my heart.",
+      "plainText": "I will run the way of thy commandments, when thou shalt enlarge my heart."
+    },
+    {
+      "type": "caption",
+      "id": "c32",
+      "text": "HE",
+      "plainText": "HE"
+    },
+    {
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "15932",
+      "text": "Teach me, O <span class='nog'>LORD</span>, the way of thy statutes; and I shall keep it <span class='extra'>unto</span> the end.",
+      "plainText": "Teach me, O LORD, the way of thy statutes; and I shall keep it unto the end."
+    },
+    {
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "15933",
+      "text": "Give me understanding, and I shall keep thy law; yea, I shall observe it with <span class='extra'>my</span> whole heart.",
+      "plainText": "Give me understanding, and I shall keep thy law; yea, I shall observe it with my whole heart."
+    },
+    {
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "15934",
+      "text": "Make me to go in the path of thy commandments; for therein do I delight.",
+      "plainText": "Make me to go in the path of thy commandments; for therein do I delight."
+    },
+    {
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "15935",
+      "text": "Incline my heart unto thy testimonies, and not to covetousness.",
+      "plainText": "Incline my heart unto thy testimonies, and not to covetousness."
+    },
+    {
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "15936",
+      "text": "Turn away mine eyes from beholding vanity; <span class='extra'>and</span> quicken thou me in thy way.",
+      "plainText": "Turn away mine eyes from beholding vanity; and quicken thou me in thy way."
+    },
+    {
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "15937",
+      "text": "Stablish thy word unto thy servant, who <span class='extra'>is devoted</span> to thy fear.",
+      "plainText": "Stablish thy word unto thy servant, who is devoted to thy fear."
+    },
+    {
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "15938",
+      "text": "Turn away my reproach which I fear: for thy judgments <span class='extra'>are</span> good.",
+      "plainText": "Turn away my reproach which I fear: for thy judgments are good."
+    },
+    {
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "15939",
+      "text": "Behold, I have longed after thy precepts: quicken me in thy righteousness.",
+      "plainText": "Behold, I have longed after thy precepts: quicken me in thy righteousness."
+    },
+    {
+      "type": "caption",
+      "id": "c40",
+      "text": "VAU",
+      "plainText": "VAU"
+    },
+    {
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "15940",
+      "text": "Let thy mercies come also unto me, O <span class='nog'>LORD</span>, <span class='extra'>even</span> thy salvation, according to thy word.",
+      "plainText": "Let thy mercies come also unto me, O LORD, even thy salvation, according to thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "15941",
+      "text": "So shall I have wherewith to answer him that reproacheth me: for I trust in thy word.",
+      "plainText": "So shall I have wherewith to answer him that reproacheth me: for I trust in thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "15942",
+      "text": "And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments.",
+      "plainText": "And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments."
+    },
+    {
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "15943",
+      "text": "So shall I keep thy law continually for ever and ever.",
+      "plainText": "So shall I keep thy law continually for ever and ever."
+    },
+    {
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "15944",
+      "text": "And I will walk at liberty: for I seek thy precepts.",
+      "plainText": "And I will walk at liberty: for I seek thy precepts."
+    },
+    {
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "15945",
+      "text": "I will speak of thy testimonies also before kings, and will not be ashamed.",
+      "plainText": "I will speak of thy testimonies also before kings, and will not be ashamed."
+    },
+    {
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "15946",
+      "text": "And I will delight myself in thy commandments, which I have loved.",
+      "plainText": "And I will delight myself in thy commandments, which I have loved."
+    },
+    {
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "15947",
+      "text": "My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes.",
+      "plainText": "My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes."
+    },
+    {
+      "type": "caption",
+      "id": "c48",
+      "text": "ZAIN",
+      "plainText": "ZAIN"
+    },
+    {
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "15948",
+      "text": "Remember the word unto thy servant, upon which thou hast caused me to hope.",
+      "plainText": "Remember the word unto thy servant, upon which thou hast caused me to hope."
+    },
+    {
+      "type": "verse",
+      "id": "v50",
+      "number": "50",
+      "absolute": "15949",
+      "text": "This <span class='extra'>is</span> my comfort in my affliction: for thy word hath quickened me.",
+      "plainText": "This is my comfort in my affliction: for thy word hath quickened me."
+    },
+    {
+      "type": "verse",
+      "id": "v51",
+      "number": "51",
+      "absolute": "15950",
+      "text": "The proud have had me greatly in derision: <span class='extra'>yet</span> have I not declined from thy law.",
+      "plainText": "The proud have had me greatly in derision: yet have I not declined from thy law."
+    },
+    {
+      "type": "verse",
+      "id": "v52",
+      "number": "52",
+      "absolute": "15951",
+      "text": "I remembered thy judgments of old, O <span class='nog'>LORD</span>; and have comforted myself.",
+      "plainText": "I remembered thy judgments of old, O LORD; and have comforted myself."
+    },
+    {
+      "type": "verse",
+      "id": "v53",
+      "number": "53",
+      "absolute": "15952",
+      "text": "Horror hath taken hold upon me because of the wicked that forsake thy law.",
+      "plainText": "Horror hath taken hold upon me because of the wicked that forsake thy law."
+    },
+    {
+      "type": "verse",
+      "id": "v54",
+      "number": "54",
+      "absolute": "15953",
+      "text": "Thy statutes have been my songs in the house of my pilgrimage.",
+      "plainText": "Thy statutes have been my songs in the house of my pilgrimage."
+    },
+    {
+      "type": "verse",
+      "id": "v55",
+      "number": "55",
+      "absolute": "15954",
+      "text": "I have remembered thy name, O <span class='nog'>LORD</span>, in the night, and have kept thy law.",
+      "plainText": "I have remembered thy name, O LORD, in the night, and have kept thy law."
+    },
+    {
+      "type": "verse",
+      "id": "v56",
+      "number": "56",
+      "absolute": "15955",
+      "text": "This I had, because I kept thy precepts.",
+      "plainText": "This I had, because I kept thy precepts."
+    },
+    {
+      "type": "caption",
+      "id": "c56",
+      "text": "CHETH",
+      "plainText": "CHETH"
+    },
+    {
+      "type": "verse",
+      "id": "v57",
+      "number": "57",
+      "absolute": "15956",
+      "text": "<span class='extra'>Thou art</span> my portion, O <span class='nog'>LORD</span>: I have said that I would keep thy words.",
+      "plainText": "Thou art my portion, O LORD: I have said that I would keep thy words."
+    },
+    {
+      "type": "verse",
+      "id": "v58",
+      "number": "58",
+      "absolute": "15957",
+      "text": "I intreated thy favour with <span class='extra'>my</span> whole heart: be merciful unto me according to thy word.",
+      "plainText": "I intreated thy favour with my whole heart: be merciful unto me according to thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v59",
+      "number": "59",
+      "absolute": "15958",
+      "text": "I thought on my ways, and turned my feet unto thy testimonies.",
+      "plainText": "I thought on my ways, and turned my feet unto thy testimonies."
+    },
+    {
+      "type": "verse",
+      "id": "v60",
+      "number": "60",
+      "absolute": "15959",
+      "text": "I made haste, and delayed not to keep thy commandments.",
+      "plainText": "I made haste, and delayed not to keep thy commandments."
+    },
+    {
+      "type": "verse",
+      "id": "v61",
+      "number": "61",
+      "absolute": "15960",
+      "text": "The bands of the wicked have robbed me: <span class='extra'>but</span> I have not forgotten thy law.",
+      "plainText": "The bands of the wicked have robbed me: but I have not forgotten thy law."
+    },
+    {
+      "type": "verse",
+      "id": "v62",
+      "number": "62",
+      "absolute": "15961",
+      "text": "At midnight I will rise to give thanks unto thee because of thy righteous judgments.",
+      "plainText": "At midnight I will rise to give thanks unto thee because of thy righteous judgments."
+    },
+    {
+      "type": "verse",
+      "id": "v63",
+      "number": "63",
+      "absolute": "15962",
+      "text": "I <span class='extra'>am</span> a companion of all <span class='extra'>them</span> that fear thee, and of them that keep thy precepts.",
+      "plainText": "I am a companion of all them that fear thee, and of them that keep thy precepts."
+    },
+    {
+      "type": "verse",
+      "id": "v64",
+      "number": "64",
+      "absolute": "15963",
+      "text": "The earth, O <span class='nog'>LORD</span>, is full of thy mercy: teach me thy statutes.",
+      "plainText": "The earth, O LORD, is full of thy mercy: teach me thy statutes."
+    },
+    {
+      "type": "caption",
+      "id": "c64",
+      "text": "TETH",
+      "plainText": "TETH"
+    },
+    {
+      "type": "verse",
+      "id": "v65",
+      "number": "65",
+      "absolute": "15964",
+      "text": "Thou hast dealt well with thy servant, O <span class='nog'>LORD</span>, according unto thy word.",
+      "plainText": "Thou hast dealt well with thy servant, O LORD, according unto thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v66",
+      "number": "66",
+      "absolute": "15965",
+      "text": "Teach me good judgment and knowledge: for I have believed thy commandments.",
+      "plainText": "Teach me good judgment and knowledge: for I have believed thy commandments."
+    },
+    {
+      "type": "verse",
+      "id": "v67",
+      "number": "67",
+      "absolute": "15966",
+      "text": "Before I was afflicted I went astray: but now have I kept thy word.",
+      "plainText": "Before I was afflicted I went astray: but now have I kept thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v68",
+      "number": "68",
+      "absolute": "15967",
+      "text": "Thou <span class='extra'>art</span> good, and doest good; teach me thy statutes.",
+      "plainText": "Thou art good, and doest good; teach me thy statutes."
+    },
+    {
+      "type": "verse",
+      "id": "v69",
+      "number": "69",
+      "absolute": "15968",
+      "text": "The proud have forged a lie against me: <span class='extra'>but</span> I will keep thy precepts with <span class='extra'>my</span> whole heart.",
+      "plainText": "The proud have forged a lie against me: but I will keep thy precepts with my whole heart."
+    },
+    {
+      "type": "verse",
+      "id": "v70",
+      "number": "70",
+      "absolute": "15969",
+      "text": "Their heart is as fat as grease; <span class='extra'>but</span> I delight in thy law.",
+      "plainText": "Their heart is as fat as grease; but I delight in thy law."
+    },
+    {
+      "type": "verse",
+      "id": "v71",
+      "number": "71",
+      "absolute": "15970",
+      "text": "<span class='extra'>It is</span> good for me that I have been afflicted; that I might learn thy statutes.",
+      "plainText": "It is good for me that I have been afflicted; that I might learn thy statutes."
+    },
+    {
+      "type": "verse",
+      "id": "v72",
+      "number": "72",
+      "absolute": "15971",
+      "text": "The law of thy mouth <span class='extra'>is</span> better unto me than thousands of gold and silver.",
+      "plainText": "The law of thy mouth is better unto me than thousands of gold and silver."
+    },
+    {
+      "type": "caption",
+      "id": "c72",
+      "text": "JOD",
+      "plainText": "JOD"
+    },
+    {
+      "type": "verse",
+      "id": "v73",
+      "number": "73",
+      "absolute": "15972",
+      "text": "Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments.",
+      "plainText": "Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments."
+    },
+    {
+      "type": "verse",
+      "id": "v74",
+      "number": "74",
+      "absolute": "15973",
+      "text": "They that fear thee will be glad when they see me; because I have hoped in thy word.",
+      "plainText": "They that fear thee will be glad when they see me; because I have hoped in thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v75",
+      "number": "75",
+      "absolute": "15974",
+      "text": "I know, O <span class='nog'>LORD</span>, that thy judgments <span class='extra'>are</span> right, and <span class='extra'>that</span> thou in faithfulness hast afflicted me.",
+      "plainText": "I know, O LORD, that thy judgments are right, and that thou in faithfulness hast afflicted me."
+    },
+    {
+      "type": "verse",
+      "id": "v76",
+      "number": "76",
+      "absolute": "15975",
+      "text": "Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant.",
+      "plainText": "Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant."
+    },
+    {
+      "type": "verse",
+      "id": "v77",
+      "number": "77",
+      "absolute": "15976",
+      "text": "Let thy tender mercies come unto me, that I may live: for thy law <span class='extra'>is</span> my delight.",
+      "plainText": "Let thy tender mercies come unto me, that I may live: for thy law is my delight."
+    },
+    {
+      "type": "verse",
+      "id": "v78",
+      "number": "78",
+      "absolute": "15977",
+      "text": "Let the proud be ashamed; for they dealt perversely with me without a cause: <span class='extra'>but</span> I will meditate in thy precepts.",
+      "plainText": "Let the proud be ashamed; for they dealt perversely with me without a cause: but I will meditate in thy precepts."
+    },
+    {
+      "type": "verse",
+      "id": "v79",
+      "number": "79",
+      "absolute": "15978",
+      "text": "Let those that fear thee turn unto me, and those that have known thy testimonies.",
+      "plainText": "Let those that fear thee turn unto me, and those that have known thy testimonies."
+    },
+    {
+      "type": "verse",
+      "id": "v80",
+      "number": "80",
+      "absolute": "15979",
+      "text": "Let my heart be sound in thy statutes; that I be not ashamed.",
+      "plainText": "Let my heart be sound in thy statutes; that I be not ashamed."
+    },
+    {
+      "type": "caption",
+      "id": "c80",
+      "text": "CAPH",
+      "plainText": "CAPH"
+    },
+    {
+      "type": "verse",
+      "id": "v81",
+      "number": "81",
+      "absolute": "15980",
+      "text": "My soul fainteth for thy salvation: <span class='extra'>but</span> I hope in thy word.",
+      "plainText": "My soul fainteth for thy salvation: but I hope in thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v82",
+      "number": "82",
+      "absolute": "15981",
+      "text": "Mine eyes fail for thy word, saying, When wilt thou comfort me?",
+      "plainText": "Mine eyes fail for thy word, saying, When wilt thou comfort me?"
+    },
+    {
+      "type": "verse",
+      "id": "v83",
+      "number": "83",
+      "absolute": "15982",
+      "text": "For I am become like a bottle in the smoke; <span class='extra'>yet</span> do I not forget thy statutes.",
+      "plainText": "For I am become like a bottle in the smoke; yet do I not forget thy statutes."
+    },
+    {
+      "type": "verse",
+      "id": "v84",
+      "number": "84",
+      "absolute": "15983",
+      "text": "How many <span class='extra'>are</span> the days of thy servant? when wilt thou execute judgment on them that persecute me?",
+      "plainText": "How many are the days of thy servant? when wilt thou execute judgment on them that persecute me?"
+    },
+    {
+      "type": "verse",
+      "id": "v85",
+      "number": "85",
+      "absolute": "15984",
+      "text": "The proud have digged pits for me, which <span class='extra'>are</span> not after thy law.",
+      "plainText": "The proud have digged pits for me, which are not after thy law."
+    },
+    {
+      "type": "verse",
+      "id": "v86",
+      "number": "86",
+      "absolute": "15985",
+      "text": "All thy commandments <span class='extra'>are</span> faithful: they persecute me wrongfully; help thou me.",
+      "plainText": "All thy commandments are faithful: they persecute me wrongfully; help thou me."
+    },
+    {
+      "type": "verse",
+      "id": "v87",
+      "number": "87",
+      "absolute": "15986",
+      "text": "They had almost consumed me upon earth; but I forsook not thy precepts.",
+      "plainText": "They had almost consumed me upon earth; but I forsook not thy precepts."
+    },
+    {
+      "type": "verse",
+      "id": "v88",
+      "number": "88",
+      "absolute": "15987",
+      "text": "Quicken me after thy lovingkindness; so shall I keep the testimony of thy mouth.",
+      "plainText": "Quicken me after thy lovingkindness; so shall I keep the testimony of thy mouth."
+    },
+    {
+      "type": "caption",
+      "id": "c88",
+      "text": "LAMED",
+      "plainText": "LAMED"
+    },
+    {
+      "type": "verse",
+      "id": "v89",
+      "number": "89",
+      "absolute": "15988",
+      "text": "For ever, O <span class='nog'>LORD</span>, thy word is settled in heaven.",
+      "plainText": "For ever, O LORD, thy word is settled in heaven."
+    },
+    {
+      "type": "verse",
+      "id": "v90",
+      "number": "90",
+      "absolute": "15989",
+      "text": "Thy faithfulness <span class='extra'>is</span> unto all generations: thou hast established the earth, and it abideth.",
+      "plainText": "Thy faithfulness is unto all generations: thou hast established the earth, and it abideth."
+    },
+    {
+      "type": "verse",
+      "id": "v91",
+      "number": "91",
+      "absolute": "15990",
+      "text": "They continue this day according to thine ordinances: for all <span class='extra'>are</span> thy servants.",
+      "plainText": "They continue this day according to thine ordinances: for all are thy servants."
+    },
+    {
+      "type": "verse",
+      "id": "v92",
+      "number": "92",
+      "absolute": "15991",
+      "text": "Unless thy law <span class='extra'>had been</span> my delights, I should then have perished in mine affliction.",
+      "plainText": "Unless thy law had been my delights, I should then have perished in mine affliction."
+    },
+    {
+      "type": "verse",
+      "id": "v93",
+      "number": "93",
+      "absolute": "15992",
+      "text": "I will never forget thy precepts: for with them thou hast quickened me.",
+      "plainText": "I will never forget thy precepts: for with them thou hast quickened me."
+    },
+    {
+      "type": "verse",
+      "id": "v94",
+      "number": "94",
+      "absolute": "15993",
+      "text": "I <span class='extra'>am</span> thine, save me; for I have sought thy precepts.",
+      "plainText": "I am thine, save me; for I have sought thy precepts."
+    },
+    {
+      "type": "verse",
+      "id": "v95",
+      "number": "95",
+      "absolute": "15994",
+      "text": "The wicked have waited for me to destroy me: <span class='extra'>but</span> I will consider thy testimonies.",
+      "plainText": "The wicked have waited for me to destroy me: but I will consider thy testimonies."
+    },
+    {
+      "type": "verse",
+      "id": "v96",
+      "number": "96",
+      "absolute": "15995",
+      "text": "I have seen an end of all perfection: <span class='extra'>but</span> thy commandment <span class='extra'>is</span> exceeding broad.",
+      "plainText": "I have seen an end of all perfection: but thy commandment is exceeding broad."
+    },
+    {
+      "type": "caption",
+      "id": "c96",
+      "text": "MEM",
+      "plainText": "MEM"
+    },
+    {
+      "type": "verse",
+      "id": "v97",
+      "number": "97",
+      "absolute": "15996",
+      "text": "O how love I thy law! it <span class='extra'>is</span> my meditation all the day.",
+      "plainText": "O how love I thy law! it is my meditation all the day."
+    },
+    {
+      "type": "verse",
+      "id": "v98",
+      "number": "98",
+      "absolute": "15997",
+      "text": "Thou through thy commandments hast made me wiser than mine enemies: for they <span class='extra'>are</span> ever with me.",
+      "plainText": "Thou through thy commandments hast made me wiser than mine enemies: for they are ever with me."
+    },
+    {
+      "type": "verse",
+      "id": "v99",
+      "number": "99",
+      "absolute": "15998",
+      "text": "I have more understanding than all my teachers: for thy testimonies <span class='extra'>are</span> my meditation.",
+      "plainText": "I have more understanding than all my teachers: for thy testimonies are my meditation."
+    },
+    {
+      "type": "verse",
+      "id": "v100",
+      "number": "100",
+      "absolute": "15999",
+      "text": "I understand more than the ancients, because I keep thy precepts.",
+      "plainText": "I understand more than the ancients, because I keep thy precepts."
+    },
+    {
+      "type": "verse",
+      "id": "v101",
+      "number": "101",
+      "absolute": "16000",
+      "text": "I have refrained my feet from every evil way, that I might keep thy word.",
+      "plainText": "I have refrained my feet from every evil way, that I might keep thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v102",
+      "number": "102",
+      "absolute": "16001",
+      "text": "I have not departed from thy judgments: for thou hast taught me.",
+      "plainText": "I have not departed from thy judgments: for thou hast taught me."
+    },
+    {
+      "type": "verse",
+      "id": "v103",
+      "number": "103",
+      "absolute": "16002",
+      "text": "How sweet are thy words unto my taste! <span class='extra'>yea, sweeter</span> than honey to my mouth!",
+      "plainText": "How sweet are thy words unto my taste! yea, sweeter than honey to my mouth!"
+    },
+    {
+      "type": "verse",
+      "id": "v104",
+      "number": "104",
+      "absolute": "16003",
+      "text": "Through thy precepts I get understanding: therefore I hate every false way.",
+      "plainText": "Through thy precepts I get understanding: therefore I hate every false way."
+    },
+    {
+      "type": "caption",
+      "id": "c104",
+      "text": "NUN",
+      "plainText": "NUN"
+    },
+    {
+      "type": "verse",
+      "id": "v105",
+      "number": "105",
+      "absolute": "16004",
+      "text": "Thy word <span class='extra'>is</span> a lamp unto my feet, and a light unto my path.",
+      "plainText": "Thy word is a lamp unto my feet, and a light unto my path."
+    },
+    {
+      "type": "verse",
+      "id": "v106",
+      "number": "106",
+      "absolute": "16005",
+      "text": "I have sworn, and I will perform <span class='extra'>it</span>, that I will keep thy righteous judgments.",
+      "plainText": "I have sworn, and I will perform it, that I will keep thy righteous judgments."
+    },
+    {
+      "type": "verse",
+      "id": "v107",
+      "number": "107",
+      "absolute": "16006",
+      "text": "I am afflicted very much: quicken me, O <span class='nog'>LORD</span>, according unto thy word.",
+      "plainText": "I am afflicted very much: quicken me, O LORD, according unto thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v108",
+      "number": "108",
+      "absolute": "16007",
+      "text": "Accept, I beseech thee, the freewill offerings of my mouth, O <span class='nog'>LORD</span>, and teach me thy judgments.",
+      "plainText": "Accept, I beseech thee, the freewill offerings of my mouth, O LORD, and teach me thy judgments."
+    },
+    {
+      "type": "verse",
+      "id": "v109",
+      "number": "109",
+      "absolute": "16008",
+      "text": "My soul <span class='extra'>is</span> continually in my hand: yet do I not forget thy law.",
+      "plainText": "My soul is continually in my hand: yet do I not forget thy law."
+    },
+    {
+      "type": "verse",
+      "id": "v110",
+      "number": "110",
+      "absolute": "16009",
+      "text": "The wicked have laid a snare for me: yet I erred not from thy precepts.",
+      "plainText": "The wicked have laid a snare for me: yet I erred not from thy precepts."
+    },
+    {
+      "type": "verse",
+      "id": "v111",
+      "number": "111",
+      "absolute": "16010",
+      "text": "Thy testimonies have I taken as an heritage for ever: for they <span class='extra'>are</span> the rejoicing of my heart.",
+      "plainText": "Thy testimonies have I taken as an heritage for ever: for they are the rejoicing of my heart."
+    },
+    {
+      "type": "verse",
+      "id": "v112",
+      "number": "112",
+      "absolute": "16011",
+      "text": "I have inclined mine heart to perform thy statutes alway, <span class='extra'>even unto</span> the end.",
+      "plainText": "I have inclined mine heart to perform thy statutes alway, even unto the end."
+    },
+    {
+      "type": "caption",
+      "id": "c112",
+      "text": "SAMECH",
+      "plainText": "SAMECH"
+    },
+    {
+      "type": "verse",
+      "id": "v113",
+      "number": "113",
+      "absolute": "16012",
+      "text": "I hate <span class='extra'>vain</span> thoughts: but thy law do I love.",
+      "plainText": "I hate vain thoughts: but thy law do I love."
+    },
+    {
+      "type": "verse",
+      "id": "v114",
+      "number": "114",
+      "absolute": "16013",
+      "text": "Thou <span class='extra'>art</span> my hiding place and my shield: I hope in thy word.",
+      "plainText": "Thou art my hiding place and my shield: I hope in thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v115",
+      "number": "115",
+      "absolute": "16014",
+      "text": "Depart from me, ye evildoers: for I will keep the commandments of my God.",
+      "plainText": "Depart from me, ye evildoers: for I will keep the commandments of my God."
+    },
+    {
+      "type": "verse",
+      "id": "v116",
+      "number": "116",
+      "absolute": "16015",
+      "text": "Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope.",
+      "plainText": "Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope."
+    },
+    {
+      "type": "verse",
+      "id": "v117",
+      "number": "117",
+      "absolute": "16016",
+      "text": "Hold thou me up, and I shall be safe: and I will have respect unto thy statutes continually.",
+      "plainText": "Hold thou me up, and I shall be safe: and I will have respect unto thy statutes continually."
+    },
+    {
+      "type": "verse",
+      "id": "v118",
+      "number": "118",
+      "absolute": "16017",
+      "text": "Thou hast trodden down all them that err from thy statutes: for their deceit <span class='extra'>is</span> falsehood.",
+      "plainText": "Thou hast trodden down all them that err from thy statutes: for their deceit is falsehood."
+    },
+    {
+      "type": "verse",
+      "id": "v119",
+      "number": "119",
+      "absolute": "16018",
+      "text": "Thou puttest away all the wicked of the earth <span class='extra'>like</span> dross: therefore I love thy testimonies.",
+      "plainText": "Thou puttest away all the wicked of the earth like dross: therefore I love thy testimonies."
+    },
+    {
+      "type": "verse",
+      "id": "v120",
+      "number": "120",
+      "absolute": "16019",
+      "text": "My flesh trembleth for fear of thee; and I am afraid of thy judgments.",
+      "plainText": "My flesh trembleth for fear of thee; and I am afraid of thy judgments."
+    },
+    {
+      "type": "caption",
+      "id": "c120",
+      "text": "AIN",
+      "plainText": "AIN"
+    },
+    {
+      "type": "verse",
+      "id": "v121",
+      "number": "121",
+      "absolute": "16020",
+      "text": "I have done judgment and justice: leave me not to mine oppressors.",
+      "plainText": "I have done judgment and justice: leave me not to mine oppressors."
+    },
+    {
+      "type": "verse",
+      "id": "v122",
+      "number": "122",
+      "absolute": "16021",
+      "text": "Be surety for thy servant for good: let not the proud oppress me.",
+      "plainText": "Be surety for thy servant for good: let not the proud oppress me."
+    },
+    {
+      "type": "verse",
+      "id": "v123",
+      "number": "123",
+      "absolute": "16022",
+      "text": "Mine eyes fail for thy salvation, and for the word of thy righteousness.",
+      "plainText": "Mine eyes fail for thy salvation, and for the word of thy righteousness."
+    },
+    {
+      "type": "verse",
+      "id": "v124",
+      "number": "124",
+      "absolute": "16023",
+      "text": "Deal with thy servant according unto thy mercy, and teach me thy statutes.",
+      "plainText": "Deal with thy servant according unto thy mercy, and teach me thy statutes."
+    },
+    {
+      "type": "verse",
+      "id": "v125",
+      "number": "125",
+      "absolute": "16024",
+      "text": "I <span class='extra'>am</span> thy servant; give me understanding, that I may know thy testimonies.",
+      "plainText": "I am thy servant; give me understanding, that I may know thy testimonies."
+    },
+    {
+      "type": "verse",
+      "id": "v126",
+      "number": "126",
+      "absolute": "16025",
+      "text": "<span class='extra'>It is</span> time for <span class='extra'>thee</span>, <span class='nog'>LORD</span>, to work: <span class='extra'>for</span> they have made void thy law.",
+      "plainText": "It is time for thee, LORD, to work: for they have made void thy law."
+    },
+    {
+      "type": "verse",
+      "id": "v127",
+      "number": "127",
+      "absolute": "16026",
+      "text": "Therefore I love thy commandments above gold; yea, above fine gold.",
+      "plainText": "Therefore I love thy commandments above gold; yea, above fine gold."
+    },
+    {
+      "type": "verse",
+      "id": "v128",
+      "number": "128",
+      "absolute": "16027",
+      "text": "Therefore I esteem all <span class='extra'>thy</span> precepts <span class='extra'>concerning</span> all <span class='extra'>things to be</span> right; <span class='extra'>and</span> I hate every false way.",
+      "plainText": "Therefore I esteem all thy precepts concerning all things to be right; and I hate every false way."
+    },
+    {
+      "type": "caption",
+      "id": "c128",
+      "text": "PE",
+      "plainText": "PE"
+    },
+    {
+      "type": "verse",
+      "id": "v129",
+      "number": "129",
+      "absolute": "16028",
+      "text": "Thy testimonies <span class='extra'>are</span> wonderful: therefore doth my soul keep them.",
+      "plainText": "Thy testimonies are wonderful: therefore doth my soul keep them."
+    },
+    {
+      "type": "verse",
+      "id": "v130",
+      "number": "130",
+      "absolute": "16029",
+      "text": "The entrance of thy words giveth light; it giveth understanding unto the simple.",
+      "plainText": "The entrance of thy words giveth light; it giveth understanding unto the simple."
+    },
+    {
+      "type": "verse",
+      "id": "v131",
+      "number": "131",
+      "absolute": "16030",
+      "text": "I opened my mouth, and panted: for I longed for thy commandments.",
+      "plainText": "I opened my mouth, and panted: for I longed for thy commandments."
+    },
+    {
+      "type": "verse",
+      "id": "v132",
+      "number": "132",
+      "absolute": "16031",
+      "text": "Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name.",
+      "plainText": "Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name."
+    },
+    {
+      "type": "verse",
+      "id": "v133",
+      "number": "133",
+      "absolute": "16032",
+      "text": "Order my steps in thy word: and let not any iniquity have dominion over me.",
+      "plainText": "Order my steps in thy word: and let not any iniquity have dominion over me."
+    },
+    {
+      "type": "verse",
+      "id": "v134",
+      "number": "134",
+      "absolute": "16033",
+      "text": "Deliver me from the oppression of man: so will I keep thy precepts.",
+      "plainText": "Deliver me from the oppression of man: so will I keep thy precepts."
+    },
+    {
+      "type": "verse",
+      "id": "v135",
+      "number": "135",
+      "absolute": "16034",
+      "text": "Make thy face to shine upon thy servant; and teach me thy statutes.",
+      "plainText": "Make thy face to shine upon thy servant; and teach me thy statutes."
+    },
+    {
+      "type": "verse",
+      "id": "v136",
+      "number": "136",
+      "absolute": "16035",
+      "text": "Rivers of waters run down mine eyes, because they keep not thy law.",
+      "plainText": "Rivers of waters run down mine eyes, because they keep not thy law."
+    },
+    {
+      "type": "caption",
+      "id": "c136",
+      "text": "TZADDI",
+      "plainText": "TZADDI"
+    },
+    {
+      "type": "verse",
+      "id": "v137",
+      "number": "137",
+      "absolute": "16036",
+      "text": "Righteous <span class='extra'>art</span> thou, O <span class='nog'>LORD</span>, and upright <span class='extra'>are</span> thy judgments.",
+      "plainText": "Righteous art thou, O LORD, and upright are thy judgments."
+    },
+    {
+      "type": "verse",
+      "id": "v138",
+      "number": "138",
+      "absolute": "16037",
+      "text": "Thy testimonies <span class='extra'>that</span> thou hast commanded <span class='extra'>are</span> righteous and very faithful.",
+      "plainText": "Thy testimonies that thou hast commanded are righteous and very faithful."
+    },
+    {
+      "type": "verse",
+      "id": "v139",
+      "number": "139",
+      "absolute": "16038",
+      "text": "My zeal hath consumed me, because mine enemies have forgotten thy words.",
+      "plainText": "My zeal hath consumed me, because mine enemies have forgotten thy words."
+    },
+    {
+      "type": "verse",
+      "id": "v140",
+      "number": "140",
+      "absolute": "16039",
+      "text": "Thy word <span class='extra'>is</span> very pure: therefore thy servant loveth it.",
+      "plainText": "Thy word is very pure: therefore thy servant loveth it."
+    },
+    {
+      "type": "verse",
+      "id": "v141",
+      "number": "141",
+      "absolute": "16040",
+      "text": "I <span class='extra'>am</span> small and despised: <span class='extra'>yet</span> do not I forget thy precepts.",
+      "plainText": "I am small and despised: yet do not I forget thy precepts."
+    },
+    {
+      "type": "verse",
+      "id": "v142",
+      "number": "142",
+      "absolute": "16041",
+      "text": "Thy righteousness <span class='extra'>is</span> an everlasting righteousness, and thy law <span class='extra'>is</span> the truth.",
+      "plainText": "Thy righteousness is an everlasting righteousness, and thy law is the truth."
+    },
+    {
+      "type": "verse",
+      "id": "v143",
+      "number": "143",
+      "absolute": "16042",
+      "text": "Trouble and anguish have taken hold on me: <span class='extra'>yet</span> thy commandments <span class='extra'>are</span> my delights.",
+      "plainText": "Trouble and anguish have taken hold on me: yet thy commandments are my delights."
+    },
+    {
+      "type": "verse",
+      "id": "v144",
+      "number": "144",
+      "absolute": "16043",
+      "text": "The righteousness of thy testimonies <span class='extra'>is</span> everlasting: give me understanding, and I shall live.",
+      "plainText": "The righteousness of thy testimonies is everlasting: give me understanding, and I shall live."
+    },
+    {
+      "type": "caption",
+      "id": "c144",
+      "text": "KOPH",
+      "plainText": "KOPH"
+    },
+    {
+      "type": "verse",
+      "id": "v145",
+      "number": "145",
+      "absolute": "16044",
+      "text": "I cried with <span class='extra'>my</span> whole heart; hear me, O <span class='nog'>LORD</span>: I will keep thy statutes.",
+      "plainText": "I cried with my whole heart; hear me, O LORD: I will keep thy statutes."
+    },
+    {
+      "type": "verse",
+      "id": "v146",
+      "number": "146",
+      "absolute": "16045",
+      "text": "I cried unto thee; save me, and I shall keep thy testimonies.",
+      "plainText": "I cried unto thee; save me, and I shall keep thy testimonies."
+    },
+    {
+      "type": "verse",
+      "id": "v147",
+      "number": "147",
+      "absolute": "16046",
+      "text": "I prevented the dawning of the morning, and cried: I hoped in thy word.",
+      "plainText": "I prevented the dawning of the morning, and cried: I hoped in thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v148",
+      "number": "148",
+      "absolute": "16047",
+      "text": "Mine eyes prevent the <span class='extra'>night</span> watches, that I might meditate in thy word.",
+      "plainText": "Mine eyes prevent the night watches, that I might meditate in thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v149",
+      "number": "149",
+      "absolute": "16048",
+      "text": "Hear my voice according unto thy lovingkindness: O <span class='nog'>LORD</span>, quicken me according to thy judgment.",
+      "plainText": "Hear my voice according unto thy lovingkindness: O LORD, quicken me according to thy judgment."
+    },
+    {
+      "type": "verse",
+      "id": "v150",
+      "number": "150",
+      "absolute": "16049",
+      "text": "They draw nigh that follow after mischief: they are far from thy law.",
+      "plainText": "They draw nigh that follow after mischief: they are far from thy law."
+    },
+    {
+      "type": "verse",
+      "id": "v151",
+      "number": "151",
+      "absolute": "16050",
+      "text": "Thou <span class='extra'>art</span> near, O <span class='nog'>LORD</span>; and all thy commandments <span class='extra'>are</span> truth.",
+      "plainText": "Thou art near, O LORD; and all thy commandments are truth."
+    },
+    {
+      "type": "verse",
+      "id": "v152",
+      "number": "152",
+      "absolute": "16051",
+      "text": "Concerning thy testimonies, I have known of old that thou hast founded them for ever.",
+      "plainText": "Concerning thy testimonies, I have known of old that thou hast founded them for ever."
+    },
+    {
+      "type": "caption",
+      "id": "c152",
+      "text": "RESH",
+      "plainText": "RESH"
+    },
+    {
+      "type": "verse",
+      "id": "v153",
+      "number": "153",
+      "absolute": "16052",
+      "text": "Consider mine affliction, and deliver me: for I do not forget thy law.",
+      "plainText": "Consider mine affliction, and deliver me: for I do not forget thy law."
+    },
+    {
+      "type": "verse",
+      "id": "v154",
+      "number": "154",
+      "absolute": "16053",
+      "text": "Plead my cause, and deliver me: quicken me according to thy word.",
+      "plainText": "Plead my cause, and deliver me: quicken me according to thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v155",
+      "number": "155",
+      "absolute": "16054",
+      "text": "Salvation <span class='extra'>is</span> far from the wicked: for they seek not thy statutes.",
+      "plainText": "Salvation is far from the wicked: for they seek not thy statutes."
+    },
+    {
+      "type": "verse",
+      "id": "v156",
+      "number": "156",
+      "absolute": "16055",
+      "text": "Great <span class='extra'>are</span> thy tender mercies, O <span class='nog'>LORD</span>: quicken me according to thy judgments.",
+      "plainText": "Great are thy tender mercies, O LORD: quicken me according to thy judgments."
+    },
+    {
+      "type": "verse",
+      "id": "v157",
+      "number": "157",
+      "absolute": "16056",
+      "text": "Many <span class='extra'>are</span> my persecutors and mine enemies; <span class='extra'>yet</span> do I not decline from thy testimonies.",
+      "plainText": "Many are my persecutors and mine enemies; yet do I not decline from thy testimonies."
+    },
+    {
+      "type": "verse",
+      "id": "v158",
+      "number": "158",
+      "absolute": "16057",
+      "text": "I beheld the transgressors, and was grieved; because they kept not thy word.",
+      "plainText": "I beheld the transgressors, and was grieved; because they kept not thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v159",
+      "number": "159",
+      "absolute": "16058",
+      "text": "Consider how I love thy precepts: quicken me, O <span class='nog'>LORD</span>, according to thy lovingkindness.",
+      "plainText": "Consider how I love thy precepts: quicken me, O LORD, according to thy lovingkindness."
+    },
+    {
+      "type": "verse",
+      "id": "v160",
+      "number": "160",
+      "absolute": "16059",
+      "text": "Thy word <span class='extra'>is</span> true <span class='extra'>from</span> the beginning: and every one of thy righteous judgments <span class='extra'>endureth</span> for ever.",
+      "plainText": "Thy word is true from the beginning: and every one of thy righteous judgments endureth for ever."
+    },
+    {
+      "type": "caption",
+      "id": "c160",
+      "text": "SCHIN",
+      "plainText": "SCHIN"
+    },
+    {
+      "type": "verse",
+      "id": "v161",
+      "number": "161",
+      "absolute": "16060",
+      "text": "Princes have persecuted me without a cause: but my heart standeth in awe of thy word.",
+      "plainText": "Princes have persecuted me without a cause: but my heart standeth in awe of thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v162",
+      "number": "162",
+      "absolute": "16061",
+      "text": "I rejoice at thy word, as one that findeth great spoil.",
+      "plainText": "I rejoice at thy word, as one that findeth great spoil."
+    },
+    {
+      "type": "verse",
+      "id": "v163",
+      "number": "163",
+      "absolute": "16062",
+      "text": "I hate and abhor lying: <span class='extra'>but</span> thy law do I love.",
+      "plainText": "I hate and abhor lying: but thy law do I love."
+    },
+    {
+      "type": "verse",
+      "id": "v164",
+      "number": "164",
+      "absolute": "16063",
+      "text": "Seven times a day do I praise thee because of thy righteous judgments.",
+      "plainText": "Seven times a day do I praise thee because of thy righteous judgments."
+    },
+    {
+      "type": "verse",
+      "id": "v165",
+      "number": "165",
+      "absolute": "16064",
+      "text": "Great peace have they which love thy law: and nothing shall offend them.",
+      "plainText": "Great peace have they which love thy law: and nothing shall offend them."
+    },
+    {
+      "type": "verse",
+      "id": "v166",
+      "number": "166",
+      "absolute": "16065",
+      "text": "<span class='nog'>LORD</span>, I have hoped for thy salvation, and done thy commandments.",
+      "plainText": "LORD, I have hoped for thy salvation, and done thy commandments."
+    },
+    {
+      "type": "verse",
+      "id": "v167",
+      "number": "167",
+      "absolute": "16066",
+      "text": "My soul hath kept thy testimonies; and I love them exceedingly.",
+      "plainText": "My soul hath kept thy testimonies; and I love them exceedingly."
+    },
+    {
+      "type": "verse",
+      "id": "v168",
+      "number": "168",
+      "absolute": "16067",
+      "text": "I have kept thy precepts and thy testimonies: for all my ways <span class='extra'>are</span> before thee.",
+      "plainText": "I have kept thy precepts and thy testimonies: for all my ways are before thee."
+    },
+    {
+      "type": "caption",
+      "id": "c168",
+      "text": "TAU",
+      "plainText": "TAU"
+    },
+    {
+      "type": "verse",
+      "id": "v169",
+      "number": "169",
+      "absolute": "16068",
+      "text": "Let my cry come near before thee, O <span class='nog'>LORD</span>: give me understanding according to thy word.",
+      "plainText": "Let my cry come near before thee, O LORD: give me understanding according to thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v170",
+      "number": "170",
+      "absolute": "16069",
+      "text": "Let my supplication come before thee: deliver me according to thy word.",
+      "plainText": "Let my supplication come before thee: deliver me according to thy word."
+    },
+    {
+      "type": "verse",
+      "id": "v171",
+      "number": "171",
+      "absolute": "16070",
+      "text": "My lips shall utter praise, when thou hast taught me thy statutes.",
+      "plainText": "My lips shall utter praise, when thou hast taught me thy statutes."
+    },
+    {
+      "type": "verse",
+      "id": "v172",
+      "number": "172",
+      "absolute": "16071",
+      "text": "My tongue shall speak of thy word: for all thy commandments <span class='extra'>are</span> righteousness.",
+      "plainText": "My tongue shall speak of thy word: for all thy commandments are righteousness."
+    },
+    {
+      "type": "verse",
+      "id": "v173",
+      "number": "173",
+      "absolute": "16072",
+      "text": "Let thine hand help me; for I have chosen thy precepts.",
+      "plainText": "Let thine hand help me; for I have chosen thy precepts."
+    },
+    {
+      "type": "verse",
+      "id": "v174",
+      "number": "174",
+      "absolute": "16073",
+      "text": "I have longed for thy salvation, O <span class='nog'>LORD</span>; and thy law <span class='extra'>is</span> my delight.",
+      "plainText": "I have longed for thy salvation, O LORD; and thy law is my delight."
+    },
+    {
+      "type": "verse",
+      "id": "v175",
+      "number": "175",
+      "absolute": "16074",
+      "text": "Let my soul live, and it shall praise thee; and let thy judgments help me.",
+      "plainText": "Let my soul live, and it shall praise thee; and let thy judgments help me."
+    },
+    {
+      "type": "verse",
+      "id": "v176",
+      "number": "176",
+      "absolute": "16075",
+      "text": "I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments.",
+      "plainText": "I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments."
     }
   ]
 }
-
-

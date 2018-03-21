@@ -1,262 +1,237 @@
 {
   "book": {
-    "number" : "59",
-    "filenamePrefix" : "james",
-    "bookPage" : "james.html",
-    "title" : "James",
-    "chapterCount" : "5",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "1peter_1.html",
-    "nextTitle" : "1 Peter",
-    "prevBook" : "hebrews_1.html",
-    "prevTitle" : "Hebrews"
+    "number": "59",
+    "filenamePrefix": "james",
+    "bookPage": "james.html",
+    "title": "James",
+    "chapterCount": "5",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "1peter_1.html",
+    "nextTitle": "1 Peter",
+    "prevBook": "hebrews_1.html",
+    "prevTitle": "Hebrews",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "2",
-    "verseCount" : "26",
-    "nextChapter" : "james_3.html",
-    "nextTitle" : "James 3",
-    "prevChapter" : "james_1.html",
-    "prevTitle" : "James 1",
-    "filename" : "james_2.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "2",
+    "verseCount": "26",
+    "nextChapter": "james_3.html",
+    "nextTitle": "James 3",
+    "prevChapter": "james_1.html",
+    "prevTitle": "James 1",
+    "filename": "james_2.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "30295",
-      "text" : "My brethren, have not the faith of our Lord Jesus Christ, <span class='extra'>the Lord<\/span> of glory, with respect of persons.",
-      "plainText" : "My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "30295",
+      "text": "My brethren, have not the faith of our Lord Jesus Christ, <span class='extra'>the Lord</span> of glory, with respect of persons.",
+      "plainText": "My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "30296",
-      "text" : "For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;",
-      "plainText" : "For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "30296",
+      "text": "For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;",
+      "plainText": "For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "30297",
-      "text" : "And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:",
-      "plainText" : "And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "30297",
+      "text": "And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:",
+      "plainText": "And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "30298",
-      "text" : "Are ye not then partial in yourselves, and are become judges of evil thoughts?",
-      "plainText" : "Are ye not then partial in yourselves, and are become judges of evil thoughts?"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "30298",
+      "text": "Are ye not then partial in yourselves, and are become judges of evil thoughts?",
+      "plainText": "Are ye not then partial in yourselves, and are become judges of evil thoughts?"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "30299",
-      "text" : "Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?",
-      "plainText" : "Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "30299",
+      "text": "Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?",
+      "plainText": "Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "30300",
-      "text" : "But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?",
-      "plainText" : "But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "30300",
+      "text": "But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?",
+      "plainText": "But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "30301",
-      "text" : "Do not they blaspheme that worthy name by the which ye are called?",
-      "plainText" : "Do not they blaspheme that worthy name by the which ye are called?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "30301",
+      "text": "Do not they blaspheme that worthy name by the which ye are called?",
+      "plainText": "Do not they blaspheme that worthy name by the which ye are called?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "30302",
-      "text" : "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:",
-      "plainText" : "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "30302",
+      "text": "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:",
+      "plainText": "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "30303",
-      "text" : "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors.",
-      "plainText" : "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "30303",
+      "text": "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors.",
+      "plainText": "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "30304",
-      "text" : "For whosoever shall keep the whole law, and yet offend in one <span class='extra'>point<\/span>, he is guilty of all.",
-      "plainText" : "For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "30304",
+      "text": "For whosoever shall keep the whole law, and yet offend in one <span class='extra'>point</span>, he is guilty of all.",
+      "plainText": "For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "30305",
-      "text" : "For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law.",
-      "plainText" : "For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "30305",
+      "text": "For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law.",
+      "plainText": "For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "30306",
-      "text" : "So speak ye, and so do, as they that shall be judged by the law of liberty.",
-      "plainText" : "So speak ye, and so do, as they that shall be judged by the law of liberty."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "30306",
+      "text": "So speak ye, and so do, as they that shall be judged by the law of liberty.",
+      "plainText": "So speak ye, and so do, as they that shall be judged by the law of liberty."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "30307",
-      "text" : "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.",
-      "plainText" : "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "30307",
+      "text": "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.",
+      "plainText": "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "30308",
-      "text" : "What <span class='extra'>doth it<\/span> profit, my brethren, though a man say he hath faith, and have not works? can faith save him?",
-      "plainText" : "What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him?"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "30308",
+      "text": "What <span class='extra'>doth it</span> profit, my brethren, though a man say he hath faith, and have not works? can faith save him?",
+      "plainText": "What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him?"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "30309",
-      "text" : "If a brother or sister be naked, and destitute of daily food,",
-      "plainText" : "If a brother or sister be naked, and destitute of daily food,"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "30309",
+      "text": "If a brother or sister be naked, and destitute of daily food,",
+      "plainText": "If a brother or sister be naked, and destitute of daily food,"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "30310",
-      "text" : "And one of you say unto them, Depart in peace, be <span class='extra'>ye<\/span> warmed and filled; notwithstanding ye give them not those things which are needful to the body; what <span class='extra'>doth it<\/span> profit?",
-      "plainText" : "And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit?"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "30310",
+      "text": "And one of you say unto them, Depart in peace, be <span class='extra'>ye</span> warmed and filled; notwithstanding ye give them not those things which are needful to the body; what <span class='extra'>doth it</span> profit?",
+      "plainText": "And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit?"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "30311",
-      "text" : "Even so faith, if it hath not works, is dead, being alone.",
-      "plainText" : "Even so faith, if it hath not works, is dead, being alone."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "30311",
+      "text": "Even so faith, if it hath not works, is dead, being alone.",
+      "plainText": "Even so faith, if it hath not works, is dead, being alone."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "30312",
-      "text" : "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works.",
-      "plainText" : "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "30312",
+      "text": "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works.",
+      "plainText": "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "30313",
-      "text" : "Thou believest that there is one God; thou doest well: the devils also believe, and tremble.",
-      "plainText" : "Thou believest that there is one God; thou doest well: the devils also believe, and tremble."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "30313",
+      "text": "Thou believest that there is one God; thou doest well: the devils also believe, and tremble.",
+      "plainText": "Thou believest that there is one God; thou doest well: the devils also believe, and tremble."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "30314",
-      "text" : "But wilt thou know, O vain man, that faith without works is dead?",
-      "plainText" : "But wilt thou know, O vain man, that faith without works is dead?"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "30314",
+      "text": "But wilt thou know, O vain man, that faith without works is dead?",
+      "plainText": "But wilt thou know, O vain man, that faith without works is dead?"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "30315",
-      "text" : "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?",
-      "plainText" : "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "30315",
+      "text": "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?",
+      "plainText": "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "30316",
-      "text" : "Seest thou how faith wrought with his works, and by works was faith made perfect?",
-      "plainText" : "Seest thou how faith wrought with his works, and by works was faith made perfect?"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "30316",
+      "text": "Seest thou how faith wrought with his works, and by works was faith made perfect?",
+      "plainText": "Seest thou how faith wrought with his works, and by works was faith made perfect?"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "30317",
-      "text" : "And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God.",
-      "plainText" : "And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "30317",
+      "text": "And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God.",
+      "plainText": "And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "30318",
-      "text" : "Ye see then how that by works a man is justified, and not by faith only.",
-      "plainText" : "Ye see then how that by works a man is justified, and not by faith only."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "30318",
+      "text": "Ye see then how that by works a man is justified, and not by faith only.",
+      "plainText": "Ye see then how that by works a man is justified, and not by faith only."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "30319",
-      "text" : "Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent <span class='extra'>them<\/span> out another way?",
-      "plainText" : "Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "30319",
+      "text": "Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent <span class='extra'>them</span> out another way?",
+      "plainText": "Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "30320",
-      "text" : "For as the body without the spirit is dead, so faith without works is dead also.",
-      "plainText" : "For as the body without the spirit is dead, so faith without works is dead also."
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "30320",
+      "text": "For as the body without the spirit is dead, so faith without works is dead also.",
+      "plainText": "For as the body without the spirit is dead, so faith without works is dead also."
     }
   ]
 }
-

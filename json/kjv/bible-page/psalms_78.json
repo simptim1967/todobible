@@ -1,684 +1,611 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "78",
-    "verseCount" : "72",
-    "nextChapter" : "psalms_79.html",
-    "nextTitle" : "Psalms 79",
-    "prevChapter" : "psalms_77.html",
-    "prevTitle" : "Psalms 77",
-    "filename" : "psalms_78.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "78",
+    "verseCount": "72",
+    "nextChapter": "psalms_79.html",
+    "nextTitle": "Psalms 79",
+    "prevChapter": "psalms_77.html",
+    "prevTitle": "Psalms 77",
+    "filename": "psalms_78.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "Maschil of Asaph.",
-      "plainText" : "Maschil of Asaph."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "15115",
-      "text" : "Give ear, O my people, <span class='extra'>to<\/span> my law: incline your ears to the words of my mouth.",
-      "plainText" : "Give ear, O my people, to my law: incline your ears to the words of my mouth."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "15116",
-      "text" : "I will open my mouth in a parable: I will utter dark sayings of old:",
-      "plainText" : "I will open my mouth in a parable: I will utter dark sayings of old:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "15117",
-      "text" : "Which we have heard and known, and our fathers have told us.",
-      "plainText" : "Which we have heard and known, and our fathers have told us."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "15118",
-      "text" : "We will not hide <span class='extra'>them<\/span> from their children, shewing to the generation to come the praises of the <span class='nog'>LORD<\/span>, and his strength, and his wonderful works that he hath done.",
-      "plainText" : "We will not hide them from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "15119",
-      "text" : "For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:",
-      "plainText" : "For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "15120",
-      "text" : "That the generation to come might know <span class='extra'>them, even<\/span> the children <span class='extra'>which<\/span> should be born; <span class='extra'>who<\/span> should arise and declare <span class='extra'>them<\/span> to their children:",
-      "plainText" : "That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "15121",
-      "text" : "That they might set their hope in God, and not forget the works of God, but keep his commandments:",
-      "plainText" : "That they might set their hope in God, and not forget the works of God, but keep his commandments:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "15122",
-      "text" : "And might not be as their fathers, a stubborn and rebellious generation; a generation <span class='extra'>that<\/span> set not their heart aright, and whose spirit was not stedfast with God.",
-      "plainText" : "And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not stedfast with God."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "15123",
-      "text" : "The children of Ephraim, <span class='extra'>being<\/span> armed, <span class='extra'>and<\/span> carrying bows, turned back in the day of battle.",
-      "plainText" : "The children of Ephraim, being armed, and carrying bows, turned back in the day of battle."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "15124",
-      "text" : "They kept not the covenant of God, and refused to walk in his law;",
-      "plainText" : "They kept not the covenant of God, and refused to walk in his law;"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "15125",
-      "text" : "And forgat his works, and his wonders that he had shewed them.",
-      "plainText" : "And forgat his works, and his wonders that he had shewed them."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "15126",
-      "text" : "Marvellous things did he in the sight of their fathers, in the land of Egypt, <span class='extra'>in<\/span> the field of Zoan.",
-      "plainText" : "Marvellous things did he in the sight of their fathers, in the land of Egypt, in the field of Zoan."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "15127",
-      "text" : "He divided the sea, and caused them to pass through; and he made the waters to stand as an heap.",
-      "plainText" : "He divided the sea, and caused them to pass through; and he made the waters to stand as an heap."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "15128",
-      "text" : "In the daytime also he led them with a cloud, and all the night with a light of fire.",
-      "plainText" : "In the daytime also he led them with a cloud, and all the night with a light of fire."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "15129",
-      "text" : "He clave the rocks in the wilderness, and gave <span class='extra'>them<\/span> drink as <span class='extra'>out of<\/span> the great depths.",
-      "plainText" : "He clave the rocks in the wilderness, and gave them drink as out of the great depths."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "15130",
-      "text" : "He brought streams also out of the rock, and caused waters to run down like rivers.",
-      "plainText" : "He brought streams also out of the rock, and caused waters to run down like rivers."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "15131",
-      "text" : "And they sinned yet more against him by provoking the most High in the wilderness.",
-      "plainText" : "And they sinned yet more against him by provoking the most High in the wilderness."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "15132",
-      "text" : "And they tempted God in their heart by asking meat for their lust.",
-      "plainText" : "And they tempted God in their heart by asking meat for their lust."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "15133",
-      "text" : "Yea, they spake against God; they said, Can God furnish a table in the wilderness?",
-      "plainText" : "Yea, they spake against God; they said, Can God furnish a table in the wilderness?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "15134",
-      "text" : "Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?",
-      "plainText" : "Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "15135",
-      "text" : "Therefore the <span class='nog'>LORD<\/span> heard <span class='extra'>this<\/span>, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;",
-      "plainText" : "Therefore the LORD heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "15136",
-      "text" : "Because they believed not in God, and trusted not in his salvation:",
-      "plainText" : "Because they believed not in God, and trusted not in his salvation:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "15137",
-      "text" : "Though he had commanded the clouds from above, and opened the doors of heaven,",
-      "plainText" : "Though he had commanded the clouds from above, and opened the doors of heaven,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "15138",
-      "text" : "And had rained down manna upon them to eat, and had given them of the corn of heaven.",
-      "plainText" : "And had rained down manna upon them to eat, and had given them of the corn of heaven."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "15139",
-      "text" : "Man did eat angels' food: he sent them meat to the full.",
-      "plainText" : "Man did eat angels' food: he sent them meat to the full."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "15140",
-      "text" : "He caused an east wind to blow in the heaven: and by his power he brought in the south wind.",
-      "plainText" : "He caused an east wind to blow in the heaven: and by his power he brought in the south wind."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "15141",
-      "text" : "He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:",
-      "plainText" : "He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "15142",
-      "text" : "And he let <span class='extra'>it<\/span> fall in the midst of their camp, round about their habitations.",
-      "plainText" : "And he let it fall in the midst of their camp, round about their habitations."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "15143",
-      "text" : "So they did eat, and were well filled: for he gave them their own desire;",
-      "plainText" : "So they did eat, and were well filled: for he gave them their own desire;"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "15144",
-      "text" : "They were not estranged from their lust. But while their meat <span class='extra'>was<\/span> yet in their mouths,",
-      "plainText" : "They were not estranged from their lust. But while their meat was yet in their mouths,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "15145",
-      "text" : "The wrath of God came upon them, and slew the fattest of them, and smote down the chosen <span class='extra'>men<\/span> of Israel.",
-      "plainText" : "The wrath of God came upon them, and slew the fattest of them, and smote down the chosen men of Israel."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "15146",
-      "text" : "For all this they sinned still, and believed not for his wondrous works.",
-      "plainText" : "For all this they sinned still, and believed not for his wondrous works."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "15147",
-      "text" : "Therefore their days did he consume in vanity, and their years in trouble.",
-      "plainText" : "Therefore their days did he consume in vanity, and their years in trouble."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "15148",
-      "text" : "When he slew them, then they sought him: and they returned and enquired early after God.",
-      "plainText" : "When he slew them, then they sought him: and they returned and enquired early after God."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "15149",
-      "text" : "And they remembered that God <span class='extra'>was<\/span> their rock, and the high God their redeemer.",
-      "plainText" : "And they remembered that God was their rock, and the high God their redeemer."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "15150",
-      "text" : "Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues.",
-      "plainText" : "Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "15151",
-      "text" : "For their heart was not right with him, neither were they stedfast in his covenant.",
-      "plainText" : "For their heart was not right with him, neither were they stedfast in his covenant."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "15152",
-      "text" : "But he, <span class='extra'>being<\/span> full of compassion, forgave <span class='extra'>their<\/span> iniquity, and destroyed <span class='extra'>them<\/span> not: yea, many a time turned he his anger away, and did not stir up all his wrath.",
-      "plainText" : "But he, being full of compassion, forgave their iniquity, and destroyed them not: yea, many a time turned he his anger away, and did not stir up all his wrath."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "15153",
-      "text" : "For he remembered that they <span class='extra'>were but<\/span> flesh; a wind that passeth away, and cometh not again.",
-      "plainText" : "For he remembered that they were but flesh; a wind that passeth away, and cometh not again."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "15154",
-      "text" : "How oft did they provoke him in the wilderness, <span class='extra'>and<\/span> grieve him in the desert!",
-      "plainText" : "How oft did they provoke him in the wilderness, and grieve him in the desert!"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "15155",
-      "text" : "Yea, they turned back and tempted God, and limited the Holy One of Israel.",
-      "plainText" : "Yea, they turned back and tempted God, and limited the Holy One of Israel."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "15156",
-      "text" : "They remembered not his hand, <span class='extra'>nor<\/span> the day when he delivered them from the enemy.",
-      "plainText" : "They remembered not his hand, nor the day when he delivered them from the enemy."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "15157",
-      "text" : "How he had wrought his signs in Egypt, and his wonders in the field of Zoan:",
-      "plainText" : "How he had wrought his signs in Egypt, and his wonders in the field of Zoan:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "15158",
-      "text" : "And had turned their rivers into blood; and their floods, that they could not drink.",
-      "plainText" : "And had turned their rivers into blood; and their floods, that they could not drink."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "15159",
-      "text" : "He sent divers sorts of flies among them, which devoured them; and frogs, which destroyed them.",
-      "plainText" : "He sent divers sorts of flies among them, which devoured them; and frogs, which destroyed them."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "15160",
-      "text" : "He gave also their increase unto the caterpiller, and their labour unto the locust.",
-      "plainText" : "He gave also their increase unto the caterpiller, and their labour unto the locust."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "15161",
-      "text" : "He destroyed their vines with hail, and their sycomore trees with frost.",
-      "plainText" : "He destroyed their vines with hail, and their sycomore trees with frost."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "15162",
-      "text" : "He gave up their cattle also to the hail, and their flocks to hot thunderbolts.",
-      "plainText" : "He gave up their cattle also to the hail, and their flocks to hot thunderbolts."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "15163",
-      "text" : "He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels <span class='extra'>among them<\/span>.",
-      "plainText" : "He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels among them."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v50",
-      "number" : "50",
-      "absolute" : "15164",
-      "text" : "He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;",
-      "plainText" : "He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v51",
-      "number" : "51",
-      "absolute" : "15165",
-      "text" : "And smote all the firstborn in Egypt; the chief of <span class='extra'>their<\/span> strength in the tabernacles of Ham:",
-      "plainText" : "And smote all the firstborn in Egypt; the chief of their strength in the tabernacles of Ham:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v52",
-      "number" : "52",
-      "absolute" : "15166",
-      "text" : "But made his own people to go forth like sheep, and guided them in the wilderness like a flock.",
-      "plainText" : "But made his own people to go forth like sheep, and guided them in the wilderness like a flock."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v53",
-      "number" : "53",
-      "absolute" : "15167",
-      "text" : "And he led them on safely, so that they feared not: but the sea overwhelmed their enemies.",
-      "plainText" : "And he led them on safely, so that they feared not: but the sea overwhelmed their enemies."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v54",
-      "number" : "54",
-      "absolute" : "15168",
-      "text" : "And he brought them to the border of his sanctuary, <span class='extra'>even to<\/span> this mountain, <span class='extra'>which<\/span> his right hand had purchased.",
-      "plainText" : "And he brought them to the border of his sanctuary, even to this mountain, which his right hand had purchased."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v55",
-      "number" : "55",
-      "absolute" : "15169",
-      "text" : "He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents.",
-      "plainText" : "He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v56",
-      "number" : "56",
-      "absolute" : "15170",
-      "text" : "Yet they tempted and provoked the most high God, and kept not his testimonies:",
-      "plainText" : "Yet they tempted and provoked the most high God, and kept not his testimonies:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v57",
-      "number" : "57",
-      "absolute" : "15171",
-      "text" : "But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow.",
-      "plainText" : "But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v58",
-      "number" : "58",
-      "absolute" : "15172",
-      "text" : "For they provoked him to anger with their high places, and moved him to jealousy with their graven images.",
-      "plainText" : "For they provoked him to anger with their high places, and moved him to jealousy with their graven images."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v59",
-      "number" : "59",
-      "absolute" : "15173",
-      "text" : "When God heard <span class='extra'>this<\/span>, he was wroth, and greatly abhorred Israel:",
-      "plainText" : "When God heard this, he was wroth, and greatly abhorred Israel:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v60",
-      "number" : "60",
-      "absolute" : "15174",
-      "text" : "So that he forsook the tabernacle of Shiloh, the tent <span class='extra'>which<\/span> he placed among men;",
-      "plainText" : "So that he forsook the tabernacle of Shiloh, the tent which he placed among men;"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v61",
-      "number" : "61",
-      "absolute" : "15175",
-      "text" : "And delivered his strength into captivity, and his glory into the enemy's hand.",
-      "plainText" : "And delivered his strength into captivity, and his glory into the enemy's hand."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v62",
-      "number" : "62",
-      "absolute" : "15176",
-      "text" : "He gave his people over also unto the sword; and was wroth with his inheritance.",
-      "plainText" : "He gave his people over also unto the sword; and was wroth with his inheritance."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v63",
-      "number" : "63",
-      "absolute" : "15177",
-      "text" : "The fire consumed their young men; and their maidens were not given to marriage.",
-      "plainText" : "The fire consumed their young men; and their maidens were not given to marriage."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v64",
-      "number" : "64",
-      "absolute" : "15178",
-      "text" : "Their priests fell by the sword; and their widows made no lamentation.",
-      "plainText" : "Their priests fell by the sword; and their widows made no lamentation."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v65",
-      "number" : "65",
-      "absolute" : "15179",
-      "text" : "Then the Lord awaked as one out of sleep, <span class='extra'>and<\/span> like a mighty man that shouteth by reason of wine.",
-      "plainText" : "Then the Lord awaked as one out of sleep, and like a mighty man that shouteth by reason of wine."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v66",
-      "number" : "66",
-      "absolute" : "15180",
-      "text" : "And he smote his enemies in the hinder parts: he put them to a perpetual reproach.",
-      "plainText" : "And he smote his enemies in the hinder parts: he put them to a perpetual reproach."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v67",
-      "number" : "67",
-      "absolute" : "15181",
-      "text" : "Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:",
-      "plainText" : "Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v68",
-      "number" : "68",
-      "absolute" : "15182",
-      "text" : "But chose the tribe of Judah, the mount Zion which he loved.",
-      "plainText" : "But chose the tribe of Judah, the mount Zion which he loved."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v69",
-      "number" : "69",
-      "absolute" : "15183",
-      "text" : "And he built his sanctuary like high <span class='extra'>palaces<\/span>, like the earth which he hath established for ever.",
-      "plainText" : "And he built his sanctuary like high palaces, like the earth which he hath established for ever."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v70",
-      "number" : "70",
-      "absolute" : "15184",
-      "text" : "He chose David also his servant, and took him from the sheepfolds:",
-      "plainText" : "He chose David also his servant, and took him from the sheepfolds:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v71",
-      "number" : "71",
-      "absolute" : "15185",
-      "text" : "From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance.",
-      "plainText" : "From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v72",
-      "number" : "72",
-      "absolute" : "15186",
-      "text" : "So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands.",
-      "plainText" : "So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands."
+      "type": "caption",
+      "id": "c0",
+      "text": "Maschil of Asaph.",
+      "plainText": "Maschil of Asaph."
+    },
+    {
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "15115",
+      "text": "Give ear, O my people, <span class='extra'>to</span> my law: incline your ears to the words of my mouth.",
+      "plainText": "Give ear, O my people, to my law: incline your ears to the words of my mouth."
+    },
+    {
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "15116",
+      "text": "I will open my mouth in a parable: I will utter dark sayings of old:",
+      "plainText": "I will open my mouth in a parable: I will utter dark sayings of old:"
+    },
+    {
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "15117",
+      "text": "Which we have heard and known, and our fathers have told us.",
+      "plainText": "Which we have heard and known, and our fathers have told us."
+    },
+    {
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "15118",
+      "text": "We will not hide <span class='extra'>them</span> from their children, shewing to the generation to come the praises of the <span class='nog'>LORD</span>, and his strength, and his wonderful works that he hath done.",
+      "plainText": "We will not hide them from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done."
+    },
+    {
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "15119",
+      "text": "For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:",
+      "plainText": "For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:"
+    },
+    {
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "15120",
+      "text": "That the generation to come might know <span class='extra'>them, even</span> the children <span class='extra'>which</span> should be born; <span class='extra'>who</span> should arise and declare <span class='extra'>them</span> to their children:",
+      "plainText": "That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:"
+    },
+    {
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "15121",
+      "text": "That they might set their hope in God, and not forget the works of God, but keep his commandments:",
+      "plainText": "That they might set their hope in God, and not forget the works of God, but keep his commandments:"
+    },
+    {
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "15122",
+      "text": "And might not be as their fathers, a stubborn and rebellious generation; a generation <span class='extra'>that</span> set not their heart aright, and whose spirit was not stedfast with God.",
+      "plainText": "And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not stedfast with God."
+    },
+    {
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "15123",
+      "text": "The children of Ephraim, <span class='extra'>being</span> armed, <span class='extra'>and</span> carrying bows, turned back in the day of battle.",
+      "plainText": "The children of Ephraim, being armed, and carrying bows, turned back in the day of battle."
+    },
+    {
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "15124",
+      "text": "They kept not the covenant of God, and refused to walk in his law;",
+      "plainText": "They kept not the covenant of God, and refused to walk in his law;"
+    },
+    {
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "15125",
+      "text": "And forgat his works, and his wonders that he had shewed them.",
+      "plainText": "And forgat his works, and his wonders that he had shewed them."
+    },
+    {
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "15126",
+      "text": "Marvellous things did he in the sight of their fathers, in the land of Egypt, <span class='extra'>in</span> the field of Zoan.",
+      "plainText": "Marvellous things did he in the sight of their fathers, in the land of Egypt, in the field of Zoan."
+    },
+    {
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "15127",
+      "text": "He divided the sea, and caused them to pass through; and he made the waters to stand as an heap.",
+      "plainText": "He divided the sea, and caused them to pass through; and he made the waters to stand as an heap."
+    },
+    {
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "15128",
+      "text": "In the daytime also he led them with a cloud, and all the night with a light of fire.",
+      "plainText": "In the daytime also he led them with a cloud, and all the night with a light of fire."
+    },
+    {
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "15129",
+      "text": "He clave the rocks in the wilderness, and gave <span class='extra'>them</span> drink as <span class='extra'>out of</span> the great depths.",
+      "plainText": "He clave the rocks in the wilderness, and gave them drink as out of the great depths."
+    },
+    {
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "15130",
+      "text": "He brought streams also out of the rock, and caused waters to run down like rivers.",
+      "plainText": "He brought streams also out of the rock, and caused waters to run down like rivers."
+    },
+    {
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "15131",
+      "text": "And they sinned yet more against him by provoking the most High in the wilderness.",
+      "plainText": "And they sinned yet more against him by provoking the most High in the wilderness."
+    },
+    {
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "15132",
+      "text": "And they tempted God in their heart by asking meat for their lust.",
+      "plainText": "And they tempted God in their heart by asking meat for their lust."
+    },
+    {
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "15133",
+      "text": "Yea, they spake against God; they said, Can God furnish a table in the wilderness?",
+      "plainText": "Yea, they spake against God; they said, Can God furnish a table in the wilderness?"
+    },
+    {
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "15134",
+      "text": "Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?",
+      "plainText": "Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?"
+    },
+    {
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "15135",
+      "text": "Therefore the <span class='nog'>LORD</span> heard <span class='extra'>this</span>, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;",
+      "plainText": "Therefore the LORD heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;"
+    },
+    {
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "15136",
+      "text": "Because they believed not in God, and trusted not in his salvation:",
+      "plainText": "Because they believed not in God, and trusted not in his salvation:"
+    },
+    {
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "15137",
+      "text": "Though he had commanded the clouds from above, and opened the doors of heaven,",
+      "plainText": "Though he had commanded the clouds from above, and opened the doors of heaven,"
+    },
+    {
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "15138",
+      "text": "And had rained down manna upon them to eat, and had given them of the corn of heaven.",
+      "plainText": "And had rained down manna upon them to eat, and had given them of the corn of heaven."
+    },
+    {
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "15139",
+      "text": "Man did eat angels' food: he sent them meat to the full.",
+      "plainText": "Man did eat angels' food: he sent them meat to the full."
+    },
+    {
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "15140",
+      "text": "He caused an east wind to blow in the heaven: and by his power he brought in the south wind.",
+      "plainText": "He caused an east wind to blow in the heaven: and by his power he brought in the south wind."
+    },
+    {
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "15141",
+      "text": "He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:",
+      "plainText": "He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:"
+    },
+    {
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "15142",
+      "text": "And he let <span class='extra'>it</span> fall in the midst of their camp, round about their habitations.",
+      "plainText": "And he let it fall in the midst of their camp, round about their habitations."
+    },
+    {
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "15143",
+      "text": "So they did eat, and were well filled: for he gave them their own desire;",
+      "plainText": "So they did eat, and were well filled: for he gave them their own desire;"
+    },
+    {
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "15144",
+      "text": "They were not estranged from their lust. But while their meat <span class='extra'>was</span> yet in their mouths,",
+      "plainText": "They were not estranged from their lust. But while their meat was yet in their mouths,"
+    },
+    {
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "15145",
+      "text": "The wrath of God came upon them, and slew the fattest of them, and smote down the chosen <span class='extra'>men</span> of Israel.",
+      "plainText": "The wrath of God came upon them, and slew the fattest of them, and smote down the chosen men of Israel."
+    },
+    {
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "15146",
+      "text": "For all this they sinned still, and believed not for his wondrous works.",
+      "plainText": "For all this they sinned still, and believed not for his wondrous works."
+    },
+    {
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "15147",
+      "text": "Therefore their days did he consume in vanity, and their years in trouble.",
+      "plainText": "Therefore their days did he consume in vanity, and their years in trouble."
+    },
+    {
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "15148",
+      "text": "When he slew them, then they sought him: and they returned and enquired early after God.",
+      "plainText": "When he slew them, then they sought him: and they returned and enquired early after God."
+    },
+    {
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "15149",
+      "text": "And they remembered that God <span class='extra'>was</span> their rock, and the high God their redeemer.",
+      "plainText": "And they remembered that God was their rock, and the high God their redeemer."
+    },
+    {
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "15150",
+      "text": "Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues.",
+      "plainText": "Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues."
+    },
+    {
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "15151",
+      "text": "For their heart was not right with him, neither were they stedfast in his covenant.",
+      "plainText": "For their heart was not right with him, neither were they stedfast in his covenant."
+    },
+    {
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "15152",
+      "text": "But he, <span class='extra'>being</span> full of compassion, forgave <span class='extra'>their</span> iniquity, and destroyed <span class='extra'>them</span> not: yea, many a time turned he his anger away, and did not stir up all his wrath.",
+      "plainText": "But he, being full of compassion, forgave their iniquity, and destroyed them not: yea, many a time turned he his anger away, and did not stir up all his wrath."
+    },
+    {
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "15153",
+      "text": "For he remembered that they <span class='extra'>were but</span> flesh; a wind that passeth away, and cometh not again.",
+      "plainText": "For he remembered that they were but flesh; a wind that passeth away, and cometh not again."
+    },
+    {
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "15154",
+      "text": "How oft did they provoke him in the wilderness, <span class='extra'>and</span> grieve him in the desert!",
+      "plainText": "How oft did they provoke him in the wilderness, and grieve him in the desert!"
+    },
+    {
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "15155",
+      "text": "Yea, they turned back and tempted God, and limited the Holy One of Israel.",
+      "plainText": "Yea, they turned back and tempted God, and limited the Holy One of Israel."
+    },
+    {
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "15156",
+      "text": "They remembered not his hand, <span class='extra'>nor</span> the day when he delivered them from the enemy.",
+      "plainText": "They remembered not his hand, nor the day when he delivered them from the enemy."
+    },
+    {
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "15157",
+      "text": "How he had wrought his signs in Egypt, and his wonders in the field of Zoan:",
+      "plainText": "How he had wrought his signs in Egypt, and his wonders in the field of Zoan:"
+    },
+    {
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "15158",
+      "text": "And had turned their rivers into blood; and their floods, that they could not drink.",
+      "plainText": "And had turned their rivers into blood; and their floods, that they could not drink."
+    },
+    {
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "15159",
+      "text": "He sent divers sorts of flies among them, which devoured them; and frogs, which destroyed them.",
+      "plainText": "He sent divers sorts of flies among them, which devoured them; and frogs, which destroyed them."
+    },
+    {
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "15160",
+      "text": "He gave also their increase unto the caterpiller, and their labour unto the locust.",
+      "plainText": "He gave also their increase unto the caterpiller, and their labour unto the locust."
+    },
+    {
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "15161",
+      "text": "He destroyed their vines with hail, and their sycomore trees with frost.",
+      "plainText": "He destroyed their vines with hail, and their sycomore trees with frost."
+    },
+    {
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "15162",
+      "text": "He gave up their cattle also to the hail, and their flocks to hot thunderbolts.",
+      "plainText": "He gave up their cattle also to the hail, and their flocks to hot thunderbolts."
+    },
+    {
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "15163",
+      "text": "He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels <span class='extra'>among them</span>.",
+      "plainText": "He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels among them."
+    },
+    {
+      "type": "verse",
+      "id": "v50",
+      "number": "50",
+      "absolute": "15164",
+      "text": "He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;",
+      "plainText": "He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;"
+    },
+    {
+      "type": "verse",
+      "id": "v51",
+      "number": "51",
+      "absolute": "15165",
+      "text": "And smote all the firstborn in Egypt; the chief of <span class='extra'>their</span> strength in the tabernacles of Ham:",
+      "plainText": "And smote all the firstborn in Egypt; the chief of their strength in the tabernacles of Ham:"
+    },
+    {
+      "type": "verse",
+      "id": "v52",
+      "number": "52",
+      "absolute": "15166",
+      "text": "But made his own people to go forth like sheep, and guided them in the wilderness like a flock.",
+      "plainText": "But made his own people to go forth like sheep, and guided them in the wilderness like a flock."
+    },
+    {
+      "type": "verse",
+      "id": "v53",
+      "number": "53",
+      "absolute": "15167",
+      "text": "And he led them on safely, so that they feared not: but the sea overwhelmed their enemies.",
+      "plainText": "And he led them on safely, so that they feared not: but the sea overwhelmed their enemies."
+    },
+    {
+      "type": "verse",
+      "id": "v54",
+      "number": "54",
+      "absolute": "15168",
+      "text": "And he brought them to the border of his sanctuary, <span class='extra'>even to</span> this mountain, <span class='extra'>which</span> his right hand had purchased.",
+      "plainText": "And he brought them to the border of his sanctuary, even to this mountain, which his right hand had purchased."
+    },
+    {
+      "type": "verse",
+      "id": "v55",
+      "number": "55",
+      "absolute": "15169",
+      "text": "He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents.",
+      "plainText": "He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents."
+    },
+    {
+      "type": "verse",
+      "id": "v56",
+      "number": "56",
+      "absolute": "15170",
+      "text": "Yet they tempted and provoked the most high God, and kept not his testimonies:",
+      "plainText": "Yet they tempted and provoked the most high God, and kept not his testimonies:"
+    },
+    {
+      "type": "verse",
+      "id": "v57",
+      "number": "57",
+      "absolute": "15171",
+      "text": "But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow.",
+      "plainText": "But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow."
+    },
+    {
+      "type": "verse",
+      "id": "v58",
+      "number": "58",
+      "absolute": "15172",
+      "text": "For they provoked him to anger with their high places, and moved him to jealousy with their graven images.",
+      "plainText": "For they provoked him to anger with their high places, and moved him to jealousy with their graven images."
+    },
+    {
+      "type": "verse",
+      "id": "v59",
+      "number": "59",
+      "absolute": "15173",
+      "text": "When God heard <span class='extra'>this</span>, he was wroth, and greatly abhorred Israel:",
+      "plainText": "When God heard this, he was wroth, and greatly abhorred Israel:"
+    },
+    {
+      "type": "verse",
+      "id": "v60",
+      "number": "60",
+      "absolute": "15174",
+      "text": "So that he forsook the tabernacle of Shiloh, the tent <span class='extra'>which</span> he placed among men;",
+      "plainText": "So that he forsook the tabernacle of Shiloh, the tent which he placed among men;"
+    },
+    {
+      "type": "verse",
+      "id": "v61",
+      "number": "61",
+      "absolute": "15175",
+      "text": "And delivered his strength into captivity, and his glory into the enemy's hand.",
+      "plainText": "And delivered his strength into captivity, and his glory into the enemy's hand."
+    },
+    {
+      "type": "verse",
+      "id": "v62",
+      "number": "62",
+      "absolute": "15176",
+      "text": "He gave his people over also unto the sword; and was wroth with his inheritance.",
+      "plainText": "He gave his people over also unto the sword; and was wroth with his inheritance."
+    },
+    {
+      "type": "verse",
+      "id": "v63",
+      "number": "63",
+      "absolute": "15177",
+      "text": "The fire consumed their young men; and their maidens were not given to marriage.",
+      "plainText": "The fire consumed their young men; and their maidens were not given to marriage."
+    },
+    {
+      "type": "verse",
+      "id": "v64",
+      "number": "64",
+      "absolute": "15178",
+      "text": "Their priests fell by the sword; and their widows made no lamentation.",
+      "plainText": "Their priests fell by the sword; and their widows made no lamentation."
+    },
+    {
+      "type": "verse",
+      "id": "v65",
+      "number": "65",
+      "absolute": "15179",
+      "text": "Then the Lord awaked as one out of sleep, <span class='extra'>and</span> like a mighty man that shouteth by reason of wine.",
+      "plainText": "Then the Lord awaked as one out of sleep, and like a mighty man that shouteth by reason of wine."
+    },
+    {
+      "type": "verse",
+      "id": "v66",
+      "number": "66",
+      "absolute": "15180",
+      "text": "And he smote his enemies in the hinder parts: he put them to a perpetual reproach.",
+      "plainText": "And he smote his enemies in the hinder parts: he put them to a perpetual reproach."
+    },
+    {
+      "type": "verse",
+      "id": "v67",
+      "number": "67",
+      "absolute": "15181",
+      "text": "Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:",
+      "plainText": "Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:"
+    },
+    {
+      "type": "verse",
+      "id": "v68",
+      "number": "68",
+      "absolute": "15182",
+      "text": "But chose the tribe of Judah, the mount Zion which he loved.",
+      "plainText": "But chose the tribe of Judah, the mount Zion which he loved."
+    },
+    {
+      "type": "verse",
+      "id": "v69",
+      "number": "69",
+      "absolute": "15183",
+      "text": "And he built his sanctuary like high <span class='extra'>palaces</span>, like the earth which he hath established for ever.",
+      "plainText": "And he built his sanctuary like high palaces, like the earth which he hath established for ever."
+    },
+    {
+      "type": "verse",
+      "id": "v70",
+      "number": "70",
+      "absolute": "15184",
+      "text": "He chose David also his servant, and took him from the sheepfolds:",
+      "plainText": "He chose David also his servant, and took him from the sheepfolds:"
+    },
+    {
+      "type": "verse",
+      "id": "v71",
+      "number": "71",
+      "absolute": "15185",
+      "text": "From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance.",
+      "plainText": "From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance."
+    },
+    {
+      "type": "verse",
+      "id": "v72",
+      "number": "72",
+      "absolute": "15186",
+      "text": "So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands.",
+      "plainText": "So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands."
     }
   ]
 }
-
-

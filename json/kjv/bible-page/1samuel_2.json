@@ -1,353 +1,317 @@
 {
   "book": {
-    "number" : "9",
-    "filenamePrefix" : "1samuel",
-    "bookPage" : "1samuel.html",
-    "title" : "1 Samuel",
-    "chapterCount" : "31",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "2samuel_1.html",
-    "nextTitle" : "2 Samuel",
-    "prevBook" : "ruth_1.html",
-    "prevTitle" : "Ruth"
+    "number": "9",
+    "filenamePrefix": "1samuel",
+    "bookPage": "1samuel.html",
+    "title": "1 Samuel",
+    "chapterCount": "31",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "2samuel_1.html",
+    "nextTitle": "2 Samuel",
+    "prevBook": "ruth_1.html",
+    "prevTitle": "Ruth",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "2",
-    "verseCount" : "36",
-    "nextChapter" : "1samuel_3.html",
-    "nextTitle" : "1 Samuel 3",
-    "prevChapter" : "1samuel_1.html",
-    "prevTitle" : "1 Samuel 1",
-    "filename" : "1samuel_2.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "2",
+    "verseCount": "36",
+    "nextChapter": "1samuel_3.html",
+    "nextTitle": "1 Samuel 3",
+    "prevChapter": "1samuel_1.html",
+    "prevTitle": "1 Samuel 1",
+    "filename": "1samuel_2.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "7242",
-      "text" : "And Hannah prayed, and said, My heart rejoiceth in the <span class='nog'>LORD<\/span>, mine horn is exalted in the <span class='nog'>LORD<\/span>: my mouth is enlarged over mine enemies; because I rejoice in thy salvation.",
-      "plainText" : "And Hannah prayed, and said, My heart rejoiceth in the LORD, mine horn is exalted in the LORD: my mouth is enlarged over mine enemies; because I rejoice in thy salvation."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "7242",
+      "text": "And Hannah prayed, and said, My heart rejoiceth in the <span class='nog'>LORD</span>, mine horn is exalted in the <span class='nog'>LORD</span>: my mouth is enlarged over mine enemies; because I rejoice in thy salvation.",
+      "plainText": "And Hannah prayed, and said, My heart rejoiceth in the LORD, mine horn is exalted in the LORD: my mouth is enlarged over mine enemies; because I rejoice in thy salvation."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "7243",
-      "text" : "<span class='extra'>There is<\/span> none holy as the <span class='nog'>LORD<\/span>: for <span class='extra'>there is<\/span> none beside thee: neither <span class='extra'>is there<\/span> any rock like our God.",
-      "plainText" : "There is none holy as the LORD: for there is none beside thee: neither is there any rock like our God."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "7243",
+      "text": "<span class='extra'>There is</span> none holy as the <span class='nog'>LORD</span>: for <span class='extra'>there is</span> none beside thee: neither <span class='extra'>is there</span> any rock like our God.",
+      "plainText": "There is none holy as the LORD: for there is none beside thee: neither is there any rock like our God."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "7244",
-      "text" : "Talk no more so exceeding proudly; let <span class='extra'>not<\/span> arrogancy come out of your mouth: for the <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> a God of knowledge, and by him actions are weighed.",
-      "plainText" : "Talk no more so exceeding proudly; let not arrogancy come out of your mouth: for the LORD is a God of knowledge, and by him actions are weighed."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "7244",
+      "text": "Talk no more so exceeding proudly; let <span class='extra'>not</span> arrogancy come out of your mouth: for the <span class='nog'>LORD</span> <span class='extra'>is</span> a God of knowledge, and by him actions are weighed.",
+      "plainText": "Talk no more so exceeding proudly; let not arrogancy come out of your mouth: for the LORD is a God of knowledge, and by him actions are weighed."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "7245",
-      "text" : "The bows of the mighty men <span class='extra'>are<\/span> broken, and they that stumbled are girded with strength.",
-      "plainText" : "The bows of the mighty men are broken, and they that stumbled are girded with strength."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "7245",
+      "text": "The bows of the mighty men <span class='extra'>are</span> broken, and they that stumbled are girded with strength.",
+      "plainText": "The bows of the mighty men are broken, and they that stumbled are girded with strength."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "7246",
-      "text" : "<span class='extra'>They that were<\/span> full have hired out themselves for bread; and <span class='extra'>they that were<\/span> hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble.",
-      "plainText" : "They that were full have hired out themselves for bread; and they that were hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "7246",
+      "text": "<span class='extra'>They that were</span> full have hired out themselves for bread; and <span class='extra'>they that were</span> hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble.",
+      "plainText": "They that were full have hired out themselves for bread; and they that were hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "7247",
-      "text" : "The <span class='nog'>LORD<\/span> killeth, and maketh alive: he bringeth down to the grave, and bringeth up.",
-      "plainText" : "The LORD killeth, and maketh alive: he bringeth down to the grave, and bringeth up."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "7247",
+      "text": "The <span class='nog'>LORD</span> killeth, and maketh alive: he bringeth down to the grave, and bringeth up.",
+      "plainText": "The LORD killeth, and maketh alive: he bringeth down to the grave, and bringeth up."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "7248",
-      "text" : "The <span class='nog'>LORD<\/span> maketh poor, and maketh rich: he bringeth low, and lifteth up.",
-      "plainText" : "The LORD maketh poor, and maketh rich: he bringeth low, and lifteth up."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "7248",
+      "text": "The <span class='nog'>LORD</span> maketh poor, and maketh rich: he bringeth low, and lifteth up.",
+      "plainText": "The LORD maketh poor, and maketh rich: he bringeth low, and lifteth up."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "7249",
-      "text" : "He raiseth up the poor out of the dust, <span class='extra'>and<\/span> lifteth up the beggar from the dunghill, to set <span class='extra'>them<\/span> among princes, and to make them inherit the throne of glory: for the pillars of the earth <span class='extra'>are<\/span> the <span class='nog'>LORD<\/span>'s, and he hath set the world upon them.",
-      "plainText" : "He raiseth up the poor out of the dust, and lifteth up the beggar from the dunghill, to set them among princes, and to make them inherit the throne of glory: for the pillars of the earth are the LORD's, and he hath set the world upon them."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "7249",
+      "text": "He raiseth up the poor out of the dust, <span class='extra'>and</span> lifteth up the beggar from the dunghill, to set <span class='extra'>them</span> among princes, and to make them inherit the throne of glory: for the pillars of the earth <span class='extra'>are</span> the <span class='nog'>LORD</span>'s, and he hath set the world upon them.",
+      "plainText": "He raiseth up the poor out of the dust, and lifteth up the beggar from the dunghill, to set them among princes, and to make them inherit the throne of glory: for the pillars of the earth are the LORD's, and he hath set the world upon them."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "7250",
-      "text" : "He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail.",
-      "plainText" : "He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "7250",
+      "text": "He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail.",
+      "plainText": "He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "7251",
-      "text" : "The adversaries of the <span class='nog'>LORD<\/span> shall be broken to pieces; out of heaven shall he thunder upon them: the <span class='nog'>LORD<\/span> shall judge the ends of the earth; and he shall give strength unto his king, and exalt the horn of his anointed.",
-      "plainText" : "The adversaries of the LORD shall be broken to pieces; out of heaven shall he thunder upon them: the LORD shall judge the ends of the earth; and he shall give strength unto his king, and exalt the horn of his anointed."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "7251",
+      "text": "The adversaries of the <span class='nog'>LORD</span> shall be broken to pieces; out of heaven shall he thunder upon them: the <span class='nog'>LORD</span> shall judge the ends of the earth; and he shall give strength unto his king, and exalt the horn of his anointed.",
+      "plainText": "The adversaries of the LORD shall be broken to pieces; out of heaven shall he thunder upon them: the LORD shall judge the ends of the earth; and he shall give strength unto his king, and exalt the horn of his anointed."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "7252",
-      "text" : "And Elkanah went to Ramah to his house. And the child did minister unto the <span class='nog'>LORD<\/span> before Eli the priest.",
-      "plainText" : "And Elkanah went to Ramah to his house. And the child did minister unto the LORD before Eli the priest."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "7252",
+      "text": "And Elkanah went to Ramah to his house. And the child did minister unto the <span class='nog'>LORD</span> before Eli the priest.",
+      "plainText": "And Elkanah went to Ramah to his house. And the child did minister unto the LORD before Eli the priest."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "7253",
-      "text" : "Now the sons of Eli <span class='extra'>were<\/span> sons of Belial; they knew not the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Now the sons of Eli were sons of Belial; they knew not the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "7253",
+      "text": "Now the sons of Eli <span class='extra'>were</span> sons of Belial; they knew not the <span class='nog'>LORD</span>.",
+      "plainText": "Now the sons of Eli were sons of Belial; they knew not the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "7254",
-      "text" : "And the priests' custom with the people <span class='extra'>was, that<\/span>, when any man offered sacrifice, the priest's servant came, while the flesh was in seething, with a fleshhook of three teeth in his hand;",
-      "plainText" : "And the priests' custom with the people was, that, when any man offered sacrifice, the priest's servant came, while the flesh was in seething, with a fleshhook of three teeth in his hand;"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "7254",
+      "text": "And the priests' custom with the people <span class='extra'>was, that</span>, when any man offered sacrifice, the priest's servant came, while the flesh was in seething, with a fleshhook of three teeth in his hand;",
+      "plainText": "And the priests' custom with the people was, that, when any man offered sacrifice, the priest's servant came, while the flesh was in seething, with a fleshhook of three teeth in his hand;"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "7255",
-      "text" : "And he struck <span class='extra'>it<\/span> into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither.",
-      "plainText" : "And he struck it into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "7255",
+      "text": "And he struck <span class='extra'>it</span> into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither.",
+      "plainText": "And he struck it into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "7256",
-      "text" : "Also before they burnt the fat, the priest's servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have sodden flesh of thee, but raw.",
-      "plainText" : "Also before they burnt the fat, the priest's servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have sodden flesh of thee, but raw."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "7256",
+      "text": "Also before they burnt the fat, the priest's servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have sodden flesh of thee, but raw.",
+      "plainText": "Also before they burnt the fat, the priest's servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have sodden flesh of thee, but raw."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "7257",
-      "text" : "And <span class='extra'>if<\/span> any man said unto him, Let them not fail to burn the fat presently, and <span class='extra'>then<\/span> take <span class='extra'>as much<\/span> as thy soul desireth; then he would answer him, <span class='extra'>Nay<\/span>; but thou shalt give <span class='extra'>it me<\/span> now: and if not, I will take <span class='extra'>it<\/span> by force.",
-      "plainText" : "And if any man said unto him, Let them not fail to burn the fat presently, and then take as much as thy soul desireth; then he would answer him, Nay; but thou shalt give it me now: and if not, I will take it by force."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "7257",
+      "text": "And <span class='extra'>if</span> any man said unto him, Let them not fail to burn the fat presently, and <span class='extra'>then</span> take <span class='extra'>as much</span> as thy soul desireth; then he would answer him, <span class='extra'>Nay</span>; but thou shalt give <span class='extra'>it me</span> now: and if not, I will take <span class='extra'>it</span> by force.",
+      "plainText": "And if any man said unto him, Let them not fail to burn the fat presently, and then take as much as thy soul desireth; then he would answer him, Nay; but thou shalt give it me now: and if not, I will take it by force."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "7258",
-      "text" : "Wherefore the sin of the young men was very great before the <span class='nog'>LORD<\/span>: for men abhorred the offering of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Wherefore the sin of the young men was very great before the LORD: for men abhorred the offering of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "7258",
+      "text": "Wherefore the sin of the young men was very great before the <span class='nog'>LORD</span>: for men abhorred the offering of the <span class='nog'>LORD</span>.",
+      "plainText": "Wherefore the sin of the young men was very great before the LORD: for men abhorred the offering of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "7259",
-      "text" : "But Samuel ministered before the <span class='nog'>LORD<\/span>, <span class='extra'>being<\/span> a child, girded with a linen ephod.",
-      "plainText" : "But Samuel ministered before the LORD, being a child, girded with a linen ephod."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "7259",
+      "text": "But Samuel ministered before the <span class='nog'>LORD</span>, <span class='extra'>being</span> a child, girded with a linen ephod.",
+      "plainText": "But Samuel ministered before the LORD, being a child, girded with a linen ephod."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "7260",
-      "text" : "Moreover his mother made him a little coat, and brought <span class='extra'>it<\/span> to him from year to year, when she came up with her husband to offer the yearly sacrifice.",
-      "plainText" : "Moreover his mother made him a little coat, and brought it to him from year to year, when she came up with her husband to offer the yearly sacrifice."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "7260",
+      "text": "Moreover his mother made him a little coat, and brought <span class='extra'>it</span> to him from year to year, when she came up with her husband to offer the yearly sacrifice.",
+      "plainText": "Moreover his mother made him a little coat, and brought it to him from year to year, when she came up with her husband to offer the yearly sacrifice."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "7261",
-      "text" : "And Eli blessed Elkanah and his wife, and said, The <span class='nog'>LORD<\/span> give thee seed of this woman for the loan which is lent to the <span class='nog'>LORD<\/span>. And they went unto their own home.",
-      "plainText" : "And Eli blessed Elkanah and his wife, and said, The LORD give thee seed of this woman for the loan which is lent to the LORD. And they went unto their own home."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "7261",
+      "text": "And Eli blessed Elkanah and his wife, and said, The <span class='nog'>LORD</span> give thee seed of this woman for the loan which is lent to the <span class='nog'>LORD</span>. And they went unto their own home.",
+      "plainText": "And Eli blessed Elkanah and his wife, and said, The LORD give thee seed of this woman for the loan which is lent to the LORD. And they went unto their own home."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "7262",
-      "text" : "And the <span class='nog'>LORD<\/span> visited Hannah, so that she conceived, and bare three sons and two daughters. And the child Samuel grew before the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And the LORD visited Hannah, so that she conceived, and bare three sons and two daughters. And the child Samuel grew before the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "7262",
+      "text": "And the <span class='nog'>LORD</span> visited Hannah, so that she conceived, and bare three sons and two daughters. And the child Samuel grew before the <span class='nog'>LORD</span>.",
+      "plainText": "And the LORD visited Hannah, so that she conceived, and bare three sons and two daughters. And the child Samuel grew before the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "7263",
-      "text" : "Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled <span class='extra'>at<\/span> the door of the tabernacle of the congregation.",
-      "plainText" : "Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled at the door of the tabernacle of the congregation."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "7263",
+      "text": "Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled <span class='extra'>at</span> the door of the tabernacle of the congregation.",
+      "plainText": "Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled at the door of the tabernacle of the congregation."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "7264",
-      "text" : "And he said unto them, Why do ye such things? for I hear of your evil dealings by all this people.",
-      "plainText" : "And he said unto them, Why do ye such things? for I hear of your evil dealings by all this people."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "7264",
+      "text": "And he said unto them, Why do ye such things? for I hear of your evil dealings by all this people.",
+      "plainText": "And he said unto them, Why do ye such things? for I hear of your evil dealings by all this people."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "7265",
-      "text" : "Nay, my sons; for <span class='extra'>it is<\/span> no good report that I hear: ye make the <span class='nog'>LORD<\/span>'s people to transgress.",
-      "plainText" : "Nay, my sons; for it is no good report that I hear: ye make the LORD's people to transgress."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "7265",
+      "text": "Nay, my sons; for <span class='extra'>it is</span> no good report that I hear: ye make the <span class='nog'>LORD</span>'s people to transgress.",
+      "plainText": "Nay, my sons; for it is no good report that I hear: ye make the LORD's people to transgress."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "7266",
-      "text" : "If one man sin against another, the judge shall judge him: but if a man sin against the <span class='nog'>LORD<\/span>, who shall intreat for him? Notwithstanding they hearkened not unto the voice of their father, because the <span class='nog'>LORD<\/span> would slay them.",
-      "plainText" : "If one man sin against another, the judge shall judge him: but if a man sin against the LORD, who shall intreat for him? Notwithstanding they hearkened not unto the voice of their father, because the LORD would slay them."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "7266",
+      "text": "If one man sin against another, the judge shall judge him: but if a man sin against the <span class='nog'>LORD</span>, who shall intreat for him? Notwithstanding they hearkened not unto the voice of their father, because the <span class='nog'>LORD</span> would slay them.",
+      "plainText": "If one man sin against another, the judge shall judge him: but if a man sin against the LORD, who shall intreat for him? Notwithstanding they hearkened not unto the voice of their father, because the LORD would slay them."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "7267",
-      "text" : "And the child Samuel grew on, and was in favour both with the <span class='nog'>LORD<\/span>, and also with men.",
-      "plainText" : "And the child Samuel grew on, and was in favour both with the LORD, and also with men."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "7267",
+      "text": "And the child Samuel grew on, and was in favour both with the <span class='nog'>LORD</span>, and also with men.",
+      "plainText": "And the child Samuel grew on, and was in favour both with the LORD, and also with men."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "7268",
-      "text" : "And there came a man of God unto Eli, and said unto him, Thus saith the <span class='nog'>LORD<\/span>, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh's house?",
-      "plainText" : "And there came a man of God unto Eli, and said unto him, Thus saith the LORD, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh's house?"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "7268",
+      "text": "And there came a man of God unto Eli, and said unto him, Thus saith the <span class='nog'>LORD</span>, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh's house?",
+      "plainText": "And there came a man of God unto Eli, and said unto him, Thus saith the LORD, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh's house?"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "7269",
-      "text" : "And did I choose him out of all the tribes of Israel <span class='extra'>to be<\/span> my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?",
-      "plainText" : "And did I choose him out of all the tribes of Israel to be my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?"
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "7269",
+      "text": "And did I choose him out of all the tribes of Israel <span class='extra'>to be</span> my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?",
+      "plainText": "And did I choose him out of all the tribes of Israel to be my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?"
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "7270",
-      "text" : "Wherefore kick ye at my sacrifice and at mine offering, which I have commanded <span class='extra'>in my<\/span> habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?",
-      "plainText" : "Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "7270",
+      "text": "Wherefore kick ye at my sacrifice and at mine offering, which I have commanded <span class='extra'>in my</span> habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?",
+      "plainText": "Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "7271",
-      "text" : "Wherefore the <span class='nog'>LORD<\/span> God of Israel saith, I said indeed <span class='extra'>that<\/span> thy house, and the house of thy father, should walk before me for ever: but now the <span class='nog'>LORD<\/span> saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.",
-      "plainText" : "Wherefore the LORD God of Israel saith, I said indeed that thy house, and the house of thy father, should walk before me for ever: but now the LORD saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "7271",
+      "text": "Wherefore the <span class='nog'>LORD</span> God of Israel saith, I said indeed <span class='extra'>that</span> thy house, and the house of thy father, should walk before me for ever: but now the <span class='nog'>LORD</span> saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.",
+      "plainText": "Wherefore the LORD God of Israel saith, I said indeed that thy house, and the house of thy father, should walk before me for ever: but now the LORD saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "7272",
-      "text" : "Behold, the days come, that I will cut off thine arm, and the arm of thy father's house, that there shall not be an old man in thine house.",
-      "plainText" : "Behold, the days come, that I will cut off thine arm, and the arm of thy father's house, that there shall not be an old man in thine house."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "7272",
+      "text": "Behold, the days come, that I will cut off thine arm, and the arm of thy father's house, that there shall not be an old man in thine house.",
+      "plainText": "Behold, the days come, that I will cut off thine arm, and the arm of thy father's house, that there shall not be an old man in thine house."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "7273",
-      "text" : "And thou shalt see an enemy <span class='extra'>in my<\/span> habitation, in all <span class='extra'>the wealth<\/span> which <span class='extra'>God<\/span> shall give Israel: and there shall not be an old man in thine house for ever.",
-      "plainText" : "And thou shalt see an enemy in my habitation, in all the wealth which God shall give Israel: and there shall not be an old man in thine house for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "7273",
+      "text": "And thou shalt see an enemy <span class='extra'>in my</span> habitation, in all <span class='extra'>the wealth</span> which <span class='extra'>God</span> shall give Israel: and there shall not be an old man in thine house for ever.",
+      "plainText": "And thou shalt see an enemy in my habitation, in all the wealth which God shall give Israel: and there shall not be an old man in thine house for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "7274",
-      "text" : "And the man of thine, <span class='extra'>whom<\/span> I shall not cut off from mine altar, <span class='extra'>shall be<\/span> to consume thine eyes, and to grieve thine heart: and all the increase of thine house shall die in the flower of their age.",
-      "plainText" : "And the man of thine, whom I shall not cut off from mine altar, shall be to consume thine eyes, and to grieve thine heart: and all the increase of thine house shall die in the flower of their age."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "7274",
+      "text": "And the man of thine, <span class='extra'>whom</span> I shall not cut off from mine altar, <span class='extra'>shall be</span> to consume thine eyes, and to grieve thine heart: and all the increase of thine house shall die in the flower of their age.",
+      "plainText": "And the man of thine, whom I shall not cut off from mine altar, shall be to consume thine eyes, and to grieve thine heart: and all the increase of thine house shall die in the flower of their age."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "7275",
-      "text" : "And this <span class='extra'>shall be<\/span> a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them.",
-      "plainText" : "And this shall be a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "7275",
+      "text": "And this <span class='extra'>shall be</span> a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them.",
+      "plainText": "And this shall be a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "7276",
-      "text" : "And I will raise me up a faithful priest, <span class='extra'>that<\/span> shall do according to <span class='extra'>that<\/span> which <span class='extra'>is<\/span> in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever.",
-      "plainText" : "And I will raise me up a faithful priest, that shall do according to that which is in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "7276",
+      "text": "And I will raise me up a faithful priest, <span class='extra'>that</span> shall do according to <span class='extra'>that</span> which <span class='extra'>is</span> in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever.",
+      "plainText": "And I will raise me up a faithful priest, that shall do according to that which is in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "7277",
-      "text" : "And it shall come to pass, <span class='extra'>that<\/span> every one that is left in thine house shall come <span class='extra'>and<\/span> crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests' offices, that I may eat a piece of bread.",
-      "plainText" : "And it shall come to pass, that every one that is left in thine house shall come and crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests' offices, that I may eat a piece of bread."
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "7277",
+      "text": "And it shall come to pass, <span class='extra'>that</span> every one that is left in thine house shall come <span class='extra'>and</span> crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests' offices, that I may eat a piece of bread.",
+      "plainText": "And it shall come to pass, that every one that is left in thine house shall come and crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests' offices, that I may eat a piece of bread."
     }
   ]
 }
-
-

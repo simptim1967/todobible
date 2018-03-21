@@ -1,452 +1,405 @@
 {
   "book": {
-    "number" : "24",
-    "filenamePrefix" : "jeremiah",
-    "bookPage" : "jeremiah.html",
-    "title" : "Jeremiah",
-    "chapterCount" : "52",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "lamentations_1.html",
-    "nextTitle" : "Lamentations",
-    "prevBook" : "isaiah_1.html",
-    "prevTitle" : "Isaiah"
+    "number": "24",
+    "filenamePrefix": "jeremiah",
+    "bookPage": "jeremiah.html",
+    "title": "Jeremiah",
+    "chapterCount": "52",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "lamentations_1.html",
+    "nextTitle": "Lamentations",
+    "prevBook": "isaiah_1.html",
+    "prevTitle": "Isaiah",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "48",
-    "verseCount" : "47",
-    "nextChapter" : "jeremiah_49.html",
-    "nextTitle" : "Jeremiah 49",
-    "prevChapter" : "jeremiah_47.html",
-    "prevTitle" : "Jeremiah 47",
-    "filename" : "jeremiah_48.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "48",
+    "verseCount": "47",
+    "nextChapter": "jeremiah_49.html",
+    "nextTitle": "Jeremiah 49",
+    "prevChapter": "jeremiah_47.html",
+    "prevTitle": "Jeremiah 47",
+    "filename": "jeremiah_48.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "20082",
-      "text" : "Against Moab thus saith the <span class='nog'>LORD<\/span> of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded <span class='extra'>and<\/span> taken: Misgab is confounded and dismayed.",
-      "plainText" : "Against Moab thus saith the LORD of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded and taken: Misgab is confounded and dismayed."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "20082",
+      "text": "Against Moab thus saith the <span class='nog'>LORD</span> of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded <span class='extra'>and</span> taken: Misgab is confounded and dismayed.",
+      "plainText": "Against Moab thus saith the LORD of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded and taken: Misgab is confounded and dismayed."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "20083",
-      "text" : "<span class='extra'>There shall be<\/span> no more praise of Moab: in Heshbon they have devised evil against it; come, and let us cut it off from <span class='extra'>being<\/span> a nation. Also thou shalt be cut down, O Madmen; the sword shall pursue thee.",
-      "plainText" : "There shall be no more praise of Moab: in Heshbon they have devised evil against it; come, and let us cut it off from being a nation. Also thou shalt be cut down, O Madmen; the sword shall pursue thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "20083",
+      "text": "<span class='extra'>There shall be</span> no more praise of Moab: in Heshbon they have devised evil against it; come, and let us cut it off from <span class='extra'>being</span> a nation. Also thou shalt be cut down, O Madmen; the sword shall pursue thee.",
+      "plainText": "There shall be no more praise of Moab: in Heshbon they have devised evil against it; come, and let us cut it off from being a nation. Also thou shalt be cut down, O Madmen; the sword shall pursue thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "20084",
-      "text" : "A voice of crying <span class='extra'>shall be<\/span> from Horonaim, spoiling and great destruction.",
-      "plainText" : "A voice of crying shall be from Horonaim, spoiling and great destruction."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "20084",
+      "text": "A voice of crying <span class='extra'>shall be</span> from Horonaim, spoiling and great destruction.",
+      "plainText": "A voice of crying shall be from Horonaim, spoiling and great destruction."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "20085",
-      "text" : "Moab is destroyed; her little ones have caused a cry to be heard.",
-      "plainText" : "Moab is destroyed; her little ones have caused a cry to be heard."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "20085",
+      "text": "Moab is destroyed; her little ones have caused a cry to be heard.",
+      "plainText": "Moab is destroyed; her little ones have caused a cry to be heard."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "20086",
-      "text" : "For in the going up of Luhith continual weeping shall go up; for in the going down of Horonaim the enemies have heard a cry of destruction.",
-      "plainText" : "For in the going up of Luhith continual weeping shall go up; for in the going down of Horonaim the enemies have heard a cry of destruction."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "20086",
+      "text": "For in the going up of Luhith continual weeping shall go up; for in the going down of Horonaim the enemies have heard a cry of destruction.",
+      "plainText": "For in the going up of Luhith continual weeping shall go up; for in the going down of Horonaim the enemies have heard a cry of destruction."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "20087",
-      "text" : "Flee, save your lives, and be like the heath in the wilderness.",
-      "plainText" : "Flee, save your lives, and be like the heath in the wilderness."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "20087",
+      "text": "Flee, save your lives, and be like the heath in the wilderness.",
+      "plainText": "Flee, save your lives, and be like the heath in the wilderness."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "20088",
-      "text" : "For because thou hast trusted in thy works and in thy treasures, thou shalt also be taken: and Chemosh shall go forth into captivity <span class='extra'>with<\/span> his priests and his princes together.",
-      "plainText" : "For because thou hast trusted in thy works and in thy treasures, thou shalt also be taken: and Chemosh shall go forth into captivity with his priests and his princes together."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "20088",
+      "text": "For because thou hast trusted in thy works and in thy treasures, thou shalt also be taken: and Chemosh shall go forth into captivity <span class='extra'>with</span> his priests and his princes together.",
+      "plainText": "For because thou hast trusted in thy works and in thy treasures, thou shalt also be taken: and Chemosh shall go forth into captivity with his priests and his princes together."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "20089",
-      "text" : "And the spoiler shall come upon every city, and no city shall escape: the valley also shall perish, and the plain shall be destroyed, as the <span class='nog'>LORD<\/span> hath spoken.",
-      "plainText" : "And the spoiler shall come upon every city, and no city shall escape: the valley also shall perish, and the plain shall be destroyed, as the LORD hath spoken."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "20089",
+      "text": "And the spoiler shall come upon every city, and no city shall escape: the valley also shall perish, and the plain shall be destroyed, as the <span class='nog'>LORD</span> hath spoken.",
+      "plainText": "And the spoiler shall come upon every city, and no city shall escape: the valley also shall perish, and the plain shall be destroyed, as the LORD hath spoken."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "20090",
-      "text" : "Give wings unto Moab, that it may flee and get away: for the cities thereof shall be desolate, without any to dwell therein.",
-      "plainText" : "Give wings unto Moab, that it may flee and get away: for the cities thereof shall be desolate, without any to dwell therein."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "20090",
+      "text": "Give wings unto Moab, that it may flee and get away: for the cities thereof shall be desolate, without any to dwell therein.",
+      "plainText": "Give wings unto Moab, that it may flee and get away: for the cities thereof shall be desolate, without any to dwell therein."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "20091",
-      "text" : "Cursed <span class='extra'>be<\/span> he that doeth the work of the <span class='nog'>LORD<\/span> deceitfully, and cursed <span class='extra'>be<\/span> he that keepeth back his sword from blood.",
-      "plainText" : "Cursed be he that doeth the work of the LORD deceitfully, and cursed be he that keepeth back his sword from blood."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "20091",
+      "text": "Cursed <span class='extra'>be</span> he that doeth the work of the <span class='nog'>LORD</span> deceitfully, and cursed <span class='extra'>be</span> he that keepeth back his sword from blood.",
+      "plainText": "Cursed be he that doeth the work of the LORD deceitfully, and cursed be he that keepeth back his sword from blood."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "20092",
-      "text" : "Moab hath been at ease from his youth, and he hath settled on his lees, and hath not been emptied from vessel to vessel, neither hath he gone into captivity: therefore his taste remained in him, and his scent is not changed.",
-      "plainText" : "Moab hath been at ease from his youth, and he hath settled on his lees, and hath not been emptied from vessel to vessel, neither hath he gone into captivity: therefore his taste remained in him, and his scent is not changed."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "20092",
+      "text": "Moab hath been at ease from his youth, and he hath settled on his lees, and hath not been emptied from vessel to vessel, neither hath he gone into captivity: therefore his taste remained in him, and his scent is not changed.",
+      "plainText": "Moab hath been at ease from his youth, and he hath settled on his lees, and hath not been emptied from vessel to vessel, neither hath he gone into captivity: therefore his taste remained in him, and his scent is not changed."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "20093",
-      "text" : "Therefore, behold, the days come, saith the <span class='nog'>LORD<\/span>, that I will send unto him wanderers, that shall cause him to wander, and shall empty his vessels, and break their bottles.",
-      "plainText" : "Therefore, behold, the days come, saith the LORD, that I will send unto him wanderers, that shall cause him to wander, and shall empty his vessels, and break their bottles."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "20093",
+      "text": "Therefore, behold, the days come, saith the <span class='nog'>LORD</span>, that I will send unto him wanderers, that shall cause him to wander, and shall empty his vessels, and break their bottles.",
+      "plainText": "Therefore, behold, the days come, saith the LORD, that I will send unto him wanderers, that shall cause him to wander, and shall empty his vessels, and break their bottles."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "20094",
-      "text" : "And Moab shall be ashamed of Chemosh, as the house of Israel was ashamed of Beth-el their confidence.",
-      "plainText" : "And Moab shall be ashamed of Chemosh, as the house of Israel was ashamed of Beth-el their confidence."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "20094",
+      "text": "And Moab shall be ashamed of Chemosh, as the house of Israel was ashamed of Beth-el their confidence.",
+      "plainText": "And Moab shall be ashamed of Chemosh, as the house of Israel was ashamed of Beth-el their confidence."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "20095",
-      "text" : "How say ye, We <span class='extra'>are<\/span> mighty and strong men for the war?",
-      "plainText" : "How say ye, We are mighty and strong men for the war?"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "20095",
+      "text": "How say ye, We <span class='extra'>are</span> mighty and strong men for the war?",
+      "plainText": "How say ye, We are mighty and strong men for the war?"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "20096",
-      "text" : "Moab is spoiled, and gone up <span class='extra'>out of<\/span> her cities, and his chosen young men are gone down to the slaughter, saith the King, whose name <span class='extra'>is<\/span> the <span class='nog'>LORD<\/span> of hosts.",
-      "plainText" : "Moab is spoiled, and gone up out of her cities, and his chosen young men are gone down to the slaughter, saith the King, whose name is the LORD of hosts."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "20096",
+      "text": "Moab is spoiled, and gone up <span class='extra'>out of</span> her cities, and his chosen young men are gone down to the slaughter, saith the King, whose name <span class='extra'>is</span> the <span class='nog'>LORD</span> of hosts.",
+      "plainText": "Moab is spoiled, and gone up out of her cities, and his chosen young men are gone down to the slaughter, saith the King, whose name is the LORD of hosts."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "20097",
-      "text" : "The calamity of Moab <span class='extra'>is<\/span> near to come, and his affliction hasteth fast.",
-      "plainText" : "The calamity of Moab is near to come, and his affliction hasteth fast."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "20097",
+      "text": "The calamity of Moab <span class='extra'>is</span> near to come, and his affliction hasteth fast.",
+      "plainText": "The calamity of Moab is near to come, and his affliction hasteth fast."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "20098",
-      "text" : "All ye that are about him, bemoan him; and all ye that know his name, say, How is the strong staff broken, <span class='extra'>and<\/span> the beautiful rod!",
-      "plainText" : "All ye that are about him, bemoan him; and all ye that know his name, say, How is the strong staff broken, and the beautiful rod!"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "20098",
+      "text": "All ye that are about him, bemoan him; and all ye that know his name, say, How is the strong staff broken, <span class='extra'>and</span> the beautiful rod!",
+      "plainText": "All ye that are about him, bemoan him; and all ye that know his name, say, How is the strong staff broken, and the beautiful rod!"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "20099",
-      "text" : "Thou daughter that dost inhabit Dibon, come down from <span class='extra'>thy<\/span> glory, and sit in thirst; for the spoiler of Moab shall come upon thee, <span class='extra'>and<\/span> he shall destroy thy strong holds.",
-      "plainText" : "Thou daughter that dost inhabit Dibon, come down from thy glory, and sit in thirst; for the spoiler of Moab shall come upon thee, and he shall destroy thy strong holds."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "20099",
+      "text": "Thou daughter that dost inhabit Dibon, come down from <span class='extra'>thy</span> glory, and sit in thirst; for the spoiler of Moab shall come upon thee, <span class='extra'>and</span> he shall destroy thy strong holds.",
+      "plainText": "Thou daughter that dost inhabit Dibon, come down from thy glory, and sit in thirst; for the spoiler of Moab shall come upon thee, and he shall destroy thy strong holds."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "20100",
-      "text" : "O inhabitant of Aroer, stand by the way, and espy; ask him that fleeth, and her that escapeth, <span class='extra'>and<\/span> say, What is done?",
-      "plainText" : "O inhabitant of Aroer, stand by the way, and espy; ask him that fleeth, and her that escapeth, and say, What is done?"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "20100",
+      "text": "O inhabitant of Aroer, stand by the way, and espy; ask him that fleeth, and her that escapeth, <span class='extra'>and</span> say, What is done?",
+      "plainText": "O inhabitant of Aroer, stand by the way, and espy; ask him that fleeth, and her that escapeth, and say, What is done?"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "20101",
-      "text" : "Moab is confounded; for it is broken down: howl and cry; tell ye it in Arnon, that Moab is spoiled,",
-      "plainText" : "Moab is confounded; for it is broken down: howl and cry; tell ye it in Arnon, that Moab is spoiled,"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "20101",
+      "text": "Moab is confounded; for it is broken down: howl and cry; tell ye it in Arnon, that Moab is spoiled,",
+      "plainText": "Moab is confounded; for it is broken down: howl and cry; tell ye it in Arnon, that Moab is spoiled,"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "20102",
-      "text" : "And judgment is come upon the plain country; upon Holon, and upon Jahazah, and upon Mephaath,",
-      "plainText" : "And judgment is come upon the plain country; upon Holon, and upon Jahazah, and upon Mephaath,"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "20102",
+      "text": "And judgment is come upon the plain country; upon Holon, and upon Jahazah, and upon Mephaath,",
+      "plainText": "And judgment is come upon the plain country; upon Holon, and upon Jahazah, and upon Mephaath,"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "20103",
-      "text" : "And upon Dibon, and upon Nebo, and upon Beth-diblathaim,",
-      "plainText" : "And upon Dibon, and upon Nebo, and upon Beth-diblathaim,"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "20103",
+      "text": "And upon Dibon, and upon Nebo, and upon Beth-diblathaim,",
+      "plainText": "And upon Dibon, and upon Nebo, and upon Beth-diblathaim,"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "20104",
-      "text" : "And upon Kiriathaim, and upon Beth-gamul, and upon Beth-meon,",
-      "plainText" : "And upon Kiriathaim, and upon Beth-gamul, and upon Beth-meon,"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "20104",
+      "text": "And upon Kiriathaim, and upon Beth-gamul, and upon Beth-meon,",
+      "plainText": "And upon Kiriathaim, and upon Beth-gamul, and upon Beth-meon,"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "20105",
-      "text" : "And upon Kerioth, and upon Bozrah, and upon all the cities of the land of Moab, far or near.",
-      "plainText" : "And upon Kerioth, and upon Bozrah, and upon all the cities of the land of Moab, far or near."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "20105",
+      "text": "And upon Kerioth, and upon Bozrah, and upon all the cities of the land of Moab, far or near.",
+      "plainText": "And upon Kerioth, and upon Bozrah, and upon all the cities of the land of Moab, far or near."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "20106",
-      "text" : "The horn of Moab is cut off, and his arm is broken, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "The horn of Moab is cut off, and his arm is broken, saith the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "20106",
+      "text": "The horn of Moab is cut off, and his arm is broken, saith the <span class='nog'>LORD</span>.",
+      "plainText": "The horn of Moab is cut off, and his arm is broken, saith the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "20107",
-      "text" : "Make ye him drunken: for he magnified <span class='extra'>himself<\/span> against the <span class='nog'>LORD<\/span>: Moab also shall wallow in his vomit, and he also shall be in derision.",
-      "plainText" : "Make ye him drunken: for he magnified himself against the LORD: Moab also shall wallow in his vomit, and he also shall be in derision."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "20107",
+      "text": "Make ye him drunken: for he magnified <span class='extra'>himself</span> against the <span class='nog'>LORD</span>: Moab also shall wallow in his vomit, and he also shall be in derision.",
+      "plainText": "Make ye him drunken: for he magnified himself against the LORD: Moab also shall wallow in his vomit, and he also shall be in derision."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "20108",
-      "text" : "For was not Israel a derision unto thee? was he found among thieves? for since thou spakest of him, thou skippedst for joy.",
-      "plainText" : "For was not Israel a derision unto thee? was he found among thieves? for since thou spakest of him, thou skippedst for joy."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "20108",
+      "text": "For was not Israel a derision unto thee? was he found among thieves? for since thou spakest of him, thou skippedst for joy.",
+      "plainText": "For was not Israel a derision unto thee? was he found among thieves? for since thou spakest of him, thou skippedst for joy."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "20109",
-      "text" : "O ye that dwell in Moab, leave the cities, and dwell in the rock, and be like the dove <span class='extra'>that<\/span> maketh her nest in the sides of the hole's mouth.",
-      "plainText" : "O ye that dwell in Moab, leave the cities, and dwell in the rock, and be like the dove that maketh her nest in the sides of the hole's mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "20109",
+      "text": "O ye that dwell in Moab, leave the cities, and dwell in the rock, and be like the dove <span class='extra'>that</span> maketh her nest in the sides of the hole's mouth.",
+      "plainText": "O ye that dwell in Moab, leave the cities, and dwell in the rock, and be like the dove that maketh her nest in the sides of the hole's mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "20110",
-      "text" : "We have heard the pride of Moab, (he is exceeding proud) his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart.",
-      "plainText" : "We have heard the pride of Moab, (he is exceeding proud) his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "20110",
+      "text": "We have heard the pride of Moab, (he is exceeding proud) his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart.",
+      "plainText": "We have heard the pride of Moab, (he is exceeding proud) his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "20111",
-      "text" : "I know his wrath, saith the <span class='nog'>LORD<\/span>; but <span class='extra'>it shall<\/span> not <span class='extra'>be<\/span> so; his lies shall not so effect <span class='extra'>it<\/span>.",
-      "plainText" : "I know his wrath, saith the LORD; but it shall not be so; his lies shall not so effect it."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "20111",
+      "text": "I know his wrath, saith the <span class='nog'>LORD</span>; but <span class='extra'>it shall</span> not <span class='extra'>be</span> so; his lies shall not so effect <span class='extra'>it</span>.",
+      "plainText": "I know his wrath, saith the LORD; but it shall not be so; his lies shall not so effect it."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "20112",
-      "text" : "Therefore will I howl for Moab, and I will cry out for all Moab; <span class='extra'>mine heart<\/span> shall mourn for the men of Kir-heres.",
-      "plainText" : "Therefore will I howl for Moab, and I will cry out for all Moab; mine heart shall mourn for the men of Kir-heres."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "20112",
+      "text": "Therefore will I howl for Moab, and I will cry out for all Moab; <span class='extra'>mine heart</span> shall mourn for the men of Kir-heres.",
+      "plainText": "Therefore will I howl for Moab, and I will cry out for all Moab; mine heart shall mourn for the men of Kir-heres."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "20113",
-      "text" : "O vine of Sibmah, I will weep for thee with the weeping of Jazer: thy plants are gone over the sea, they reach <span class='extra'>even<\/span> to the sea of Jazer: the spoiler is fallen upon thy summer fruits and upon thy vintage.",
-      "plainText" : "O vine of Sibmah, I will weep for thee with the weeping of Jazer: thy plants are gone over the sea, they reach even to the sea of Jazer: the spoiler is fallen upon thy summer fruits and upon thy vintage."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "20113",
+      "text": "O vine of Sibmah, I will weep for thee with the weeping of Jazer: thy plants are gone over the sea, they reach <span class='extra'>even</span> to the sea of Jazer: the spoiler is fallen upon thy summer fruits and upon thy vintage.",
+      "plainText": "O vine of Sibmah, I will weep for thee with the weeping of Jazer: thy plants are gone over the sea, they reach even to the sea of Jazer: the spoiler is fallen upon thy summer fruits and upon thy vintage."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "20114",
-      "text" : "And joy and gladness is taken from the plentiful field, and from the land of Moab; and I have caused wine to fail from the winepresses: none shall tread with shouting; <span class='extra'>their<\/span> shouting <span class='extra'>shall be<\/span> no shouting.",
-      "plainText" : "And joy and gladness is taken from the plentiful field, and from the land of Moab; and I have caused wine to fail from the winepresses: none shall tread with shouting; their shouting shall be no shouting."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "20114",
+      "text": "And joy and gladness is taken from the plentiful field, and from the land of Moab; and I have caused wine to fail from the winepresses: none shall tread with shouting; <span class='extra'>their</span> shouting <span class='extra'>shall be</span> no shouting.",
+      "plainText": "And joy and gladness is taken from the plentiful field, and from the land of Moab; and I have caused wine to fail from the winepresses: none shall tread with shouting; their shouting shall be no shouting."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "20115",
-      "text" : "From the cry of Heshbon <span class='extra'>even<\/span> unto Elealeh, <span class='extra'>and even<\/span> unto Jahaz, have they uttered their voice, from Zoar <span class='extra'>even<\/span> unto Horonaim, <span class='extra'>as<\/span> an heifer of three years old: for the waters also of Nimrim shall be desolate.",
-      "plainText" : "From the cry of Heshbon even unto Elealeh, and even unto Jahaz, have they uttered their voice, from Zoar even unto Horonaim, as an heifer of three years old: for the waters also of Nimrim shall be desolate."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "20115",
+      "text": "From the cry of Heshbon <span class='extra'>even</span> unto Elealeh, <span class='extra'>and even</span> unto Jahaz, have they uttered their voice, from Zoar <span class='extra'>even</span> unto Horonaim, <span class='extra'>as</span> an heifer of three years old: for the waters also of Nimrim shall be desolate.",
+      "plainText": "From the cry of Heshbon even unto Elealeh, and even unto Jahaz, have they uttered their voice, from Zoar even unto Horonaim, as an heifer of three years old: for the waters also of Nimrim shall be desolate."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "20116",
-      "text" : "Moreover I will cause to cease in Moab, saith the <span class='nog'>LORD<\/span>, him that offereth in the high places, and him that burneth incense to his gods.",
-      "plainText" : "Moreover I will cause to cease in Moab, saith the LORD, him that offereth in the high places, and him that burneth incense to his gods."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "20116",
+      "text": "Moreover I will cause to cease in Moab, saith the <span class='nog'>LORD</span>, him that offereth in the high places, and him that burneth incense to his gods.",
+      "plainText": "Moreover I will cause to cease in Moab, saith the LORD, him that offereth in the high places, and him that burneth incense to his gods."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "20117",
-      "text" : "Therefore mine heart shall sound for Moab like pipes, and mine heart shall sound like pipes for the men of Kir-heres: because the riches <span class='extra'>that<\/span> he hath gotten are perished.",
-      "plainText" : "Therefore mine heart shall sound for Moab like pipes, and mine heart shall sound like pipes for the men of Kir-heres: because the riches that he hath gotten are perished."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "20117",
+      "text": "Therefore mine heart shall sound for Moab like pipes, and mine heart shall sound like pipes for the men of Kir-heres: because the riches <span class='extra'>that</span> he hath gotten are perished.",
+      "plainText": "Therefore mine heart shall sound for Moab like pipes, and mine heart shall sound like pipes for the men of Kir-heres: because the riches that he hath gotten are perished."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "20118",
-      "text" : "For every head <span class='extra'>shall be<\/span> bald, and every beard clipped: upon all the hands <span class='extra'>shall be<\/span> cuttings, and upon the loins sackcloth.",
-      "plainText" : "For every head shall be bald, and every beard clipped: upon all the hands shall be cuttings, and upon the loins sackcloth."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "20118",
+      "text": "For every head <span class='extra'>shall be</span> bald, and every beard clipped: upon all the hands <span class='extra'>shall be</span> cuttings, and upon the loins sackcloth.",
+      "plainText": "For every head shall be bald, and every beard clipped: upon all the hands shall be cuttings, and upon the loins sackcloth."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "20119",
-      "text" : "<span class='extra'>There shall be<\/span> lamentation generally upon all the housetops of Moab, and in the streets thereof: for I have broken Moab like a vessel wherein <span class='extra'>is<\/span> no pleasure, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "There shall be lamentation generally upon all the housetops of Moab, and in the streets thereof: for I have broken Moab like a vessel wherein is no pleasure, saith the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "20119",
+      "text": "<span class='extra'>There shall be</span> lamentation generally upon all the housetops of Moab, and in the streets thereof: for I have broken Moab like a vessel wherein <span class='extra'>is</span> no pleasure, saith the <span class='nog'>LORD</span>.",
+      "plainText": "There shall be lamentation generally upon all the housetops of Moab, and in the streets thereof: for I have broken Moab like a vessel wherein is no pleasure, saith the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "20120",
-      "text" : "They shall howl, <span class='extra'>saying<\/span>, How is it broken down! how hath Moab turned the back with shame! so shall Moab be a derision and a dismaying to all them about him.",
-      "plainText" : "They shall howl, saying, How is it broken down! how hath Moab turned the back with shame! so shall Moab be a derision and a dismaying to all them about him."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "20120",
+      "text": "They shall howl, <span class='extra'>saying</span>, How is it broken down! how hath Moab turned the back with shame! so shall Moab be a derision and a dismaying to all them about him.",
+      "plainText": "They shall howl, saying, How is it broken down! how hath Moab turned the back with shame! so shall Moab be a derision and a dismaying to all them about him."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "20121",
-      "text" : "For thus saith the <span class='nog'>LORD<\/span>; Behold, he shall fly as an eagle, and shall spread his wings over Moab.",
-      "plainText" : "For thus saith the LORD; Behold, he shall fly as an eagle, and shall spread his wings over Moab."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "20121",
+      "text": "For thus saith the <span class='nog'>LORD</span>; Behold, he shall fly as an eagle, and shall spread his wings over Moab.",
+      "plainText": "For thus saith the LORD; Behold, he shall fly as an eagle, and shall spread his wings over Moab."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "20122",
-      "text" : "Kerioth is taken, and the strong holds are surprised, and the mighty men's hearts in Moab at that day shall be as the heart of a woman in her pangs.",
-      "plainText" : "Kerioth is taken, and the strong holds are surprised, and the mighty men's hearts in Moab at that day shall be as the heart of a woman in her pangs."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "20122",
+      "text": "Kerioth is taken, and the strong holds are surprised, and the mighty men's hearts in Moab at that day shall be as the heart of a woman in her pangs.",
+      "plainText": "Kerioth is taken, and the strong holds are surprised, and the mighty men's hearts in Moab at that day shall be as the heart of a woman in her pangs."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "20123",
-      "text" : "And Moab shall be destroyed from <span class='extra'>being<\/span> a people, because he hath magnified <span class='extra'>himself<\/span> against the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And Moab shall be destroyed from being a people, because he hath magnified himself against the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "20123",
+      "text": "And Moab shall be destroyed from <span class='extra'>being</span> a people, because he hath magnified <span class='extra'>himself</span> against the <span class='nog'>LORD</span>.",
+      "plainText": "And Moab shall be destroyed from being a people, because he hath magnified himself against the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "20124",
-      "text" : "Fear, and the pit, and the snare, <span class='extra'>shall be<\/span> upon thee, O inhabitant of Moab, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Fear, and the pit, and the snare, shall be upon thee, O inhabitant of Moab, saith the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "20124",
+      "text": "Fear, and the pit, and the snare, <span class='extra'>shall be</span> upon thee, O inhabitant of Moab, saith the <span class='nog'>LORD</span>.",
+      "plainText": "Fear, and the pit, and the snare, shall be upon thee, O inhabitant of Moab, saith the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "20125",
-      "text" : "He that fleeth from the fear shall fall into the pit; and he that getteth up out of the pit shall be taken in the snare: for I will bring upon it, <span class='extra'>even<\/span> upon Moab, the year of their visitation, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "He that fleeth from the fear shall fall into the pit; and he that getteth up out of the pit shall be taken in the snare: for I will bring upon it, even upon Moab, the year of their visitation, saith the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "20125",
+      "text": "He that fleeth from the fear shall fall into the pit; and he that getteth up out of the pit shall be taken in the snare: for I will bring upon it, <span class='extra'>even</span> upon Moab, the year of their visitation, saith the <span class='nog'>LORD</span>.",
+      "plainText": "He that fleeth from the fear shall fall into the pit; and he that getteth up out of the pit shall be taken in the snare: for I will bring upon it, even upon Moab, the year of their visitation, saith the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "20126",
-      "text" : "They that fled stood under the shadow of Heshbon because of the force: but a fire shall come forth out of Heshbon, and a flame from the midst of Sihon, and shall devour the corner of Moab, and the crown of the head of the tumultuous ones.",
-      "plainText" : "They that fled stood under the shadow of Heshbon because of the force: but a fire shall come forth out of Heshbon, and a flame from the midst of Sihon, and shall devour the corner of Moab, and the crown of the head of the tumultuous ones."
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "20126",
+      "text": "They that fled stood under the shadow of Heshbon because of the force: but a fire shall come forth out of Heshbon, and a flame from the midst of Sihon, and shall devour the corner of Moab, and the crown of the head of the tumultuous ones.",
+      "plainText": "They that fled stood under the shadow of Heshbon because of the force: but a fire shall come forth out of Heshbon, and a flame from the midst of Sihon, and shall devour the corner of Moab, and the crown of the head of the tumultuous ones."
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "20127",
-      "text" : "Woe be unto thee, O Moab! the people of Chemosh perisheth: for thy sons are taken captives, and thy daughters captives.",
-      "plainText" : "Woe be unto thee, O Moab! the people of Chemosh perisheth: for thy sons are taken captives, and thy daughters captives."
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "20127",
+      "text": "Woe be unto thee, O Moab! the people of Chemosh perisheth: for thy sons are taken captives, and thy daughters captives.",
+      "plainText": "Woe be unto thee, O Moab! the people of Chemosh perisheth: for thy sons are taken captives, and thy daughters captives."
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "20128",
-      "text" : "Yet will I bring again the captivity of Moab in the latter days, saith the <span class='nog'>LORD<\/span>. Thus far <span class='extra'>is<\/span> the judgment of Moab.",
-      "plainText" : "Yet will I bring again the captivity of Moab in the latter days, saith the LORD. Thus far is the judgment of Moab."
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "20128",
+      "text": "Yet will I bring again the captivity of Moab in the latter days, saith the <span class='nog'>LORD</span>. Thus far <span class='extra'>is</span> the judgment of Moab.",
+      "plainText": "Yet will I bring again the captivity of Moab in the latter days, saith the LORD. Thus far is the judgment of Moab."
     }
   ]
 }
-
-

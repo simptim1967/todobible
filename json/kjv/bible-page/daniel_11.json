@@ -1,433 +1,389 @@
 {
   "book": {
-    "number" : "27",
-    "filenamePrefix" : "daniel",
-    "bookPage" : "daniel.html",
-    "title" : "Daniel",
-    "chapterCount" : "12",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "hosea_1.html",
-    "nextTitle" : "Hosea",
-    "prevBook" : "ezekiel_1.html",
-    "prevTitle" : "Ezekiel"
+    "number": "27",
+    "filenamePrefix": "daniel",
+    "bookPage": "daniel.html",
+    "title": "Daniel",
+    "chapterCount": "12",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "hosea_1.html",
+    "nextTitle": "Hosea",
+    "prevBook": "ezekiel_1.html",
+    "prevTitle": "Ezekiel",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "11",
-    "verseCount" : "45",
-    "nextChapter" : "daniel_12.html",
-    "nextTitle" : "Daniel 12",
-    "prevChapter" : "daniel_10.html",
-    "prevTitle" : "Daniel 10",
-    "filename" : "daniel_11.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "11",
+    "verseCount": "45",
+    "nextChapter": "daniel_12.html",
+    "nextTitle": "Daniel 12",
+    "prevChapter": "daniel_10.html",
+    "prevTitle": "Daniel 10",
+    "filename": "daniel_11.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "22038",
-      "text" : "Also I in the first year of Darius the Mede, <span class='extra'>even<\/span> I, stood to confirm and to strengthen him.",
-      "plainText" : "Also I in the first year of Darius the Mede, even I, stood to confirm and to strengthen him."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "22038",
+      "text": "Also I in the first year of Darius the Mede, <span class='extra'>even</span> I, stood to confirm and to strengthen him.",
+      "plainText": "Also I in the first year of Darius the Mede, even I, stood to confirm and to strengthen him."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "22039",
-      "text" : "And now will I shew thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than <span class='extra'>they<\/span> all: and by his strength through his riches he shall stir up all against the realm of Grecia.",
-      "plainText" : "And now will I shew thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than they all: and by his strength through his riches he shall stir up all against the realm of Grecia."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "22039",
+      "text": "And now will I shew thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than <span class='extra'>they</span> all: and by his strength through his riches he shall stir up all against the realm of Grecia.",
+      "plainText": "And now will I shew thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than they all: and by his strength through his riches he shall stir up all against the realm of Grecia."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "22040",
-      "text" : "And a mighty king shall stand up, that shall rule with great dominion, and do according to his will.",
-      "plainText" : "And a mighty king shall stand up, that shall rule with great dominion, and do according to his will."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "22040",
+      "text": "And a mighty king shall stand up, that shall rule with great dominion, and do according to his will.",
+      "plainText": "And a mighty king shall stand up, that shall rule with great dominion, and do according to his will."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "22041",
-      "text" : "And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those.",
-      "plainText" : "And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "22041",
+      "text": "And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those.",
+      "plainText": "And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "22042",
-      "text" : "And the king of the south shall be strong, and <span class='extra'>one<\/span> of his princes; and he shall be strong above him, and have dominion; his dominion <span class='extra'>shall be<\/span> a great dominion.",
-      "plainText" : "And the king of the south shall be strong, and one of his princes; and he shall be strong above him, and have dominion; his dominion shall be a great dominion."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "22042",
+      "text": "And the king of the south shall be strong, and <span class='extra'>one</span> of his princes; and he shall be strong above him, and have dominion; his dominion <span class='extra'>shall be</span> a great dominion.",
+      "plainText": "And the king of the south shall be strong, and one of his princes; and he shall be strong above him, and have dominion; his dominion shall be a great dominion."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "22043",
-      "text" : "And in the end of years they shall join themselves together; for the king's daughter of the south shall come to the king of the north to make an agreement: but she shall not retain the power of the arm; neither shall he stand, nor his arm: but she shall be given up, and they that brought her, and he that begat her, and he that strengthened her in <span class='extra'>these<\/span> times.",
-      "plainText" : "And in the end of years they shall join themselves together; for the king's daughter of the south shall come to the king of the north to make an agreement: but she shall not retain the power of the arm; neither shall he stand, nor his arm: but she shall be given up, and they that brought her, and he that begat her, and he that strengthened her in these times."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "22043",
+      "text": "And in the end of years they shall join themselves together; for the king's daughter of the south shall come to the king of the north to make an agreement: but she shall not retain the power of the arm; neither shall he stand, nor his arm: but she shall be given up, and they that brought her, and he that begat her, and he that strengthened her in <span class='extra'>these</span> times.",
+      "plainText": "And in the end of years they shall join themselves together; for the king's daughter of the south shall come to the king of the north to make an agreement: but she shall not retain the power of the arm; neither shall he stand, nor his arm: but she shall be given up, and they that brought her, and he that begat her, and he that strengthened her in these times."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "22044",
-      "text" : "But out of a branch of her roots shall <span class='extra'>one<\/span> stand up in his estate, which shall come with an army, and shall enter into the fortress of the king of the north, and shall deal against them, and shall prevail:",
-      "plainText" : "But out of a branch of her roots shall one stand up in his estate, which shall come with an army, and shall enter into the fortress of the king of the north, and shall deal against them, and shall prevail:"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "22044",
+      "text": "But out of a branch of her roots shall <span class='extra'>one</span> stand up in his estate, which shall come with an army, and shall enter into the fortress of the king of the north, and shall deal against them, and shall prevail:",
+      "plainText": "But out of a branch of her roots shall one stand up in his estate, which shall come with an army, and shall enter into the fortress of the king of the north, and shall deal against them, and shall prevail:"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "22045",
-      "text" : "And shall also carry captives into Egypt their gods, with their princes, <span class='extra'>and<\/span> with their precious vessels of silver and of gold; and he shall continue <span class='extra'>more<\/span> years than the king of the north.",
-      "plainText" : "And shall also carry captives into Egypt their gods, with their princes, and with their precious vessels of silver and of gold; and he shall continue more years than the king of the north."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "22045",
+      "text": "And shall also carry captives into Egypt their gods, with their princes, <span class='extra'>and</span> with their precious vessels of silver and of gold; and he shall continue <span class='extra'>more</span> years than the king of the north.",
+      "plainText": "And shall also carry captives into Egypt their gods, with their princes, and with their precious vessels of silver and of gold; and he shall continue more years than the king of the north."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "22046",
-      "text" : "So the king of the south shall come into <span class='extra'>his<\/span> kingdom, and shall return into his own land.",
-      "plainText" : "So the king of the south shall come into his kingdom, and shall return into his own land."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "22046",
+      "text": "So the king of the south shall come into <span class='extra'>his</span> kingdom, and shall return into his own land.",
+      "plainText": "So the king of the south shall come into his kingdom, and shall return into his own land."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "22047",
-      "text" : "But his sons shall be stirred up, and shall assemble a multitude of great forces: and <span class='extra'>one<\/span> shall certainly come, and overflow, and pass through: then shall he return, and be stirred up, <span class='extra'>even<\/span> to his fortress.",
-      "plainText" : "But his sons shall be stirred up, and shall assemble a multitude of great forces: and one shall certainly come, and overflow, and pass through: then shall he return, and be stirred up, even to his fortress."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "22047",
+      "text": "But his sons shall be stirred up, and shall assemble a multitude of great forces: and <span class='extra'>one</span> shall certainly come, and overflow, and pass through: then shall he return, and be stirred up, <span class='extra'>even</span> to his fortress.",
+      "plainText": "But his sons shall be stirred up, and shall assemble a multitude of great forces: and one shall certainly come, and overflow, and pass through: then shall he return, and be stirred up, even to his fortress."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "22048",
-      "text" : "And the king of the south shall be moved with choler, and shall come forth and fight with him, <span class='extra'>even<\/span> with the king of the north: and he shall set forth a great multitude; but the multitude shall be given into his hand.",
-      "plainText" : "And the king of the south shall be moved with choler, and shall come forth and fight with him, even with the king of the north: and he shall set forth a great multitude; but the multitude shall be given into his hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "22048",
+      "text": "And the king of the south shall be moved with choler, and shall come forth and fight with him, <span class='extra'>even</span> with the king of the north: and he shall set forth a great multitude; but the multitude shall be given into his hand.",
+      "plainText": "And the king of the south shall be moved with choler, and shall come forth and fight with him, even with the king of the north: and he shall set forth a great multitude; but the multitude shall be given into his hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "22049",
-      "text" : "<span class='extra'>And<\/span> when he hath taken away the multitude, his heart shall be lifted up; and he shall cast down <span class='extra'>many<\/span> ten thousands: but he shall not be strengthened <span class='extra'>by it<\/span>.",
-      "plainText" : "And when he hath taken away the multitude, his heart shall be lifted up; and he shall cast down many ten thousands: but he shall not be strengthened by it."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "22049",
+      "text": "<span class='extra'>And</span> when he hath taken away the multitude, his heart shall be lifted up; and he shall cast down <span class='extra'>many</span> ten thousands: but he shall not be strengthened <span class='extra'>by it</span>.",
+      "plainText": "And when he hath taken away the multitude, his heart shall be lifted up; and he shall cast down many ten thousands: but he shall not be strengthened by it."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "22050",
-      "text" : "For the king of the north shall return, and shall set forth a multitude greater than the former, and shall certainly come after certain years with a great army and with much riches.",
-      "plainText" : "For the king of the north shall return, and shall set forth a multitude greater than the former, and shall certainly come after certain years with a great army and with much riches."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "22050",
+      "text": "For the king of the north shall return, and shall set forth a multitude greater than the former, and shall certainly come after certain years with a great army and with much riches.",
+      "plainText": "For the king of the north shall return, and shall set forth a multitude greater than the former, and shall certainly come after certain years with a great army and with much riches."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "22051",
-      "text" : "And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall.",
-      "plainText" : "And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "22051",
+      "text": "And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall.",
+      "plainText": "And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "22052",
-      "text" : "So the king of the north shall come, and cast up a mount, and take the most fenced cities: and the arms of the south shall not withstand, neither his chosen people, neither <span class='extra'>shall there be any<\/span> strength to withstand.",
-      "plainText" : "So the king of the north shall come, and cast up a mount, and take the most fenced cities: and the arms of the south shall not withstand, neither his chosen people, neither shall there be any strength to withstand."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "22052",
+      "text": "So the king of the north shall come, and cast up a mount, and take the most fenced cities: and the arms of the south shall not withstand, neither his chosen people, neither <span class='extra'>shall there be any</span> strength to withstand.",
+      "plainText": "So the king of the north shall come, and cast up a mount, and take the most fenced cities: and the arms of the south shall not withstand, neither his chosen people, neither shall there be any strength to withstand."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "22053",
-      "text" : "But he that cometh against him shall do according to his own will, and none shall stand before him: and he shall stand in the glorious land, which by his hand shall be consumed.",
-      "plainText" : "But he that cometh against him shall do according to his own will, and none shall stand before him: and he shall stand in the glorious land, which by his hand shall be consumed."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "22053",
+      "text": "But he that cometh against him shall do according to his own will, and none shall stand before him: and he shall stand in the glorious land, which by his hand shall be consumed.",
+      "plainText": "But he that cometh against him shall do according to his own will, and none shall stand before him: and he shall stand in the glorious land, which by his hand shall be consumed."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "22054",
-      "text" : "He shall also set his face to enter with the strength of his whole kingdom, and upright ones with him; thus shall he do: and he shall give him the daughter of women, corrupting her: but she shall not stand <span class='extra'>on his side<\/span>, neither be for him.",
-      "plainText" : "He shall also set his face to enter with the strength of his whole kingdom, and upright ones with him; thus shall he do: and he shall give him the daughter of women, corrupting her: but she shall not stand on his side, neither be for him."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "22054",
+      "text": "He shall also set his face to enter with the strength of his whole kingdom, and upright ones with him; thus shall he do: and he shall give him the daughter of women, corrupting her: but she shall not stand <span class='extra'>on his side</span>, neither be for him.",
+      "plainText": "He shall also set his face to enter with the strength of his whole kingdom, and upright ones with him; thus shall he do: and he shall give him the daughter of women, corrupting her: but she shall not stand on his side, neither be for him."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "22055",
-      "text" : "After this shall he turn his face unto the isles, and shall take many: but a prince for his own behalf shall cause the reproach offered by him to cease; without his own reproach he shall cause <span class='extra'>it<\/span> to turn upon him.",
-      "plainText" : "After this shall he turn his face unto the isles, and shall take many: but a prince for his own behalf shall cause the reproach offered by him to cease; without his own reproach he shall cause it to turn upon him."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "22055",
+      "text": "After this shall he turn his face unto the isles, and shall take many: but a prince for his own behalf shall cause the reproach offered by him to cease; without his own reproach he shall cause <span class='extra'>it</span> to turn upon him.",
+      "plainText": "After this shall he turn his face unto the isles, and shall take many: but a prince for his own behalf shall cause the reproach offered by him to cease; without his own reproach he shall cause it to turn upon him."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "22056",
-      "text" : "Then he shall turn his face toward the fort of his own land: but he shall stumble and fall, and not be found.",
-      "plainText" : "Then he shall turn his face toward the fort of his own land: but he shall stumble and fall, and not be found."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "22056",
+      "text": "Then he shall turn his face toward the fort of his own land: but he shall stumble and fall, and not be found.",
+      "plainText": "Then he shall turn his face toward the fort of his own land: but he shall stumble and fall, and not be found."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "22057",
-      "text" : "Then shall stand up in his estate a raiser of taxes <span class='extra'>in<\/span> the glory of the kingdom: but within few days he shall be destroyed, neither in anger, nor in battle.",
-      "plainText" : "Then shall stand up in his estate a raiser of taxes in the glory of the kingdom: but within few days he shall be destroyed, neither in anger, nor in battle."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "22057",
+      "text": "Then shall stand up in his estate a raiser of taxes <span class='extra'>in</span> the glory of the kingdom: but within few days he shall be destroyed, neither in anger, nor in battle.",
+      "plainText": "Then shall stand up in his estate a raiser of taxes in the glory of the kingdom: but within few days he shall be destroyed, neither in anger, nor in battle."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "22058",
-      "text" : "And in his estate shall stand up a vile person, to whom they shall not give the honour of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries.",
-      "plainText" : "And in his estate shall stand up a vile person, to whom they shall not give the honour of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "22058",
+      "text": "And in his estate shall stand up a vile person, to whom they shall not give the honour of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries.",
+      "plainText": "And in his estate shall stand up a vile person, to whom they shall not give the honour of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "22059",
-      "text" : "And with the arms of a flood shall they be overflown from before him, and shall be broken; yea, also the prince of the covenant.",
-      "plainText" : "And with the arms of a flood shall they be overflown from before him, and shall be broken; yea, also the prince of the covenant."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "22059",
+      "text": "And with the arms of a flood shall they be overflown from before him, and shall be broken; yea, also the prince of the covenant.",
+      "plainText": "And with the arms of a flood shall they be overflown from before him, and shall be broken; yea, also the prince of the covenant."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "22060",
-      "text" : "And after the league <span class='extra'>made<\/span> with him he shall work deceitfully: for he shall come up, and shall become strong with a small people.",
-      "plainText" : "And after the league made with him he shall work deceitfully: for he shall come up, and shall become strong with a small people."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "22060",
+      "text": "And after the league <span class='extra'>made</span> with him he shall work deceitfully: for he shall come up, and shall become strong with a small people.",
+      "plainText": "And after the league made with him he shall work deceitfully: for he shall come up, and shall become strong with a small people."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "22061",
-      "text" : "He shall enter peaceably even upon the fattest places of the province; and he shall do <span class='extra'>that<\/span> which his fathers have not done, nor his fathers' fathers; he shall scatter among them the prey, and spoil, and riches: <span class='extra'>yea<\/span>, and he shall forecast his devices against the strong holds, even for a time.",
-      "plainText" : "He shall enter peaceably even upon the fattest places of the province; and he shall do that which his fathers have not done, nor his fathers' fathers; he shall scatter among them the prey, and spoil, and riches: yea, and he shall forecast his devices against the strong holds, even for a time."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "22061",
+      "text": "He shall enter peaceably even upon the fattest places of the province; and he shall do <span class='extra'>that</span> which his fathers have not done, nor his fathers' fathers; he shall scatter among them the prey, and spoil, and riches: <span class='extra'>yea</span>, and he shall forecast his devices against the strong holds, even for a time.",
+      "plainText": "He shall enter peaceably even upon the fattest places of the province; and he shall do that which his fathers have not done, nor his fathers' fathers; he shall scatter among them the prey, and spoil, and riches: yea, and he shall forecast his devices against the strong holds, even for a time."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "22062",
-      "text" : "And he shall stir up his power and his courage against the king of the south with a great army; and the king of the south shall be stirred up to battle with a very great and mighty army; but he shall not stand: for they shall forecast devices against him.",
-      "plainText" : "And he shall stir up his power and his courage against the king of the south with a great army; and the king of the south shall be stirred up to battle with a very great and mighty army; but he shall not stand: for they shall forecast devices against him."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "22062",
+      "text": "And he shall stir up his power and his courage against the king of the south with a great army; and the king of the south shall be stirred up to battle with a very great and mighty army; but he shall not stand: for they shall forecast devices against him.",
+      "plainText": "And he shall stir up his power and his courage against the king of the south with a great army; and the king of the south shall be stirred up to battle with a very great and mighty army; but he shall not stand: for they shall forecast devices against him."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "22063",
-      "text" : "Yea, they that feed of the portion of his meat shall destroy him, and his army shall overflow: and many shall fall down slain.",
-      "plainText" : "Yea, they that feed of the portion of his meat shall destroy him, and his army shall overflow: and many shall fall down slain."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "22063",
+      "text": "Yea, they that feed of the portion of his meat shall destroy him, and his army shall overflow: and many shall fall down slain.",
+      "plainText": "Yea, they that feed of the portion of his meat shall destroy him, and his army shall overflow: and many shall fall down slain."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "22064",
-      "text" : "And both these kings' hearts <span class='extra'>shall be<\/span> to do mischief, and they shall speak lies at one table; but it shall not prosper: for yet the end <span class='extra'>shall be<\/span> at the time appointed.",
-      "plainText" : "And both these kings' hearts shall be to do mischief, and they shall speak lies at one table; but it shall not prosper: for yet the end shall be at the time appointed."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "22064",
+      "text": "And both these kings' hearts <span class='extra'>shall be</span> to do mischief, and they shall speak lies at one table; but it shall not prosper: for yet the end <span class='extra'>shall be</span> at the time appointed.",
+      "plainText": "And both these kings' hearts shall be to do mischief, and they shall speak lies at one table; but it shall not prosper: for yet the end shall be at the time appointed."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "22065",
-      "text" : "Then shall he return into his land with great riches; and his heart <span class='extra'>shall be<\/span> against the holy covenant; and he shall do <span class='extra'>exploits<\/span>, and return to his own land.",
-      "plainText" : "Then shall he return into his land with great riches; and his heart shall be against the holy covenant; and he shall do exploits, and return to his own land."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "22065",
+      "text": "Then shall he return into his land with great riches; and his heart <span class='extra'>shall be</span> against the holy covenant; and he shall do <span class='extra'>exploits</span>, and return to his own land.",
+      "plainText": "Then shall he return into his land with great riches; and his heart shall be against the holy covenant; and he shall do exploits, and return to his own land."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "22066",
-      "text" : "At the time appointed he shall return, and come toward the south; but it shall not be as the former, or as the latter.",
-      "plainText" : "At the time appointed he shall return, and come toward the south; but it shall not be as the former, or as the latter."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "22066",
+      "text": "At the time appointed he shall return, and come toward the south; but it shall not be as the former, or as the latter.",
+      "plainText": "At the time appointed he shall return, and come toward the south; but it shall not be as the former, or as the latter."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "22067",
-      "text" : "For the ships of Chittim shall come against him: therefore he shall be grieved, and return, and have indignation against the holy covenant: so shall he do; he shall even return, and have intelligence with them that forsake the holy covenant.",
-      "plainText" : "For the ships of Chittim shall come against him: therefore he shall be grieved, and return, and have indignation against the holy covenant: so shall he do; he shall even return, and have intelligence with them that forsake the holy covenant."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "22067",
+      "text": "For the ships of Chittim shall come against him: therefore he shall be grieved, and return, and have indignation against the holy covenant: so shall he do; he shall even return, and have intelligence with them that forsake the holy covenant.",
+      "plainText": "For the ships of Chittim shall come against him: therefore he shall be grieved, and return, and have indignation against the holy covenant: so shall he do; he shall even return, and have intelligence with them that forsake the holy covenant."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "22068",
-      "text" : "And arms shall stand on his part, and they shall pollute the sanctuary of strength, and shall take away the daily <span class='extra'>sacrifice<\/span>, and they shall place the abomination that maketh desolate.",
-      "plainText" : "And arms shall stand on his part, and they shall pollute the sanctuary of strength, and shall take away the daily sacrifice, and they shall place the abomination that maketh desolate."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "22068",
+      "text": "And arms shall stand on his part, and they shall pollute the sanctuary of strength, and shall take away the daily <span class='extra'>sacrifice</span>, and they shall place the abomination that maketh desolate.",
+      "plainText": "And arms shall stand on his part, and they shall pollute the sanctuary of strength, and shall take away the daily sacrifice, and they shall place the abomination that maketh desolate."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "22069",
-      "text" : "And such as do wickedly against the covenant shall he corrupt by flatteries: but the people that do know their God shall be strong, and do <span class='extra'>exploits<\/span>.",
-      "plainText" : "And such as do wickedly against the covenant shall he corrupt by flatteries: but the people that do know their God shall be strong, and do exploits."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "22069",
+      "text": "And such as do wickedly against the covenant shall he corrupt by flatteries: but the people that do know their God shall be strong, and do <span class='extra'>exploits</span>.",
+      "plainText": "And such as do wickedly against the covenant shall he corrupt by flatteries: but the people that do know their God shall be strong, and do exploits."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "22070",
-      "text" : "And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, <span class='extra'>many<\/span> days.",
-      "plainText" : "And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, many days."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "22070",
+      "text": "And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, <span class='extra'>many</span> days.",
+      "plainText": "And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, many days."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "22071",
-      "text" : "Now when they shall fall, they shall be holpen with a little help: but many shall cleave to them with flatteries.",
-      "plainText" : "Now when they shall fall, they shall be holpen with a little help: but many shall cleave to them with flatteries."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "22071",
+      "text": "Now when they shall fall, they shall be holpen with a little help: but many shall cleave to them with flatteries.",
+      "plainText": "Now when they shall fall, they shall be holpen with a little help: but many shall cleave to them with flatteries."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "22072",
-      "text" : "And <span class='extra'>some<\/span> of them of understanding shall fall, to try them, and to purge, and to make <span class='extra'>them<\/span> white, <span class='extra'>even<\/span> to the time of the end: because <span class='extra'>it is<\/span> yet for a time appointed.",
-      "plainText" : "And some of them of understanding shall fall, to try them, and to purge, and to make them white, even to the time of the end: because it is yet for a time appointed."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "22072",
+      "text": "And <span class='extra'>some</span> of them of understanding shall fall, to try them, and to purge, and to make <span class='extra'>them</span> white, <span class='extra'>even</span> to the time of the end: because <span class='extra'>it is</span> yet for a time appointed.",
+      "plainText": "And some of them of understanding shall fall, to try them, and to purge, and to make them white, even to the time of the end: because it is yet for a time appointed."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "22073",
-      "text" : "And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.",
-      "plainText" : "And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "22073",
+      "text": "And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.",
+      "plainText": "And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "22074",
-      "text" : "Neither shall he regard the God of his fathers, nor the desire of women, nor regard any god: for he shall magnify himself above all.",
-      "plainText" : "Neither shall he regard the God of his fathers, nor the desire of women, nor regard any god: for he shall magnify himself above all."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "22074",
+      "text": "Neither shall he regard the God of his fathers, nor the desire of women, nor regard any god: for he shall magnify himself above all.",
+      "plainText": "Neither shall he regard the God of his fathers, nor the desire of women, nor regard any god: for he shall magnify himself above all."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "22075",
-      "text" : "But in his estate shall he honour the God of forces: and a god whom his fathers knew not shall he honour with gold, and silver, and with precious stones, and pleasant things.",
-      "plainText" : "But in his estate shall he honour the God of forces: and a god whom his fathers knew not shall he honour with gold, and silver, and with precious stones, and pleasant things."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "22075",
+      "text": "But in his estate shall he honour the God of forces: and a god whom his fathers knew not shall he honour with gold, and silver, and with precious stones, and pleasant things.",
+      "plainText": "But in his estate shall he honour the God of forces: and a god whom his fathers knew not shall he honour with gold, and silver, and with precious stones, and pleasant things."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "22076",
-      "text" : "Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge <span class='extra'>and<\/span> increase with glory: and he shall cause them to rule over many, and shall divide the land for gain.",
-      "plainText" : "Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge and increase with glory: and he shall cause them to rule over many, and shall divide the land for gain."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "22076",
+      "text": "Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge <span class='extra'>and</span> increase with glory: and he shall cause them to rule over many, and shall divide the land for gain.",
+      "plainText": "Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge and increase with glory: and he shall cause them to rule over many, and shall divide the land for gain."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "22077",
-      "text" : "And at the time of the end shall the king of the south push at him: and the king of the north shall come against him like a whirlwind, with chariots, and with horsemen, and with many ships; and he shall enter into the countries, and shall overflow and pass over.",
-      "plainText" : "And at the time of the end shall the king of the south push at him: and the king of the north shall come against him like a whirlwind, with chariots, and with horsemen, and with many ships; and he shall enter into the countries, and shall overflow and pass over."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "22077",
+      "text": "And at the time of the end shall the king of the south push at him: and the king of the north shall come against him like a whirlwind, with chariots, and with horsemen, and with many ships; and he shall enter into the countries, and shall overflow and pass over.",
+      "plainText": "And at the time of the end shall the king of the south push at him: and the king of the north shall come against him like a whirlwind, with chariots, and with horsemen, and with many ships; and he shall enter into the countries, and shall overflow and pass over."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "22078",
-      "text" : "He shall enter also into the glorious land, and many <span class='extra'>countries<\/span> shall be overthrown: but these shall escape out of his hand, <span class='extra'>even<\/span> Edom, and Moab, and the chief of the children of Ammon.",
-      "plainText" : "He shall enter also into the glorious land, and many countries shall be overthrown: but these shall escape out of his hand, even Edom, and Moab, and the chief of the children of Ammon."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "22078",
+      "text": "He shall enter also into the glorious land, and many <span class='extra'>countries</span> shall be overthrown: but these shall escape out of his hand, <span class='extra'>even</span> Edom, and Moab, and the chief of the children of Ammon.",
+      "plainText": "He shall enter also into the glorious land, and many countries shall be overthrown: but these shall escape out of his hand, even Edom, and Moab, and the chief of the children of Ammon."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "22079",
-      "text" : "He shall stretch forth his hand also upon the countries: and the land of Egypt shall not escape.",
-      "plainText" : "He shall stretch forth his hand also upon the countries: and the land of Egypt shall not escape."
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "22079",
+      "text": "He shall stretch forth his hand also upon the countries: and the land of Egypt shall not escape.",
+      "plainText": "He shall stretch forth his hand also upon the countries: and the land of Egypt shall not escape."
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "22080",
-      "text" : "But he shall have power over the treasures of gold and of silver, and over all the precious things of Egypt: and the Libyans and the Ethiopians <span class='extra'>shall be<\/span> at his steps.",
-      "plainText" : "But he shall have power over the treasures of gold and of silver, and over all the precious things of Egypt: and the Libyans and the Ethiopians shall be at his steps."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "22080",
+      "text": "But he shall have power over the treasures of gold and of silver, and over all the precious things of Egypt: and the Libyans and the Ethiopians <span class='extra'>shall be</span> at his steps.",
+      "plainText": "But he shall have power over the treasures of gold and of silver, and over all the precious things of Egypt: and the Libyans and the Ethiopians shall be at his steps."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "22081",
-      "text" : "But tidings out of the east and out of the north shall trouble him: therefore he shall go forth with great fury to destroy, and utterly to make away many.",
-      "plainText" : "But tidings out of the east and out of the north shall trouble him: therefore he shall go forth with great fury to destroy, and utterly to make away many."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "22081",
+      "text": "But tidings out of the east and out of the north shall trouble him: therefore he shall go forth with great fury to destroy, and utterly to make away many.",
+      "plainText": "But tidings out of the east and out of the north shall trouble him: therefore he shall go forth with great fury to destroy, and utterly to make away many."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "22082",
-      "text" : "And he shall plant the tabernacles of his palace between the seas in the glorious holy mountain; yet he shall come to his end, and none shall help him.",
-      "plainText" : "And he shall plant the tabernacles of his palace between the seas in the glorious holy mountain; yet he shall come to his end, and none shall help him."
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "22082",
+      "text": "And he shall plant the tabernacles of his palace between the seas in the glorious holy mountain; yet he shall come to his end, and none shall help him.",
+      "plainText": "And he shall plant the tabernacles of his palace between the seas in the glorious holy mountain; yet he shall come to his end, and none shall help him."
     }
   ]
 }
-

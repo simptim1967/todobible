@@ -1,162 +1,147 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "27",
-    "verseCount" : "14",
-    "nextChapter" : "psalms_28.html",
-    "nextTitle" : "Psalms 28",
-    "prevChapter" : "psalms_26.html",
-    "prevTitle" : "Psalms 26",
-    "filename" : "psalms_27.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "27",
+    "verseCount": "14",
+    "nextChapter": "psalms_28.html",
+    "nextTitle": "Psalms 28",
+    "prevChapter": "psalms_26.html",
+    "prevTitle": "Psalms 26",
+    "filename": "psalms_27.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "<span class='extra'>A Psalm<\/span> of David.",
-      "plainText" : "A Psalm of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "<span class='extra'>A Psalm</span> of David.",
+      "plainText": "A Psalm of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14287",
-      "text" : "The <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> my light and my salvation; whom shall I fear? the <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> the strength of my life; of whom shall I be afraid?",
-      "plainText" : "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14287",
+      "text": "The <span class='nog'>LORD</span> <span class='extra'>is</span> my light and my salvation; whom shall I fear? the <span class='nog'>LORD</span> <span class='extra'>is</span> the strength of my life; of whom shall I be afraid?",
+      "plainText": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14288",
-      "text" : "When the wicked, <span class='extra'>even<\/span> mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.",
-      "plainText" : "When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14288",
+      "text": "When the wicked, <span class='extra'>even</span> mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.",
+      "plainText": "When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14289",
-      "text" : "Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this <span class='extra'>will<\/span> I <span class='extra'>be<\/span> confident.",
-      "plainText" : "Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this will I be confident."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14289",
+      "text": "Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this <span class='extra'>will</span> I <span class='extra'>be</span> confident.",
+      "plainText": "Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this will I be confident."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14290",
-      "text" : "One <span class='extra'>thing<\/span> have I desired of the <span class='nog'>LORD<\/span>, that will I seek after; that I may dwell in the house of the <span class='nog'>LORD<\/span> all the days of my life, to behold the beauty of the <span class='nog'>LORD<\/span>, and to enquire in his temple.",
-      "plainText" : "One thing have I desired of the LORD, that will I seek after; that I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD, and to enquire in his temple."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14290",
+      "text": "One <span class='extra'>thing</span> have I desired of the <span class='nog'>LORD</span>, that will I seek after; that I may dwell in the house of the <span class='nog'>LORD</span> all the days of my life, to behold the beauty of the <span class='nog'>LORD</span>, and to enquire in his temple.",
+      "plainText": "One thing have I desired of the LORD, that will I seek after; that I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD, and to enquire in his temple."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14291",
-      "text" : "For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock.",
-      "plainText" : "For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14291",
+      "text": "For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock.",
+      "plainText": "For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14292",
-      "text" : "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14292",
+      "text": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the <span class='nog'>LORD</span>.",
+      "plainText": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14293",
-      "text" : "Hear, O <span class='nog'>LORD<\/span>, <span class='extra'>when<\/span> I cry with my voice: have mercy also upon me, and answer me.",
-      "plainText" : "Hear, O LORD, when I cry with my voice: have mercy also upon me, and answer me."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14293",
+      "text": "Hear, O <span class='nog'>LORD</span>, <span class='extra'>when</span> I cry with my voice: have mercy also upon me, and answer me.",
+      "plainText": "Hear, O LORD, when I cry with my voice: have mercy also upon me, and answer me."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14294",
-      "text" : "<span class='extra'>When thou saidst<\/span>, Seek ye my face; my heart said unto thee, Thy face, <span class='nog'>LORD<\/span>, will I seek.",
-      "plainText" : "When thou saidst, Seek ye my face; my heart said unto thee, Thy face, LORD, will I seek."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14294",
+      "text": "<span class='extra'>When thou saidst</span>, Seek ye my face; my heart said unto thee, Thy face, <span class='nog'>LORD</span>, will I seek.",
+      "plainText": "When thou saidst, Seek ye my face; my heart said unto thee, Thy face, LORD, will I seek."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14295",
-      "text" : "Hide not thy face <span class='extra'>far<\/span> from me; put not thy servant away in anger: thou hast been my help; leave me not, neither forsake me, O God of my salvation.",
-      "plainText" : "Hide not thy face far from me; put not thy servant away in anger: thou hast been my help; leave me not, neither forsake me, O God of my salvation."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14295",
+      "text": "Hide not thy face <span class='extra'>far</span> from me; put not thy servant away in anger: thou hast been my help; leave me not, neither forsake me, O God of my salvation.",
+      "plainText": "Hide not thy face far from me; put not thy servant away in anger: thou hast been my help; leave me not, neither forsake me, O God of my salvation."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "14296",
-      "text" : "When my father and my mother forsake me, then the <span class='nog'>LORD<\/span> will take me up.",
-      "plainText" : "When my father and my mother forsake me, then the LORD will take me up."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "14296",
+      "text": "When my father and my mother forsake me, then the <span class='nog'>LORD</span> will take me up.",
+      "plainText": "When my father and my mother forsake me, then the LORD will take me up."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "14297",
-      "text" : "Teach me thy way, O <span class='nog'>LORD<\/span>, and lead me in a plain path, because of mine enemies.",
-      "plainText" : "Teach me thy way, O LORD, and lead me in a plain path, because of mine enemies."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "14297",
+      "text": "Teach me thy way, O <span class='nog'>LORD</span>, and lead me in a plain path, because of mine enemies.",
+      "plainText": "Teach me thy way, O LORD, and lead me in a plain path, because of mine enemies."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "14298",
-      "text" : "Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty.",
-      "plainText" : "Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "14298",
+      "text": "Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty.",
+      "plainText": "Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "14299",
-      "text" : "<span class='extra'>I had fainted<\/span>, unless I had believed to see the goodness of the <span class='nog'>LORD<\/span> in the land of the living.",
-      "plainText" : "I had fainted, unless I had believed to see the goodness of the LORD in the land of the living."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "14299",
+      "text": "<span class='extra'>I had fainted</span>, unless I had believed to see the goodness of the <span class='nog'>LORD</span> in the land of the living.",
+      "plainText": "I had fainted, unless I had believed to see the goodness of the LORD in the land of the living."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "14300",
-      "text" : "Wait on the <span class='nog'>LORD<\/span>: be of good courage, and he shall strengthen thine heart: wait, I say, on the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD."
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "14300",
+      "text": "Wait on the <span class='nog'>LORD</span>: be of good courage, and he shall strengthen thine heart: wait, I say, on the <span class='nog'>LORD</span>.",
+      "plainText": "Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD."
     }
   ]
 }
-
-

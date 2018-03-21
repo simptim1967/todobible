@@ -1,209 +1,189 @@
 {
   "book": {
-    "number" : "35",
-    "filenamePrefix" : "habakkuk",
-    "bookPage" : "habakkuk.html",
-    "title" : "Habakkuk",
-    "chapterCount" : "3",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "zephaniah_1.html",
-    "nextTitle" : "Zephaniah",
-    "prevBook" : "nahum_1.html",
-    "prevTitle" : "Nahum"
+    "number": "35",
+    "filenamePrefix": "habakkuk",
+    "bookPage": "habakkuk.html",
+    "title": "Habakkuk",
+    "chapterCount": "3",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "zephaniah_1.html",
+    "nextTitle": "Zephaniah",
+    "prevBook": "nahum_1.html",
+    "prevTitle": "Nahum",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "2",
-    "verseCount" : "20",
-    "nextChapter" : "habakkuk_3.html",
-    "nextTitle" : "Habakkuk 3",
-    "prevChapter" : "habakkuk_1.html",
-    "prevTitle" : "Habakkuk 1",
-    "filename" : "habakkuk_2.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "2",
+    "verseCount": "20",
+    "nextChapter": "habakkuk_3.html",
+    "nextTitle": "Habakkuk 3",
+    "prevChapter": "habakkuk_1.html",
+    "prevTitle": "Habakkuk 1",
+    "filename": "habakkuk_2.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "22750",
-      "text" : "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.",
-      "plainText" : "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "22750",
+      "text": "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.",
+      "plainText": "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "22751",
-      "text" : "And the <span class='nog'>LORD<\/span> answered me, and said, Write the vision, and make <span class='extra'>it<\/span> plain upon tables, that he may run that readeth it.",
-      "plainText" : "And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "22751",
+      "text": "And the <span class='nog'>LORD</span> answered me, and said, Write the vision, and make <span class='extra'>it</span> plain upon tables, that he may run that readeth it.",
+      "plainText": "And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "22752",
-      "text" : "For the vision <span class='extra'>is<\/span> yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.",
-      "plainText" : "For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "22752",
+      "text": "For the vision <span class='extra'>is</span> yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.",
+      "plainText": "For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "22753",
-      "text" : "Behold, his soul <span class='extra'>which<\/span> is lifted up is not upright in him: but the just shall live by his faith.",
-      "plainText" : "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "22753",
+      "text": "Behold, his soul <span class='extra'>which</span> is lifted up is not upright in him: but the just shall live by his faith.",
+      "plainText": "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "22754",
-      "text" : "Yea also, because he transgresseth by wine, <span class='extra'>he is<\/span> a proud man, neither keepeth at home, who enlargeth his desire as hell, and <span class='extra'>is<\/span> as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:",
-      "plainText" : "Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "22754",
+      "text": "Yea also, because he transgresseth by wine, <span class='extra'>he is</span> a proud man, neither keepeth at home, who enlargeth his desire as hell, and <span class='extra'>is</span> as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:",
+      "plainText": "Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "22755",
-      "text" : "Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth <span class='extra'>that which is<\/span> not his! how long? and to him that ladeth himself with thick clay!",
-      "plainText" : "Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "22755",
+      "text": "Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth <span class='extra'>that which is</span> not his! how long? and to him that ladeth himself with thick clay!",
+      "plainText": "Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "22756",
-      "text" : "Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?",
-      "plainText" : "Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "22756",
+      "text": "Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?",
+      "plainText": "Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "22757",
-      "text" : "Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men's blood, and <span class='extra'>for<\/span> the violence of the land, of the city, and of all that dwell therein.",
-      "plainText" : "Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men's blood, and for the violence of the land, of the city, and of all that dwell therein."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "22757",
+      "text": "Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men's blood, and <span class='extra'>for</span> the violence of the land, of the city, and of all that dwell therein.",
+      "plainText": "Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men's blood, and for the violence of the land, of the city, and of all that dwell therein."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "22758",
-      "text" : "Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!",
-      "plainText" : "Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "22758",
+      "text": "Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!",
+      "plainText": "Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "22759",
-      "text" : "Thou hast consulted shame to thy house by cutting off many people, and hast sinned <span class='extra'>against<\/span> thy soul.",
-      "plainText" : "Thou hast consulted shame to thy house by cutting off many people, and hast sinned against thy soul."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "22759",
+      "text": "Thou hast consulted shame to thy house by cutting off many people, and hast sinned <span class='extra'>against</span> thy soul.",
+      "plainText": "Thou hast consulted shame to thy house by cutting off many people, and hast sinned against thy soul."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "22760",
-      "text" : "For the stone shall cry out of the wall, and the beam out of the timber shall answer it.",
-      "plainText" : "For the stone shall cry out of the wall, and the beam out of the timber shall answer it."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "22760",
+      "text": "For the stone shall cry out of the wall, and the beam out of the timber shall answer it.",
+      "plainText": "For the stone shall cry out of the wall, and the beam out of the timber shall answer it."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "22761",
-      "text" : "Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!",
-      "plainText" : "Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "22761",
+      "text": "Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!",
+      "plainText": "Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "22762",
-      "text" : "Behold, <span class='extra'>is it<\/span> not of the <span class='nog'>LORD<\/span> of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?",
-      "plainText" : "Behold, is it not of the LORD of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "22762",
+      "text": "Behold, <span class='extra'>is it</span> not of the <span class='nog'>LORD</span> of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?",
+      "plainText": "Behold, is it not of the LORD of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "22763",
-      "text" : "For the earth shall be filled with the knowledge of the glory of the <span class='nog'>LORD<\/span>, as the waters cover the sea.",
-      "plainText" : "For the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "22763",
+      "text": "For the earth shall be filled with the knowledge of the glory of the <span class='nog'>LORD</span>, as the waters cover the sea.",
+      "plainText": "For the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "22764",
-      "text" : "Woe unto him that giveth his neighbour drink, that puttest thy bottle to <span class='extra'>him<\/span>, and makest <span class='extra'>him<\/span> drunken also, that thou mayest look on their nakedness!",
-      "plainText" : "Woe unto him that giveth his neighbour drink, that puttest thy bottle to him, and makest him drunken also, that thou mayest look on their nakedness!"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "22764",
+      "text": "Woe unto him that giveth his neighbour drink, that puttest thy bottle to <span class='extra'>him</span>, and makest <span class='extra'>him</span> drunken also, that thou mayest look on their nakedness!",
+      "plainText": "Woe unto him that giveth his neighbour drink, that puttest thy bottle to him, and makest him drunken also, that thou mayest look on their nakedness!"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "22765",
-      "text" : "Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the <span class='nog'>LORD<\/span>'s right hand shall be turned unto thee, and shameful spewing <span class='extra'>shall be<\/span> on thy glory.",
-      "plainText" : "Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the LORD's right hand shall be turned unto thee, and shameful spewing shall be on thy glory."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "22765",
+      "text": "Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the <span class='nog'>LORD</span>'s right hand shall be turned unto thee, and shameful spewing <span class='extra'>shall be</span> on thy glory.",
+      "plainText": "Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the LORD's right hand shall be turned unto thee, and shameful spewing shall be on thy glory."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "22766",
-      "text" : "For the violence of Lebanon shall cover thee, and the spoil of beasts, <span class='extra'>which<\/span> made them afraid, because of men's blood, and for the violence of the land, of the city, and of all that dwell therein.",
-      "plainText" : "For the violence of Lebanon shall cover thee, and the spoil of beasts, which made them afraid, because of men's blood, and for the violence of the land, of the city, and of all that dwell therein."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "22766",
+      "text": "For the violence of Lebanon shall cover thee, and the spoil of beasts, <span class='extra'>which</span> made them afraid, because of men's blood, and for the violence of the land, of the city, and of all that dwell therein.",
+      "plainText": "For the violence of Lebanon shall cover thee, and the spoil of beasts, which made them afraid, because of men's blood, and for the violence of the land, of the city, and of all that dwell therein."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "22767",
-      "text" : "What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols?",
-      "plainText" : "What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols?"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "22767",
+      "text": "What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols?",
+      "plainText": "What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols?"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "22768",
-      "text" : "Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it <span class='extra'>is<\/span> laid over with gold and silver, and <span class='extra'>there is<\/span> no breath at all in the midst of it.",
-      "plainText" : "Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it is laid over with gold and silver, and there is no breath at all in the midst of it."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "22768",
+      "text": "Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it <span class='extra'>is</span> laid over with gold and silver, and <span class='extra'>there is</span> no breath at all in the midst of it.",
+      "plainText": "Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it is laid over with gold and silver, and there is no breath at all in the midst of it."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "22769",
-      "text" : "But the <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> in his holy temple: let all the earth keep silence before him.",
-      "plainText" : "But the LORD is in his holy temple: let all the earth keep silence before him."
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "22769",
+      "text": "But the <span class='nog'>LORD</span> <span class='extra'>is</span> in his holy temple: let all the earth keep silence before him.",
+      "plainText": "But the LORD is in his holy temple: let all the earth keep silence before him."
     }
   ]
 }
-
-

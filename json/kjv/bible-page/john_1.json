@@ -1,487 +1,437 @@
 {
   "book": {
-    "number" : "43",
-    "filenamePrefix" : "john",
-    "bookPage" : "john.html",
-    "title" : "John",
-    "chapterCount" : "21",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "acts_1.html",
-    "nextTitle" : "Acts",
-    "prevBook" : "luke_1.html",
-    "prevTitle" : "Luke"
+    "number": "43",
+    "filenamePrefix": "john",
+    "bookPage": "john.html",
+    "title": "John",
+    "chapterCount": "21",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "acts_1.html",
+    "nextTitle": "Acts",
+    "prevBook": "luke_1.html",
+    "prevTitle": "Luke",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "1",
-    "verseCount" : "51",
-    "nextChapter" : "john_2.html",
-    "nextTitle" : "John 2",
-    "prevChapter" : "luke_24.html",
-    "prevTitle" : "Luke 24",
-    "filename" : "john_1.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "1",
+    "verseCount": "51",
+    "nextChapter": "john_2.html",
+    "nextTitle": "John 2",
+    "prevChapter": "luke_24.html",
+    "prevTitle": "Luke 24",
+    "filename": "john_1.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "26046",
-      "text" : "In the beginning was the Word, and the Word was with God, and the Word was God.",
-      "plainText" : "In the beginning was the Word, and the Word was with God, and the Word was God."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "26046",
+      "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+      "plainText": "In the beginning was the Word, and the Word was with God, and the Word was God."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "26047",
-      "text" : "The same was in the beginning with God.",
-      "plainText" : "The same was in the beginning with God."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "26047",
+      "text": "The same was in the beginning with God.",
+      "plainText": "The same was in the beginning with God."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "26048",
-      "text" : "All things were made by him; and without him was not any thing made that was made.",
-      "plainText" : "All things were made by him; and without him was not any thing made that was made."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "26048",
+      "text": "All things were made by him; and without him was not any thing made that was made.",
+      "plainText": "All things were made by him; and without him was not any thing made that was made."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "26049",
-      "text" : "In him was life; and the life was the light of men.",
-      "plainText" : "In him was life; and the life was the light of men."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "26049",
+      "text": "In him was life; and the life was the light of men.",
+      "plainText": "In him was life; and the life was the light of men."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "26050",
-      "text" : "And the light shineth in darkness; and the darkness comprehended it not.",
-      "plainText" : "And the light shineth in darkness; and the darkness comprehended it not."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "26050",
+      "text": "And the light shineth in darkness; and the darkness comprehended it not.",
+      "plainText": "And the light shineth in darkness; and the darkness comprehended it not."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "26051",
-      "text" : "There was a man sent from God, whose name <span class='extra'>was<\/span> John.",
-      "plainText" : "There was a man sent from God, whose name was John."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "26051",
+      "text": "There was a man sent from God, whose name <span class='extra'>was</span> John.",
+      "plainText": "There was a man sent from God, whose name was John."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "26052",
-      "text" : "The same came for a witness, to bear witness of the Light, that all <span class='extra'>men<\/span> through him might believe.",
-      "plainText" : "The same came for a witness, to bear witness of the Light, that all men through him might believe."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "26052",
+      "text": "The same came for a witness, to bear witness of the Light, that all <span class='extra'>men</span> through him might believe.",
+      "plainText": "The same came for a witness, to bear witness of the Light, that all men through him might believe."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "26053",
-      "text" : "He was not that Light, but <span class='extra'>was sent<\/span> to bear witness of that Light.",
-      "plainText" : "He was not that Light, but was sent to bear witness of that Light."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "26053",
+      "text": "He was not that Light, but <span class='extra'>was sent</span> to bear witness of that Light.",
+      "plainText": "He was not that Light, but was sent to bear witness of that Light."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "26054",
-      "text" : "<span class='extra'>That<\/span> was the true Light, which lighteth every man that cometh into the world.",
-      "plainText" : "That was the true Light, which lighteth every man that cometh into the world."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "26054",
+      "text": "<span class='extra'>That</span> was the true Light, which lighteth every man that cometh into the world.",
+      "plainText": "That was the true Light, which lighteth every man that cometh into the world."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "26055",
-      "text" : "He was in the world, and the world was made by him, and the world knew him not.",
-      "plainText" : "He was in the world, and the world was made by him, and the world knew him not."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "26055",
+      "text": "He was in the world, and the world was made by him, and the world knew him not.",
+      "plainText": "He was in the world, and the world was made by him, and the world knew him not."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "26056",
-      "text" : "He came unto his own, and his own received him not.",
-      "plainText" : "He came unto his own, and his own received him not."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "26056",
+      "text": "He came unto his own, and his own received him not.",
+      "plainText": "He came unto his own, and his own received him not."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "26057",
-      "text" : "But as many as received him, to them gave he power to become the sons of God, <span class='extra'>even<\/span> to them that believe on his name:",
-      "plainText" : "But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "26057",
+      "text": "But as many as received him, to them gave he power to become the sons of God, <span class='extra'>even</span> to them that believe on his name:",
+      "plainText": "But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "26058",
-      "text" : "Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
-      "plainText" : "Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "26058",
+      "text": "Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+      "plainText": "Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "26059",
-      "text" : "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
-      "plainText" : "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "26059",
+      "text": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
+      "plainText": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "26060",
-      "text" : "John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.",
-      "plainText" : "John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "26060",
+      "text": "John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.",
+      "plainText": "John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "26061",
-      "text" : "And of his fulness have all we received, and grace for grace.",
-      "plainText" : "And of his fulness have all we received, and grace for grace."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "26061",
+      "text": "And of his fulness have all we received, and grace for grace.",
+      "plainText": "And of his fulness have all we received, and grace for grace."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "26062",
-      "text" : "For the law was given by Moses, <span class='extra'>but<\/span> grace and truth came by Jesus Christ.",
-      "plainText" : "For the law was given by Moses, but grace and truth came by Jesus Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "26062",
+      "text": "For the law was given by Moses, <span class='extra'>but</span> grace and truth came by Jesus Christ.",
+      "plainText": "For the law was given by Moses, but grace and truth came by Jesus Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "26063",
-      "text" : "No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared <span class='extra'>him<\/span>.",
-      "plainText" : "No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "26063",
+      "text": "No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared <span class='extra'>him</span>.",
+      "plainText": "No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "26064",
-      "text" : "And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?",
-      "plainText" : "And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "26064",
+      "text": "And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?",
+      "plainText": "And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "26065",
-      "text" : "And he confessed, and denied not; but confessed, I am not the Christ.",
-      "plainText" : "And he confessed, and denied not; but confessed, I am not the Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "26065",
+      "text": "And he confessed, and denied not; but confessed, I am not the Christ.",
+      "plainText": "And he confessed, and denied not; but confessed, I am not the Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "26066",
-      "text" : "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.",
-      "plainText" : "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "26066",
+      "text": "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.",
+      "plainText": "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "26067",
-      "text" : "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?",
-      "plainText" : "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "26067",
+      "text": "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?",
+      "plainText": "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "26068",
-      "text" : "He said, I <span class='extra'>am<\/span> the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.",
-      "plainText" : "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "26068",
+      "text": "He said, I <span class='extra'>am</span> the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.",
+      "plainText": "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "26069",
-      "text" : "And they which were sent were of the Pharisees.",
-      "plainText" : "And they which were sent were of the Pharisees."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "26069",
+      "text": "And they which were sent were of the Pharisees.",
+      "plainText": "And they which were sent were of the Pharisees."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "26070",
-      "text" : "And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?",
-      "plainText" : "And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "26070",
+      "text": "And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?",
+      "plainText": "And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "26071",
-      "text" : "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;",
-      "plainText" : "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "26071",
+      "text": "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;",
+      "plainText": "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "26072",
-      "text" : "He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose.",
-      "plainText" : "He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "26072",
+      "text": "He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose.",
+      "plainText": "He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "26073",
-      "text" : "These things were done in Bethabara beyond Jordan, where John was baptizing.",
-      "plainText" : "These things were done in Bethabara beyond Jordan, where John was baptizing."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "26073",
+      "text": "These things were done in Bethabara beyond Jordan, where John was baptizing.",
+      "plainText": "These things were done in Bethabara beyond Jordan, where John was baptizing."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "26074",
-      "text" : "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
-      "plainText" : "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "26074",
+      "text": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
+      "plainText": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "26075",
-      "text" : "This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.",
-      "plainText" : "This is he of whom I said, After me cometh a man which is preferred before me: for he was before me."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "26075",
+      "text": "This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.",
+      "plainText": "This is he of whom I said, After me cometh a man which is preferred before me: for he was before me."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "26076",
-      "text" : "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.",
-      "plainText" : "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "26076",
+      "text": "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.",
+      "plainText": "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "26077",
-      "text" : "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.",
-      "plainText" : "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "26077",
+      "text": "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.",
+      "plainText": "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "26078",
-      "text" : "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.",
-      "plainText" : "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "26078",
+      "text": "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.",
+      "plainText": "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "26079",
-      "text" : "And I saw, and bare record that this is the Son of God.",
-      "plainText" : "And I saw, and bare record that this is the Son of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "26079",
+      "text": "And I saw, and bare record that this is the Son of God.",
+      "plainText": "And I saw, and bare record that this is the Son of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "26080",
-      "text" : "Again the next day after John stood, and two of his disciples;",
-      "plainText" : "Again the next day after John stood, and two of his disciples;"
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "26080",
+      "text": "Again the next day after John stood, and two of his disciples;",
+      "plainText": "Again the next day after John stood, and two of his disciples;"
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "26081",
-      "text" : "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!",
-      "plainText" : "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!"
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "26081",
+      "text": "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!",
+      "plainText": "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!"
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "26082",
-      "text" : "And the two disciples heard him speak, and they followed Jesus.",
-      "plainText" : "And the two disciples heard him speak, and they followed Jesus."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "26082",
+      "text": "And the two disciples heard him speak, and they followed Jesus.",
+      "plainText": "And the two disciples heard him speak, and they followed Jesus."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "26083",
-      "text" : "Then Jesus turned, and saw them following, and saith unto them, <span class='woc'>What seek ye?<\/span> They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?",
-      "plainText" : "Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?"
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "26083",
+      "text": "Then Jesus turned, and saw them following, and saith unto them, <span class='woc'>What seek ye?</span> They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?",
+      "plainText": "Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?"
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "26084",
-      "text" : "He saith unto them, <span class='woc'>Come and see.<\/span> They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.",
-      "plainText" : "He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "26084",
+      "text": "He saith unto them, <span class='woc'>Come and see.</span> They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.",
+      "plainText": "He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "26085",
-      "text" : "One of the two which heard John <span class='extra'>speak<\/span>, and followed him, was Andrew, Simon Peter's brother.",
-      "plainText" : "One of the two which heard John speak, and followed him, was Andrew, Simon Peter's brother."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "26085",
+      "text": "One of the two which heard John <span class='extra'>speak</span>, and followed him, was Andrew, Simon Peter's brother.",
+      "plainText": "One of the two which heard John speak, and followed him, was Andrew, Simon Peter's brother."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "26086",
-      "text" : "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.",
-      "plainText" : "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "26086",
+      "text": "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.",
+      "plainText": "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "26087",
-      "text" : "And he brought him to Jesus. And when Jesus beheld him, he said, <span class='woc'>Thou art Simon the son of Jona: thou shalt be called Cephas,<\/span> which is by interpretation, A stone.",
-      "plainText" : "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "26087",
+      "text": "And he brought him to Jesus. And when Jesus beheld him, he said, <span class='woc'>Thou art Simon the son of Jona: thou shalt be called Cephas,</span> which is by interpretation, A stone.",
+      "plainText": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "26088",
-      "text" : "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, <span class='woc'>Follow me.<\/span>",
-      "plainText" : "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "26088",
+      "text": "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, <span class='woc'>Follow me.</span>",
+      "plainText": "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "26089",
-      "text" : "Now Philip was of Bethsaida, the city of Andrew and Peter.",
-      "plainText" : "Now Philip was of Bethsaida, the city of Andrew and Peter."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "26089",
+      "text": "Now Philip was of Bethsaida, the city of Andrew and Peter.",
+      "plainText": "Now Philip was of Bethsaida, the city of Andrew and Peter."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "26090",
-      "text" : "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.",
-      "plainText" : "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph."
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "26090",
+      "text": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.",
+      "plainText": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph."
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "26091",
-      "text" : "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.",
-      "plainText" : "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see."
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "26091",
+      "text": "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.",
+      "plainText": "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see."
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "26092",
-      "text" : "Jesus saw Nathanael coming to him, and saith of him, <span class='woc'>Behold an Israelite indeed, in whom is no guile!<\/span>",
-      "plainText" : "Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!"
-    }
-    ,
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "26092",
+      "text": "Jesus saw Nathanael coming to him, and saith of him, <span class='woc'>Behold an Israelite indeed, in whom is no guile!</span>",
+      "plainText": "Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!"
+    },
     {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "26093",
-      "text" : "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, <span class='woc'>Before that Philip called thee, when thou wast under the fig tree, I saw thee.<\/span>",
-      "plainText" : "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "26093",
+      "text": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, <span class='woc'>Before that Philip called thee, when thou wast under the fig tree, I saw thee.</span>",
+      "plainText": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "26094",
-      "text" : "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.",
-      "plainText" : "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "26094",
+      "text": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.",
+      "plainText": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v50",
-      "number" : "50",
-      "absolute" : "26095",
-      "text" : "Jesus answered and said unto him, <span class='woc'>Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.<\/span>",
-      "plainText" : "Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these."
-    }
-    ,
+      "type": "verse",
+      "id": "v50",
+      "number": "50",
+      "absolute": "26095",
+      "text": "Jesus answered and said unto him, <span class='woc'>Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.</span>",
+      "plainText": "Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these."
+    },
     {
-      "type" : "verse",
-      "id" : "v51",
-      "number" : "51",
-      "absolute" : "26096",
-      "text" : "And he saith unto him, <span class='woc'>Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.<\/span>",
-      "plainText" : "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man."
+      "type": "verse",
+      "id": "v51",
+      "number": "51",
+      "absolute": "26096",
+      "text": "And he saith unto him, <span class='woc'>Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.</span>",
+      "plainText": "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man."
     }
   ]
 }
-

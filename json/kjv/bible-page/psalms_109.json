@@ -1,316 +1,283 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "109",
-    "verseCount" : "31",
-    "nextChapter" : "psalms_110.html",
-    "nextTitle" : "Psalms 110",
-    "prevChapter" : "psalms_108.html",
-    "prevTitle" : "Psalms 108",
-    "filename" : "psalms_109.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "109",
+    "verseCount": "31",
+    "nextChapter": "psalms_110.html",
+    "nextTitle": "Psalms 110",
+    "prevChapter": "psalms_108.html",
+    "prevTitle": "Psalms 108",
+    "filename": "psalms_109.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "To the chief Musician, A Psalm of David.",
-      "plainText" : "To the chief Musician, A Psalm of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "To the chief Musician, A Psalm of David.",
+      "plainText": "To the chief Musician, A Psalm of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "15757",
-      "text" : "Hold not thy peace, O God of my praise;",
-      "plainText" : "Hold not thy peace, O God of my praise;"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "15757",
+      "text": "Hold not thy peace, O God of my praise;",
+      "plainText": "Hold not thy peace, O God of my praise;"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "15758",
-      "text" : "For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue.",
-      "plainText" : "For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "15758",
+      "text": "For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue.",
+      "plainText": "For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "15759",
-      "text" : "They compassed me about also with words of hatred; and fought against me without a cause.",
-      "plainText" : "They compassed me about also with words of hatred; and fought against me without a cause."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "15759",
+      "text": "They compassed me about also with words of hatred; and fought against me without a cause.",
+      "plainText": "They compassed me about also with words of hatred; and fought against me without a cause."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "15760",
-      "text" : "For my love they are my adversaries: but I <span class='extra'>give myself unto<\/span> prayer.",
-      "plainText" : "For my love they are my adversaries: but I give myself unto prayer."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "15760",
+      "text": "For my love they are my adversaries: but I <span class='extra'>give myself unto</span> prayer.",
+      "plainText": "For my love they are my adversaries: but I give myself unto prayer."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "15761",
-      "text" : "And they have rewarded me evil for good, and hatred for my love.",
-      "plainText" : "And they have rewarded me evil for good, and hatred for my love."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "15761",
+      "text": "And they have rewarded me evil for good, and hatred for my love.",
+      "plainText": "And they have rewarded me evil for good, and hatred for my love."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "15762",
-      "text" : "Set thou a wicked man over him: and let Satan stand at his right hand.",
-      "plainText" : "Set thou a wicked man over him: and let Satan stand at his right hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "15762",
+      "text": "Set thou a wicked man over him: and let Satan stand at his right hand.",
+      "plainText": "Set thou a wicked man over him: and let Satan stand at his right hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "15763",
-      "text" : "When he shall be judged, let him be condemned: and let his prayer become sin.",
-      "plainText" : "When he shall be judged, let him be condemned: and let his prayer become sin."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "15763",
+      "text": "When he shall be judged, let him be condemned: and let his prayer become sin.",
+      "plainText": "When he shall be judged, let him be condemned: and let his prayer become sin."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "15764",
-      "text" : "Let his days be few; <span class='extra'>and<\/span> let another take his office.",
-      "plainText" : "Let his days be few; and let another take his office."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "15764",
+      "text": "Let his days be few; <span class='extra'>and</span> let another take his office.",
+      "plainText": "Let his days be few; and let another take his office."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "15765",
-      "text" : "Let his children be fatherless, and his wife a widow.",
-      "plainText" : "Let his children be fatherless, and his wife a widow."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "15765",
+      "text": "Let his children be fatherless, and his wife a widow.",
+      "plainText": "Let his children be fatherless, and his wife a widow."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "15766",
-      "text" : "Let his children be continually vagabonds, and beg: let them seek <span class='extra'>their bread<\/span> also out of their desolate places.",
-      "plainText" : "Let his children be continually vagabonds, and beg: let them seek their bread also out of their desolate places."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "15766",
+      "text": "Let his children be continually vagabonds, and beg: let them seek <span class='extra'>their bread</span> also out of their desolate places.",
+      "plainText": "Let his children be continually vagabonds, and beg: let them seek their bread also out of their desolate places."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "15767",
-      "text" : "Let the extortioner catch all that he hath; and let the strangers spoil his labour.",
-      "plainText" : "Let the extortioner catch all that he hath; and let the strangers spoil his labour."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "15767",
+      "text": "Let the extortioner catch all that he hath; and let the strangers spoil his labour.",
+      "plainText": "Let the extortioner catch all that he hath; and let the strangers spoil his labour."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "15768",
-      "text" : "Let there be none to extend mercy unto him: neither let there be any to favour his fatherless children.",
-      "plainText" : "Let there be none to extend mercy unto him: neither let there be any to favour his fatherless children."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "15768",
+      "text": "Let there be none to extend mercy unto him: neither let there be any to favour his fatherless children.",
+      "plainText": "Let there be none to extend mercy unto him: neither let there be any to favour his fatherless children."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "15769",
-      "text" : "Let his posterity be cut off; <span class='extra'>and<\/span> in the generation following let their name be blotted out.",
-      "plainText" : "Let his posterity be cut off; and in the generation following let their name be blotted out."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "15769",
+      "text": "Let his posterity be cut off; <span class='extra'>and</span> in the generation following let their name be blotted out.",
+      "plainText": "Let his posterity be cut off; and in the generation following let their name be blotted out."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "15770",
-      "text" : "Let the iniquity of his fathers be remembered with the <span class='nog'>LORD<\/span>; and let not the sin of his mother be blotted out.",
-      "plainText" : "Let the iniquity of his fathers be remembered with the LORD; and let not the sin of his mother be blotted out."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "15770",
+      "text": "Let the iniquity of his fathers be remembered with the <span class='nog'>LORD</span>; and let not the sin of his mother be blotted out.",
+      "plainText": "Let the iniquity of his fathers be remembered with the LORD; and let not the sin of his mother be blotted out."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "15771",
-      "text" : "Let them be before the <span class='nog'>LORD<\/span> continually, that he may cut off the memory of them from the earth.",
-      "plainText" : "Let them be before the LORD continually, that he may cut off the memory of them from the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "15771",
+      "text": "Let them be before the <span class='nog'>LORD</span> continually, that he may cut off the memory of them from the earth.",
+      "plainText": "Let them be before the LORD continually, that he may cut off the memory of them from the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "15772",
-      "text" : "Because that he remembered not to shew mercy, but persecuted the poor and needy man, that he might even slay the broken in heart.",
-      "plainText" : "Because that he remembered not to shew mercy, but persecuted the poor and needy man, that he might even slay the broken in heart."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "15772",
+      "text": "Because that he remembered not to shew mercy, but persecuted the poor and needy man, that he might even slay the broken in heart.",
+      "plainText": "Because that he remembered not to shew mercy, but persecuted the poor and needy man, that he might even slay the broken in heart."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "15773",
-      "text" : "As he loved cursing, so let it come unto him: as he delighted not in blessing, so let it be far from him.",
-      "plainText" : "As he loved cursing, so let it come unto him: as he delighted not in blessing, so let it be far from him."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "15773",
+      "text": "As he loved cursing, so let it come unto him: as he delighted not in blessing, so let it be far from him.",
+      "plainText": "As he loved cursing, so let it come unto him: as he delighted not in blessing, so let it be far from him."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "15774",
-      "text" : "As he clothed himself with cursing like as with his garment, so let it come into his bowels like water, and like oil into his bones.",
-      "plainText" : "As he clothed himself with cursing like as with his garment, so let it come into his bowels like water, and like oil into his bones."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "15774",
+      "text": "As he clothed himself with cursing like as with his garment, so let it come into his bowels like water, and like oil into his bones.",
+      "plainText": "As he clothed himself with cursing like as with his garment, so let it come into his bowels like water, and like oil into his bones."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "15775",
-      "text" : "Let it be unto him as the garment <span class='extra'>which<\/span> covereth him, and for a girdle wherewith he is girded continually.",
-      "plainText" : "Let it be unto him as the garment which covereth him, and for a girdle wherewith he is girded continually."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "15775",
+      "text": "Let it be unto him as the garment <span class='extra'>which</span> covereth him, and for a girdle wherewith he is girded continually.",
+      "plainText": "Let it be unto him as the garment which covereth him, and for a girdle wherewith he is girded continually."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "15776",
-      "text" : "<span class='extra'>Let<\/span> this <span class='extra'>be<\/span> the reward of mine adversaries from the <span class='nog'>LORD<\/span>, and of them that speak evil against my soul.",
-      "plainText" : "Let this be the reward of mine adversaries from the LORD, and of them that speak evil against my soul."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "15776",
+      "text": "<span class='extra'>Let</span> this <span class='extra'>be</span> the reward of mine adversaries from the <span class='nog'>LORD</span>, and of them that speak evil against my soul.",
+      "plainText": "Let this be the reward of mine adversaries from the LORD, and of them that speak evil against my soul."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "15777",
-      "text" : "But do thou for me, O <span class='nog'>GOD<\/span> the Lord, for thy name's sake: because thy mercy <span class='extra'>is<\/span> good, deliver thou me.",
-      "plainText" : "But do thou for me, O GOD the Lord, for thy name's sake: because thy mercy is good, deliver thou me."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "15777",
+      "text": "But do thou for me, O <span class='nog'>GOD</span> the Lord, for thy name's sake: because thy mercy <span class='extra'>is</span> good, deliver thou me.",
+      "plainText": "But do thou for me, O GOD the Lord, for thy name's sake: because thy mercy is good, deliver thou me."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "15778",
-      "text" : "For I <span class='extra'>am<\/span> poor and needy, and my heart is wounded within me.",
-      "plainText" : "For I am poor and needy, and my heart is wounded within me."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "15778",
+      "text": "For I <span class='extra'>am</span> poor and needy, and my heart is wounded within me.",
+      "plainText": "For I am poor and needy, and my heart is wounded within me."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "15779",
-      "text" : "I am gone like the shadow when it declineth: I am tossed up and down as the locust.",
-      "plainText" : "I am gone like the shadow when it declineth: I am tossed up and down as the locust."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "15779",
+      "text": "I am gone like the shadow when it declineth: I am tossed up and down as the locust.",
+      "plainText": "I am gone like the shadow when it declineth: I am tossed up and down as the locust."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "15780",
-      "text" : "My knees are weak through fasting; and my flesh faileth of fatness.",
-      "plainText" : "My knees are weak through fasting; and my flesh faileth of fatness."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "15780",
+      "text": "My knees are weak through fasting; and my flesh faileth of fatness.",
+      "plainText": "My knees are weak through fasting; and my flesh faileth of fatness."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "15781",
-      "text" : "I became also a reproach unto them: <span class='extra'>when<\/span> they looked upon me they shaked their heads.",
-      "plainText" : "I became also a reproach unto them: when they looked upon me they shaked their heads."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "15781",
+      "text": "I became also a reproach unto them: <span class='extra'>when</span> they looked upon me they shaked their heads.",
+      "plainText": "I became also a reproach unto them: when they looked upon me they shaked their heads."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "15782",
-      "text" : "Help me, O <span class='nog'>LORD<\/span> my God: O save me according to thy mercy:",
-      "plainText" : "Help me, O LORD my God: O save me according to thy mercy:"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "15782",
+      "text": "Help me, O <span class='nog'>LORD</span> my God: O save me according to thy mercy:",
+      "plainText": "Help me, O LORD my God: O save me according to thy mercy:"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "15783",
-      "text" : "That they may know that this <span class='extra'>is<\/span> thy hand; <span class='extra'>that<\/span> thou, <span class='nog'>LORD<\/span>, hast done it.",
-      "plainText" : "That they may know that this is thy hand; that thou, LORD, hast done it."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "15783",
+      "text": "That they may know that this <span class='extra'>is</span> thy hand; <span class='extra'>that</span> thou, <span class='nog'>LORD</span>, hast done it.",
+      "plainText": "That they may know that this is thy hand; that thou, LORD, hast done it."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "15784",
-      "text" : "Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice.",
-      "plainText" : "Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "15784",
+      "text": "Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice.",
+      "plainText": "Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "15785",
-      "text" : "Let mine adversaries be clothed with shame, and let them cover themselves with their own confusion, as with a mantle.",
-      "plainText" : "Let mine adversaries be clothed with shame, and let them cover themselves with their own confusion, as with a mantle."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "15785",
+      "text": "Let mine adversaries be clothed with shame, and let them cover themselves with their own confusion, as with a mantle.",
+      "plainText": "Let mine adversaries be clothed with shame, and let them cover themselves with their own confusion, as with a mantle."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "15786",
-      "text" : "I will greatly praise the <span class='nog'>LORD<\/span> with my mouth; yea, I will praise him among the multitude.",
-      "plainText" : "I will greatly praise the LORD with my mouth; yea, I will praise him among the multitude."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "15786",
+      "text": "I will greatly praise the <span class='nog'>LORD</span> with my mouth; yea, I will praise him among the multitude.",
+      "plainText": "I will greatly praise the LORD with my mouth; yea, I will praise him among the multitude."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "15787",
-      "text" : "For he shall stand at the right hand of the poor, to save <span class='extra'>him<\/span> from those that condemn his soul.",
-      "plainText" : "For he shall stand at the right hand of the poor, to save him from those that condemn his soul."
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "15787",
+      "text": "For he shall stand at the right hand of the poor, to save <span class='extra'>him</span> from those that condemn his soul.",
+      "plainText": "For he shall stand at the right hand of the poor, to save him from those that condemn his soul."
     }
   ]
 }
-
-
-

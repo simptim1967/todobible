@@ -1,496 +1,445 @@
 {
   "book": {
-    "number" : "41",
-    "filenamePrefix" : "mark",
-    "bookPage" : "mark.html",
-    "title" : "Mark",
-    "chapterCount" : "16",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "luke_1.html",
-    "nextTitle" : "Luke",
-    "prevBook" : "matthew_1.html",
-    "prevTitle" : "Matthew"
+    "number": "41",
+    "filenamePrefix": "mark",
+    "bookPage": "mark.html",
+    "title": "Mark",
+    "chapterCount": "16",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "luke_1.html",
+    "nextTitle": "Luke",
+    "prevBook": "matthew_1.html",
+    "prevTitle": "Matthew",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "10",
-    "verseCount" : "52",
-    "nextChapter" : "mark_11.html",
-    "nextTitle" : "Mark 11",
-    "prevChapter" : "mark_9.html",
-    "prevTitle" : "Mark 9",
-    "filename" : "mark_10.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "10",
+    "verseCount": "52",
+    "nextChapter": "mark_11.html",
+    "nextTitle": "Mark 11",
+    "prevChapter": "mark_9.html",
+    "prevTitle": "Mark 9",
+    "filename": "mark_10.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "24590",
-      "text" : "And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.",
-      "plainText" : "And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "24590",
+      "text": "And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.",
+      "plainText": "And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "24591",
-      "text" : "And the Pharisees came to him, and asked him, Is it lawful for a man to put away <span class='extra'>his<\/span> wife? tempting him.",
-      "plainText" : "And the Pharisees came to him, and asked him, Is it lawful for a man to put away his wife? tempting him."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "24591",
+      "text": "And the Pharisees came to him, and asked him, Is it lawful for a man to put away <span class='extra'>his</span> wife? tempting him.",
+      "plainText": "And the Pharisees came to him, and asked him, Is it lawful for a man to put away his wife? tempting him."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "24592",
-      "text" : "And he answered and said unto them, <span class='woc'>What did Moses command you?<\/span>",
-      "plainText" : "And he answered and said unto them, What did Moses command you?"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "24592",
+      "text": "And he answered and said unto them, <span class='woc'>What did Moses command you?</span>",
+      "plainText": "And he answered and said unto them, What did Moses command you?"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "24593",
-      "text" : "And they said, Moses suffered to write a bill of divorcement, and to put <span class='extra'>her<\/span> away.",
-      "plainText" : "And they said, Moses suffered to write a bill of divorcement, and to put her away."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "24593",
+      "text": "And they said, Moses suffered to write a bill of divorcement, and to put <span class='extra'>her</span> away.",
+      "plainText": "And they said, Moses suffered to write a bill of divorcement, and to put her away."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "24594",
-      "text" : "And Jesus answered and said unto them, <span class='woc'>For the hardness of your heart he wrote you this precept.<\/span>",
-      "plainText" : "And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "24594",
+      "text": "And Jesus answered and said unto them, <span class='woc'>For the hardness of your heart he wrote you this precept.</span>",
+      "plainText": "And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "24595",
-      "text" : "<span class='woc'>But from the beginning of the creation God made them male and female.<\/span>",
-      "plainText" : "But from the beginning of the creation God made them male and female."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "24595",
+      "text": "<span class='woc'>But from the beginning of the creation God made them male and female.</span>",
+      "plainText": "But from the beginning of the creation God made them male and female."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "24596",
-      "text" : "<span class='woc'>For this cause shall a man leave his father and mother, and cleave to his wife;<\/span>",
-      "plainText" : "For this cause shall a man leave his father and mother, and cleave to his wife;"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "24596",
+      "text": "<span class='woc'>For this cause shall a man leave his father and mother, and cleave to his wife;</span>",
+      "plainText": "For this cause shall a man leave his father and mother, and cleave to his wife;"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "24597",
-      "text" : "<span class='woc'>And they twain shall be one flesh: so then they are no more twain, but one flesh.<\/span>",
-      "plainText" : "And they twain shall be one flesh: so then they are no more twain, but one flesh."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "24597",
+      "text": "<span class='woc'>And they twain shall be one flesh: so then they are no more twain, but one flesh.</span>",
+      "plainText": "And they twain shall be one flesh: so then they are no more twain, but one flesh."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "24598",
-      "text" : "<span class='woc'>What therefore God hath joined together, let not man put asunder.<\/span>",
-      "plainText" : "What therefore God hath joined together, let not man put asunder."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "24598",
+      "text": "<span class='woc'>What therefore God hath joined together, let not man put asunder.</span>",
+      "plainText": "What therefore God hath joined together, let not man put asunder."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "24599",
-      "text" : "And in the house his disciples asked him again of the same <span class='extra'>matter<\/span>.",
-      "plainText" : "And in the house his disciples asked him again of the same matter."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "24599",
+      "text": "And in the house his disciples asked him again of the same <span class='extra'>matter</span>.",
+      "plainText": "And in the house his disciples asked him again of the same matter."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "24600",
-      "text" : "And he saith unto them, <span class='woc'>Whosoever shall put away his wife, and marry another, committeth adultery against her.<\/span>",
-      "plainText" : "And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "24600",
+      "text": "And he saith unto them, <span class='woc'>Whosoever shall put away his wife, and marry another, committeth adultery against her.</span>",
+      "plainText": "And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "24601",
-      "text" : "<span class='woc'>And if a woman shall put away her husband, and be married to another, she committeth adultery.<\/span>",
-      "plainText" : "And if a woman shall put away her husband, and be married to another, she committeth adultery."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "24601",
+      "text": "<span class='woc'>And if a woman shall put away her husband, and be married to another, she committeth adultery.</span>",
+      "plainText": "And if a woman shall put away her husband, and be married to another, she committeth adultery."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "24602",
-      "text" : "And they brought young children to him, that he should touch them: and <span class='extra'>his<\/span> disciples rebuked those that brought <span class='extra'>them<\/span>.",
-      "plainText" : "And they brought young children to him, that he should touch them: and his disciples rebuked those that brought them."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "24602",
+      "text": "And they brought young children to him, that he should touch them: and <span class='extra'>his</span> disciples rebuked those that brought <span class='extra'>them</span>.",
+      "plainText": "And they brought young children to him, that he should touch them: and his disciples rebuked those that brought them."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "24603",
-      "text" : "But when Jesus saw <span class='extra'>it<\/span>, he was much displeased, and said unto them, <span class='woc'>Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.<\/span>",
-      "plainText" : "But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "24603",
+      "text": "But when Jesus saw <span class='extra'>it</span>, he was much displeased, and said unto them, <span class='woc'>Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.</span>",
+      "plainText": "But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "24604",
-      "text" : "<span class='woc'>Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein.<\/span>",
-      "plainText" : "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "24604",
+      "text": "<span class='woc'>Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein.</span>",
+      "plainText": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "24605",
-      "text" : "And he took them up in his arms, put <span class='extra'>his<\/span> hands upon them, and blessed them.",
-      "plainText" : "And he took them up in his arms, put his hands upon them, and blessed them."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "24605",
+      "text": "And he took them up in his arms, put <span class='extra'>his</span> hands upon them, and blessed them.",
+      "plainText": "And he took them up in his arms, put his hands upon them, and blessed them."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "24606",
-      "text" : "And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?",
-      "plainText" : "And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "24606",
+      "text": "And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?",
+      "plainText": "And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "24607",
-      "text" : "And Jesus said unto him, <span class='woc'>Why callest thou me good? <span class='extra'>there is<\/span> none good but one, <span class='extra'>that is<\/span>, God.<\/span>",
-      "plainText" : "And Jesus said unto him, Why callest thou me good? there is none good but one, that is, God."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "24607",
+      "text": "And Jesus said unto him, <span class='woc'>Why callest thou me good? <span class='extra'>there is</span> none good but one, <span class='extra'>that is</span>, God.</span>",
+      "plainText": "And Jesus said unto him, Why callest thou me good? there is none good but one, that is, God."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "24608",
-      "text" : "<span class='woc'>Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother.<\/span>",
-      "plainText" : "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "24608",
+      "text": "<span class='woc'>Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother.</span>",
+      "plainText": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "24609",
-      "text" : "And he answered and said unto him, Master, all these have I observed from my youth.",
-      "plainText" : "And he answered and said unto him, Master, all these have I observed from my youth."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "24609",
+      "text": "And he answered and said unto him, Master, all these have I observed from my youth.",
+      "plainText": "And he answered and said unto him, Master, all these have I observed from my youth."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "24610",
-      "text" : "Then Jesus beholding him loved him, and said unto him, <span class='woc'>One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me.<\/span>",
-      "plainText" : "Then Jesus beholding him loved him, and said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "24610",
+      "text": "Then Jesus beholding him loved him, and said unto him, <span class='woc'>One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me.</span>",
+      "plainText": "Then Jesus beholding him loved him, and said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "24611",
-      "text" : "And he was sad at that saying, and went away grieved: for he had great possessions.",
-      "plainText" : "And he was sad at that saying, and went away grieved: for he had great possessions."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "24611",
+      "text": "And he was sad at that saying, and went away grieved: for he had great possessions.",
+      "plainText": "And he was sad at that saying, and went away grieved: for he had great possessions."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "24612",
-      "text" : "And Jesus looked round about, and saith unto his disciples, <span class='woc'>How hardly shall they that have riches enter into the kingdom of God!<\/span>",
-      "plainText" : "And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God!"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "24612",
+      "text": "And Jesus looked round about, and saith unto his disciples, <span class='woc'>How hardly shall they that have riches enter into the kingdom of God!</span>",
+      "plainText": "And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God!"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "24613",
-      "text" : "And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, <span class='woc'>Children, how hard is it for them that trust in riches to enter into the kingdom of God!<\/span>",
-      "plainText" : "And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, how hard is it for them that trust in riches to enter into the kingdom of God!"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "24613",
+      "text": "And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, <span class='woc'>Children, how hard is it for them that trust in riches to enter into the kingdom of God!</span>",
+      "plainText": "And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, how hard is it for them that trust in riches to enter into the kingdom of God!"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "24614",
-      "text" : "<span class='woc'>It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.<\/span>",
-      "plainText" : "It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "24614",
+      "text": "<span class='woc'>It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.</span>",
+      "plainText": "It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "24615",
-      "text" : "And they were astonished out of measure, saying among themselves, Who then can be saved?",
-      "plainText" : "And they were astonished out of measure, saying among themselves, Who then can be saved?"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "24615",
+      "text": "And they were astonished out of measure, saying among themselves, Who then can be saved?",
+      "plainText": "And they were astonished out of measure, saying among themselves, Who then can be saved?"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "24616",
-      "text" : "And Jesus looking upon them saith, <span class='woc'>With men <span class='extra'>it is<\/span> impossible, but not with God: for with God all things are possible.<\/span>",
-      "plainText" : "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "24616",
+      "text": "And Jesus looking upon them saith, <span class='woc'>With men <span class='extra'>it is</span> impossible, but not with God: for with God all things are possible.</span>",
+      "plainText": "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "24617",
-      "text" : "Then Peter began to say unto him, Lo, we have left all, and have followed thee.",
-      "plainText" : "Then Peter began to say unto him, Lo, we have left all, and have followed thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "24617",
+      "text": "Then Peter began to say unto him, Lo, we have left all, and have followed thee.",
+      "plainText": "Then Peter began to say unto him, Lo, we have left all, and have followed thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "24618",
-      "text" : "And Jesus answered and said, <span class='woc'>Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel's,<\/span>",
-      "plainText" : "And Jesus answered and said, Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel's,"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "24618",
+      "text": "And Jesus answered and said, <span class='woc'>Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel's,</span>",
+      "plainText": "And Jesus answered and said, Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel's,"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "24619",
-      "text" : "<span class='woc'>But he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life.<\/span>",
-      "plainText" : "But he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "24619",
+      "text": "<span class='woc'>But he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life.</span>",
+      "plainText": "But he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "24620",
-      "text" : "<span class='woc'>But many <span class='extra'>that are<\/span> first shall be last; and the last first.<\/span>",
-      "plainText" : "But many that are first shall be last; and the last first."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "24620",
+      "text": "<span class='woc'>But many <span class='extra'>that are</span> first shall be last; and the last first.</span>",
+      "plainText": "But many that are first shall be last; and the last first."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "24621",
-      "text" : "And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,",
-      "plainText" : "And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "24621",
+      "text": "And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,",
+      "plainText": "And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "24622",
-      "text" : "<span class='extra'>Saying<\/span>, <span class='woc'>Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:<\/span>",
-      "plainText" : "Saying, Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:"
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "24622",
+      "text": "<span class='extra'>Saying</span>, <span class='woc'>Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:</span>",
+      "plainText": "Saying, Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:"
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "24623",
-      "text" : "<span class='woc'>And they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him: and the third day he shall rise again.<\/span>",
-      "plainText" : "And they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him: and the third day he shall rise again."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "24623",
+      "text": "<span class='woc'>And they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him: and the third day he shall rise again.</span>",
+      "plainText": "And they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him: and the third day he shall rise again."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "24624",
-      "text" : "And James and John, the sons of Zebedee, come unto him, saying, Master, we would that thou shouldest do for us whatsoever we shall desire.",
-      "plainText" : "And James and John, the sons of Zebedee, come unto him, saying, Master, we would that thou shouldest do for us whatsoever we shall desire."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "24624",
+      "text": "And James and John, the sons of Zebedee, come unto him, saying, Master, we would that thou shouldest do for us whatsoever we shall desire.",
+      "plainText": "And James and John, the sons of Zebedee, come unto him, saying, Master, we would that thou shouldest do for us whatsoever we shall desire."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "24625",
-      "text" : "And he said unto them, <span class='woc'>What would ye that I should do for you?<\/span>",
-      "plainText" : "And he said unto them, What would ye that I should do for you?"
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "24625",
+      "text": "And he said unto them, <span class='woc'>What would ye that I should do for you?</span>",
+      "plainText": "And he said unto them, What would ye that I should do for you?"
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "24626",
-      "text" : "They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory.",
-      "plainText" : "They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "24626",
+      "text": "They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory.",
+      "plainText": "They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "24627",
-      "text" : "But Jesus said unto them, <span class='woc'>Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?<\/span>",
-      "plainText" : "But Jesus said unto them, Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?"
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "24627",
+      "text": "But Jesus said unto them, <span class='woc'>Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?</span>",
+      "plainText": "But Jesus said unto them, Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?"
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "24628",
-      "text" : "And they said unto him, We can. And Jesus said unto them, <span class='woc'>Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:<\/span>",
-      "plainText" : "And they said unto him, We can. And Jesus said unto them, Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:"
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "24628",
+      "text": "And they said unto him, We can. And Jesus said unto them, <span class='woc'>Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:</span>",
+      "plainText": "And they said unto him, We can. And Jesus said unto them, Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:"
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "24629",
-      "text" : "<span class='woc'>But to sit on my right hand and on my left hand is not mine to give; but <span class='extra'>it shall be given to them<\/span> for whom it is prepared.<\/span>",
-      "plainText" : "But to sit on my right hand and on my left hand is not mine to give; but it shall be given to them for whom it is prepared."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "24629",
+      "text": "<span class='woc'>But to sit on my right hand and on my left hand is not mine to give; but <span class='extra'>it shall be given to them</span> for whom it is prepared.</span>",
+      "plainText": "But to sit on my right hand and on my left hand is not mine to give; but it shall be given to them for whom it is prepared."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "24630",
-      "text" : "And when the ten heard <span class='extra'>it<\/span>, they began to be much displeased with James and John.",
-      "plainText" : "And when the ten heard it, they began to be much displeased with James and John."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "24630",
+      "text": "And when the ten heard <span class='extra'>it</span>, they began to be much displeased with James and John.",
+      "plainText": "And when the ten heard it, they began to be much displeased with James and John."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "24631",
-      "text" : "But Jesus called them <span class='extra'>to him<\/span>, and saith unto them, <span class='woc'>Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them.<\/span>",
-      "plainText" : "But Jesus called them to him, and saith unto them, Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them."
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "24631",
+      "text": "But Jesus called them <span class='extra'>to him</span>, and saith unto them, <span class='woc'>Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them.</span>",
+      "plainText": "But Jesus called them to him, and saith unto them, Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them."
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "24632",
-      "text" : "<span class='woc'>But so shall it not be among you: but whosoever will be great among you, shall be your minister:<\/span>",
-      "plainText" : "But so shall it not be among you: but whosoever will be great among you, shall be your minister:"
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "24632",
+      "text": "<span class='woc'>But so shall it not be among you: but whosoever will be great among you, shall be your minister:</span>",
+      "plainText": "But so shall it not be among you: but whosoever will be great among you, shall be your minister:"
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "24633",
-      "text" : "<span class='woc'>And whosoever of you will be the chiefest, shall be servant of all.<\/span>",
-      "plainText" : "And whosoever of you will be the chiefest, shall be servant of all."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "24633",
+      "text": "<span class='woc'>And whosoever of you will be the chiefest, shall be servant of all.</span>",
+      "plainText": "And whosoever of you will be the chiefest, shall be servant of all."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "24634",
-      "text" : "<span class='woc'>For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.<\/span>",
-      "plainText" : "For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many."
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "24634",
+      "text": "<span class='woc'>For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.</span>",
+      "plainText": "For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many."
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "24635",
-      "text" : "And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging.",
-      "plainText" : "And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging."
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "24635",
+      "text": "And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging.",
+      "plainText": "And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging."
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "24636",
-      "text" : "And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, <span class='extra'>thou<\/span> Son of David, have mercy on me.",
-      "plainText" : "And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, thou Son of David, have mercy on me."
-    }
-    ,
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "24636",
+      "text": "And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, <span class='extra'>thou</span> Son of David, have mercy on me.",
+      "plainText": "And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, thou Son of David, have mercy on me."
+    },
     {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "24637",
-      "text" : "And many charged him that he should hold his peace: but he cried the more a great deal, <span class='extra'>Thou<\/span> Son of David, have mercy on me.",
-      "plainText" : "And many charged him that he should hold his peace: but he cried the more a great deal, Thou Son of David, have mercy on me."
-    }
-    ,
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "24637",
+      "text": "And many charged him that he should hold his peace: but he cried the more a great deal, <span class='extra'>Thou</span> Son of David, have mercy on me.",
+      "plainText": "And many charged him that he should hold his peace: but he cried the more a great deal, Thou Son of David, have mercy on me."
+    },
     {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "24638",
-      "text" : "And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee.",
-      "plainText" : "And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "24638",
+      "text": "And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee.",
+      "plainText": "And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v50",
-      "number" : "50",
-      "absolute" : "24639",
-      "text" : "And he, casting away his garment, rose, and came to Jesus.",
-      "plainText" : "And he, casting away his garment, rose, and came to Jesus."
-    }
-    ,
+      "type": "verse",
+      "id": "v50",
+      "number": "50",
+      "absolute": "24639",
+      "text": "And he, casting away his garment, rose, and came to Jesus.",
+      "plainText": "And he, casting away his garment, rose, and came to Jesus."
+    },
     {
-      "type" : "verse",
-      "id" : "v51",
-      "number" : "51",
-      "absolute" : "24640",
-      "text" : "And Jesus answered and said unto him, <span class='woc'>What wilt thou that I should do unto thee?<\/span> The blind man said unto him, Lord, that I might receive my sight.",
-      "plainText" : "And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight."
-    }
-    ,
+      "type": "verse",
+      "id": "v51",
+      "number": "51",
+      "absolute": "24640",
+      "text": "And Jesus answered and said unto him, <span class='woc'>What wilt thou that I should do unto thee?</span> The blind man said unto him, Lord, that I might receive my sight.",
+      "plainText": "And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight."
+    },
     {
-      "type" : "verse",
-      "id" : "v52",
-      "number" : "52",
-      "absolute" : "24641",
-      "text" : "And Jesus said unto him, <span class='woc'>Go thy way; thy faith hath made thee whole.<\/span> And immediately he received his sight, and followed Jesus in the way.",
-      "plainText" : "And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way."
+      "type": "verse",
+      "id": "v52",
+      "number": "52",
+      "absolute": "24641",
+      "text": "And Jesus said unto him, <span class='woc'>Go thy way; thy faith hath made thee whole.</span> And immediately he received his sight, and followed Jesus in the way.",
+      "plainText": "And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way."
     }
   ]
 }
-

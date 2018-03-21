@@ -1,308 +1,277 @@
 {
   "book": {
-    "number" : "2",
-    "filenamePrefix" : "exodus",
-    "bookPage" : "exodus.html",
-    "title" : "Exodus",
-    "chapterCount" : "40",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "leviticus_1.html",
-    "nextTitle" : "Leviticus",
-    "prevBook" : "genesis_1.html",
-    "prevTitle" : "Genesis"
+    "number": "2",
+    "filenamePrefix": "exodus",
+    "bookPage": "exodus.html",
+    "title": "Exodus",
+    "chapterCount": "40",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "leviticus_1.html",
+    "nextTitle": "Leviticus",
+    "prevBook": "genesis_1.html",
+    "prevTitle": "Genesis",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "4",
-    "verseCount" : "31",
-    "nextChapter" : "exodus_5.html",
-    "nextTitle" : "Exodus 5",
-    "prevChapter" : "exodus_3.html",
-    "prevTitle" : "Exodus 3",
-    "filename" : "exodus_4.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "4",
+    "verseCount": "31",
+    "nextChapter": "exodus_5.html",
+    "nextTitle": "Exodus 5",
+    "prevChapter": "exodus_3.html",
+    "prevTitle": "Exodus 3",
+    "filename": "exodus_4.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "1603",
-      "text" : "And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The <span class='nog'>LORD<\/span> hath not appeared unto thee.",
-      "plainText" : "And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "1603",
+      "text": "And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The <span class='nog'>LORD</span> hath not appeared unto thee.",
+      "plainText": "And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "1604",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto him, What <span class='extra'>is<\/span> that in thine hand? And he said, A rod.",
-      "plainText" : "And the LORD said unto him, What is that in thine hand? And he said, A rod."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "1604",
+      "text": "And the <span class='nog'>LORD</span> said unto him, What <span class='extra'>is</span> that in thine hand? And he said, A rod.",
+      "plainText": "And the LORD said unto him, What is that in thine hand? And he said, A rod."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "1605",
-      "text" : "And he said, Cast it on the ground. And he cast it on the ground, and it became a serpent; and Moses fled from before it.",
-      "plainText" : "And he said, Cast it on the ground. And he cast it on the ground, and it became a serpent; and Moses fled from before it."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "1605",
+      "text": "And he said, Cast it on the ground. And he cast it on the ground, and it became a serpent; and Moses fled from before it.",
+      "plainText": "And he said, Cast it on the ground. And he cast it on the ground, and it became a serpent; and Moses fled from before it."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "1606",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:",
-      "plainText" : "And the LORD said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "1606",
+      "text": "And the <span class='nog'>LORD</span> said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:",
+      "plainText": "And the LORD said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "1607",
-      "text" : "That they may believe that the <span class='nog'>LORD<\/span> God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee.",
-      "plainText" : "That they may believe that the LORD God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "1607",
+      "text": "That they may believe that the <span class='nog'>LORD</span> God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee.",
+      "plainText": "That they may believe that the LORD God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "1608",
-      "text" : "And the <span class='nog'>LORD<\/span> said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand <span class='extra'>was<\/span> leprous as snow.",
-      "plainText" : "And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand was leprous as snow."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "1608",
+      "text": "And the <span class='nog'>LORD</span> said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand <span class='extra'>was</span> leprous as snow.",
+      "plainText": "And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand was leprous as snow."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "1609",
-      "text" : "And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his <span class='extra'>other<\/span> flesh.",
-      "plainText" : "And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his other flesh."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "1609",
+      "text": "And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his <span class='extra'>other</span> flesh.",
+      "plainText": "And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his other flesh."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "1610",
-      "text" : "And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign.",
-      "plainText" : "And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "1610",
+      "text": "And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign.",
+      "plainText": "And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "1611",
-      "text" : "And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour <span class='extra'>it<\/span> upon the dry <span class='extra'>land<\/span>: and the water which thou takest out of the river shall become blood upon the dry <span class='extra'>land<\/span>.",
-      "plainText" : "And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour it upon the dry land: and the water which thou takest out of the river shall become blood upon the dry land."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "1611",
+      "text": "And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour <span class='extra'>it</span> upon the dry <span class='extra'>land</span>: and the water which thou takest out of the river shall become blood upon the dry <span class='extra'>land</span>.",
+      "plainText": "And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour it upon the dry land: and the water which thou takest out of the river shall become blood upon the dry land."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "1612",
-      "text" : "And Moses said unto the <span class='nog'>LORD<\/span>, O my Lord, I <span class='extra'>am<\/span> not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I <span class='extra'>am<\/span> slow of speech, and of a slow tongue.",
-      "plainText" : "And Moses said unto the LORD, O my Lord, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "1612",
+      "text": "And Moses said unto the <span class='nog'>LORD</span>, O my Lord, I <span class='extra'>am</span> not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I <span class='extra'>am</span> slow of speech, and of a slow tongue.",
+      "plainText": "And Moses said unto the LORD, O my Lord, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "1613",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto him, Who hath made man's mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the <span class='nog'>LORD<\/span>?",
-      "plainText" : "And the LORD said unto him, Who hath made man's mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD?"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "1613",
+      "text": "And the <span class='nog'>LORD</span> said unto him, Who hath made man's mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the <span class='nog'>LORD</span>?",
+      "plainText": "And the LORD said unto him, Who hath made man's mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD?"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "1614",
-      "text" : "Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say.",
-      "plainText" : "Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "1614",
+      "text": "Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say.",
+      "plainText": "Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "1615",
-      "text" : "And he said, O my Lord, send, I pray thee, by the hand <span class='extra'>of him whom<\/span> thou wilt send.",
-      "plainText" : "And he said, O my Lord, send, I pray thee, by the hand of him whom thou wilt send."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "1615",
+      "text": "And he said, O my Lord, send, I pray thee, by the hand <span class='extra'>of him whom</span> thou wilt send.",
+      "plainText": "And he said, O my Lord, send, I pray thee, by the hand of him whom thou wilt send."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "1616",
-      "text" : "And the anger of the <span class='nog'>LORD<\/span> was kindled against Moses, and he said, <span class='extra'>Is<\/span> not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart.",
-      "plainText" : "And the anger of the LORD was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "1616",
+      "text": "And the anger of the <span class='nog'>LORD</span> was kindled against Moses, and he said, <span class='extra'>Is</span> not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart.",
+      "plainText": "And the anger of the LORD was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "1617",
-      "text" : "And thou shalt speak unto him, and put words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do.",
-      "plainText" : "And thou shalt speak unto him, and put words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "1617",
+      "text": "And thou shalt speak unto him, and put words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do.",
+      "plainText": "And thou shalt speak unto him, and put words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "1618",
-      "text" : "And he shall be thy spokesman unto the people: and he shall be, <span class='extra'>even<\/span> he shall be to thee instead of a mouth, and thou shalt be to him instead of God.",
-      "plainText" : "And he shall be thy spokesman unto the people: and he shall be, even he shall be to thee instead of a mouth, and thou shalt be to him instead of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "1618",
+      "text": "And he shall be thy spokesman unto the people: and he shall be, <span class='extra'>even</span> he shall be to thee instead of a mouth, and thou shalt be to him instead of God.",
+      "plainText": "And he shall be thy spokesman unto the people: and he shall be, even he shall be to thee instead of a mouth, and thou shalt be to him instead of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "1619",
-      "text" : "And thou shalt take this rod in thine hand, wherewith thou shalt do signs.",
-      "plainText" : "And thou shalt take this rod in thine hand, wherewith thou shalt do signs."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "1619",
+      "text": "And thou shalt take this rod in thine hand, wherewith thou shalt do signs.",
+      "plainText": "And thou shalt take this rod in thine hand, wherewith thou shalt do signs."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "1620",
-      "text" : "And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which <span class='extra'>are<\/span> in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace.",
-      "plainText" : "And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which are in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "1620",
+      "text": "And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which <span class='extra'>are</span> in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace.",
+      "plainText": "And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which are in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "1621",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life.",
-      "plainText" : "And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "1621",
+      "text": "And the <span class='nog'>LORD</span> said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life.",
+      "plainText": "And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "1622",
-      "text" : "And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand.",
-      "plainText" : "And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "1622",
+      "text": "And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand.",
+      "plainText": "And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "1623",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go.",
-      "plainText" : "And the LORD said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "1623",
+      "text": "And the <span class='nog'>LORD</span> said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go.",
+      "plainText": "And the LORD said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "1624",
-      "text" : "And thou shalt say unto Pharaoh, Thus saith the <span class='nog'>LORD<\/span>, Israel <span class='extra'>is<\/span> my son, <span class='extra'>even<\/span> my firstborn:",
-      "plainText" : "And thou shalt say unto Pharaoh, Thus saith the LORD, Israel is my son, even my firstborn:"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "1624",
+      "text": "And thou shalt say unto Pharaoh, Thus saith the <span class='nog'>LORD</span>, Israel <span class='extra'>is</span> my son, <span class='extra'>even</span> my firstborn:",
+      "plainText": "And thou shalt say unto Pharaoh, Thus saith the LORD, Israel is my son, even my firstborn:"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "1625",
-      "text" : "And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, <span class='extra'>even<\/span> thy firstborn.",
-      "plainText" : "And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, even thy firstborn."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "1625",
+      "text": "And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, <span class='extra'>even</span> thy firstborn.",
+      "plainText": "And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, even thy firstborn."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "1626",
-      "text" : "And it came to pass by the way in the inn, that the <span class='nog'>LORD<\/span> met him, and sought to kill him.",
-      "plainText" : "And it came to pass by the way in the inn, that the LORD met him, and sought to kill him."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "1626",
+      "text": "And it came to pass by the way in the inn, that the <span class='nog'>LORD</span> met him, and sought to kill him.",
+      "plainText": "And it came to pass by the way in the inn, that the LORD met him, and sought to kill him."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "1627",
-      "text" : "Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast <span class='extra'>it<\/span> at his feet, and said, Surely a bloody husband <span class='extra'>art<\/span> thou to me.",
-      "plainText" : "Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast it at his feet, and said, Surely a bloody husband art thou to me."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "1627",
+      "text": "Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast <span class='extra'>it</span> at his feet, and said, Surely a bloody husband <span class='extra'>art</span> thou to me.",
+      "plainText": "Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast it at his feet, and said, Surely a bloody husband art thou to me."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "1628",
-      "text" : "So he let him go: then she said, A bloody husband <span class='extra'>thou art<\/span>, because of the circumcision.",
-      "plainText" : "So he let him go: then she said, A bloody husband thou art, because of the circumcision."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "1628",
+      "text": "So he let him go: then she said, A bloody husband <span class='extra'>thou art</span>, because of the circumcision.",
+      "plainText": "So he let him go: then she said, A bloody husband thou art, because of the circumcision."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "1629",
-      "text" : "And the <span class='nog'>LORD<\/span> said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him.",
-      "plainText" : "And the LORD said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "1629",
+      "text": "And the <span class='nog'>LORD</span> said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him.",
+      "plainText": "And the LORD said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "1630",
-      "text" : "And Moses told Aaron all the words of the <span class='nog'>LORD<\/span> who had sent him, and all the signs which he had commanded him.",
-      "plainText" : "And Moses told Aaron all the words of the LORD who had sent him, and all the signs which he had commanded him."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "1630",
+      "text": "And Moses told Aaron all the words of the <span class='nog'>LORD</span> who had sent him, and all the signs which he had commanded him.",
+      "plainText": "And Moses told Aaron all the words of the LORD who had sent him, and all the signs which he had commanded him."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "1631",
-      "text" : "And Moses and Aaron went and gathered together all the elders of the children of Israel:",
-      "plainText" : "And Moses and Aaron went and gathered together all the elders of the children of Israel:"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "1631",
+      "text": "And Moses and Aaron went and gathered together all the elders of the children of Israel:",
+      "plainText": "And Moses and Aaron went and gathered together all the elders of the children of Israel:"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "1632",
-      "text" : "And Aaron spake all the words which the <span class='nog'>LORD<\/span> had spoken unto Moses, and did the signs in the sight of the people.",
-      "plainText" : "And Aaron spake all the words which the LORD had spoken unto Moses, and did the signs in the sight of the people."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "1632",
+      "text": "And Aaron spake all the words which the <span class='nog'>LORD</span> had spoken unto Moses, and did the signs in the sight of the people.",
+      "plainText": "And Aaron spake all the words which the LORD had spoken unto Moses, and did the signs in the sight of the people."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "1633",
-      "text" : "And the people believed: and when they heard that the <span class='nog'>LORD<\/span> had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped.",
-      "plainText" : "And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped."
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "1633",
+      "text": "And the people believed: and when they heard that the <span class='nog'>LORD</span> had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped.",
+      "plainText": "And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped."
     }
   ]
 }
-
-

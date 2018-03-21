@@ -1,144 +1,131 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "30",
-    "verseCount" : "12",
-    "nextChapter" : "psalms_31.html",
-    "nextTitle" : "Psalms 31",
-    "prevChapter" : "psalms_29.html",
-    "prevTitle" : "Psalms 29",
-    "filename" : "psalms_30.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "30",
+    "verseCount": "12",
+    "nextChapter": "psalms_31.html",
+    "nextTitle": "Psalms 31",
+    "prevChapter": "psalms_29.html",
+    "prevTitle": "Psalms 29",
+    "filename": "psalms_30.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Psalm <span class='extra'>and<\/span> Song <span class='extra'>at<\/span> the dedication of the house of David.",
-      "plainText" : "A Psalm and Song at the dedication of the house of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Psalm <span class='extra'>and</span> Song <span class='extra'>at</span> the dedication of the house of David.",
+      "plainText": "A Psalm and Song at the dedication of the house of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14321",
-      "text" : "I will extol thee, O <span class='nog'>LORD<\/span>; for thou hast lifted me up, and hast not made my foes to rejoice over me.",
-      "plainText" : "I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14321",
+      "text": "I will extol thee, O <span class='nog'>LORD</span>; for thou hast lifted me up, and hast not made my foes to rejoice over me.",
+      "plainText": "I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14322",
-      "text" : "O <span class='nog'>LORD<\/span> my God, I cried unto thee, and thou hast healed me.",
-      "plainText" : "O LORD my God, I cried unto thee, and thou hast healed me."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14322",
+      "text": "O <span class='nog'>LORD</span> my God, I cried unto thee, and thou hast healed me.",
+      "plainText": "O LORD my God, I cried unto thee, and thou hast healed me."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14323",
-      "text" : "O <span class='nog'>LORD<\/span>, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.",
-      "plainText" : "O LORD, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14323",
+      "text": "O <span class='nog'>LORD</span>, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.",
+      "plainText": "O LORD, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14324",
-      "text" : "Sing unto the <span class='nog'>LORD<\/span>, O ye saints of his, and give thanks at the remembrance of his holiness.",
-      "plainText" : "Sing unto the LORD, O ye saints of his, and give thanks at the remembrance of his holiness."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14324",
+      "text": "Sing unto the <span class='nog'>LORD</span>, O ye saints of his, and give thanks at the remembrance of his holiness.",
+      "plainText": "Sing unto the LORD, O ye saints of his, and give thanks at the remembrance of his holiness."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14325",
-      "text" : "For his anger <span class='extra'>endureth but<\/span> a moment; in his favour <span class='extra'>is<\/span> life: weeping may endure for a night, but joy <span class='extra'>cometh<\/span> in the morning.",
-      "plainText" : "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14325",
+      "text": "For his anger <span class='extra'>endureth but</span> a moment; in his favour <span class='extra'>is</span> life: weeping may endure for a night, but joy <span class='extra'>cometh</span> in the morning.",
+      "plainText": "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14326",
-      "text" : "And in my prosperity I said, I shall never be moved.",
-      "plainText" : "And in my prosperity I said, I shall never be moved."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14326",
+      "text": "And in my prosperity I said, I shall never be moved.",
+      "plainText": "And in my prosperity I said, I shall never be moved."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14327",
-      "text" : "<span class='nog'>LORD<\/span>, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, <span class='extra'>and<\/span> I was troubled.",
-      "plainText" : "LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14327",
+      "text": "<span class='nog'>LORD</span>, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, <span class='extra'>and</span> I was troubled.",
+      "plainText": "LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14328",
-      "text" : "I cried to thee, O <span class='nog'>LORD<\/span>; and unto the <span class='nog'>LORD<\/span> I made supplication.",
-      "plainText" : "I cried to thee, O LORD; and unto the LORD I made supplication."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14328",
+      "text": "I cried to thee, O <span class='nog'>LORD</span>; and unto the <span class='nog'>LORD</span> I made supplication.",
+      "plainText": "I cried to thee, O LORD; and unto the LORD I made supplication."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14329",
-      "text" : "What profit <span class='extra'>is there<\/span> in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?",
-      "plainText" : "What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14329",
+      "text": "What profit <span class='extra'>is there</span> in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?",
+      "plainText": "What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "14330",
-      "text" : "Hear, O <span class='nog'>LORD<\/span>, and have mercy upon me: <span class='nog'>LORD<\/span>, be thou my helper.",
-      "plainText" : "Hear, O LORD, and have mercy upon me: LORD, be thou my helper."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "14330",
+      "text": "Hear, O <span class='nog'>LORD</span>, and have mercy upon me: <span class='nog'>LORD</span>, be thou my helper.",
+      "plainText": "Hear, O LORD, and have mercy upon me: LORD, be thou my helper."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "14331",
-      "text" : "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;",
-      "plainText" : "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "14331",
+      "text": "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;",
+      "plainText": "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "14332",
-      "text" : "To the end that <span class='extra'>my<\/span> glory may sing praise to thee, and not be silent. O <span class='nog'>LORD<\/span> my God, I will give thanks unto thee for ever.",
-      "plainText" : "To the end that my glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever."
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "14332",
+      "text": "To the end that <span class='extra'>my</span> glory may sing praise to thee, and not be silent. O <span class='nog'>LORD</span> my God, I will give thanks unto thee for ever.",
+      "plainText": "To the end that my glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever."
     }
   ]
 }
-
-

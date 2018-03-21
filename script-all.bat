@@ -8,3 +8,4 @@ copy .\script\highlight-verses.js ..\live\script
 copy .\script\interlinear.js ..\live\script
 copy .\script\jquery.scrollTo.js ..\live\script
 copy .\script\jquery-1.12.4.min.js ..\live\script
+copy .\script\ttw.js ..\live\script

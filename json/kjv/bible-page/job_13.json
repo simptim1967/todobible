@@ -1,280 +1,253 @@
 {
   "book": {
-    "number" : "18",
-    "filenamePrefix" : "job",
-    "bookPage" : "job.html",
-    "title" : "Job",
-    "chapterCount" : "42",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "psalms_1.html",
-    "nextTitle" : "Psalms",
-    "prevBook" : "esther_1.html",
-    "prevTitle" : "Esther"
+    "number": "18",
+    "filenamePrefix": "job",
+    "bookPage": "job.html",
+    "title": "Job",
+    "chapterCount": "42",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "psalms_1.html",
+    "nextTitle": "Psalms",
+    "prevBook": "esther_1.html",
+    "prevTitle": "Esther",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "13",
-    "verseCount" : "28",
-    "nextChapter" : "job_14.html",
-    "nextTitle" : "Job 14",
-    "prevChapter" : "job_12.html",
-    "prevTitle" : "Job 12",
-    "filename" : "job_13.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "13",
+    "verseCount": "28",
+    "nextChapter": "job_14.html",
+    "nextTitle": "Job 14",
+    "prevChapter": "job_12.html",
+    "prevTitle": "Job 12",
+    "filename": "job_13.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "13155",
-      "text" : "Lo, mine eye hath seen all <span class='extra'>this<\/span>, mine ear hath heard and understood it.",
-      "plainText" : "Lo, mine eye hath seen all this, mine ear hath heard and understood it."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "13155",
+      "text": "Lo, mine eye hath seen all <span class='extra'>this</span>, mine ear hath heard and understood it.",
+      "plainText": "Lo, mine eye hath seen all this, mine ear hath heard and understood it."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "13156",
-      "text" : "What ye know, <span class='extra'>the same<\/span> do I know also: I <span class='extra'>am<\/span> not inferior unto you.",
-      "plainText" : "What ye know, the same do I know also: I am not inferior unto you."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "13156",
+      "text": "What ye know, <span class='extra'>the same</span> do I know also: I <span class='extra'>am</span> not inferior unto you.",
+      "plainText": "What ye know, the same do I know also: I am not inferior unto you."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "13157",
-      "text" : "Surely I would speak to the Almighty, and I desire to reason with God.",
-      "plainText" : "Surely I would speak to the Almighty, and I desire to reason with God."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "13157",
+      "text": "Surely I would speak to the Almighty, and I desire to reason with God.",
+      "plainText": "Surely I would speak to the Almighty, and I desire to reason with God."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "13158",
-      "text" : "But ye <span class='extra'>are<\/span> forgers of lies, ye <span class='extra'>are<\/span> all physicians of no value.",
-      "plainText" : "But ye are forgers of lies, ye are all physicians of no value."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "13158",
+      "text": "But ye <span class='extra'>are</span> forgers of lies, ye <span class='extra'>are</span> all physicians of no value.",
+      "plainText": "But ye are forgers of lies, ye are all physicians of no value."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "13159",
-      "text" : "O that ye would altogether hold your peace! and it should be your wisdom.",
-      "plainText" : "O that ye would altogether hold your peace! and it should be your wisdom."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "13159",
+      "text": "O that ye would altogether hold your peace! and it should be your wisdom.",
+      "plainText": "O that ye would altogether hold your peace! and it should be your wisdom."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "13160",
-      "text" : "Hear now my reasoning, and hearken to the pleadings of my lips.",
-      "plainText" : "Hear now my reasoning, and hearken to the pleadings of my lips."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "13160",
+      "text": "Hear now my reasoning, and hearken to the pleadings of my lips.",
+      "plainText": "Hear now my reasoning, and hearken to the pleadings of my lips."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "13161",
-      "text" : "Will ye speak wickedly for God? and talk deceitfully for him?",
-      "plainText" : "Will ye speak wickedly for God? and talk deceitfully for him?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "13161",
+      "text": "Will ye speak wickedly for God? and talk deceitfully for him?",
+      "plainText": "Will ye speak wickedly for God? and talk deceitfully for him?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "13162",
-      "text" : "Will ye accept his person? will ye contend for God?",
-      "plainText" : "Will ye accept his person? will ye contend for God?"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "13162",
+      "text": "Will ye accept his person? will ye contend for God?",
+      "plainText": "Will ye accept his person? will ye contend for God?"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "13163",
-      "text" : "Is it good that he should search you out? or as one man mocketh another, do ye <span class='extra'>so<\/span> mock him?",
-      "plainText" : "Is it good that he should search you out? or as one man mocketh another, do ye so mock him?"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "13163",
+      "text": "Is it good that he should search you out? or as one man mocketh another, do ye <span class='extra'>so</span> mock him?",
+      "plainText": "Is it good that he should search you out? or as one man mocketh another, do ye so mock him?"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "13164",
-      "text" : "He will surely reprove you, if ye do secretly accept persons.",
-      "plainText" : "He will surely reprove you, if ye do secretly accept persons."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "13164",
+      "text": "He will surely reprove you, if ye do secretly accept persons.",
+      "plainText": "He will surely reprove you, if ye do secretly accept persons."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "13165",
-      "text" : "Shall not his excellency make you afraid? and his dread fall upon you?",
-      "plainText" : "Shall not his excellency make you afraid? and his dread fall upon you?"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "13165",
+      "text": "Shall not his excellency make you afraid? and his dread fall upon you?",
+      "plainText": "Shall not his excellency make you afraid? and his dread fall upon you?"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "13166",
-      "text" : "Your remembrances <span class='extra'>are<\/span> like unto ashes, your bodies to bodies of clay.",
-      "plainText" : "Your remembrances are like unto ashes, your bodies to bodies of clay."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "13166",
+      "text": "Your remembrances <span class='extra'>are</span> like unto ashes, your bodies to bodies of clay.",
+      "plainText": "Your remembrances are like unto ashes, your bodies to bodies of clay."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "13167",
-      "text" : "Hold your peace, let me alone, that I may speak, and let come on me what <span class='extra'>will<\/span>.",
-      "plainText" : "Hold your peace, let me alone, that I may speak, and let come on me what will."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "13167",
+      "text": "Hold your peace, let me alone, that I may speak, and let come on me what <span class='extra'>will</span>.",
+      "plainText": "Hold your peace, let me alone, that I may speak, and let come on me what will."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "13168",
-      "text" : "Wherefore do I take my flesh in my teeth, and put my life in mine hand?",
-      "plainText" : "Wherefore do I take my flesh in my teeth, and put my life in mine hand?"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "13168",
+      "text": "Wherefore do I take my flesh in my teeth, and put my life in mine hand?",
+      "plainText": "Wherefore do I take my flesh in my teeth, and put my life in mine hand?"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "13169",
-      "text" : "Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.",
-      "plainText" : "Though he slay me, yet will I trust in him: but I will maintain mine own ways before him."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "13169",
+      "text": "Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.",
+      "plainText": "Though he slay me, yet will I trust in him: but I will maintain mine own ways before him."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "13170",
-      "text" : "He also <span class='extra'>shall be<\/span> my salvation: for an hypocrite shall not come before him.",
-      "plainText" : "He also shall be my salvation: for an hypocrite shall not come before him."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "13170",
+      "text": "He also <span class='extra'>shall be</span> my salvation: for an hypocrite shall not come before him.",
+      "plainText": "He also shall be my salvation: for an hypocrite shall not come before him."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "13171",
-      "text" : "Hear diligently my speech, and my declaration with your ears.",
-      "plainText" : "Hear diligently my speech, and my declaration with your ears."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "13171",
+      "text": "Hear diligently my speech, and my declaration with your ears.",
+      "plainText": "Hear diligently my speech, and my declaration with your ears."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "13172",
-      "text" : "Behold now, I have ordered <span class='extra'>my<\/span> cause; I know that I shall be justified.",
-      "plainText" : "Behold now, I have ordered my cause; I know that I shall be justified."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "13172",
+      "text": "Behold now, I have ordered <span class='extra'>my</span> cause; I know that I shall be justified.",
+      "plainText": "Behold now, I have ordered my cause; I know that I shall be justified."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "13173",
-      "text" : "Who <span class='extra'>is<\/span> he <span class='extra'>that<\/span> will plead with me? for now, if I hold my tongue, I shall give up the ghost.",
-      "plainText" : "Who is he that will plead with me? for now, if I hold my tongue, I shall give up the ghost."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "13173",
+      "text": "Who <span class='extra'>is</span> he <span class='extra'>that</span> will plead with me? for now, if I hold my tongue, I shall give up the ghost.",
+      "plainText": "Who is he that will plead with me? for now, if I hold my tongue, I shall give up the ghost."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "13174",
-      "text" : "Only do not two <span class='extra'>things<\/span> unto me: then will I not hide myself from thee.",
-      "plainText" : "Only do not two things unto me: then will I not hide myself from thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "13174",
+      "text": "Only do not two <span class='extra'>things</span> unto me: then will I not hide myself from thee.",
+      "plainText": "Only do not two things unto me: then will I not hide myself from thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "13175",
-      "text" : "Withdraw thine hand far from me: and let not thy dread make me afraid.",
-      "plainText" : "Withdraw thine hand far from me: and let not thy dread make me afraid."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "13175",
+      "text": "Withdraw thine hand far from me: and let not thy dread make me afraid.",
+      "plainText": "Withdraw thine hand far from me: and let not thy dread make me afraid."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "13176",
-      "text" : "Then call thou, and I will answer: or let me speak, and answer thou me.",
-      "plainText" : "Then call thou, and I will answer: or let me speak, and answer thou me."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "13176",
+      "text": "Then call thou, and I will answer: or let me speak, and answer thou me.",
+      "plainText": "Then call thou, and I will answer: or let me speak, and answer thou me."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "13177",
-      "text" : "How many <span class='extra'>are<\/span> mine iniquities and sins? make me to know my transgression and my sin.",
-      "plainText" : "How many are mine iniquities and sins? make me to know my transgression and my sin."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "13177",
+      "text": "How many <span class='extra'>are</span> mine iniquities and sins? make me to know my transgression and my sin.",
+      "plainText": "How many are mine iniquities and sins? make me to know my transgression and my sin."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "13178",
-      "text" : "Wherefore hidest thou thy face, and holdest me for thine enemy?",
-      "plainText" : "Wherefore hidest thou thy face, and holdest me for thine enemy?"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "13178",
+      "text": "Wherefore hidest thou thy face, and holdest me for thine enemy?",
+      "plainText": "Wherefore hidest thou thy face, and holdest me for thine enemy?"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "13179",
-      "text" : "Wilt thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?",
-      "plainText" : "Wilt thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "13179",
+      "text": "Wilt thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?",
+      "plainText": "Wilt thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "13180",
-      "text" : "For thou writest bitter things against me, and makest me to possess the iniquities of my youth.",
-      "plainText" : "For thou writest bitter things against me, and makest me to possess the iniquities of my youth."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "13180",
+      "text": "For thou writest bitter things against me, and makest me to possess the iniquities of my youth.",
+      "plainText": "For thou writest bitter things against me, and makest me to possess the iniquities of my youth."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "13181",
-      "text" : "Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet.",
-      "plainText" : "Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "13181",
+      "text": "Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet.",
+      "plainText": "Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "13182",
-      "text" : "And he, as a rotten thing, consumeth, as a garment that is moth eaten.",
-      "plainText" : "And he, as a rotten thing, consumeth, as a garment that is moth eaten."
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "13182",
+      "text": "And he, as a rotten thing, consumeth, as a garment that is moth eaten.",
+      "plainText": "And he, as a rotten thing, consumeth, as a garment that is moth eaten."
     }
   ]
 }
-

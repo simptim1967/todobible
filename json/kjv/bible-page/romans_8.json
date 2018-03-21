@@ -1,379 +1,341 @@
 {
   "book": {
-    "number" : "45",
-    "filenamePrefix" : "romans",
-    "bookPage" : "romans.html",
-    "title" : "Romans",
-    "chapterCount" : "16",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "1corinthians_1.html",
-    "nextTitle" : "1 Corinthians",
-    "prevBook" : "acts_1.html",
-    "prevTitle" : "Acts"
+    "number": "45",
+    "filenamePrefix": "romans",
+    "bookPage": "romans.html",
+    "title": "Romans",
+    "chapterCount": "16",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "1corinthians_1.html",
+    "nextTitle": "1 Corinthians",
+    "prevBook": "acts_1.html",
+    "prevTitle": "Acts",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "8",
-    "verseCount" : "39",
-    "nextChapter" : "romans_9.html",
-    "nextTitle" : "Romans 9",
-    "prevChapter" : "romans_7.html",
-    "prevTitle" : "Romans 7",
-    "filename" : "romans_8.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "8",
+    "verseCount": "39",
+    "nextChapter": "romans_9.html",
+    "nextTitle": "Romans 9",
+    "prevChapter": "romans_7.html",
+    "prevTitle": "Romans 7",
+    "filename": "romans_8.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "28118",
-      "text" : "<span class='extra'>There is<\/span> therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
-      "plainText" : "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "28118",
+      "text": "<span class='extra'>There is</span> therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+      "plainText": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "28119",
-      "text" : "For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.",
-      "plainText" : "For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "28119",
+      "text": "For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.",
+      "plainText": "For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "28120",
-      "text" : "For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:",
-      "plainText" : "For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "28120",
+      "text": "For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:",
+      "plainText": "For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "28121",
-      "text" : "That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.",
-      "plainText" : "That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "28121",
+      "text": "That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.",
+      "plainText": "That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "28122",
-      "text" : "For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.",
-      "plainText" : "For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "28122",
+      "text": "For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.",
+      "plainText": "For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "28123",
-      "text" : "For to be carnally minded <span class='extra'>is<\/span> death; but to be spiritually minded <span class='extra'>is<\/span> life and peace.",
-      "plainText" : "For to be carnally minded is death; but to be spiritually minded is life and peace."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "28123",
+      "text": "For to be carnally minded <span class='extra'>is</span> death; but to be spiritually minded <span class='extra'>is</span> life and peace.",
+      "plainText": "For to be carnally minded is death; but to be spiritually minded is life and peace."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "28124",
-      "text" : "Because the carnal mind <span class='extra'>is<\/span> enmity against God: for it is not subject to the law of God, neither indeed can be.",
-      "plainText" : "Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "28124",
+      "text": "Because the carnal mind <span class='extra'>is</span> enmity against God: for it is not subject to the law of God, neither indeed can be.",
+      "plainText": "Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "28125",
-      "text" : "So then they that are in the flesh cannot please God.",
-      "plainText" : "So then they that are in the flesh cannot please God."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "28125",
+      "text": "So then they that are in the flesh cannot please God.",
+      "plainText": "So then they that are in the flesh cannot please God."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "28126",
-      "text" : "But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.",
-      "plainText" : "But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "28126",
+      "text": "But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.",
+      "plainText": "But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "28127",
-      "text" : "And if Christ <span class='extra'>be<\/span> in you, the body <span class='extra'>is<\/span> dead because of sin; but the Spirit <span class='extra'>is<\/span> life because of righteousness.",
-      "plainText" : "And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "28127",
+      "text": "And if Christ <span class='extra'>be</span> in you, the body <span class='extra'>is</span> dead because of sin; but the Spirit <span class='extra'>is</span> life because of righteousness.",
+      "plainText": "And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "28128",
-      "text" : "But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.",
-      "plainText" : "But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "28128",
+      "text": "But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.",
+      "plainText": "But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "28129",
-      "text" : "Therefore, brethren, we are debtors, not to the flesh, to live after the flesh.",
-      "plainText" : "Therefore, brethren, we are debtors, not to the flesh, to live after the flesh."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "28129",
+      "text": "Therefore, brethren, we are debtors, not to the flesh, to live after the flesh.",
+      "plainText": "Therefore, brethren, we are debtors, not to the flesh, to live after the flesh."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "28130",
-      "text" : "For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.",
-      "plainText" : "For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "28130",
+      "text": "For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.",
+      "plainText": "For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "28131",
-      "text" : "For as many as are led by the Spirit of God, they are the sons of God.",
-      "plainText" : "For as many as are led by the Spirit of God, they are the sons of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "28131",
+      "text": "For as many as are led by the Spirit of God, they are the sons of God.",
+      "plainText": "For as many as are led by the Spirit of God, they are the sons of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "28132",
-      "text" : "For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.",
-      "plainText" : "For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "28132",
+      "text": "For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.",
+      "plainText": "For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "28133",
-      "text" : "The Spirit itself beareth witness with our spirit, that we are the children of God:",
-      "plainText" : "The Spirit itself beareth witness with our spirit, that we are the children of God:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "28133",
+      "text": "The Spirit itself beareth witness with our spirit, that we are the children of God:",
+      "plainText": "The Spirit itself beareth witness with our spirit, that we are the children of God:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "28134",
-      "text" : "And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with <span class='extra'>him<\/span>, that we may be also glorified together.",
-      "plainText" : "And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "28134",
+      "text": "And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with <span class='extra'>him</span>, that we may be also glorified together.",
+      "plainText": "And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "28135",
-      "text" : "For I reckon that the sufferings of this present time <span class='extra'>are<\/span> not worthy <span class='extra'>to be compared<\/span> with the glory which shall be revealed in us.",
-      "plainText" : "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "28135",
+      "text": "For I reckon that the sufferings of this present time <span class='extra'>are</span> not worthy <span class='extra'>to be compared</span> with the glory which shall be revealed in us.",
+      "plainText": "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "28136",
-      "text" : "For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
-      "plainText" : "For the earnest expectation of the creature waiteth for the manifestation of the sons of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "28136",
+      "text": "For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
+      "plainText": "For the earnest expectation of the creature waiteth for the manifestation of the sons of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "28137",
-      "text" : "For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected <span class='extra'>the same<\/span> in hope,",
-      "plainText" : "For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "28137",
+      "text": "For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected <span class='extra'>the same</span> in hope,",
+      "plainText": "For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "28138",
-      "text" : "Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God.",
-      "plainText" : "Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "28138",
+      "text": "Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God.",
+      "plainText": "Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "28139",
-      "text" : "For we know that the whole creation groaneth and travaileth in pain together until now.",
-      "plainText" : "For we know that the whole creation groaneth and travaileth in pain together until now."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "28139",
+      "text": "For we know that the whole creation groaneth and travaileth in pain together until now.",
+      "plainText": "For we know that the whole creation groaneth and travaileth in pain together until now."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "28140",
-      "text" : "And not only <span class='extra'>they<\/span>, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, <span class='extra'>to wit<\/span>, the redemption of our body.",
-      "plainText" : "And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "28140",
+      "text": "And not only <span class='extra'>they</span>, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, <span class='extra'>to wit</span>, the redemption of our body.",
+      "plainText": "And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "28141",
-      "text" : "For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?",
-      "plainText" : "For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "28141",
+      "text": "For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?",
+      "plainText": "For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "28142",
-      "text" : "But if we hope for that we see not, <span class='extra'>then<\/span> do we with patience wait for <span class='extra'>it<\/span>.",
-      "plainText" : "But if we hope for that we see not, then do we with patience wait for it."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "28142",
+      "text": "But if we hope for that we see not, <span class='extra'>then</span> do we with patience wait for <span class='extra'>it</span>.",
+      "plainText": "But if we hope for that we see not, then do we with patience wait for it."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "28143",
-      "text" : "Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.",
-      "plainText" : "Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "28143",
+      "text": "Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.",
+      "plainText": "Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "28144",
-      "text" : "And he that searcheth the hearts knoweth what <span class='extra'>is<\/span> the mind of the Spirit, because he maketh intercession for the saints according to <span class='extra'>the will of<\/span> God.",
-      "plainText" : "And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "28144",
+      "text": "And he that searcheth the hearts knoweth what <span class='extra'>is</span> the mind of the Spirit, because he maketh intercession for the saints according to <span class='extra'>the will of</span> God.",
+      "plainText": "And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "28145",
-      "text" : "And we know that all things work together for good to them that love God, to them who are the called according to <span class='extra'>his<\/span> purpose.",
-      "plainText" : "And we know that all things work together for good to them that love God, to them who are the called according to his purpose."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "28145",
+      "text": "And we know that all things work together for good to them that love God, to them who are the called according to <span class='extra'>his</span> purpose.",
+      "plainText": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "28146",
-      "text" : "For whom he did foreknow, he also did predestinate <span class='extra'>to be<\/span> conformed to the image of his Son, that he might be the firstborn among many brethren.",
-      "plainText" : "For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "28146",
+      "text": "For whom he did foreknow, he also did predestinate <span class='extra'>to be</span> conformed to the image of his Son, that he might be the firstborn among many brethren.",
+      "plainText": "For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "28147",
-      "text" : "Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.",
-      "plainText" : "Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "28147",
+      "text": "Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.",
+      "plainText": "Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "28148",
-      "text" : "What shall we then say to these things? If God <span class='extra'>be<\/span> for us, who <span class='extra'>can be<\/span> against us?",
-      "plainText" : "What shall we then say to these things? If God be for us, who can be against us?"
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "28148",
+      "text": "What shall we then say to these things? If God <span class='extra'>be</span> for us, who <span class='extra'>can be</span> against us?",
+      "plainText": "What shall we then say to these things? If God be for us, who can be against us?"
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "28149",
-      "text" : "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?",
-      "plainText" : "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "28149",
+      "text": "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?",
+      "plainText": "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "28150",
-      "text" : "Who shall lay any thing to the charge of God's elect? <span class='extra'>It is<\/span> God that justifieth.",
-      "plainText" : "Who shall lay any thing to the charge of God's elect? It is God that justifieth."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "28150",
+      "text": "Who shall lay any thing to the charge of God's elect? <span class='extra'>It is</span> God that justifieth.",
+      "plainText": "Who shall lay any thing to the charge of God's elect? It is God that justifieth."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "28151",
-      "text" : "Who <span class='extra'>is<\/span> he that condemneth? <span class='extra'>It is<\/span> Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.",
-      "plainText" : "Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "28151",
+      "text": "Who <span class='extra'>is</span> he that condemneth? <span class='extra'>It is</span> Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.",
+      "plainText": "Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "28152",
-      "text" : "Who shall separate us from the love of Christ? <span class='extra'>shall<\/span> tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?",
-      "plainText" : "Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?"
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "28152",
+      "text": "Who shall separate us from the love of Christ? <span class='extra'>shall</span> tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?",
+      "plainText": "Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?"
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "28153",
-      "text" : "As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.",
-      "plainText" : "As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "28153",
+      "text": "As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.",
+      "plainText": "As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "28154",
-      "text" : "Nay, in all these things we are more than conquerors through him that loved us.",
-      "plainText" : "Nay, in all these things we are more than conquerors through him that loved us."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "28154",
+      "text": "Nay, in all these things we are more than conquerors through him that loved us.",
+      "plainText": "Nay, in all these things we are more than conquerors through him that loved us."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "28155",
-      "text" : "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,",
-      "plainText" : "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,"
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "28155",
+      "text": "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,",
+      "plainText": "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,"
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "28156",
-      "text" : "Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.",
-      "plainText" : "Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord."
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "28156",
+      "text": "Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.",
+      "plainText": "Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord."
     }
   ]
 }
-

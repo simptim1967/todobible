@@ -1,344 +1,309 @@
 {
   "book": {
-    "number" : "20",
-    "filenamePrefix" : "proverbs",
-    "bookPage" : "proverbs.html",
-    "title" : "Proverbs",
-    "chapterCount" : "31",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "ecclesiastes_1.html",
-    "nextTitle" : "Ecclesiastes",
-    "prevBook" : "psalms_1.html",
-    "prevTitle" : "Psalms"
+    "number": "20",
+    "filenamePrefix": "proverbs",
+    "bookPage": "proverbs.html",
+    "title": "Proverbs",
+    "chapterCount": "31",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "ecclesiastes_1.html",
+    "nextTitle": "Ecclesiastes",
+    "prevBook": "psalms_1.html",
+    "prevTitle": "Psalms",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "3",
-    "verseCount" : "35",
-    "nextChapter" : "proverbs_4.html",
-    "nextTitle" : "Proverbs 4",
-    "prevChapter" : "proverbs_2.html",
-    "prevTitle" : "Proverbs 2",
-    "filename" : "proverbs_3.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "3",
+    "verseCount": "35",
+    "nextChapter": "proverbs_4.html",
+    "nextTitle": "Proverbs 4",
+    "prevChapter": "proverbs_2.html",
+    "prevTitle": "Proverbs 2",
+    "filename": "proverbs_3.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16457",
-      "text" : "My son, forget not my law; but let thine heart keep my commandments:",
-      "plainText" : "My son, forget not my law; but let thine heart keep my commandments:"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16457",
+      "text": "My son, forget not my law; but let thine heart keep my commandments:",
+      "plainText": "My son, forget not my law; but let thine heart keep my commandments:"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16458",
-      "text" : "For length of days, and long life, and peace, shall they add to thee.",
-      "plainText" : "For length of days, and long life, and peace, shall they add to thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16458",
+      "text": "For length of days, and long life, and peace, shall they add to thee.",
+      "plainText": "For length of days, and long life, and peace, shall they add to thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16459",
-      "text" : "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:",
-      "plainText" : "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16459",
+      "text": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:",
+      "plainText": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "16460",
-      "text" : "So shalt thou find favour and good understanding in the sight of God and man.",
-      "plainText" : "So shalt thou find favour and good understanding in the sight of God and man."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "16460",
+      "text": "So shalt thou find favour and good understanding in the sight of God and man.",
+      "plainText": "So shalt thou find favour and good understanding in the sight of God and man."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "16461",
-      "text" : "Trust in the <span class='nog'>LORD<\/span> with all thine heart; and lean not unto thine own understanding.",
-      "plainText" : "Trust in the LORD with all thine heart; and lean not unto thine own understanding."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "16461",
+      "text": "Trust in the <span class='nog'>LORD</span> with all thine heart; and lean not unto thine own understanding.",
+      "plainText": "Trust in the LORD with all thine heart; and lean not unto thine own understanding."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "16462",
-      "text" : "In all thy ways acknowledge him, and he shall direct thy paths.",
-      "plainText" : "In all thy ways acknowledge him, and he shall direct thy paths."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "16462",
+      "text": "In all thy ways acknowledge him, and he shall direct thy paths.",
+      "plainText": "In all thy ways acknowledge him, and he shall direct thy paths."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "16463",
-      "text" : "Be not wise in thine own eyes: fear the <span class='nog'>LORD<\/span>, and depart from evil.",
-      "plainText" : "Be not wise in thine own eyes: fear the LORD, and depart from evil."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "16463",
+      "text": "Be not wise in thine own eyes: fear the <span class='nog'>LORD</span>, and depart from evil.",
+      "plainText": "Be not wise in thine own eyes: fear the LORD, and depart from evil."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "16464",
-      "text" : "It shall be health to thy navel, and marrow to thy bones.",
-      "plainText" : "It shall be health to thy navel, and marrow to thy bones."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "16464",
+      "text": "It shall be health to thy navel, and marrow to thy bones.",
+      "plainText": "It shall be health to thy navel, and marrow to thy bones."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "16465",
-      "text" : "Honour the <span class='nog'>LORD<\/span> with thy substance, and with the firstfruits of all thine increase:",
-      "plainText" : "Honour the LORD with thy substance, and with the firstfruits of all thine increase:"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "16465",
+      "text": "Honour the <span class='nog'>LORD</span> with thy substance, and with the firstfruits of all thine increase:",
+      "plainText": "Honour the LORD with thy substance, and with the firstfruits of all thine increase:"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "16466",
-      "text" : "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.",
-      "plainText" : "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "16466",
+      "text": "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.",
+      "plainText": "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "16467",
-      "text" : "My son, despise not the chastening of the <span class='nog'>LORD<\/span>; neither be weary of his correction:",
-      "plainText" : "My son, despise not the chastening of the LORD; neither be weary of his correction:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "16467",
+      "text": "My son, despise not the chastening of the <span class='nog'>LORD</span>; neither be weary of his correction:",
+      "plainText": "My son, despise not the chastening of the LORD; neither be weary of his correction:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "16468",
-      "text" : "For whom the <span class='nog'>LORD<\/span> loveth he correcteth; even as a father the son <span class='extra'>in whom<\/span> he delighteth.",
-      "plainText" : "For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "16468",
+      "text": "For whom the <span class='nog'>LORD</span> loveth he correcteth; even as a father the son <span class='extra'>in whom</span> he delighteth.",
+      "plainText": "For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "16469",
-      "text" : "Happy <span class='extra'>is<\/span> the man <span class='extra'>that<\/span> findeth wisdom, and the man <span class='extra'>that<\/span> getteth understanding.",
-      "plainText" : "Happy is the man that findeth wisdom, and the man that getteth understanding."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "16469",
+      "text": "Happy <span class='extra'>is</span> the man <span class='extra'>that</span> findeth wisdom, and the man <span class='extra'>that</span> getteth understanding.",
+      "plainText": "Happy is the man that findeth wisdom, and the man that getteth understanding."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "16470",
-      "text" : "For the merchandise of it <span class='extra'>is<\/span> better than the merchandise of silver, and the gain thereof than fine gold.",
-      "plainText" : "For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "16470",
+      "text": "For the merchandise of it <span class='extra'>is</span> better than the merchandise of silver, and the gain thereof than fine gold.",
+      "plainText": "For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "16471",
-      "text" : "She <span class='extra'>is<\/span> more precious than rubies: and all the things thou canst desire are not to be compared unto her.",
-      "plainText" : "She is more precious than rubies: and all the things thou canst desire are not to be compared unto her."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "16471",
+      "text": "She <span class='extra'>is</span> more precious than rubies: and all the things thou canst desire are not to be compared unto her.",
+      "plainText": "She is more precious than rubies: and all the things thou canst desire are not to be compared unto her."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "16472",
-      "text" : "Length of days <span class='extra'>is<\/span> in her right hand; <span class='extra'>and<\/span> in her left hand riches and honour.",
-      "plainText" : "Length of days is in her right hand; and in her left hand riches and honour."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "16472",
+      "text": "Length of days <span class='extra'>is</span> in her right hand; <span class='extra'>and</span> in her left hand riches and honour.",
+      "plainText": "Length of days is in her right hand; and in her left hand riches and honour."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "16473",
-      "text" : "Her ways <span class='extra'>are<\/span> ways of pleasantness, and all her paths <span class='extra'>are<\/span> peace.",
-      "plainText" : "Her ways are ways of pleasantness, and all her paths are peace."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "16473",
+      "text": "Her ways <span class='extra'>are</span> ways of pleasantness, and all her paths <span class='extra'>are</span> peace.",
+      "plainText": "Her ways are ways of pleasantness, and all her paths are peace."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "16474",
-      "text" : "She <span class='extra'>is<\/span> a tree of life to them that lay hold upon her: and happy <span class='extra'>is every one<\/span> that retaineth her.",
-      "plainText" : "She is a tree of life to them that lay hold upon her: and happy is every one that retaineth her."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "16474",
+      "text": "She <span class='extra'>is</span> a tree of life to them that lay hold upon her: and happy <span class='extra'>is every one</span> that retaineth her.",
+      "plainText": "She is a tree of life to them that lay hold upon her: and happy is every one that retaineth her."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "16475",
-      "text" : "The <span class='nog'>LORD<\/span> by wisdom hath founded the earth; by understanding hath he established the heavens.",
-      "plainText" : "The LORD by wisdom hath founded the earth; by understanding hath he established the heavens."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "16475",
+      "text": "The <span class='nog'>LORD</span> by wisdom hath founded the earth; by understanding hath he established the heavens.",
+      "plainText": "The LORD by wisdom hath founded the earth; by understanding hath he established the heavens."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "16476",
-      "text" : "By his knowledge the depths are broken up, and the clouds drop down the dew.",
-      "plainText" : "By his knowledge the depths are broken up, and the clouds drop down the dew."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "16476",
+      "text": "By his knowledge the depths are broken up, and the clouds drop down the dew.",
+      "plainText": "By his knowledge the depths are broken up, and the clouds drop down the dew."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "16477",
-      "text" : "My son, let not them depart from thine eyes: keep sound wisdom and discretion:",
-      "plainText" : "My son, let not them depart from thine eyes: keep sound wisdom and discretion:"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "16477",
+      "text": "My son, let not them depart from thine eyes: keep sound wisdom and discretion:",
+      "plainText": "My son, let not them depart from thine eyes: keep sound wisdom and discretion:"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "16478",
-      "text" : "So shall they be life unto thy soul, and grace to thy neck.",
-      "plainText" : "So shall they be life unto thy soul, and grace to thy neck."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "16478",
+      "text": "So shall they be life unto thy soul, and grace to thy neck.",
+      "plainText": "So shall they be life unto thy soul, and grace to thy neck."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "16479",
-      "text" : "Then shalt thou walk in thy way safely, and thy foot shall not stumble.",
-      "plainText" : "Then shalt thou walk in thy way safely, and thy foot shall not stumble."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "16479",
+      "text": "Then shalt thou walk in thy way safely, and thy foot shall not stumble.",
+      "plainText": "Then shalt thou walk in thy way safely, and thy foot shall not stumble."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "16480",
-      "text" : "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet.",
-      "plainText" : "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "16480",
+      "text": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet.",
+      "plainText": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "16481",
-      "text" : "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh.",
-      "plainText" : "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "16481",
+      "text": "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh.",
+      "plainText": "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "16482",
-      "text" : "For the <span class='nog'>LORD<\/span> shall be thy confidence, and shall keep thy foot from being taken.",
-      "plainText" : "For the LORD shall be thy confidence, and shall keep thy foot from being taken."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "16482",
+      "text": "For the <span class='nog'>LORD</span> shall be thy confidence, and shall keep thy foot from being taken.",
+      "plainText": "For the LORD shall be thy confidence, and shall keep thy foot from being taken."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "16483",
-      "text" : "Withhold not good from them to whom it is due, when it is in the power of thine hand to do <span class='extra'>it<\/span>.",
-      "plainText" : "Withhold not good from them to whom it is due, when it is in the power of thine hand to do it."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "16483",
+      "text": "Withhold not good from them to whom it is due, when it is in the power of thine hand to do <span class='extra'>it</span>.",
+      "plainText": "Withhold not good from them to whom it is due, when it is in the power of thine hand to do it."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "16484",
-      "text" : "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee.",
-      "plainText" : "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "16484",
+      "text": "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee.",
+      "plainText": "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "16485",
-      "text" : "Devise not evil against thy neighbour, seeing he dwelleth securely by thee.",
-      "plainText" : "Devise not evil against thy neighbour, seeing he dwelleth securely by thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "16485",
+      "text": "Devise not evil against thy neighbour, seeing he dwelleth securely by thee.",
+      "plainText": "Devise not evil against thy neighbour, seeing he dwelleth securely by thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "16486",
-      "text" : "Strive not with a man without cause, if he have done thee no harm.",
-      "plainText" : "Strive not with a man without cause, if he have done thee no harm."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "16486",
+      "text": "Strive not with a man without cause, if he have done thee no harm.",
+      "plainText": "Strive not with a man without cause, if he have done thee no harm."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "16487",
-      "text" : "Envy thou not the oppressor, and choose none of his ways.",
-      "plainText" : "Envy thou not the oppressor, and choose none of his ways."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "16487",
+      "text": "Envy thou not the oppressor, and choose none of his ways.",
+      "plainText": "Envy thou not the oppressor, and choose none of his ways."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "16488",
-      "text" : "For the froward <span class='extra'>is<\/span> abomination to the <span class='nog'>LORD<\/span>: but his secret <span class='extra'>is<\/span> with the righteous.",
-      "plainText" : "For the froward is abomination to the LORD: but his secret is with the righteous."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "16488",
+      "text": "For the froward <span class='extra'>is</span> abomination to the <span class='nog'>LORD</span>: but his secret <span class='extra'>is</span> with the righteous.",
+      "plainText": "For the froward is abomination to the LORD: but his secret is with the righteous."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "16489",
-      "text" : "The curse of the <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> in the house of the wicked: but he blesseth the habitation of the just.",
-      "plainText" : "The curse of the LORD is in the house of the wicked: but he blesseth the habitation of the just."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "16489",
+      "text": "The curse of the <span class='nog'>LORD</span> <span class='extra'>is</span> in the house of the wicked: but he blesseth the habitation of the just.",
+      "plainText": "The curse of the LORD is in the house of the wicked: but he blesseth the habitation of the just."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "16490",
-      "text" : "Surely he scorneth the scorners: but he giveth grace unto the lowly.",
-      "plainText" : "Surely he scorneth the scorners: but he giveth grace unto the lowly."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "16490",
+      "text": "Surely he scorneth the scorners: but he giveth grace unto the lowly.",
+      "plainText": "Surely he scorneth the scorners: but he giveth grace unto the lowly."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "16491",
-      "text" : "The wise shall inherit glory: but shame shall be the promotion of fools.",
-      "plainText" : "The wise shall inherit glory: but shame shall be the promotion of fools."
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "16491",
+      "text": "The wise shall inherit glory: but shame shall be the promotion of fools.",
+      "plainText": "The wise shall inherit glory: but shame shall be the promotion of fools."
     }
   ]
 }
-
-

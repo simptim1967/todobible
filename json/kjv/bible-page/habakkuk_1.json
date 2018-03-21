@@ -1,182 +1,165 @@
 {
   "book": {
-    "number" : "35",
-    "filenamePrefix" : "habakkuk",
-    "bookPage" : "habakkuk.html",
-    "title" : "Habakkuk",
-    "chapterCount" : "3",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "zephaniah_1.html",
-    "nextTitle" : "Zephaniah",
-    "prevBook" : "nahum_1.html",
-    "prevTitle" : "Nahum"
+    "number": "35",
+    "filenamePrefix": "habakkuk",
+    "bookPage": "habakkuk.html",
+    "title": "Habakkuk",
+    "chapterCount": "3",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "zephaniah_1.html",
+    "nextTitle": "Zephaniah",
+    "prevBook": "nahum_1.html",
+    "prevTitle": "Nahum",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "1",
-    "verseCount" : "17",
-    "nextChapter" : "habakkuk_2.html",
-    "nextTitle" : "Habakkuk 2",
-    "prevChapter" : "nahum_3.html",
-    "prevTitle" : "Nahum 3",
-    "filename" : "habakkuk_1.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "1",
+    "verseCount": "17",
+    "nextChapter": "habakkuk_2.html",
+    "nextTitle": "Habakkuk 2",
+    "prevChapter": "nahum_3.html",
+    "prevTitle": "Nahum 3",
+    "filename": "habakkuk_1.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "22733",
-      "text" : "The burden which Habakkuk the prophet did see.",
-      "plainText" : "The burden which Habakkuk the prophet did see."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "22733",
+      "text": "The burden which Habakkuk the prophet did see.",
+      "plainText": "The burden which Habakkuk the prophet did see."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "22734",
-      "text" : "O <span class='nog'>LORD<\/span>, how long shall I cry, and thou wilt not hear! <span class='extra'>even<\/span> cry out unto thee <span class='extra'>of<\/span> violence, and thou wilt not save!",
-      "plainText" : "O LORD, how long shall I cry, and thou wilt not hear! even cry out unto thee of violence, and thou wilt not save!"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "22734",
+      "text": "O <span class='nog'>LORD</span>, how long shall I cry, and thou wilt not hear! <span class='extra'>even</span> cry out unto thee <span class='extra'>of</span> violence, and thou wilt not save!",
+      "plainText": "O LORD, how long shall I cry, and thou wilt not hear! even cry out unto thee of violence, and thou wilt not save!"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "22735",
-      "text" : "Why dost thou shew me iniquity, and cause <span class='extra'>me<\/span> to behold grievance? for spoiling and violence <span class='extra'>are<\/span> before me: and there are <span class='extra'>that<\/span> raise up strife and contention.",
-      "plainText" : "Why dost thou shew me iniquity, and cause me to behold grievance? for spoiling and violence are before me: and there are that raise up strife and contention."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "22735",
+      "text": "Why dost thou shew me iniquity, and cause <span class='extra'>me</span> to behold grievance? for spoiling and violence <span class='extra'>are</span> before me: and there are <span class='extra'>that</span> raise up strife and contention.",
+      "plainText": "Why dost thou shew me iniquity, and cause me to behold grievance? for spoiling and violence are before me: and there are that raise up strife and contention."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "22736",
-      "text" : "Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.",
-      "plainText" : "Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "22736",
+      "text": "Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.",
+      "plainText": "Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "22737",
-      "text" : "Behold ye among the heathen, and regard, and wonder marvellously: for <span class='extra'>I<\/span> will work a work in your days, <span class='extra'>which<\/span> ye will not believe, though it be told <span class='extra'>you<\/span>.",
-      "plainText" : "Behold ye among the heathen, and regard, and wonder marvellously: for I will work a work in your days, which ye will not believe, though it be told you."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "22737",
+      "text": "Behold ye among the heathen, and regard, and wonder marvellously: for <span class='extra'>I</span> will work a work in your days, <span class='extra'>which</span> ye will not believe, though it be told <span class='extra'>you</span>.",
+      "plainText": "Behold ye among the heathen, and regard, and wonder marvellously: for I will work a work in your days, which ye will not believe, though it be told you."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "22738",
-      "text" : "For, lo, I raise up the Chaldeans, <span class='extra'>that<\/span> bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces <span class='extra'>that are<\/span> not theirs.",
-      "plainText" : "For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "22738",
+      "text": "For, lo, I raise up the Chaldeans, <span class='extra'>that</span> bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces <span class='extra'>that are</span> not theirs.",
+      "plainText": "For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "22739",
-      "text" : "They <span class='extra'>are<\/span> terrible and dreadful: their judgment and their dignity shall proceed of themselves.",
-      "plainText" : "They are terrible and dreadful: their judgment and their dignity shall proceed of themselves."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "22739",
+      "text": "They <span class='extra'>are</span> terrible and dreadful: their judgment and their dignity shall proceed of themselves.",
+      "plainText": "They are terrible and dreadful: their judgment and their dignity shall proceed of themselves."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "22740",
-      "text" : "Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle <span class='extra'>that<\/span> hasteth to eat.",
-      "plainText" : "Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "22740",
+      "text": "Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle <span class='extra'>that</span> hasteth to eat.",
+      "plainText": "Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "22741",
-      "text" : "They shall come all for violence: their faces shall sup up <span class='extra'>as<\/span> the east wind, and they shall gather the captivity as the sand.",
-      "plainText" : "They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "22741",
+      "text": "They shall come all for violence: their faces shall sup up <span class='extra'>as</span> the east wind, and they shall gather the captivity as the sand.",
+      "plainText": "They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "22742",
-      "text" : "And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.",
-      "plainText" : "And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "22742",
+      "text": "And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.",
+      "plainText": "And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "22743",
-      "text" : "Then shall <span class='extra'>his<\/span> mind change, and he shall pass over, and offend, <span class='extra'>imputing<\/span> this his power unto his god.",
-      "plainText" : "Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "22743",
+      "text": "Then shall <span class='extra'>his</span> mind change, and he shall pass over, and offend, <span class='extra'>imputing</span> this his power unto his god.",
+      "plainText": "Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "22744",
-      "text" : "<span class='extra'>Art<\/span> thou not from everlasting, O <span class='nog'>LORD<\/span> my God, mine Holy One? we shall not die. O <span class='nog'>LORD<\/span>, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction.",
-      "plainText" : "Art thou not from everlasting, O LORD my God, mine Holy One? we shall not die. O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "22744",
+      "text": "<span class='extra'>Art</span> thou not from everlasting, O <span class='nog'>LORD</span> my God, mine Holy One? we shall not die. O <span class='nog'>LORD</span>, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction.",
+      "plainText": "Art thou not from everlasting, O LORD my God, mine Holy One? we shall not die. O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "22745",
-      "text" : "<span class='extra'>Thou art<\/span> of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, <span class='extra'>and<\/span> holdest thy tongue when the wicked devoureth <span class='extra'>the man that is<\/span> more righteous than he?",
-      "plainText" : "Thou art of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "22745",
+      "text": "<span class='extra'>Thou art</span> of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, <span class='extra'>and</span> holdest thy tongue when the wicked devoureth <span class='extra'>the man that is</span> more righteous than he?",
+      "plainText": "Thou art of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "22746",
-      "text" : "And makest men as the fishes of the sea, as the creeping things, <span class='extra'>that have<\/span> no ruler over them?",
-      "plainText" : "And makest men as the fishes of the sea, as the creeping things, that have no ruler over them?"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "22746",
+      "text": "And makest men as the fishes of the sea, as the creeping things, <span class='extra'>that have</span> no ruler over them?",
+      "plainText": "And makest men as the fishes of the sea, as the creeping things, that have no ruler over them?"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "22747",
-      "text" : "They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad.",
-      "plainText" : "They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "22747",
+      "text": "They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad.",
+      "plainText": "They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "22748",
-      "text" : "Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion <span class='extra'>is<\/span> fat, and their meat plenteous.",
-      "plainText" : "Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion is fat, and their meat plenteous."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "22748",
+      "text": "Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion <span class='extra'>is</span> fat, and their meat plenteous.",
+      "plainText": "Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion is fat, and their meat plenteous."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "22749",
-      "text" : "Shall they therefore empty their net, and not spare continually to slay the nations?",
-      "plainText" : "Shall they therefore empty their net, and not spare continually to slay the nations?"
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "22749",
+      "text": "Shall they therefore empty their net, and not spare continually to slay the nations?",
+      "plainText": "Shall they therefore empty their net, and not spare continually to slay the nations?"
     }
   ]
 }
-
-

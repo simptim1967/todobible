@@ -1,282 +1,253 @@
 {
   "book": {
-    "number" : "26",
-    "filenamePrefix" : "ezekiel",
-    "bookPage" : "ezekiel.html",
-    "title" : "Ezekiel",
-    "chapterCount" : "48",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "daniel_1.html",
-    "nextTitle" : "Daniel",
-    "prevBook" : "lamentations_1.html",
-    "prevTitle" : "Lamentations"
+    "number": "26",
+    "filenamePrefix": "ezekiel",
+    "bookPage": "ezekiel.html",
+    "title": "Ezekiel",
+    "chapterCount": "48",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "daniel_1.html",
+    "nextTitle": "Daniel",
+    "prevBook": "lamentations_1.html",
+    "prevTitle": "Lamentations",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "37",
-    "verseCount" : "28",
-    "nextChapter" : "ezekiel_38.html",
-    "nextTitle" : "Ezekiel 38",
-    "prevChapter" : "ezekiel_36.html",
-    "prevTitle" : "Ezekiel 36",
-    "filename" : "ezekiel_37.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "37",
+    "verseCount": "28",
+    "nextChapter": "ezekiel_38.html",
+    "nextTitle": "Ezekiel 38",
+    "prevChapter": "ezekiel_36.html",
+    "prevTitle": "Ezekiel 36",
+    "filename": "ezekiel_37.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "21399",
-      "text" : "The hand of the <span class='nog'>LORD<\/span> was upon me, and carried me out in the spirit of the <span class='nog'>LORD<\/span>, and set me down in the midst of the valley which <span class='extra'>was<\/span> full of bones,",
-      "plainText" : "The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "21399",
+      "text": "The hand of the <span class='nog'>LORD</span> was upon me, and carried me out in the spirit of the <span class='nog'>LORD</span>, and set me down in the midst of the valley which <span class='extra'>was</span> full of bones,",
+      "plainText": "The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "21400",
-      "text" : "And caused me to pass by them round about: and, behold, <span class='extra'>there were<\/span> very many in the open valley; and, lo, <span class='extra'>they were<\/span> very dry.",
-      "plainText" : "And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "21400",
+      "text": "And caused me to pass by them round about: and, behold, <span class='extra'>there were</span> very many in the open valley; and, lo, <span class='extra'>they were</span> very dry.",
+      "plainText": "And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "21401",
-      "text" : "And he said unto me, Son of man, can these bones live? And I answered, O Lord <span class='nog'>GOD<\/span>, thou knowest.",
-      "plainText" : "And he said unto me, Son of man, can these bones live? And I answered, O Lord GOD, thou knowest."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "21401",
+      "text": "And he said unto me, Son of man, can these bones live? And I answered, O Lord <span class='nog'>GOD</span>, thou knowest.",
+      "plainText": "And he said unto me, Son of man, can these bones live? And I answered, O Lord GOD, thou knowest."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "21402",
-      "text" : "Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "21402",
+      "text": "Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the <span class='nog'>LORD</span>.",
+      "plainText": "Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "21403",
-      "text" : "Thus saith the Lord <span class='nog'>GOD<\/span> unto these bones; Behold, I will cause breath to enter into you, and ye shall live:",
-      "plainText" : "Thus saith the Lord GOD unto these bones; Behold, I will cause breath to enter into you, and ye shall live:"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "21403",
+      "text": "Thus saith the Lord <span class='nog'>GOD</span> unto these bones; Behold, I will cause breath to enter into you, and ye shall live:",
+      "plainText": "Thus saith the Lord GOD unto these bones; Behold, I will cause breath to enter into you, and ye shall live:"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "21404",
-      "text" : "And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I am the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "21404",
+      "text": "And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I <span class='extra'>am</span> the <span class='nog'>LORD</span>.",
+      "plainText": "And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I am the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "21405",
-      "text" : "So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone.",
-      "plainText" : "So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "21405",
+      "text": "So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone.",
+      "plainText": "So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "21406",
-      "text" : "And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but <span class='extra'>there was<\/span> no breath in them.",
-      "plainText" : "And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "21406",
+      "text": "And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but <span class='extra'>there was</span> no breath in them.",
+      "plainText": "And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "21407",
-      "text" : "Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord <span class='nog'>GOD<\/span>; Come from the four winds, O breath, and breathe upon these slain, that they may live.",
-      "plainText" : "Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord GOD; Come from the four winds, O breath, and breathe upon these slain, that they may live."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "21407",
+      "text": "Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord <span class='nog'>GOD</span>; Come from the four winds, O breath, and breathe upon these slain, that they may live.",
+      "plainText": "Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord GOD; Come from the four winds, O breath, and breathe upon these slain, that they may live."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "21408",
-      "text" : "So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.",
-      "plainText" : "So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "21408",
+      "text": "So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.",
+      "plainText": "So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "21409",
-      "text" : "Then he said unto me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts.",
-      "plainText" : "Then he said unto me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "21409",
+      "text": "Then he said unto me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts.",
+      "plainText": "Then he said unto me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "21410",
-      "text" : "Therefore prophesy and say unto them, Thus saith the Lord <span class='nog'>GOD<\/span>; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel.",
-      "plainText" : "Therefore prophesy and say unto them, Thus saith the Lord GOD; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "21410",
+      "text": "Therefore prophesy and say unto them, Thus saith the Lord <span class='nog'>GOD</span>; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel.",
+      "plainText": "Therefore prophesy and say unto them, Thus saith the Lord GOD; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "21411",
-      "text" : "And ye shall know that I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>, when I have opened your graves, O my people, and brought you up out of your graves,",
-      "plainText" : "And ye shall know that I am the LORD, when I have opened your graves, O my people, and brought you up out of your graves,"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "21411",
+      "text": "And ye shall know that I <span class='extra'>am</span> the <span class='nog'>LORD</span>, when I have opened your graves, O my people, and brought you up out of your graves,",
+      "plainText": "And ye shall know that I am the LORD, when I have opened your graves, O my people, and brought you up out of your graves,"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "21412",
-      "text" : "And shall put my spirit in you, and ye shall live, and I shall place you in your own land: then shall ye know that I the <span class='nog'>LORD<\/span> have spoken <span class='extra'>it<\/span>, and performed <span class='extra'>it<\/span>, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And shall put my spirit in you, and ye shall live, and I shall place you in your own land: then shall ye know that I the LORD have spoken it, and performed it, saith the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "21412",
+      "text": "And shall put my spirit in you, and ye shall live, and I shall place you in your own land: then shall ye know that I the <span class='nog'>LORD</span> have spoken <span class='extra'>it</span>, and performed <span class='extra'>it</span>, saith the <span class='nog'>LORD</span>.",
+      "plainText": "And shall put my spirit in you, and ye shall live, and I shall place you in your own land: then shall ye know that I the LORD have spoken it, and performed it, saith the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "21413",
-      "text" : "The word of the <span class='nog'>LORD<\/span> came again unto me, saying,",
-      "plainText" : "The word of the LORD came again unto me, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "21413",
+      "text": "The word of the <span class='nog'>LORD</span> came again unto me, saying,",
+      "plainText": "The word of the LORD came again unto me, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "21414",
-      "text" : "Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and <span class='extra'>for<\/span> all the house of Israel his companions:",
-      "plainText" : "Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "21414",
+      "text": "Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and <span class='extra'>for</span> all the house of Israel his companions:",
+      "plainText": "Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "21415",
-      "text" : "And join them one to another into one stick; and they shall become one in thine hand.",
-      "plainText" : "And join them one to another into one stick; and they shall become one in thine hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "21415",
+      "text": "And join them one to another into one stick; and they shall become one in thine hand.",
+      "plainText": "And join them one to another into one stick; and they shall become one in thine hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "21416",
-      "text" : "And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou <span class='extra'>meanest<\/span> by these?",
-      "plainText" : "And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "21416",
+      "text": "And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou <span class='extra'>meanest</span> by these?",
+      "plainText": "And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "21417",
-      "text" : "Say unto them, Thus saith the Lord <span class='nog'>GOD<\/span>; Behold, I will take the stick of Joseph, which <span class='extra'>is<\/span> in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, <span class='extra'>even<\/span> with the stick of Judah, and make them one stick, and they shall be one in mine hand.",
-      "plainText" : "Say unto them, Thus saith the Lord GOD; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "21417",
+      "text": "Say unto them, Thus saith the Lord <span class='nog'>GOD</span>; Behold, I will take the stick of Joseph, which <span class='extra'>is</span> in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, <span class='extra'>even</span> with the stick of Judah, and make them one stick, and they shall be one in mine hand.",
+      "plainText": "Say unto them, Thus saith the Lord GOD; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "21418",
-      "text" : "And the sticks whereon thou writest shall be in thine hand before their eyes.",
-      "plainText" : "And the sticks whereon thou writest shall be in thine hand before their eyes."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "21418",
+      "text": "And the sticks whereon thou writest shall be in thine hand before their eyes.",
+      "plainText": "And the sticks whereon thou writest shall be in thine hand before their eyes."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "21419",
-      "text" : "And say unto them, Thus saith the Lord <span class='nog'>GOD<\/span>; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:",
-      "plainText" : "And say unto them, Thus saith the Lord GOD; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "21419",
+      "text": "And say unto them, Thus saith the Lord <span class='nog'>GOD</span>; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:",
+      "plainText": "And say unto them, Thus saith the Lord GOD; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "21420",
-      "text" : "And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:",
-      "plainText" : "And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "21420",
+      "text": "And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:",
+      "plainText": "And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "21421",
-      "text" : "Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God.",
-      "plainText" : "Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "21421",
+      "text": "Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God.",
+      "plainText": "Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "21422",
-      "text" : "And David my servant <span class='extra'>shall be<\/span> king over them; and they all shall have one shepherd: they shall also walk in my judgments, and observe my statutes, and do them.",
-      "plainText" : "And David my servant shall be king over them; and they all shall have one shepherd: they shall also walk in my judgments, and observe my statutes, and do them."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "21422",
+      "text": "And David my servant <span class='extra'>shall be</span> king over them; and they all shall have one shepherd: they shall also walk in my judgments, and observe my statutes, and do them.",
+      "plainText": "And David my servant shall be king over them; and they all shall have one shepherd: they shall also walk in my judgments, and observe my statutes, and do them."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "21423",
-      "text" : "And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, <span class='extra'>even<\/span> they, and their children, and their children's children for ever: and my servant David <span class='extra'>shall be<\/span> their prince for ever.",
-      "plainText" : "And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, even they, and their children, and their children's children for ever: and my servant David shall be their prince for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "21423",
+      "text": "And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, <span class='extra'>even</span> they, and their children, and their children's children for ever: and my servant David <span class='extra'>shall be</span> their prince for ever.",
+      "plainText": "And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, even they, and their children, and their children's children for ever: and my servant David shall be their prince for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "21424",
-      "text" : "Moreover I will make a covenant of peace with them; it shall be an everlasting covenant with them: and I will place them, and multiply them, and will set my sanctuary in the midst of them for evermore.",
-      "plainText" : "Moreover I will make a covenant of peace with them; it shall be an everlasting covenant with them: and I will place them, and multiply them, and will set my sanctuary in the midst of them for evermore."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "21424",
+      "text": "Moreover I will make a covenant of peace with them; it shall be an everlasting covenant with them: and I will place them, and multiply them, and will set my sanctuary in the midst of them for evermore.",
+      "plainText": "Moreover I will make a covenant of peace with them; it shall be an everlasting covenant with them: and I will place them, and multiply them, and will set my sanctuary in the midst of them for evermore."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "21425",
-      "text" : "My tabernacle also shall be with them: yea, I will be their God, and they shall be my people.",
-      "plainText" : "My tabernacle also shall be with them: yea, I will be their God, and they shall be my people."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "21425",
+      "text": "My tabernacle also shall be with them: yea, I will be their God, and they shall be my people.",
+      "plainText": "My tabernacle also shall be with them: yea, I will be their God, and they shall be my people."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "21426",
-      "text" : "And the heathen shall know that I the <span class='nog'>LORD<\/span> do sanctify Israel, when my sanctuary shall be in the midst of them for evermore.",
-      "plainText" : "And the heathen shall know that I the LORD do sanctify Israel, when my sanctuary shall be in the midst of them for evermore."
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "21426",
+      "text": "And the heathen shall know that I the <span class='nog'>LORD</span> do sanctify Israel, when my sanctuary shall be in the midst of them for evermore.",
+      "plainText": "And the heathen shall know that I the LORD do sanctify Israel, when my sanctuary shall be in the midst of them for evermore."
     }
   ]
 }
-
-
-

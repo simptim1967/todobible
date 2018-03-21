@@ -1,154 +1,141 @@
 {
   "book": {
-    "number" : "17",
-    "filenamePrefix" : "esther",
-    "bookPage" : "esther.html",
-    "title" : "Esther",
-    "chapterCount" : "10",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "job_1.html",
-    "nextTitle" : "Job",
-    "prevBook" : "nehemiah_1.html",
-    "prevTitle" : "Nehemiah"
+    "number": "17",
+    "filenamePrefix": "esther",
+    "bookPage": "esther.html",
+    "title": "Esther",
+    "chapterCount": "10",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "job_1.html",
+    "nextTitle": "Job",
+    "prevBook": "nehemiah_1.html",
+    "prevTitle": "Nehemiah",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "5",
-    "verseCount" : "14",
-    "nextChapter" : "esther_6.html",
-    "nextTitle" : "Esther 6",
-    "prevChapter" : "esther_4.html",
-    "prevTitle" : "Esther 4",
-    "filename" : "esther_5.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "5",
+    "verseCount": "14",
+    "nextChapter": "esther_6.html",
+    "nextTitle": "Esther 6",
+    "prevChapter": "esther_4.html",
+    "prevTitle": "Esther 4",
+    "filename": "esther_5.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "12781",
-      "text" : "Now it came to pass on the third day, that Esther put on <span class='extra'>her<\/span> royal <span class='extra'>apparel<\/span>, and stood in the inner court of the king's house, over against the king's house: and the king sat upon his royal throne in the royal house, over against the gate of the house.",
-      "plainText" : "Now it came to pass on the third day, that Esther put on her royal apparel, and stood in the inner court of the king's house, over against the king's house: and the king sat upon his royal throne in the royal house, over against the gate of the house."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "12781",
+      "text": "Now it came to pass on the third day, that Esther put on <span class='extra'>her</span> royal <span class='extra'>apparel</span>, and stood in the inner court of the king's house, over against the king's house: and the king sat upon his royal throne in the royal house, over against the gate of the house.",
+      "plainText": "Now it came to pass on the third day, that Esther put on her royal apparel, and stood in the inner court of the king's house, over against the king's house: and the king sat upon his royal throne in the royal house, over against the gate of the house."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "12782",
-      "text" : "And it was so, when the king saw Esther the queen standing in the court, <span class='extra'>that<\/span> she obtained favour in his sight: and the king held out to Esther the golden sceptre that <span class='extra'>was<\/span> in his hand. So Esther drew near, and touched the top of the sceptre.",
-      "plainText" : "And it was so, when the king saw Esther the queen standing in the court, that she obtained favour in his sight: and the king held out to Esther the golden sceptre that was in his hand. So Esther drew near, and touched the top of the sceptre."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "12782",
+      "text": "And it was so, when the king saw Esther the queen standing in the court, <span class='extra'>that</span> she obtained favour in his sight: and the king held out to Esther the golden sceptre that <span class='extra'>was</span> in his hand. So Esther drew near, and touched the top of the sceptre.",
+      "plainText": "And it was so, when the king saw Esther the queen standing in the court, that she obtained favour in his sight: and the king held out to Esther the golden sceptre that was in his hand. So Esther drew near, and touched the top of the sceptre."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "12783",
-      "text" : "Then said the king unto her, What wilt thou, queen Esther? and what <span class='extra'>is<\/span> thy request? it shall be even given thee to the half of the kingdom.",
-      "plainText" : "Then said the king unto her, What wilt thou, queen Esther? and what is thy request? it shall be even given thee to the half of the kingdom."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "12783",
+      "text": "Then said the king unto her, What wilt thou, queen Esther? and what <span class='extra'>is</span> thy request? it shall be even given thee to the half of the kingdom.",
+      "plainText": "Then said the king unto her, What wilt thou, queen Esther? and what is thy request? it shall be even given thee to the half of the kingdom."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "12784",
-      "text" : "And Esther answered, If <span class='extra'>it seem<\/span> good unto the king, let the king and Haman come this day unto the banquet that I have prepared for him.",
-      "plainText" : "And Esther answered, If it seem good unto the king, let the king and Haman come this day unto the banquet that I have prepared for him."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "12784",
+      "text": "And Esther answered, If <span class='extra'>it seem</span> good unto the king, let the king and Haman come this day unto the banquet that I have prepared for him.",
+      "plainText": "And Esther answered, If it seem good unto the king, let the king and Haman come this day unto the banquet that I have prepared for him."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "12785",
-      "text" : "Then the king said, Cause Haman to make haste, that he may do as Esther hath said. So the king and Haman came to the banquet that Esther had prepared.",
-      "plainText" : "Then the king said, Cause Haman to make haste, that he may do as Esther hath said. So the king and Haman came to the banquet that Esther had prepared."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "12785",
+      "text": "Then the king said, Cause Haman to make haste, that he may do as Esther hath said. So the king and Haman came to the banquet that Esther had prepared.",
+      "plainText": "Then the king said, Cause Haman to make haste, that he may do as Esther hath said. So the king and Haman came to the banquet that Esther had prepared."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "12786",
-      "text" : "And the king said unto Esther at the banquet of wine, What <span class='extra'>is<\/span> thy petition? and it shall be granted thee: and what <span class='extra'>is<\/span> thy request? even to the half of the kingdom it shall be performed.",
-      "plainText" : "And the king said unto Esther at the banquet of wine, What is thy petition? and it shall be granted thee: and what is thy request? even to the half of the kingdom it shall be performed."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "12786",
+      "text": "And the king said unto Esther at the banquet of wine, What <span class='extra'>is</span> thy petition? and it shall be granted thee: and what <span class='extra'>is</span> thy request? even to the half of the kingdom it shall be performed.",
+      "plainText": "And the king said unto Esther at the banquet of wine, What is thy petition? and it shall be granted thee: and what is thy request? even to the half of the kingdom it shall be performed."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "12787",
-      "text" : "Then answered Esther, and said, My petition and my request <span class='extra'>is<\/span>;",
-      "plainText" : "Then answered Esther, and said, My petition and my request is;"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "12787",
+      "text": "Then answered Esther, and said, My petition and my request <span class='extra'>is</span>;",
+      "plainText": "Then answered Esther, and said, My petition and my request is;"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "12788",
-      "text" : "If I have found favour in the sight of the king, and if it please the king to grant my petition, and to perform my request, let the king and Haman come to the banquet that I shall prepare for them, and I will do to morrow as the king hath said.",
-      "plainText" : "If I have found favour in the sight of the king, and if it please the king to grant my petition, and to perform my request, let the king and Haman come to the banquet that I shall prepare for them, and I will do to morrow as the king hath said."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "12788",
+      "text": "If I have found favour in the sight of the king, and if it please the king to grant my petition, and to perform my request, let the king and Haman come to the banquet that I shall prepare for them, and I will do to morrow as the king hath said.",
+      "plainText": "If I have found favour in the sight of the king, and if it please the king to grant my petition, and to perform my request, let the king and Haman come to the banquet that I shall prepare for them, and I will do to morrow as the king hath said."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "12789",
-      "text" : "Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king's gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai.",
-      "plainText" : "Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king's gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "12789",
+      "text": "Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king's gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai.",
+      "plainText": "Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king's gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "12790",
-      "text" : "Nevertheless Haman refrained himself: and when he came home, he sent and called for his friends, and Zeresh his wife.",
-      "plainText" : "Nevertheless Haman refrained himself: and when he came home, he sent and called for his friends, and Zeresh his wife."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "12790",
+      "text": "Nevertheless Haman refrained himself: and when he came home, he sent and called for his friends, and Zeresh his wife.",
+      "plainText": "Nevertheless Haman refrained himself: and when he came home, he sent and called for his friends, and Zeresh his wife."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "12791",
-      "text" : "And Haman told them of the glory of his riches, and the multitude of his children, and all <span class='extra'>the things<\/span> wherein the king had promoted him, and how he had advanced him above the princes and servants of the king.",
-      "plainText" : "And Haman told them of the glory of his riches, and the multitude of his children, and all the things wherein the king had promoted him, and how he had advanced him above the princes and servants of the king."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "12791",
+      "text": "And Haman told them of the glory of his riches, and the multitude of his children, and all <span class='extra'>the things</span> wherein the king had promoted him, and how he had advanced him above the princes and servants of the king.",
+      "plainText": "And Haman told them of the glory of his riches, and the multitude of his children, and all the things wherein the king had promoted him, and how he had advanced him above the princes and servants of the king."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "12792",
-      "text" : "Haman said moreover, Yea, Esther the queen did let no man come in with the king unto the banquet that she had prepared but myself; and to morrow am I invited unto her also with the king.",
-      "plainText" : "Haman said moreover, Yea, Esther the queen did let no man come in with the king unto the banquet that she had prepared but myself; and to morrow am I invited unto her also with the king."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "12792",
+      "text": "Haman said moreover, Yea, Esther the queen did let no man come in with the king unto the banquet that she had prepared but myself; and to morrow am I invited unto her also with the king.",
+      "plainText": "Haman said moreover, Yea, Esther the queen did let no man come in with the king unto the banquet that she had prepared but myself; and to morrow am I invited unto her also with the king."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "12793",
-      "text" : "Yet all this availeth me nothing, so long as I see Mordecai the Jew sitting at the king's gate.",
-      "plainText" : "Yet all this availeth me nothing, so long as I see Mordecai the Jew sitting at the king's gate."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "12793",
+      "text": "Yet all this availeth me nothing, so long as I see Mordecai the Jew sitting at the king's gate.",
+      "plainText": "Yet all this availeth me nothing, so long as I see Mordecai the Jew sitting at the king's gate."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "12794",
-      "text" : "Then said Zeresh his wife and all his friends unto him, Let a gallows be made of fifty cubits high, and to morrow speak thou unto the king that Mordecai may be hanged thereon: then go thou in merrily with the king unto the banquet. And the thing pleased Haman; and he caused the gallows to be made.",
-      "plainText" : "Then said Zeresh his wife and all his friends unto him, Let a gallows be made of fifty cubits high, and to morrow speak thou unto the king that Mordecai may be hanged thereon: then go thou in merrily with the king unto the banquet. And the thing pleased Haman; and he caused the gallows to be made."
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "12794",
+      "text": "Then said Zeresh his wife and all his friends unto him, Let a gallows be made of fifty cubits high, and to morrow speak thou unto the king that Mordecai may be hanged thereon: then go thou in merrily with the king unto the banquet. And the thing pleased Haman; and he caused the gallows to be made.",
+      "plainText": "Then said Zeresh his wife and all his friends unto him, Let a gallows be made of fifty cubits high, and to morrow speak thou unto the king that Mordecai may be hanged thereon: then go thou in merrily with the king unto the banquet. And the thing pleased Haman; and he caused the gallows to be made."
     }
   ]
 }
-

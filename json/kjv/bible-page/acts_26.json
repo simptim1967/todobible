@@ -1,316 +1,285 @@
 {
   "book": {
-    "number" : "44",
-    "filenamePrefix" : "acts",
-    "bookPage" : "acts.html",
-    "title" : "Acts",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "romans_1.html",
-    "nextTitle" : "Romans",
-    "prevBook" : "john_1.html",
-    "prevTitle" : "John"
+    "number": "44",
+    "filenamePrefix": "acts",
+    "bookPage": "acts.html",
+    "title": "Acts",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "romans_1.html",
+    "nextTitle": "Romans",
+    "prevBook": "john_1.html",
+    "prevTitle": "John",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "26",
-    "verseCount" : "32",
-    "nextChapter" : "acts_27.html",
-    "nextTitle" : "Acts 27",
-    "prevChapter" : "acts_25.html",
-    "prevTitle" : "Acts 25",
-    "filename" : "acts_26.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "26",
+    "verseCount": "32",
+    "nextChapter": "acts_27.html",
+    "nextTitle": "Acts 27",
+    "prevChapter": "acts_25.html",
+    "prevTitle": "Acts 25",
+    "filename": "acts_26.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "27825",
-      "text" : "Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:",
-      "plainText" : "Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "27825",
+      "text": "Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:",
+      "plainText": "Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "27826",
-      "text" : "I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:",
-      "plainText" : "I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "27826",
+      "text": "I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:",
+      "plainText": "I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "27827",
-      "text" : "Especially <span class='extra'>because I know<\/span> thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently.",
-      "plainText" : "Especially because I know thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "27827",
+      "text": "Especially <span class='extra'>because I know</span> thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently.",
+      "plainText": "Especially because I know thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "27828",
-      "text" : "My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;",
-      "plainText" : "My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "27828",
+      "text": "My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;",
+      "plainText": "My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "27829",
-      "text" : "Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.",
-      "plainText" : "Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "27829",
+      "text": "Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.",
+      "plainText": "Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "27830",
-      "text" : "And now I stand and am judged for the hope of the promise made of God unto our fathers:",
-      "plainText" : "And now I stand and am judged for the hope of the promise made of God unto our fathers:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "27830",
+      "text": "And now I stand and am judged for the hope of the promise made of God unto our fathers:",
+      "plainText": "And now I stand and am judged for the hope of the promise made of God unto our fathers:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "27831",
-      "text" : "Unto which <span class='extra'>promise<\/span> our twelve tribes, instantly serving <span class='extra'>God<\/span> day and night, hope to come. For which hope's sake, king Agrippa, I am accused of the Jews.",
-      "plainText" : "Unto which promise our twelve tribes, instantly serving God day and night, hope to come. For which hope's sake, king Agrippa, I am accused of the Jews."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "27831",
+      "text": "Unto which <span class='extra'>promise</span> our twelve tribes, instantly serving <span class='extra'>God</span> day and night, hope to come. For which hope's sake, king Agrippa, I am accused of the Jews.",
+      "plainText": "Unto which promise our twelve tribes, instantly serving God day and night, hope to come. For which hope's sake, king Agrippa, I am accused of the Jews."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "27832",
-      "text" : "Why should it be thought a thing incredible with you, that God should raise the dead?",
-      "plainText" : "Why should it be thought a thing incredible with you, that God should raise the dead?"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "27832",
+      "text": "Why should it be thought a thing incredible with you, that God should raise the dead?",
+      "plainText": "Why should it be thought a thing incredible with you, that God should raise the dead?"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "27833",
-      "text" : "I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth.",
-      "plainText" : "I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "27833",
+      "text": "I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth.",
+      "plainText": "I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "27834",
-      "text" : "Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against <span class='extra'>them<\/span>.",
-      "plainText" : "Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against them."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "27834",
+      "text": "Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against <span class='extra'>them</span>.",
+      "plainText": "Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against them."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "27835",
-      "text" : "And I punished them oft in every synagogue, and compelled <span class='extra'>them<\/span> to blaspheme; and being exceedingly mad against them, I persecuted <span class='extra'>them<\/span> even unto strange cities.",
-      "plainText" : "And I punished them oft in every synagogue, and compelled them to blaspheme; and being exceedingly mad against them, I persecuted them even unto strange cities."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "27835",
+      "text": "And I punished them oft in every synagogue, and compelled <span class='extra'>them</span> to blaspheme; and being exceedingly mad against them, I persecuted <span class='extra'>them</span> even unto strange cities.",
+      "plainText": "And I punished them oft in every synagogue, and compelled them to blaspheme; and being exceedingly mad against them, I persecuted them even unto strange cities."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "27836",
-      "text" : "Whereupon as I went to Damascus with authority and commission from the chief priests,",
-      "plainText" : "Whereupon as I went to Damascus with authority and commission from the chief priests,"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "27836",
+      "text": "Whereupon as I went to Damascus with authority and commission from the chief priests,",
+      "plainText": "Whereupon as I went to Damascus with authority and commission from the chief priests,"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "27837",
-      "text" : "At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me.",
-      "plainText" : "At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "27837",
+      "text": "At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me.",
+      "plainText": "At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "27838",
-      "text" : "And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, <span class='woc'>Saul, Saul, why persecutest thou me? <span class='extra'>it is<\/span> hard for thee to kick against the pricks.<\/span>",
-      "plainText" : "And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? it is hard for thee to kick against the pricks."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "27838",
+      "text": "And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, <span class='woc'>Saul, Saul, why persecutest thou me? <span class='extra'>it is</span> hard for thee to kick against the pricks.</span>",
+      "plainText": "And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? it is hard for thee to kick against the pricks."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "27839",
-      "text" : "And I said, Who art thou, Lord? And he said, <span class='woc'>I am Jesus whom thou persecutest.<\/span>",
-      "plainText" : "And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "27839",
+      "text": "And I said, Who art thou, Lord? And he said, <span class='woc'>I am Jesus whom thou persecutest.</span>",
+      "plainText": "And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "27840",
-      "text" : "<span class='woc'>But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;<\/span>",
-      "plainText" : "But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "27840",
+      "text": "<span class='woc'>But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;</span>",
+      "plainText": "But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "27841",
-      "text" : "<span class='woc'>Delivering thee from the people, and <span class='extra'>from<\/span> the Gentiles, unto whom now I send thee,<\/span>",
-      "plainText" : "Delivering thee from the people, and from the Gentiles, unto whom now I send thee,"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "27841",
+      "text": "<span class='woc'>Delivering thee from the people, and <span class='extra'>from</span> the Gentiles, unto whom now I send thee,</span>",
+      "plainText": "Delivering thee from the people, and from the Gentiles, unto whom now I send thee,"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "27842",
-      "text" : "<span class='woc'>To open their eyes, <span class='extra'>and<\/span> to turn <span class='extra'>them<\/span> from darkness to light, and <span class='extra'>from<\/span> the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.<\/span>",
-      "plainText" : "To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "27842",
+      "text": "<span class='woc'>To open their eyes, <span class='extra'>and</span> to turn <span class='extra'>them</span> from darkness to light, and <span class='extra'>from</span> the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.</span>",
+      "plainText": "To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "27843",
-      "text" : "Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision:",
-      "plainText" : "Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision:"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "27843",
+      "text": "Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision:",
+      "plainText": "Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision:"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "27844",
-      "text" : "But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judaea, and <span class='extra'>then<\/span> to the Gentiles, that they should repent and turn to God, and do works meet for repentance.",
-      "plainText" : "But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judaea, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "27844",
+      "text": "But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judaea, and <span class='extra'>then</span> to the Gentiles, that they should repent and turn to God, and do works meet for repentance.",
+      "plainText": "But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judaea, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "27845",
-      "text" : "For these causes the Jews caught me in the temple, and went about to kill <span class='extra'>me<\/span>.",
-      "plainText" : "For these causes the Jews caught me in the temple, and went about to kill me."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "27845",
+      "text": "For these causes the Jews caught me in the temple, and went about to kill <span class='extra'>me</span>.",
+      "plainText": "For these causes the Jews caught me in the temple, and went about to kill me."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "27846",
-      "text" : "Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:",
-      "plainText" : "Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "27846",
+      "text": "Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:",
+      "plainText": "Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "27847",
-      "text" : "That Christ should suffer, <span class='extra'>and<\/span> that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles.",
-      "plainText" : "That Christ should suffer, and that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "27847",
+      "text": "That Christ should suffer, <span class='extra'>and</span> that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles.",
+      "plainText": "That Christ should suffer, and that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "27848",
-      "text" : "And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad.",
-      "plainText" : "And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "27848",
+      "text": "And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad.",
+      "plainText": "And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "27849",
-      "text" : "But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness.",
-      "plainText" : "But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "27849",
+      "text": "But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness.",
+      "plainText": "But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "27850",
-      "text" : "For the king knoweth of these things, before whom also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner.",
-      "plainText" : "For the king knoweth of these things, before whom also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "27850",
+      "text": "For the king knoweth of these things, before whom also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner.",
+      "plainText": "For the king knoweth of these things, before whom also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "27851",
-      "text" : "King Agrippa, believest thou the prophets? I know that thou believest.",
-      "plainText" : "King Agrippa, believest thou the prophets? I know that thou believest."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "27851",
+      "text": "King Agrippa, believest thou the prophets? I know that thou believest.",
+      "plainText": "King Agrippa, believest thou the prophets? I know that thou believest."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "27852",
-      "text" : "Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian.",
-      "plainText" : "Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "27852",
+      "text": "Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian.",
+      "plainText": "Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "27853",
-      "text" : "And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds.",
-      "plainText" : "And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "27853",
+      "text": "And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds.",
+      "plainText": "And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "27854",
-      "text" : "And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them:",
-      "plainText" : "And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them:"
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "27854",
+      "text": "And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them:",
+      "plainText": "And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them:"
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "27855",
-      "text" : "And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds.",
-      "plainText" : "And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "27855",
+      "text": "And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds.",
+      "plainText": "And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "27856",
-      "text" : "Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Caesar.",
-      "plainText" : "Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Caesar."
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "27856",
+      "text": "Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Caesar.",
+      "plainText": "Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Caesar."
     }
   ]
 }
-

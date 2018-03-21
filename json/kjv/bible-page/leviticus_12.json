@@ -1,101 +1,93 @@
 {
   "book": {
-    "number" : "3",
-    "filenamePrefix" : "leviticus",
-    "bookPage" : "leviticus.html",
-    "title" : "Leviticus",
-    "chapterCount" : "27",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "numbers_1.html",
-    "nextTitle" : "Numbers",
-    "prevBook" : "exodus_1.html",
-    "prevTitle" : "Exodus"
+    "number": "3",
+    "filenamePrefix": "leviticus",
+    "bookPage": "leviticus.html",
+    "title": "Leviticus",
+    "chapterCount": "27",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "numbers_1.html",
+    "nextTitle": "Numbers",
+    "prevBook": "exodus_1.html",
+    "prevTitle": "Exodus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "12",
-    "verseCount" : "8",
-    "nextChapter" : "leviticus_13.html",
-    "nextTitle" : "Leviticus 13",
-    "prevChapter" : "leviticus_11.html",
-    "prevTitle" : "Leviticus 11",
-    "filename" : "leviticus_12.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "12",
+    "verseCount": "8",
+    "nextChapter": "leviticus_13.html",
+    "nextTitle": "Leviticus 13",
+    "prevChapter": "leviticus_11.html",
+    "prevTitle": "Leviticus 11",
+    "filename": "leviticus_12.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "3046",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "3046",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "3047",
-      "text" : "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.",
-      "plainText" : "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "3047",
+      "text": "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.",
+      "plainText": "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "3048",
-      "text" : "And in the eighth day the flesh of his foreskin shall be circumcised.",
-      "plainText" : "And in the eighth day the flesh of his foreskin shall be circumcised."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "3048",
+      "text": "And in the eighth day the flesh of his foreskin shall be circumcised.",
+      "plainText": "And in the eighth day the flesh of his foreskin shall be circumcised."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "3049",
-      "text" : "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.",
-      "plainText" : "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "3049",
+      "text": "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.",
+      "plainText": "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "3050",
-      "text" : "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.",
-      "plainText" : "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "3050",
+      "text": "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.",
+      "plainText": "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "3051",
-      "text" : "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:",
-      "plainText" : "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "3051",
+      "text": "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:",
+      "plainText": "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "3052",
-      "text" : "Who shall offer it before the <span class='nog'>LORD<\/span>, and make an atonement for her; and she shall be cleansed from the issue of her blood. This <span class='extra'>is<\/span> the law for her that hath born a male or a female.",
-      "plainText" : "Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "3052",
+      "text": "Who shall offer it before the <span class='nog'>LORD</span>, and make an atonement for her; and she shall be cleansed from the issue of her blood. This <span class='extra'>is</span> the law for her that hath born a male or a female.",
+      "plainText": "Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "3053",
-      "text" : "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.",
-      "plainText" : "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean."
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "3053",
+      "text": "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.",
+      "plainText": "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean."
     }
   ]
 }
-
-

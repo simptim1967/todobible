@@ -1,136 +1,125 @@
 {
   "book": {
-    "number" : "53",
-    "filenamePrefix" : "2thessalonians",
-    "bookPage" : "2thessalonians.html",
-    "title" : "2 Thessalonians",
-    "chapterCount" : "3",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "1timothy_1.html",
-    "nextTitle" : "1 Timothy",
-    "prevBook" : "1thessalonians_1.html",
-    "prevTitle" : "1 Thessalonians"
+    "number": "53",
+    "filenamePrefix": "2thessalonians",
+    "bookPage": "2thessalonians.html",
+    "title": "2 Thessalonians",
+    "chapterCount": "3",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "1timothy_1.html",
+    "nextTitle": "1 Timothy",
+    "prevBook": "1thessalonians_1.html",
+    "prevTitle": "1 Thessalonians",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "1",
-    "verseCount" : "12",
-    "nextChapter" : "2thessalonians_2.html",
-    "nextTitle" : "2 Thessalonians 2",
-    "prevChapter" : "1thessalonians_5.html",
-    "prevTitle" : "1 Thessalonians 5",
-    "filename" : "2thessalonians_1.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "1",
+    "verseCount": "12",
+    "nextChapter": "2thessalonians_2.html",
+    "nextTitle": "2 Thessalonians 2",
+    "prevChapter": "1thessalonians_5.html",
+    "prevTitle": "1 Thessalonians 5",
+    "filename": "2thessalonians_1.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "29651",
-      "text" : "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:",
-      "plainText" : "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "29651",
+      "text": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:",
+      "plainText": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "29652",
-      "text" : "Grace unto you, and peace, from God our Father and the Lord Jesus Christ.",
-      "plainText" : "Grace unto you, and peace, from God our Father and the Lord Jesus Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "29652",
+      "text": "Grace unto you, and peace, from God our Father and the Lord Jesus Christ.",
+      "plainText": "Grace unto you, and peace, from God our Father and the Lord Jesus Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "29653",
-      "text" : "We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;",
-      "plainText" : "We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "29653",
+      "text": "We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;",
+      "plainText": "We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "29654",
-      "text" : "So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:",
-      "plainText" : "So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "29654",
+      "text": "So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:",
+      "plainText": "So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "29655",
-      "text" : "<span class='extra'>Which is<\/span> a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:",
-      "plainText" : "Which is a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "29655",
+      "text": "<span class='extra'>Which is</span> a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:",
+      "plainText": "Which is a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "29656",
-      "text" : "Seeing <span class='extra'>it is<\/span> a righteous thing with God to recompense tribulation to them that trouble you;",
-      "plainText" : "Seeing it is a righteous thing with God to recompense tribulation to them that trouble you;"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "29656",
+      "text": "Seeing <span class='extra'>it is</span> a righteous thing with God to recompense tribulation to them that trouble you;",
+      "plainText": "Seeing it is a righteous thing with God to recompense tribulation to them that trouble you;"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "29657",
-      "text" : "And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,",
-      "plainText" : "And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "29657",
+      "text": "And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,",
+      "plainText": "And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "29658",
-      "text" : "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:",
-      "plainText" : "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "29658",
+      "text": "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:",
+      "plainText": "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "29659",
-      "text" : "Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;",
-      "plainText" : "Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "29659",
+      "text": "Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;",
+      "plainText": "Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "29660",
-      "text" : "When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.",
-      "plainText" : "When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "29660",
+      "text": "When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.",
+      "plainText": "When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "29661",
-      "text" : "Wherefore also we pray always for you, that our God would count you worthy of <span class='extra'>this<\/span> calling, and fulfil all the good pleasure of <span class='extra'>his<\/span> goodness, and the work of faith with power:",
-      "plainText" : "Wherefore also we pray always for you, that our God would count you worthy of this calling, and fulfil all the good pleasure of his goodness, and the work of faith with power:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "29661",
+      "text": "Wherefore also we pray always for you, that our God would count you worthy of <span class='extra'>this</span> calling, and fulfil all the good pleasure of <span class='extra'>his</span> goodness, and the work of faith with power:",
+      "plainText": "Wherefore also we pray always for you, that our God would count you worthy of this calling, and fulfil all the good pleasure of his goodness, and the work of faith with power:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "29662",
-      "text" : "That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.",
-      "plainText" : "That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ."
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "29662",
+      "text": "That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.",
+      "plainText": "That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ."
     }
   ]
 }
-

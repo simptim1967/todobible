@@ -1,181 +1,165 @@
 {
   "book": {
-    "number" : "22",
-    "filenamePrefix" : "song_of_solomon",
-    "bookPage" : "songofsolomon.html",
-    "title" : "Song of Solomon",
-    "chapterCount" : "8",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "isaiah_1.html",
-    "nextTitle" : "Isaiah",
-    "prevBook" : "ecclesiastes_1.html",
-    "prevTitle" : "Ecclesiastes"
+    "number": "22",
+    "filenamePrefix": "song_of_solomon",
+    "bookPage": "songofsolomon.html",
+    "title": "Song of Solomon",
+    "chapterCount": "8",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "isaiah_1.html",
+    "nextTitle": "Isaiah",
+    "prevBook": "ecclesiastes_1.html",
+    "prevTitle": "Ecclesiastes",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "1",
-    "verseCount" : "17",
-    "nextChapter" : "song_of_solomon_2.html",
-    "nextTitle" : "Song of Solomon 2",
-    "prevChapter" : "ecclesiastes_12.html",
-    "prevTitle" : "Ecclesiastes 12",
-    "filename" : "song_of_solomon_1.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "1",
+    "verseCount": "17",
+    "nextChapter": "song_of_solomon_2.html",
+    "nextTitle": "Song of Solomon 2",
+    "prevChapter": "ecclesiastes_12.html",
+    "prevTitle": "Ecclesiastes 12",
+    "filename": "song_of_solomon_1.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "17539",
-      "text" : "The song of songs, which <span class='extra'>is<\/span> Solomon's.",
-      "plainText" : "The song of songs, which is Solomon's."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "17539",
+      "text": "The song of songs, which <span class='extra'>is</span> Solomon's.",
+      "plainText": "The song of songs, which is Solomon's."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "17540",
-      "text" : "Let him kiss me with the kisses of his mouth: for thy love <span class='extra'>is<\/span> better than wine.",
-      "plainText" : "Let him kiss me with the kisses of his mouth: for thy love is better than wine."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "17540",
+      "text": "Let him kiss me with the kisses of his mouth: for thy love <span class='extra'>is</span> better than wine.",
+      "plainText": "Let him kiss me with the kisses of his mouth: for thy love is better than wine."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "17541",
-      "text" : "Because of the savour of thy good ointments thy name <span class='extra'>is as<\/span> ointment poured forth, therefore do the virgins love thee.",
-      "plainText" : "Because of the savour of thy good ointments thy name is as ointment poured forth, therefore do the virgins love thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "17541",
+      "text": "Because of the savour of thy good ointments thy name <span class='extra'>is as</span> ointment poured forth, therefore do the virgins love thee.",
+      "plainText": "Because of the savour of thy good ointments thy name is as ointment poured forth, therefore do the virgins love thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "17542",
-      "text" : "Draw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee.",
-      "plainText" : "Draw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "17542",
+      "text": "Draw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee.",
+      "plainText": "Draw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "17543",
-      "text" : "I <span class='extra'>am<\/span> black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.",
-      "plainText" : "I am black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "17543",
+      "text": "I <span class='extra'>am</span> black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.",
+      "plainText": "I am black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "17544",
-      "text" : "Look not upon me, because I <span class='extra'>am<\/span> black, because the sun hath looked upon me: my mother's children were angry with me; they made me the keeper of the vineyards; <span class='extra'>but<\/span> mine own vineyard have I not kept.",
-      "plainText" : "Look not upon me, because I am black, because the sun hath looked upon me: my mother's children were angry with me; they made me the keeper of the vineyards; but mine own vineyard have I not kept."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "17544",
+      "text": "Look not upon me, because I <span class='extra'>am</span> black, because the sun hath looked upon me: my mother's children were angry with me; they made me the keeper of the vineyards; <span class='extra'>but</span> mine own vineyard have I not kept.",
+      "plainText": "Look not upon me, because I am black, because the sun hath looked upon me: my mother's children were angry with me; they made me the keeper of the vineyards; but mine own vineyard have I not kept."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "17545",
-      "text" : "Tell me, O thou whom my soul loveth, where thou feedest, where thou makest <span class='extra'>thy flock<\/span> to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?",
-      "plainText" : "Tell me, O thou whom my soul loveth, where thou feedest, where thou makest thy flock to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "17545",
+      "text": "Tell me, O thou whom my soul loveth, where thou feedest, where thou makest <span class='extra'>thy flock</span> to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?",
+      "plainText": "Tell me, O thou whom my soul loveth, where thou feedest, where thou makest thy flock to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "17546",
-      "text" : "If thou know not, O thou fairest among women, go thy way forth by the footsteps of the flock, and feed thy kids beside the shepherds' tents.",
-      "plainText" : "If thou know not, O thou fairest among women, go thy way forth by the footsteps of the flock, and feed thy kids beside the shepherds' tents."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "17546",
+      "text": "If thou know not, O thou fairest among women, go thy way forth by the footsteps of the flock, and feed thy kids beside the shepherds' tents.",
+      "plainText": "If thou know not, O thou fairest among women, go thy way forth by the footsteps of the flock, and feed thy kids beside the shepherds' tents."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "17547",
-      "text" : "I have compared thee, O my love, to a company of horses in Pharaoh's chariots.",
-      "plainText" : "I have compared thee, O my love, to a company of horses in Pharaoh's chariots."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "17547",
+      "text": "I have compared thee, O my love, to a company of horses in Pharaoh's chariots.",
+      "plainText": "I have compared thee, O my love, to a company of horses in Pharaoh's chariots."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "17548",
-      "text" : "Thy cheeks are comely with rows <span class='extra'>of jewels<\/span>, thy neck with chains <span class='extra'>of gold<\/span>.",
-      "plainText" : "Thy cheeks are comely with rows of jewels, thy neck with chains of gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "17548",
+      "text": "Thy cheeks are comely with rows <span class='extra'>of jewels</span>, thy neck with chains <span class='extra'>of gold</span>.",
+      "plainText": "Thy cheeks are comely with rows of jewels, thy neck with chains of gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "17549",
-      "text" : "We will make thee borders of gold with studs of silver.",
-      "plainText" : "We will make thee borders of gold with studs of silver."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "17549",
+      "text": "We will make thee borders of gold with studs of silver.",
+      "plainText": "We will make thee borders of gold with studs of silver."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "17550",
-      "text" : "While the king <span class='extra'>sitteth<\/span> at his table, my spikenard sendeth forth the smell thereof.",
-      "plainText" : "While the king sitteth at his table, my spikenard sendeth forth the smell thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "17550",
+      "text": "While the king <span class='extra'>sitteth</span> at his table, my spikenard sendeth forth the smell thereof.",
+      "plainText": "While the king sitteth at his table, my spikenard sendeth forth the smell thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "17551",
-      "text" : "A bundle of myrrh <span class='extra'>is<\/span> my wellbeloved unto me; he shall lie all night betwixt my breasts.",
-      "plainText" : "A bundle of myrrh is my wellbeloved unto me; he shall lie all night betwixt my breasts."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "17551",
+      "text": "A bundle of myrrh <span class='extra'>is</span> my wellbeloved unto me; he shall lie all night betwixt my breasts.",
+      "plainText": "A bundle of myrrh is my wellbeloved unto me; he shall lie all night betwixt my breasts."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "17552",
-      "text" : "My beloved <span class='extra'>is<\/span> unto me <span class='extra'>as<\/span> a cluster of camphire in the vineyards of En-gedi.",
-      "plainText" : "My beloved is unto me as a cluster of camphire in the vineyards of En-gedi."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "17552",
+      "text": "My beloved <span class='extra'>is</span> unto me <span class='extra'>as</span> a cluster of camphire in the vineyards of En-gedi.",
+      "plainText": "My beloved is unto me as a cluster of camphire in the vineyards of En-gedi."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "17553",
-      "text" : "Behold, thou <span class='extra'>art<\/span> fair, my love; behold, thou <span class='extra'>art<\/span> fair; thou <span class='extra'>hast<\/span> doves' eyes.",
-      "plainText" : "Behold, thou art fair, my love; behold, thou art fair; thou hast doves' eyes."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "17553",
+      "text": "Behold, thou <span class='extra'>art</span> fair, my love; behold, thou <span class='extra'>art</span> fair; thou <span class='extra'>hast</span> doves' eyes.",
+      "plainText": "Behold, thou art fair, my love; behold, thou art fair; thou hast doves' eyes."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "17554",
-      "text" : "Behold, thou <span class='extra'>art<\/span> fair, my beloved, yea, pleasant: also our bed <span class='extra'>is<\/span> green.",
-      "plainText" : "Behold, thou art fair, my beloved, yea, pleasant: also our bed is green."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "17554",
+      "text": "Behold, thou <span class='extra'>art</span> fair, my beloved, yea, pleasant: also our bed <span class='extra'>is</span> green.",
+      "plainText": "Behold, thou art fair, my beloved, yea, pleasant: also our bed is green."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "17555",
-      "text" : "The beams of our house <span class='extra'>are<\/span> cedar, <span class='extra'>and<\/span> our rafters of fir.",
-      "plainText" : "The beams of our house are cedar, and our rafters of fir."
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "17555",
+      "text": "The beams of our house <span class='extra'>are</span> cedar, <span class='extra'>and</span> our rafters of fir.",
+      "plainText": "The beams of our house are cedar, and our rafters of fir."
     }
   ]
 }
-

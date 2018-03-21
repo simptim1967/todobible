@@ -1,198 +1,179 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "132",
-    "verseCount" : "18",
-    "nextChapter" : "psalms_133.html",
-    "nextTitle" : "Psalms 133",
-    "prevChapter" : "psalms_131.html",
-    "prevTitle" : "Psalms 131",
-    "filename" : "psalms_132.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "132",
+    "verseCount": "18",
+    "nextChapter": "psalms_133.html",
+    "nextTitle": "Psalms 133",
+    "prevChapter": "psalms_131.html",
+    "prevTitle": "Psalms 131",
+    "filename": "psalms_132.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Song of degrees.",
-      "plainText" : "A Song of degrees."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Song of degrees.",
+      "plainText": "A Song of degrees."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16153",
-      "text" : "<span class='nog'>LORD<\/span>, remember David, <span class='extra'>and<\/span> all his afflictions:",
-      "plainText" : "LORD, remember David, and all his afflictions:"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16153",
+      "text": "<span class='nog'>LORD</span>, remember David, <span class='extra'>and</span> all his afflictions:",
+      "plainText": "LORD, remember David, and all his afflictions:"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16154",
-      "text" : "How he sware unto the <span class='nog'>LORD<\/span>, <span class='extra'>and<\/span> vowed unto the mighty <span class='extra'>God<\/span> of Jacob;",
-      "plainText" : "How he sware unto the LORD, and vowed unto the mighty God of Jacob;"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16154",
+      "text": "How he sware unto the <span class='nog'>LORD</span>, <span class='extra'>and</span> vowed unto the mighty <span class='extra'>God</span> of Jacob;",
+      "plainText": "How he sware unto the LORD, and vowed unto the mighty God of Jacob;"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16155",
-      "text" : "Surely I will not come into the tabernacle of my house, nor go up into my bed;",
-      "plainText" : "Surely I will not come into the tabernacle of my house, nor go up into my bed;"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16155",
+      "text": "Surely I will not come into the tabernacle of my house, nor go up into my bed;",
+      "plainText": "Surely I will not come into the tabernacle of my house, nor go up into my bed;"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "16156",
-      "text" : "I will not give sleep to mine eyes, <span class='extra'>or<\/span> slumber to mine eyelids,",
-      "plainText" : "I will not give sleep to mine eyes, or slumber to mine eyelids,"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "16156",
+      "text": "I will not give sleep to mine eyes, <span class='extra'>or</span> slumber to mine eyelids,",
+      "plainText": "I will not give sleep to mine eyes, or slumber to mine eyelids,"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "16157",
-      "text" : "Until I find out a place for the <span class='nog'>LORD<\/span>, an habitation for the mighty <span class='extra'>God<\/span> of Jacob.",
-      "plainText" : "Until I find out a place for the LORD, an habitation for the mighty God of Jacob."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "16157",
+      "text": "Until I find out a place for the <span class='nog'>LORD</span>, an habitation for the mighty <span class='extra'>God</span> of Jacob.",
+      "plainText": "Until I find out a place for the LORD, an habitation for the mighty God of Jacob."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "16158",
-      "text" : "Lo, we heard of it at Ephratah: we found it in the fields of the wood.",
-      "plainText" : "Lo, we heard of it at Ephratah: we found it in the fields of the wood."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "16158",
+      "text": "Lo, we heard of it at Ephratah: we found it in the fields of the wood.",
+      "plainText": "Lo, we heard of it at Ephratah: we found it in the fields of the wood."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "16159",
-      "text" : "We will go into his tabernacles: we will worship at his footstool.",
-      "plainText" : "We will go into his tabernacles: we will worship at his footstool."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "16159",
+      "text": "We will go into his tabernacles: we will worship at his footstool.",
+      "plainText": "We will go into his tabernacles: we will worship at his footstool."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "16160",
-      "text" : "Arise, O <span class='nog'>LORD<\/span>, into thy rest; thou, and the ark of thy strength.",
-      "plainText" : "Arise, O LORD, into thy rest; thou, and the ark of thy strength."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "16160",
+      "text": "Arise, O <span class='nog'>LORD</span>, into thy rest; thou, and the ark of thy strength.",
+      "plainText": "Arise, O LORD, into thy rest; thou, and the ark of thy strength."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "16161",
-      "text" : "Let thy priests be clothed with righteousness; and let thy saints shout for joy.",
-      "plainText" : "Let thy priests be clothed with righteousness; and let thy saints shout for joy."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "16161",
+      "text": "Let thy priests be clothed with righteousness; and let thy saints shout for joy.",
+      "plainText": "Let thy priests be clothed with righteousness; and let thy saints shout for joy."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "16162",
-      "text" : "For thy servant David's sake turn not away the face of thine anointed.",
-      "plainText" : "For thy servant David's sake turn not away the face of thine anointed."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "16162",
+      "text": "For thy servant David's sake turn not away the face of thine anointed.",
+      "plainText": "For thy servant David's sake turn not away the face of thine anointed."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "16163",
-      "text" : "The <span class='nog'>LORD<\/span> hath sworn <span class='extra'>in<\/span> truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.",
-      "plainText" : "The LORD hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "16163",
+      "text": "The <span class='nog'>LORD</span> hath sworn <span class='extra'>in</span> truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.",
+      "plainText": "The LORD hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "16164",
-      "text" : "If thy children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon thy throne for evermore.",
-      "plainText" : "If thy children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon thy throne for evermore."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "16164",
+      "text": "If thy children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon thy throne for evermore.",
+      "plainText": "If thy children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon thy throne for evermore."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "16165",
-      "text" : "For the <span class='nog'>LORD<\/span> hath chosen Zion; he hath desired <span class='extra'>it<\/span> for his habitation.",
-      "plainText" : "For the LORD hath chosen Zion; he hath desired it for his habitation."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "16165",
+      "text": "For the <span class='nog'>LORD</span> hath chosen Zion; he hath desired <span class='extra'>it</span> for his habitation.",
+      "plainText": "For the LORD hath chosen Zion; he hath desired it for his habitation."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "16166",
-      "text" : "This <span class='extra'>is<\/span> my rest for ever: here will I dwell; for I have desired it.",
-      "plainText" : "This is my rest for ever: here will I dwell; for I have desired it."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "16166",
+      "text": "This <span class='extra'>is</span> my rest for ever: here will I dwell; for I have desired it.",
+      "plainText": "This is my rest for ever: here will I dwell; for I have desired it."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "16167",
-      "text" : "I will abundantly bless her provision: I will satisfy her poor with bread.",
-      "plainText" : "I will abundantly bless her provision: I will satisfy her poor with bread."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "16167",
+      "text": "I will abundantly bless her provision: I will satisfy her poor with bread.",
+      "plainText": "I will abundantly bless her provision: I will satisfy her poor with bread."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "16168",
-      "text" : "I will also clothe her priests with salvation: and her saints shall shout aloud for joy.",
-      "plainText" : "I will also clothe her priests with salvation: and her saints shall shout aloud for joy."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "16168",
+      "text": "I will also clothe her priests with salvation: and her saints shall shout aloud for joy.",
+      "plainText": "I will also clothe her priests with salvation: and her saints shall shout aloud for joy."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "16169",
-      "text" : "There will I make the horn of David to bud: I have ordained a lamp for mine anointed.",
-      "plainText" : "There will I make the horn of David to bud: I have ordained a lamp for mine anointed."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "16169",
+      "text": "There will I make the horn of David to bud: I have ordained a lamp for mine anointed.",
+      "plainText": "There will I make the horn of David to bud: I have ordained a lamp for mine anointed."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "16170",
-      "text" : "His enemies will I clothe with shame: but upon himself shall his crown flourish.",
-      "plainText" : "His enemies will I clothe with shame: but upon himself shall his crown flourish."
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "16170",
+      "text": "His enemies will I clothe with shame: but upon himself shall his crown flourish.",
+      "plainText": "His enemies will I clothe with shame: but upon himself shall his crown flourish."
     }
   ]
 }
-
-

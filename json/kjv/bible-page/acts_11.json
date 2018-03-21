@@ -1,298 +1,269 @@
 {
   "book": {
-    "number" : "44",
-    "filenamePrefix" : "acts",
-    "bookPage" : "acts.html",
-    "title" : "Acts",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "romans_1.html",
-    "nextTitle" : "Romans",
-    "prevBook" : "john_1.html",
-    "prevTitle" : "John"
+    "number": "44",
+    "filenamePrefix": "acts",
+    "bookPage": "acts.html",
+    "title": "Acts",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "romans_1.html",
+    "nextTitle": "Romans",
+    "prevBook": "john_1.html",
+    "prevTitle": "John",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "11",
-    "verseCount" : "30",
-    "nextChapter" : "acts_12.html",
-    "nextTitle" : "Acts 12",
-    "prevChapter" : "acts_10.html",
-    "prevTitle" : "Acts 10",
-    "filename" : "acts_11.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "11",
+    "verseCount": "30",
+    "nextChapter": "acts_12.html",
+    "nextTitle": "Acts 12",
+    "prevChapter": "acts_10.html",
+    "prevTitle": "Acts 10",
+    "filename": "acts_11.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "27309",
-      "text" : "And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God.",
-      "plainText" : "And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "27309",
+      "text": "And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God.",
+      "plainText": "And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "27310",
-      "text" : "And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,",
-      "plainText" : "And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "27310",
+      "text": "And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,",
+      "plainText": "And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "27311",
-      "text" : "Saying, Thou wentest in to men uncircumcised, and didst eat with them.",
-      "plainText" : "Saying, Thou wentest in to men uncircumcised, and didst eat with them."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "27311",
+      "text": "Saying, Thou wentest in to men uncircumcised, and didst eat with them.",
+      "plainText": "Saying, Thou wentest in to men uncircumcised, and didst eat with them."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "27312",
-      "text" : "But Peter rehearsed <span class='extra'>the matter<\/span> from the beginning, and expounded <span class='extra'>it<\/span> by order unto them, saying,",
-      "plainText" : "But Peter rehearsed the matter from the beginning, and expounded it by order unto them, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "27312",
+      "text": "But Peter rehearsed <span class='extra'>the matter</span> from the beginning, and expounded <span class='extra'>it</span> by order unto them, saying,",
+      "plainText": "But Peter rehearsed the matter from the beginning, and expounded it by order unto them, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "27313",
-      "text" : "I was in the city of Joppa praying: and in a trance I saw a vision, A certain vessel descend, as it had been a great sheet, let down from heaven by four corners; and it came even to me:",
-      "plainText" : "I was in the city of Joppa praying: and in a trance I saw a vision, A certain vessel descend, as it had been a great sheet, let down from heaven by four corners; and it came even to me:"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "27313",
+      "text": "I was in the city of Joppa praying: and in a trance I saw a vision, A certain vessel descend, as it had been a great sheet, let down from heaven by four corners; and it came even to me:",
+      "plainText": "I was in the city of Joppa praying: and in a trance I saw a vision, A certain vessel descend, as it had been a great sheet, let down from heaven by four corners; and it came even to me:"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "27314",
-      "text" : "Upon the which when I had fastened mine eyes, I considered, and saw fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.",
-      "plainText" : "Upon the which when I had fastened mine eyes, I considered, and saw fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "27314",
+      "text": "Upon the which when I had fastened mine eyes, I considered, and saw fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.",
+      "plainText": "Upon the which when I had fastened mine eyes, I considered, and saw fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "27315",
-      "text" : "And I heard a voice saying unto me, <span class='woc'>Arise, Peter; slay and eat.<\/span>",
-      "plainText" : "And I heard a voice saying unto me, Arise, Peter; slay and eat."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "27315",
+      "text": "And I heard a voice saying unto me, <span class='woc'>Arise, Peter; slay and eat.</span>",
+      "plainText": "And I heard a voice saying unto me, Arise, Peter; slay and eat."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "27316",
-      "text" : "But I said, Not so, Lord: for nothing common or unclean hath at any time entered into my mouth.",
-      "plainText" : "But I said, Not so, Lord: for nothing common or unclean hath at any time entered into my mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "27316",
+      "text": "But I said, Not so, Lord: for nothing common or unclean hath at any time entered into my mouth.",
+      "plainText": "But I said, Not so, Lord: for nothing common or unclean hath at any time entered into my mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "27317",
-      "text" : "But the voice answered me again from heaven, <span class='woc'>What God hath cleansed, <span class='extra'>that<\/span> call not thou common.<\/span>",
-      "plainText" : "But the voice answered me again from heaven, What God hath cleansed, that call not thou common."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "27317",
+      "text": "But the voice answered me again from heaven, <span class='woc'>What God hath cleansed, <span class='extra'>that</span> call not thou common.</span>",
+      "plainText": "But the voice answered me again from heaven, What God hath cleansed, that call not thou common."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "27318",
-      "text" : "And this was done three times: and all were drawn up again into heaven.",
-      "plainText" : "And this was done three times: and all were drawn up again into heaven."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "27318",
+      "text": "And this was done three times: and all were drawn up again into heaven.",
+      "plainText": "And this was done three times: and all were drawn up again into heaven."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "27319",
-      "text" : "And, behold, immediately there were three men already come unto the house where I was, sent from Caesarea unto me.",
-      "plainText" : "And, behold, immediately there were three men already come unto the house where I was, sent from Caesarea unto me."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "27319",
+      "text": "And, behold, immediately there were three men already come unto the house where I was, sent from Caesarea unto me.",
+      "plainText": "And, behold, immediately there were three men already come unto the house where I was, sent from Caesarea unto me."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "27320",
-      "text" : "And the Spirit bade me go with them, nothing doubting. Moreover these six brethren accompanied me, and we entered into the man's house:",
-      "plainText" : "And the Spirit bade me go with them, nothing doubting. Moreover these six brethren accompanied me, and we entered into the man's house:"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "27320",
+      "text": "And the Spirit bade me go with them, nothing doubting. Moreover these six brethren accompanied me, and we entered into the man's house:",
+      "plainText": "And the Spirit bade me go with them, nothing doubting. Moreover these six brethren accompanied me, and we entered into the man's house:"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "27321",
-      "text" : "And he shewed us how he had seen an angel in his house, which stood and said unto him, Send men to Joppa, and call for Simon, whose surname is Peter;",
-      "plainText" : "And he shewed us how he had seen an angel in his house, which stood and said unto him, Send men to Joppa, and call for Simon, whose surname is Peter;"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "27321",
+      "text": "And he shewed us how he had seen an angel in his house, which stood and said unto him, Send men to Joppa, and call for Simon, whose surname is Peter;",
+      "plainText": "And he shewed us how he had seen an angel in his house, which stood and said unto him, Send men to Joppa, and call for Simon, whose surname is Peter;"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "27322",
-      "text" : "Who shall tell thee words, whereby thou and all thy house shall be saved.",
-      "plainText" : "Who shall tell thee words, whereby thou and all thy house shall be saved."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "27322",
+      "text": "Who shall tell thee words, whereby thou and all thy house shall be saved.",
+      "plainText": "Who shall tell thee words, whereby thou and all thy house shall be saved."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "27323",
-      "text" : "And as I began to speak, the Holy Ghost fell on them, as on us at the beginning.",
-      "plainText" : "And as I began to speak, the Holy Ghost fell on them, as on us at the beginning."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "27323",
+      "text": "And as I began to speak, the Holy Ghost fell on them, as on us at the beginning.",
+      "plainText": "And as I began to speak, the Holy Ghost fell on them, as on us at the beginning."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "27324",
-      "text" : "Then remembered I the word of the Lord, how that he said, <span class='woc'>John indeed baptized with water; but ye shall be baptized with the Holy Ghost.<\/span>",
-      "plainText" : "Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "27324",
+      "text": "Then remembered I the word of the Lord, how that he said, <span class='woc'>John indeed baptized with water; but ye shall be baptized with the Holy Ghost.</span>",
+      "plainText": "Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "27325",
-      "text" : "Forasmuch then as God gave them the like gift as <span class='extra'>he did<\/span> unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?",
-      "plainText" : "Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "27325",
+      "text": "Forasmuch then as God gave them the like gift as <span class='extra'>he did</span> unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?",
+      "plainText": "Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "27326",
-      "text" : "When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life.",
-      "plainText" : "When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "27326",
+      "text": "When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life.",
+      "plainText": "When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "27327",
-      "text" : "Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only.",
-      "plainText" : "Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "27327",
+      "text": "Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only.",
+      "plainText": "Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "27328",
-      "text" : "And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the Lord Jesus.",
-      "plainText" : "And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the Lord Jesus."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "27328",
+      "text": "And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the Lord Jesus.",
+      "plainText": "And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the Lord Jesus."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "27329",
-      "text" : "And the hand of the Lord was with them: and a great number believed, and turned unto the Lord.",
-      "plainText" : "And the hand of the Lord was with them: and a great number believed, and turned unto the Lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "27329",
+      "text": "And the hand of the Lord was with them: and a great number believed, and turned unto the Lord.",
+      "plainText": "And the hand of the Lord was with them: and a great number believed, and turned unto the Lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "27330",
-      "text" : "Then tidings of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch.",
-      "plainText" : "Then tidings of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "27330",
+      "text": "Then tidings of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch.",
+      "plainText": "Then tidings of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "27331",
-      "text" : "Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord.",
-      "plainText" : "Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "27331",
+      "text": "Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord.",
+      "plainText": "Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "27332",
-      "text" : "For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord.",
-      "plainText" : "For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "27332",
+      "text": "For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord.",
+      "plainText": "For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "27333",
-      "text" : "Then departed Barnabas to Tarsus, for to seek Saul:",
-      "plainText" : "Then departed Barnabas to Tarsus, for to seek Saul:"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "27333",
+      "text": "Then departed Barnabas to Tarsus, for to seek Saul:",
+      "plainText": "Then departed Barnabas to Tarsus, for to seek Saul:"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "27334",
-      "text" : "And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch.",
-      "plainText" : "And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "27334",
+      "text": "And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch.",
+      "plainText": "And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "27335",
-      "text" : "And in these days came prophets from Jerusalem unto Antioch.",
-      "plainText" : "And in these days came prophets from Jerusalem unto Antioch."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "27335",
+      "text": "And in these days came prophets from Jerusalem unto Antioch.",
+      "plainText": "And in these days came prophets from Jerusalem unto Antioch."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "27336",
-      "text" : "And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar.",
-      "plainText" : "And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "27336",
+      "text": "And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar.",
+      "plainText": "And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "27337",
-      "text" : "Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judaea:",
-      "plainText" : "Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judaea:"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "27337",
+      "text": "Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judaea:",
+      "plainText": "Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judaea:"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "27338",
-      "text" : "Which also they did, and sent it to the elders by the hands of Barnabas and Saul.",
-      "plainText" : "Which also they did, and sent it to the elders by the hands of Barnabas and Saul."
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "27338",
+      "text": "Which also they did, and sent it to the elders by the hands of Barnabas and Saul.",
+      "plainText": "Which also they did, and sent it to the elders by the hands of Barnabas and Saul."
     }
   ]
 }
-

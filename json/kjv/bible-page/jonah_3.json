@@ -1,119 +1,109 @@
 {
   "book": {
-    "number" : "32",
-    "filenamePrefix" : "jonah",
-    "bookPage" : "jonah.html",
-    "title" : "Jonah",
-    "chapterCount" : "4",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "micah_1.html",
-    "nextTitle" : "Micah",
-    "prevBook" : "obadiah_1.html",
-    "prevTitle" : "Obadiah"
+    "number": "32",
+    "filenamePrefix": "jonah",
+    "bookPage": "jonah.html",
+    "title": "Jonah",
+    "chapterCount": "4",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "micah_1.html",
+    "nextTitle": "Micah",
+    "prevBook": "obadiah_1.html",
+    "prevTitle": "Obadiah",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "3",
-    "verseCount" : "10",
-    "nextChapter" : "jonah_4.html",
-    "nextTitle" : "Jonah 4",
-    "prevChapter" : "jonah_2.html",
-    "prevTitle" : "Jonah 2",
-    "filename" : "jonah_3.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "3",
+    "verseCount": "10",
+    "nextChapter": "jonah_4.html",
+    "nextTitle": "Jonah 4",
+    "prevChapter": "jonah_2.html",
+    "prevTitle": "Jonah 2",
+    "filename": "jonah_3.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "22560",
-      "text" : "And the word of the <span class='nog'>LORD<\/span> came unto Jonah the second time, saying,",
-      "plainText" : "And the word of the LORD came unto Jonah the second time, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "22560",
+      "text": "And the word of the <span class='nog'>LORD</span> came unto Jonah the second time, saying,",
+      "plainText": "And the word of the LORD came unto Jonah the second time, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "22561",
-      "text" : "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.",
-      "plainText" : "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "22561",
+      "text": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.",
+      "plainText": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "22562",
-      "text" : "So Jonah arose, and went unto Nineveh, according to the word of the <span class='nog'>LORD<\/span>. Now Nineveh was an exceeding great city of three days' journey.",
-      "plainText" : "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days' journey."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "22562",
+      "text": "So Jonah arose, and went unto Nineveh, according to the word of the <span class='nog'>LORD</span>. Now Nineveh was an exceeding great city of three days' journey.",
+      "plainText": "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days' journey."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "22563",
-      "text" : "And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.",
-      "plainText" : "And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "22563",
+      "text": "And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.",
+      "plainText": "And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "22564",
-      "text" : "So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.",
-      "plainText" : "So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "22564",
+      "text": "So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.",
+      "plainText": "So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "22565",
-      "text" : "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered <span class='extra'>him<\/span> with sackcloth, and sat in ashes.",
-      "plainText" : "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "22565",
+      "text": "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered <span class='extra'>him</span> with sackcloth, and sat in ashes.",
+      "plainText": "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "22566",
-      "text" : "And he caused <span class='extra'>it<\/span> to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:",
-      "plainText" : "And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "22566",
+      "text": "And he caused <span class='extra'>it</span> to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:",
+      "plainText": "And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "22567",
-      "text" : "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that <span class='extra'>is<\/span> in their hands.",
-      "plainText" : "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "22567",
+      "text": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that <span class='extra'>is</span> in their hands.",
+      "plainText": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "22568",
-      "text" : "Who can tell <span class='extra'>if<\/span> God will turn and repent, and turn away from his fierce anger, that we perish not?",
-      "plainText" : "Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "22568",
+      "text": "Who can tell <span class='extra'>if</span> God will turn and repent, and turn away from his fierce anger, that we perish not?",
+      "plainText": "Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "22569",
-      "text" : "And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did <span class='extra'>it<\/span> not.",
-      "plainText" : "And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not."
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "22569",
+      "text": "And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did <span class='extra'>it</span> not.",
+      "plainText": "And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not."
     }
   ]
 }
-
-

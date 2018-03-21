@@ -1,145 +1,133 @@
 {
   "book": {
-    "number" : "27",
-    "filenamePrefix" : "daniel",
-    "bookPage" : "daniel.html",
-    "title" : "Daniel",
-    "chapterCount" : "12",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "hosea_1.html",
-    "nextTitle" : "Hosea",
-    "prevBook" : "ezekiel_1.html",
-    "prevTitle" : "Ezekiel"
+    "number": "27",
+    "filenamePrefix": "daniel",
+    "bookPage": "daniel.html",
+    "title": "Daniel",
+    "chapterCount": "12",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "hosea_1.html",
+    "nextTitle": "Hosea",
+    "prevBook": "ezekiel_1.html",
+    "prevTitle": "Ezekiel",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "12",
-    "verseCount" : "13",
-    "nextChapter" : "hosea_1.html",
-    "nextTitle" : "Hosea 1",
-    "prevChapter" : "daniel_11.html",
-    "prevTitle" : "Daniel 11",
-    "filename" : "daniel_12.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "12",
+    "verseCount": "13",
+    "nextChapter": "hosea_1.html",
+    "nextTitle": "Hosea 1",
+    "prevChapter": "daniel_11.html",
+    "prevTitle": "Daniel 11",
+    "filename": "daniel_12.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "22083",
-      "text" : "And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation <span class='extra'>even<\/span> to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.",
-      "plainText" : "And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "22083",
+      "text": "And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation <span class='extra'>even</span> to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.",
+      "plainText": "And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "22084",
-      "text" : "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame <span class='extra'>and<\/span> everlasting contempt.",
-      "plainText" : "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "22084",
+      "text": "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame <span class='extra'>and</span> everlasting contempt.",
+      "plainText": "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "22085",
-      "text" : "And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.",
-      "plainText" : "And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "22085",
+      "text": "And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.",
+      "plainText": "And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "22086",
-      "text" : "But thou, O Daniel, shut up the words, and seal the book, <span class='extra'>even<\/span> to the time of the end: many shall run to and fro, and knowledge shall be increased.",
-      "plainText" : "But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "22086",
+      "text": "But thou, O Daniel, shut up the words, and seal the book, <span class='extra'>even</span> to the time of the end: many shall run to and fro, and knowledge shall be increased.",
+      "plainText": "But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "22087",
-      "text" : "Then I Daniel looked, and, behold, there stood other two, the one on this side of the bank of the river, and the other on that side of the bank of the river.",
-      "plainText" : "Then I Daniel looked, and, behold, there stood other two, the one on this side of the bank of the river, and the other on that side of the bank of the river."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "22087",
+      "text": "Then I Daniel looked, and, behold, there stood other two, the one on this side of the bank of the river, and the other on that side of the bank of the river.",
+      "plainText": "Then I Daniel looked, and, behold, there stood other two, the one on this side of the bank of the river, and the other on that side of the bank of the river."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "22088",
-      "text" : "And <span class='extra'>one<\/span> said to the man clothed in linen, which <span class='extra'>was<\/span> upon the waters of the river, How long <span class='extra'>shall it be to<\/span> the end of these wonders?",
-      "plainText" : "And one said to the man clothed in linen, which was upon the waters of the river, How long shall it be to the end of these wonders?"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "22088",
+      "text": "And <span class='extra'>one</span> said to the man clothed in linen, which <span class='extra'>was</span> upon the waters of the river, How long <span class='extra'>shall it be to</span> the end of these wonders?",
+      "plainText": "And one said to the man clothed in linen, which was upon the waters of the river, How long shall it be to the end of these wonders?"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "22089",
-      "text" : "And I heard the man clothed in linen, which <span class='extra'>was<\/span> upon the waters of the river, when he held up his right hand and his left hand unto heaven, and sware by him that liveth for ever that <span class='extra'>it shall be<\/span> for a time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these <span class='extra'>things<\/span> shall be finished.",
-      "plainText" : "And I heard the man clothed in linen, which was upon the waters of the river, when he held up his right hand and his left hand unto heaven, and sware by him that liveth for ever that it shall be for a time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these things shall be finished."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "22089",
+      "text": "And I heard the man clothed in linen, which <span class='extra'>was</span> upon the waters of the river, when he held up his right hand and his left hand unto heaven, and sware by him that liveth for ever that <span class='extra'>it shall be</span> for a time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these <span class='extra'>things</span> shall be finished.",
+      "plainText": "And I heard the man clothed in linen, which was upon the waters of the river, when he held up his right hand and his left hand unto heaven, and sware by him that liveth for ever that it shall be for a time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these things shall be finished."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "22090",
-      "text" : "And I heard, but I understood not: then said I, O my Lord, what <span class='extra'>shall be<\/span> the end of these <span class='extra'>things<\/span>?",
-      "plainText" : "And I heard, but I understood not: then said I, O my Lord, what shall be the end of these things?"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "22090",
+      "text": "And I heard, but I understood not: then said I, O my Lord, what <span class='extra'>shall be</span> the end of these <span class='extra'>things</span>?",
+      "plainText": "And I heard, but I understood not: then said I, O my Lord, what shall be the end of these things?"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "22091",
-      "text" : "And he said, Go thy way, Daniel: for the words <span class='extra'>are<\/span> closed up and sealed till the time of the end.",
-      "plainText" : "And he said, Go thy way, Daniel: for the words are closed up and sealed till the time of the end."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "22091",
+      "text": "And he said, Go thy way, Daniel: for the words <span class='extra'>are</span> closed up and sealed till the time of the end.",
+      "plainText": "And he said, Go thy way, Daniel: for the words are closed up and sealed till the time of the end."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "22092",
-      "text" : "Many shall be purified, and made white, and tried; but the wicked shall do wickedly: and none of the wicked shall understand; but the wise shall understand.",
-      "plainText" : "Many shall be purified, and made white, and tried; but the wicked shall do wickedly: and none of the wicked shall understand; but the wise shall understand."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "22092",
+      "text": "Many shall be purified, and made white, and tried; but the wicked shall do wickedly: and none of the wicked shall understand; but the wise shall understand.",
+      "plainText": "Many shall be purified, and made white, and tried; but the wicked shall do wickedly: and none of the wicked shall understand; but the wise shall understand."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "22093",
-      "text" : "And from the time <span class='extra'>that<\/span> the daily <span class='extra'>sacrifice<\/span> shall be taken away, and the abomination that maketh desolate set up, <span class='extra'>there shall be<\/span> a thousand two hundred and ninety days.",
-      "plainText" : "And from the time that the daily sacrifice shall be taken away, and the abomination that maketh desolate set up, there shall be a thousand two hundred and ninety days."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "22093",
+      "text": "And from the time <span class='extra'>that</span> the daily <span class='extra'>sacrifice</span> shall be taken away, and the abomination that maketh desolate set up, <span class='extra'>there shall be</span> a thousand two hundred and ninety days.",
+      "plainText": "And from the time that the daily sacrifice shall be taken away, and the abomination that maketh desolate set up, there shall be a thousand two hundred and ninety days."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "22094",
-      "text" : "Blessed <span class='extra'>is<\/span> he that waiteth, and cometh to the thousand three hundred and five and thirty days.",
-      "plainText" : "Blessed is he that waiteth, and cometh to the thousand three hundred and five and thirty days."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "22094",
+      "text": "Blessed <span class='extra'>is</span> he that waiteth, and cometh to the thousand three hundred and five and thirty days.",
+      "plainText": "Blessed is he that waiteth, and cometh to the thousand three hundred and five and thirty days."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "22095",
-      "text" : "But go thou thy way till the end <span class='extra'>be<\/span>: for thou shalt rest, and stand in thy lot at the end of the days.",
-      "plainText" : "But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days."
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "22095",
+      "text": "But go thou thy way till the end <span class='extra'>be</span>: for thou shalt rest, and stand in thy lot at the end of the days.",
+      "plainText": "But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days."
     }
   ]
 }
-

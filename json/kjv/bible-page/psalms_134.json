@@ -1,63 +1,59 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "134",
-    "verseCount" : "3",
-    "nextChapter" : "psalms_135.html",
-    "nextTitle" : "Psalms 135",
-    "prevChapter" : "psalms_133.html",
-    "prevTitle" : "Psalms 133",
-    "filename" : "psalms_134.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "134",
+    "verseCount": "3",
+    "nextChapter": "psalms_135.html",
+    "nextTitle": "Psalms 135",
+    "prevChapter": "psalms_133.html",
+    "prevTitle": "Psalms 133",
+    "filename": "psalms_134.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Song of degrees.",
-      "plainText" : "A Song of degrees."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Song of degrees.",
+      "plainText": "A Song of degrees."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16174",
-      "text" : "Behold, bless ye the <span class='nog'>LORD<\/span>, all <span class='extra'>ye<\/span> servants of the <span class='nog'>LORD<\/span>, which by night stand in the house of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16174",
+      "text": "Behold, bless ye the <span class='nog'>LORD</span>, all <span class='extra'>ye</span> servants of the <span class='nog'>LORD</span>, which by night stand in the house of the <span class='nog'>LORD</span>.",
+      "plainText": "Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16175",
-      "text" : "Lift up your hands <span class='extra'>in<\/span> the sanctuary, and bless the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Lift up your hands in the sanctuary, and bless the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16175",
+      "text": "Lift up your hands <span class='extra'>in</span> the sanctuary, and bless the <span class='nog'>LORD</span>.",
+      "plainText": "Lift up your hands in the sanctuary, and bless the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16176",
-      "text" : "The <span class='nog'>LORD<\/span> that made heaven and earth bless thee out of Zion.",
-      "plainText" : "The LORD that made heaven and earth bless thee out of Zion."
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16176",
+      "text": "The <span class='nog'>LORD</span> that made heaven and earth bless thee out of Zion.",
+      "plainText": "The LORD that made heaven and earth bless thee out of Zion."
     }
   ]
 }
-
-

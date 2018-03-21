@@ -1,218 +1,197 @@
 {
   "book": {
-    "number" : "13",
-    "filenamePrefix" : "1chronicles",
-    "bookPage" : "1chronicles.html",
-    "title" : "1 Chronicles",
-    "chapterCount" : "29",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "2chronicles_1.html",
-    "nextTitle" : "2 Chronicles",
-    "prevBook" : "2kings_1.html",
-    "prevTitle" : "2 Kings"
+    "number": "13",
+    "filenamePrefix": "1chronicles",
+    "bookPage": "1chronicles.html",
+    "title": "1 Chronicles",
+    "chapterCount": "29",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "2chronicles_1.html",
+    "nextTitle": "2 Chronicles",
+    "prevBook": "2kings_1.html",
+    "prevTitle": "2 Kings",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "28",
-    "verseCount" : "21",
-    "nextChapter" : "1chronicles_29.html",
-    "nextTitle" : "1 Chronicles 29",
-    "prevChapter" : "1chronicles_27.html",
-    "prevTitle" : "1 Chronicles 27",
-    "filename" : "1chronicles_28.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "28",
+    "verseCount": "21",
+    "nextChapter": "1chronicles_29.html",
+    "nextTitle": "1 Chronicles 29",
+    "prevChapter": "1chronicles_27.html",
+    "prevTitle": "1 Chronicles 27",
+    "filename": "1chronicles_28.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "11145",
-      "text" : "And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem.",
-      "plainText" : "And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "11145",
+      "text": "And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem.",
+      "plainText": "And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "11146",
-      "text" : "Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: <span class='extra'>As for me<\/span>, I <span class='extra'>had<\/span> in mine heart to build an house of rest for the ark of the covenant of the <span class='nog'>LORD<\/span>, and for the footstool of our God, and had made ready for the building:",
-      "plainText" : "Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: As for me, I had in mine heart to build an house of rest for the ark of the covenant of the LORD, and for the footstool of our God, and had made ready for the building:"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "11146",
+      "text": "Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: <span class='extra'>As for me</span>, I <span class='extra'>had</span> in mine heart to build an house of rest for the ark of the covenant of the <span class='nog'>LORD</span>, and for the footstool of our God, and had made ready for the building:",
+      "plainText": "Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: As for me, I had in mine heart to build an house of rest for the ark of the covenant of the LORD, and for the footstool of our God, and had made ready for the building:"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "11147",
-      "text" : "But God said unto me, Thou shalt not build an house for my name, because thou <span class='extra'>hast been<\/span> a man of war, and hast shed blood.",
-      "plainText" : "But God said unto me, Thou shalt not build an house for my name, because thou hast been a man of war, and hast shed blood."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "11147",
+      "text": "But God said unto me, Thou shalt not build an house for my name, because thou <span class='extra'>hast been</span> a man of war, and hast shed blood.",
+      "plainText": "But God said unto me, Thou shalt not build an house for my name, because thou hast been a man of war, and hast shed blood."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "11148",
-      "text" : "Howbeit the <span class='nog'>LORD<\/span> God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah <span class='extra'>to be<\/span> the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make <span class='extra'>me<\/span> king over all Israel:",
-      "plainText" : "Howbeit the LORD God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah to be the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make me king over all Israel:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "11148",
+      "text": "Howbeit the <span class='nog'>LORD</span> God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah <span class='extra'>to be</span> the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make <span class='extra'>me</span> king over all Israel:",
+      "plainText": "Howbeit the LORD God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah to be the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make me king over all Israel:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "11149",
-      "text" : "And of all my sons, (for the <span class='nog'>LORD<\/span> hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the <span class='nog'>LORD<\/span> over Israel.",
-      "plainText" : "And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the LORD over Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "11149",
+      "text": "And of all my sons, (for the <span class='nog'>LORD</span> hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the <span class='nog'>LORD</span> over Israel.",
+      "plainText": "And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the LORD over Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "11150",
-      "text" : "And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him <span class='extra'>to be<\/span> my son, and I will be his father.",
-      "plainText" : "And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him to be my son, and I will be his father."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "11150",
+      "text": "And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him <span class='extra'>to be</span> my son, and I will be his father.",
+      "plainText": "And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him to be my son, and I will be his father."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "11151",
-      "text" : "Moreover I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day.",
-      "plainText" : "Moreover I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "11151",
+      "text": "Moreover I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day.",
+      "plainText": "Moreover I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "11152",
-      "text" : "Now therefore in the sight of all Israel the congregation of the <span class='nog'>LORD<\/span>, and in the audience of our God, keep and seek for all the commandments of the <span class='nog'>LORD<\/span> your God: that ye may possess this good land, and leave <span class='extra'>it<\/span> for an inheritance for your children after you for ever.",
-      "plainText" : "Now therefore in the sight of all Israel the congregation of the LORD, and in the audience of our God, keep and seek for all the commandments of the LORD your God: that ye may possess this good land, and leave it for an inheritance for your children after you for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "11152",
+      "text": "Now therefore in the sight of all Israel the congregation of the <span class='nog'>LORD</span>, and in the audience of our God, keep and seek for all the commandments of the <span class='nog'>LORD</span> your God: that ye may possess this good land, and leave <span class='extra'>it</span> for an inheritance for your children after you for ever.",
+      "plainText": "Now therefore in the sight of all Israel the congregation of the LORD, and in the audience of our God, keep and seek for all the commandments of the LORD your God: that ye may possess this good land, and leave it for an inheritance for your children after you for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "11153",
-      "text" : "And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the <span class='nog'>LORD<\/span> searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever.",
-      "plainText" : "And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "11153",
+      "text": "And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the <span class='nog'>LORD</span> searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever.",
+      "plainText": "And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "11154",
-      "text" : "Take heed now; for the <span class='nog'>LORD<\/span> hath chosen thee to build an house for the sanctuary: be strong, and do <span class='extra'>it<\/span>.",
-      "plainText" : "Take heed now; for the LORD hath chosen thee to build an house for the sanctuary: be strong, and do it."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "11154",
+      "text": "Take heed now; for the <span class='nog'>LORD</span> hath chosen thee to build an house for the sanctuary: be strong, and do <span class='extra'>it</span>.",
+      "plainText": "Take heed now; for the LORD hath chosen thee to build an house for the sanctuary: be strong, and do it."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "11155",
-      "text" : "Then David gave to Solomon his son the pattern of the porch, and of the houses thereof, and of the treasuries thereof, and of the upper chambers thereof, and of the inner parlours thereof, and of the place of the mercy seat,",
-      "plainText" : "Then David gave to Solomon his son the pattern of the porch, and of the houses thereof, and of the treasuries thereof, and of the upper chambers thereof, and of the inner parlours thereof, and of the place of the mercy seat,"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "11155",
+      "text": "Then David gave to Solomon his son the pattern of the porch, and of the houses thereof, and of the treasuries thereof, and of the upper chambers thereof, and of the inner parlours thereof, and of the place of the mercy seat,",
+      "plainText": "Then David gave to Solomon his son the pattern of the porch, and of the houses thereof, and of the treasuries thereof, and of the upper chambers thereof, and of the inner parlours thereof, and of the place of the mercy seat,"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "11156",
-      "text" : "And the pattern of all that he had by the spirit, of the courts of the house of the <span class='nog'>LORD<\/span>, and of all the chambers round about, of the treasuries of the house of God, and of the treasuries of the dedicated things:",
-      "plainText" : "And the pattern of all that he had by the spirit, of the courts of the house of the LORD, and of all the chambers round about, of the treasuries of the house of God, and of the treasuries of the dedicated things:"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "11156",
+      "text": "And the pattern of all that he had by the spirit, of the courts of the house of the <span class='nog'>LORD</span>, and of all the chambers round about, of the treasuries of the house of God, and of the treasuries of the dedicated things:",
+      "plainText": "And the pattern of all that he had by the spirit, of the courts of the house of the LORD, and of all the chambers round about, of the treasuries of the house of God, and of the treasuries of the dedicated things:"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "11157",
-      "text" : "Also for the courses of the priests and the Levites, and for all the work of the service of the house of the <span class='nog'>LORD<\/span>, and for all the vessels of service in the house of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Also for the courses of the priests and the Levites, and for all the work of the service of the house of the LORD, and for all the vessels of service in the house of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "11157",
+      "text": "Also for the courses of the priests and the Levites, and for all the work of the service of the house of the <span class='nog'>LORD</span>, and for all the vessels of service in the house of the <span class='nog'>LORD</span>.",
+      "plainText": "Also for the courses of the priests and the Levites, and for all the work of the service of the house of the LORD, and for all the vessels of service in the house of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "11158",
-      "text" : "<span class='extra'>He gave<\/span> of gold by weight for <span class='extra'>things<\/span> of gold, for all instruments of all manner of service; <span class='extra'>silver also<\/span> for all instruments of silver by weight, for all instruments of every kind of service:",
-      "plainText" : "He gave of gold by weight for things of gold, for all instruments of all manner of service; silver also for all instruments of silver by weight, for all instruments of every kind of service:"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "11158",
+      "text": "<span class='extra'>He gave</span> of gold by weight for <span class='extra'>things</span> of gold, for all instruments of all manner of service; <span class='extra'>silver also</span> for all instruments of silver by weight, for all instruments of every kind of service:",
+      "plainText": "He gave of gold by weight for things of gold, for all instruments of all manner of service; silver also for all instruments of silver by weight, for all instruments of every kind of service:"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "11159",
-      "text" : "Even the weight for the candlesticks of gold, and for their lamps of gold, by weight for every candlestick, and for the lamps thereof: and for the candlesticks of silver by weight, <span class='extra'>both<\/span> for the candlestick, and <span class='extra'>also<\/span> for the lamps thereof, according to the use of every candlestick.",
-      "plainText" : "Even the weight for the candlesticks of gold, and for their lamps of gold, by weight for every candlestick, and for the lamps thereof: and for the candlesticks of silver by weight, both for the candlestick, and also for the lamps thereof, according to the use of every candlestick."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "11159",
+      "text": "Even the weight for the candlesticks of gold, and for their lamps of gold, by weight for every candlestick, and for the lamps thereof: and for the candlesticks of silver by weight, <span class='extra'>both</span> for the candlestick, and <span class='extra'>also</span> for the lamps thereof, according to the use of every candlestick.",
+      "plainText": "Even the weight for the candlesticks of gold, and for their lamps of gold, by weight for every candlestick, and for the lamps thereof: and for the candlesticks of silver by weight, both for the candlestick, and also for the lamps thereof, according to the use of every candlestick."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "11160",
-      "text" : "And by weight <span class='extra'>he gave<\/span> gold for the tables of shewbread, for every table; and <span class='extra'>likewise<\/span> silver for the tables of silver:",
-      "plainText" : "And by weight he gave gold for the tables of shewbread, for every table; and likewise silver for the tables of silver:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "11160",
+      "text": "And by weight <span class='extra'>he gave</span> gold for the tables of shewbread, for every table; and <span class='extra'>likewise</span> silver for the tables of silver:",
+      "plainText": "And by weight he gave gold for the tables of shewbread, for every table; and likewise silver for the tables of silver:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "11161",
-      "text" : "Also pure gold for the fleshhooks, and the bowls, and the cups: and for the golden basons <span class='extra'>he gave gold<\/span> by weight for every bason; and <span class='extra'>likewise silver<\/span> by weight for every bason of silver:",
-      "plainText" : "Also pure gold for the fleshhooks, and the bowls, and the cups: and for the golden basons he gave gold by weight for every bason; and likewise silver by weight for every bason of silver:"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "11161",
+      "text": "Also pure gold for the fleshhooks, and the bowls, and the cups: and for the golden basons <span class='extra'>he gave gold</span> by weight for every bason; and <span class='extra'>likewise silver</span> by weight for every bason of silver:",
+      "plainText": "Also pure gold for the fleshhooks, and the bowls, and the cups: and for the golden basons he gave gold by weight for every bason; and likewise silver by weight for every bason of silver:"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "11162",
-      "text" : "And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out <span class='extra'>their wings<\/span>, and covered the ark of the covenant of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out their wings, and covered the ark of the covenant of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "11162",
+      "text": "And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out <span class='extra'>their wings</span>, and covered the ark of the covenant of the <span class='nog'>LORD</span>.",
+      "plainText": "And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out their wings, and covered the ark of the covenant of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "11163",
-      "text" : "All <span class='extra'>this, said David<\/span>, the <span class='nog'>LORD<\/span> made me understand in writing by <span class='extra'>his<\/span> hand upon me, <span class='extra'>even<\/span> all the works of this pattern.",
-      "plainText" : "All this, said David, the LORD made me understand in writing by his hand upon me, even all the works of this pattern."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "11163",
+      "text": "All <span class='extra'>this, said David</span>, the <span class='nog'>LORD</span> made me understand in writing by <span class='extra'>his</span> hand upon me, <span class='extra'>even</span> all the works of this pattern.",
+      "plainText": "All this, said David, the LORD made me understand in writing by his hand upon me, even all the works of this pattern."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "11164",
-      "text" : "And David said to Solomon his son, Be strong and of good courage, and do <span class='extra'>it<\/span>: fear not, nor be dismayed: for the <span class='nog'>LORD<\/span> God, <span class='extra'>even<\/span> my God, <span class='extra'>will be<\/span> with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And David said to Solomon his son, Be strong and of good courage, and do it: fear not, nor be dismayed: for the LORD God, even my God, will be with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "11164",
+      "text": "And David said to Solomon his son, Be strong and of good courage, and do <span class='extra'>it</span>: fear not, nor be dismayed: for the <span class='nog'>LORD</span> God, <span class='extra'>even</span> my God, <span class='extra'>will be</span> with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the <span class='nog'>LORD</span>.",
+      "plainText": "And David said to Solomon his son, Be strong and of good courage, and do it: fear not, nor be dismayed: for the LORD God, even my God, will be with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "11165",
-      "text" : "And, behold, the courses of the priests and the Levites, <span class='extra'>even they shall be with thee<\/span> for all the service of the house of God: and <span class='extra'>there shall be<\/span> with thee for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people <span class='extra'>will be<\/span> wholly at thy commandment.",
-      "plainText" : "And, behold, the courses of the priests and the Levites, even they shall be with thee for all the service of the house of God: and there shall be with thee for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people will be wholly at thy commandment."
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "11165",
+      "text": "And, behold, the courses of the priests and the Levites, <span class='extra'>even they shall be with thee</span> for all the service of the house of God: and <span class='extra'>there shall be</span> with thee for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people <span class='extra'>will be</span> wholly at thy commandment.",
+      "plainText": "And, behold, the courses of the priests and the Levites, even they shall be with thee for all the service of the house of God: and there shall be with thee for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people will be wholly at thy commandment."
     }
   ]
 }
-
-

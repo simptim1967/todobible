@@ -1,145 +1,133 @@
 {
   "book": {
-    "number" : "22",
-    "filenamePrefix" : "song_of_solomon",
-    "bookPage" : "songofsolomon.html",
-    "title" : "Song of Solomon",
-    "chapterCount" : "8",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "isaiah_1.html",
-    "nextTitle" : "Isaiah",
-    "prevBook" : "ecclesiastes_1.html",
-    "prevTitle" : "Ecclesiastes"
+    "number": "22",
+    "filenamePrefix": "song_of_solomon",
+    "bookPage": "songofsolomon.html",
+    "title": "Song of Solomon",
+    "chapterCount": "8",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "isaiah_1.html",
+    "nextTitle": "Isaiah",
+    "prevBook": "ecclesiastes_1.html",
+    "prevTitle": "Ecclesiastes",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "6",
-    "verseCount" : "13",
-    "nextChapter" : "song_of_solomon_7.html",
-    "nextTitle" : "Song of Solomon 7",
-    "prevChapter" : "song_of_solomon_5.html",
-    "prevTitle" : "Song of Solomon 5",
-    "filename" : "song_of_solomon_6.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "6",
+    "verseCount": "13",
+    "nextChapter": "song_of_solomon_7.html",
+    "nextTitle": "Song of Solomon 7",
+    "prevChapter": "song_of_solomon_5.html",
+    "prevTitle": "Song of Solomon 5",
+    "filename": "song_of_solomon_6.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "17616",
-      "text" : "Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee.",
-      "plainText" : "Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "17616",
+      "text": "Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee.",
+      "plainText": "Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "17617",
-      "text" : "My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies.",
-      "plainText" : "My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "17617",
+      "text": "My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies.",
+      "plainText": "My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "17618",
-      "text" : "I <span class='extra'>am<\/span> my beloved's, and my beloved <span class='extra'>is<\/span> mine: he feedeth among the lilies.",
-      "plainText" : "I am my beloved's, and my beloved is mine: he feedeth among the lilies."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "17618",
+      "text": "I <span class='extra'>am</span> my beloved's, and my beloved <span class='extra'>is</span> mine: he feedeth among the lilies.",
+      "plainText": "I am my beloved's, and my beloved is mine: he feedeth among the lilies."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "17619",
-      "text" : "Thou <span class='extra'>art<\/span> beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as <span class='extra'>an army<\/span> with banners.",
-      "plainText" : "Thou art beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "17619",
+      "text": "Thou <span class='extra'>art</span> beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as <span class='extra'>an army</span> with banners.",
+      "plainText": "Thou art beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "17620",
-      "text" : "Turn away thine eyes from me, for they have overcome me: thy hair <span class='extra'>is<\/span> as a flock of goats that appear from Gilead.",
-      "plainText" : "Turn away thine eyes from me, for they have overcome me: thy hair is as a flock of goats that appear from Gilead."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "17620",
+      "text": "Turn away thine eyes from me, for they have overcome me: thy hair <span class='extra'>is</span> as a flock of goats that appear from Gilead.",
+      "plainText": "Turn away thine eyes from me, for they have overcome me: thy hair is as a flock of goats that appear from Gilead."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "17621",
-      "text" : "Thy teeth <span class='extra'>are<\/span> as a flock of sheep which go up from the washing, whereof every one beareth twins, and <span class='extra'>there is<\/span> not one barren among them.",
-      "plainText" : "Thy teeth are as a flock of sheep which go up from the washing, whereof every one beareth twins, and there is not one barren among them."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "17621",
+      "text": "Thy teeth <span class='extra'>are</span> as a flock of sheep which go up from the washing, whereof every one beareth twins, and <span class='extra'>there is</span> not one barren among them.",
+      "plainText": "Thy teeth are as a flock of sheep which go up from the washing, whereof every one beareth twins, and there is not one barren among them."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "17622",
-      "text" : "As a piece of a pomegranate <span class='extra'>are<\/span> thy temples within thy locks.",
-      "plainText" : "As a piece of a pomegranate are thy temples within thy locks."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "17622",
+      "text": "As a piece of a pomegranate <span class='extra'>are</span> thy temples within thy locks.",
+      "plainText": "As a piece of a pomegranate are thy temples within thy locks."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "17623",
-      "text" : "There are threescore queens, and fourscore concubines, and virgins without number.",
-      "plainText" : "There are threescore queens, and fourscore concubines, and virgins without number."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "17623",
+      "text": "There are threescore queens, and fourscore concubines, and virgins without number.",
+      "plainText": "There are threescore queens, and fourscore concubines, and virgins without number."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "17624",
-      "text" : "My dove, my undefiled is <span class='extra'>but<\/span> one; she <span class='extra'>is<\/span> the <span class='extra'>only<\/span> one of her mother, she <span class='extra'>is<\/span> the choice <span class='extra'>one<\/span> of her that bare her. The daughters saw her, and blessed her; <span class='extra'>yea<\/span>, the queens and the concubines, and they praised her.",
-      "plainText" : "My dove, my undefiled is but one; she is the only one of her mother, she is the choice one of her that bare her. The daughters saw her, and blessed her; yea, the queens and the concubines, and they praised her."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "17624",
+      "text": "My dove, my undefiled is <span class='extra'>but</span> one; she <span class='extra'>is</span> the <span class='extra'>only</span> one of her mother, she <span class='extra'>is</span> the choice <span class='extra'>one</span> of her that bare her. The daughters saw her, and blessed her; <span class='extra'>yea</span>, the queens and the concubines, and they praised her.",
+      "plainText": "My dove, my undefiled is but one; she is the only one of her mother, she is the choice one of her that bare her. The daughters saw her, and blessed her; yea, the queens and the concubines, and they praised her."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "17625",
-      "text" : "Who <span class='extra'>is<\/span> she <span class='extra'>that<\/span> looketh forth as the morning, fair as the moon, clear as the sun, <span class='extra'>and<\/span> terrible as <span class='extra'>an army<\/span> with banners?",
-      "plainText" : "Who is she that looketh forth as the morning, fair as the moon, clear as the sun, and terrible as an army with banners?"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "17625",
+      "text": "Who <span class='extra'>is</span> she <span class='extra'>that</span> looketh forth as the morning, fair as the moon, clear as the sun, <span class='extra'>and</span> terrible as <span class='extra'>an army</span> with banners?",
+      "plainText": "Who is she that looketh forth as the morning, fair as the moon, clear as the sun, and terrible as an army with banners?"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "17626",
-      "text" : "I went down into the garden of nuts to see the fruits of the valley, <span class='extra'>and<\/span> to see whether the vine flourished, <span class='extra'>and<\/span> the pomegranates budded.",
-      "plainText" : "I went down into the garden of nuts to see the fruits of the valley, and to see whether the vine flourished, and the pomegranates budded."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "17626",
+      "text": "I went down into the garden of nuts to see the fruits of the valley, <span class='extra'>and</span> to see whether the vine flourished, <span class='extra'>and</span> the pomegranates budded.",
+      "plainText": "I went down into the garden of nuts to see the fruits of the valley, and to see whether the vine flourished, and the pomegranates budded."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "17627",
-      "text" : "Or ever I was aware, my soul made me <span class='extra'>like<\/span> the chariots of Ammi-nadib.",
-      "plainText" : "Or ever I was aware, my soul made me like the chariots of Ammi-nadib."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "17627",
+      "text": "Or ever I was aware, my soul made me <span class='extra'>like</span> the chariots of Ammi-nadib.",
+      "plainText": "Or ever I was aware, my soul made me like the chariots of Ammi-nadib."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "17628",
-      "text" : "Return, return, O Shulamite; return, return, that we may look upon thee. What will ye see in the Shulamite? As it were the company of two armies.",
-      "plainText" : "Return, return, O Shulamite; return, return, that we may look upon thee. What will ye see in the Shulamite? As it were the company of two armies."
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "17628",
+      "text": "Return, return, O Shulamite; return, return, that we may look upon thee. What will ye see in the Shulamite? As it were the company of two armies.",
+      "plainText": "Return, return, O Shulamite; return, return, that we may look upon thee. What will ye see in the Shulamite? As it were the company of two armies."
     }
   ]
 }
-

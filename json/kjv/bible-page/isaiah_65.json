@@ -1,255 +1,229 @@
 {
   "book": {
-    "number" : "23",
-    "filenamePrefix" : "isaiah",
-    "bookPage" : "isaiah.html",
-    "title" : "Isaiah",
-    "chapterCount" : "66",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "jeremiah_1.html",
-    "nextTitle" : "Jeremiah",
-    "prevBook" : "song_of_solomon_1.html",
-    "prevTitle" : "Song of Solomon"
+    "number": "23",
+    "filenamePrefix": "isaiah",
+    "bookPage": "isaiah.html",
+    "title": "Isaiah",
+    "chapterCount": "66",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "jeremiah_1.html",
+    "nextTitle": "Jeremiah",
+    "prevBook": "song_of_solomon_1.html",
+    "prevTitle": "Song of Solomon",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "65",
-    "verseCount" : "25",
-    "nextChapter" : "isaiah_66.html",
-    "nextTitle" : "Isaiah 66",
-    "prevChapter" : "isaiah_64.html",
-    "prevTitle" : "Isaiah 64",
-    "filename" : "isaiah_65.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "65",
+    "verseCount": "25",
+    "nextChapter": "isaiah_66.html",
+    "nextTitle": "Isaiah 66",
+    "prevChapter": "isaiah_64.html",
+    "prevTitle": "Isaiah 64",
+    "filename": "isaiah_65.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "18899",
-      "text" : "I am sought of <span class='extra'>them that<\/span> asked not <span class='extra'>for me<\/span>; I am found of <span class='extra'>them that<\/span> sought me not: I said, Behold me, behold me, unto a nation <span class='extra'>that<\/span> was not called by my name.",
-      "plainText" : "I am sought of them that asked not for me; I am found of them that sought me not: I said, Behold me, behold me, unto a nation that was not called by my name."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "18899",
+      "text": "I am sought of <span class='extra'>them that</span> asked not <span class='extra'>for me</span>; I am found of <span class='extra'>them that</span> sought me not: I said, Behold me, behold me, unto a nation <span class='extra'>that</span> was not called by my name.",
+      "plainText": "I am sought of them that asked not for me; I am found of them that sought me not: I said, Behold me, behold me, unto a nation that was not called by my name."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "18900",
-      "text" : "I have spread out my hands all the day unto a rebellious people, which walketh in a way <span class='extra'>that was<\/span> not good, after their own thoughts;",
-      "plainText" : "I have spread out my hands all the day unto a rebellious people, which walketh in a way that was not good, after their own thoughts;"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "18900",
+      "text": "I have spread out my hands all the day unto a rebellious people, which walketh in a way <span class='extra'>that was</span> not good, after their own thoughts;",
+      "plainText": "I have spread out my hands all the day unto a rebellious people, which walketh in a way that was not good, after their own thoughts;"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "18901",
-      "text" : "A people that provoketh me to anger continually to my face; that sacrificeth in gardens, and burneth incense upon altars of brick;",
-      "plainText" : "A people that provoketh me to anger continually to my face; that sacrificeth in gardens, and burneth incense upon altars of brick;"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "18901",
+      "text": "A people that provoketh me to anger continually to my face; that sacrificeth in gardens, and burneth incense upon altars of brick;",
+      "plainText": "A people that provoketh me to anger continually to my face; that sacrificeth in gardens, and burneth incense upon altars of brick;"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "18902",
-      "text" : "Which remain among the graves, and lodge in the monuments, which eat swine's flesh, and broth of abominable <span class='extra'>things is in<\/span> their vessels;",
-      "plainText" : "Which remain among the graves, and lodge in the monuments, which eat swine's flesh, and broth of abominable things is in their vessels;"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "18902",
+      "text": "Which remain among the graves, and lodge in the monuments, which eat swine's flesh, and broth of abominable <span class='extra'>things is in</span> their vessels;",
+      "plainText": "Which remain among the graves, and lodge in the monuments, which eat swine's flesh, and broth of abominable things is in their vessels;"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "18903",
-      "text" : "Which say, Stand by thyself, come not near to me; for I am holier than thou. These <span class='extra'>are<\/span> a smoke in my nose, a fire that burneth all the day.",
-      "plainText" : "Which say, Stand by thyself, come not near to me; for I am holier than thou. These are a smoke in my nose, a fire that burneth all the day."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "18903",
+      "text": "Which say, Stand by thyself, come not near to me; for I am holier than thou. These <span class='extra'>are</span> a smoke in my nose, a fire that burneth all the day.",
+      "plainText": "Which say, Stand by thyself, come not near to me; for I am holier than thou. These are a smoke in my nose, a fire that burneth all the day."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "18904",
-      "text" : "Behold, <span class='extra'>it is<\/span> written before me: I will not keep silence, but will recompense, even recompense into their bosom,",
-      "plainText" : "Behold, it is written before me: I will not keep silence, but will recompense, even recompense into their bosom,"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "18904",
+      "text": "Behold, <span class='extra'>it is</span> written before me: I will not keep silence, but will recompense, even recompense into their bosom,",
+      "plainText": "Behold, it is written before me: I will not keep silence, but will recompense, even recompense into their bosom,"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "18905",
-      "text" : "Your iniquities, and the iniquities of your fathers together, saith the <span class='nog'>LORD<\/span>, which have burned incense upon the mountains, and blasphemed me upon the hills: therefore will I measure their former work into their bosom.",
-      "plainText" : "Your iniquities, and the iniquities of your fathers together, saith the LORD, which have burned incense upon the mountains, and blasphemed me upon the hills: therefore will I measure their former work into their bosom."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "18905",
+      "text": "Your iniquities, and the iniquities of your fathers together, saith the <span class='nog'>LORD</span>, which have burned incense upon the mountains, and blasphemed me upon the hills: therefore will I measure their former work into their bosom.",
+      "plainText": "Your iniquities, and the iniquities of your fathers together, saith the LORD, which have burned incense upon the mountains, and blasphemed me upon the hills: therefore will I measure their former work into their bosom."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "18906",
-      "text" : "Thus saith the <span class='nog'>LORD<\/span>, As the new wine is found in the cluster, and <span class='extra'>one<\/span> saith, Destroy it not; for a blessing <span class='extra'>is<\/span> in it: so will I do for my servants' sakes, that I may not destroy them all.",
-      "plainText" : "Thus saith the LORD, As the new wine is found in the cluster, and one saith, Destroy it not; for a blessing is in it: so will I do for my servants' sakes, that I may not destroy them all."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "18906",
+      "text": "Thus saith the <span class='nog'>LORD</span>, As the new wine is found in the cluster, and <span class='extra'>one</span> saith, Destroy it not; for a blessing <span class='extra'>is</span> in it: so will I do for my servants' sakes, that I may not destroy them all.",
+      "plainText": "Thus saith the LORD, As the new wine is found in the cluster, and one saith, Destroy it not; for a blessing is in it: so will I do for my servants' sakes, that I may not destroy them all."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "18907",
-      "text" : "And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there.",
-      "plainText" : "And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "18907",
+      "text": "And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there.",
+      "plainText": "And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "18908",
-      "text" : "And Sharon shall be a fold of flocks, and the valley of Achor a place for the herds to lie down in, for my people that have sought me.",
-      "plainText" : "And Sharon shall be a fold of flocks, and the valley of Achor a place for the herds to lie down in, for my people that have sought me."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "18908",
+      "text": "And Sharon shall be a fold of flocks, and the valley of Achor a place for the herds to lie down in, for my people that have sought me.",
+      "plainText": "And Sharon shall be a fold of flocks, and the valley of Achor a place for the herds to lie down in, for my people that have sought me."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "18909",
-      "text" : "But ye <span class='extra'>are<\/span> they that forsake the <span class='nog'>LORD<\/span>, that forget my holy mountain, that prepare a table for that troop, and that furnish the drink offering unto that number.",
-      "plainText" : "But ye are they that forsake the LORD, that forget my holy mountain, that prepare a table for that troop, and that furnish the drink offering unto that number."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "18909",
+      "text": "But ye <span class='extra'>are</span> they that forsake the <span class='nog'>LORD</span>, that forget my holy mountain, that prepare a table for that troop, and that furnish the drink offering unto that number.",
+      "plainText": "But ye are they that forsake the LORD, that forget my holy mountain, that prepare a table for that troop, and that furnish the drink offering unto that number."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "18910",
-      "text" : "Therefore will I number you to the sword, and ye shall all bow down to the slaughter: because when I called, ye did not answer; when I spake, ye did not hear; but did evil before mine eyes, and did choose <span class='extra'>that<\/span> wherein I delighted not.",
-      "plainText" : "Therefore will I number you to the sword, and ye shall all bow down to the slaughter: because when I called, ye did not answer; when I spake, ye did not hear; but did evil before mine eyes, and did choose that wherein I delighted not."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "18910",
+      "text": "Therefore will I number you to the sword, and ye shall all bow down to the slaughter: because when I called, ye did not answer; when I spake, ye did not hear; but did evil before mine eyes, and did choose <span class='extra'>that</span> wherein I delighted not.",
+      "plainText": "Therefore will I number you to the sword, and ye shall all bow down to the slaughter: because when I called, ye did not answer; when I spake, ye did not hear; but did evil before mine eyes, and did choose that wherein I delighted not."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "18911",
-      "text" : "Therefore thus saith the Lord <span class='nog'>GOD<\/span>, Behold, my servants shall eat, but ye shall be hungry: behold, my servants shall drink, but ye shall be thirsty: behold, my servants shall rejoice, but ye shall be ashamed:",
-      "plainText" : "Therefore thus saith the Lord GOD, Behold, my servants shall eat, but ye shall be hungry: behold, my servants shall drink, but ye shall be thirsty: behold, my servants shall rejoice, but ye shall be ashamed:"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "18911",
+      "text": "Therefore thus saith the Lord <span class='nog'>GOD</span>, Behold, my servants shall eat, but ye shall be hungry: behold, my servants shall drink, but ye shall be thirsty: behold, my servants shall rejoice, but ye shall be ashamed:",
+      "plainText": "Therefore thus saith the Lord GOD, Behold, my servants shall eat, but ye shall be hungry: behold, my servants shall drink, but ye shall be thirsty: behold, my servants shall rejoice, but ye shall be ashamed:"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "18912",
-      "text" : "Behold, my servants shall sing for joy of heart, but ye shall cry for sorrow of heart, and shall howl for vexation of spirit.",
-      "plainText" : "Behold, my servants shall sing for joy of heart, but ye shall cry for sorrow of heart, and shall howl for vexation of spirit."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "18912",
+      "text": "Behold, my servants shall sing for joy of heart, but ye shall cry for sorrow of heart, and shall howl for vexation of spirit.",
+      "plainText": "Behold, my servants shall sing for joy of heart, but ye shall cry for sorrow of heart, and shall howl for vexation of spirit."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "18913",
-      "text" : "And ye shall leave your name for a curse unto my chosen: for the Lord <span class='nog'>GOD<\/span> shall slay thee, and call his servants by another name:",
-      "plainText" : "And ye shall leave your name for a curse unto my chosen: for the Lord GOD shall slay thee, and call his servants by another name:"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "18913",
+      "text": "And ye shall leave your name for a curse unto my chosen: for the Lord <span class='nog'>GOD</span> shall slay thee, and call his servants by another name:",
+      "plainText": "And ye shall leave your name for a curse unto my chosen: for the Lord GOD shall slay thee, and call his servants by another name:"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "18914",
-      "text" : "That he who blesseth himself in the earth shall bless himself in the God of truth; and he that sweareth in the earth shall swear by the God of truth; because the former troubles are forgotten, and because they are hid from mine eyes.",
-      "plainText" : "That he who blesseth himself in the earth shall bless himself in the God of truth; and he that sweareth in the earth shall swear by the God of truth; because the former troubles are forgotten, and because they are hid from mine eyes."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "18914",
+      "text": "That he who blesseth himself in the earth shall bless himself in the God of truth; and he that sweareth in the earth shall swear by the God of truth; because the former troubles are forgotten, and because they are hid from mine eyes.",
+      "plainText": "That he who blesseth himself in the earth shall bless himself in the God of truth; and he that sweareth in the earth shall swear by the God of truth; because the former troubles are forgotten, and because they are hid from mine eyes."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "18915",
-      "text" : "For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind.",
-      "plainText" : "For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "18915",
+      "text": "For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind.",
+      "plainText": "For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "18916",
-      "text" : "But be ye glad and rejoice for ever <span class='extra'>in that<\/span> which I create: for, behold, I create Jerusalem a rejoicing, and her people a joy.",
-      "plainText" : "But be ye glad and rejoice for ever in that which I create: for, behold, I create Jerusalem a rejoicing, and her people a joy."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "18916",
+      "text": "But be ye glad and rejoice for ever <span class='extra'>in that</span> which I create: for, behold, I create Jerusalem a rejoicing, and her people a joy.",
+      "plainText": "But be ye glad and rejoice for ever in that which I create: for, behold, I create Jerusalem a rejoicing, and her people a joy."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "18917",
-      "text" : "And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping shall be no more heard in her, nor the voice of crying.",
-      "plainText" : "And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping shall be no more heard in her, nor the voice of crying."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "18917",
+      "text": "And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping shall be no more heard in her, nor the voice of crying.",
+      "plainText": "And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping shall be no more heard in her, nor the voice of crying."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "18918",
-      "text" : "There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner <span class='extra'>being<\/span> an hundred years old shall be accursed.",
-      "plainText" : "There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner being an hundred years old shall be accursed."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "18918",
+      "text": "There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner <span class='extra'>being</span> an hundred years old shall be accursed.",
+      "plainText": "There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner being an hundred years old shall be accursed."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "18919",
-      "text" : "And they shall build houses, and inhabit <span class='extra'>them<\/span>; and they shall plant vineyards, and eat the fruit of them.",
-      "plainText" : "And they shall build houses, and inhabit them; and they shall plant vineyards, and eat the fruit of them."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "18919",
+      "text": "And they shall build houses, and inhabit <span class='extra'>them</span>; and they shall plant vineyards, and eat the fruit of them.",
+      "plainText": "And they shall build houses, and inhabit them; and they shall plant vineyards, and eat the fruit of them."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "18920",
-      "text" : "They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree <span class='extra'>are<\/span> the days of my people, and mine elect shall long enjoy the work of their hands.",
-      "plainText" : "They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree are the days of my people, and mine elect shall long enjoy the work of their hands."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "18920",
+      "text": "They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree <span class='extra'>are</span> the days of my people, and mine elect shall long enjoy the work of their hands.",
+      "plainText": "They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree are the days of my people, and mine elect shall long enjoy the work of their hands."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "18921",
-      "text" : "They shall not labour in vain, nor bring forth for trouble; for they <span class='extra'>are<\/span> the seed of the blessed of the <span class='nog'>LORD<\/span>, and their offspring with them.",
-      "plainText" : "They shall not labour in vain, nor bring forth for trouble; for they are the seed of the blessed of the LORD, and their offspring with them."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "18921",
+      "text": "They shall not labour in vain, nor bring forth for trouble; for they <span class='extra'>are</span> the seed of the blessed of the <span class='nog'>LORD</span>, and their offspring with them.",
+      "plainText": "They shall not labour in vain, nor bring forth for trouble; for they are the seed of the blessed of the LORD, and their offspring with them."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "18922",
-      "text" : "And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear.",
-      "plainText" : "And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "18922",
+      "text": "And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear.",
+      "plainText": "And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "18923",
-      "text" : "The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust <span class='extra'>shall be<\/span> the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the LORD."
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "18923",
+      "text": "The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust <span class='extra'>shall be</span> the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the <span class='nog'>LORD</span>.",
+      "plainText": "The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the LORD."
     }
   ]
 }
-
-
-

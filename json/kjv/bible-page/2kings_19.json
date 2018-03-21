@@ -1,362 +1,325 @@
 {
   "book": {
-    "number" : "12",
-    "filenamePrefix" : "2kings",
-    "bookPage" : "2kings.html",
-    "title" : "2 Kings",
-    "chapterCount" : "25",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "1chronicles_1.html",
-    "nextTitle" : "1 Chronicles",
-    "prevBook" : "1kings_1.html",
-    "prevTitle" : "1 Kings"
+    "number": "12",
+    "filenamePrefix": "2kings",
+    "bookPage": "2kings.html",
+    "title": "2 Kings",
+    "chapterCount": "25",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "1chronicles_1.html",
+    "nextTitle": "1 Chronicles",
+    "prevBook": "1kings_1.html",
+    "prevTitle": "1 Kings",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "19",
-    "verseCount" : "37",
-    "nextChapter" : "2kings_20.html",
-    "nextTitle" : "2 Kings 20",
-    "prevChapter" : "2kings_18.html",
-    "prevTitle" : "2 Kings 18",
-    "filename" : "2kings_19.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "19",
+    "verseCount": "37",
+    "nextChapter": "2kings_20.html",
+    "nextTitle": "2 Kings 20",
+    "prevChapter": "2kings_18.html",
+    "prevTitle": "2 Kings 18",
+    "filename": "2kings_19.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "10063",
-      "text" : "And it came to pass, when king Hezekiah heard <span class='extra'>it<\/span>, that he rent his clothes, and covered himself with sackcloth, and went into the house of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "10063",
+      "text": "And it came to pass, when king Hezekiah heard <span class='extra'>it</span>, that he rent his clothes, and covered himself with sackcloth, and went into the house of the <span class='nog'>LORD</span>.",
+      "plainText": "And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "10064",
-      "text" : "And he sent Eliakim, which <span class='extra'>was<\/span> over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz.",
-      "plainText" : "And he sent Eliakim, which was over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "10064",
+      "text": "And he sent Eliakim, which <span class='extra'>was</span> over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz.",
+      "plainText": "And he sent Eliakim, which was over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "10065",
-      "text" : "And they said unto him, Thus saith Hezekiah, This day <span class='extra'>is<\/span> a day of trouble, and of rebuke, and blasphemy: for the children are come to the birth, and <span class='extra'>there is<\/span> not strength to bring forth.",
-      "plainText" : "And they said unto him, Thus saith Hezekiah, This day is a day of trouble, and of rebuke, and blasphemy: for the children are come to the birth, and there is not strength to bring forth."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "10065",
+      "text": "And they said unto him, Thus saith Hezekiah, This day <span class='extra'>is</span> a day of trouble, and of rebuke, and blasphemy: for the children are come to the birth, and <span class='extra'>there is</span> not strength to bring forth.",
+      "plainText": "And they said unto him, Thus saith Hezekiah, This day is a day of trouble, and of rebuke, and blasphemy: for the children are come to the birth, and there is not strength to bring forth."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "10066",
-      "text" : "It may be the <span class='nog'>LORD<\/span> thy God will hear all the words of Rab-shakeh, whom the king of Assyria his master hath sent to reproach the living God; and will reprove the words which the <span class='nog'>LORD<\/span> thy God hath heard: wherefore lift up <span class='extra'>thy<\/span> prayer for the remnant that are left.",
-      "plainText" : "It may be the LORD thy God will hear all the words of Rab-shakeh, whom the king of Assyria his master hath sent to reproach the living God; and will reprove the words which the LORD thy God hath heard: wherefore lift up thy prayer for the remnant that are left."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "10066",
+      "text": "It may be the <span class='nog'>LORD</span> thy God will hear all the words of Rab-shakeh, whom the king of Assyria his master hath sent to reproach the living God; and will reprove the words which the <span class='nog'>LORD</span> thy God hath heard: wherefore lift up <span class='extra'>thy</span> prayer for the remnant that are left.",
+      "plainText": "It may be the LORD thy God will hear all the words of Rab-shakeh, whom the king of Assyria his master hath sent to reproach the living God; and will reprove the words which the LORD thy God hath heard: wherefore lift up thy prayer for the remnant that are left."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "10067",
-      "text" : "So the servants of king Hezekiah came to Isaiah.",
-      "plainText" : "So the servants of king Hezekiah came to Isaiah."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "10067",
+      "text": "So the servants of king Hezekiah came to Isaiah.",
+      "plainText": "So the servants of king Hezekiah came to Isaiah."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "10068",
-      "text" : "And Isaiah said unto them, Thus shall ye say to your master, Thus saith the <span class='nog'>LORD<\/span>, Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me.",
-      "plainText" : "And Isaiah said unto them, Thus shall ye say to your master, Thus saith the LORD, Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "10068",
+      "text": "And Isaiah said unto them, Thus shall ye say to your master, Thus saith the <span class='nog'>LORD</span>, Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me.",
+      "plainText": "And Isaiah said unto them, Thus shall ye say to your master, Thus saith the LORD, Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "10069",
-      "text" : "Behold, I will send a blast upon him, and he shall hear a rumour, and shall return to his own land; and I will cause him to fall by the sword in his own land.",
-      "plainText" : "Behold, I will send a blast upon him, and he shall hear a rumour, and shall return to his own land; and I will cause him to fall by the sword in his own land."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "10069",
+      "text": "Behold, I will send a blast upon him, and he shall hear a rumour, and shall return to his own land; and I will cause him to fall by the sword in his own land.",
+      "plainText": "Behold, I will send a blast upon him, and he shall hear a rumour, and shall return to his own land; and I will cause him to fall by the sword in his own land."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "10070",
-      "text" : "So Rab-shakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.",
-      "plainText" : "So Rab-shakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "10070",
+      "text": "So Rab-shakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.",
+      "plainText": "So Rab-shakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "10071",
-      "text" : "And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against thee: he sent messengers again unto Hezekiah, saying,",
-      "plainText" : "And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against thee: he sent messengers again unto Hezekiah, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "10071",
+      "text": "And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against thee: he sent messengers again unto Hezekiah, saying,",
+      "plainText": "And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against thee: he sent messengers again unto Hezekiah, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "10072",
-      "text" : "Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria.",
-      "plainText" : "Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "10072",
+      "text": "Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria.",
+      "plainText": "Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "10073",
-      "text" : "Behold, thou hast heard what the kings of Assyria have done to all lands, by destroying them utterly: and shalt thou be delivered?",
-      "plainText" : "Behold, thou hast heard what the kings of Assyria have done to all lands, by destroying them utterly: and shalt thou be delivered?"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "10073",
+      "text": "Behold, thou hast heard what the kings of Assyria have done to all lands, by destroying them utterly: and shalt thou be delivered?",
+      "plainText": "Behold, thou hast heard what the kings of Assyria have done to all lands, by destroying them utterly: and shalt thou be delivered?"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "10074",
-      "text" : "Have the gods of the nations delivered them which my fathers have destroyed; <span class='extra'>as<\/span> Gozan, and Haran, and Rezeph, and the children of Eden which <span class='extra'>were<\/span> in Thelasar?",
-      "plainText" : "Have the gods of the nations delivered them which my fathers have destroyed; as Gozan, and Haran, and Rezeph, and the children of Eden which were in Thelasar?"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "10074",
+      "text": "Have the gods of the nations delivered them which my fathers have destroyed; <span class='extra'>as</span> Gozan, and Haran, and Rezeph, and the children of Eden which <span class='extra'>were</span> in Thelasar?",
+      "plainText": "Have the gods of the nations delivered them which my fathers have destroyed; as Gozan, and Haran, and Rezeph, and the children of Eden which were in Thelasar?"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "10075",
-      "text" : "Where <span class='extra'>is<\/span> the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah?",
-      "plainText" : "Where is the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah?"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "10075",
+      "text": "Where <span class='extra'>is</span> the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah?",
+      "plainText": "Where is the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah?"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "10076",
-      "text" : "And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the <span class='nog'>LORD<\/span>, and spread it before the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "10076",
+      "text": "And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the <span class='nog'>LORD</span>, and spread it before the <span class='nog'>LORD</span>.",
+      "plainText": "And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "10077",
-      "text" : "And Hezekiah prayed before the <span class='nog'>LORD<\/span>, and said, O <span class='nog'>LORD<\/span> God of Israel, which dwellest <span class='extra'>between<\/span> the cherubims, thou art the God, <span class='extra'>even<\/span> thou alone, of all the kingdoms of the earth; thou hast made heaven and earth.",
-      "plainText" : "And Hezekiah prayed before the LORD, and said, O LORD God of Israel, which dwellest between the cherubims, thou art the God, even thou alone, of all the kingdoms of the earth; thou hast made heaven and earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "10077",
+      "text": "And Hezekiah prayed before the <span class='nog'>LORD</span>, and said, O <span class='nog'>LORD</span> God of Israel, which dwellest <span class='extra'>between</span> the cherubims, thou art the God, <span class='extra'>even</span> thou alone, of all the kingdoms of the earth; thou hast made heaven and earth.",
+      "plainText": "And Hezekiah prayed before the LORD, and said, O LORD God of Israel, which dwellest between the cherubims, thou art the God, even thou alone, of all the kingdoms of the earth; thou hast made heaven and earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "10078",
-      "text" : "<span class='nog'>LORD<\/span>, bow down thine ear, and hear: open, <span class='nog'>LORD<\/span>, thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God.",
-      "plainText" : "LORD, bow down thine ear, and hear: open, LORD, thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "10078",
+      "text": "<span class='nog'>LORD</span>, bow down thine ear, and hear: open, <span class='nog'>LORD</span>, thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God.",
+      "plainText": "LORD, bow down thine ear, and hear: open, LORD, thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "10079",
-      "text" : "Of a truth, <span class='nog'>LORD<\/span>, the kings of Assyria have destroyed the nations and their lands,",
-      "plainText" : "Of a truth, LORD, the kings of Assyria have destroyed the nations and their lands,"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "10079",
+      "text": "Of a truth, <span class='nog'>LORD</span>, the kings of Assyria have destroyed the nations and their lands,",
+      "plainText": "Of a truth, LORD, the kings of Assyria have destroyed the nations and their lands,"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "10080",
-      "text" : "And have cast their gods into the fire: for they <span class='extra'>were<\/span> no gods, but the work of men's hands, wood and stone: therefore they have destroyed them.",
-      "plainText" : "And have cast their gods into the fire: for they were no gods, but the work of men's hands, wood and stone: therefore they have destroyed them."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "10080",
+      "text": "And have cast their gods into the fire: for they <span class='extra'>were</span> no gods, but the work of men's hands, wood and stone: therefore they have destroyed them.",
+      "plainText": "And have cast their gods into the fire: for they were no gods, but the work of men's hands, wood and stone: therefore they have destroyed them."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "10081",
-      "text" : "Now therefore, O <span class='nog'>LORD<\/span> our God, I beseech thee, save thou us out of his hand, that all the kingdoms of the earth may know that thou <span class='extra'>art<\/span> the <span class='nog'>LORD<\/span> God, <span class='extra'>even<\/span> thou only.",
-      "plainText" : "Now therefore, O LORD our God, I beseech thee, save thou us out of his hand, that all the kingdoms of the earth may know that thou art the LORD God, even thou only."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "10081",
+      "text": "Now therefore, O <span class='nog'>LORD</span> our God, I beseech thee, save thou us out of his hand, that all the kingdoms of the earth may know that thou <span class='extra'>art</span> the <span class='nog'>LORD</span> God, <span class='extra'>even</span> thou only.",
+      "plainText": "Now therefore, O LORD our God, I beseech thee, save thou us out of his hand, that all the kingdoms of the earth may know that thou art the LORD God, even thou only."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "10082",
-      "text" : "Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the <span class='nog'>LORD<\/span> God of Israel, <span class='extra'>That<\/span> which thou hast prayed to me against Sennacherib king of Assyria I have heard.",
-      "plainText" : "Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the LORD God of Israel, That which thou hast prayed to me against Sennacherib king of Assyria I have heard."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "10082",
+      "text": "Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the <span class='nog'>LORD</span> God of Israel, <span class='extra'>That</span> which thou hast prayed to me against Sennacherib king of Assyria I have heard.",
+      "plainText": "Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the LORD God of Israel, That which thou hast prayed to me against Sennacherib king of Assyria I have heard."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "10083",
-      "text" : "This <span class='extra'>is<\/span> the word that the <span class='nog'>LORD<\/span> hath spoken concerning him; The virgin the daughter of Zion hath despised thee, <span class='extra'>and<\/span> laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee.",
-      "plainText" : "This is the word that the LORD hath spoken concerning him; The virgin the daughter of Zion hath despised thee, and laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "10083",
+      "text": "This <span class='extra'>is</span> the word that the <span class='nog'>LORD</span> hath spoken concerning him; The virgin the daughter of Zion hath despised thee, <span class='extra'>and</span> laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee.",
+      "plainText": "This is the word that the LORD hath spoken concerning him; The virgin the daughter of Zion hath despised thee, and laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "10084",
-      "text" : "Whom hast thou reproached and blasphemed? and against whom hast thou exalted <span class='extra'>thy<\/span> voice, and lifted up thine eyes on high? <span class='extra'>even<\/span> against the Holy <span class='extra'>One<\/span> of Israel.",
-      "plainText" : "Whom hast thou reproached and blasphemed? and against whom hast thou exalted thy voice, and lifted up thine eyes on high? even against the Holy One of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "10084",
+      "text": "Whom hast thou reproached and blasphemed? and against whom hast thou exalted <span class='extra'>thy</span> voice, and lifted up thine eyes on high? <span class='extra'>even</span> against the Holy <span class='extra'>One</span> of Israel.",
+      "plainText": "Whom hast thou reproached and blasphemed? and against whom hast thou exalted thy voice, and lifted up thine eyes on high? even against the Holy One of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "10085",
-      "text" : "By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, <span class='extra'>and<\/span> the choice fir trees thereof: and I will enter into the lodgings of his borders, <span class='extra'>and into<\/span> the forest of his Carmel.",
-      "plainText" : "By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, and the choice fir trees thereof: and I will enter into the lodgings of his borders, and into the forest of his Carmel."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "10085",
+      "text": "By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, <span class='extra'>and</span> the choice fir trees thereof: and I will enter into the lodgings of his borders, <span class='extra'>and into</span> the forest of his Carmel.",
+      "plainText": "By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, and the choice fir trees thereof: and I will enter into the lodgings of his borders, and into the forest of his Carmel."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "10086",
-      "text" : "I have digged and drunk strange waters, and with the sole of my feet have I dried up all the rivers of besieged places.",
-      "plainText" : "I have digged and drunk strange waters, and with the sole of my feet have I dried up all the rivers of besieged places."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "10086",
+      "text": "I have digged and drunk strange waters, and with the sole of my feet have I dried up all the rivers of besieged places.",
+      "plainText": "I have digged and drunk strange waters, and with the sole of my feet have I dried up all the rivers of besieged places."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "10087",
-      "text" : "Hast thou not heard long ago <span class='extra'>how<\/span> I have done it, <span class='extra'>and<\/span> of ancient times that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste fenced cities <span class='extra'>into<\/span> ruinous heaps.",
-      "plainText" : "Hast thou not heard long ago how I have done it, and of ancient times that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste fenced cities into ruinous heaps."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "10087",
+      "text": "Hast thou not heard long ago <span class='extra'>how</span> I have done it, <span class='extra'>and</span> of ancient times that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste fenced cities <span class='extra'>into</span> ruinous heaps.",
+      "plainText": "Hast thou not heard long ago how I have done it, and of ancient times that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste fenced cities into ruinous heaps."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "10088",
-      "text" : "Therefore their inhabitants were of small power, they were dismayed and confounded; they were <span class='extra'>as<\/span> the grass of the field, and <span class='extra'>as<\/span> the green herb, <span class='extra'>as<\/span> the grass on the housetops, and <span class='extra'>as corn<\/span> blasted before it be grown up.",
-      "plainText" : "Therefore their inhabitants were of small power, they were dismayed and confounded; they were as the grass of the field, and as the green herb, as the grass on the housetops, and as corn blasted before it be grown up."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "10088",
+      "text": "Therefore their inhabitants were of small power, they were dismayed and confounded; they were <span class='extra'>as</span> the grass of the field, and <span class='extra'>as</span> the green herb, <span class='extra'>as</span> the grass on the housetops, and <span class='extra'>as corn</span> blasted before it be grown up.",
+      "plainText": "Therefore their inhabitants were of small power, they were dismayed and confounded; they were as the grass of the field, and as the green herb, as the grass on the housetops, and as corn blasted before it be grown up."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "10089",
-      "text" : "But I know thy abode, and thy going out, and thy coming in, and thy rage against me.",
-      "plainText" : "But I know thy abode, and thy going out, and thy coming in, and thy rage against me."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "10089",
+      "text": "But I know thy abode, and thy going out, and thy coming in, and thy rage against me.",
+      "plainText": "But I know thy abode, and thy going out, and thy coming in, and thy rage against me."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "10090",
-      "text" : "Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest.",
-      "plainText" : "Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "10090",
+      "text": "Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest.",
+      "plainText": "Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "10091",
-      "text" : "And this <span class='extra'>shall be<\/span> a sign unto thee, Ye shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruits thereof.",
-      "plainText" : "And this shall be a sign unto thee, Ye shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruits thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "10091",
+      "text": "And this <span class='extra'>shall be</span> a sign unto thee, Ye shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruits thereof.",
+      "plainText": "And this shall be a sign unto thee, Ye shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruits thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "10092",
-      "text" : "And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward.",
-      "plainText" : "And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "10092",
+      "text": "And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward.",
+      "plainText": "And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "10093",
-      "text" : "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the <span class='nog'>LORD<\/span> <span class='extra'>of hosts<\/span> shall do this.",
-      "plainText" : "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD of hosts shall do this."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "10093",
+      "text": "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the <span class='nog'>LORD</span> <span class='extra'>of hosts</span> shall do this.",
+      "plainText": "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD of hosts shall do this."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "10094",
-      "text" : "Therefore thus saith the <span class='nog'>LORD<\/span> concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it.",
-      "plainText" : "Therefore thus saith the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "10094",
+      "text": "Therefore thus saith the <span class='nog'>LORD</span> concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it.",
+      "plainText": "Therefore thus saith the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "10095",
-      "text" : "By the way that he came, by the same shall he return, and shall not come into this city, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "By the way that he came, by the same shall he return, and shall not come into this city, saith the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "10095",
+      "text": "By the way that he came, by the same shall he return, and shall not come into this city, saith the <span class='nog'>LORD</span>.",
+      "plainText": "By the way that he came, by the same shall he return, and shall not come into this city, saith the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "10096",
-      "text" : "For I will defend this city, to save it, for mine own sake, and for my servant David's sake.",
-      "plainText" : "For I will defend this city, to save it, for mine own sake, and for my servant David's sake."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "10096",
+      "text": "For I will defend this city, to save it, for mine own sake, and for my servant David's sake.",
+      "plainText": "For I will defend this city, to save it, for mine own sake, and for my servant David's sake."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "10097",
-      "text" : "And it came to pass that night, that the angel of the <span class='nog'>LORD<\/span> went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they <span class='extra'>were<\/span> all dead corpses.",
-      "plainText" : "And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they were all dead corpses."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "10097",
+      "text": "And it came to pass that night, that the angel of the <span class='nog'>LORD</span> went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they <span class='extra'>were</span> all dead corpses.",
+      "plainText": "And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they were all dead corpses."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "10098",
-      "text" : "So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.",
-      "plainText" : "So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "10098",
+      "text": "So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.",
+      "plainText": "So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "10099",
-      "text" : "And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esarhaddon his son reigned in his stead.",
-      "plainText" : "And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esarhaddon his son reigned in his stead."
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "10099",
+      "text": "And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esarhaddon his son reigned in his stead.",
+      "plainText": "And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esarhaddon his son reigned in his stead."
     }
   ]
 }
-
-

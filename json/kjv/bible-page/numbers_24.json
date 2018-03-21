@@ -1,254 +1,229 @@
 {
   "book": {
-    "number" : "4",
-    "filenamePrefix" : "numbers",
-    "bookPage" : "numbers.html",
-    "title" : "Numbers",
-    "chapterCount" : "36",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "deuteronomy_1.html",
-    "nextTitle" : "Deuteronomy",
-    "prevBook" : "leviticus_1.html",
-    "prevTitle" : "Leviticus"
+    "number": "4",
+    "filenamePrefix": "numbers",
+    "bookPage": "numbers.html",
+    "title": "Numbers",
+    "chapterCount": "36",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "deuteronomy_1.html",
+    "nextTitle": "Deuteronomy",
+    "prevBook": "leviticus_1.html",
+    "prevTitle": "Leviticus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "24",
-    "verseCount" : "25",
-    "nextChapter" : "numbers_25.html",
-    "nextTitle" : "Numbers 25",
-    "prevChapter" : "numbers_23.html",
-    "prevTitle" : "Numbers 23",
-    "filename" : "numbers_24.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "24",
+    "verseCount": "25",
+    "nextChapter": "numbers_25.html",
+    "nextTitle": "Numbers 25",
+    "prevChapter": "numbers_23.html",
+    "prevTitle": "Numbers 23",
+    "filename": "numbers_24.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "4448",
-      "text" : "And when Balaam saw that it pleased the <span class='nog'>LORD<\/span> to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.",
-      "plainText" : "And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "4448",
+      "text": "And when Balaam saw that it pleased the <span class='nog'>LORD</span> to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.",
+      "plainText": "And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "4449",
-      "text" : "And Balaam lifted up his eyes, and he saw Israel abiding <span class='extra'>in his tents<\/span> according to their tribes; and the spirit of God came upon him.",
-      "plainText" : "And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "4449",
+      "text": "And Balaam lifted up his eyes, and he saw Israel abiding <span class='extra'>in his tents</span> according to their tribes; and the spirit of God came upon him.",
+      "plainText": "And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "4450",
-      "text" : "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:",
-      "plainText" : "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "4450",
+      "text": "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:",
+      "plainText": "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "4451",
-      "text" : "He hath said, which heard the words of God, which saw the vision of the Almighty, falling <span class='extra'>into a trance<\/span>, but having his eyes open:",
-      "plainText" : "He hath said, which heard the words of God, which saw the vision of the Almighty, falling into a trance, but having his eyes open:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "4451",
+      "text": "He hath said, which heard the words of God, which saw the vision of the Almighty, falling <span class='extra'>into a trance</span>, but having his eyes open:",
+      "plainText": "He hath said, which heard the words of God, which saw the vision of the Almighty, falling into a trance, but having his eyes open:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "4452",
-      "text" : "How goodly are thy tents, O Jacob, <span class='extra'>and<\/span> thy tabernacles, O Israel!",
-      "plainText" : "How goodly are thy tents, O Jacob, and thy tabernacles, O Israel!"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "4452",
+      "text": "How goodly are thy tents, O Jacob, <span class='extra'>and</span> thy tabernacles, O Israel!",
+      "plainText": "How goodly are thy tents, O Jacob, and thy tabernacles, O Israel!"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "4453",
-      "text" : "As the valleys are they spread forth, as gardens by the river's side, as the trees of lign aloes which the <span class='nog'>LORD<\/span> hath planted, <span class='extra'>and<\/span> as cedar trees beside the waters.",
-      "plainText" : "As the valleys are they spread forth, as gardens by the river's side, as the trees of lign aloes which the LORD hath planted, and as cedar trees beside the waters."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "4453",
+      "text": "As the valleys are they spread forth, as gardens by the river's side, as the trees of lign aloes which the <span class='nog'>LORD</span> hath planted, <span class='extra'>and</span> as cedar trees beside the waters.",
+      "plainText": "As the valleys are they spread forth, as gardens by the river's side, as the trees of lign aloes which the LORD hath planted, and as cedar trees beside the waters."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "4454",
-      "text" : "He shall pour the water out of his buckets, and his seed <span class='extra'>shall be<\/span> in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted.",
-      "plainText" : "He shall pour the water out of his buckets, and his seed shall be in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "4454",
+      "text": "He shall pour the water out of his buckets, and his seed <span class='extra'>shall be</span> in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted.",
+      "plainText": "He shall pour the water out of his buckets, and his seed shall be in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "4455",
-      "text" : "God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce <span class='extra'>them<\/span> through with his arrows.",
-      "plainText" : "God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "4455",
+      "text": "God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce <span class='extra'>them</span> through with his arrows.",
+      "plainText": "God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "4456",
-      "text" : "He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed <span class='extra'>is<\/span> he that blesseth thee, and cursed <span class='extra'>is<\/span> he that curseth thee.",
-      "plainText" : "He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesseth thee, and cursed is he that curseth thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "4456",
+      "text": "He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed <span class='extra'>is</span> he that blesseth thee, and cursed <span class='extra'>is</span> he that curseth thee.",
+      "plainText": "He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesseth thee, and cursed is he that curseth thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "4457",
-      "text" : "And Balak's anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed <span class='extra'>them<\/span> these three times.",
-      "plainText" : "And Balak's anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed them these three times."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "4457",
+      "text": "And Balak's anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed <span class='extra'>them</span> these three times.",
+      "plainText": "And Balak's anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed them these three times."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "4458",
-      "text" : "Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the <span class='nog'>LORD<\/span> hath kept thee back from honour.",
-      "plainText" : "Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the LORD hath kept thee back from honour."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "4458",
+      "text": "Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the <span class='nog'>LORD</span> hath kept thee back from honour.",
+      "plainText": "Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the LORD hath kept thee back from honour."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "4459",
-      "text" : "And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,",
-      "plainText" : "And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "4459",
+      "text": "And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,",
+      "plainText": "And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "4460",
-      "text" : "If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the <span class='nog'>LORD<\/span>, to do <span class='extra'>either<\/span> good or bad of mine own mind; <span class='extra'>but<\/span> what the <span class='nog'>LORD<\/span> saith, that will I speak?",
-      "plainText" : "If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do either good or bad of mine own mind; but what the LORD saith, that will I speak?"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "4460",
+      "text": "If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the <span class='nog'>LORD</span>, to do <span class='extra'>either</span> good or bad of mine own mind; <span class='extra'>but</span> what the <span class='nog'>LORD</span> saith, that will I speak?",
+      "plainText": "If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do either good or bad of mine own mind; but what the LORD saith, that will I speak?"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "4461",
-      "text" : "And now, behold, I go unto my people: come <span class='extra'>therefore, and<\/span> I will advertise thee what this people shall do to thy people in the latter days.",
-      "plainText" : "And now, behold, I go unto my people: come therefore, and I will advertise thee what this people shall do to thy people in the latter days."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "4461",
+      "text": "And now, behold, I go unto my people: come <span class='extra'>therefore, and</span> I will advertise thee what this people shall do to thy people in the latter days.",
+      "plainText": "And now, behold, I go unto my people: come therefore, and I will advertise thee what this people shall do to thy people in the latter days."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "4462",
-      "text" : "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:",
-      "plainText" : "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "4462",
+      "text": "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:",
+      "plainText": "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "4463",
-      "text" : "He hath said, which heard the words of God, and knew the knowledge of the most High, <span class='extra'>which<\/span> saw the vision of the Almighty, falling <span class='extra'>into a trance<\/span>, but having his eyes open:",
-      "plainText" : "He hath said, which heard the words of God, and knew the knowledge of the most High, which saw the vision of the Almighty, falling into a trance, but having his eyes open:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "4463",
+      "text": "He hath said, which heard the words of God, and knew the knowledge of the most High, <span class='extra'>which</span> saw the vision of the Almighty, falling <span class='extra'>into a trance</span>, but having his eyes open:",
+      "plainText": "He hath said, which heard the words of God, and knew the knowledge of the most High, which saw the vision of the Almighty, falling into a trance, but having his eyes open:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "4464",
-      "text" : "I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.",
-      "plainText" : "I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "4464",
+      "text": "I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.",
+      "plainText": "I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "4465",
-      "text" : "And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly.",
-      "plainText" : "And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "4465",
+      "text": "And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly.",
+      "plainText": "And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "4466",
-      "text" : "Out of Jacob shall come he that shall have dominion, and shall destroy him that remaineth of the city.",
-      "plainText" : "Out of Jacob shall come he that shall have dominion, and shall destroy him that remaineth of the city."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "4466",
+      "text": "Out of Jacob shall come he that shall have dominion, and shall destroy him that remaineth of the city.",
+      "plainText": "Out of Jacob shall come he that shall have dominion, and shall destroy him that remaineth of the city."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "4467",
-      "text" : "And when he looked on Amalek, he took up his parable, and said, Amalek <span class='extra'>was<\/span> the first of the nations; but his latter end <span class='extra'>shall be<\/span> that he perish for ever.",
-      "plainText" : "And when he looked on Amalek, he took up his parable, and said, Amalek was the first of the nations; but his latter end shall be that he perish for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "4467",
+      "text": "And when he looked on Amalek, he took up his parable, and said, Amalek <span class='extra'>was</span> the first of the nations; but his latter end <span class='extra'>shall be</span> that he perish for ever.",
+      "plainText": "And when he looked on Amalek, he took up his parable, and said, Amalek was the first of the nations; but his latter end shall be that he perish for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "4468",
-      "text" : "And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock.",
-      "plainText" : "And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "4468",
+      "text": "And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock.",
+      "plainText": "And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "4469",
-      "text" : "Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive.",
-      "plainText" : "Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "4469",
+      "text": "Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive.",
+      "plainText": "Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "4470",
-      "text" : "And he took up his parable, and said, Alas, who shall live when God doeth this!",
-      "plainText" : "And he took up his parable, and said, Alas, who shall live when God doeth this!"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "4470",
+      "text": "And he took up his parable, and said, Alas, who shall live when God doeth this!",
+      "plainText": "And he took up his parable, and said, Alas, who shall live when God doeth this!"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "4471",
-      "text" : "And ships <span class='extra'>shall come<\/span> from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever.",
-      "plainText" : "And ships shall come from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "4471",
+      "text": "And ships <span class='extra'>shall come</span> from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever.",
+      "plainText": "And ships shall come from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "4472",
-      "text" : "And Balaam rose up, and went and returned to his place: and Balak also went his way.",
-      "plainText" : "And Balaam rose up, and went and returned to his place: and Balak also went his way."
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "4472",
+      "text": "And Balaam rose up, and went and returned to his place: and Balak also went his way.",
+      "plainText": "And Balaam rose up, and went and returned to his place: and Balak also went his way."
     }
   ]
 }
-
-

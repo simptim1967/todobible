@@ -1,236 +1,213 @@
 {
   "book": {
-    "number" : "9",
-    "filenamePrefix" : "1samuel",
-    "bookPage" : "1samuel.html",
-    "title" : "1 Samuel",
-    "chapterCount" : "31",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "2samuel_1.html",
-    "nextTitle" : "2 Samuel",
-    "prevBook" : "ruth_1.html",
-    "prevTitle" : "Ruth"
+    "number": "9",
+    "filenamePrefix": "1samuel",
+    "bookPage": "1samuel.html",
+    "title": "1 Samuel",
+    "chapterCount": "31",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "2samuel_1.html",
+    "nextTitle": "2 Samuel",
+    "prevBook": "ruth_1.html",
+    "prevTitle": "Ruth",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "22",
-    "verseCount" : "23",
-    "nextChapter" : "1samuel_23.html",
-    "nextTitle" : "1 Samuel 23",
-    "prevChapter" : "1samuel_21.html",
-    "prevTitle" : "1 Samuel 21",
-    "filename" : "1samuel_22.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "22",
+    "verseCount": "23",
+    "nextChapter": "1samuel_23.html",
+    "nextTitle": "1 Samuel 23",
+    "prevChapter": "1samuel_21.html",
+    "prevTitle": "1 Samuel 21",
+    "filename": "1samuel_22.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "7789",
-      "text" : "David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father's house heard <span class='extra'>it<\/span>, they went down thither to him.",
-      "plainText" : "David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father's house heard it, they went down thither to him."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "7789",
+      "text": "David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father's house heard <span class='extra'>it</span>, they went down thither to him.",
+      "plainText": "David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father's house heard it, they went down thither to him."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "7790",
-      "text" : "And every one <span class='extra'>that was<\/span> in distress, and every one that <span class='extra'>was<\/span> in debt, and every one <span class='extra'>that was<\/span> discontented, gathered themselves unto him; and he became a captain over them: and there were with him about four hundred men.",
-      "plainText" : "And every one that was in distress, and every one that was in debt, and every one that was discontented, gathered themselves unto him; and he became a captain over them: and there were with him about four hundred men."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "7790",
+      "text": "And every one <span class='extra'>that was</span> in distress, and every one that <span class='extra'>was</span> in debt, and every one <span class='extra'>that was</span> discontented, gathered themselves unto him; and he became a captain over them: and there were with him about four hundred men.",
+      "plainText": "And every one that was in distress, and every one that was in debt, and every one that was discontented, gathered themselves unto him; and he became a captain over them: and there were with him about four hundred men."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "7791",
-      "text" : "And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let my father and my mother, I pray thee, come forth, <span class='extra'>and be<\/span> with you, till I know what God will do for me.",
-      "plainText" : "And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let my father and my mother, I pray thee, come forth, and be with you, till I know what God will do for me."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "7791",
+      "text": "And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let my father and my mother, I pray thee, come forth, <span class='extra'>and be</span> with you, till I know what God will do for me.",
+      "plainText": "And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let my father and my mother, I pray thee, come forth, and be with you, till I know what God will do for me."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "7792",
-      "text" : "And he brought them before the king of Moab: and they dwelt with him all the while that David was in the hold.",
-      "plainText" : "And he brought them before the king of Moab: and they dwelt with him all the while that David was in the hold."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "7792",
+      "text": "And he brought them before the king of Moab: and they dwelt with him all the while that David was in the hold.",
+      "plainText": "And he brought them before the king of Moab: and they dwelt with him all the while that David was in the hold."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "7793",
-      "text" : "And the prophet Gad said unto David, Abide not in the hold; depart, and get thee into the land of Judah. Then David departed, and came into the forest of Hareth.",
-      "plainText" : "And the prophet Gad said unto David, Abide not in the hold; depart, and get thee into the land of Judah. Then David departed, and came into the forest of Hareth."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "7793",
+      "text": "And the prophet Gad said unto David, Abide not in the hold; depart, and get thee into the land of Judah. Then David departed, and came into the forest of Hareth.",
+      "plainText": "And the prophet Gad said unto David, Abide not in the hold; depart, and get thee into the land of Judah. Then David departed, and came into the forest of Hareth."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "7794",
-      "text" : "When Saul heard that David was discovered, and the men that <span class='extra'>were<\/span> with him, (now Saul abode in Gibeah under a tree in Ramah, having his spear in his hand, and all his servants <span class='extra'>were<\/span> standing about him;)",
-      "plainText" : "When Saul heard that David was discovered, and the men that were with him, (now Saul abode in Gibeah under a tree in Ramah, having his spear in his hand, and all his servants were standing about him;)"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "7794",
+      "text": "When Saul heard that David was discovered, and the men that <span class='extra'>were</span> with him, (now Saul abode in Gibeah under a tree in Ramah, having his spear in his hand, and all his servants <span class='extra'>were</span> standing about him;)",
+      "plainText": "When Saul heard that David was discovered, and the men that were with him, (now Saul abode in Gibeah under a tree in Ramah, having his spear in his hand, and all his servants were standing about him;)"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "7795",
-      "text" : "Then Saul said unto his servants that stood about him, Hear now, ye Benjamites; will the son of Jesse give every one of you fields and vineyards, <span class='extra'>and<\/span> make you all captains of thousands, and captains of hundreds;",
-      "plainText" : "Then Saul said unto his servants that stood about him, Hear now, ye Benjamites; will the son of Jesse give every one of you fields and vineyards, and make you all captains of thousands, and captains of hundreds;"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "7795",
+      "text": "Then Saul said unto his servants that stood about him, Hear now, ye Benjamites; will the son of Jesse give every one of you fields and vineyards, <span class='extra'>and</span> make you all captains of thousands, and captains of hundreds;",
+      "plainText": "Then Saul said unto his servants that stood about him, Hear now, ye Benjamites; will the son of Jesse give every one of you fields and vineyards, and make you all captains of thousands, and captains of hundreds;"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "7796",
-      "text" : "That all of you have conspired against me, and <span class='extra'>there is<\/span> none that sheweth me that my son hath made a league with the son of Jesse, and <span class='extra'>there is<\/span> none of you that is sorry for me, or sheweth unto me that my son hath stirred up my servant against me, to lie in wait, as at this day?",
-      "plainText" : "That all of you have conspired against me, and there is none that sheweth me that my son hath made a league with the son of Jesse, and there is none of you that is sorry for me, or sheweth unto me that my son hath stirred up my servant against me, to lie in wait, as at this day?"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "7796",
+      "text": "That all of you have conspired against me, and <span class='extra'>there is</span> none that sheweth me that my son hath made a league with the son of Jesse, and <span class='extra'>there is</span> none of you that is sorry for me, or sheweth unto me that my son hath stirred up my servant against me, to lie in wait, as at this day?",
+      "plainText": "That all of you have conspired against me, and there is none that sheweth me that my son hath made a league with the son of Jesse, and there is none of you that is sorry for me, or sheweth unto me that my son hath stirred up my servant against me, to lie in wait, as at this day?"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "7797",
-      "text" : "Then answered Doeg the Edomite, which was set over the servants of Saul, and said, I saw the son of Jesse coming to Nob, to Ahimelech the son of Ahitub.",
-      "plainText" : "Then answered Doeg the Edomite, which was set over the servants of Saul, and said, I saw the son of Jesse coming to Nob, to Ahimelech the son of Ahitub."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "7797",
+      "text": "Then answered Doeg the Edomite, which was set over the servants of Saul, and said, I saw the son of Jesse coming to Nob, to Ahimelech the son of Ahitub.",
+      "plainText": "Then answered Doeg the Edomite, which was set over the servants of Saul, and said, I saw the son of Jesse coming to Nob, to Ahimelech the son of Ahitub."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "7798",
-      "text" : "And he enquired of the <span class='nog'>LORD<\/span> for him, and gave him victuals, and gave him the sword of Goliath the Philistine.",
-      "plainText" : "And he enquired of the LORD for him, and gave him victuals, and gave him the sword of Goliath the Philistine."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "7798",
+      "text": "And he enquired of the <span class='nog'>LORD</span> for him, and gave him victuals, and gave him the sword of Goliath the Philistine.",
+      "plainText": "And he enquired of the LORD for him, and gave him victuals, and gave him the sword of Goliath the Philistine."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "7799",
-      "text" : "Then the king sent to call Ahimelech the priest, the son of Ahitub, and all his father's house, the priests that <span class='extra'>were<\/span> in Nob: and they came all of them to the king.",
-      "plainText" : "Then the king sent to call Ahimelech the priest, the son of Ahitub, and all his father's house, the priests that were in Nob: and they came all of them to the king."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "7799",
+      "text": "Then the king sent to call Ahimelech the priest, the son of Ahitub, and all his father's house, the priests that <span class='extra'>were</span> in Nob: and they came all of them to the king.",
+      "plainText": "Then the king sent to call Ahimelech the priest, the son of Ahitub, and all his father's house, the priests that were in Nob: and they came all of them to the king."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "7800",
-      "text" : "And Saul said, Hear now, thou son of Ahitub. And he answered, Here I <span class='extra'>am<\/span>, my lord.",
-      "plainText" : "And Saul said, Hear now, thou son of Ahitub. And he answered, Here I am, my lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "7800",
+      "text": "And Saul said, Hear now, thou son of Ahitub. And he answered, Here I <span class='extra'>am</span>, my lord.",
+      "plainText": "And Saul said, Hear now, thou son of Ahitub. And he answered, Here I am, my lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "7801",
-      "text" : "And Saul said unto him, Why have ye conspired against me, thou and the son of Jesse, in that thou hast given him bread, and a sword, and hast enquired of God for him, that he should rise against me, to lie in wait, as at this day?",
-      "plainText" : "And Saul said unto him, Why have ye conspired against me, thou and the son of Jesse, in that thou hast given him bread, and a sword, and hast enquired of God for him, that he should rise against me, to lie in wait, as at this day?"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "7801",
+      "text": "And Saul said unto him, Why have ye conspired against me, thou and the son of Jesse, in that thou hast given him bread, and a sword, and hast enquired of God for him, that he should rise against me, to lie in wait, as at this day?",
+      "plainText": "And Saul said unto him, Why have ye conspired against me, thou and the son of Jesse, in that thou hast given him bread, and a sword, and hast enquired of God for him, that he should rise against me, to lie in wait, as at this day?"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "7802",
-      "text" : "Then Ahimelech answered the king, and said, And who <span class='extra'>is so<\/span> faithful among all thy servants as David, which is the king's son in law, and goeth at thy bidding, and is honourable in thine house?",
-      "plainText" : "Then Ahimelech answered the king, and said, And who is so faithful among all thy servants as David, which is the king's son in law, and goeth at thy bidding, and is honourable in thine house?"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "7802",
+      "text": "Then Ahimelech answered the king, and said, And who <span class='extra'>is so</span> faithful among all thy servants as David, which is the king's son in law, and goeth at thy bidding, and is honourable in thine house?",
+      "plainText": "Then Ahimelech answered the king, and said, And who is so faithful among all thy servants as David, which is the king's son in law, and goeth at thy bidding, and is honourable in thine house?"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "7803",
-      "text" : "Did I then begin to enquire of God for him? be it far from me: let not the king impute <span class='extra'>any<\/span> thing unto his servant, <span class='extra'>nor<\/span> to all the house of my father: for thy servant knew nothing of all this, less or more.",
-      "plainText" : "Did I then begin to enquire of God for him? be it far from me: let not the king impute any thing unto his servant, nor to all the house of my father: for thy servant knew nothing of all this, less or more."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "7803",
+      "text": "Did I then begin to enquire of God for him? be it far from me: let not the king impute <span class='extra'>any</span> thing unto his servant, <span class='extra'>nor</span> to all the house of my father: for thy servant knew nothing of all this, less or more.",
+      "plainText": "Did I then begin to enquire of God for him? be it far from me: let not the king impute any thing unto his servant, nor to all the house of my father: for thy servant knew nothing of all this, less or more."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "7804",
-      "text" : "And the king said, Thou shalt surely die, Ahimelech, thou, and all thy father's house.",
-      "plainText" : "And the king said, Thou shalt surely die, Ahimelech, thou, and all thy father's house."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "7804",
+      "text": "And the king said, Thou shalt surely die, Ahimelech, thou, and all thy father's house.",
+      "plainText": "And the king said, Thou shalt surely die, Ahimelech, thou, and all thy father's house."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "7805",
-      "text" : "And the king said unto the footmen that stood about him, Turn, and slay the priests of the <span class='nog'>LORD<\/span>; because their hand also <span class='extra'>is<\/span> with David, and because they knew when he fled, and did not shew it to me. But the servants of the king would not put forth their hand to fall upon the priests of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And the king said unto the footmen that stood about him, Turn, and slay the priests of the LORD; because their hand also is with David, and because they knew when he fled, and did not shew it to me. But the servants of the king would not put forth their hand to fall upon the priests of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "7805",
+      "text": "And the king said unto the footmen that stood about him, Turn, and slay the priests of the <span class='nog'>LORD</span>; because their hand also <span class='extra'>is</span> with David, and because they knew when he fled, and did not shew it to me. But the servants of the king would not put forth their hand to fall upon the priests of the <span class='nog'>LORD</span>.",
+      "plainText": "And the king said unto the footmen that stood about him, Turn, and slay the priests of the LORD; because their hand also is with David, and because they knew when he fled, and did not shew it to me. But the servants of the king would not put forth their hand to fall upon the priests of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "7806",
-      "text" : "And the king said to Doeg, Turn thou, and fall upon the priests. And Doeg the Edomite turned, and he fell upon the priests, and slew on that day fourscore and five persons that did wear a linen ephod.",
-      "plainText" : "And the king said to Doeg, Turn thou, and fall upon the priests. And Doeg the Edomite turned, and he fell upon the priests, and slew on that day fourscore and five persons that did wear a linen ephod."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "7806",
+      "text": "And the king said to Doeg, Turn thou, and fall upon the priests. And Doeg the Edomite turned, and he fell upon the priests, and slew on that day fourscore and five persons that did wear a linen ephod.",
+      "plainText": "And the king said to Doeg, Turn thou, and fall upon the priests. And Doeg the Edomite turned, and he fell upon the priests, and slew on that day fourscore and five persons that did wear a linen ephod."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "7807",
-      "text" : "And Nob, the city of the priests, smote he with the edge of the sword, both men and women, children and sucklings, and oxen, and asses, and sheep, with the edge of the sword.",
-      "plainText" : "And Nob, the city of the priests, smote he with the edge of the sword, both men and women, children and sucklings, and oxen, and asses, and sheep, with the edge of the sword."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "7807",
+      "text": "And Nob, the city of the priests, smote he with the edge of the sword, both men and women, children and sucklings, and oxen, and asses, and sheep, with the edge of the sword.",
+      "plainText": "And Nob, the city of the priests, smote he with the edge of the sword, both men and women, children and sucklings, and oxen, and asses, and sheep, with the edge of the sword."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "7808",
-      "text" : "And one of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped, and fled after David.",
-      "plainText" : "And one of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped, and fled after David."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "7808",
+      "text": "And one of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped, and fled after David.",
+      "plainText": "And one of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped, and fled after David."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "7809",
-      "text" : "And Abiathar shewed David that Saul had slain the <span class='nog'>LORD<\/span>'s priests.",
-      "plainText" : "And Abiathar shewed David that Saul had slain the LORD's priests."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "7809",
+      "text": "And Abiathar shewed David that Saul had slain the <span class='nog'>LORD</span>'s priests.",
+      "plainText": "And Abiathar shewed David that Saul had slain the LORD's priests."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "7810",
-      "text" : "And David said unto Abiathar, I knew <span class='extra'>it<\/span> that day, when Doeg the Edomite <span class='extra'>was<\/span> there, that he would surely tell Saul: I have occasioned <span class='extra'>the death<\/span> of all the persons of thy father's house.",
-      "plainText" : "And David said unto Abiathar, I knew it that day, when Doeg the Edomite was there, that he would surely tell Saul: I have occasioned the death of all the persons of thy father's house."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "7810",
+      "text": "And David said unto Abiathar, I knew <span class='extra'>it</span> that day, when Doeg the Edomite <span class='extra'>was</span> there, that he would surely tell Saul: I have occasioned <span class='extra'>the death</span> of all the persons of thy father's house.",
+      "plainText": "And David said unto Abiathar, I knew it that day, when Doeg the Edomite was there, that he would surely tell Saul: I have occasioned the death of all the persons of thy father's house."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "7811",
-      "text" : "Abide thou with me, fear not: for he that seeketh my life seeketh thy life: but with me thou <span class='extra'>shalt be<\/span> in safeguard.",
-      "plainText" : "Abide thou with me, fear not: for he that seeketh my life seeketh thy life: but with me thou shalt be in safeguard."
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "7811",
+      "text": "Abide thou with me, fear not: for he that seeketh my life seeketh thy life: but with me thou <span class='extra'>shalt be</span> in safeguard.",
+      "plainText": "Abide thou with me, fear not: for he that seeketh my life seeketh thy life: but with me thou shalt be in safeguard."
     }
   ]
 }
-
-

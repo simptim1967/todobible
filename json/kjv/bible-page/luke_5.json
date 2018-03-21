@@ -1,379 +1,341 @@
 {
   "book": {
-    "number" : "42",
-    "filenamePrefix" : "luke",
-    "bookPage" : "luke.html",
-    "title" : "Luke",
-    "chapterCount" : "24",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "john_1.html",
-    "nextTitle" : "John",
-    "prevBook" : "mark_1.html",
-    "prevTitle" : "Mark"
+    "number": "42",
+    "filenamePrefix": "luke",
+    "bookPage": "luke.html",
+    "title": "Luke",
+    "chapterCount": "24",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "john_1.html",
+    "nextTitle": "John",
+    "prevBook": "mark_1.html",
+    "prevTitle": "Mark",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "5",
-    "verseCount" : "39",
-    "nextChapter" : "luke_6.html",
-    "nextTitle" : "Luke 6",
-    "prevChapter" : "luke_4.html",
-    "prevTitle" : "Luke 4",
-    "filename" : "luke_5.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "5",
+    "verseCount": "39",
+    "nextChapter": "luke_6.html",
+    "nextTitle": "Luke 6",
+    "prevChapter": "luke_4.html",
+    "prevTitle": "Luke 4",
+    "filename": "luke_5.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "25109",
-      "text" : "And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,",
-      "plainText" : "And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "25109",
+      "text": "And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,",
+      "plainText": "And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "25110",
-      "text" : "And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing <span class='extra'>their<\/span> nets.",
-      "plainText" : "And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing their nets."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "25110",
+      "text": "And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing <span class='extra'>their</span> nets.",
+      "plainText": "And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing their nets."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "25111",
-      "text" : "And he entered into one of the ships, which was Simon's, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship.",
-      "plainText" : "And he entered into one of the ships, which was Simon's, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "25111",
+      "text": "And he entered into one of the ships, which was Simon's, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship.",
+      "plainText": "And he entered into one of the ships, which was Simon's, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "25112",
-      "text" : "Now when he had left speaking, he said unto Simon, <span class='woc'>Launch out into the deep, and let down your nets for a draught.<\/span>",
-      "plainText" : "Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "25112",
+      "text": "Now when he had left speaking, he said unto Simon, <span class='woc'>Launch out into the deep, and let down your nets for a draught.</span>",
+      "plainText": "Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "25113",
-      "text" : "And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net.",
-      "plainText" : "And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "25113",
+      "text": "And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net.",
+      "plainText": "And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "25114",
-      "text" : "And when they had this done, they inclosed a great multitude of fishes: and their net brake.",
-      "plainText" : "And when they had this done, they inclosed a great multitude of fishes: and their net brake."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "25114",
+      "text": "And when they had this done, they inclosed a great multitude of fishes: and their net brake.",
+      "plainText": "And when they had this done, they inclosed a great multitude of fishes: and their net brake."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "25115",
-      "text" : "And they beckoned unto <span class='extra'>their<\/span> partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.",
-      "plainText" : "And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "25115",
+      "text": "And they beckoned unto <span class='extra'>their</span> partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.",
+      "plainText": "And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "25116",
-      "text" : "When Simon Peter saw <span class='extra'>it<\/span>, he fell down at Jesus' knees, saying, Depart from me; for I am a sinful man, O Lord.",
-      "plainText" : "When Simon Peter saw it, he fell down at Jesus' knees, saying, Depart from me; for I am a sinful man, O Lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "25116",
+      "text": "When Simon Peter saw <span class='extra'>it</span>, he fell down at Jesus' knees, saying, Depart from me; for I am a sinful man, O Lord.",
+      "plainText": "When Simon Peter saw it, he fell down at Jesus' knees, saying, Depart from me; for I am a sinful man, O Lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "25117",
-      "text" : "For he was astonished, and all that were with him, at the draught of the fishes which they had taken:",
-      "plainText" : "For he was astonished, and all that were with him, at the draught of the fishes which they had taken:"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "25117",
+      "text": "For he was astonished, and all that were with him, at the draught of the fishes which they had taken:",
+      "plainText": "For he was astonished, and all that were with him, at the draught of the fishes which they had taken:"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "25118",
-      "text" : "And so <span class='extra'>was<\/span> also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, <span class='woc'>Fear not; from henceforth thou shalt catch men.<\/span>",
-      "plainText" : "And so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "25118",
+      "text": "And so <span class='extra'>was</span> also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, <span class='woc'>Fear not; from henceforth thou shalt catch men.</span>",
+      "plainText": "And so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "25119",
-      "text" : "And when they had brought their ships to land, they forsook all, and followed him.",
-      "plainText" : "And when they had brought their ships to land, they forsook all, and followed him."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "25119",
+      "text": "And when they had brought their ships to land, they forsook all, and followed him.",
+      "plainText": "And when they had brought their ships to land, they forsook all, and followed him."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "25120",
-      "text" : "And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on <span class='extra'>his<\/span> face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.",
-      "plainText" : "And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "25120",
+      "text": "And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on <span class='extra'>his</span> face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.",
+      "plainText": "And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "25121",
-      "text" : "And he put forth <span class='extra'>his<\/span> hand, and touched him, saying, <span class='woc'>I will: be thou clean.<\/span> And immediately the leprosy departed from him.",
-      "plainText" : "And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "25121",
+      "text": "And he put forth <span class='extra'>his</span> hand, and touched him, saying, <span class='woc'>I will: be thou clean.</span> And immediately the leprosy departed from him.",
+      "plainText": "And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "25122",
-      "text" : "And he charged him to tell no man: <span class='woc'>but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them.<\/span>",
-      "plainText" : "And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "25122",
+      "text": "And he charged him to tell no man: <span class='woc'>but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them.</span>",
+      "plainText": "And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "25123",
-      "text" : "But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities.",
-      "plainText" : "But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "25123",
+      "text": "But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities.",
+      "plainText": "But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "25124",
-      "text" : "And he withdrew himself into the wilderness, and prayed.",
-      "plainText" : "And he withdrew himself into the wilderness, and prayed."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "25124",
+      "text": "And he withdrew himself into the wilderness, and prayed.",
+      "plainText": "And he withdrew himself into the wilderness, and prayed."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "25125",
-      "text" : "And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was <span class='extra'>present<\/span> to heal them.",
-      "plainText" : "And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was present to heal them."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "25125",
+      "text": "And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was <span class='extra'>present</span> to heal them.",
+      "plainText": "And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was present to heal them."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "25126",
-      "text" : "And, behold, men brought in a bed a man which was taken with a palsy: and they sought <span class='extra'>means<\/span> to bring him in, and to lay <span class='extra'>him<\/span> before him.",
-      "plainText" : "And, behold, men brought in a bed a man which was taken with a palsy: and they sought means to bring him in, and to lay him before him."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "25126",
+      "text": "And, behold, men brought in a bed a man which was taken with a palsy: and they sought <span class='extra'>means</span> to bring him in, and to lay <span class='extra'>him</span> before him.",
+      "plainText": "And, behold, men brought in a bed a man which was taken with a palsy: and they sought means to bring him in, and to lay him before him."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "25127",
-      "text" : "And when they could not find by what <span class='extra'>way<\/span> they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with <span class='extra'>his<\/span> couch into the midst before Jesus.",
-      "plainText" : "And when they could not find by what way they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with his couch into the midst before Jesus."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "25127",
+      "text": "And when they could not find by what <span class='extra'>way</span> they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with <span class='extra'>his</span> couch into the midst before Jesus.",
+      "plainText": "And when they could not find by what way they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with his couch into the midst before Jesus."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "25128",
-      "text" : "And when he saw their faith, he said unto him, <span class='woc'>Man, thy sins are forgiven thee.<\/span>",
-      "plainText" : "And when he saw their faith, he said unto him, Man, thy sins are forgiven thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "25128",
+      "text": "And when he saw their faith, he said unto him, <span class='woc'>Man, thy sins are forgiven thee.</span>",
+      "plainText": "And when he saw their faith, he said unto him, Man, thy sins are forgiven thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "25129",
-      "text" : "And the scribes and the Pharisees began to reason, saying, Who is this which speaketh blasphemies? Who can forgive sins, but God alone?",
-      "plainText" : "And the scribes and the Pharisees began to reason, saying, Who is this which speaketh blasphemies? Who can forgive sins, but God alone?"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "25129",
+      "text": "And the scribes and the Pharisees began to reason, saying, Who is this which speaketh blasphemies? Who can forgive sins, but God alone?",
+      "plainText": "And the scribes and the Pharisees began to reason, saying, Who is this which speaketh blasphemies? Who can forgive sins, but God alone?"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "25130",
-      "text" : "But when Jesus perceived their thoughts, he answering said unto them, <span class='woc'>What reason ye in your hearts?<\/span>",
-      "plainText" : "But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "25130",
+      "text": "But when Jesus perceived their thoughts, he answering said unto them, <span class='woc'>What reason ye in your hearts?</span>",
+      "plainText": "But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "25131",
-      "text" : "<span class='woc'>Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?<\/span>",
-      "plainText" : "Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "25131",
+      "text": "<span class='woc'>Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?</span>",
+      "plainText": "Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "25132",
-      "text" : "<span class='woc'>But that ye may know that the Son of man hath power upon earth to forgive sins,<\/span> (he said unto the sick of the palsy,) <span class='woc'>I say unto thee, Arise, and take up thy couch, and go into thine house.<\/span>",
-      "plainText" : "But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "25132",
+      "text": "<span class='woc'>But that ye may know that the Son of man hath power upon earth to forgive sins,</span> (he said unto the sick of the palsy,) <span class='woc'>I say unto thee, Arise, and take up thy couch, and go into thine house.</span>",
+      "plainText": "But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "25133",
-      "text" : "And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God.",
-      "plainText" : "And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "25133",
+      "text": "And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God.",
+      "plainText": "And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "25134",
-      "text" : "And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day.",
-      "plainText" : "And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "25134",
+      "text": "And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day.",
+      "plainText": "And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "25135",
-      "text" : "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, <span class='woc'>Follow me.<\/span>",
-      "plainText" : "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "25135",
+      "text": "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, <span class='woc'>Follow me.</span>",
+      "plainText": "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "25136",
-      "text" : "And he left all, rose up, and followed him.",
-      "plainText" : "And he left all, rose up, and followed him."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "25136",
+      "text": "And he left all, rose up, and followed him.",
+      "plainText": "And he left all, rose up, and followed him."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "25137",
-      "text" : "And Levi made him a great feast in his own house: and there was a great company of publicans and of others that sat down with them.",
-      "plainText" : "And Levi made him a great feast in his own house: and there was a great company of publicans and of others that sat down with them."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "25137",
+      "text": "And Levi made him a great feast in his own house: and there was a great company of publicans and of others that sat down with them.",
+      "plainText": "And Levi made him a great feast in his own house: and there was a great company of publicans and of others that sat down with them."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "25138",
-      "text" : "But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?",
-      "plainText" : "But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?"
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "25138",
+      "text": "But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?",
+      "plainText": "But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?"
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "25139",
-      "text" : "And Jesus answering said unto them, <span class='woc'>They that are whole need not a physician; but they that are sick.<\/span>",
-      "plainText" : "And Jesus answering said unto them, They that are whole need not a physician; but they that are sick."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "25139",
+      "text": "And Jesus answering said unto them, <span class='woc'>They that are whole need not a physician; but they that are sick.</span>",
+      "plainText": "And Jesus answering said unto them, They that are whole need not a physician; but they that are sick."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "25140",
-      "text" : "<span class='woc'>I came not to call the righteous, but sinners to repentance.<\/span>",
-      "plainText" : "I came not to call the righteous, but sinners to repentance."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "25140",
+      "text": "<span class='woc'>I came not to call the righteous, but sinners to repentance.</span>",
+      "plainText": "I came not to call the righteous, but sinners to repentance."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "25141",
-      "text" : "And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise <span class='extra'>the disciples<\/span> of the Pharisees; but thine eat and drink?",
-      "plainText" : "And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise the disciples of the Pharisees; but thine eat and drink?"
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "25141",
+      "text": "And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise <span class='extra'>the disciples</span> of the Pharisees; but thine eat and drink?",
+      "plainText": "And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise the disciples of the Pharisees; but thine eat and drink?"
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "25142",
-      "text" : "And he said unto them, <span class='woc'>Can ye make the children of the bridechamber fast, while the bridegroom is with them?<\/span>",
-      "plainText" : "And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?"
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "25142",
+      "text": "And he said unto them, <span class='woc'>Can ye make the children of the bridechamber fast, while the bridegroom is with them?</span>",
+      "plainText": "And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?"
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "25143",
-      "text" : "<span class='woc'>But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.<\/span>",
-      "plainText" : "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "25143",
+      "text": "<span class='woc'>But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.</span>",
+      "plainText": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "25144",
-      "text" : "And he spake also a parable unto them; <span class='woc'>No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was <span class='extra'>taken<\/span> out of the new agreeth not with the old.<\/span>",
-      "plainText" : "And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "25144",
+      "text": "And he spake also a parable unto them; <span class='woc'>No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was <span class='extra'>taken</span> out of the new agreeth not with the old.</span>",
+      "plainText": "And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "25145",
-      "text" : "<span class='woc'>And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.<\/span>",
-      "plainText" : "And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "25145",
+      "text": "<span class='woc'>And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.</span>",
+      "plainText": "And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "25146",
-      "text" : "<span class='woc'>But new wine must be put into new bottles; and both are preserved.<\/span>",
-      "plainText" : "But new wine must be put into new bottles; and both are preserved."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "25146",
+      "text": "<span class='woc'>But new wine must be put into new bottles; and both are preserved.</span>",
+      "plainText": "But new wine must be put into new bottles; and both are preserved."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "25147",
-      "text" : "<span class='woc'>No man also having drunk old <span class='extra'>wine<\/span> straightway desireth new: for he saith, The old is better.<\/span>",
-      "plainText" : "No man also having drunk old wine straightway desireth new: for he saith, The old is better."
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "25147",
+      "text": "<span class='woc'>No man also having drunk old <span class='extra'>wine</span> straightway desireth new: for he saith, The old is better.</span>",
+      "plainText": "No man also having drunk old wine straightway desireth new: for he saith, The old is better."
     }
   ]
 }
-

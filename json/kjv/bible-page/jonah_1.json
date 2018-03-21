@@ -1,182 +1,165 @@
 {
   "book": {
-    "number" : "32",
-    "filenamePrefix" : "jonah",
-    "bookPage" : "jonah.html",
-    "title" : "Jonah",
-    "chapterCount" : "4",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "micah_1.html",
-    "nextTitle" : "Micah",
-    "prevBook" : "obadiah_1.html",
-    "prevTitle" : "Obadiah"
+    "number": "32",
+    "filenamePrefix": "jonah",
+    "bookPage": "jonah.html",
+    "title": "Jonah",
+    "chapterCount": "4",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "micah_1.html",
+    "nextTitle": "Micah",
+    "prevBook": "obadiah_1.html",
+    "prevTitle": "Obadiah",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "1",
-    "verseCount" : "17",
-    "nextChapter" : "jonah_2.html",
-    "nextTitle" : "Jonah 2",
-    "prevChapter" : "obadiah_1.html",
-    "prevTitle" : "Obadiah 1",
-    "filename" : "jonah_1.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "1",
+    "verseCount": "17",
+    "nextChapter": "jonah_2.html",
+    "nextTitle": "Jonah 2",
+    "prevChapter": "obadiah_1.html",
+    "prevTitle": "Obadiah 1",
+    "filename": "jonah_1.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "22533",
-      "text" : "Now the word of the <span class='nog'>LORD<\/span> came unto Jonah the son of Amittai, saying,",
-      "plainText" : "Now the word of the LORD came unto Jonah the son of Amittai, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "22533",
+      "text": "Now the word of the <span class='nog'>LORD</span> came unto Jonah the son of Amittai, saying,",
+      "plainText": "Now the word of the LORD came unto Jonah the son of Amittai, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "22534",
-      "text" : "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.",
-      "plainText" : "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "22534",
+      "text": "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.",
+      "plainText": "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "22535",
-      "text" : "But Jonah rose up to flee unto Tarshish from the presence of the <span class='nog'>LORD<\/span>, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "22535",
+      "text": "But Jonah rose up to flee unto Tarshish from the presence of the <span class='nog'>LORD</span>, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the <span class='nog'>LORD</span>.",
+      "plainText": "But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "22536",
-      "text" : "But the <span class='nog'>LORD<\/span> sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.",
-      "plainText" : "But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "22536",
+      "text": "But the <span class='nog'>LORD</span> sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.",
+      "plainText": "But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "22537",
-      "text" : "Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that <span class='extra'>were<\/span> in the ship into the sea, to lighten <span class='extra'>it<\/span> of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.",
-      "plainText" : "Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "22537",
+      "text": "Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that <span class='extra'>were</span> in the ship into the sea, to lighten <span class='extra'>it</span> of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.",
+      "plainText": "Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "22538",
-      "text" : "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.",
-      "plainText" : "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "22538",
+      "text": "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.",
+      "plainText": "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "22539",
-      "text" : "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil <span class='extra'>is<\/span> upon us. So they cast lots, and the lot fell upon Jonah.",
-      "plainText" : "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "22539",
+      "text": "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil <span class='extra'>is</span> upon us. So they cast lots, and the lot fell upon Jonah.",
+      "plainText": "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "22540",
-      "text" : "Then said they unto him, Tell us, we pray thee, for whose cause this evil <span class='extra'>is<\/span> upon us; What <span class='extra'>is<\/span> thine occupation? and whence comest thou? what <span class='extra'>is<\/span> thy country? and of what people <span class='extra'>art<\/span> thou?",
-      "plainText" : "Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "22540",
+      "text": "Then said they unto him, Tell us, we pray thee, for whose cause this evil <span class='extra'>is</span> upon us; What <span class='extra'>is</span> thine occupation? and whence comest thou? what <span class='extra'>is</span> thy country? and of what people <span class='extra'>art</span> thou?",
+      "plainText": "Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "22541",
-      "text" : "And he said unto them, I <span class='extra'>am<\/span> an Hebrew; and I fear the <span class='nog'>LORD<\/span>, the God of heaven, which hath made the sea and the dry <span class='extra'>land<\/span>.",
-      "plainText" : "And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry land."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "22541",
+      "text": "And he said unto them, I <span class='extra'>am</span> an Hebrew; and I fear the <span class='nog'>LORD</span>, the God of heaven, which hath made the sea and the dry <span class='extra'>land</span>.",
+      "plainText": "And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry land."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "22542",
-      "text" : "Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the <span class='nog'>LORD<\/span>, because he had told them.",
-      "plainText" : "Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "22542",
+      "text": "Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the <span class='nog'>LORD</span>, because he had told them.",
+      "plainText": "Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "22543",
-      "text" : "Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.",
-      "plainText" : "Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "22543",
+      "text": "Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.",
+      "plainText": "Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "22544",
-      "text" : "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest <span class='extra'>is<\/span> upon you.",
-      "plainText" : "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "22544",
+      "text": "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest <span class='extra'>is</span> upon you.",
+      "plainText": "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "22545",
-      "text" : "Nevertheless the men rowed hard to bring <span class='extra'>it<\/span> to the land; but they could not: for the sea wrought, and was tempestuous against them.",
-      "plainText" : "Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "22545",
+      "text": "Nevertheless the men rowed hard to bring <span class='extra'>it</span> to the land; but they could not: for the sea wrought, and was tempestuous against them.",
+      "plainText": "Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "22546",
-      "text" : "Wherefore they cried unto the <span class='nog'>LORD<\/span>, and said, We beseech thee, O <span class='nog'>LORD<\/span>, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O <span class='nog'>LORD<\/span>, hast done as it pleased thee.",
-      "plainText" : "Wherefore they cried unto the LORD, and said, We beseech thee, O LORD, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O LORD, hast done as it pleased thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "22546",
+      "text": "Wherefore they cried unto the <span class='nog'>LORD</span>, and said, We beseech thee, O <span class='nog'>LORD</span>, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O <span class='nog'>LORD</span>, hast done as it pleased thee.",
+      "plainText": "Wherefore they cried unto the LORD, and said, We beseech thee, O LORD, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O LORD, hast done as it pleased thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "22547",
-      "text" : "So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.",
-      "plainText" : "So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "22547",
+      "text": "So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.",
+      "plainText": "So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "22548",
-      "text" : "Then the men feared the <span class='nog'>LORD<\/span> exceedingly, and offered a sacrifice unto the <span class='nog'>LORD<\/span>, and made vows.",
-      "plainText" : "Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "22548",
+      "text": "Then the men feared the <span class='nog'>LORD</span> exceedingly, and offered a sacrifice unto the <span class='nog'>LORD</span>, and made vows.",
+      "plainText": "Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "22549",
-      "text" : "Now the <span class='nog'>LORD<\/span> had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
-      "plainText" : "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights."
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "22549",
+      "text": "Now the <span class='nog'>LORD</span> had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
+      "plainText": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights."
     }
   ]
 }
-
-

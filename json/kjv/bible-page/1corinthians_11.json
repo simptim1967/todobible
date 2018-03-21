@@ -1,334 +1,301 @@
 {
   "book": {
-    "number" : "46",
-    "filenamePrefix" : "1corinthians",
-    "bookPage" : "1corinthians.html",
-    "title" : "1 Corinthians",
-    "chapterCount" : "16",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "2corinthians_1.html",
-    "nextTitle" : "2 Corinthians",
-    "prevBook" : "romans_1.html",
-    "prevTitle" : "Romans"
+    "number": "46",
+    "filenamePrefix": "1corinthians",
+    "bookPage": "1corinthians.html",
+    "title": "1 Corinthians",
+    "chapterCount": "16",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "2corinthians_1.html",
+    "nextTitle": "2 Corinthians",
+    "prevBook": "romans_1.html",
+    "prevTitle": "Romans",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "11",
-    "verseCount" : "34",
-    "nextChapter" : "1corinthians_12.html",
-    "nextTitle" : "1 Corinthians 12",
-    "prevChapter" : "1corinthians_10.html",
-    "prevTitle" : "1 Corinthians 10",
-    "filename" : "1corinthians_11.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "11",
+    "verseCount": "34",
+    "nextChapter": "1corinthians_12.html",
+    "nextTitle": "1 Corinthians 12",
+    "prevChapter": "1corinthians_10.html",
+    "prevTitle": "1 Corinthians 10",
+    "filename": "1corinthians_11.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "28602",
-      "text" : "Be ye followers of me, even as I also <span class='extra'>am<\/span> of Christ.",
-      "plainText" : "Be ye followers of me, even as I also am of Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "28602",
+      "text": "Be ye followers of me, even as I also <span class='extra'>am</span> of Christ.",
+      "plainText": "Be ye followers of me, even as I also am of Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "28603",
-      "text" : "Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered <span class='extra'>them<\/span> to you.",
-      "plainText" : "Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered them to you."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "28603",
+      "text": "Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered <span class='extra'>them</span> to you.",
+      "plainText": "Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered them to you."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "28604",
-      "text" : "But I would have you know, that the head of every man is Christ; and the head of the woman <span class='extra'>is<\/span> the man; and the head of Christ <span class='extra'>is<\/span> God.",
-      "plainText" : "But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "28604",
+      "text": "But I would have you know, that the head of every man is Christ; and the head of the woman <span class='extra'>is</span> the man; and the head of Christ <span class='extra'>is</span> God.",
+      "plainText": "But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "28605",
-      "text" : "Every man praying or prophesying, having <span class='extra'>his<\/span> head covered, dishonoureth his head.",
-      "plainText" : "Every man praying or prophesying, having his head covered, dishonoureth his head."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "28605",
+      "text": "Every man praying or prophesying, having <span class='extra'>his</span> head covered, dishonoureth his head.",
+      "plainText": "Every man praying or prophesying, having his head covered, dishonoureth his head."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "28606",
-      "text" : "But every woman that prayeth or prophesieth with <span class='extra'>her<\/span> head uncovered dishonoureth her head: for that is even all one as if she were shaven.",
-      "plainText" : "But every woman that prayeth or prophesieth with her head uncovered dishonoureth her head: for that is even all one as if she were shaven."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "28606",
+      "text": "But every woman that prayeth or prophesieth with <span class='extra'>her</span> head uncovered dishonoureth her head: for that is even all one as if she were shaven.",
+      "plainText": "But every woman that prayeth or prophesieth with her head uncovered dishonoureth her head: for that is even all one as if she were shaven."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "28607",
-      "text" : "For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered.",
-      "plainText" : "For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "28607",
+      "text": "For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered.",
+      "plainText": "For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "28608",
-      "text" : "For a man indeed ought not to cover <span class='extra'>his<\/span> head, forasmuch as he is the image and glory of God: but the woman is the glory of the man.",
-      "plainText" : "For a man indeed ought not to cover his head, forasmuch as he is the image and glory of God: but the woman is the glory of the man."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "28608",
+      "text": "For a man indeed ought not to cover <span class='extra'>his</span> head, forasmuch as he is the image and glory of God: but the woman is the glory of the man.",
+      "plainText": "For a man indeed ought not to cover his head, forasmuch as he is the image and glory of God: but the woman is the glory of the man."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "28609",
-      "text" : "For the man is not of the woman; but the woman of the man.",
-      "plainText" : "For the man is not of the woman; but the woman of the man."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "28609",
+      "text": "For the man is not of the woman; but the woman of the man.",
+      "plainText": "For the man is not of the woman; but the woman of the man."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "28610",
-      "text" : "Neither was the man created for the woman; but the woman for the man.",
-      "plainText" : "Neither was the man created for the woman; but the woman for the man."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "28610",
+      "text": "Neither was the man created for the woman; but the woman for the man.",
+      "plainText": "Neither was the man created for the woman; but the woman for the man."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "28611",
-      "text" : "For this cause ought the woman to have power on <span class='extra'>her<\/span> head because of the angels.",
-      "plainText" : "For this cause ought the woman to have power on her head because of the angels."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "28611",
+      "text": "For this cause ought the woman to have power on <span class='extra'>her</span> head because of the angels.",
+      "plainText": "For this cause ought the woman to have power on her head because of the angels."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "28612",
-      "text" : "Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord.",
-      "plainText" : "Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "28612",
+      "text": "Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord.",
+      "plainText": "Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "28613",
-      "text" : "For as the woman <span class='extra'>is<\/span> of the man, even so <span class='extra'>is<\/span> the man also by the woman; but all things of God.",
-      "plainText" : "For as the woman is of the man, even so is the man also by the woman; but all things of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "28613",
+      "text": "For as the woman <span class='extra'>is</span> of the man, even so <span class='extra'>is</span> the man also by the woman; but all things of God.",
+      "plainText": "For as the woman is of the man, even so is the man also by the woman; but all things of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "28614",
-      "text" : "Judge in yourselves: is it comely that a woman pray unto God uncovered?",
-      "plainText" : "Judge in yourselves: is it comely that a woman pray unto God uncovered?"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "28614",
+      "text": "Judge in yourselves: is it comely that a woman pray unto God uncovered?",
+      "plainText": "Judge in yourselves: is it comely that a woman pray unto God uncovered?"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "28615",
-      "text" : "Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?",
-      "plainText" : "Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "28615",
+      "text": "Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?",
+      "plainText": "Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "28616",
-      "text" : "But if a woman have long hair, it is a glory to her: for <span class='extra'>her<\/span> hair is given her for a covering.",
-      "plainText" : "But if a woman have long hair, it is a glory to her: for her hair is given her for a covering."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "28616",
+      "text": "But if a woman have long hair, it is a glory to her: for <span class='extra'>her</span> hair is given her for a covering.",
+      "plainText": "But if a woman have long hair, it is a glory to her: for her hair is given her for a covering."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "28617",
-      "text" : "But if any man seem to be contentious, we have no such custom, neither the churches of God.",
-      "plainText" : "But if any man seem to be contentious, we have no such custom, neither the churches of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "28617",
+      "text": "But if any man seem to be contentious, we have no such custom, neither the churches of God.",
+      "plainText": "But if any man seem to be contentious, we have no such custom, neither the churches of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "28618",
-      "text" : "Now in this that I declare <span class='extra'>unto you<\/span> I praise <span class='extra'>you<\/span> not, that ye come together not for the better, but for the worse.",
-      "plainText" : "Now in this that I declare unto you I praise you not, that ye come together not for the better, but for the worse."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "28618",
+      "text": "Now in this that I declare <span class='extra'>unto you</span> I praise <span class='extra'>you</span> not, that ye come together not for the better, but for the worse.",
+      "plainText": "Now in this that I declare unto you I praise you not, that ye come together not for the better, but for the worse."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "28619",
-      "text" : "For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it.",
-      "plainText" : "For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "28619",
+      "text": "For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it.",
+      "plainText": "For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "28620",
-      "text" : "For there must be also heresies among you, that they which are approved may be made manifest among you.",
-      "plainText" : "For there must be also heresies among you, that they which are approved may be made manifest among you."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "28620",
+      "text": "For there must be also heresies among you, that they which are approved may be made manifest among you.",
+      "plainText": "For there must be also heresies among you, that they which are approved may be made manifest among you."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "28621",
-      "text" : "When ye come together therefore into one place, <span class='extra'>this<\/span> is not to eat the Lord's supper.",
-      "plainText" : "When ye come together therefore into one place, this is not to eat the Lord's supper."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "28621",
+      "text": "When ye come together therefore into one place, <span class='extra'>this</span> is not to eat the Lord's supper.",
+      "plainText": "When ye come together therefore into one place, this is not to eat the Lord's supper."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "28622",
-      "text" : "For in eating every one taketh before <span class='extra'>other<\/span> his own supper: and one is hungry, and another is drunken.",
-      "plainText" : "For in eating every one taketh before other his own supper: and one is hungry, and another is drunken."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "28622",
+      "text": "For in eating every one taketh before <span class='extra'>other</span> his own supper: and one is hungry, and another is drunken.",
+      "plainText": "For in eating every one taketh before other his own supper: and one is hungry, and another is drunken."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "28623",
-      "text" : "What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise <span class='extra'>you<\/span> not.",
-      "plainText" : "What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise you not."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "28623",
+      "text": "What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise <span class='extra'>you</span> not.",
+      "plainText": "What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise you not."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "28624",
-      "text" : "For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the <span class='extra'>same<\/span> night in which he was betrayed took bread:",
-      "plainText" : "For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "28624",
+      "text": "For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the <span class='extra'>same</span> night in which he was betrayed took bread:",
+      "plainText": "For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "28625",
-      "text" : "And when he had given thanks, he brake <span class='extra'>it<\/span>, and said, <span class='woc'>Take, eat: this is my body, which is broken for you: this do in remembrance of me.<\/span>",
-      "plainText" : "And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "28625",
+      "text": "And when he had given thanks, he brake <span class='extra'>it</span>, and said, <span class='woc'>Take, eat: this is my body, which is broken for you: this do in remembrance of me.</span>",
+      "plainText": "And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "28626",
-      "text" : "After the same manner also <span class='extra'>he took<\/span> the cup, when he had supped, saying, <span class='woc'>This cup is the new testament in my blood: this do ye, as oft as ye drink <span class='extra'>it<\/span>, in remembrance of me.<\/span>",
-      "plainText" : "After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "28626",
+      "text": "After the same manner also <span class='extra'>he took</span> the cup, when he had supped, saying, <span class='woc'>This cup is the new testament in my blood: this do ye, as oft as ye drink <span class='extra'>it</span>, in remembrance of me.</span>",
+      "plainText": "After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "28627",
-      "text" : "For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till he come.",
-      "plainText" : "For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till he come."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "28627",
+      "text": "For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till he come.",
+      "plainText": "For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till he come."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "28628",
-      "text" : "Wherefore whosoever shall eat this bread, and drink <span class='extra'>this<\/span> cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.",
-      "plainText" : "Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "28628",
+      "text": "Wherefore whosoever shall eat this bread, and drink <span class='extra'>this</span> cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.",
+      "plainText": "Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "28629",
-      "text" : "But let a man examine himself, and so let him eat of <span class='extra'>that<\/span> bread, and drink of <span class='extra'>that<\/span> cup.",
-      "plainText" : "But let a man examine himself, and so let him eat of that bread, and drink of that cup."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "28629",
+      "text": "But let a man examine himself, and so let him eat of <span class='extra'>that</span> bread, and drink of <span class='extra'>that</span> cup.",
+      "plainText": "But let a man examine himself, and so let him eat of that bread, and drink of that cup."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "28630",
-      "text" : "For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord's body.",
-      "plainText" : "For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord's body."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "28630",
+      "text": "For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord's body.",
+      "plainText": "For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord's body."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "28631",
-      "text" : "For this cause many <span class='extra'>are<\/span> weak and sickly among you, and many sleep.",
-      "plainText" : "For this cause many are weak and sickly among you, and many sleep."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "28631",
+      "text": "For this cause many <span class='extra'>are</span> weak and sickly among you, and many sleep.",
+      "plainText": "For this cause many are weak and sickly among you, and many sleep."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "28632",
-      "text" : "For if we would judge ourselves, we should not be judged.",
-      "plainText" : "For if we would judge ourselves, we should not be judged."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "28632",
+      "text": "For if we would judge ourselves, we should not be judged.",
+      "plainText": "For if we would judge ourselves, we should not be judged."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "28633",
-      "text" : "But when we are judged, we are chastened of the Lord, that we should not be condemned with the world.",
-      "plainText" : "But when we are judged, we are chastened of the Lord, that we should not be condemned with the world."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "28633",
+      "text": "But when we are judged, we are chastened of the Lord, that we should not be condemned with the world.",
+      "plainText": "But when we are judged, we are chastened of the Lord, that we should not be condemned with the world."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "28634",
-      "text" : "Wherefore, my brethren, when ye come together to eat, tarry one for another.",
-      "plainText" : "Wherefore, my brethren, when ye come together to eat, tarry one for another."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "28634",
+      "text": "Wherefore, my brethren, when ye come together to eat, tarry one for another.",
+      "plainText": "Wherefore, my brethren, when ye come together to eat, tarry one for another."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "28635",
-      "text" : "And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come.",
-      "plainText" : "And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come."
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "28635",
+      "text": "And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come.",
+      "plainText": "And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come."
     }
   ]
 }
-

@@ -1,117 +1,107 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "47",
-    "verseCount" : "9",
-    "nextChapter" : "psalms_48.html",
-    "nextTitle" : "Psalms 48",
-    "prevChapter" : "psalms_46.html",
-    "prevTitle" : "Psalms 46",
-    "filename" : "psalms_47.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "47",
+    "verseCount": "9",
+    "nextChapter": "psalms_48.html",
+    "nextTitle": "Psalms 48",
+    "prevChapter": "psalms_46.html",
+    "prevTitle": "Psalms 46",
+    "filename": "psalms_47.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "To the chief Musician, A Psalm for the sons of Korah.",
-      "plainText" : "To the chief Musician, A Psalm for the sons of Korah."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "To the chief Musician, A Psalm for the sons of Korah.",
+      "plainText": "To the chief Musician, A Psalm for the sons of Korah."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14627",
-      "text" : "O clap your hands, all ye people; shout unto God with the voice of triumph.",
-      "plainText" : "O clap your hands, all ye people; shout unto God with the voice of triumph."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14627",
+      "text": "O clap your hands, all ye people; shout unto God with the voice of triumph.",
+      "plainText": "O clap your hands, all ye people; shout unto God with the voice of triumph."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14628",
-      "text" : "For the <span class='nog'>LORD<\/span> most high <span class='extra'>is<\/span> terrible; <span class='extra'>he is<\/span> a great King over all the earth.",
-      "plainText" : "For the LORD most high is terrible; he is a great King over all the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14628",
+      "text": "For the <span class='nog'>LORD</span> most high <span class='extra'>is</span> terrible; <span class='extra'>he is</span> a great King over all the earth.",
+      "plainText": "For the LORD most high is terrible; he is a great King over all the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14629",
-      "text" : "He shall subdue the people under us, and the nations under our feet.",
-      "plainText" : "He shall subdue the people under us, and the nations under our feet."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14629",
+      "text": "He shall subdue the people under us, and the nations under our feet.",
+      "plainText": "He shall subdue the people under us, and the nations under our feet."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14630",
-      "text" : "He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.",
-      "plainText" : "He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14630",
+      "text": "He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.",
+      "plainText": "He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14631",
-      "text" : "God is gone up with a shout, the <span class='nog'>LORD<\/span> with the sound of a trumpet.",
-      "plainText" : "God is gone up with a shout, the LORD with the sound of a trumpet."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14631",
+      "text": "God is gone up with a shout, the <span class='nog'>LORD</span> with the sound of a trumpet.",
+      "plainText": "God is gone up with a shout, the LORD with the sound of a trumpet."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14632",
-      "text" : "Sing praises to God, sing praises: sing praises unto our King, sing praises.",
-      "plainText" : "Sing praises to God, sing praises: sing praises unto our King, sing praises."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14632",
+      "text": "Sing praises to God, sing praises: sing praises unto our King, sing praises.",
+      "plainText": "Sing praises to God, sing praises: sing praises unto our King, sing praises."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14633",
-      "text" : "For God <span class='extra'>is<\/span> the King of all the earth: sing ye praises with understanding.",
-      "plainText" : "For God is the King of all the earth: sing ye praises with understanding."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14633",
+      "text": "For God <span class='extra'>is</span> the King of all the earth: sing ye praises with understanding.",
+      "plainText": "For God is the King of all the earth: sing ye praises with understanding."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14634",
-      "text" : "God reigneth over the heathen: God sitteth upon the throne of his holiness.",
-      "plainText" : "God reigneth over the heathen: God sitteth upon the throne of his holiness."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14634",
+      "text": "God reigneth over the heathen: God sitteth upon the throne of his holiness.",
+      "plainText": "God reigneth over the heathen: God sitteth upon the throne of his holiness."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14635",
-      "text" : "The princes of the people are gathered together, <span class='extra'>even<\/span> the people of the God of Abraham: for the shields of the earth <span class='extra'>belong<\/span> unto God: he is greatly exalted.",
-      "plainText" : "The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted."
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14635",
+      "text": "The princes of the people are gathered together, <span class='extra'>even</span> the people of the God of Abraham: for the shields of the earth <span class='extra'>belong</span> unto God: he is greatly exalted.",
+      "plainText": "The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted."
     }
   ]
 }
-
-

@@ -1,164 +1,149 @@
 {
   "book": {
-    "number" : "36",
-    "filenamePrefix" : "zephaniah",
-    "bookPage" : "zephaniah.html",
-    "title" : "Zephaniah",
-    "chapterCount" : "3",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "haggai_1.html",
-    "nextTitle" : "Haggai",
-    "prevBook" : "habakkuk_1.html",
-    "prevTitle" : "Habakkuk"
+    "number": "36",
+    "filenamePrefix": "zephaniah",
+    "bookPage": "zephaniah.html",
+    "title": "Zephaniah",
+    "chapterCount": "3",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "haggai_1.html",
+    "nextTitle": "Haggai",
+    "prevBook": "habakkuk_1.html",
+    "prevTitle": "Habakkuk",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "2",
-    "verseCount" : "15",
-    "nextChapter" : "zephaniah_3.html",
-    "nextTitle" : "Zephaniah 3",
-    "prevChapter" : "zephaniah_1.html",
-    "prevTitle" : "Zephaniah 1",
-    "filename" : "zephaniah_2.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "2",
+    "verseCount": "15",
+    "nextChapter": "zephaniah_3.html",
+    "nextTitle": "Zephaniah 3",
+    "prevChapter": "zephaniah_1.html",
+    "prevTitle": "Zephaniah 1",
+    "filename": "zephaniah_2.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "22807",
-      "text" : "Gather yourselves together, yea, gather together, O nation not desired;",
-      "plainText" : "Gather yourselves together, yea, gather together, O nation not desired;"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "22807",
+      "text": "Gather yourselves together, yea, gather together, O nation not desired;",
+      "plainText": "Gather yourselves together, yea, gather together, O nation not desired;"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "22808",
-      "text" : "Before the decree bring forth, <span class='extra'>before<\/span> the day pass as the chaff, before the fierce anger of the <span class='nog'>LORD<\/span> come upon you, before the day of the <span class='nog'>LORD<\/span>'s anger come upon you.",
-      "plainText" : "Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the LORD come upon you, before the day of the LORD's anger come upon you."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "22808",
+      "text": "Before the decree bring forth, <span class='extra'>before</span> the day pass as the chaff, before the fierce anger of the <span class='nog'>LORD</span> come upon you, before the day of the <span class='nog'>LORD</span>'s anger come upon you.",
+      "plainText": "Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the LORD come upon you, before the day of the LORD's anger come upon you."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "22809",
-      "text" : "Seek ye the <span class='nog'>LORD<\/span>, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the <span class='nog'>LORD<\/span>'s anger.",
-      "plainText" : "Seek ye the LORD, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the LORD's anger."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "22809",
+      "text": "Seek ye the <span class='nog'>LORD</span>, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the <span class='nog'>LORD</span>'s anger.",
+      "plainText": "Seek ye the LORD, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the LORD's anger."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "22810",
-      "text" : "For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up.",
-      "plainText" : "For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "22810",
+      "text": "For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up.",
+      "plainText": "For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "22811",
-      "text" : "Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant.",
-      "plainText" : "Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "22811",
+      "text": "Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the <span class='nog'>LORD</span> <span class='extra'>is</span> against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant.",
+      "plainText": "Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "22812",
-      "text" : "And the sea coast shall be dwellings <span class='extra'>and<\/span> cottages for shepherds, and folds for flocks.",
-      "plainText" : "And the sea coast shall be dwellings and cottages for shepherds, and folds for flocks."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "22812",
+      "text": "And the sea coast shall be dwellings <span class='extra'>and</span> cottages for shepherds, and folds for flocks.",
+      "plainText": "And the sea coast shall be dwellings and cottages for shepherds, and folds for flocks."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "22813",
-      "text" : "And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the <span class='nog'>LORD<\/span> their God shall visit them, and turn away their captivity.",
-      "plainText" : "And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the LORD their God shall visit them, and turn away their captivity."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "22813",
+      "text": "And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the <span class='nog'>LORD</span> their God shall visit them, and turn away their captivity.",
+      "plainText": "And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the LORD their God shall visit them, and turn away their captivity."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "22814",
-      "text" : "I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified <span class='extra'>themselves<\/span> against their border.",
-      "plainText" : "I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified themselves against their border."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "22814",
+      "text": "I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified <span class='extra'>themselves</span> against their border.",
+      "plainText": "I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified themselves against their border."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "22815",
-      "text" : "Therefore <span class='extra'>as<\/span> I live, saith the <span class='nog'>LORD<\/span> of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, <span class='extra'>even<\/span> the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.",
-      "plainText" : "Therefore as I live, saith the LORD of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "22815",
+      "text": "Therefore <span class='extra'>as</span> I live, saith the <span class='nog'>LORD</span> of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, <span class='extra'>even</span> the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.",
+      "plainText": "Therefore as I live, saith the LORD of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "22816",
-      "text" : "This shall they have for their pride, because they have reproached and magnified <span class='extra'>themselves<\/span> against the people of the <span class='nog'>LORD<\/span> of hosts.",
-      "plainText" : "This shall they have for their pride, because they have reproached and magnified themselves against the people of the LORD of hosts."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "22816",
+      "text": "This shall they have for their pride, because they have reproached and magnified <span class='extra'>themselves</span> against the people of the <span class='nog'>LORD</span> of hosts.",
+      "plainText": "This shall they have for their pride, because they have reproached and magnified themselves against the people of the LORD of hosts."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "22817",
-      "text" : "The <span class='nog'>LORD<\/span> <span class='extra'>will be<\/span> terrible unto them: for he will famish all the gods of the earth; and <span class='extra'>men<\/span> shall worship him, every one from his place, <span class='extra'>even<\/span> all the isles of the heathen.",
-      "plainText" : "The LORD will be terrible unto them: for he will famish all the gods of the earth; and men shall worship him, every one from his place, even all the isles of the heathen."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "22817",
+      "text": "The <span class='nog'>LORD</span> <span class='extra'>will be</span> terrible unto them: for he will famish all the gods of the earth; and <span class='extra'>men</span> shall worship him, every one from his place, <span class='extra'>even</span> all the isles of the heathen.",
+      "plainText": "The LORD will be terrible unto them: for he will famish all the gods of the earth; and men shall worship him, every one from his place, even all the isles of the heathen."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "22818",
-      "text" : "Ye Ethiopians also, ye <span class='extra'>shall be<\/span> slain by my sword.",
-      "plainText" : "Ye Ethiopians also, ye shall be slain by my sword."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "22818",
+      "text": "Ye Ethiopians also, ye <span class='extra'>shall be</span> slain by my sword.",
+      "plainText": "Ye Ethiopians also, ye shall be slain by my sword."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "22819",
-      "text" : "And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, <span class='extra'>and<\/span> dry like a wilderness.",
-      "plainText" : "And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, and dry like a wilderness."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "22819",
+      "text": "And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, <span class='extra'>and</span> dry like a wilderness.",
+      "plainText": "And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, and dry like a wilderness."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "22820",
-      "text" : "And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; <span class='extra'>their<\/span> voice shall sing in the windows; desolation <span class='extra'>shall be<\/span> in the thresholds: for he shall uncover the cedar work.",
-      "plainText" : "And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; their voice shall sing in the windows; desolation shall be in the thresholds: for he shall uncover the cedar work."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "22820",
+      "text": "And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; <span class='extra'>their</span> voice shall sing in the windows; desolation <span class='extra'>shall be</span> in the thresholds: for he shall uncover the cedar work.",
+      "plainText": "And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; their voice shall sing in the windows; desolation shall be in the thresholds: for he shall uncover the cedar work."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "22821",
-      "text" : "This <span class='extra'>is<\/span> the rejoicing city that dwelt carelessly, that said in her heart, I <span class='extra'>am<\/span>, and <span class='extra'>there is<\/span> none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, <span class='extra'>and<\/span> wag his hand.",
-      "plainText" : "This is the rejoicing city that dwelt carelessly, that said in her heart, I am, and there is none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, and wag his hand."
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "22821",
+      "text": "This <span class='extra'>is</span> the rejoicing city that dwelt carelessly, that said in her heart, I <span class='extra'>am</span>, and <span class='extra'>there is</span> none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, <span class='extra'>and</span> wag his hand.",
+      "plainText": "This is the rejoicing city that dwelt carelessly, that said in her heart, I am, and there is none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, and wag his hand."
     }
   ]
 }
-
-

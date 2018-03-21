@@ -1,99 +1,91 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "142",
-    "verseCount" : "7",
-    "nextChapter" : "psalms_143.html",
-    "nextTitle" : "Psalms 143",
-    "prevChapter" : "psalms_141.html",
-    "prevTitle" : "Psalms 141",
-    "filename" : "psalms_142.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "142",
+    "verseCount": "7",
+    "nextChapter": "psalms_143.html",
+    "nextTitle": "Psalms 143",
+    "prevChapter": "psalms_141.html",
+    "prevTitle": "Psalms 141",
+    "filename": "psalms_142.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "Maschil of David; A Prayer when he was in the cave.",
-      "plainText" : "Maschil of David; A Prayer when he was in the cave."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "Maschil of David; A Prayer when he was in the cave.",
+      "plainText": "Maschil of David; A Prayer when he was in the cave."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16288",
-      "text" : "I cried unto the <span class='nog'>LORD<\/span> with my voice; with my voice unto the <span class='nog'>LORD<\/span> did I make my supplication.",
-      "plainText" : "I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16288",
+      "text": "I cried unto the <span class='nog'>LORD</span> with my voice; with my voice unto the <span class='nog'>LORD</span> did I make my supplication.",
+      "plainText": "I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16289",
-      "text" : "I poured out my complaint before him; I shewed before him my trouble.",
-      "plainText" : "I poured out my complaint before him; I shewed before him my trouble."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16289",
+      "text": "I poured out my complaint before him; I shewed before him my trouble.",
+      "plainText": "I poured out my complaint before him; I shewed before him my trouble."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16290",
-      "text" : "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me.",
-      "plainText" : "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16290",
+      "text": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me.",
+      "plainText": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "16291",
-      "text" : "I looked on <span class='extra'>my<\/span> right hand, and beheld, but <span class='extra'>there was<\/span> no man that would know me: refuge failed me; no man cared for my soul.",
-      "plainText" : "I looked on my right hand, and beheld, but there was no man that would know me: refuge failed me; no man cared for my soul."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "16291",
+      "text": "I looked on <span class='extra'>my</span> right hand, and beheld, but <span class='extra'>there was</span> no man that would know me: refuge failed me; no man cared for my soul.",
+      "plainText": "I looked on my right hand, and beheld, but there was no man that would know me: refuge failed me; no man cared for my soul."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "16292",
-      "text" : "I cried unto thee, O <span class='nog'>LORD<\/span>: I said, Thou <span class='extra'>art<\/span> my refuge <span class='extra'>and<\/span> my portion in the land of the living.",
-      "plainText" : "I cried unto thee, O LORD: I said, Thou art my refuge and my portion in the land of the living."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "16292",
+      "text": "I cried unto thee, O <span class='nog'>LORD</span>: I said, Thou <span class='extra'>art</span> my refuge <span class='extra'>and</span> my portion in the land of the living.",
+      "plainText": "I cried unto thee, O LORD: I said, Thou art my refuge and my portion in the land of the living."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "16293",
-      "text" : "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.",
-      "plainText" : "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "16293",
+      "text": "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.",
+      "plainText": "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "16294",
-      "text" : "Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.",
-      "plainText" : "Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me."
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "16294",
+      "text": "Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.",
+      "plainText": "Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me."
     }
   ]
 }
-
-

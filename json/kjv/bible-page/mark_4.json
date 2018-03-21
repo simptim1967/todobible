@@ -1,397 +1,357 @@
 {
   "book": {
-    "number" : "41",
-    "filenamePrefix" : "mark",
-    "bookPage" : "mark.html",
-    "title" : "Mark",
-    "chapterCount" : "16",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "luke_1.html",
-    "nextTitle" : "Luke",
-    "prevBook" : "matthew_1.html",
-    "prevTitle" : "Matthew"
+    "number": "41",
+    "filenamePrefix": "mark",
+    "bookPage": "mark.html",
+    "title": "Mark",
+    "chapterCount": "16",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "luke_1.html",
+    "nextTitle": "Luke",
+    "prevBook": "matthew_1.html",
+    "prevTitle": "Matthew",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "4",
-    "verseCount" : "41",
-    "nextChapter" : "mark_5.html",
-    "nextTitle" : "Mark 5",
-    "prevChapter" : "mark_3.html",
-    "prevTitle" : "Mark 3",
-    "filename" : "mark_4.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "4",
+    "verseCount": "41",
+    "nextChapter": "mark_5.html",
+    "nextTitle": "Mark 5",
+    "prevChapter": "mark_3.html",
+    "prevTitle": "Mark 3",
+    "filename": "mark_4.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "24325",
-      "text" : "And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land.",
-      "plainText" : "And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "24325",
+      "text": "And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land.",
+      "plainText": "And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "24326",
-      "text" : "And he taught them many things by parables, and said unto them in his doctrine,",
-      "plainText" : "And he taught them many things by parables, and said unto them in his doctrine,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "24326",
+      "text": "And he taught them many things by parables, and said unto them in his doctrine,",
+      "plainText": "And he taught them many things by parables, and said unto them in his doctrine,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "24327",
-      "text" : "<span class='woc'>Hearken; Behold, there went out a sower to sow:<\/span>",
-      "plainText" : "Hearken; Behold, there went out a sower to sow:"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "24327",
+      "text": "<span class='woc'>Hearken; Behold, there went out a sower to sow:</span>",
+      "plainText": "Hearken; Behold, there went out a sower to sow:"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "24328",
-      "text" : "<span class='woc'>And it came to pass, as he sowed, some fell by the way side, and the fowls of the air came and devoured it up.<\/span>",
-      "plainText" : "And it came to pass, as he sowed, some fell by the way side, and the fowls of the air came and devoured it up."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "24328",
+      "text": "<span class='woc'>And it came to pass, as he sowed, some fell by the way side, and the fowls of the air came and devoured it up.</span>",
+      "plainText": "And it came to pass, as he sowed, some fell by the way side, and the fowls of the air came and devoured it up."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "24329",
-      "text" : "<span class='woc'>And some fell on stony ground, where it had not much earth; and immediately it sprang up, because it had no depth of earth:<\/span>",
-      "plainText" : "And some fell on stony ground, where it had not much earth; and immediately it sprang up, because it had no depth of earth:"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "24329",
+      "text": "<span class='woc'>And some fell on stony ground, where it had not much earth; and immediately it sprang up, because it had no depth of earth:</span>",
+      "plainText": "And some fell on stony ground, where it had not much earth; and immediately it sprang up, because it had no depth of earth:"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "24330",
-      "text" : "<span class='woc'>But when the sun was up, it was scorched; and because it had no root, it withered away.<\/span>",
-      "plainText" : "But when the sun was up, it was scorched; and because it had no root, it withered away."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "24330",
+      "text": "<span class='woc'>But when the sun was up, it was scorched; and because it had no root, it withered away.</span>",
+      "plainText": "But when the sun was up, it was scorched; and because it had no root, it withered away."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "24331",
-      "text" : "<span class='woc'>And some fell among thorns, and the thorns grew up, and choked it, and it yielded no fruit.<\/span>",
-      "plainText" : "And some fell among thorns, and the thorns grew up, and choked it, and it yielded no fruit."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "24331",
+      "text": "<span class='woc'>And some fell among thorns, and the thorns grew up, and choked it, and it yielded no fruit.</span>",
+      "plainText": "And some fell among thorns, and the thorns grew up, and choked it, and it yielded no fruit."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "24332",
-      "text" : "<span class='woc'>And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred.<\/span>",
-      "plainText" : "And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "24332",
+      "text": "<span class='woc'>And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred.</span>",
+      "plainText": "And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "24333",
-      "text" : "And he said unto them, <span class='woc'>He that hath ears to hear, let him hear.<\/span>",
-      "plainText" : "And he said unto them, He that hath ears to hear, let him hear."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "24333",
+      "text": "And he said unto them, <span class='woc'>He that hath ears to hear, let him hear.</span>",
+      "plainText": "And he said unto them, He that hath ears to hear, let him hear."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "24334",
-      "text" : "And when he was alone, they that were about him with the twelve asked of him the parable.",
-      "plainText" : "And when he was alone, they that were about him with the twelve asked of him the parable."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "24334",
+      "text": "And when he was alone, they that were about him with the twelve asked of him the parable.",
+      "plainText": "And when he was alone, they that were about him with the twelve asked of him the parable."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "24335",
-      "text" : "And he said unto them, <span class='woc'>Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all <span class='extra'>these<\/span> things are done in parables:<\/span>",
-      "plainText" : "And he said unto them, Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all these things are done in parables:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "24335",
+      "text": "And he said unto them, <span class='woc'>Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all <span class='extra'>these</span> things are done in parables:</span>",
+      "plainText": "And he said unto them, Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all these things are done in parables:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "24336",
-      "text" : "<span class='woc'>That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and <span class='extra'>their<\/span> sins should be forgiven them.<\/span>",
-      "plainText" : "That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and their sins should be forgiven them."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "24336",
+      "text": "<span class='woc'>That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and <span class='extra'>their</span> sins should be forgiven them.</span>",
+      "plainText": "That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and their sins should be forgiven them."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "24337",
-      "text" : "And he said unto them, <span class='woc'>Know ye not this parable? and how then will ye know all parables?<\/span>",
-      "plainText" : "And he said unto them, Know ye not this parable? and how then will ye know all parables?"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "24337",
+      "text": "And he said unto them, <span class='woc'>Know ye not this parable? and how then will ye know all parables?</span>",
+      "plainText": "And he said unto them, Know ye not this parable? and how then will ye know all parables?"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "24338",
-      "text" : "<span class='woc'>The sower soweth the word.<\/span>",
-      "plainText" : "The sower soweth the word."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "24338",
+      "text": "<span class='woc'>The sower soweth the word.</span>",
+      "plainText": "The sower soweth the word."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "24339",
-      "text" : "<span class='woc'>And these are they by the way side, where the word is sown; but when they have heard, Satan cometh immediately, and taketh away the word that was sown in their hearts.<\/span>",
-      "plainText" : "And these are they by the way side, where the word is sown; but when they have heard, Satan cometh immediately, and taketh away the word that was sown in their hearts."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "24339",
+      "text": "<span class='woc'>And these are they by the way side, where the word is sown; but when they have heard, Satan cometh immediately, and taketh away the word that was sown in their hearts.</span>",
+      "plainText": "And these are they by the way side, where the word is sown; but when they have heard, Satan cometh immediately, and taketh away the word that was sown in their hearts."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "24340",
-      "text" : "<span class='woc'>And these are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness;<\/span>",
-      "plainText" : "And these are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness;"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "24340",
+      "text": "<span class='woc'>And these are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness;</span>",
+      "plainText": "And these are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness;"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "24341",
-      "text" : "<span class='woc'>And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word's sake, immediately they are offended.<\/span>",
-      "plainText" : "And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word's sake, immediately they are offended."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "24341",
+      "text": "<span class='woc'>And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word's sake, immediately they are offended.</span>",
+      "plainText": "And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word's sake, immediately they are offended."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "24342",
-      "text" : "<span class='woc'>And these are they which are sown among thorns; such as hear the word,<\/span>",
-      "plainText" : "And these are they which are sown among thorns; such as hear the word,"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "24342",
+      "text": "<span class='woc'>And these are they which are sown among thorns; such as hear the word,</span>",
+      "plainText": "And these are they which are sown among thorns; such as hear the word,"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "24343",
-      "text" : "<span class='woc'>And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful.<\/span>",
-      "plainText" : "And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "24343",
+      "text": "<span class='woc'>And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful.</span>",
+      "plainText": "And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "24344",
-      "text" : "<span class='woc'>And these are they which are sown on good ground; such as hear the word, and receive <span class='extra'>it<\/span>, and bring forth fruit, some thirtyfold, some sixty, and some an hundred.<\/span>",
-      "plainText" : "And these are they which are sown on good ground; such as hear the word, and receive it, and bring forth fruit, some thirtyfold, some sixty, and some an hundred."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "24344",
+      "text": "<span class='woc'>And these are they which are sown on good ground; such as hear the word, and receive <span class='extra'>it</span>, and bring forth fruit, some thirtyfold, some sixty, and some an hundred.</span>",
+      "plainText": "And these are they which are sown on good ground; such as hear the word, and receive it, and bring forth fruit, some thirtyfold, some sixty, and some an hundred."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "24345",
-      "text" : "And he said unto them, <span class='woc'>Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick?<\/span>",
-      "plainText" : "And he said unto them, Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick?"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "24345",
+      "text": "And he said unto them, <span class='woc'>Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick?</span>",
+      "plainText": "And he said unto them, Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick?"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "24346",
-      "text" : "<span class='woc'>For there is nothing hid, which shall not be manifested; neither was any thing kept secret, but that it should come abroad.<\/span>",
-      "plainText" : "For there is nothing hid, which shall not be manifested; neither was any thing kept secret, but that it should come abroad."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "24346",
+      "text": "<span class='woc'>For there is nothing hid, which shall not be manifested; neither was any thing kept secret, but that it should come abroad.</span>",
+      "plainText": "For there is nothing hid, which shall not be manifested; neither was any thing kept secret, but that it should come abroad."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "24347",
-      "text" : "<span class='woc'>If any man have ears to hear, let him hear.<\/span>",
-      "plainText" : "If any man have ears to hear, let him hear."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "24347",
+      "text": "<span class='woc'>If any man have ears to hear, let him hear.</span>",
+      "plainText": "If any man have ears to hear, let him hear."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "24348",
-      "text" : "And he said unto them, <span class='woc'>Take heed what ye hear: with what measure ye mete, it shall be measured to you: and unto you that hear shall more be given.<\/span>",
-      "plainText" : "And he said unto them, Take heed what ye hear: with what measure ye mete, it shall be measured to you: and unto you that hear shall more be given."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "24348",
+      "text": "And he said unto them, <span class='woc'>Take heed what ye hear: with what measure ye mete, it shall be measured to you: and unto you that hear shall more be given.</span>",
+      "plainText": "And he said unto them, Take heed what ye hear: with what measure ye mete, it shall be measured to you: and unto you that hear shall more be given."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "24349",
-      "text" : "<span class='woc'>For he that hath, to him shall be given: and he that hath not, from him shall be taken even that which he hath.<\/span>",
-      "plainText" : "For he that hath, to him shall be given: and he that hath not, from him shall be taken even that which he hath."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "24349",
+      "text": "<span class='woc'>For he that hath, to him shall be given: and he that hath not, from him shall be taken even that which he hath.</span>",
+      "plainText": "For he that hath, to him shall be given: and he that hath not, from him shall be taken even that which he hath."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "24350",
-      "text" : "And he said, <span class='woc'>So is the kingdom of God, as if a man should cast seed into the ground;<\/span>",
-      "plainText" : "And he said, So is the kingdom of God, as if a man should cast seed into the ground;"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "24350",
+      "text": "And he said, <span class='woc'>So is the kingdom of God, as if a man should cast seed into the ground;</span>",
+      "plainText": "And he said, So is the kingdom of God, as if a man should cast seed into the ground;"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "24351",
-      "text" : "<span class='woc'>And should sleep, and rise night and day, and the seed should spring and grow up, he knoweth not how.<\/span>",
-      "plainText" : "And should sleep, and rise night and day, and the seed should spring and grow up, he knoweth not how."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "24351",
+      "text": "<span class='woc'>And should sleep, and rise night and day, and the seed should spring and grow up, he knoweth not how.</span>",
+      "plainText": "And should sleep, and rise night and day, and the seed should spring and grow up, he knoweth not how."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "24352",
-      "text" : "<span class='woc'>For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear.<\/span>",
-      "plainText" : "For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "24352",
+      "text": "<span class='woc'>For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear.</span>",
+      "plainText": "For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "24353",
-      "text" : "<span class='woc'>But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come.<\/span>",
-      "plainText" : "But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "24353",
+      "text": "<span class='woc'>But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come.</span>",
+      "plainText": "But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "24354",
-      "text" : "And he said, <span class='woc'>Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?<\/span>",
-      "plainText" : "And he said, Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?"
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "24354",
+      "text": "And he said, <span class='woc'>Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?</span>",
+      "plainText": "And he said, Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?"
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "24355",
-      "text" : "<span class='woc'><span class='extra'>It is<\/span> like a grain of mustard seed, which, when it is sown in the earth, is less than all the seeds that be in the earth:<\/span>",
-      "plainText" : "It is like a grain of mustard seed, which, when it is sown in the earth, is less than all the seeds that be in the earth:"
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "24355",
+      "text": "<span class='woc'><span class='extra'>It is</span> like a grain of mustard seed, which, when it is sown in the earth, is less than all the seeds that be in the earth:</span>",
+      "plainText": "It is like a grain of mustard seed, which, when it is sown in the earth, is less than all the seeds that be in the earth:"
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "24356",
-      "text" : "<span class='woc'>But when it is sown, it groweth up, and becometh greater than all herbs, and shooteth out great branches; so that the fowls of the air may lodge under the shadow of it.<\/span>",
-      "plainText" : "But when it is sown, it groweth up, and becometh greater than all herbs, and shooteth out great branches; so that the fowls of the air may lodge under the shadow of it."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "24356",
+      "text": "<span class='woc'>But when it is sown, it groweth up, and becometh greater than all herbs, and shooteth out great branches; so that the fowls of the air may lodge under the shadow of it.</span>",
+      "plainText": "But when it is sown, it groweth up, and becometh greater than all herbs, and shooteth out great branches; so that the fowls of the air may lodge under the shadow of it."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "24357",
-      "text" : "And with many such parables spake he the word unto them, as they were able to hear <span class='extra'>it<\/span>.",
-      "plainText" : "And with many such parables spake he the word unto them, as they were able to hear it."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "24357",
+      "text": "And with many such parables spake he the word unto them, as they were able to hear <span class='extra'>it</span>.",
+      "plainText": "And with many such parables spake he the word unto them, as they were able to hear it."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "24358",
-      "text" : "But without a parable spake he not unto them: and when they were alone, he expounded all things to his disciples.",
-      "plainText" : "But without a parable spake he not unto them: and when they were alone, he expounded all things to his disciples."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "24358",
+      "text": "But without a parable spake he not unto them: and when they were alone, he expounded all things to his disciples.",
+      "plainText": "But without a parable spake he not unto them: and when they were alone, he expounded all things to his disciples."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "24359",
-      "text" : "And the same day, when the even was come, he saith unto them, <span class='woc'>Let us pass over unto the other side.<\/span>",
-      "plainText" : "And the same day, when the even was come, he saith unto them, Let us pass over unto the other side."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "24359",
+      "text": "And the same day, when the even was come, he saith unto them, <span class='woc'>Let us pass over unto the other side.</span>",
+      "plainText": "And the same day, when the even was come, he saith unto them, Let us pass over unto the other side."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "24360",
-      "text" : "And when they had sent away the multitude, they took him even as he was in the ship. And there were also with him other little ships.",
-      "plainText" : "And when they had sent away the multitude, they took him even as he was in the ship. And there were also with him other little ships."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "24360",
+      "text": "And when they had sent away the multitude, they took him even as he was in the ship. And there were also with him other little ships.",
+      "plainText": "And when they had sent away the multitude, they took him even as he was in the ship. And there were also with him other little ships."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "24361",
-      "text" : "And there arose a great storm of wind, and the waves beat into the ship, so that it was now full.",
-      "plainText" : "And there arose a great storm of wind, and the waves beat into the ship, so that it was now full."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "24361",
+      "text": "And there arose a great storm of wind, and the waves beat into the ship, so that it was now full.",
+      "plainText": "And there arose a great storm of wind, and the waves beat into the ship, so that it was now full."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "24362",
-      "text" : "And he was in the hinder part of the ship, asleep on a pillow: and they awake him, and say unto him, Master, carest thou not that we perish?",
-      "plainText" : "And he was in the hinder part of the ship, asleep on a pillow: and they awake him, and say unto him, Master, carest thou not that we perish?"
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "24362",
+      "text": "And he was in the hinder part of the ship, asleep on a pillow: and they awake him, and say unto him, Master, carest thou not that we perish?",
+      "plainText": "And he was in the hinder part of the ship, asleep on a pillow: and they awake him, and say unto him, Master, carest thou not that we perish?"
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "24363",
-      "text" : "And he arose, and rebuked the wind, and said unto the sea, <span class='woc'>Peace, be still.<\/span> And the wind ceased, and there was a great calm.",
-      "plainText" : "And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "24363",
+      "text": "And he arose, and rebuked the wind, and said unto the sea, <span class='woc'>Peace, be still.</span> And the wind ceased, and there was a great calm.",
+      "plainText": "And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "24364",
-      "text" : "And he said unto them, <span class='woc'>Why are ye so fearful? how is it that ye have no faith?<\/span>",
-      "plainText" : "And he said unto them, Why are ye so fearful? how is it that ye have no faith?"
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "24364",
+      "text": "And he said unto them, <span class='woc'>Why are ye so fearful? how is it that ye have no faith?</span>",
+      "plainText": "And he said unto them, Why are ye so fearful? how is it that ye have no faith?"
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "24365",
-      "text" : "And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?",
-      "plainText" : "And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?"
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "24365",
+      "text": "And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?",
+      "plainText": "And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?"
     }
   ]
 }
-

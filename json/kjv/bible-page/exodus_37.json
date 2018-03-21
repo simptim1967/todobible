@@ -1,289 +1,261 @@
 {
   "book": {
-    "number" : "2",
-    "filenamePrefix" : "exodus",
-    "bookPage" : "exodus.html",
-    "title" : "Exodus",
-    "chapterCount" : "40",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "leviticus_1.html",
-    "nextTitle" : "Leviticus",
-    "prevBook" : "genesis_1.html",
-    "prevTitle" : "Genesis"
+    "number": "2",
+    "filenamePrefix": "exodus",
+    "bookPage": "exodus.html",
+    "title": "Exodus",
+    "chapterCount": "40",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "leviticus_1.html",
+    "nextTitle": "Leviticus",
+    "prevBook": "genesis_1.html",
+    "prevTitle": "Genesis",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "37",
-    "verseCount" : "29",
-    "nextChapter" : "exodus_38.html",
-    "nextTitle" : "Exodus 38",
-    "prevChapter" : "exodus_36.html",
-    "prevTitle" : "Exodus 36",
-    "filename" : "exodus_37.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "37",
+    "verseCount": "29",
+    "nextChapter": "exodus_38.html",
+    "nextTitle": "Exodus 38",
+    "prevChapter": "exodus_36.html",
+    "prevTitle": "Exodus 36",
+    "filename": "exodus_37.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "2606",
-      "text" : "And Bezaleel made the ark <span class='extra'>of<\/span> shittim wood: two cubits and a half <span class='extra'>was<\/span> the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it:",
-      "plainText" : "And Bezaleel made the ark of shittim wood: two cubits and a half was the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it:"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "2606",
+      "text": "And Bezaleel made the ark <span class='extra'>of</span> shittim wood: two cubits and a half <span class='extra'>was</span> the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it:",
+      "plainText": "And Bezaleel made the ark of shittim wood: two cubits and a half was the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it:"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "2607",
-      "text" : "And he overlaid it with pure gold within and without, and made a crown of gold to it round about.",
-      "plainText" : "And he overlaid it with pure gold within and without, and made a crown of gold to it round about."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "2607",
+      "text": "And he overlaid it with pure gold within and without, and made a crown of gold to it round about.",
+      "plainText": "And he overlaid it with pure gold within and without, and made a crown of gold to it round about."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "2608",
-      "text" : "And he cast for it four rings of gold, <span class='extra'>to be set<\/span> by the four corners of it; even two rings upon the one side of it, and two rings upon the other side of it.",
-      "plainText" : "And he cast for it four rings of gold, to be set by the four corners of it; even two rings upon the one side of it, and two rings upon the other side of it."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "2608",
+      "text": "And he cast for it four rings of gold, <span class='extra'>to be set</span> by the four corners of it; even two rings upon the one side of it, and two rings upon the other side of it.",
+      "plainText": "And he cast for it four rings of gold, to be set by the four corners of it; even two rings upon the one side of it, and two rings upon the other side of it."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "2609",
-      "text" : "And he made staves <span class='extra'>of<\/span> shittim wood, and overlaid them with gold.",
-      "plainText" : "And he made staves of shittim wood, and overlaid them with gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "2609",
+      "text": "And he made staves <span class='extra'>of</span> shittim wood, and overlaid them with gold.",
+      "plainText": "And he made staves of shittim wood, and overlaid them with gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "2610",
-      "text" : "And he put the staves into the rings by the sides of the ark, to bear the ark.",
-      "plainText" : "And he put the staves into the rings by the sides of the ark, to bear the ark."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "2610",
+      "text": "And he put the staves into the rings by the sides of the ark, to bear the ark.",
+      "plainText": "And he put the staves into the rings by the sides of the ark, to bear the ark."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "2611",
-      "text" : "And he made the mercy seat <span class='extra'>of<\/span> pure gold: two cubits and a half <span class='extra'>was<\/span> the length thereof, and one cubit and a half the breadth thereof.",
-      "plainText" : "And he made the mercy seat of pure gold: two cubits and a half was the length thereof, and one cubit and a half the breadth thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "2611",
+      "text": "And he made the mercy seat <span class='extra'>of</span> pure gold: two cubits and a half <span class='extra'>was</span> the length thereof, and one cubit and a half the breadth thereof.",
+      "plainText": "And he made the mercy seat of pure gold: two cubits and a half was the length thereof, and one cubit and a half the breadth thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "2612",
-      "text" : "And he made two cherubims <span class='extra'>of<\/span> gold, beaten out of one piece made he them, on the two ends of the mercy seat;",
-      "plainText" : "And he made two cherubims of gold, beaten out of one piece made he them, on the two ends of the mercy seat;"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "2612",
+      "text": "And he made two cherubims <span class='extra'>of</span> gold, beaten out of one piece made he them, on the two ends of the mercy seat;",
+      "plainText": "And he made two cherubims of gold, beaten out of one piece made he them, on the two ends of the mercy seat;"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "2613",
-      "text" : "One cherub on the end on this side, and another cherub on the <span class='extra'>other<\/span> end on that side: out of the mercy seat made he the cherubims on the two ends thereof.",
-      "plainText" : "One cherub on the end on this side, and another cherub on the other end on that side: out of the mercy seat made he the cherubims on the two ends thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "2613",
+      "text": "One cherub on the end on this side, and another cherub on the <span class='extra'>other</span> end on that side: out of the mercy seat made he the cherubims on the two ends thereof.",
+      "plainText": "One cherub on the end on this side, and another cherub on the other end on that side: out of the mercy seat made he the cherubims on the two ends thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "2614",
-      "text" : "And the cherubims spread out <span class='extra'>their<\/span> wings on high, <span class='extra'>and<\/span> covered with their wings over the mercy seat, with their faces one to another; <span class='extra'>even<\/span> to the mercy seatward were the faces of the cherubims.",
-      "plainText" : "And the cherubims spread out their wings on high, and covered with their wings over the mercy seat, with their faces one to another; even to the mercy seatward were the faces of the cherubims."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "2614",
+      "text": "And the cherubims spread out <span class='extra'>their</span> wings on high, <span class='extra'>and</span> covered with their wings over the mercy seat, with their faces one to another; <span class='extra'>even</span> to the mercy seatward were the faces of the cherubims.",
+      "plainText": "And the cherubims spread out their wings on high, and covered with their wings over the mercy seat, with their faces one to another; even to the mercy seatward were the faces of the cherubims."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "2615",
-      "text" : "And he made the table <span class='extra'>of<\/span> shittim wood: two cubits <span class='extra'>was<\/span> the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof:",
-      "plainText" : "And he made the table of shittim wood: two cubits was the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof:"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "2615",
+      "text": "And he made the table <span class='extra'>of</span> shittim wood: two cubits <span class='extra'>was</span> the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof:",
+      "plainText": "And he made the table of shittim wood: two cubits was the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof:"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "2616",
-      "text" : "And he overlaid it with pure gold, and made thereunto a crown of gold round about.",
-      "plainText" : "And he overlaid it with pure gold, and made thereunto a crown of gold round about."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "2616",
+      "text": "And he overlaid it with pure gold, and made thereunto a crown of gold round about.",
+      "plainText": "And he overlaid it with pure gold, and made thereunto a crown of gold round about."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "2617",
-      "text" : "Also he made thereunto a border of an handbreadth round about; and made a crown of gold for the border thereof round about.",
-      "plainText" : "Also he made thereunto a border of an handbreadth round about; and made a crown of gold for the border thereof round about."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "2617",
+      "text": "Also he made thereunto a border of an handbreadth round about; and made a crown of gold for the border thereof round about.",
+      "plainText": "Also he made thereunto a border of an handbreadth round about; and made a crown of gold for the border thereof round about."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "2618",
-      "text" : "And he cast for it four rings of gold, and put the rings upon the four corners that <span class='extra'>were<\/span> in the four feet thereof.",
-      "plainText" : "And he cast for it four rings of gold, and put the rings upon the four corners that were in the four feet thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "2618",
+      "text": "And he cast for it four rings of gold, and put the rings upon the four corners that <span class='extra'>were</span> in the four feet thereof.",
+      "plainText": "And he cast for it four rings of gold, and put the rings upon the four corners that were in the four feet thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "2619",
-      "text" : "Over against the border were the rings, the places for the staves to bear the table.",
-      "plainText" : "Over against the border were the rings, the places for the staves to bear the table."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "2619",
+      "text": "Over against the border were the rings, the places for the staves to bear the table.",
+      "plainText": "Over against the border were the rings, the places for the staves to bear the table."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "2620",
-      "text" : "And he made the staves <span class='extra'>of<\/span> shittim wood, and overlaid them with gold, to bear the table.",
-      "plainText" : "And he made the staves of shittim wood, and overlaid them with gold, to bear the table."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "2620",
+      "text": "And he made the staves <span class='extra'>of</span> shittim wood, and overlaid them with gold, to bear the table.",
+      "plainText": "And he made the staves of shittim wood, and overlaid them with gold, to bear the table."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "2621",
-      "text" : "And he made the vessels which <span class='extra'>were<\/span> upon the table, his dishes, and his spoons, and his bowls, and his covers to cover withal, <span class='extra'>of<\/span> pure gold.",
-      "plainText" : "And he made the vessels which were upon the table, his dishes, and his spoons, and his bowls, and his covers to cover withal, of pure gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "2621",
+      "text": "And he made the vessels which <span class='extra'>were</span> upon the table, his dishes, and his spoons, and his bowls, and his covers to cover withal, <span class='extra'>of</span> pure gold.",
+      "plainText": "And he made the vessels which were upon the table, his dishes, and his spoons, and his bowls, and his covers to cover withal, of pure gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "2622",
-      "text" : "And he made the candlestick <span class='extra'>of<\/span> pure gold: <span class='extra'>of<\/span> beaten work made he the candlestick; his shaft, and his branch, his bowls, his knops, and his flowers, were of the same:",
-      "plainText" : "And he made the candlestick of pure gold: of beaten work made he the candlestick; his shaft, and his branch, his bowls, his knops, and his flowers, were of the same:"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "2622",
+      "text": "And he made the candlestick <span class='extra'>of</span> pure gold: <span class='extra'>of</span> beaten work made he the candlestick; his shaft, and his branch, his bowls, his knops, and his flowers, were of the same:",
+      "plainText": "And he made the candlestick of pure gold: of beaten work made he the candlestick; his shaft, and his branch, his bowls, his knops, and his flowers, were of the same:"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "2623",
-      "text" : "And six branches going out of the sides thereof; three branches of the candlestick out of the one side thereof, and three branches of the candlestick out of the other side thereof:",
-      "plainText" : "And six branches going out of the sides thereof; three branches of the candlestick out of the one side thereof, and three branches of the candlestick out of the other side thereof:"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "2623",
+      "text": "And six branches going out of the sides thereof; three branches of the candlestick out of the one side thereof, and three branches of the candlestick out of the other side thereof:",
+      "plainText": "And six branches going out of the sides thereof; three branches of the candlestick out of the one side thereof, and three branches of the candlestick out of the other side thereof:"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "2624",
-      "text" : "Three bowls made after the fashion of almonds in one branch, a knop and a flower; and three bowls made like almonds in another branch, a knop and a flower: so throughout the six branches going out of the candlestick.",
-      "plainText" : "Three bowls made after the fashion of almonds in one branch, a knop and a flower; and three bowls made like almonds in another branch, a knop and a flower: so throughout the six branches going out of the candlestick."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "2624",
+      "text": "Three bowls made after the fashion of almonds in one branch, a knop and a flower; and three bowls made like almonds in another branch, a knop and a flower: so throughout the six branches going out of the candlestick.",
+      "plainText": "Three bowls made after the fashion of almonds in one branch, a knop and a flower; and three bowls made like almonds in another branch, a knop and a flower: so throughout the six branches going out of the candlestick."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "2625",
-      "text" : "And in the candlestick <span class='extra'>were<\/span> four bowls made like almonds, his knops, and his flowers:",
-      "plainText" : "And in the candlestick were four bowls made like almonds, his knops, and his flowers:"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "2625",
+      "text": "And in the candlestick <span class='extra'>were</span> four bowls made like almonds, his knops, and his flowers:",
+      "plainText": "And in the candlestick were four bowls made like almonds, his knops, and his flowers:"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "2626",
-      "text" : "And a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches going out of it.",
-      "plainText" : "And a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches going out of it."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "2626",
+      "text": "And a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches going out of it.",
+      "plainText": "And a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches going out of it."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "2627",
-      "text" : "Their knops and their branches were of the same: all of it <span class='extra'>was<\/span> one beaten work <span class='extra'>of<\/span> pure gold.",
-      "plainText" : "Their knops and their branches were of the same: all of it was one beaten work of pure gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "2627",
+      "text": "Their knops and their branches were of the same: all of it <span class='extra'>was</span> one beaten work <span class='extra'>of</span> pure gold.",
+      "plainText": "Their knops and their branches were of the same: all of it was one beaten work of pure gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "2628",
-      "text" : "And he made his seven lamps, and his snuffers, and his snuffdishes, <span class='extra'>of<\/span> pure gold.",
-      "plainText" : "And he made his seven lamps, and his snuffers, and his snuffdishes, of pure gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "2628",
+      "text": "And he made his seven lamps, and his snuffers, and his snuffdishes, <span class='extra'>of</span> pure gold.",
+      "plainText": "And he made his seven lamps, and his snuffers, and his snuffdishes, of pure gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "2629",
-      "text" : "<span class='extra'>Of<\/span> a talent of pure gold made he it, and all the vessels thereof.",
-      "plainText" : "Of a talent of pure gold made he it, and all the vessels thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "2629",
+      "text": "<span class='extra'>Of</span> a talent of pure gold made he it, and all the vessels thereof.",
+      "plainText": "Of a talent of pure gold made he it, and all the vessels thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "2630",
-      "text" : "And he made the incense altar <span class='extra'>of<\/span> shittim wood: the length of it <span class='extra'>was<\/span> a cubit, and the breadth of it a cubit; <span class='extra'>it was<\/span> foursquare; and two cubits <span class='extra'>was<\/span> the height of it; the horns thereof were of the same.",
-      "plainText" : "And he made the incense altar of shittim wood: the length of it was a cubit, and the breadth of it a cubit; it was foursquare; and two cubits was the height of it; the horns thereof were of the same."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "2630",
+      "text": "And he made the incense altar <span class='extra'>of</span> shittim wood: the length of it <span class='extra'>was</span> a cubit, and the breadth of it a cubit; <span class='extra'>it was</span> foursquare; and two cubits <span class='extra'>was</span> the height of it; the horns thereof were of the same.",
+      "plainText": "And he made the incense altar of shittim wood: the length of it was a cubit, and the breadth of it a cubit; it was foursquare; and two cubits was the height of it; the horns thereof were of the same."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "2631",
-      "text" : "And he overlaid it with pure gold, <span class='extra'>both<\/span> the top of it, and the sides thereof round about, and the horns of it: also he made unto it a crown of gold round about.",
-      "plainText" : "And he overlaid it with pure gold, both the top of it, and the sides thereof round about, and the horns of it: also he made unto it a crown of gold round about."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "2631",
+      "text": "And he overlaid it with pure gold, <span class='extra'>both</span> the top of it, and the sides thereof round about, and the horns of it: also he made unto it a crown of gold round about.",
+      "plainText": "And he overlaid it with pure gold, both the top of it, and the sides thereof round about, and the horns of it: also he made unto it a crown of gold round about."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "2632",
-      "text" : "And he made two rings of gold for it under the crown thereof, by the two corners of it, upon the two sides thereof, to be places for the staves to bear it withal.",
-      "plainText" : "And he made two rings of gold for it under the crown thereof, by the two corners of it, upon the two sides thereof, to be places for the staves to bear it withal."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "2632",
+      "text": "And he made two rings of gold for it under the crown thereof, by the two corners of it, upon the two sides thereof, to be places for the staves to bear it withal.",
+      "plainText": "And he made two rings of gold for it under the crown thereof, by the two corners of it, upon the two sides thereof, to be places for the staves to bear it withal."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "2633",
-      "text" : "And he made the staves <span class='extra'>of<\/span> shittim wood, and overlaid them with gold.",
-      "plainText" : "And he made the staves of shittim wood, and overlaid them with gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "2633",
+      "text": "And he made the staves <span class='extra'>of</span> shittim wood, and overlaid them with gold.",
+      "plainText": "And he made the staves of shittim wood, and overlaid them with gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "2634",
-      "text" : "And he made the holy anointing oil, and the pure incense of sweet spices, according to the work of the apothecary.",
-      "plainText" : "And he made the holy anointing oil, and the pure incense of sweet spices, according to the work of the apothecary."
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "2634",
+      "text": "And he made the holy anointing oil, and the pure incense of sweet spices, according to the work of the apothecary.",
+      "plainText": "And he made the holy anointing oil, and the pure incense of sweet spices, according to the work of the apothecary."
     }
   ]
 }
-

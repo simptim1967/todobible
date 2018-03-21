@@ -1,182 +1,165 @@
 {
   "book": {
-    "number" : "23",
-    "filenamePrefix" : "isaiah",
-    "bookPage" : "isaiah.html",
-    "title" : "Isaiah",
-    "chapterCount" : "66",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "jeremiah_1.html",
-    "nextTitle" : "Jeremiah",
-    "prevBook" : "song_of_solomon_1.html",
-    "prevTitle" : "Song of Solomon"
+    "number": "23",
+    "filenamePrefix": "isaiah",
+    "bookPage": "isaiah.html",
+    "title": "Isaiah",
+    "chapterCount": "66",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "jeremiah_1.html",
+    "nextTitle": "Jeremiah",
+    "prevBook": "song_of_solomon_1.html",
+    "prevTitle": "Song of Solomon",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "54",
-    "verseCount" : "17",
-    "nextChapter" : "isaiah_55.html",
-    "nextTitle" : "Isaiah 55",
-    "prevChapter" : "isaiah_53.html",
-    "prevTitle" : "Isaiah 53",
-    "filename" : "isaiah_54.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "54",
+    "verseCount": "17",
+    "nextChapter": "isaiah_55.html",
+    "nextTitle": "Isaiah 55",
+    "prevChapter": "isaiah_53.html",
+    "prevTitle": "Isaiah 53",
+    "filename": "isaiah_54.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "18725",
-      "text" : "Sing, O barren, thou <span class='extra'>that<\/span> didst not bear; break forth into singing, and cry aloud, thou <span class='extra'>that<\/span> didst not travail with child: for more <span class='extra'>are<\/span> the children of the desolate than the children of the married wife, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Sing, O barren, thou that didst not bear; break forth into singing, and cry aloud, thou that didst not travail with child: for more are the children of the desolate than the children of the married wife, saith the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "18725",
+      "text": "Sing, O barren, thou <span class='extra'>that</span> didst not bear; break forth into singing, and cry aloud, thou <span class='extra'>that</span> didst not travail with child: for more <span class='extra'>are</span> the children of the desolate than the children of the married wife, saith the <span class='nog'>LORD</span>.",
+      "plainText": "Sing, O barren, thou that didst not bear; break forth into singing, and cry aloud, thou that didst not travail with child: for more are the children of the desolate than the children of the married wife, saith the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "18726",
-      "text" : "Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;",
-      "plainText" : "Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "18726",
+      "text": "Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;",
+      "plainText": "Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "18727",
-      "text" : "For thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles, and make the desolate cities to be inhabited.",
-      "plainText" : "For thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles, and make the desolate cities to be inhabited."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "18727",
+      "text": "For thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles, and make the desolate cities to be inhabited.",
+      "plainText": "For thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles, and make the desolate cities to be inhabited."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "18728",
-      "text" : "Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more.",
-      "plainText" : "Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "18728",
+      "text": "Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more.",
+      "plainText": "Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "18729",
-      "text" : "For thy Maker <span class='extra'>is<\/span> thine husband; the <span class='nog'>LORD<\/span> of hosts <span class='extra'>is<\/span> his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called.",
-      "plainText" : "For thy Maker is thine husband; the LORD of hosts is his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "18729",
+      "text": "For thy Maker <span class='extra'>is</span> thine husband; the <span class='nog'>LORD</span> of hosts <span class='extra'>is</span> his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called.",
+      "plainText": "For thy Maker is thine husband; the LORD of hosts is his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "18730",
-      "text" : "For the <span class='nog'>LORD<\/span> hath called thee as a woman forsaken and grieved in spirit, and a wife of youth, when thou wast refused, saith thy God.",
-      "plainText" : "For the LORD hath called thee as a woman forsaken and grieved in spirit, and a wife of youth, when thou wast refused, saith thy God."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "18730",
+      "text": "For the <span class='nog'>LORD</span> hath called thee as a woman forsaken and grieved in spirit, and a wife of youth, when thou wast refused, saith thy God.",
+      "plainText": "For the LORD hath called thee as a woman forsaken and grieved in spirit, and a wife of youth, when thou wast refused, saith thy God."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "18731",
-      "text" : "For a small moment have I forsaken thee; but with great mercies will I gather thee.",
-      "plainText" : "For a small moment have I forsaken thee; but with great mercies will I gather thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "18731",
+      "text": "For a small moment have I forsaken thee; but with great mercies will I gather thee.",
+      "plainText": "For a small moment have I forsaken thee; but with great mercies will I gather thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "18732",
-      "text" : "In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the <span class='nog'>LORD<\/span> thy Redeemer.",
-      "plainText" : "In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the LORD thy Redeemer."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "18732",
+      "text": "In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the <span class='nog'>LORD</span> thy Redeemer.",
+      "plainText": "In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the LORD thy Redeemer."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "18733",
-      "text" : "For this <span class='extra'>is as<\/span> the waters of Noah unto me: for <span class='extra'>as<\/span> I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee.",
-      "plainText" : "For this is as the waters of Noah unto me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "18733",
+      "text": "For this <span class='extra'>is as</span> the waters of Noah unto me: for <span class='extra'>as</span> I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee.",
+      "plainText": "For this is as the waters of Noah unto me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "18734",
-      "text" : "For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the <span class='nog'>LORD<\/span> that hath mercy on thee.",
-      "plainText" : "For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "18734",
+      "text": "For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the <span class='nog'>LORD</span> that hath mercy on thee.",
+      "plainText": "For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "18735",
-      "text" : "O thou afflicted, tossed with tempest, <span class='extra'>and<\/span> not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires.",
-      "plainText" : "O thou afflicted, tossed with tempest, and not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "18735",
+      "text": "O thou afflicted, tossed with tempest, <span class='extra'>and</span> not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires.",
+      "plainText": "O thou afflicted, tossed with tempest, and not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "18736",
-      "text" : "And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones.",
-      "plainText" : "And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "18736",
+      "text": "And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones.",
+      "plainText": "And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "18737",
-      "text" : "And all thy children <span class='extra'>shall be<\/span> taught of the <span class='nog'>LORD<\/span>; and great <span class='extra'>shall be<\/span> the peace of thy children.",
-      "plainText" : "And all thy children shall be taught of the LORD; and great shall be the peace of thy children."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "18737",
+      "text": "And all thy children <span class='extra'>shall be</span> taught of the <span class='nog'>LORD</span>; and great <span class='extra'>shall be</span> the peace of thy children.",
+      "plainText": "And all thy children shall be taught of the LORD; and great shall be the peace of thy children."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "18738",
-      "text" : "In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee.",
-      "plainText" : "In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "18738",
+      "text": "In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee.",
+      "plainText": "In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "18739",
-      "text" : "Behold, they shall surely gather together, <span class='extra'>but<\/span> not by me: whosoever shall gather together against thee shall fall for thy sake.",
-      "plainText" : "Behold, they shall surely gather together, but not by me: whosoever shall gather together against thee shall fall for thy sake."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "18739",
+      "text": "Behold, they shall surely gather together, <span class='extra'>but</span> not by me: whosoever shall gather together against thee shall fall for thy sake.",
+      "plainText": "Behold, they shall surely gather together, but not by me: whosoever shall gather together against thee shall fall for thy sake."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "18740",
-      "text" : "Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.",
-      "plainText" : "Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "18740",
+      "text": "Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.",
+      "plainText": "Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "18741",
-      "text" : "No weapon that is formed against thee shall prosper; and every tongue <span class='extra'>that<\/span> shall rise against thee in judgment thou shalt condemn. This <span class='extra'>is<\/span> the heritage of the servants of the <span class='nog'>LORD<\/span>, and their righteousness <span class='extra'>is<\/span> of me, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, saith the LORD."
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "18741",
+      "text": "No weapon that is formed against thee shall prosper; and every tongue <span class='extra'>that</span> shall rise against thee in judgment thou shalt condemn. This <span class='extra'>is</span> the heritage of the servants of the <span class='nog'>LORD</span>, and their righteousness <span class='extra'>is</span> of me, saith the <span class='nog'>LORD</span>.",
+      "plainText": "No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, saith the LORD."
     }
   ]
 }
-
-

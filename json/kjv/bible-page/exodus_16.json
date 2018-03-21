@@ -1,353 +1,317 @@
 {
   "book": {
-    "number" : "2",
-    "filenamePrefix" : "exodus",
-    "bookPage" : "exodus.html",
-    "title" : "Exodus",
-    "chapterCount" : "40",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "leviticus_1.html",
-    "nextTitle" : "Leviticus",
-    "prevBook" : "genesis_1.html",
-    "prevTitle" : "Genesis"
+    "number": "2",
+    "filenamePrefix": "exodus",
+    "bookPage": "exodus.html",
+    "title": "Exodus",
+    "chapterCount": "40",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "leviticus_1.html",
+    "nextTitle": "Leviticus",
+    "prevBook": "genesis_1.html",
+    "prevTitle": "Genesis",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "16",
-    "verseCount" : "36",
-    "nextChapter" : "exodus_17.html",
-    "nextTitle" : "Exodus 17",
-    "prevChapter" : "exodus_15.html",
-    "prevTitle" : "Exodus 15",
-    "filename" : "exodus_16.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "16",
+    "verseCount": "36",
+    "nextChapter": "exodus_17.html",
+    "nextTitle": "Exodus 17",
+    "prevChapter": "exodus_15.html",
+    "prevTitle": "Exodus 15",
+    "filename": "exodus_16.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "1949",
-      "text" : "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which <span class='extra'>is<\/span> between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.",
-      "plainText" : "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "1949",
+      "text": "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which <span class='extra'>is</span> between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.",
+      "plainText": "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "1950",
-      "text" : "And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:",
-      "plainText" : "And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "1950",
+      "text": "And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:",
+      "plainText": "And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "1951",
-      "text" : "And the children of Israel said unto them, Would to God we had died by the hand of the <span class='nog'>LORD<\/span> in the land of Egypt, when we sat by the flesh pots, <span class='extra'>and<\/span> when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger.",
-      "plainText" : "And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "1951",
+      "text": "And the children of Israel said unto them, Would to God we had died by the hand of the <span class='nog'>LORD</span> in the land of Egypt, when we sat by the flesh pots, <span class='extra'>and</span> when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger.",
+      "plainText": "And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "1952",
-      "text" : "Then said the <span class='nog'>LORD<\/span> unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.",
-      "plainText" : "Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "1952",
+      "text": "Then said the <span class='nog'>LORD</span> unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.",
+      "plainText": "Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "1953",
-      "text" : "And it shall come to pass, that on the sixth day they shall prepare <span class='extra'>that<\/span> which they bring in; and it shall be twice as much as they gather daily.",
-      "plainText" : "And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "1953",
+      "text": "And it shall come to pass, that on the sixth day they shall prepare <span class='extra'>that</span> which they bring in; and it shall be twice as much as they gather daily.",
+      "plainText": "And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "1954",
-      "text" : "And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the <span class='nog'>LORD<\/span> hath brought you out from the land of Egypt:",
-      "plainText" : "And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "1954",
+      "text": "And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the <span class='nog'>LORD</span> hath brought you out from the land of Egypt:",
+      "plainText": "And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "1955",
-      "text" : "And in the morning, then ye shall see the glory of the <span class='nog'>LORD<\/span>; for that he heareth your murmurings against the <span class='nog'>LORD<\/span>: and what <span class='extra'>are<\/span> we, that ye murmur against us?",
-      "plainText" : "And in the morning, then ye shall see the glory of the LORD; for that he heareth your murmurings against the LORD: and what are we, that ye murmur against us?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "1955",
+      "text": "And in the morning, then ye shall see the glory of the <span class='nog'>LORD</span>; for that he heareth your murmurings against the <span class='nog'>LORD</span>: and what <span class='extra'>are</span> we, that ye murmur against us?",
+      "plainText": "And in the morning, then ye shall see the glory of the LORD; for that he heareth your murmurings against the LORD: and what are we, that ye murmur against us?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "1956",
-      "text" : "And Moses said, <span class='extra'>This shall be<\/span>, when the <span class='nog'>LORD<\/span> shall give you in the evening flesh to eat, and in the morning bread to the full; for that the <span class='nog'>LORD<\/span> heareth your murmurings which ye murmur against him: and what <span class='extra'>are<\/span> we? your murmurings <span class='extra'>are<\/span> not against us, but against the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And Moses said, This shall be, when the LORD shall give you in the evening flesh to eat, and in the morning bread to the full; for that the LORD heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "1956",
+      "text": "And Moses said, <span class='extra'>This shall be</span>, when the <span class='nog'>LORD</span> shall give you in the evening flesh to eat, and in the morning bread to the full; for that the <span class='nog'>LORD</span> heareth your murmurings which ye murmur against him: and what <span class='extra'>are</span> we? your murmurings <span class='extra'>are</span> not against us, but against the <span class='nog'>LORD</span>.",
+      "plainText": "And Moses said, This shall be, when the LORD shall give you in the evening flesh to eat, and in the morning bread to the full; for that the LORD heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "1957",
-      "text" : "And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the <span class='nog'>LORD<\/span>: for he hath heard your murmurings.",
-      "plainText" : "And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the LORD: for he hath heard your murmurings."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "1957",
+      "text": "And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the <span class='nog'>LORD</span>: for he hath heard your murmurings.",
+      "plainText": "And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the LORD: for he hath heard your murmurings."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "1958",
-      "text" : "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the <span class='nog'>LORD<\/span> appeared in the cloud.",
-      "plainText" : "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the LORD appeared in the cloud."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "1958",
+      "text": "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the <span class='nog'>LORD</span> appeared in the cloud.",
+      "plainText": "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the LORD appeared in the cloud."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "1959",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "1959",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "1960",
-      "text" : "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span> your God.",
-      "plainText" : "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I am the LORD your God."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "1960",
+      "text": "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I <span class='extra'>am</span> the <span class='nog'>LORD</span> your God.",
+      "plainText": "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I am the LORD your God."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "1961",
-      "text" : "And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host.",
-      "plainText" : "And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "1961",
+      "text": "And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host.",
+      "plainText": "And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "1962",
-      "text" : "And when the dew that lay was gone up, behold, upon the face of the wilderness <span class='extra'>there lay<\/span> a small round thing, <span class='extra'>as<\/span> small as the hoar frost on the ground.",
-      "plainText" : "And when the dew that lay was gone up, behold, upon the face of the wilderness there lay a small round thing, as small as the hoar frost on the ground."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "1962",
+      "text": "And when the dew that lay was gone up, behold, upon the face of the wilderness <span class='extra'>there lay</span> a small round thing, <span class='extra'>as</span> small as the hoar frost on the ground.",
+      "plainText": "And when the dew that lay was gone up, behold, upon the face of the wilderness there lay a small round thing, as small as the hoar frost on the ground."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "1963",
-      "text" : "And when the children of Israel saw <span class='extra'>it<\/span>, they said one to another, It <span class='extra'>is<\/span> manna: for they wist not what it <span class='extra'>was<\/span>. And Moses said unto them, This <span class='extra'>is<\/span> the bread which the <span class='nog'>LORD<\/span> hath given you to eat.",
-      "plainText" : "And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was. And Moses said unto them, This is the bread which the LORD hath given you to eat."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "1963",
+      "text": "And when the children of Israel saw <span class='extra'>it</span>, they said one to another, It <span class='extra'>is</span> manna: for they wist not what it <span class='extra'>was</span>. And Moses said unto them, This <span class='extra'>is</span> the bread which the <span class='nog'>LORD</span> hath given you to eat.",
+      "plainText": "And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was. And Moses said unto them, This is the bread which the LORD hath given you to eat."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "1964",
-      "text" : "This <span class='extra'>is<\/span> the thing which the <span class='nog'>LORD<\/span> hath commanded, Gather of it every man according to his eating, an omer for every man, <span class='extra'>according to<\/span> the number of your persons; take ye every man for <span class='extra'>them<\/span> which <span class='extra'>are<\/span> in his tents.",
-      "plainText" : "This is the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take ye every man for them which are in his tents."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "1964",
+      "text": "This <span class='extra'>is</span> the thing which the <span class='nog'>LORD</span> hath commanded, Gather of it every man according to his eating, an omer for every man, <span class='extra'>according to</span> the number of your persons; take ye every man for <span class='extra'>them</span> which <span class='extra'>are</span> in his tents.",
+      "plainText": "This is the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take ye every man for them which are in his tents."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "1965",
-      "text" : "And the children of Israel did so, and gathered, some more, some less.",
-      "plainText" : "And the children of Israel did so, and gathered, some more, some less."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "1965",
+      "text": "And the children of Israel did so, and gathered, some more, some less.",
+      "plainText": "And the children of Israel did so, and gathered, some more, some less."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "1966",
-      "text" : "And when they did mete <span class='extra'>it<\/span> with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating.",
-      "plainText" : "And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "1966",
+      "text": "And when they did mete <span class='extra'>it</span> with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating.",
+      "plainText": "And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "1967",
-      "text" : "And Moses said, Let no man leave of it till the morning.",
-      "plainText" : "And Moses said, Let no man leave of it till the morning."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "1967",
+      "text": "And Moses said, Let no man leave of it till the morning.",
+      "plainText": "And Moses said, Let no man leave of it till the morning."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "1968",
-      "text" : "Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them.",
-      "plainText" : "Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "1968",
+      "text": "Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them.",
+      "plainText": "Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "1969",
-      "text" : "And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted.",
-      "plainText" : "And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "1969",
+      "text": "And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted.",
+      "plainText": "And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "1970",
-      "text" : "And it came to pass, <span class='extra'>that<\/span> on the sixth day they gathered twice as much bread, two omers for one <span class='extra'>man<\/span>: and all the rulers of the congregation came and told Moses.",
-      "plainText" : "And it came to pass, that on the sixth day they gathered twice as much bread, two omers for one man: and all the rulers of the congregation came and told Moses."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "1970",
+      "text": "And it came to pass, <span class='extra'>that</span> on the sixth day they gathered twice as much bread, two omers for one <span class='extra'>man</span>: and all the rulers of the congregation came and told Moses.",
+      "plainText": "And it came to pass, that on the sixth day they gathered twice as much bread, two omers for one man: and all the rulers of the congregation came and told Moses."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "1971",
-      "text" : "And he said unto them, This <span class='extra'>is that<\/span> which the <span class='nog'>LORD<\/span> hath said, To morrow <span class='extra'>is<\/span> the rest of the holy sabbath unto the <span class='nog'>LORD<\/span>: bake <span class='extra'>that<\/span> which ye will bake <span class='extra'>to day<\/span>, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning.",
-      "plainText" : "And he said unto them, This is that which the LORD hath said, To morrow is the rest of the holy sabbath unto the LORD: bake that which ye will bake to day, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "1971",
+      "text": "And he said unto them, This <span class='extra'>is that</span> which the <span class='nog'>LORD</span> hath said, To morrow <span class='extra'>is</span> the rest of the holy sabbath unto the <span class='nog'>LORD</span>: bake <span class='extra'>that</span> which ye will bake <span class='extra'>to day</span>, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning.",
+      "plainText": "And he said unto them, This is that which the LORD hath said, To morrow is the rest of the holy sabbath unto the LORD: bake that which ye will bake to day, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "1972",
-      "text" : "And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein.",
-      "plainText" : "And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "1972",
+      "text": "And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein.",
+      "plainText": "And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "1973",
-      "text" : "And Moses said, Eat that to day; for to day <span class='extra'>is<\/span> a sabbath unto the <span class='nog'>LORD<\/span>: to day ye shall not find it in the field.",
-      "plainText" : "And Moses said, Eat that to day; for to day is a sabbath unto the LORD: to day ye shall not find it in the field."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "1973",
+      "text": "And Moses said, Eat that to day; for to day <span class='extra'>is</span> a sabbath unto the <span class='nog'>LORD</span>: to day ye shall not find it in the field.",
+      "plainText": "And Moses said, Eat that to day; for to day is a sabbath unto the LORD: to day ye shall not find it in the field."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "1974",
-      "text" : "Six days ye shall gather it; but on the seventh day, <span class='extra'>which is<\/span> the sabbath, in it there shall be none.",
-      "plainText" : "Six days ye shall gather it; but on the seventh day, which is the sabbath, in it there shall be none."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "1974",
+      "text": "Six days ye shall gather it; but on the seventh day, <span class='extra'>which is</span> the sabbath, in it there shall be none.",
+      "plainText": "Six days ye shall gather it; but on the seventh day, which is the sabbath, in it there shall be none."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "1975",
-      "text" : "And it came to pass, <span class='extra'>that<\/span> there went out <span class='extra'>some<\/span> of the people on the seventh day for to gather, and they found none.",
-      "plainText" : "And it came to pass, that there went out some of the people on the seventh day for to gather, and they found none."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "1975",
+      "text": "And it came to pass, <span class='extra'>that</span> there went out <span class='extra'>some</span> of the people on the seventh day for to gather, and they found none.",
+      "plainText": "And it came to pass, that there went out some of the people on the seventh day for to gather, and they found none."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "1976",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto Moses, How long refuse ye to keep my commandments and my laws?",
-      "plainText" : "And the LORD said unto Moses, How long refuse ye to keep my commandments and my laws?"
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "1976",
+      "text": "And the <span class='nog'>LORD</span> said unto Moses, How long refuse ye to keep my commandments and my laws?",
+      "plainText": "And the LORD said unto Moses, How long refuse ye to keep my commandments and my laws?"
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "1977",
-      "text" : "See, for that the <span class='nog'>LORD<\/span> hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day.",
-      "plainText" : "See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "1977",
+      "text": "See, for that the <span class='nog'>LORD</span> hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day.",
+      "plainText": "See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "1978",
-      "text" : "So the people rested on the seventh day.",
-      "plainText" : "So the people rested on the seventh day."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "1978",
+      "text": "So the people rested on the seventh day.",
+      "plainText": "So the people rested on the seventh day."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "1979",
-      "text" : "And the house of Israel called the name thereof Manna: and it <span class='extra'>was<\/span> like coriander seed, white; and the taste of it <span class='extra'>was<\/span> like wafers <span class='extra'>made<\/span> with honey.",
-      "plainText" : "And the house of Israel called the name thereof Manna: and it was like coriander seed, white; and the taste of it was like wafers made with honey."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "1979",
+      "text": "And the house of Israel called the name thereof Manna: and it <span class='extra'>was</span> like coriander seed, white; and the taste of it <span class='extra'>was</span> like wafers <span class='extra'>made</span> with honey.",
+      "plainText": "And the house of Israel called the name thereof Manna: and it was like coriander seed, white; and the taste of it was like wafers made with honey."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "1980",
-      "text" : "And Moses said, This <span class='extra'>is<\/span> the thing which the <span class='nog'>LORD<\/span> commandeth, Fill an omer of it to be kept for your generations; that they may see the bread wherewith I have fed you in the wilderness, when I brought you forth from the land of Egypt.",
-      "plainText" : "And Moses said, This is the thing which the LORD commandeth, Fill an omer of it to be kept for your generations; that they may see the bread wherewith I have fed you in the wilderness, when I brought you forth from the land of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "1980",
+      "text": "And Moses said, This <span class='extra'>is</span> the thing which the <span class='nog'>LORD</span> commandeth, Fill an omer of it to be kept for your generations; that they may see the bread wherewith I have fed you in the wilderness, when I brought you forth from the land of Egypt.",
+      "plainText": "And Moses said, This is the thing which the LORD commandeth, Fill an omer of it to be kept for your generations; that they may see the bread wherewith I have fed you in the wilderness, when I brought you forth from the land of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "1981",
-      "text" : "And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the <span class='nog'>LORD<\/span>, to be kept for your generations.",
-      "plainText" : "And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the LORD, to be kept for your generations."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "1981",
+      "text": "And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the <span class='nog'>LORD</span>, to be kept for your generations.",
+      "plainText": "And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the LORD, to be kept for your generations."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "1982",
-      "text" : "As the <span class='nog'>LORD<\/span> commanded Moses, so Aaron laid it up before the Testimony, to be kept.",
-      "plainText" : "As the LORD commanded Moses, so Aaron laid it up before the Testimony, to be kept."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "1982",
+      "text": "As the <span class='nog'>LORD</span> commanded Moses, so Aaron laid it up before the Testimony, to be kept.",
+      "plainText": "As the LORD commanded Moses, so Aaron laid it up before the Testimony, to be kept."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "1983",
-      "text" : "And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan.",
-      "plainText" : "And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "1983",
+      "text": "And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan.",
+      "plainText": "And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "1984",
-      "text" : "Now an omer <span class='extra'>is<\/span> the tenth <span class='extra'>part<\/span> of an ephah.",
-      "plainText" : "Now an omer is the tenth part of an ephah."
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "1984",
+      "text": "Now an omer <span class='extra'>is</span> the tenth <span class='extra'>part</span> of an ephah.",
+      "plainText": "Now an omer is the tenth part of an ephah."
     }
   ]
 }
-
-

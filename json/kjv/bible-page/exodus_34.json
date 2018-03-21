@@ -1,344 +1,309 @@
 {
   "book": {
-    "number" : "2",
-    "filenamePrefix" : "exodus",
-    "bookPage" : "exodus.html",
-    "title" : "Exodus",
-    "chapterCount" : "40",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "leviticus_1.html",
-    "nextTitle" : "Leviticus",
-    "prevBook" : "genesis_1.html",
-    "prevTitle" : "Genesis"
+    "number": "2",
+    "filenamePrefix": "exodus",
+    "bookPage": "exodus.html",
+    "title": "Exodus",
+    "chapterCount": "40",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "leviticus_1.html",
+    "nextTitle": "Leviticus",
+    "prevBook": "genesis_1.html",
+    "prevTitle": "Genesis",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "34",
-    "verseCount" : "35",
-    "nextChapter" : "exodus_35.html",
-    "nextTitle" : "Exodus 35",
-    "prevChapter" : "exodus_33.html",
-    "prevTitle" : "Exodus 33",
-    "filename" : "exodus_34.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "34",
+    "verseCount": "35",
+    "nextChapter": "exodus_35.html",
+    "nextTitle": "Exodus 35",
+    "prevChapter": "exodus_33.html",
+    "prevTitle": "Exodus 33",
+    "filename": "exodus_34.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "2498",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon <span class='extra'>these<\/span> tables the words that were in the first tables, which thou brakest.",
-      "plainText" : "And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon these tables the words that were in the first tables, which thou brakest."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "2498",
+      "text": "And the <span class='nog'>LORD</span> said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon <span class='extra'>these</span> tables the words that were in the first tables, which thou brakest.",
+      "plainText": "And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon these tables the words that were in the first tables, which thou brakest."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "2499",
-      "text" : "And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount.",
-      "plainText" : "And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "2499",
+      "text": "And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount.",
+      "plainText": "And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "2500",
-      "text" : "And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount.",
-      "plainText" : "And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "2500",
+      "text": "And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount.",
+      "plainText": "And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "2501",
-      "text" : "And he hewed two tables of stone like unto the first; and Moses rose up early in the morning, and went up unto mount Sinai, as the <span class='nog'>LORD<\/span> had commanded him, and took in his hand the two tables of stone.",
-      "plainText" : "And he hewed two tables of stone like unto the first; and Moses rose up early in the morning, and went up unto mount Sinai, as the LORD had commanded him, and took in his hand the two tables of stone."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "2501",
+      "text": "And he hewed two tables of stone like unto the first; and Moses rose up early in the morning, and went up unto mount Sinai, as the <span class='nog'>LORD</span> had commanded him, and took in his hand the two tables of stone.",
+      "plainText": "And he hewed two tables of stone like unto the first; and Moses rose up early in the morning, and went up unto mount Sinai, as the LORD had commanded him, and took in his hand the two tables of stone."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "2502",
-      "text" : "And the <span class='nog'>LORD<\/span> descended in the cloud, and stood with him there, and proclaimed the name of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And the LORD descended in the cloud, and stood with him there, and proclaimed the name of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "2502",
+      "text": "And the <span class='nog'>LORD</span> descended in the cloud, and stood with him there, and proclaimed the name of the <span class='nog'>LORD</span>.",
+      "plainText": "And the LORD descended in the cloud, and stood with him there, and proclaimed the name of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "2503",
-      "text" : "And the <span class='nog'>LORD<\/span> passed by before him, and proclaimed, The <span class='nog'>LORD<\/span>, The <span class='nog'>LORD<\/span> God, merciful and gracious, longsuffering, and abundant in goodness and truth,",
-      "plainText" : "And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth,"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "2503",
+      "text": "And the <span class='nog'>LORD</span> passed by before him, and proclaimed, The <span class='nog'>LORD</span>, The <span class='nog'>LORD</span> God, merciful and gracious, longsuffering, and abundant in goodness and truth,",
+      "plainText": "And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth,"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "2504",
-      "text" : "Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear <span class='extra'>the guilty<\/span>; visiting the iniquity of the fathers upon the children, and upon the children's children, unto the third and to the fourth <span class='extra'>generation<\/span>.",
-      "plainText" : "Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty; visiting the iniquity of the fathers upon the children, and upon the children's children, unto the third and to the fourth generation."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "2504",
+      "text": "Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear <span class='extra'>the guilty</span>; visiting the iniquity of the fathers upon the children, and upon the children's children, unto the third and to the fourth <span class='extra'>generation</span>.",
+      "plainText": "Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty; visiting the iniquity of the fathers upon the children, and upon the children's children, unto the third and to the fourth generation."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "2505",
-      "text" : "And Moses made haste, and bowed his head toward the earth, and worshipped.",
-      "plainText" : "And Moses made haste, and bowed his head toward the earth, and worshipped."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "2505",
+      "text": "And Moses made haste, and bowed his head toward the earth, and worshipped.",
+      "plainText": "And Moses made haste, and bowed his head toward the earth, and worshipped."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "2506",
-      "text" : "And he said, If now I have found grace in thy sight, O Lord, let my Lord, I pray thee, go among us; for it <span class='extra'>is<\/span> a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance.",
-      "plainText" : "And he said, If now I have found grace in thy sight, O Lord, let my Lord, I pray thee, go among us; for it is a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "2506",
+      "text": "And he said, If now I have found grace in thy sight, O Lord, let my Lord, I pray thee, go among us; for it <span class='extra'>is</span> a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance.",
+      "plainText": "And he said, If now I have found grace in thy sight, O Lord, let my Lord, I pray thee, go among us; for it is a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "2507",
-      "text" : "And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou <span class='extra'>art<\/span> shall see the work of the <span class='nog'>LORD<\/span>: for it <span class='extra'>is<\/span> a terrible thing that I will do with thee.",
-      "plainText" : "And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou art shall see the work of the LORD: for it is a terrible thing that I will do with thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "2507",
+      "text": "And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou <span class='extra'>art</span> shall see the work of the <span class='nog'>LORD</span>: for it <span class='extra'>is</span> a terrible thing that I will do with thee.",
+      "plainText": "And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou art shall see the work of the LORD: for it is a terrible thing that I will do with thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "2508",
-      "text" : "Observe thou that which I command thee this day: behold, I drive out before thee the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite.",
-      "plainText" : "Observe thou that which I command thee this day: behold, I drive out before thee the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "2508",
+      "text": "Observe thou that which I command thee this day: behold, I drive out before thee the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite.",
+      "plainText": "Observe thou that which I command thee this day: behold, I drive out before thee the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "2509",
-      "text" : "Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee:",
-      "plainText" : "Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee:"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "2509",
+      "text": "Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee:",
+      "plainText": "Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee:"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "2510",
-      "text" : "But ye shall destroy their altars, break their images, and cut down their groves:",
-      "plainText" : "But ye shall destroy their altars, break their images, and cut down their groves:"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "2510",
+      "text": "But ye shall destroy their altars, break their images, and cut down their groves:",
+      "plainText": "But ye shall destroy their altars, break their images, and cut down their groves:"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "2511",
-      "text" : "For thou shalt worship no other god: for the <span class='nog'>LORD<\/span>, whose name <span class='extra'>is<\/span> Jealous, <span class='extra'>is<\/span> a jealous God:",
-      "plainText" : "For thou shalt worship no other god: for the LORD, whose name is Jealous, is a jealous God:"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "2511",
+      "text": "For thou shalt worship no other god: for the <span class='nog'>LORD</span>, whose name <span class='extra'>is</span> Jealous, <span class='extra'>is</span> a jealous God:",
+      "plainText": "For thou shalt worship no other god: for the LORD, whose name is Jealous, is a jealous God:"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "2512",
-      "text" : "Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and <span class='extra'>one<\/span> call thee, and thou eat of his sacrifice;",
-      "plainText" : "Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call thee, and thou eat of his sacrifice;"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "2512",
+      "text": "Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and <span class='extra'>one</span> call thee, and thou eat of his sacrifice;",
+      "plainText": "Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call thee, and thou eat of his sacrifice;"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "2513",
-      "text" : "And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods.",
-      "plainText" : "And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "2513",
+      "text": "And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods.",
+      "plainText": "And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "2514",
-      "text" : "Thou shalt make thee no molten gods.",
-      "plainText" : "Thou shalt make thee no molten gods."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "2514",
+      "text": "Thou shalt make thee no molten gods.",
+      "plainText": "Thou shalt make thee no molten gods."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "2515",
-      "text" : "The feast of unleavened bread shalt thou keep. Seven days thou shalt eat unleavened bread, as I commanded thee, in the time of the month Abib: for in the month Abib thou camest out from Egypt.",
-      "plainText" : "The feast of unleavened bread shalt thou keep. Seven days thou shalt eat unleavened bread, as I commanded thee, in the time of the month Abib: for in the month Abib thou camest out from Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "2515",
+      "text": "The feast of unleavened bread shalt thou keep. Seven days thou shalt eat unleavened bread, as I commanded thee, in the time of the month Abib: for in the month Abib thou camest out from Egypt.",
+      "plainText": "The feast of unleavened bread shalt thou keep. Seven days thou shalt eat unleavened bread, as I commanded thee, in the time of the month Abib: for in the month Abib thou camest out from Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "2516",
-      "text" : "All that openeth the matrix <span class='extra'>is<\/span> mine; and every firstling among thy cattle, <span class='extra'>whether<\/span> ox or sheep, <span class='extra'>that is male<\/span>.",
-      "plainText" : "All that openeth the matrix is mine; and every firstling among thy cattle, whether ox or sheep, that is male."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "2516",
+      "text": "All that openeth the matrix <span class='extra'>is</span> mine; and every firstling among thy cattle, <span class='extra'>whether</span> ox or sheep, <span class='extra'>that is male</span>.",
+      "plainText": "All that openeth the matrix is mine; and every firstling among thy cattle, whether ox or sheep, that is male."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "2517",
-      "text" : "But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem <span class='extra'>him<\/span> not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty.",
-      "plainText" : "But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem him not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "2517",
+      "text": "But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem <span class='extra'>him</span> not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty.",
+      "plainText": "But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem him not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "2518",
-      "text" : "Six days thou shalt work, but on the seventh day thou shalt rest: in earing time and in harvest thou shalt rest.",
-      "plainText" : "Six days thou shalt work, but on the seventh day thou shalt rest: in earing time and in harvest thou shalt rest."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "2518",
+      "text": "Six days thou shalt work, but on the seventh day thou shalt rest: in earing time and in harvest thou shalt rest.",
+      "plainText": "Six days thou shalt work, but on the seventh day thou shalt rest: in earing time and in harvest thou shalt rest."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "2519",
-      "text" : "And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year's end.",
-      "plainText" : "And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year's end."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "2519",
+      "text": "And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year's end.",
+      "plainText": "And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year's end."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "2520",
-      "text" : "Thrice in the year shall all your men children appear before the Lord <span class='nog'>GOD<\/span>, the God of Israel.",
-      "plainText" : "Thrice in the year shall all your men children appear before the Lord GOD, the God of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "2520",
+      "text": "Thrice in the year shall all your men children appear before the Lord <span class='nog'>GOD</span>, the God of Israel.",
+      "plainText": "Thrice in the year shall all your men children appear before the Lord GOD, the God of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "2521",
-      "text" : "For I will cast out the nations before thee, and enlarge thy borders: neither shall any man desire thy land, when thou shalt go up to appear before the <span class='nog'>LORD<\/span> thy God thrice in the year.",
-      "plainText" : "For I will cast out the nations before thee, and enlarge thy borders: neither shall any man desire thy land, when thou shalt go up to appear before the LORD thy God thrice in the year."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "2521",
+      "text": "For I will cast out the nations before thee, and enlarge thy borders: neither shall any man desire thy land, when thou shalt go up to appear before the <span class='nog'>LORD</span> thy God thrice in the year.",
+      "plainText": "For I will cast out the nations before thee, and enlarge thy borders: neither shall any man desire thy land, when thou shalt go up to appear before the LORD thy God thrice in the year."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "2522",
-      "text" : "Thou shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning.",
-      "plainText" : "Thou shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "2522",
+      "text": "Thou shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning.",
+      "plainText": "Thou shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "2523",
-      "text" : "The first of the firstfruits of thy land thou shalt bring unto the house of the <span class='nog'>LORD<\/span> thy God. Thou shalt not seethe a kid in his mother's milk.",
-      "plainText" : "The first of the firstfruits of thy land thou shalt bring unto the house of the LORD thy God. Thou shalt not seethe a kid in his mother's milk."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "2523",
+      "text": "The first of the firstfruits of thy land thou shalt bring unto the house of the <span class='nog'>LORD</span> thy God. Thou shalt not seethe a kid in his mother's milk.",
+      "plainText": "The first of the firstfruits of thy land thou shalt bring unto the house of the LORD thy God. Thou shalt not seethe a kid in his mother's milk."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "2524",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto Moses, Write thou these words: for after the tenor of these words I have made a covenant with thee and with Israel.",
-      "plainText" : "And the LORD said unto Moses, Write thou these words: for after the tenor of these words I have made a covenant with thee and with Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "2524",
+      "text": "And the <span class='nog'>LORD</span> said unto Moses, Write thou these words: for after the tenor of these words I have made a covenant with thee and with Israel.",
+      "plainText": "And the LORD said unto Moses, Write thou these words: for after the tenor of these words I have made a covenant with thee and with Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "2525",
-      "text" : "And he was there with the <span class='nog'>LORD<\/span> forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments.",
-      "plainText" : "And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "2525",
+      "text": "And he was there with the <span class='nog'>LORD</span> forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments.",
+      "plainText": "And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "2526",
-      "text" : "And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses' hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him.",
-      "plainText" : "And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses' hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "2526",
+      "text": "And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses' hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him.",
+      "plainText": "And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses' hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "2527",
-      "text" : "And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him.",
-      "plainText" : "And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "2527",
+      "text": "And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him.",
+      "plainText": "And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "2528",
-      "text" : "And Moses called unto them; and Aaron and all the rulers of the congregation returned unto him: and Moses talked with them.",
-      "plainText" : "And Moses called unto them; and Aaron and all the rulers of the congregation returned unto him: and Moses talked with them."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "2528",
+      "text": "And Moses called unto them; and Aaron and all the rulers of the congregation returned unto him: and Moses talked with them.",
+      "plainText": "And Moses called unto them; and Aaron and all the rulers of the congregation returned unto him: and Moses talked with them."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "2529",
-      "text" : "And afterward all the children of Israel came nigh: and he gave them in commandment all that the <span class='nog'>LORD<\/span> had spoken with him in mount Sinai.",
-      "plainText" : "And afterward all the children of Israel came nigh: and he gave them in commandment all that the LORD had spoken with him in mount Sinai."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "2529",
+      "text": "And afterward all the children of Israel came nigh: and he gave them in commandment all that the <span class='nog'>LORD</span> had spoken with him in mount Sinai.",
+      "plainText": "And afterward all the children of Israel came nigh: and he gave them in commandment all that the LORD had spoken with him in mount Sinai."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "2530",
-      "text" : "And <span class='extra'>till<\/span> Moses had done speaking with them, he put a vail on his face.",
-      "plainText" : "And till Moses had done speaking with them, he put a vail on his face."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "2530",
+      "text": "And <span class='extra'>till</span> Moses had done speaking with them, he put a vail on his face.",
+      "plainText": "And till Moses had done speaking with them, he put a vail on his face."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "2531",
-      "text" : "But when Moses went in before the <span class='nog'>LORD<\/span> to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel <span class='extra'>that<\/span> which he was commanded.",
-      "plainText" : "But when Moses went in before the LORD to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel that which he was commanded."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "2531",
+      "text": "But when Moses went in before the <span class='nog'>LORD</span> to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel <span class='extra'>that</span> which he was commanded.",
+      "plainText": "But when Moses went in before the LORD to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel that which he was commanded."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "2532",
-      "text" : "And the children of Israel saw the face of Moses, that the skin of Moses' face shone: and Moses put the vail upon his face again, until he went in to speak with him.",
-      "plainText" : "And the children of Israel saw the face of Moses, that the skin of Moses' face shone: and Moses put the vail upon his face again, until he went in to speak with him."
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "2532",
+      "text": "And the children of Israel saw the face of Moses, that the skin of Moses' face shone: and Moses put the vail upon his face again, until he went in to speak with him.",
+      "plainText": "And the children of Israel saw the face of Moses, that the skin of Moses' face shone: and Moses put the vail upon his face again, until he went in to speak with him."
     }
   ]
 }
-
-

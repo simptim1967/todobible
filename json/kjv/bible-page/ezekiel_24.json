@@ -1,273 +1,245 @@
 {
   "book": {
-    "number" : "26",
-    "filenamePrefix" : "ezekiel",
-    "bookPage" : "ezekiel.html",
-    "title" : "Ezekiel",
-    "chapterCount" : "48",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "daniel_1.html",
-    "nextTitle" : "Daniel",
-    "prevBook" : "lamentations_1.html",
-    "prevTitle" : "Lamentations"
+    "number": "26",
+    "filenamePrefix": "ezekiel",
+    "bookPage": "ezekiel.html",
+    "title": "Ezekiel",
+    "chapterCount": "48",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "daniel_1.html",
+    "nextTitle": "Daniel",
+    "prevBook": "lamentations_1.html",
+    "prevTitle": "Lamentations",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "24",
-    "verseCount" : "27",
-    "nextChapter" : "ezekiel_25.html",
-    "nextTitle" : "Ezekiel 25",
-    "prevChapter" : "ezekiel_23.html",
-    "prevTitle" : "Ezekiel 23",
-    "filename" : "ezekiel_24.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "24",
+    "verseCount": "27",
+    "nextChapter": "ezekiel_25.html",
+    "nextTitle": "Ezekiel 25",
+    "prevChapter": "ezekiel_23.html",
+    "prevTitle": "Ezekiel 23",
+    "filename": "ezekiel_24.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "21058",
-      "text" : "Again in the ninth year, in the tenth month, in the tenth <span class='extra'>day<\/span> of the month, the word of the <span class='nog'>LORD<\/span> came unto me, saying,",
-      "plainText" : "Again in the ninth year, in the tenth month, in the tenth day of the month, the word of the LORD came unto me, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "21058",
+      "text": "Again in the ninth year, in the tenth month, in the tenth <span class='extra'>day</span> of the month, the word of the <span class='nog'>LORD</span> came unto me, saying,",
+      "plainText": "Again in the ninth year, in the tenth month, in the tenth day of the month, the word of the LORD came unto me, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "21059",
-      "text" : "Son of man, write thee the name of the day, <span class='extra'>even<\/span> of this same day: the king of Babylon set himself against Jerusalem this same day.",
-      "plainText" : "Son of man, write thee the name of the day, even of this same day: the king of Babylon set himself against Jerusalem this same day."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "21059",
+      "text": "Son of man, write thee the name of the day, <span class='extra'>even</span> of this same day: the king of Babylon set himself against Jerusalem this same day.",
+      "plainText": "Son of man, write thee the name of the day, even of this same day: the king of Babylon set himself against Jerusalem this same day."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "21060",
-      "text" : "And utter a parable unto the rebellious house, and say unto them, Thus saith the Lord <span class='nog'>GOD<\/span>; Set on a pot, set <span class='extra'>it<\/span> on, and also pour water into it:",
-      "plainText" : "And utter a parable unto the rebellious house, and say unto them, Thus saith the Lord GOD; Set on a pot, set it on, and also pour water into it:"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "21060",
+      "text": "And utter a parable unto the rebellious house, and say unto them, Thus saith the Lord <span class='nog'>GOD</span>; Set on a pot, set <span class='extra'>it</span> on, and also pour water into it:",
+      "plainText": "And utter a parable unto the rebellious house, and say unto them, Thus saith the Lord GOD; Set on a pot, set it on, and also pour water into it:"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "21061",
-      "text" : "Gather the pieces thereof into it, <span class='extra'>even<\/span> every good piece, the thigh, and the shoulder; fill <span class='extra'>it<\/span> with the choice bones.",
-      "plainText" : "Gather the pieces thereof into it, even every good piece, the thigh, and the shoulder; fill it with the choice bones."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "21061",
+      "text": "Gather the pieces thereof into it, <span class='extra'>even</span> every good piece, the thigh, and the shoulder; fill <span class='extra'>it</span> with the choice bones.",
+      "plainText": "Gather the pieces thereof into it, even every good piece, the thigh, and the shoulder; fill it with the choice bones."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "21062",
-      "text" : "Take the choice of the flock, and burn also the bones under it, <span class='extra'>and<\/span> make it boil well, and let them seethe the bones of it therein.",
-      "plainText" : "Take the choice of the flock, and burn also the bones under it, and make it boil well, and let them seethe the bones of it therein."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "21062",
+      "text": "Take the choice of the flock, and burn also the bones under it, <span class='extra'>and</span> make it boil well, and let them seethe the bones of it therein.",
+      "plainText": "Take the choice of the flock, and burn also the bones under it, and make it boil well, and let them seethe the bones of it therein."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "21063",
-      "text" : "Wherefore thus saith the Lord <span class='nog'>GOD<\/span>; Woe to the bloody city, to the pot whose scum <span class='extra'>is<\/span> therein, and whose scum is not gone out of it! bring it out piece by piece; let no lot fall upon it.",
-      "plainText" : "Wherefore thus saith the Lord GOD; Woe to the bloody city, to the pot whose scum is therein, and whose scum is not gone out of it! bring it out piece by piece; let no lot fall upon it."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "21063",
+      "text": "Wherefore thus saith the Lord <span class='nog'>GOD</span>; Woe to the bloody city, to the pot whose scum <span class='extra'>is</span> therein, and whose scum is not gone out of it! bring it out piece by piece; let no lot fall upon it.",
+      "plainText": "Wherefore thus saith the Lord GOD; Woe to the bloody city, to the pot whose scum is therein, and whose scum is not gone out of it! bring it out piece by piece; let no lot fall upon it."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "21064",
-      "text" : "For her blood is in the midst of her; she set it upon the top of a rock; she poured it not upon the ground, to cover it with dust;",
-      "plainText" : "For her blood is in the midst of her; she set it upon the top of a rock; she poured it not upon the ground, to cover it with dust;"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "21064",
+      "text": "For her blood is in the midst of her; she set it upon the top of a rock; she poured it not upon the ground, to cover it with dust;",
+      "plainText": "For her blood is in the midst of her; she set it upon the top of a rock; she poured it not upon the ground, to cover it with dust;"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "21065",
-      "text" : "That it might cause fury to come up to take vengeance; I have set her blood upon the top of a rock, that it should not be covered.",
-      "plainText" : "That it might cause fury to come up to take vengeance; I have set her blood upon the top of a rock, that it should not be covered."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "21065",
+      "text": "That it might cause fury to come up to take vengeance; I have set her blood upon the top of a rock, that it should not be covered.",
+      "plainText": "That it might cause fury to come up to take vengeance; I have set her blood upon the top of a rock, that it should not be covered."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "21066",
-      "text" : "Therefore thus saith the Lord <span class='nog'>GOD<\/span>; Woe to the bloody city! I will even make the pile for fire great.",
-      "plainText" : "Therefore thus saith the Lord GOD; Woe to the bloody city! I will even make the pile for fire great."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "21066",
+      "text": "Therefore thus saith the Lord <span class='nog'>GOD</span>; Woe to the bloody city! I will even make the pile for fire great.",
+      "plainText": "Therefore thus saith the Lord GOD; Woe to the bloody city! I will even make the pile for fire great."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "21067",
-      "text" : "Heap on wood, kindle the fire, consume the flesh, and spice it well, and let the bones be burned.",
-      "plainText" : "Heap on wood, kindle the fire, consume the flesh, and spice it well, and let the bones be burned."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "21067",
+      "text": "Heap on wood, kindle the fire, consume the flesh, and spice it well, and let the bones be burned.",
+      "plainText": "Heap on wood, kindle the fire, consume the flesh, and spice it well, and let the bones be burned."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "21068",
-      "text" : "Then set it empty upon the coals thereof, that the brass of it may be hot, and may burn, and <span class='extra'>that<\/span> the filthiness of it may be molten in it, <span class='extra'>that<\/span> the scum of it may be consumed.",
-      "plainText" : "Then set it empty upon the coals thereof, that the brass of it may be hot, and may burn, and that the filthiness of it may be molten in it, that the scum of it may be consumed."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "21068",
+      "text": "Then set it empty upon the coals thereof, that the brass of it may be hot, and may burn, and <span class='extra'>that</span> the filthiness of it may be molten in it, <span class='extra'>that</span> the scum of it may be consumed.",
+      "plainText": "Then set it empty upon the coals thereof, that the brass of it may be hot, and may burn, and that the filthiness of it may be molten in it, that the scum of it may be consumed."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "21069",
-      "text" : "She hath wearied <span class='extra'>herself<\/span> with lies, and her great scum went not forth out of her: her scum <span class='extra'>shall be<\/span> in the fire.",
-      "plainText" : "She hath wearied herself with lies, and her great scum went not forth out of her: her scum shall be in the fire."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "21069",
+      "text": "She hath wearied <span class='extra'>herself</span> with lies, and her great scum went not forth out of her: her scum <span class='extra'>shall be</span> in the fire.",
+      "plainText": "She hath wearied herself with lies, and her great scum went not forth out of her: her scum shall be in the fire."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "21070",
-      "text" : "In thy filthiness <span class='extra'>is<\/span> lewdness: because I have purged thee, and thou wast not purged, thou shalt not be purged from thy filthiness any more, till I have caused my fury to rest upon thee.",
-      "plainText" : "In thy filthiness is lewdness: because I have purged thee, and thou wast not purged, thou shalt not be purged from thy filthiness any more, till I have caused my fury to rest upon thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "21070",
+      "text": "In thy filthiness <span class='extra'>is</span> lewdness: because I have purged thee, and thou wast not purged, thou shalt not be purged from thy filthiness any more, till I have caused my fury to rest upon thee.",
+      "plainText": "In thy filthiness is lewdness: because I have purged thee, and thou wast not purged, thou shalt not be purged from thy filthiness any more, till I have caused my fury to rest upon thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "21071",
-      "text" : "I the <span class='nog'>LORD<\/span> have spoken <span class='extra'>it<\/span>: it shall come to pass, and I will do <span class='extra'>it<\/span>; I will not go back, neither will I spare, neither will I repent; according to thy ways, and according to thy doings, shall they judge thee, saith the Lord <span class='nog'>GOD<\/span>.",
-      "plainText" : "I the LORD have spoken it: it shall come to pass, and I will do it; I will not go back, neither will I spare, neither will I repent; according to thy ways, and according to thy doings, shall they judge thee, saith the Lord GOD."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "21071",
+      "text": "I the <span class='nog'>LORD</span> have spoken <span class='extra'>it</span>: it shall come to pass, and I will do <span class='extra'>it</span>; I will not go back, neither will I spare, neither will I repent; according to thy ways, and according to thy doings, shall they judge thee, saith the Lord <span class='nog'>GOD</span>.",
+      "plainText": "I the LORD have spoken it: it shall come to pass, and I will do it; I will not go back, neither will I spare, neither will I repent; according to thy ways, and according to thy doings, shall they judge thee, saith the Lord GOD."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "21072",
-      "text" : "Also the word of the <span class='nog'>LORD<\/span> came unto me, saying,",
-      "plainText" : "Also the word of the LORD came unto me, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "21072",
+      "text": "Also the word of the <span class='nog'>LORD</span> came unto me, saying,",
+      "plainText": "Also the word of the LORD came unto me, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "21073",
-      "text" : "Son of man, behold, I take away from thee the desire of thine eyes with a stroke: yet neither shalt thou mourn nor weep, neither shall thy tears run down.",
-      "plainText" : "Son of man, behold, I take away from thee the desire of thine eyes with a stroke: yet neither shalt thou mourn nor weep, neither shall thy tears run down."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "21073",
+      "text": "Son of man, behold, I take away from thee the desire of thine eyes with a stroke: yet neither shalt thou mourn nor weep, neither shall thy tears run down.",
+      "plainText": "Son of man, behold, I take away from thee the desire of thine eyes with a stroke: yet neither shalt thou mourn nor weep, neither shall thy tears run down."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "21074",
-      "text" : "Forbear to cry, make no mourning for the dead, bind the tire of thine head upon thee, and put on thy shoes upon thy feet, and cover not <span class='extra'>thy<\/span> lips, and eat not the bread of men.",
-      "plainText" : "Forbear to cry, make no mourning for the dead, bind the tire of thine head upon thee, and put on thy shoes upon thy feet, and cover not thy lips, and eat not the bread of men."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "21074",
+      "text": "Forbear to cry, make no mourning for the dead, bind the tire of thine head upon thee, and put on thy shoes upon thy feet, and cover not <span class='extra'>thy</span> lips, and eat not the bread of men.",
+      "plainText": "Forbear to cry, make no mourning for the dead, bind the tire of thine head upon thee, and put on thy shoes upon thy feet, and cover not thy lips, and eat not the bread of men."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "21075",
-      "text" : "So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded.",
-      "plainText" : "So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "21075",
+      "text": "So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded.",
+      "plainText": "So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "21076",
-      "text" : "And the people said unto me, Wilt thou not tell us what these <span class='extra'>things are<\/span> to us, that thou doest <span class='extra'>so<\/span>?",
-      "plainText" : "And the people said unto me, Wilt thou not tell us what these things are to us, that thou doest so?"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "21076",
+      "text": "And the people said unto me, Wilt thou not tell us what these <span class='extra'>things are</span> to us, that thou doest <span class='extra'>so</span>?",
+      "plainText": "And the people said unto me, Wilt thou not tell us what these things are to us, that thou doest so?"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "21077",
-      "text" : "Then I answered them, The word of the <span class='nog'>LORD<\/span> came unto me, saying,",
-      "plainText" : "Then I answered them, The word of the LORD came unto me, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "21077",
+      "text": "Then I answered them, The word of the <span class='nog'>LORD</span> came unto me, saying,",
+      "plainText": "Then I answered them, The word of the LORD came unto me, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "21078",
-      "text" : "Speak unto the house of Israel, Thus saith the Lord <span class='nog'>GOD<\/span>; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword.",
-      "plainText" : "Speak unto the house of Israel, Thus saith the Lord GOD; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "21078",
+      "text": "Speak unto the house of Israel, Thus saith the Lord <span class='nog'>GOD</span>; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword.",
+      "plainText": "Speak unto the house of Israel, Thus saith the Lord GOD; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "21079",
-      "text" : "And ye shall do as I have done: ye shall not cover <span class='extra'>your<\/span> lips, nor eat the bread of men.",
-      "plainText" : "And ye shall do as I have done: ye shall not cover your lips, nor eat the bread of men."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "21079",
+      "text": "And ye shall do as I have done: ye shall not cover <span class='extra'>your</span> lips, nor eat the bread of men.",
+      "plainText": "And ye shall do as I have done: ye shall not cover your lips, nor eat the bread of men."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "21080",
-      "text" : "And your tires <span class='extra'>shall be<\/span> upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another.",
-      "plainText" : "And your tires shall be upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "21080",
+      "text": "And your tires <span class='extra'>shall be</span> upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another.",
+      "plainText": "And your tires shall be upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "21081",
-      "text" : "Thus Ezekiel is unto you a sign: according to all that he hath done shall ye do: and when this cometh, ye shall know that I <span class='extra'>am<\/span> the Lord <span class='nog'>GOD<\/span>.",
-      "plainText" : "Thus Ezekiel is unto you a sign: according to all that he hath done shall ye do: and when this cometh, ye shall know that I am the Lord GOD."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "21081",
+      "text": "Thus Ezekiel is unto you a sign: according to all that he hath done shall ye do: and when this cometh, ye shall know that I <span class='extra'>am</span> the Lord <span class='nog'>GOD</span>.",
+      "plainText": "Thus Ezekiel is unto you a sign: according to all that he hath done shall ye do: and when this cometh, ye shall know that I am the Lord GOD."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "21082",
-      "text" : "Also, thou son of man, <span class='extra'>shall it<\/span> not <span class='extra'>be<\/span> in the day when I take from them their strength, the joy of their glory, the desire of their eyes, and that whereupon they set their minds, their sons and their daughters,",
-      "plainText" : "Also, thou son of man, shall it not be in the day when I take from them their strength, the joy of their glory, the desire of their eyes, and that whereupon they set their minds, their sons and their daughters,"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "21082",
+      "text": "Also, thou son of man, <span class='extra'>shall it</span> not <span class='extra'>be</span> in the day when I take from them their strength, the joy of their glory, the desire of their eyes, and that whereupon they set their minds, their sons and their daughters,",
+      "plainText": "Also, thou son of man, shall it not be in the day when I take from them their strength, the joy of their glory, the desire of their eyes, and that whereupon they set their minds, their sons and their daughters,"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "21083",
-      "text" : "<span class='extra'>That<\/span> he that escapeth in that day shall come unto thee, to cause <span class='extra'>thee<\/span> to hear <span class='extra'>it<\/span> with <span class='extra'>thine<\/span> ears?",
-      "plainText" : "That he that escapeth in that day shall come unto thee, to cause thee to hear it with thine ears?"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "21083",
+      "text": "<span class='extra'>That</span> he that escapeth in that day shall come unto thee, to cause <span class='extra'>thee</span> to hear <span class='extra'>it</span> with <span class='extra'>thine</span> ears?",
+      "plainText": "That he that escapeth in that day shall come unto thee, to cause thee to hear it with thine ears?"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "21084",
-      "text" : "In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>.",
-      "plainText" : "In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I am the LORD."
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "21084",
+      "text": "In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I <span class='extra'>am</span> the <span class='nog'>LORD</span>.",
+      "plainText": "In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I am the LORD."
     }
   ]
 }
-
-
-

@@ -1,622 +1,557 @@
 {
   "book": {
-    "number" : "40",
-    "filenamePrefix" : "matthew",
-    "bookPage" : "matthew.html",
-    "title" : "Matthew",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "mark_1.html",
-    "nextTitle" : "Mark",
-    "prevBook" : "malachi_1.html",
-    "prevTitle" : "Malachi"
+    "number": "40",
+    "filenamePrefix": "matthew",
+    "bookPage": "matthew.html",
+    "title": "Matthew",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "mark_1.html",
+    "nextTitle": "Mark",
+    "prevBook": "malachi_1.html",
+    "prevTitle": "Malachi",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "27",
-    "verseCount" : "66",
-    "nextChapter" : "matthew_28.html",
-    "nextTitle" : "Matthew 28",
-    "prevChapter" : "matthew_26.html",
-    "prevTitle" : "Matthew 26",
-    "filename" : "matthew_27.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "27",
+    "verseCount": "66",
+    "nextChapter": "matthew_28.html",
+    "nextTitle": "Matthew 28",
+    "prevChapter": "matthew_26.html",
+    "prevTitle": "Matthew 26",
+    "filename": "matthew_27.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "24131",
-      "text" : "When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:",
-      "plainText" : "When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "24132",
-      "text" : "And when they had bound him, they led <span class='extra'>him<\/span> away, and delivered him to Pontius Pilate the governor.",
-      "plainText" : "And when they had bound him, they led him away, and delivered him to Pontius Pilate the governor."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "24133",
-      "text" : "Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,",
-      "plainText" : "Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "24134",
-      "text" : "Saying, I have sinned in that I have betrayed the innocent blood. And they said, What <span class='extra'>is that<\/span> to us? see thou <span class='extra'>to that<\/span>.",
-      "plainText" : "Saying, I have sinned in that I have betrayed the innocent blood. And they said, What is that to us? see thou to that."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "24135",
-      "text" : "And he cast down the pieces of silver in the temple, and departed, and went and hanged himself.",
-      "plainText" : "And he cast down the pieces of silver in the temple, and departed, and went and hanged himself."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "24136",
-      "text" : "And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood.",
-      "plainText" : "And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "24137",
-      "text" : "And they took counsel, and bought with them the potter's field, to bury strangers in.",
-      "plainText" : "And they took counsel, and bought with them the potter's field, to bury strangers in."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "24138",
-      "text" : "Wherefore that field was called, The field of blood, unto this day.",
-      "plainText" : "Wherefore that field was called, The field of blood, unto this day."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "24139",
-      "text" : "Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;",
-      "plainText" : "Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "24140",
-      "text" : "And gave them for the potter's field, as the Lord appointed me.",
-      "plainText" : "And gave them for the potter's field, as the Lord appointed me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "24141",
-      "text" : "And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, <span class='woc'>Thou sayest.<\/span>",
-      "plainText" : "And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "24142",
-      "text" : "And when he was accused of the chief priests and elders, he answered nothing.",
-      "plainText" : "And when he was accused of the chief priests and elders, he answered nothing."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "24143",
-      "text" : "Then said Pilate unto him, Hearest thou not how many things they witness against thee?",
-      "plainText" : "Then said Pilate unto him, Hearest thou not how many things they witness against thee?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "24144",
-      "text" : "And he answered him to never a word; insomuch that the governor marvelled greatly.",
-      "plainText" : "And he answered him to never a word; insomuch that the governor marvelled greatly."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "24145",
-      "text" : "Now at <span class='extra'>that<\/span> feast the governor was wont to release unto the people a prisoner, whom they would.",
-      "plainText" : "Now at that feast the governor was wont to release unto the people a prisoner, whom they would."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "24146",
-      "text" : "And they had then a notable prisoner, called Barabbas.",
-      "plainText" : "And they had then a notable prisoner, called Barabbas."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "24147",
-      "text" : "Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?",
-      "plainText" : "Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "24148",
-      "text" : "For he knew that for envy they had delivered him.",
-      "plainText" : "For he knew that for envy they had delivered him."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "24149",
-      "text" : "When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him.",
-      "plainText" : "When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "24150",
-      "text" : "But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus.",
-      "plainText" : "But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "24151",
-      "text" : "The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas.",
-      "plainText" : "The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "24152",
-      "text" : "Pilate saith unto them, What shall I do then with Jesus which is called Christ? <span class='extra'>They<\/span> all say unto him, Let him be crucified.",
-      "plainText" : "Pilate saith unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "24153",
-      "text" : "And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified.",
-      "plainText" : "And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "24154",
-      "text" : "When Pilate saw that he could prevail nothing, but <span class='extra'>that<\/span> rather a tumult was made, he took water, and washed <span class='extra'>his<\/span> hands before the multitude, saying, I am innocent of the blood of this just person: see ye <span class='extra'>to it<\/span>.",
-      "plainText" : "When Pilate saw that he could prevail nothing, but that rather a tumult was made, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this just person: see ye to it."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "24155",
-      "text" : "Then answered all the people, and said, His blood <span class='extra'>be<\/span> on us, and on our children.",
-      "plainText" : "Then answered all the people, and said, His blood be on us, and on our children."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "24156",
-      "text" : "Then released he Barabbas unto them: and when he had scourged Jesus, he delivered <span class='extra'>him<\/span> to be crucified.",
-      "plainText" : "Then released he Barabbas unto them: and when he had scourged Jesus, he delivered him to be crucified."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "24157",
-      "text" : "Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band <span class='extra'>of soldiers<\/span>.",
-      "plainText" : "Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band of soldiers."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "24158",
-      "text" : "And they stripped him, and put on him a scarlet robe.",
-      "plainText" : "And they stripped him, and put on him a scarlet robe."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "24159",
-      "text" : "And when they had platted a crown of thorns, they put <span class='extra'>it<\/span> upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!",
-      "plainText" : "And when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "24160",
-      "text" : "And they spit upon him, and took the reed, and smote him on the head.",
-      "plainText" : "And they spit upon him, and took the reed, and smote him on the head."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "24161",
-      "text" : "And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify <span class='extra'>him<\/span>.",
-      "plainText" : "And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify him."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "24162",
-      "text" : "And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.",
-      "plainText" : "And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "24163",
-      "text" : "And when they were come unto a place called Golgotha, that is to say, a place of a skull,",
-      "plainText" : "And when they were come unto a place called Golgotha, that is to say, a place of a skull,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "24164",
-      "text" : "They gave him vinegar to drink mingled with gall: and when he had tasted <span class='extra'>thereof<\/span>, he would not drink.",
-      "plainText" : "They gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "24165",
-      "text" : "And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots.",
-      "plainText" : "And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "24166",
-      "text" : "And sitting down they watched him there;",
-      "plainText" : "And sitting down they watched him there;"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "24167",
-      "text" : "And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS.",
-      "plainText" : "And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "24168",
-      "text" : "Then were there two thieves crucified with him, one on the right hand, and another on the left.",
-      "plainText" : "Then were there two thieves crucified with him, one on the right hand, and another on the left."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "24169",
-      "text" : "And they that passed by reviled him, wagging their heads,",
-      "plainText" : "And they that passed by reviled him, wagging their heads,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "24170",
-      "text" : "And saying, Thou that destroyest the temple, and buildest <span class='extra'>it<\/span> in three days, save thyself. If thou be the Son of God, come down from the cross.",
-      "plainText" : "And saying, Thou that destroyest the temple, and buildest it in three days, save thyself. If thou be the Son of God, come down from the cross."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "24171",
-      "text" : "Likewise also the chief priests mocking <span class='extra'>him<\/span>, with the scribes and elders, said,",
-      "plainText" : "Likewise also the chief priests mocking him, with the scribes and elders, said,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "24172",
-      "text" : "He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him.",
-      "plainText" : "He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "24173",
-      "text" : "He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God.",
-      "plainText" : "He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "24174",
-      "text" : "The thieves also, which were crucified with him, cast the same in his teeth.",
-      "plainText" : "The thieves also, which were crucified with him, cast the same in his teeth."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "24175",
-      "text" : "Now from the sixth hour there was darkness over all the land unto the ninth hour.",
-      "plainText" : "Now from the sixth hour there was darkness over all the land unto the ninth hour."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "24176",
-      "text" : "And about the ninth hour Jesus cried with a loud voice, saying, <span class='woc'>Eli, Eli, lama sabachthani?<\/span> that is to say, <span class='woc'>My God, my God, why hast thou forsaken me?<\/span>",
-      "plainText" : "And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "24177",
-      "text" : "Some of them that stood there, when they heard <span class='extra'>that<\/span>, said, This <span class='extra'>man<\/span> calleth for Elias.",
-      "plainText" : "Some of them that stood there, when they heard that, said, This man calleth for Elias."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "24178",
-      "text" : "And straightway one of them ran, and took a spunge, and filled <span class='extra'>it<\/span> with vinegar, and put <span class='extra'>it<\/span> on a reed, and gave him to drink.",
-      "plainText" : "And straightway one of them ran, and took a spunge, and filled it with vinegar, and put it on a reed, and gave him to drink."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "24179",
-      "text" : "The rest said, Let be, let us see whether Elias will come to save him.",
-      "plainText" : "The rest said, Let be, let us see whether Elias will come to save him."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v50",
-      "number" : "50",
-      "absolute" : "24180",
-      "text" : "Jesus, when he had cried again with a loud voice, yielded up the ghost.",
-      "plainText" : "Jesus, when he had cried again with a loud voice, yielded up the ghost."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v51",
-      "number" : "51",
-      "absolute" : "24181",
-      "text" : "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;",
-      "plainText" : "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v52",
-      "number" : "52",
-      "absolute" : "24182",
-      "text" : "And the graves were opened; and many bodies of the saints which slept arose,",
-      "plainText" : "And the graves were opened; and many bodies of the saints which slept arose,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v53",
-      "number" : "53",
-      "absolute" : "24183",
-      "text" : "And came out of the graves after his resurrection, and went into the holy city, and appeared unto many.",
-      "plainText" : "And came out of the graves after his resurrection, and went into the holy city, and appeared unto many."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v54",
-      "number" : "54",
-      "absolute" : "24184",
-      "text" : "Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.",
-      "plainText" : "Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v55",
-      "number" : "55",
-      "absolute" : "24185",
-      "text" : "And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:",
-      "plainText" : "And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v56",
-      "number" : "56",
-      "absolute" : "24186",
-      "text" : "Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedee's children.",
-      "plainText" : "Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedee's children."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v57",
-      "number" : "57",
-      "absolute" : "24187",
-      "text" : "When the even was come, there came a rich man of Arimathaea, named Joseph, who also himself was Jesus' disciple:",
-      "plainText" : "When the even was come, there came a rich man of Arimathaea, named Joseph, who also himself was Jesus' disciple:"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v58",
-      "number" : "58",
-      "absolute" : "24188",
-      "text" : "He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered.",
-      "plainText" : "He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v59",
-      "number" : "59",
-      "absolute" : "24189",
-      "text" : "And when Joseph had taken the body, he wrapped it in a clean linen cloth,",
-      "plainText" : "And when Joseph had taken the body, he wrapped it in a clean linen cloth,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v60",
-      "number" : "60",
-      "absolute" : "24190",
-      "text" : "And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed.",
-      "plainText" : "And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v61",
-      "number" : "61",
-      "absolute" : "24191",
-      "text" : "And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre.",
-      "plainText" : "And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v62",
-      "number" : "62",
-      "absolute" : "24192",
-      "text" : "Now the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,",
-      "plainText" : "Now the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v63",
-      "number" : "63",
-      "absolute" : "24193",
-      "text" : "Saying, Sir, we remember that that deceiver said, while he was yet alive, <span class='woc'>After three days I will rise again.<\/span>",
-      "plainText" : "Saying, Sir, we remember that that deceiver said, while he was yet alive, After three days I will rise again."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v64",
-      "number" : "64",
-      "absolute" : "24194",
-      "text" : "Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first.",
-      "plainText" : "Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v65",
-      "number" : "65",
-      "absolute" : "24195",
-      "text" : "Pilate said unto them, Ye have a watch: go your way, make <span class='extra'>it<\/span> as sure as ye can.",
-      "plainText" : "Pilate said unto them, Ye have a watch: go your way, make it as sure as ye can."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v66",
-      "number" : "66",
-      "absolute" : "24196",
-      "text" : "So they went, and made the sepulchre sure, sealing the stone, and setting a watch.",
-      "plainText" : "So they went, and made the sepulchre sure, sealing the stone, and setting a watch."
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "24131",
+      "text": "When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:",
+      "plainText": "When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:"
+    },
+    {
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "24132",
+      "text": "And when they had bound him, they led <span class='extra'>him</span> away, and delivered him to Pontius Pilate the governor.",
+      "plainText": "And when they had bound him, they led him away, and delivered him to Pontius Pilate the governor."
+    },
+    {
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "24133",
+      "text": "Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,",
+      "plainText": "Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,"
+    },
+    {
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "24134",
+      "text": "Saying, I have sinned in that I have betrayed the innocent blood. And they said, What <span class='extra'>is that</span> to us? see thou <span class='extra'>to that</span>.",
+      "plainText": "Saying, I have sinned in that I have betrayed the innocent blood. And they said, What is that to us? see thou to that."
+    },
+    {
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "24135",
+      "text": "And he cast down the pieces of silver in the temple, and departed, and went and hanged himself.",
+      "plainText": "And he cast down the pieces of silver in the temple, and departed, and went and hanged himself."
+    },
+    {
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "24136",
+      "text": "And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood.",
+      "plainText": "And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood."
+    },
+    {
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "24137",
+      "text": "And they took counsel, and bought with them the potter's field, to bury strangers in.",
+      "plainText": "And they took counsel, and bought with them the potter's field, to bury strangers in."
+    },
+    {
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "24138",
+      "text": "Wherefore that field was called, The field of blood, unto this day.",
+      "plainText": "Wherefore that field was called, The field of blood, unto this day."
+    },
+    {
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "24139",
+      "text": "Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;",
+      "plainText": "Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;"
+    },
+    {
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "24140",
+      "text": "And gave them for the potter's field, as the Lord appointed me.",
+      "plainText": "And gave them for the potter's field, as the Lord appointed me."
+    },
+    {
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "24141",
+      "text": "And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, <span class='woc'>Thou sayest.</span>",
+      "plainText": "And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest."
+    },
+    {
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "24142",
+      "text": "And when he was accused of the chief priests and elders, he answered nothing.",
+      "plainText": "And when he was accused of the chief priests and elders, he answered nothing."
+    },
+    {
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "24143",
+      "text": "Then said Pilate unto him, Hearest thou not how many things they witness against thee?",
+      "plainText": "Then said Pilate unto him, Hearest thou not how many things they witness against thee?"
+    },
+    {
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "24144",
+      "text": "And he answered him to never a word; insomuch that the governor marvelled greatly.",
+      "plainText": "And he answered him to never a word; insomuch that the governor marvelled greatly."
+    },
+    {
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "24145",
+      "text": "Now at <span class='extra'>that</span> feast the governor was wont to release unto the people a prisoner, whom they would.",
+      "plainText": "Now at that feast the governor was wont to release unto the people a prisoner, whom they would."
+    },
+    {
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "24146",
+      "text": "And they had then a notable prisoner, called Barabbas.",
+      "plainText": "And they had then a notable prisoner, called Barabbas."
+    },
+    {
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "24147",
+      "text": "Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?",
+      "plainText": "Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?"
+    },
+    {
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "24148",
+      "text": "For he knew that for envy they had delivered him.",
+      "plainText": "For he knew that for envy they had delivered him."
+    },
+    {
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "24149",
+      "text": "When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him.",
+      "plainText": "When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him."
+    },
+    {
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "24150",
+      "text": "But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus.",
+      "plainText": "But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus."
+    },
+    {
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "24151",
+      "text": "The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas.",
+      "plainText": "The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas."
+    },
+    {
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "24152",
+      "text": "Pilate saith unto them, What shall I do then with Jesus which is called Christ? <span class='extra'>They</span> all say unto him, Let him be crucified.",
+      "plainText": "Pilate saith unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified."
+    },
+    {
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "24153",
+      "text": "And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified.",
+      "plainText": "And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified."
+    },
+    {
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "24154",
+      "text": "When Pilate saw that he could prevail nothing, but <span class='extra'>that</span> rather a tumult was made, he took water, and washed <span class='extra'>his</span> hands before the multitude, saying, I am innocent of the blood of this just person: see ye <span class='extra'>to it</span>.",
+      "plainText": "When Pilate saw that he could prevail nothing, but that rather a tumult was made, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this just person: see ye to it."
+    },
+    {
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "24155",
+      "text": "Then answered all the people, and said, His blood <span class='extra'>be</span> on us, and on our children.",
+      "plainText": "Then answered all the people, and said, His blood be on us, and on our children."
+    },
+    {
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "24156",
+      "text": "Then released he Barabbas unto them: and when he had scourged Jesus, he delivered <span class='extra'>him</span> to be crucified.",
+      "plainText": "Then released he Barabbas unto them: and when he had scourged Jesus, he delivered him to be crucified."
+    },
+    {
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "24157",
+      "text": "Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band <span class='extra'>of soldiers</span>.",
+      "plainText": "Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band of soldiers."
+    },
+    {
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "24158",
+      "text": "And they stripped him, and put on him a scarlet robe.",
+      "plainText": "And they stripped him, and put on him a scarlet robe."
+    },
+    {
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "24159",
+      "text": "And when they had platted a crown of thorns, they put <span class='extra'>it</span> upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!",
+      "plainText": "And when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!"
+    },
+    {
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "24160",
+      "text": "And they spit upon him, and took the reed, and smote him on the head.",
+      "plainText": "And they spit upon him, and took the reed, and smote him on the head."
+    },
+    {
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "24161",
+      "text": "And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify <span class='extra'>him</span>.",
+      "plainText": "And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify him."
+    },
+    {
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "24162",
+      "text": "And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.",
+      "plainText": "And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross."
+    },
+    {
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "24163",
+      "text": "And when they were come unto a place called Golgotha, that is to say, a place of a skull,",
+      "plainText": "And when they were come unto a place called Golgotha, that is to say, a place of a skull,"
+    },
+    {
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "24164",
+      "text": "They gave him vinegar to drink mingled with gall: and when he had tasted <span class='extra'>thereof</span>, he would not drink.",
+      "plainText": "They gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink."
+    },
+    {
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "24165",
+      "text": "And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots.",
+      "plainText": "And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots."
+    },
+    {
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "24166",
+      "text": "And sitting down they watched him there;",
+      "plainText": "And sitting down they watched him there;"
+    },
+    {
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "24167",
+      "text": "And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS.",
+      "plainText": "And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS."
+    },
+    {
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "24168",
+      "text": "Then were there two thieves crucified with him, one on the right hand, and another on the left.",
+      "plainText": "Then were there two thieves crucified with him, one on the right hand, and another on the left."
+    },
+    {
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "24169",
+      "text": "And they that passed by reviled him, wagging their heads,",
+      "plainText": "And they that passed by reviled him, wagging their heads,"
+    },
+    {
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "24170",
+      "text": "And saying, Thou that destroyest the temple, and buildest <span class='extra'>it</span> in three days, save thyself. If thou be the Son of God, come down from the cross.",
+      "plainText": "And saying, Thou that destroyest the temple, and buildest it in three days, save thyself. If thou be the Son of God, come down from the cross."
+    },
+    {
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "24171",
+      "text": "Likewise also the chief priests mocking <span class='extra'>him</span>, with the scribes and elders, said,",
+      "plainText": "Likewise also the chief priests mocking him, with the scribes and elders, said,"
+    },
+    {
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "24172",
+      "text": "He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him.",
+      "plainText": "He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him."
+    },
+    {
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "24173",
+      "text": "He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God.",
+      "plainText": "He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God."
+    },
+    {
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "24174",
+      "text": "The thieves also, which were crucified with him, cast the same in his teeth.",
+      "plainText": "The thieves also, which were crucified with him, cast the same in his teeth."
+    },
+    {
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "24175",
+      "text": "Now from the sixth hour there was darkness over all the land unto the ninth hour.",
+      "plainText": "Now from the sixth hour there was darkness over all the land unto the ninth hour."
+    },
+    {
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "24176",
+      "text": "And about the ninth hour Jesus cried with a loud voice, saying, <span class='woc'>Eli, Eli, lama sabachthani?</span> that is to say, <span class='woc'>My God, my God, why hast thou forsaken me?</span>",
+      "plainText": "And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?"
+    },
+    {
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "24177",
+      "text": "Some of them that stood there, when they heard <span class='extra'>that</span>, said, This <span class='extra'>man</span> calleth for Elias.",
+      "plainText": "Some of them that stood there, when they heard that, said, This man calleth for Elias."
+    },
+    {
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "24178",
+      "text": "And straightway one of them ran, and took a spunge, and filled <span class='extra'>it</span> with vinegar, and put <span class='extra'>it</span> on a reed, and gave him to drink.",
+      "plainText": "And straightway one of them ran, and took a spunge, and filled it with vinegar, and put it on a reed, and gave him to drink."
+    },
+    {
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "24179",
+      "text": "The rest said, Let be, let us see whether Elias will come to save him.",
+      "plainText": "The rest said, Let be, let us see whether Elias will come to save him."
+    },
+    {
+      "type": "verse",
+      "id": "v50",
+      "number": "50",
+      "absolute": "24180",
+      "text": "Jesus, when he had cried again with a loud voice, yielded up the ghost.",
+      "plainText": "Jesus, when he had cried again with a loud voice, yielded up the ghost."
+    },
+    {
+      "type": "verse",
+      "id": "v51",
+      "number": "51",
+      "absolute": "24181",
+      "text": "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;",
+      "plainText": "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;"
+    },
+    {
+      "type": "verse",
+      "id": "v52",
+      "number": "52",
+      "absolute": "24182",
+      "text": "And the graves were opened; and many bodies of the saints which slept arose,",
+      "plainText": "And the graves were opened; and many bodies of the saints which slept arose,"
+    },
+    {
+      "type": "verse",
+      "id": "v53",
+      "number": "53",
+      "absolute": "24183",
+      "text": "And came out of the graves after his resurrection, and went into the holy city, and appeared unto many.",
+      "plainText": "And came out of the graves after his resurrection, and went into the holy city, and appeared unto many."
+    },
+    {
+      "type": "verse",
+      "id": "v54",
+      "number": "54",
+      "absolute": "24184",
+      "text": "Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.",
+      "plainText": "Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God."
+    },
+    {
+      "type": "verse",
+      "id": "v55",
+      "number": "55",
+      "absolute": "24185",
+      "text": "And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:",
+      "plainText": "And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:"
+    },
+    {
+      "type": "verse",
+      "id": "v56",
+      "number": "56",
+      "absolute": "24186",
+      "text": "Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedee's children.",
+      "plainText": "Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedee's children."
+    },
+    {
+      "type": "verse",
+      "id": "v57",
+      "number": "57",
+      "absolute": "24187",
+      "text": "When the even was come, there came a rich man of Arimathaea, named Joseph, who also himself was Jesus' disciple:",
+      "plainText": "When the even was come, there came a rich man of Arimathaea, named Joseph, who also himself was Jesus' disciple:"
+    },
+    {
+      "type": "verse",
+      "id": "v58",
+      "number": "58",
+      "absolute": "24188",
+      "text": "He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered.",
+      "plainText": "He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered."
+    },
+    {
+      "type": "verse",
+      "id": "v59",
+      "number": "59",
+      "absolute": "24189",
+      "text": "And when Joseph had taken the body, he wrapped it in a clean linen cloth,",
+      "plainText": "And when Joseph had taken the body, he wrapped it in a clean linen cloth,"
+    },
+    {
+      "type": "verse",
+      "id": "v60",
+      "number": "60",
+      "absolute": "24190",
+      "text": "And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed.",
+      "plainText": "And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed."
+    },
+    {
+      "type": "verse",
+      "id": "v61",
+      "number": "61",
+      "absolute": "24191",
+      "text": "And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre.",
+      "plainText": "And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre."
+    },
+    {
+      "type": "verse",
+      "id": "v62",
+      "number": "62",
+      "absolute": "24192",
+      "text": "Now the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,",
+      "plainText": "Now the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,"
+    },
+    {
+      "type": "verse",
+      "id": "v63",
+      "number": "63",
+      "absolute": "24193",
+      "text": "Saying, Sir, we remember that that deceiver said, while he was yet alive, <span class='woc'>After three days I will rise again.</span>",
+      "plainText": "Saying, Sir, we remember that that deceiver said, while he was yet alive, After three days I will rise again."
+    },
+    {
+      "type": "verse",
+      "id": "v64",
+      "number": "64",
+      "absolute": "24194",
+      "text": "Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first.",
+      "plainText": "Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first."
+    },
+    {
+      "type": "verse",
+      "id": "v65",
+      "number": "65",
+      "absolute": "24195",
+      "text": "Pilate said unto them, Ye have a watch: go your way, make <span class='extra'>it</span> as sure as ye can.",
+      "plainText": "Pilate said unto them, Ye have a watch: go your way, make it as sure as ye can."
+    },
+    {
+      "type": "verse",
+      "id": "v66",
+      "number": "66",
+      "absolute": "24196",
+      "text": "So they went, and made the sepulchre sure, sealing the stone, and setting a watch.",
+      "plainText": "So they went, and made the sepulchre sure, sealing the stone, and setting a watch."
     }
   ]
 }
-

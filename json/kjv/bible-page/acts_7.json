@@ -1,568 +1,509 @@
 {
   "book": {
-    "number" : "44",
-    "filenamePrefix" : "acts",
-    "bookPage" : "acts.html",
-    "title" : "Acts",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "romans_1.html",
-    "nextTitle" : "Romans",
-    "prevBook" : "john_1.html",
-    "prevTitle" : "John"
+    "number": "44",
+    "filenamePrefix": "acts",
+    "bookPage": "acts.html",
+    "title": "Acts",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "romans_1.html",
+    "nextTitle": "Romans",
+    "prevBook": "john_1.html",
+    "prevTitle": "John",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "7",
-    "verseCount" : "60",
-    "nextChapter" : "acts_8.html",
-    "nextTitle" : "Acts 8",
-    "prevChapter" : "acts_6.html",
-    "prevTitle" : "Acts 6",
-    "filename" : "acts_7.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "7",
+    "verseCount": "60",
+    "nextChapter": "acts_8.html",
+    "nextTitle": "Acts 8",
+    "prevChapter": "acts_6.html",
+    "prevTitle": "Acts 6",
+    "filename": "acts_7.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "27118",
-      "text" : "Then said the high priest, Are these things so?",
-      "plainText" : "Then said the high priest, Are these things so?"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "27118",
+      "text": "Then said the high priest, Are these things so?",
+      "plainText": "Then said the high priest, Are these things so?"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "27119",
-      "text" : "And he said, Men, brethren, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,",
-      "plainText" : "And he said, Men, brethren, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "27119",
+      "text": "And he said, Men, brethren, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,",
+      "plainText": "And he said, Men, brethren, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "27120",
-      "text" : "And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee.",
-      "plainText" : "And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "27120",
+      "text": "And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee.",
+      "plainText": "And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "27121",
-      "text" : "Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell.",
-      "plainText" : "Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "27121",
+      "text": "Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell.",
+      "plainText": "Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "27122",
-      "text" : "And he gave him none inheritance in it, no, not <span class='extra'>so much as<\/span> to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when <span class='extra'>as yet<\/span> he had no child.",
-      "plainText" : "And he gave him none inheritance in it, no, not so much as to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when as yet he had no child."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "27122",
+      "text": "And he gave him none inheritance in it, no, not <span class='extra'>so much as</span> to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when <span class='extra'>as yet</span> he had no child.",
+      "plainText": "And he gave him none inheritance in it, no, not so much as to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when as yet he had no child."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "27123",
-      "text" : "And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat <span class='extra'>them<\/span> evil four hundred years.",
-      "plainText" : "And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat them evil four hundred years."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "27123",
+      "text": "And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat <span class='extra'>them</span> evil four hundred years.",
+      "plainText": "And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat them evil four hundred years."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "27124",
-      "text" : "And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place.",
-      "plainText" : "And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "27124",
+      "text": "And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place.",
+      "plainText": "And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "27125",
-      "text" : "And he gave him the covenant of circumcision: and so <span class='extra'>Abraham<\/span> begat Isaac, and circumcised him the eighth day; and Isaac <span class='extra'>begat<\/span> Jacob; and Jacob <span class='extra'>begat<\/span> the twelve patriarchs.",
-      "plainText" : "And he gave him the covenant of circumcision: and so Abraham begat Isaac, and circumcised him the eighth day; and Isaac begat Jacob; and Jacob begat the twelve patriarchs."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "27125",
+      "text": "And he gave him the covenant of circumcision: and so <span class='extra'>Abraham</span> begat Isaac, and circumcised him the eighth day; and Isaac <span class='extra'>begat</span> Jacob; and Jacob <span class='extra'>begat</span> the twelve patriarchs.",
+      "plainText": "And he gave him the covenant of circumcision: and so Abraham begat Isaac, and circumcised him the eighth day; and Isaac begat Jacob; and Jacob begat the twelve patriarchs."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "27126",
-      "text" : "And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,",
-      "plainText" : "And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "27126",
+      "text": "And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,",
+      "plainText": "And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "27127",
-      "text" : "And delivered him out of all his afflictions, and gave him favour and wisdom in the sight of Pharaoh king of Egypt; and he made him governor over Egypt and all his house.",
-      "plainText" : "And delivered him out of all his afflictions, and gave him favour and wisdom in the sight of Pharaoh king of Egypt; and he made him governor over Egypt and all his house."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "27127",
+      "text": "And delivered him out of all his afflictions, and gave him favour and wisdom in the sight of Pharaoh king of Egypt; and he made him governor over Egypt and all his house.",
+      "plainText": "And delivered him out of all his afflictions, and gave him favour and wisdom in the sight of Pharaoh king of Egypt; and he made him governor over Egypt and all his house."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "27128",
-      "text" : "Now there came a dearth over all the land of Egypt and Chanaan, and great affliction: and our fathers found no sustenance.",
-      "plainText" : "Now there came a dearth over all the land of Egypt and Chanaan, and great affliction: and our fathers found no sustenance."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "27128",
+      "text": "Now there came a dearth over all the land of Egypt and Chanaan, and great affliction: and our fathers found no sustenance.",
+      "plainText": "Now there came a dearth over all the land of Egypt and Chanaan, and great affliction: and our fathers found no sustenance."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "27129",
-      "text" : "But when Jacob heard that there was corn in Egypt, he sent out our fathers first.",
-      "plainText" : "But when Jacob heard that there was corn in Egypt, he sent out our fathers first."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "27129",
+      "text": "But when Jacob heard that there was corn in Egypt, he sent out our fathers first.",
+      "plainText": "But when Jacob heard that there was corn in Egypt, he sent out our fathers first."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "27130",
-      "text" : "And at the second <span class='extra'>time<\/span> Joseph was made known to his brethren; and Joseph's kindred was made known unto Pharaoh.",
-      "plainText" : "And at the second time Joseph was made known to his brethren; and Joseph's kindred was made known unto Pharaoh."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "27130",
+      "text": "And at the second <span class='extra'>time</span> Joseph was made known to his brethren; and Joseph's kindred was made known unto Pharaoh.",
+      "plainText": "And at the second time Joseph was made known to his brethren; and Joseph's kindred was made known unto Pharaoh."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "27131",
-      "text" : "Then sent Joseph, and called his father Jacob to <span class='extra'>him<\/span>, and all his kindred, threescore and fifteen souls.",
-      "plainText" : "Then sent Joseph, and called his father Jacob to him, and all his kindred, threescore and fifteen souls."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "27131",
+      "text": "Then sent Joseph, and called his father Jacob to <span class='extra'>him</span>, and all his kindred, threescore and fifteen souls.",
+      "plainText": "Then sent Joseph, and called his father Jacob to him, and all his kindred, threescore and fifteen souls."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "27132",
-      "text" : "So Jacob went down into Egypt, and died, he, and our fathers,",
-      "plainText" : "So Jacob went down into Egypt, and died, he, and our fathers,"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "27132",
+      "text": "So Jacob went down into Egypt, and died, he, and our fathers,",
+      "plainText": "So Jacob went down into Egypt, and died, he, and our fathers,"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "27133",
-      "text" : "And were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor <span class='extra'>the father<\/span> of Sychem.",
-      "plainText" : "And were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor the father of Sychem."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "27133",
+      "text": "And were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor <span class='extra'>the father</span> of Sychem.",
+      "plainText": "And were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor the father of Sychem."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "27134",
-      "text" : "But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,",
-      "plainText" : "But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "27134",
+      "text": "But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,",
+      "plainText": "But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "27135",
-      "text" : "Till another king arose, which knew not Joseph.",
-      "plainText" : "Till another king arose, which knew not Joseph."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "27135",
+      "text": "Till another king arose, which knew not Joseph.",
+      "plainText": "Till another king arose, which knew not Joseph."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "27136",
-      "text" : "The same dealt subtilly with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live.",
-      "plainText" : "The same dealt subtilly with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "27136",
+      "text": "The same dealt subtilly with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live.",
+      "plainText": "The same dealt subtilly with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "27137",
-      "text" : "In which time Moses was born, and was exceeding fair, and nourished up in his father's house three months:",
-      "plainText" : "In which time Moses was born, and was exceeding fair, and nourished up in his father's house three months:"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "27137",
+      "text": "In which time Moses was born, and was exceeding fair, and nourished up in his father's house three months:",
+      "plainText": "In which time Moses was born, and was exceeding fair, and nourished up in his father's house three months:"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "27138",
-      "text" : "And when he was cast out, Pharaoh's daughter took him up, and nourished him for her own son.",
-      "plainText" : "And when he was cast out, Pharaoh's daughter took him up, and nourished him for her own son."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "27138",
+      "text": "And when he was cast out, Pharaoh's daughter took him up, and nourished him for her own son.",
+      "plainText": "And when he was cast out, Pharaoh's daughter took him up, and nourished him for her own son."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "27139",
-      "text" : "And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.",
-      "plainText" : "And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "27139",
+      "text": "And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.",
+      "plainText": "And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "27140",
-      "text" : "And when he was full forty years old, it came into his heart to visit his brethren the children of Israel.",
-      "plainText" : "And when he was full forty years old, it came into his heart to visit his brethren the children of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "27140",
+      "text": "And when he was full forty years old, it came into his heart to visit his brethren the children of Israel.",
+      "plainText": "And when he was full forty years old, it came into his heart to visit his brethren the children of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "27141",
-      "text" : "And seeing one <span class='extra'>of them<\/span> suffer wrong, he defended <span class='extra'>him<\/span>, and avenged him that was oppressed, and smote the Egyptian:",
-      "plainText" : "And seeing one of them suffer wrong, he defended him, and avenged him that was oppressed, and smote the Egyptian:"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "27141",
+      "text": "And seeing one <span class='extra'>of them</span> suffer wrong, he defended <span class='extra'>him</span>, and avenged him that was oppressed, and smote the Egyptian:",
+      "plainText": "And seeing one of them suffer wrong, he defended him, and avenged him that was oppressed, and smote the Egyptian:"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "27142",
-      "text" : "For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not.",
-      "plainText" : "For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "27142",
+      "text": "For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not.",
+      "plainText": "For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "27143",
-      "text" : "And the next day he shewed himself unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?",
-      "plainText" : "And the next day he shewed himself unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "27143",
+      "text": "And the next day he shewed himself unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?",
+      "plainText": "And the next day he shewed himself unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "27144",
-      "text" : "But he that did his neighbour wrong thrust him away, saying, Who made thee a ruler and a judge over us?",
-      "plainText" : "But he that did his neighbour wrong thrust him away, saying, Who made thee a ruler and a judge over us?"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "27144",
+      "text": "But he that did his neighbour wrong thrust him away, saying, Who made thee a ruler and a judge over us?",
+      "plainText": "But he that did his neighbour wrong thrust him away, saying, Who made thee a ruler and a judge over us?"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "27145",
-      "text" : "Wilt thou kill me, as thou diddest the Egyptian yesterday?",
-      "plainText" : "Wilt thou kill me, as thou diddest the Egyptian yesterday?"
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "27145",
+      "text": "Wilt thou kill me, as thou diddest the Egyptian yesterday?",
+      "plainText": "Wilt thou kill me, as thou diddest the Egyptian yesterday?"
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "27146",
-      "text" : "Then fled Moses at this saying, and was a stranger in the land of Madian, where he begat two sons.",
-      "plainText" : "Then fled Moses at this saying, and was a stranger in the land of Madian, where he begat two sons."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "27146",
+      "text": "Then fled Moses at this saying, and was a stranger in the land of Madian, where he begat two sons.",
+      "plainText": "Then fled Moses at this saying, and was a stranger in the land of Madian, where he begat two sons."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "27147",
-      "text" : "And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.",
-      "plainText" : "And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "27147",
+      "text": "And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.",
+      "plainText": "And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "27148",
-      "text" : "When Moses saw <span class='extra'>it<\/span>, he wondered at the sight: and as he drew near to behold <span class='extra'>it<\/span>, the voice of the Lord came unto him,",
-      "plainText" : "When Moses saw it, he wondered at the sight: and as he drew near to behold it, the voice of the Lord came unto him,"
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "27148",
+      "text": "When Moses saw <span class='extra'>it</span>, he wondered at the sight: and as he drew near to behold <span class='extra'>it</span>, the voice of the Lord came unto him,",
+      "plainText": "When Moses saw it, he wondered at the sight: and as he drew near to behold it, the voice of the Lord came unto him,"
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "27149",
-      "text" : "<span class='extra'>Saying<\/span>, I <span class='extra'>am<\/span> the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.",
-      "plainText" : "Saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "27149",
+      "text": "<span class='extra'>Saying</span>, I <span class='extra'>am</span> the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.",
+      "plainText": "Saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "27150",
-      "text" : "Then said the Lord to him, Put off thy shoes from thy feet: for the place where thou standest is holy ground.",
-      "plainText" : "Then said the Lord to him, Put off thy shoes from thy feet: for the place where thou standest is holy ground."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "27150",
+      "text": "Then said the Lord to him, Put off thy shoes from thy feet: for the place where thou standest is holy ground.",
+      "plainText": "Then said the Lord to him, Put off thy shoes from thy feet: for the place where thou standest is holy ground."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "27151",
-      "text" : "I have seen, I have seen the affliction of my people which is in Egypt, and I have heard their groaning, and am come down to deliver them. And now come, I will send thee into Egypt.",
-      "plainText" : "I have seen, I have seen the affliction of my people which is in Egypt, and I have heard their groaning, and am come down to deliver them. And now come, I will send thee into Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "27151",
+      "text": "I have seen, I have seen the affliction of my people which is in Egypt, and I have heard their groaning, and am come down to deliver them. And now come, I will send thee into Egypt.",
+      "plainText": "I have seen, I have seen the affliction of my people which is in Egypt, and I have heard their groaning, and am come down to deliver them. And now come, I will send thee into Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "27152",
-      "text" : "This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send <span class='extra'>to be<\/span> a ruler and a deliverer by the hand of the angel which appeared to him in the bush.",
-      "plainText" : "This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send to be a ruler and a deliverer by the hand of the angel which appeared to him in the bush."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "27152",
+      "text": "This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send <span class='extra'>to be</span> a ruler and a deliverer by the hand of the angel which appeared to him in the bush.",
+      "plainText": "This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send to be a ruler and a deliverer by the hand of the angel which appeared to him in the bush."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "27153",
-      "text" : "He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years.",
-      "plainText" : "He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "27153",
+      "text": "He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years.",
+      "plainText": "He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "27154",
-      "text" : "This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.",
-      "plainText" : "This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "27154",
+      "text": "This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.",
+      "plainText": "This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "27155",
-      "text" : "This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and <span class='extra'>with<\/span> our fathers: who received the lively oracles to give unto us:",
-      "plainText" : "This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give unto us:"
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "27155",
+      "text": "This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and <span class='extra'>with</span> our fathers: who received the lively oracles to give unto us:",
+      "plainText": "This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give unto us:"
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "27156",
-      "text" : "To whom our fathers would not obey, but thrust <span class='extra'>him<\/span> from them, and in their hearts turned back again into Egypt,",
-      "plainText" : "To whom our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,"
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "27156",
+      "text": "To whom our fathers would not obey, but thrust <span class='extra'>him</span> from them, and in their hearts turned back again into Egypt,",
+      "plainText": "To whom our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,"
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "27157",
-      "text" : "Saying unto Aaron, Make us gods to go before us: for <span class='extra'>as for<\/span> this Moses, which brought us out of the land of Egypt, we wot not what is become of him.",
-      "plainText" : "Saying unto Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we wot not what is become of him."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "27157",
+      "text": "Saying unto Aaron, Make us gods to go before us: for <span class='extra'>as for</span> this Moses, which brought us out of the land of Egypt, we wot not what is become of him.",
+      "plainText": "Saying unto Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we wot not what is become of him."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "27158",
-      "text" : "And they made a calf in those days, and offered sacrifice unto the idol, and rejoiced in the works of their own hands.",
-      "plainText" : "And they made a calf in those days, and offered sacrifice unto the idol, and rejoiced in the works of their own hands."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "27158",
+      "text": "And they made a calf in those days, and offered sacrifice unto the idol, and rejoiced in the works of their own hands.",
+      "plainText": "And they made a calf in those days, and offered sacrifice unto the idol, and rejoiced in the works of their own hands."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "27159",
-      "text" : "Then God turned, and gave them up to worship the host of heaven; as it is written in the book of the prophets, O ye house of Israel, have ye offered to me slain beasts and sacrifices <span class='extra'>by the space of<\/span> forty years in the wilderness?",
-      "plainText" : "Then God turned, and gave them up to worship the host of heaven; as it is written in the book of the prophets, O ye house of Israel, have ye offered to me slain beasts and sacrifices by the space of forty years in the wilderness?"
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "27159",
+      "text": "Then God turned, and gave them up to worship the host of heaven; as it is written in the book of the prophets, O ye house of Israel, have ye offered to me slain beasts and sacrifices <span class='extra'>by the space of</span> forty years in the wilderness?",
+      "plainText": "Then God turned, and gave them up to worship the host of heaven; as it is written in the book of the prophets, O ye house of Israel, have ye offered to me slain beasts and sacrifices by the space of forty years in the wilderness?"
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "27160",
-      "text" : "Yea, ye took up the tabernacle of Moloch, and the star of your god Remphan, figures which ye made to worship them: and I will carry you away beyond Babylon.",
-      "plainText" : "Yea, ye took up the tabernacle of Moloch, and the star of your god Remphan, figures which ye made to worship them: and I will carry you away beyond Babylon."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "27160",
+      "text": "Yea, ye took up the tabernacle of Moloch, and the star of your god Remphan, figures which ye made to worship them: and I will carry you away beyond Babylon.",
+      "plainText": "Yea, ye took up the tabernacle of Moloch, and the star of your god Remphan, figures which ye made to worship them: and I will carry you away beyond Babylon."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "27161",
-      "text" : "Our fathers had the tabernacle of witness in the wilderness, as he had appointed, speaking unto Moses, that he should make it according to the fashion that he had seen.",
-      "plainText" : "Our fathers had the tabernacle of witness in the wilderness, as he had appointed, speaking unto Moses, that he should make it according to the fashion that he had seen."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "27161",
+      "text": "Our fathers had the tabernacle of witness in the wilderness, as he had appointed, speaking unto Moses, that he should make it according to the fashion that he had seen.",
+      "plainText": "Our fathers had the tabernacle of witness in the wilderness, as he had appointed, speaking unto Moses, that he should make it according to the fashion that he had seen."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "27162",
-      "text" : "Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;",
-      "plainText" : "Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;"
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "27162",
+      "text": "Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;",
+      "plainText": "Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;"
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "27163",
-      "text" : "Who found favour before God, and desired to find a tabernacle for the God of Jacob.",
-      "plainText" : "Who found favour before God, and desired to find a tabernacle for the God of Jacob."
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "27163",
+      "text": "Who found favour before God, and desired to find a tabernacle for the God of Jacob.",
+      "plainText": "Who found favour before God, and desired to find a tabernacle for the God of Jacob."
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "27164",
-      "text" : "But Solomon built him an house.",
-      "plainText" : "But Solomon built him an house."
-    }
-    ,
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "27164",
+      "text": "But Solomon built him an house.",
+      "plainText": "But Solomon built him an house."
+    },
     {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "27165",
-      "text" : "Howbeit the most High dwelleth not in temples made with hands; as saith the prophet,",
-      "plainText" : "Howbeit the most High dwelleth not in temples made with hands; as saith the prophet,"
-    }
-    ,
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "27165",
+      "text": "Howbeit the most High dwelleth not in temples made with hands; as saith the prophet,",
+      "plainText": "Howbeit the most High dwelleth not in temples made with hands; as saith the prophet,"
+    },
     {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "27166",
-      "text" : "Heaven <span class='extra'>is<\/span> my throne, and earth <span class='extra'>is<\/span> my footstool: what house will ye build me? saith the Lord: or what <span class='extra'>is<\/span> the place of my rest?",
-      "plainText" : "Heaven is my throne, and earth is my footstool: what house will ye build me? saith the Lord: or what is the place of my rest?"
-    }
-    ,
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "27166",
+      "text": "Heaven <span class='extra'>is</span> my throne, and earth <span class='extra'>is</span> my footstool: what house will ye build me? saith the Lord: or what <span class='extra'>is</span> the place of my rest?",
+      "plainText": "Heaven is my throne, and earth is my footstool: what house will ye build me? saith the Lord: or what is the place of my rest?"
+    },
     {
-      "type" : "verse",
-      "id" : "v50",
-      "number" : "50",
-      "absolute" : "27167",
-      "text" : "Hath not my hand made all these things?",
-      "plainText" : "Hath not my hand made all these things?"
-    }
-    ,
+      "type": "verse",
+      "id": "v50",
+      "number": "50",
+      "absolute": "27167",
+      "text": "Hath not my hand made all these things?",
+      "plainText": "Hath not my hand made all these things?"
+    },
     {
-      "type" : "verse",
-      "id" : "v51",
-      "number" : "51",
-      "absolute" : "27168",
-      "text" : "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers <span class='extra'>did<\/span>, so <span class='extra'>do<\/span> ye.",
-      "plainText" : "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye."
-    }
-    ,
+      "type": "verse",
+      "id": "v51",
+      "number": "51",
+      "absolute": "27168",
+      "text": "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers <span class='extra'>did</span>, so <span class='extra'>do</span> ye.",
+      "plainText": "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye."
+    },
     {
-      "type" : "verse",
-      "id" : "v52",
-      "number" : "52",
-      "absolute" : "27169",
-      "text" : "Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:",
-      "plainText" : "Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:"
-    }
-    ,
+      "type": "verse",
+      "id": "v52",
+      "number": "52",
+      "absolute": "27169",
+      "text": "Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:",
+      "plainText": "Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:"
+    },
     {
-      "type" : "verse",
-      "id" : "v53",
-      "number" : "53",
-      "absolute" : "27170",
-      "text" : "Who have received the law by the disposition of angels, and have not kept <span class='extra'>it<\/span>.",
-      "plainText" : "Who have received the law by the disposition of angels, and have not kept it."
-    }
-    ,
+      "type": "verse",
+      "id": "v53",
+      "number": "53",
+      "absolute": "27170",
+      "text": "Who have received the law by the disposition of angels, and have not kept <span class='extra'>it</span>.",
+      "plainText": "Who have received the law by the disposition of angels, and have not kept it."
+    },
     {
-      "type" : "verse",
-      "id" : "v54",
-      "number" : "54",
-      "absolute" : "27171",
-      "text" : "When they heard these things, they were cut to the heart, and they gnashed on him with <span class='extra'>their<\/span> teeth.",
-      "plainText" : "When they heard these things, they were cut to the heart, and they gnashed on him with their teeth."
-    }
-    ,
+      "type": "verse",
+      "id": "v54",
+      "number": "54",
+      "absolute": "27171",
+      "text": "When they heard these things, they were cut to the heart, and they gnashed on him with <span class='extra'>their</span> teeth.",
+      "plainText": "When they heard these things, they were cut to the heart, and they gnashed on him with their teeth."
+    },
     {
-      "type" : "verse",
-      "id" : "v55",
-      "number" : "55",
-      "absolute" : "27172",
-      "text" : "But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,",
-      "plainText" : "But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,"
-    }
-    ,
+      "type": "verse",
+      "id": "v55",
+      "number": "55",
+      "absolute": "27172",
+      "text": "But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,",
+      "plainText": "But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,"
+    },
     {
-      "type" : "verse",
-      "id" : "v56",
-      "number" : "56",
-      "absolute" : "27173",
-      "text" : "And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.",
-      "plainText" : "And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v56",
+      "number": "56",
+      "absolute": "27173",
+      "text": "And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.",
+      "plainText": "And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v57",
-      "number" : "57",
-      "absolute" : "27174",
-      "text" : "Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord,",
-      "plainText" : "Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord,"
-    }
-    ,
+      "type": "verse",
+      "id": "v57",
+      "number": "57",
+      "absolute": "27174",
+      "text": "Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord,",
+      "plainText": "Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord,"
+    },
     {
-      "type" : "verse",
-      "id" : "v58",
-      "number" : "58",
-      "absolute" : "27175",
-      "text" : "And cast <span class='extra'>him<\/span> out of the city, and stoned <span class='extra'>him<\/span>: and the witnesses laid down their clothes at a young man's feet, whose name was Saul.",
-      "plainText" : "And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man's feet, whose name was Saul."
-    }
-    ,
+      "type": "verse",
+      "id": "v58",
+      "number": "58",
+      "absolute": "27175",
+      "text": "And cast <span class='extra'>him</span> out of the city, and stoned <span class='extra'>him</span>: and the witnesses laid down their clothes at a young man's feet, whose name was Saul.",
+      "plainText": "And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man's feet, whose name was Saul."
+    },
     {
-      "type" : "verse",
-      "id" : "v59",
-      "number" : "59",
-      "absolute" : "27176",
-      "text" : "And they stoned Stephen, calling upon <span class='extra'>God<\/span>, and saying, Lord Jesus, receive my spirit.",
-      "plainText" : "And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit."
-    }
-    ,
+      "type": "verse",
+      "id": "v59",
+      "number": "59",
+      "absolute": "27176",
+      "text": "And they stoned Stephen, calling upon <span class='extra'>God</span>, and saying, Lord Jesus, receive my spirit.",
+      "plainText": "And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit."
+    },
     {
-      "type" : "verse",
-      "id" : "v60",
-      "number" : "60",
-      "absolute" : "27177",
-      "text" : "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.",
-      "plainText" : "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep."
+      "type": "verse",
+      "id": "v60",
+      "number": "60",
+      "absolute": "27177",
+      "text": "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.",
+      "plainText": "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep."
     }
   ]
 }
-

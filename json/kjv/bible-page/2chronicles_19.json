@@ -1,128 +1,117 @@
 {
   "book": {
-    "number" : "14",
-    "filenamePrefix" : "2chronicles",
-    "bookPage" : "2chronicles.html",
-    "title" : "2 Chronicles",
-    "chapterCount" : "36",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "ezra_1.html",
-    "nextTitle" : "Ezra",
-    "prevBook" : "1chronicles_1.html",
-    "prevTitle" : "1 Chronicles"
+    "number": "14",
+    "filenamePrefix": "2chronicles",
+    "bookPage": "2chronicles.html",
+    "title": "2 Chronicles",
+    "chapterCount": "36",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "ezra_1.html",
+    "nextTitle": "Ezra",
+    "prevBook": "1chronicles_1.html",
+    "prevTitle": "1 Chronicles",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "19",
-    "verseCount" : "11",
-    "nextChapter" : "2chronicles_20.html",
-    "nextTitle" : "2 Chronicles 20",
-    "prevChapter" : "2chronicles_18.html",
-    "prevTitle" : "2 Chronicles 18",
-    "filename" : "2chronicles_19.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "19",
+    "verseCount": "11",
+    "nextChapter": "2chronicles_20.html",
+    "nextTitle": "2 Chronicles 20",
+    "prevChapter": "2chronicles_18.html",
+    "prevTitle": "2 Chronicles 18",
+    "filename": "2chronicles_19.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "11578",
-      "text" : "And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem.",
-      "plainText" : "And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "11578",
+      "text": "And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem.",
+      "plainText": "And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "11579",
-      "text" : "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the <span class='nog'>LORD<\/span>? therefore <span class='extra'>is<\/span> wrath upon thee from before the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the LORD? therefore is wrath upon thee from before the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "11579",
+      "text": "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the <span class='nog'>LORD</span>? therefore <span class='extra'>is</span> wrath upon thee from before the <span class='nog'>LORD</span>.",
+      "plainText": "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the LORD? therefore is wrath upon thee from before the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "11580",
-      "text" : "Nevertheless there are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God.",
-      "plainText" : "Nevertheless there are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "11580",
+      "text": "Nevertheless there are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God.",
+      "plainText": "Nevertheless there are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "11581",
-      "text" : "And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beer-sheba to mount Ephraim, and brought them back unto the <span class='nog'>LORD<\/span> God of their fathers.",
-      "plainText" : "And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beer-sheba to mount Ephraim, and brought them back unto the LORD God of their fathers."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "11581",
+      "text": "And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beer-sheba to mount Ephraim, and brought them back unto the <span class='nog'>LORD</span> God of their fathers.",
+      "plainText": "And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beer-sheba to mount Ephraim, and brought them back unto the LORD God of their fathers."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "11582",
-      "text" : "And he set judges in the land throughout all the fenced cities of Judah, city by city,",
-      "plainText" : "And he set judges in the land throughout all the fenced cities of Judah, city by city,"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "11582",
+      "text": "And he set judges in the land throughout all the fenced cities of Judah, city by city,",
+      "plainText": "And he set judges in the land throughout all the fenced cities of Judah, city by city,"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "11583",
-      "text" : "And said to the judges, Take heed what ye do: for ye judge not for man, but for the <span class='nog'>LORD<\/span>, who <span class='extra'>is<\/span> with you in the judgment.",
-      "plainText" : "And said to the judges, Take heed what ye do: for ye judge not for man, but for the LORD, who is with you in the judgment."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "11583",
+      "text": "And said to the judges, Take heed what ye do: for ye judge not for man, but for the <span class='nog'>LORD</span>, who <span class='extra'>is</span> with you in the judgment.",
+      "plainText": "And said to the judges, Take heed what ye do: for ye judge not for man, but for the LORD, who is with you in the judgment."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "11584",
-      "text" : "Wherefore now let the fear of the <span class='nog'>LORD<\/span> be upon you; take heed and do <span class='extra'>it<\/span>: for <span class='extra'>there is<\/span> no iniquity with the <span class='nog'>LORD<\/span> our God, nor respect of persons, nor taking of gifts.",
-      "plainText" : "Wherefore now let the fear of the LORD be upon you; take heed and do it: for there is no iniquity with the LORD our God, nor respect of persons, nor taking of gifts."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "11584",
+      "text": "Wherefore now let the fear of the <span class='nog'>LORD</span> be upon you; take heed and do <span class='extra'>it</span>: for <span class='extra'>there is</span> no iniquity with the <span class='nog'>LORD</span> our God, nor respect of persons, nor taking of gifts.",
+      "plainText": "Wherefore now let the fear of the LORD be upon you; take heed and do it: for there is no iniquity with the LORD our God, nor respect of persons, nor taking of gifts."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "11585",
-      "text" : "Moreover in Jerusalem did Jehoshaphat set of the Levites, and <span class='extra'>of<\/span> the priests, and of the chief of the fathers of Israel, for the judgment of the <span class='nog'>LORD<\/span>, and for controversies, when they returned to Jerusalem.",
-      "plainText" : "Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "11585",
+      "text": "Moreover in Jerusalem did Jehoshaphat set of the Levites, and <span class='extra'>of</span> the priests, and of the chief of the fathers of Israel, for the judgment of the <span class='nog'>LORD</span>, and for controversies, when they returned to Jerusalem.",
+      "plainText": "Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "11586",
-      "text" : "And he charged them, saying, Thus shall ye do in the fear of the <span class='nog'>LORD<\/span>, faithfully, and with a perfect heart.",
-      "plainText" : "And he charged them, saying, Thus shall ye do in the fear of the LORD, faithfully, and with a perfect heart."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "11586",
+      "text": "And he charged them, saying, Thus shall ye do in the fear of the <span class='nog'>LORD</span>, faithfully, and with a perfect heart.",
+      "plainText": "And he charged them, saying, Thus shall ye do in the fear of the LORD, faithfully, and with a perfect heart."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "11587",
-      "text" : "And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the <span class='nog'>LORD<\/span>, and <span class='extra'>so<\/span> wrath come upon you, and upon your brethren: this do, and ye shall not trespass.",
-      "plainText" : "And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the LORD, and so wrath come upon you, and upon your brethren: this do, and ye shall not trespass."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "11587",
+      "text": "And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the <span class='nog'>LORD</span>, and <span class='extra'>so</span> wrath come upon you, and upon your brethren: this do, and ye shall not trespass.",
+      "plainText": "And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the LORD, and so wrath come upon you, and upon your brethren: this do, and ye shall not trespass."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "11588",
-      "text" : "And, behold, Amariah the chief priest <span class='extra'>is<\/span> over you in all matters of the <span class='nog'>LORD<\/span>; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king's matters: also the Levites <span class='extra'>shall be<\/span> officers before you. Deal courageously, and the <span class='nog'>LORD<\/span> shall be with the good.",
-      "plainText" : "And, behold, Amariah the chief priest is over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king's matters: also the Levites shall be officers before you. Deal courageously, and the LORD shall be with the good."
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "11588",
+      "text": "And, behold, Amariah the chief priest <span class='extra'>is</span> over you in all matters of the <span class='nog'>LORD</span>; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king's matters: also the Levites <span class='extra'>shall be</span> officers before you. Deal courageously, and the <span class='nog'>LORD</span> shall be with the good.",
+      "plainText": "And, behold, Amariah the chief priest is over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king's matters: also the Levites shall be officers before you. Deal courageously, and the LORD shall be with the good."
     }
   ]
 }
-
-

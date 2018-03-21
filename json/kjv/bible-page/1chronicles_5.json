@@ -1,262 +1,237 @@
 {
   "book": {
-    "number" : "13",
-    "filenamePrefix" : "1chronicles",
-    "bookPage" : "1chronicles.html",
-    "title" : "1 Chronicles",
-    "chapterCount" : "29",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "2chronicles_1.html",
-    "nextTitle" : "2 Chronicles",
-    "prevBook" : "2kings_1.html",
-    "prevTitle" : "2 Kings"
+    "number": "13",
+    "filenamePrefix": "1chronicles",
+    "bookPage": "1chronicles.html",
+    "title": "1 Chronicles",
+    "chapterCount": "29",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "2chronicles_1.html",
+    "nextTitle": "2 Chronicles",
+    "prevBook": "2kings_1.html",
+    "prevTitle": "2 Kings",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "5",
-    "verseCount" : "26",
-    "nextChapter" : "1chronicles_6.html",
-    "nextTitle" : "1 Chronicles 6",
-    "prevChapter" : "1chronicles_4.html",
-    "prevTitle" : "1 Chronicles 4",
-    "filename" : "1chronicles_5.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "5",
+    "verseCount": "26",
+    "nextChapter": "1chronicles_6.html",
+    "nextTitle": "1 Chronicles 6",
+    "prevChapter": "1chronicles_4.html",
+    "prevTitle": "1 Chronicles 4",
+    "filename": "1chronicles_5.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "10430",
-      "text" : "Now the sons of Reuben the firstborn of Israel, (for he <span class='extra'>was<\/span> the firstborn; but, forasmuch as he defiled his father's bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright.",
-      "plainText" : "Now the sons of Reuben the firstborn of Israel, (for he was the firstborn; but, forasmuch as he defiled his father's bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "10430",
+      "text": "Now the sons of Reuben the firstborn of Israel, (for he <span class='extra'>was</span> the firstborn; but, forasmuch as he defiled his father's bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright.",
+      "plainText": "Now the sons of Reuben the firstborn of Israel, (for he was the firstborn; but, forasmuch as he defiled his father's bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "10431",
-      "text" : "For Judah prevailed above his brethren, and of him <span class='extra'>came<\/span> the chief ruler; but the birthright <span class='extra'>was<\/span> Joseph's:)",
-      "plainText" : "For Judah prevailed above his brethren, and of him came the chief ruler; but the birthright was Joseph's:)"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "10431",
+      "text": "For Judah prevailed above his brethren, and of him <span class='extra'>came</span> the chief ruler; but the birthright <span class='extra'>was</span> Joseph's:)",
+      "plainText": "For Judah prevailed above his brethren, and of him came the chief ruler; but the birthright was Joseph's:)"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "10432",
-      "text" : "The sons, <span class='extra'>I say<\/span>, of Reuben the firstborn of Israel <span class='extra'>were<\/span>, Hanoch, and Pallu, Hezron, and Carmi.",
-      "plainText" : "The sons, I say, of Reuben the firstborn of Israel were, Hanoch, and Pallu, Hezron, and Carmi."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "10432",
+      "text": "The sons, <span class='extra'>I say</span>, of Reuben the firstborn of Israel <span class='extra'>were</span>, Hanoch, and Pallu, Hezron, and Carmi.",
+      "plainText": "The sons, I say, of Reuben the firstborn of Israel were, Hanoch, and Pallu, Hezron, and Carmi."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "10433",
-      "text" : "The sons of Joel; Shemaiah his son, Gog his son, Shimei his son,",
-      "plainText" : "The sons of Joel; Shemaiah his son, Gog his son, Shimei his son,"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "10433",
+      "text": "The sons of Joel; Shemaiah his son, Gog his son, Shimei his son,",
+      "plainText": "The sons of Joel; Shemaiah his son, Gog his son, Shimei his son,"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "10434",
-      "text" : "Micah his son, Reaia his son, Baal his son,",
-      "plainText" : "Micah his son, Reaia his son, Baal his son,"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "10434",
+      "text": "Micah his son, Reaia his son, Baal his son,",
+      "plainText": "Micah his son, Reaia his son, Baal his son,"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "10435",
-      "text" : "Beerah his son, whom Tilgath-pilneser king of Assyria carried away <span class='extra'>captive<\/span>: he <span class='extra'>was<\/span> prince of the Reubenites.",
-      "plainText" : "Beerah his son, whom Tilgath-pilneser king of Assyria carried away captive: he was prince of the Reubenites."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "10435",
+      "text": "Beerah his son, whom Tilgath-pilneser king of Assyria carried away <span class='extra'>captive</span>: he <span class='extra'>was</span> prince of the Reubenites.",
+      "plainText": "Beerah his son, whom Tilgath-pilneser king of Assyria carried away captive: he was prince of the Reubenites."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "10436",
-      "text" : "And his brethren by their families, when the genealogy of their generations was reckoned, <span class='extra'>were<\/span> the chief, Jeiel, and Zechariah,",
-      "plainText" : "And his brethren by their families, when the genealogy of their generations was reckoned, were the chief, Jeiel, and Zechariah,"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "10436",
+      "text": "And his brethren by their families, when the genealogy of their generations was reckoned, <span class='extra'>were</span> the chief, Jeiel, and Zechariah,",
+      "plainText": "And his brethren by their families, when the genealogy of their generations was reckoned, were the chief, Jeiel, and Zechariah,"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "10437",
-      "text" : "And Bela the son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer, even unto Nebo and Baal-meon:",
-      "plainText" : "And Bela the son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer, even unto Nebo and Baal-meon:"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "10437",
+      "text": "And Bela the son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer, even unto Nebo and Baal-meon:",
+      "plainText": "And Bela the son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer, even unto Nebo and Baal-meon:"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "10438",
-      "text" : "And eastward he inhabited unto the entering in of the wilderness from the river Euphrates: because their cattle were multiplied in the land of Gilead.",
-      "plainText" : "And eastward he inhabited unto the entering in of the wilderness from the river Euphrates: because their cattle were multiplied in the land of Gilead."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "10438",
+      "text": "And eastward he inhabited unto the entering in of the wilderness from the river Euphrates: because their cattle were multiplied in the land of Gilead.",
+      "plainText": "And eastward he inhabited unto the entering in of the wilderness from the river Euphrates: because their cattle were multiplied in the land of Gilead."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "10439",
-      "text" : "And in the days of Saul they made war with the Hagarites, who fell by their hand: and they dwelt in their tents throughout all the east <span class='extra'>land<\/span> of Gilead.",
-      "plainText" : "And in the days of Saul they made war with the Hagarites, who fell by their hand: and they dwelt in their tents throughout all the east land of Gilead."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "10439",
+      "text": "And in the days of Saul they made war with the Hagarites, who fell by their hand: and they dwelt in their tents throughout all the east <span class='extra'>land</span> of Gilead.",
+      "plainText": "And in the days of Saul they made war with the Hagarites, who fell by their hand: and they dwelt in their tents throughout all the east land of Gilead."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "10440",
-      "text" : "And the children of Gad dwelt over against them, in the land of Bashan unto Salchah:",
-      "plainText" : "And the children of Gad dwelt over against them, in the land of Bashan unto Salchah:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "10440",
+      "text": "And the children of Gad dwelt over against them, in the land of Bashan unto Salchah:",
+      "plainText": "And the children of Gad dwelt over against them, in the land of Bashan unto Salchah:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "10441",
-      "text" : "Joel the chief, and Shapham the next, and Jaanai, and Shaphat in Bashan.",
-      "plainText" : "Joel the chief, and Shapham the next, and Jaanai, and Shaphat in Bashan."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "10441",
+      "text": "Joel the chief, and Shapham the next, and Jaanai, and Shaphat in Bashan.",
+      "plainText": "Joel the chief, and Shapham the next, and Jaanai, and Shaphat in Bashan."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "10442",
-      "text" : "And their brethren of the house of their fathers <span class='extra'>were<\/span>, Michael, and Meshullam, and Sheba, and Jorai, and Jachan, and Zia, and Heber, seven.",
-      "plainText" : "And their brethren of the house of their fathers were, Michael, and Meshullam, and Sheba, and Jorai, and Jachan, and Zia, and Heber, seven."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "10442",
+      "text": "And their brethren of the house of their fathers <span class='extra'>were</span>, Michael, and Meshullam, and Sheba, and Jorai, and Jachan, and Zia, and Heber, seven.",
+      "plainText": "And their brethren of the house of their fathers were, Michael, and Meshullam, and Sheba, and Jorai, and Jachan, and Zia, and Heber, seven."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "10443",
-      "text" : "These <span class='extra'>are<\/span> the children of Abihail the son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz;",
-      "plainText" : "These are the children of Abihail the son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz;"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "10443",
+      "text": "These <span class='extra'>are</span> the children of Abihail the son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz;",
+      "plainText": "These are the children of Abihail the son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz;"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "10444",
-      "text" : "Ahi the son of Abdiel, the son of Guni, chief of the house of their fathers.",
-      "plainText" : "Ahi the son of Abdiel, the son of Guni, chief of the house of their fathers."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "10444",
+      "text": "Ahi the son of Abdiel, the son of Guni, chief of the house of their fathers.",
+      "plainText": "Ahi the son of Abdiel, the son of Guni, chief of the house of their fathers."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "10445",
-      "text" : "And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders.",
-      "plainText" : "And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "10445",
+      "text": "And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders.",
+      "plainText": "And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "10446",
-      "text" : "All these were reckoned by genealogies in the days of Jotham king of Judah, and in the days of Jeroboam king of Israel.",
-      "plainText" : "All these were reckoned by genealogies in the days of Jotham king of Judah, and in the days of Jeroboam king of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "10446",
+      "text": "All these were reckoned by genealogies in the days of Jotham king of Judah, and in the days of Jeroboam king of Israel.",
+      "plainText": "All these were reckoned by genealogies in the days of Jotham king of Judah, and in the days of Jeroboam king of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "10447",
-      "text" : "The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, <span class='extra'>were<\/span> four and forty thousand seven hundred and threescore, that went out to the war.",
-      "plainText" : "The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, were four and forty thousand seven hundred and threescore, that went out to the war."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "10447",
+      "text": "The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, <span class='extra'>were</span> four and forty thousand seven hundred and threescore, that went out to the war.",
+      "plainText": "The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, were four and forty thousand seven hundred and threescore, that went out to the war."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "10448",
-      "text" : "And they made war with the Hagarites, with Jetur, and Nephish, and Nodab.",
-      "plainText" : "And they made war with the Hagarites, with Jetur, and Nephish, and Nodab."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "10448",
+      "text": "And they made war with the Hagarites, with Jetur, and Nephish, and Nodab.",
+      "plainText": "And they made war with the Hagarites, with Jetur, and Nephish, and Nodab."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "10449",
-      "text" : "And they were helped against them, and the Hagarites were delivered into their hand, and all that <span class='extra'>were<\/span> with them: for they cried to God in the battle, and he was intreated of them; because they put their trust in him.",
-      "plainText" : "And they were helped against them, and the Hagarites were delivered into their hand, and all that were with them: for they cried to God in the battle, and he was intreated of them; because they put their trust in him."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "10449",
+      "text": "And they were helped against them, and the Hagarites were delivered into their hand, and all that <span class='extra'>were</span> with them: for they cried to God in the battle, and he was intreated of them; because they put their trust in him.",
+      "plainText": "And they were helped against them, and the Hagarites were delivered into their hand, and all that were with them: for they cried to God in the battle, and he was intreated of them; because they put their trust in him."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "10450",
-      "text" : "And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand.",
-      "plainText" : "And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "10450",
+      "text": "And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand.",
+      "plainText": "And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "10451",
-      "text" : "For there fell down many slain, because the war <span class='extra'>was<\/span> of God. And they dwelt in their steads until the captivity.",
-      "plainText" : "For there fell down many slain, because the war was of God. And they dwelt in their steads until the captivity."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "10451",
+      "text": "For there fell down many slain, because the war <span class='extra'>was</span> of God. And they dwelt in their steads until the captivity.",
+      "plainText": "For there fell down many slain, because the war was of God. And they dwelt in their steads until the captivity."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "10452",
-      "text" : "And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baal-hermon and Senir, and unto mount Hermon.",
-      "plainText" : "And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baal-hermon and Senir, and unto mount Hermon."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "10452",
+      "text": "And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baal-hermon and Senir, and unto mount Hermon.",
+      "plainText": "And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baal-hermon and Senir, and unto mount Hermon."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "10453",
-      "text" : "And these <span class='extra'>were<\/span> the heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valour, famous men, <span class='extra'>and<\/span> heads of the house of their fathers.",
-      "plainText" : "And these were the heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valour, famous men, and heads of the house of their fathers."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "10453",
+      "text": "And these <span class='extra'>were</span> the heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valour, famous men, <span class='extra'>and</span> heads of the house of their fathers.",
+      "plainText": "And these were the heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valour, famous men, and heads of the house of their fathers."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "10454",
-      "text" : "And they transgressed against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them.",
-      "plainText" : "And they transgressed against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "10454",
+      "text": "And they transgressed against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them.",
+      "plainText": "And they transgressed against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "10455",
-      "text" : "And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath-pilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day.",
-      "plainText" : "And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath-pilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day."
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "10455",
+      "text": "And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath-pilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day.",
+      "plainText": "And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath-pilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day."
     }
   ]
 }
-

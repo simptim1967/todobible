@@ -1,172 +1,157 @@
 {
   "book": {
-    "number" : "54",
-    "filenamePrefix" : "1timothy",
-    "bookPage" : "1timothy.html",
-    "title" : "1 Timothy",
-    "chapterCount" : "6",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "2timothy_1.html",
-    "nextTitle" : "2 Timothy",
-    "prevBook" : "2thessalonians_1.html",
-    "prevTitle" : "2 Thessalonians"
+    "number": "54",
+    "filenamePrefix": "1timothy",
+    "bookPage": "1timothy.html",
+    "title": "1 Timothy",
+    "chapterCount": "6",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "2timothy_1.html",
+    "nextTitle": "2 Timothy",
+    "prevBook": "2thessalonians_1.html",
+    "prevTitle": "2 Thessalonians",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "4",
-    "verseCount" : "16",
-    "nextChapter" : "1timothy_5.html",
-    "nextTitle" : "1 Timothy 5",
-    "prevChapter" : "1timothy_3.html",
-    "prevTitle" : "1 Timothy 3",
-    "filename" : "1timothy_4.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "4",
+    "verseCount": "16",
+    "nextChapter": "1timothy_5.html",
+    "nextTitle": "1 Timothy 5",
+    "prevChapter": "1timothy_3.html",
+    "prevTitle": "1 Timothy 3",
+    "filename": "1timothy_4.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "29749",
-      "text" : "Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;",
-      "plainText" : "Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "29749",
+      "text": "Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;",
+      "plainText": "Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "29750",
-      "text" : "Speaking lies in hypocrisy; having their conscience seared with a hot iron;",
-      "plainText" : "Speaking lies in hypocrisy; having their conscience seared with a hot iron;"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "29750",
+      "text": "Speaking lies in hypocrisy; having their conscience seared with a hot iron;",
+      "plainText": "Speaking lies in hypocrisy; having their conscience seared with a hot iron;"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "29751",
-      "text" : "Forbidding to marry, <span class='extra'>and commanding<\/span> to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth.",
-      "plainText" : "Forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "29751",
+      "text": "Forbidding to marry, <span class='extra'>and commanding</span> to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth.",
+      "plainText": "Forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "29752",
-      "text" : "For every creature of God <span class='extra'>is<\/span> good, and nothing to be refused, if it be received with thanksgiving:",
-      "plainText" : "For every creature of God is good, and nothing to be refused, if it be received with thanksgiving:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "29752",
+      "text": "For every creature of God <span class='extra'>is</span> good, and nothing to be refused, if it be received with thanksgiving:",
+      "plainText": "For every creature of God is good, and nothing to be refused, if it be received with thanksgiving:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "29753",
-      "text" : "For it is sanctified by the word of God and prayer.",
-      "plainText" : "For it is sanctified by the word of God and prayer."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "29753",
+      "text": "For it is sanctified by the word of God and prayer.",
+      "plainText": "For it is sanctified by the word of God and prayer."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "29754",
-      "text" : "If thou put the brethren in remembrance of these things, thou shalt be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto thou hast attained.",
-      "plainText" : "If thou put the brethren in remembrance of these things, thou shalt be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto thou hast attained."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "29754",
+      "text": "If thou put the brethren in remembrance of these things, thou shalt be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto thou hast attained.",
+      "plainText": "If thou put the brethren in remembrance of these things, thou shalt be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto thou hast attained."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "29755",
-      "text" : "But refuse profane and old wives' fables, and exercise thyself <span class='extra'>rather<\/span> unto godliness.",
-      "plainText" : "But refuse profane and old wives' fables, and exercise thyself rather unto godliness."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "29755",
+      "text": "But refuse profane and old wives' fables, and exercise thyself <span class='extra'>rather</span> unto godliness.",
+      "plainText": "But refuse profane and old wives' fables, and exercise thyself rather unto godliness."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "29756",
-      "text" : "For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come.",
-      "plainText" : "For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "29756",
+      "text": "For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come.",
+      "plainText": "For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "29757",
-      "text" : "This <span class='extra'>is<\/span> a faithful saying and worthy of all acceptation.",
-      "plainText" : "This is a faithful saying and worthy of all acceptation."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "29757",
+      "text": "This <span class='extra'>is</span> a faithful saying and worthy of all acceptation.",
+      "plainText": "This is a faithful saying and worthy of all acceptation."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "29758",
-      "text" : "For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe.",
-      "plainText" : "For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "29758",
+      "text": "For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe.",
+      "plainText": "For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "29759",
-      "text" : "These things command and teach.",
-      "plainText" : "These things command and teach."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "29759",
+      "text": "These things command and teach.",
+      "plainText": "These things command and teach."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "29760",
-      "text" : "Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.",
-      "plainText" : "Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "29760",
+      "text": "Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.",
+      "plainText": "Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "29761",
-      "text" : "Till I come, give attendance to reading, to exhortation, to doctrine.",
-      "plainText" : "Till I come, give attendance to reading, to exhortation, to doctrine."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "29761",
+      "text": "Till I come, give attendance to reading, to exhortation, to doctrine.",
+      "plainText": "Till I come, give attendance to reading, to exhortation, to doctrine."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "29762",
-      "text" : "Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery.",
-      "plainText" : "Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "29762",
+      "text": "Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery.",
+      "plainText": "Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "29763",
-      "text" : "Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all.",
-      "plainText" : "Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "29763",
+      "text": "Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all.",
+      "plainText": "Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "29764",
-      "text" : "Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee.",
-      "plainText" : "Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee."
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "29764",
+      "text": "Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee.",
+      "plainText": "Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee."
     }
   ]
 }
-

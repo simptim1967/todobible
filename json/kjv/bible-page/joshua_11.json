@@ -1,236 +1,213 @@
 {
   "book": {
-    "number" : "6",
-    "filenamePrefix" : "joshua",
-    "bookPage" : "joshua.html",
-    "title" : "Joshua",
-    "chapterCount" : "24",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "judges_1.html",
-    "nextTitle" : "Judges",
-    "prevBook" : "deuteronomy_1.html",
-    "prevTitle" : "Deuteronomy"
+    "number": "6",
+    "filenamePrefix": "joshua",
+    "bookPage": "joshua.html",
+    "title": "Joshua",
+    "chapterCount": "24",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "judges_1.html",
+    "nextTitle": "Judges",
+    "prevBook": "deuteronomy_1.html",
+    "prevTitle": "Deuteronomy",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "11",
-    "verseCount" : "23",
-    "nextChapter" : "joshua_12.html",
-    "nextTitle" : "Joshua 12",
-    "prevChapter" : "joshua_10.html",
-    "prevTitle" : "Joshua 10",
-    "filename" : "joshua_11.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "11",
+    "verseCount": "23",
+    "nextChapter": "joshua_12.html",
+    "nextTitle": "Joshua 12",
+    "prevChapter": "joshua_10.html",
+    "prevTitle": "Joshua 10",
+    "filename": "joshua_11.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "6109",
-      "text" : "And it came to pass, when Jabin king of Hazor had heard <span class='extra'>those things<\/span>, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,",
-      "plainText" : "And it came to pass, when Jabin king of Hazor had heard those things, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "6109",
+      "text": "And it came to pass, when Jabin king of Hazor had heard <span class='extra'>those things</span>, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,",
+      "plainText": "And it came to pass, when Jabin king of Hazor had heard those things, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "6110",
-      "text" : "And to the kings that <span class='extra'>were<\/span> on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west,",
-      "plainText" : "And to the kings that were on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "6110",
+      "text": "And to the kings that <span class='extra'>were</span> on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west,",
+      "plainText": "And to the kings that were on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "6111",
-      "text" : "<span class='extra'>And to<\/span> the Canaanite on the east and on the west, and <span class='extra'>to<\/span> the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and <span class='extra'>to<\/span> the Hivite under Hermon in the land of Mizpeh.",
-      "plainText" : "And to the Canaanite on the east and on the west, and to the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and to the Hivite under Hermon in the land of Mizpeh."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "6111",
+      "text": "<span class='extra'>And to</span> the Canaanite on the east and on the west, and <span class='extra'>to</span> the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and <span class='extra'>to</span> the Hivite under Hermon in the land of Mizpeh.",
+      "plainText": "And to the Canaanite on the east and on the west, and to the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and to the Hivite under Hermon in the land of Mizpeh."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "6112",
-      "text" : "And they went out, they and all their hosts with them, much people, even as the sand that <span class='extra'>is<\/span> upon the sea shore in multitude, with horses and chariots very many.",
-      "plainText" : "And they went out, they and all their hosts with them, much people, even as the sand that is upon the sea shore in multitude, with horses and chariots very many."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "6112",
+      "text": "And they went out, they and all their hosts with them, much people, even as the sand that <span class='extra'>is</span> upon the sea shore in multitude, with horses and chariots very many.",
+      "plainText": "And they went out, they and all their hosts with them, much people, even as the sand that is upon the sea shore in multitude, with horses and chariots very many."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "6113",
-      "text" : "And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel.",
-      "plainText" : "And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "6113",
+      "text": "And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel.",
+      "plainText": "And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "6114",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto Joshua, Be not afraid because of them: for to morrow about this time will I deliver them up all slain before Israel: thou shalt hough their horses, and burn their chariots with fire.",
-      "plainText" : "And the LORD said unto Joshua, Be not afraid because of them: for to morrow about this time will I deliver them up all slain before Israel: thou shalt hough their horses, and burn their chariots with fire."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "6114",
+      "text": "And the <span class='nog'>LORD</span> said unto Joshua, Be not afraid because of them: for to morrow about this time will I deliver them up all slain before Israel: thou shalt hough their horses, and burn their chariots with fire.",
+      "plainText": "And the LORD said unto Joshua, Be not afraid because of them: for to morrow about this time will I deliver them up all slain before Israel: thou shalt hough their horses, and burn their chariots with fire."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "6115",
-      "text" : "So Joshua came, and all the people of war with him, against them by the waters of Merom suddenly; and they fell upon them.",
-      "plainText" : "So Joshua came, and all the people of war with him, against them by the waters of Merom suddenly; and they fell upon them."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "6115",
+      "text": "So Joshua came, and all the people of war with him, against them by the waters of Merom suddenly; and they fell upon them.",
+      "plainText": "So Joshua came, and all the people of war with him, against them by the waters of Merom suddenly; and they fell upon them."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "6116",
-      "text" : "And the <span class='nog'>LORD<\/span> delivered them into the hand of Israel, who smote them, and chased them unto great Zidon, and unto Misrephoth-maim, and unto the valley of Mizpeh eastward; and they smote them, until they left them none remaining.",
-      "plainText" : "And the LORD delivered them into the hand of Israel, who smote them, and chased them unto great Zidon, and unto Misrephoth-maim, and unto the valley of Mizpeh eastward; and they smote them, until they left them none remaining."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "6116",
+      "text": "And the <span class='nog'>LORD</span> delivered them into the hand of Israel, who smote them, and chased them unto great Zidon, and unto Misrephoth-maim, and unto the valley of Mizpeh eastward; and they smote them, until they left them none remaining.",
+      "plainText": "And the LORD delivered them into the hand of Israel, who smote them, and chased them unto great Zidon, and unto Misrephoth-maim, and unto the valley of Mizpeh eastward; and they smote them, until they left them none remaining."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "6117",
-      "text" : "And Joshua did unto them as the <span class='nog'>LORD<\/span> bade him: he houghed their horses, and burnt their chariots with fire.",
-      "plainText" : "And Joshua did unto them as the LORD bade him: he houghed their horses, and burnt their chariots with fire."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "6117",
+      "text": "And Joshua did unto them as the <span class='nog'>LORD</span> bade him: he houghed their horses, and burnt their chariots with fire.",
+      "plainText": "And Joshua did unto them as the LORD bade him: he houghed their horses, and burnt their chariots with fire."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "6118",
-      "text" : "And Joshua at that time turned back, and took Hazor, and smote the king thereof with the sword: for Hazor beforetime was the head of all those kingdoms.",
-      "plainText" : "And Joshua at that time turned back, and took Hazor, and smote the king thereof with the sword: for Hazor beforetime was the head of all those kingdoms."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "6118",
+      "text": "And Joshua at that time turned back, and took Hazor, and smote the king thereof with the sword: for Hazor beforetime was the head of all those kingdoms.",
+      "plainText": "And Joshua at that time turned back, and took Hazor, and smote the king thereof with the sword: for Hazor beforetime was the head of all those kingdoms."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "6119",
-      "text" : "And they smote all the souls that <span class='extra'>were<\/span> therein with the edge of the sword, utterly destroying <span class='extra'>them<\/span>: there was not any left to breathe: and he burnt Hazor with fire.",
-      "plainText" : "And they smote all the souls that were therein with the edge of the sword, utterly destroying them: there was not any left to breathe: and he burnt Hazor with fire."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "6119",
+      "text": "And they smote all the souls that <span class='extra'>were</span> therein with the edge of the sword, utterly destroying <span class='extra'>them</span>: there was not any left to breathe: and he burnt Hazor with fire.",
+      "plainText": "And they smote all the souls that were therein with the edge of the sword, utterly destroying them: there was not any left to breathe: and he burnt Hazor with fire."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "6120",
-      "text" : "And all the cities of those kings, and all the kings of them, did Joshua take, and smote them with the edge of the sword, <span class='extra'>and<\/span> he utterly destroyed them, as Moses the servant of the <span class='nog'>LORD<\/span> commanded.",
-      "plainText" : "And all the cities of those kings, and all the kings of them, did Joshua take, and smote them with the edge of the sword, and he utterly destroyed them, as Moses the servant of the LORD commanded."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "6120",
+      "text": "And all the cities of those kings, and all the kings of them, did Joshua take, and smote them with the edge of the sword, <span class='extra'>and</span> he utterly destroyed them, as Moses the servant of the <span class='nog'>LORD</span> commanded.",
+      "plainText": "And all the cities of those kings, and all the kings of them, did Joshua take, and smote them with the edge of the sword, and he utterly destroyed them, as Moses the servant of the LORD commanded."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "6121",
-      "text" : "But <span class='extra'>as for<\/span> the cities that stood still in their strength, Israel burned none of them, save Hazor only; <span class='extra'>that<\/span> did Joshua burn.",
-      "plainText" : "But as for the cities that stood still in their strength, Israel burned none of them, save Hazor only; that did Joshua burn."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "6121",
+      "text": "But <span class='extra'>as for</span> the cities that stood still in their strength, Israel burned none of them, save Hazor only; <span class='extra'>that</span> did Joshua burn.",
+      "plainText": "But as for the cities that stood still in their strength, Israel burned none of them, save Hazor only; that did Joshua burn."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "6122",
-      "text" : "And all the spoil of these cities, and the cattle, the children of Israel took for a prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them, neither left they any to breathe.",
-      "plainText" : "And all the spoil of these cities, and the cattle, the children of Israel took for a prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them, neither left they any to breathe."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "6122",
+      "text": "And all the spoil of these cities, and the cattle, the children of Israel took for a prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them, neither left they any to breathe.",
+      "plainText": "And all the spoil of these cities, and the cattle, the children of Israel took for a prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them, neither left they any to breathe."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "6123",
-      "text" : "As the <span class='nog'>LORD<\/span> commanded Moses his servant, so did Moses command Joshua, and so did Joshua; he left nothing undone of all that the <span class='nog'>LORD<\/span> commanded Moses.",
-      "plainText" : "As the LORD commanded Moses his servant, so did Moses command Joshua, and so did Joshua; he left nothing undone of all that the LORD commanded Moses."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "6123",
+      "text": "As the <span class='nog'>LORD</span> commanded Moses his servant, so did Moses command Joshua, and so did Joshua; he left nothing undone of all that the <span class='nog'>LORD</span> commanded Moses.",
+      "plainText": "As the LORD commanded Moses his servant, so did Moses command Joshua, and so did Joshua; he left nothing undone of all that the LORD commanded Moses."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "6124",
-      "text" : "So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;",
-      "plainText" : "So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "6124",
+      "text": "So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;",
+      "plainText": "So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "6125",
-      "text" : "<span class='extra'>Even<\/span> from the mount Halak, that goeth up to Seir, even unto Baal-gad in the valley of Lebanon under mount Hermon: and all their kings he took, and smote them, and slew them.",
-      "plainText" : "Even from the mount Halak, that goeth up to Seir, even unto Baal-gad in the valley of Lebanon under mount Hermon: and all their kings he took, and smote them, and slew them."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "6125",
+      "text": "<span class='extra'>Even</span> from the mount Halak, that goeth up to Seir, even unto Baal-gad in the valley of Lebanon under mount Hermon: and all their kings he took, and smote them, and slew them.",
+      "plainText": "Even from the mount Halak, that goeth up to Seir, even unto Baal-gad in the valley of Lebanon under mount Hermon: and all their kings he took, and smote them, and slew them."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "6126",
-      "text" : "Joshua made war a long time with all those kings.",
-      "plainText" : "Joshua made war a long time with all those kings."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "6126",
+      "text": "Joshua made war a long time with all those kings.",
+      "plainText": "Joshua made war a long time with all those kings."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "6127",
-      "text" : "There was not a city that made peace with the children of Israel, save the Hivites the inhabitants of Gibeon: all <span class='extra'>other<\/span> they took in battle.",
-      "plainText" : "There was not a city that made peace with the children of Israel, save the Hivites the inhabitants of Gibeon: all other they took in battle."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "6127",
+      "text": "There was not a city that made peace with the children of Israel, save the Hivites the inhabitants of Gibeon: all <span class='extra'>other</span> they took in battle.",
+      "plainText": "There was not a city that made peace with the children of Israel, save the Hivites the inhabitants of Gibeon: all other they took in battle."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "6128",
-      "text" : "For it was of the <span class='nog'>LORD<\/span> to harden their hearts, that they should come against Israel in battle, that he might destroy them utterly, <span class='extra'>and<\/span> that they might have no favour, but that he might destroy them, as the <span class='nog'>LORD<\/span> commanded Moses.",
-      "plainText" : "For it was of the LORD to harden their hearts, that they should come against Israel in battle, that he might destroy them utterly, and that they might have no favour, but that he might destroy them, as the LORD commanded Moses."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "6128",
+      "text": "For it was of the <span class='nog'>LORD</span> to harden their hearts, that they should come against Israel in battle, that he might destroy them utterly, <span class='extra'>and</span> that they might have no favour, but that he might destroy them, as the <span class='nog'>LORD</span> commanded Moses.",
+      "plainText": "For it was of the LORD to harden their hearts, that they should come against Israel in battle, that he might destroy them utterly, and that they might have no favour, but that he might destroy them, as the LORD commanded Moses."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "6129",
-      "text" : "And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities.",
-      "plainText" : "And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "6129",
+      "text": "And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities.",
+      "plainText": "And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "6130",
-      "text" : "There was none of the Anakims left in the land of the children of Israel: only in Gaza, in Gath, and in Ashdod, there remained.",
-      "plainText" : "There was none of the Anakims left in the land of the children of Israel: only in Gaza, in Gath, and in Ashdod, there remained."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "6130",
+      "text": "There was none of the Anakims left in the land of the children of Israel: only in Gaza, in Gath, and in Ashdod, there remained.",
+      "plainText": "There was none of the Anakims left in the land of the children of Israel: only in Gaza, in Gath, and in Ashdod, there remained."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "6131",
-      "text" : "So Joshua took the whole land, according to all that the <span class='nog'>LORD<\/span> said unto Moses; and Joshua gave it for an inheritance unto Israel according to their divisions by their tribes. And the land rested from war.",
-      "plainText" : "So Joshua took the whole land, according to all that the LORD said unto Moses; and Joshua gave it for an inheritance unto Israel according to their divisions by their tribes. And the land rested from war."
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "6131",
+      "text": "So Joshua took the whole land, according to all that the <span class='nog'>LORD</span> said unto Moses; and Joshua gave it for an inheritance unto Israel according to their divisions by their tribes. And the land rested from war.",
+      "plainText": "So Joshua took the whole land, according to all that the LORD said unto Moses; and Joshua gave it for an inheritance unto Israel according to their divisions by their tribes. And the land rested from war."
     }
   ]
 }
-
-

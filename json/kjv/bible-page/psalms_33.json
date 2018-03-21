@@ -1,227 +1,205 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "33",
-    "verseCount" : "22",
-    "nextChapter" : "psalms_34.html",
-    "nextTitle" : "Psalms 34",
-    "prevChapter" : "psalms_32.html",
-    "prevTitle" : "Psalms 32",
-    "filename" : "psalms_33.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "33",
+    "verseCount": "22",
+    "nextChapter": "psalms_34.html",
+    "nextTitle": "Psalms 34",
+    "prevChapter": "psalms_32.html",
+    "prevTitle": "Psalms 32",
+    "filename": "psalms_33.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14368",
-      "text" : "Rejoice in the <span class='nog'>LORD<\/span>, O ye righteous: <span class='extra'>for<\/span> praise is comely for the upright.",
-      "plainText" : "Rejoice in the LORD, O ye righteous: for praise is comely for the upright."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14368",
+      "text": "Rejoice in the <span class='nog'>LORD</span>, O ye righteous: <span class='extra'>for</span> praise is comely for the upright.",
+      "plainText": "Rejoice in the LORD, O ye righteous: for praise is comely for the upright."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14369",
-      "text" : "Praise the <span class='nog'>LORD<\/span> with harp: sing unto him with the psaltery <span class='extra'>and<\/span> an instrument of ten strings.",
-      "plainText" : "Praise the LORD with harp: sing unto him with the psaltery and an instrument of ten strings."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14369",
+      "text": "Praise the <span class='nog'>LORD</span> with harp: sing unto him with the psaltery <span class='extra'>and</span> an instrument of ten strings.",
+      "plainText": "Praise the LORD with harp: sing unto him with the psaltery and an instrument of ten strings."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14370",
-      "text" : "Sing unto him a new song; play skilfully with a loud noise.",
-      "plainText" : "Sing unto him a new song; play skilfully with a loud noise."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14370",
+      "text": "Sing unto him a new song; play skilfully with a loud noise.",
+      "plainText": "Sing unto him a new song; play skilfully with a loud noise."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14371",
-      "text" : "For the word of the <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> right; and all his works <span class='extra'>are done<\/span> in truth.",
-      "plainText" : "For the word of the LORD is right; and all his works are done in truth."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14371",
+      "text": "For the word of the <span class='nog'>LORD</span> <span class='extra'>is</span> right; and all his works <span class='extra'>are done</span> in truth.",
+      "plainText": "For the word of the LORD is right; and all his works are done in truth."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14372",
-      "text" : "He loveth righteousness and judgment: the earth is full of the goodness of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "He loveth righteousness and judgment: the earth is full of the goodness of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14372",
+      "text": "He loveth righteousness and judgment: the earth is full of the goodness of the <span class='nog'>LORD</span>.",
+      "plainText": "He loveth righteousness and judgment: the earth is full of the goodness of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14373",
-      "text" : "By the word of the <span class='nog'>LORD<\/span> were the heavens made; and all the host of them by the breath of his mouth.",
-      "plainText" : "By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14373",
+      "text": "By the word of the <span class='nog'>LORD</span> were the heavens made; and all the host of them by the breath of his mouth.",
+      "plainText": "By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14374",
-      "text" : "He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses.",
-      "plainText" : "He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14374",
+      "text": "He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses.",
+      "plainText": "He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14375",
-      "text" : "Let all the earth fear the <span class='nog'>LORD<\/span>: let all the inhabitants of the world stand in awe of him.",
-      "plainText" : "Let all the earth fear the LORD: let all the inhabitants of the world stand in awe of him."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14375",
+      "text": "Let all the earth fear the <span class='nog'>LORD</span>: let all the inhabitants of the world stand in awe of him.",
+      "plainText": "Let all the earth fear the LORD: let all the inhabitants of the world stand in awe of him."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14376",
-      "text" : "For he spake, and it was <span class='extra'>done<\/span>; he commanded, and it stood fast.",
-      "plainText" : "For he spake, and it was done; he commanded, and it stood fast."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14376",
+      "text": "For he spake, and it was <span class='extra'>done</span>; he commanded, and it stood fast.",
+      "plainText": "For he spake, and it was done; he commanded, and it stood fast."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "14377",
-      "text" : "The <span class='nog'>LORD<\/span> bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect.",
-      "plainText" : "The LORD bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "14377",
+      "text": "The <span class='nog'>LORD</span> bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect.",
+      "plainText": "The LORD bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "14378",
-      "text" : "The counsel of the <span class='nog'>LORD<\/span> standeth for ever, the thoughts of his heart to all generations.",
-      "plainText" : "The counsel of the LORD standeth for ever, the thoughts of his heart to all generations."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "14378",
+      "text": "The counsel of the <span class='nog'>LORD</span> standeth for ever, the thoughts of his heart to all generations.",
+      "plainText": "The counsel of the LORD standeth for ever, the thoughts of his heart to all generations."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "14379",
-      "text" : "Blessed <span class='extra'>is<\/span> the nation whose God <span class='extra'>is<\/span> the <span class='nog'>LORD<\/span>; <span class='extra'>and<\/span> the people <span class='extra'>whom<\/span> he hath chosen for his own inheritance.",
-      "plainText" : "Blessed is the nation whose God is the LORD; and the people whom he hath chosen for his own inheritance."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "14379",
+      "text": "Blessed <span class='extra'>is</span> the nation whose God <span class='extra'>is</span> the <span class='nog'>LORD</span>; <span class='extra'>and</span> the people <span class='extra'>whom</span> he hath chosen for his own inheritance.",
+      "plainText": "Blessed is the nation whose God is the LORD; and the people whom he hath chosen for his own inheritance."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "14380",
-      "text" : "The <span class='nog'>LORD<\/span> looketh from heaven; he beholdeth all the sons of men.",
-      "plainText" : "The LORD looketh from heaven; he beholdeth all the sons of men."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "14380",
+      "text": "The <span class='nog'>LORD</span> looketh from heaven; he beholdeth all the sons of men.",
+      "plainText": "The LORD looketh from heaven; he beholdeth all the sons of men."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "14381",
-      "text" : "From the place of his habitation he looketh upon all the inhabitants of the earth.",
-      "plainText" : "From the place of his habitation he looketh upon all the inhabitants of the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "14381",
+      "text": "From the place of his habitation he looketh upon all the inhabitants of the earth.",
+      "plainText": "From the place of his habitation he looketh upon all the inhabitants of the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "14382",
-      "text" : "He fashioneth their hearts alike; he considereth all their works.",
-      "plainText" : "He fashioneth their hearts alike; he considereth all their works."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "14382",
+      "text": "He fashioneth their hearts alike; he considereth all their works.",
+      "plainText": "He fashioneth their hearts alike; he considereth all their works."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "14383",
-      "text" : "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength.",
-      "plainText" : "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "14383",
+      "text": "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength.",
+      "plainText": "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "14384",
-      "text" : "An horse <span class='extra'>is<\/span> a vain thing for safety: neither shall he deliver <span class='extra'>any<\/span> by his great strength.",
-      "plainText" : "An horse is a vain thing for safety: neither shall he deliver any by his great strength."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "14384",
+      "text": "An horse <span class='extra'>is</span> a vain thing for safety: neither shall he deliver <span class='extra'>any</span> by his great strength.",
+      "plainText": "An horse is a vain thing for safety: neither shall he deliver any by his great strength."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "14385",
-      "text" : "Behold, the eye of the <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> upon them that fear him, upon them that hope in his mercy;",
-      "plainText" : "Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy;"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "14385",
+      "text": "Behold, the eye of the <span class='nog'>LORD</span> <span class='extra'>is</span> upon them that fear him, upon them that hope in his mercy;",
+      "plainText": "Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy;"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "14386",
-      "text" : "To deliver their soul from death, and to keep them alive in famine.",
-      "plainText" : "To deliver their soul from death, and to keep them alive in famine."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "14386",
+      "text": "To deliver their soul from death, and to keep them alive in famine.",
+      "plainText": "To deliver their soul from death, and to keep them alive in famine."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "14387",
-      "text" : "Our soul waiteth for the <span class='nog'>LORD<\/span>: he <span class='extra'>is<\/span> our help and our shield.",
-      "plainText" : "Our soul waiteth for the LORD: he is our help and our shield."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "14387",
+      "text": "Our soul waiteth for the <span class='nog'>LORD</span>: he <span class='extra'>is</span> our help and our shield.",
+      "plainText": "Our soul waiteth for the LORD: he is our help and our shield."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "14388",
-      "text" : "For our heart shall rejoice in him, because we have trusted in his holy name.",
-      "plainText" : "For our heart shall rejoice in him, because we have trusted in his holy name."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "14388",
+      "text": "For our heart shall rejoice in him, because we have trusted in his holy name.",
+      "plainText": "For our heart shall rejoice in him, because we have trusted in his holy name."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "14389",
-      "text" : "Let thy mercy, O <span class='nog'>LORD<\/span>, be upon us, according as we hope in thee.",
-      "plainText" : "Let thy mercy, O LORD, be upon us, according as we hope in thee."
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "14389",
+      "text": "Let thy mercy, O <span class='nog'>LORD</span>, be upon us, according as we hope in thee.",
+      "plainText": "Let thy mercy, O LORD, be upon us, according as we hope in thee."
     }
   ]
 }
-
-

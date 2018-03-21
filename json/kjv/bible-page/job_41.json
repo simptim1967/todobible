@@ -1,334 +1,301 @@
 {
   "book": {
-    "number" : "18",
-    "filenamePrefix" : "job",
-    "bookPage" : "job.html",
-    "title" : "Job",
-    "chapterCount" : "42",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "psalms_1.html",
-    "nextTitle" : "Psalms",
-    "prevBook" : "esther_1.html",
-    "prevTitle" : "Esther"
+    "number": "18",
+    "filenamePrefix": "job",
+    "bookPage": "job.html",
+    "title": "Job",
+    "chapterCount": "42",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "psalms_1.html",
+    "nextTitle": "Psalms",
+    "prevBook": "esther_1.html",
+    "prevTitle": "Esther",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "41",
-    "verseCount" : "34",
-    "nextChapter" : "job_42.html",
-    "nextTitle" : "Job 42",
-    "prevChapter" : "job_40.html",
-    "prevTitle" : "Job 40",
-    "filename" : "job_41.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "41",
+    "verseCount": "34",
+    "nextChapter": "job_42.html",
+    "nextTitle": "Job 42",
+    "prevChapter": "job_40.html",
+    "prevTitle": "Job 40",
+    "filename": "job_41.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "13890",
-      "text" : "Canst thou draw out leviathan with an hook? or his tongue with a cord <span class='extra'>which<\/span> thou lettest down?",
-      "plainText" : "Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "13890",
+      "text": "Canst thou draw out leviathan with an hook? or his tongue with a cord <span class='extra'>which</span> thou lettest down?",
+      "plainText": "Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "13891",
-      "text" : "Canst thou put an hook into his nose? or bore his jaw through with a thorn?",
-      "plainText" : "Canst thou put an hook into his nose? or bore his jaw through with a thorn?"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "13891",
+      "text": "Canst thou put an hook into his nose? or bore his jaw through with a thorn?",
+      "plainText": "Canst thou put an hook into his nose? or bore his jaw through with a thorn?"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "13892",
-      "text" : "Will he make many supplications unto thee? will he speak soft <span class='extra'>words<\/span> unto thee?",
-      "plainText" : "Will he make many supplications unto thee? will he speak soft words unto thee?"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "13892",
+      "text": "Will he make many supplications unto thee? will he speak soft <span class='extra'>words</span> unto thee?",
+      "plainText": "Will he make many supplications unto thee? will he speak soft words unto thee?"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "13893",
-      "text" : "Will he make a covenant with thee? wilt thou take him for a servant for ever?",
-      "plainText" : "Will he make a covenant with thee? wilt thou take him for a servant for ever?"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "13893",
+      "text": "Will he make a covenant with thee? wilt thou take him for a servant for ever?",
+      "plainText": "Will he make a covenant with thee? wilt thou take him for a servant for ever?"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "13894",
-      "text" : "Wilt thou play with him as <span class='extra'>with<\/span> a bird? or wilt thou bind him for thy maidens?",
-      "plainText" : "Wilt thou play with him as with a bird? or wilt thou bind him for thy maidens?"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "13894",
+      "text": "Wilt thou play with him as <span class='extra'>with</span> a bird? or wilt thou bind him for thy maidens?",
+      "plainText": "Wilt thou play with him as with a bird? or wilt thou bind him for thy maidens?"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "13895",
-      "text" : "Shall the companions make a banquet of him? shall they part him among the merchants?",
-      "plainText" : "Shall the companions make a banquet of him? shall they part him among the merchants?"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "13895",
+      "text": "Shall the companions make a banquet of him? shall they part him among the merchants?",
+      "plainText": "Shall the companions make a banquet of him? shall they part him among the merchants?"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "13896",
-      "text" : "Canst thou fill his skin with barbed irons? or his head with fish spears?",
-      "plainText" : "Canst thou fill his skin with barbed irons? or his head with fish spears?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "13896",
+      "text": "Canst thou fill his skin with barbed irons? or his head with fish spears?",
+      "plainText": "Canst thou fill his skin with barbed irons? or his head with fish spears?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "13897",
-      "text" : "Lay thine hand upon him, remember the battle, do no more.",
-      "plainText" : "Lay thine hand upon him, remember the battle, do no more."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "13897",
+      "text": "Lay thine hand upon him, remember the battle, do no more.",
+      "plainText": "Lay thine hand upon him, remember the battle, do no more."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "13898",
-      "text" : "Behold, the hope of him is in vain: shall not <span class='extra'>one<\/span> be cast down even at the sight of him?",
-      "plainText" : "Behold, the hope of him is in vain: shall not one be cast down even at the sight of him?"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "13898",
+      "text": "Behold, the hope of him is in vain: shall not <span class='extra'>one</span> be cast down even at the sight of him?",
+      "plainText": "Behold, the hope of him is in vain: shall not one be cast down even at the sight of him?"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "13899",
-      "text" : "None <span class='extra'>is so<\/span> fierce that dare stir him up: who then is able to stand before me?",
-      "plainText" : "None is so fierce that dare stir him up: who then is able to stand before me?"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "13899",
+      "text": "None <span class='extra'>is so</span> fierce that dare stir him up: who then is able to stand before me?",
+      "plainText": "None is so fierce that dare stir him up: who then is able to stand before me?"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "13900",
-      "text" : "Who hath prevented me, that I should repay <span class='extra'>him? whatsoever is<\/span> under the whole heaven is mine.",
-      "plainText" : "Who hath prevented me, that I should repay him? whatsoever is under the whole heaven is mine."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "13900",
+      "text": "Who hath prevented me, that I should repay <span class='extra'>him? whatsoever is</span> under the whole heaven is mine.",
+      "plainText": "Who hath prevented me, that I should repay him? whatsoever is under the whole heaven is mine."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "13901",
-      "text" : "I will not conceal his parts, nor his power, nor his comely proportion.",
-      "plainText" : "I will not conceal his parts, nor his power, nor his comely proportion."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "13901",
+      "text": "I will not conceal his parts, nor his power, nor his comely proportion.",
+      "plainText": "I will not conceal his parts, nor his power, nor his comely proportion."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "13902",
-      "text" : "Who can discover the face of his garment? <span class='extra'>or<\/span> who can come <span class='extra'>to him<\/span> with his double bridle?",
-      "plainText" : "Who can discover the face of his garment? or who can come to him with his double bridle?"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "13902",
+      "text": "Who can discover the face of his garment? <span class='extra'>or</span> who can come <span class='extra'>to him</span> with his double bridle?",
+      "plainText": "Who can discover the face of his garment? or who can come to him with his double bridle?"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "13903",
-      "text" : "Who can open the doors of his face? his teeth <span class='extra'>are<\/span> terrible round about.",
-      "plainText" : "Who can open the doors of his face? his teeth are terrible round about."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "13903",
+      "text": "Who can open the doors of his face? his teeth <span class='extra'>are</span> terrible round about.",
+      "plainText": "Who can open the doors of his face? his teeth are terrible round about."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "13904",
-      "text" : "<span class='extra'>His<\/span> scales <span class='extra'>are his<\/span> pride, shut up together <span class='extra'>as with<\/span> a close seal.",
-      "plainText" : "His scales are his pride, shut up together as with a close seal."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "13904",
+      "text": "<span class='extra'>His</span> scales <span class='extra'>are his</span> pride, shut up together <span class='extra'>as with</span> a close seal.",
+      "plainText": "His scales are his pride, shut up together as with a close seal."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "13905",
-      "text" : "One is so near to another, that no air can come between them.",
-      "plainText" : "One is so near to another, that no air can come between them."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "13905",
+      "text": "One is so near to another, that no air can come between them.",
+      "plainText": "One is so near to another, that no air can come between them."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "13906",
-      "text" : "They are joined one to another, they stick together, that they cannot be sundered.",
-      "plainText" : "They are joined one to another, they stick together, that they cannot be sundered."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "13906",
+      "text": "They are joined one to another, they stick together, that they cannot be sundered.",
+      "plainText": "They are joined one to another, they stick together, that they cannot be sundered."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "13907",
-      "text" : "By his neesings a light doth shine, and his eyes <span class='extra'>are<\/span> like the eyelids of the morning.",
-      "plainText" : "By his neesings a light doth shine, and his eyes are like the eyelids of the morning."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "13907",
+      "text": "By his neesings a light doth shine, and his eyes <span class='extra'>are</span> like the eyelids of the morning.",
+      "plainText": "By his neesings a light doth shine, and his eyes are like the eyelids of the morning."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "13908",
-      "text" : "Out of his mouth go burning lamps, <span class='extra'>and<\/span> sparks of fire leap out.",
-      "plainText" : "Out of his mouth go burning lamps, and sparks of fire leap out."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "13908",
+      "text": "Out of his mouth go burning lamps, <span class='extra'>and</span> sparks of fire leap out.",
+      "plainText": "Out of his mouth go burning lamps, and sparks of fire leap out."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "13909",
-      "text" : "Out of his nostrils goeth smoke, as <span class='extra'>out<\/span> of a seething pot or caldron.",
-      "plainText" : "Out of his nostrils goeth smoke, as out of a seething pot or caldron."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "13909",
+      "text": "Out of his nostrils goeth smoke, as <span class='extra'>out</span> of a seething pot or caldron.",
+      "plainText": "Out of his nostrils goeth smoke, as out of a seething pot or caldron."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "13910",
-      "text" : "His breath kindleth coals, and a flame goeth out of his mouth.",
-      "plainText" : "His breath kindleth coals, and a flame goeth out of his mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "13910",
+      "text": "His breath kindleth coals, and a flame goeth out of his mouth.",
+      "plainText": "His breath kindleth coals, and a flame goeth out of his mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "13911",
-      "text" : "In his neck remaineth strength, and sorrow is turned into joy before him.",
-      "plainText" : "In his neck remaineth strength, and sorrow is turned into joy before him."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "13911",
+      "text": "In his neck remaineth strength, and sorrow is turned into joy before him.",
+      "plainText": "In his neck remaineth strength, and sorrow is turned into joy before him."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "13912",
-      "text" : "The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.",
-      "plainText" : "The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "13912",
+      "text": "The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.",
+      "plainText": "The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "13913",
-      "text" : "His heart is as firm as a stone; yea, as hard as a piece of the nether <span class='extra'>millstone<\/span>.",
-      "plainText" : "His heart is as firm as a stone; yea, as hard as a piece of the nether millstone."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "13913",
+      "text": "His heart is as firm as a stone; yea, as hard as a piece of the nether <span class='extra'>millstone</span>.",
+      "plainText": "His heart is as firm as a stone; yea, as hard as a piece of the nether millstone."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "13914",
-      "text" : "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.",
-      "plainText" : "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "13914",
+      "text": "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.",
+      "plainText": "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "13915",
-      "text" : "The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon.",
-      "plainText" : "The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "13915",
+      "text": "The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon.",
+      "plainText": "The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "13916",
-      "text" : "He esteemeth iron as straw, <span class='extra'>and<\/span> brass as rotten wood.",
-      "plainText" : "He esteemeth iron as straw, and brass as rotten wood."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "13916",
+      "text": "He esteemeth iron as straw, <span class='extra'>and</span> brass as rotten wood.",
+      "plainText": "He esteemeth iron as straw, and brass as rotten wood."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "13917",
-      "text" : "The arrow cannot make him flee: slingstones are turned with him into stubble.",
-      "plainText" : "The arrow cannot make him flee: slingstones are turned with him into stubble."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "13917",
+      "text": "The arrow cannot make him flee: slingstones are turned with him into stubble.",
+      "plainText": "The arrow cannot make him flee: slingstones are turned with him into stubble."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "13918",
-      "text" : "Darts are counted as stubble: he laugheth at the shaking of a spear.",
-      "plainText" : "Darts are counted as stubble: he laugheth at the shaking of a spear."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "13918",
+      "text": "Darts are counted as stubble: he laugheth at the shaking of a spear.",
+      "plainText": "Darts are counted as stubble: he laugheth at the shaking of a spear."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "13919",
-      "text" : "Sharp stones <span class='extra'>are<\/span> under him: he spreadeth sharp pointed things upon the mire.",
-      "plainText" : "Sharp stones are under him: he spreadeth sharp pointed things upon the mire."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "13919",
+      "text": "Sharp stones <span class='extra'>are</span> under him: he spreadeth sharp pointed things upon the mire.",
+      "plainText": "Sharp stones are under him: he spreadeth sharp pointed things upon the mire."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "13920",
-      "text" : "He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.",
-      "plainText" : "He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "13920",
+      "text": "He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.",
+      "plainText": "He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "13921",
-      "text" : "He maketh a path to shine after him; <span class='extra'>one<\/span> would think the deep <span class='extra'>to be<\/span> hoary.",
-      "plainText" : "He maketh a path to shine after him; one would think the deep to be hoary."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "13921",
+      "text": "He maketh a path to shine after him; <span class='extra'>one</span> would think the deep <span class='extra'>to be</span> hoary.",
+      "plainText": "He maketh a path to shine after him; one would think the deep to be hoary."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "13922",
-      "text" : "Upon earth there is not his like, who is made without fear.",
-      "plainText" : "Upon earth there is not his like, who is made without fear."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "13922",
+      "text": "Upon earth there is not his like, who is made without fear.",
+      "plainText": "Upon earth there is not his like, who is made without fear."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "13923",
-      "text" : "He beholdeth all high <span class='extra'>things<\/span>: he <span class='extra'>is<\/span> a king over all the children of pride.",
-      "plainText" : "He beholdeth all high things: he is a king over all the children of pride."
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "13923",
+      "text": "He beholdeth all high <span class='extra'>things</span>: he <span class='extra'>is</span> a king over all the children of pride.",
+      "plainText": "He beholdeth all high things: he is a king over all the children of pride."
     }
   ]
 }
-

@@ -1,280 +1,253 @@
 {
   "book": {
-    "number" : "18",
-    "filenamePrefix" : "job",
-    "bookPage" : "job.html",
-    "title" : "Job",
-    "chapterCount" : "42",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "psalms_1.html",
-    "nextTitle" : "Psalms",
-    "prevBook" : "esther_1.html",
-    "prevTitle" : "Esther"
+    "number": "18",
+    "filenamePrefix": "job",
+    "bookPage": "job.html",
+    "title": "Job",
+    "chapterCount": "42",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "psalms_1.html",
+    "nextTitle": "Psalms",
+    "prevBook": "esther_1.html",
+    "prevTitle": "Esther",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "28",
-    "verseCount" : "28",
-    "nextChapter" : "job_29.html",
-    "nextTitle" : "Job 29",
-    "prevChapter" : "job_27.html",
-    "prevTitle" : "Job 27",
-    "filename" : "job_28.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "28",
+    "verseCount": "28",
+    "nextChapter": "job_29.html",
+    "nextTitle": "Job 29",
+    "prevChapter": "job_27.html",
+    "prevTitle": "Job 27",
+    "filename": "job_28.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "13506",
-      "text" : "Surely there is a vein for the silver, and a place for gold <span class='extra'>where<\/span> they fine <span class='extra'>it<\/span>.",
-      "plainText" : "Surely there is a vein for the silver, and a place for gold where they fine it."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "13506",
+      "text": "Surely there is a vein for the silver, and a place for gold <span class='extra'>where</span> they fine <span class='extra'>it</span>.",
+      "plainText": "Surely there is a vein for the silver, and a place for gold where they fine it."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "13507",
-      "text" : "Iron is taken out of the earth, and brass <span class='extra'>is<\/span> molten <span class='extra'>out of<\/span> the stone.",
-      "plainText" : "Iron is taken out of the earth, and brass is molten out of the stone."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "13507",
+      "text": "Iron is taken out of the earth, and brass <span class='extra'>is</span> molten <span class='extra'>out of</span> the stone.",
+      "plainText": "Iron is taken out of the earth, and brass is molten out of the stone."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "13508",
-      "text" : "He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death.",
-      "plainText" : "He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "13508",
+      "text": "He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death.",
+      "plainText": "He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "13509",
-      "text" : "The flood breaketh out from the inhabitant; <span class='extra'>even the waters<\/span> forgotten of the foot: they are dried up, they are gone away from men.",
-      "plainText" : "The flood breaketh out from the inhabitant; even the waters forgotten of the foot: they are dried up, they are gone away from men."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "13509",
+      "text": "The flood breaketh out from the inhabitant; <span class='extra'>even the waters</span> forgotten of the foot: they are dried up, they are gone away from men.",
+      "plainText": "The flood breaketh out from the inhabitant; even the waters forgotten of the foot: they are dried up, they are gone away from men."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "13510",
-      "text" : "<span class='extra'>As for<\/span> the earth, out of it cometh bread: and under it is turned up as it were fire.",
-      "plainText" : "As for the earth, out of it cometh bread: and under it is turned up as it were fire."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "13510",
+      "text": "<span class='extra'>As for</span> the earth, out of it cometh bread: and under it is turned up as it were fire.",
+      "plainText": "As for the earth, out of it cometh bread: and under it is turned up as it were fire."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "13511",
-      "text" : "The stones of it <span class='extra'>are<\/span> the place of sapphires: and it hath dust of gold.",
-      "plainText" : "The stones of it are the place of sapphires: and it hath dust of gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "13511",
+      "text": "The stones of it <span class='extra'>are</span> the place of sapphires: and it hath dust of gold.",
+      "plainText": "The stones of it are the place of sapphires: and it hath dust of gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "13512",
-      "text" : "<span class='extra'>There is<\/span> a path which no fowl knoweth, and which the vulture's eye hath not seen:",
-      "plainText" : "There is a path which no fowl knoweth, and which the vulture's eye hath not seen:"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "13512",
+      "text": "<span class='extra'>There is</span> a path which no fowl knoweth, and which the vulture's eye hath not seen:",
+      "plainText": "There is a path which no fowl knoweth, and which the vulture's eye hath not seen:"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "13513",
-      "text" : "The lion's whelps have not trodden it, nor the fierce lion passed by it.",
-      "plainText" : "The lion's whelps have not trodden it, nor the fierce lion passed by it."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "13513",
+      "text": "The lion's whelps have not trodden it, nor the fierce lion passed by it.",
+      "plainText": "The lion's whelps have not trodden it, nor the fierce lion passed by it."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "13514",
-      "text" : "He putteth forth his hand upon the rock; he overturneth the mountains by the roots.",
-      "plainText" : "He putteth forth his hand upon the rock; he overturneth the mountains by the roots."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "13514",
+      "text": "He putteth forth his hand upon the rock; he overturneth the mountains by the roots.",
+      "plainText": "He putteth forth his hand upon the rock; he overturneth the mountains by the roots."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "13515",
-      "text" : "He cutteth out rivers among the rocks; and his eye seeth every precious thing.",
-      "plainText" : "He cutteth out rivers among the rocks; and his eye seeth every precious thing."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "13515",
+      "text": "He cutteth out rivers among the rocks; and his eye seeth every precious thing.",
+      "plainText": "He cutteth out rivers among the rocks; and his eye seeth every precious thing."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "13516",
-      "text" : "He bindeth the floods from overflowing; and <span class='extra'>the thing that is<\/span> hid bringeth he forth to light.",
-      "plainText" : "He bindeth the floods from overflowing; and the thing that is hid bringeth he forth to light."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "13516",
+      "text": "He bindeth the floods from overflowing; and <span class='extra'>the thing that is</span> hid bringeth he forth to light.",
+      "plainText": "He bindeth the floods from overflowing; and the thing that is hid bringeth he forth to light."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "13517",
-      "text" : "But where shall wisdom be found? and where <span class='extra'>is<\/span> the place of understanding?",
-      "plainText" : "But where shall wisdom be found? and where is the place of understanding?"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "13517",
+      "text": "But where shall wisdom be found? and where <span class='extra'>is</span> the place of understanding?",
+      "plainText": "But where shall wisdom be found? and where is the place of understanding?"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "13518",
-      "text" : "Man knoweth not the price thereof; neither is it found in the land of the living.",
-      "plainText" : "Man knoweth not the price thereof; neither is it found in the land of the living."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "13518",
+      "text": "Man knoweth not the price thereof; neither is it found in the land of the living.",
+      "plainText": "Man knoweth not the price thereof; neither is it found in the land of the living."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "13519",
-      "text" : "The depth saith, It <span class='extra'>is<\/span> not in me: and the sea saith, <span class='extra'>It is<\/span> not with me.",
-      "plainText" : "The depth saith, It is not in me: and the sea saith, It is not with me."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "13519",
+      "text": "The depth saith, It <span class='extra'>is</span> not in me: and the sea saith, <span class='extra'>It is</span> not with me.",
+      "plainText": "The depth saith, It is not in me: and the sea saith, It is not with me."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "13520",
-      "text" : "It cannot be gotten for gold, neither shall silver be weighed <span class='extra'>for<\/span> the price thereof.",
-      "plainText" : "It cannot be gotten for gold, neither shall silver be weighed for the price thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "13520",
+      "text": "It cannot be gotten for gold, neither shall silver be weighed <span class='extra'>for</span> the price thereof.",
+      "plainText": "It cannot be gotten for gold, neither shall silver be weighed for the price thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "13521",
-      "text" : "It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire.",
-      "plainText" : "It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "13521",
+      "text": "It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire.",
+      "plainText": "It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "13522",
-      "text" : "The gold and the crystal cannot equal it: and the exchange of it <span class='extra'>shall not be for<\/span> jewels of fine gold.",
-      "plainText" : "The gold and the crystal cannot equal it: and the exchange of it shall not be for jewels of fine gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "13522",
+      "text": "The gold and the crystal cannot equal it: and the exchange of it <span class='extra'>shall not be for</span> jewels of fine gold.",
+      "plainText": "The gold and the crystal cannot equal it: and the exchange of it shall not be for jewels of fine gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "13523",
-      "text" : "No mention shall be made of coral, or of pearls: for the price of wisdom <span class='extra'>is<\/span> above rubies.",
-      "plainText" : "No mention shall be made of coral, or of pearls: for the price of wisdom is above rubies."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "13523",
+      "text": "No mention shall be made of coral, or of pearls: for the price of wisdom <span class='extra'>is</span> above rubies.",
+      "plainText": "No mention shall be made of coral, or of pearls: for the price of wisdom is above rubies."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "13524",
-      "text" : "The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold.",
-      "plainText" : "The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "13524",
+      "text": "The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold.",
+      "plainText": "The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "13525",
-      "text" : "Whence then cometh wisdom? and where <span class='extra'>is<\/span> the place of understanding?",
-      "plainText" : "Whence then cometh wisdom? and where is the place of understanding?"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "13525",
+      "text": "Whence then cometh wisdom? and where <span class='extra'>is</span> the place of understanding?",
+      "plainText": "Whence then cometh wisdom? and where is the place of understanding?"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "13526",
-      "text" : "Seeing it is hid from the eyes of all living, and kept close from the fowls of the air.",
-      "plainText" : "Seeing it is hid from the eyes of all living, and kept close from the fowls of the air."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "13526",
+      "text": "Seeing it is hid from the eyes of all living, and kept close from the fowls of the air.",
+      "plainText": "Seeing it is hid from the eyes of all living, and kept close from the fowls of the air."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "13527",
-      "text" : "Destruction and death say, We have heard the fame thereof with our ears.",
-      "plainText" : "Destruction and death say, We have heard the fame thereof with our ears."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "13527",
+      "text": "Destruction and death say, We have heard the fame thereof with our ears.",
+      "plainText": "Destruction and death say, We have heard the fame thereof with our ears."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "13528",
-      "text" : "God understandeth the way thereof, and he knoweth the place thereof.",
-      "plainText" : "God understandeth the way thereof, and he knoweth the place thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "13528",
+      "text": "God understandeth the way thereof, and he knoweth the place thereof.",
+      "plainText": "God understandeth the way thereof, and he knoweth the place thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "13529",
-      "text" : "For he looketh to the ends of the earth, <span class='extra'>and<\/span> seeth under the whole heaven;",
-      "plainText" : "For he looketh to the ends of the earth, and seeth under the whole heaven;"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "13529",
+      "text": "For he looketh to the ends of the earth, <span class='extra'>and</span> seeth under the whole heaven;",
+      "plainText": "For he looketh to the ends of the earth, and seeth under the whole heaven;"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "13530",
-      "text" : "To make the weight for the winds; and he weigheth the waters by measure.",
-      "plainText" : "To make the weight for the winds; and he weigheth the waters by measure."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "13530",
+      "text": "To make the weight for the winds; and he weigheth the waters by measure.",
+      "plainText": "To make the weight for the winds; and he weigheth the waters by measure."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "13531",
-      "text" : "When he made a decree for the rain, and a way for the lightning of the thunder:",
-      "plainText" : "When he made a decree for the rain, and a way for the lightning of the thunder:"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "13531",
+      "text": "When he made a decree for the rain, and a way for the lightning of the thunder:",
+      "plainText": "When he made a decree for the rain, and a way for the lightning of the thunder:"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "13532",
-      "text" : "Then did he see it, and declare it; he prepared it, yea, and searched it out.",
-      "plainText" : "Then did he see it, and declare it; he prepared it, yea, and searched it out."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "13532",
+      "text": "Then did he see it, and declare it; he prepared it, yea, and searched it out.",
+      "plainText": "Then did he see it, and declare it; he prepared it, yea, and searched it out."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "13533",
-      "text" : "And unto man he said, Behold, the fear of the Lord, that <span class='extra'>is<\/span> wisdom; and to depart from evil <span class='extra'>is<\/span> understanding.",
-      "plainText" : "And unto man he said, Behold, the fear of the Lord, that is wisdom; and to depart from evil is understanding."
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "13533",
+      "text": "And unto man he said, Behold, the fear of the Lord, that <span class='extra'>is</span> wisdom; and to depart from evil <span class='extra'>is</span> understanding.",
+      "plainText": "And unto man he said, Behold, the fear of the Lord, that is wisdom; and to depart from evil is understanding."
     }
   ]
 }
-

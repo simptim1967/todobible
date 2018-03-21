@@ -1,452 +1,405 @@
 {
   "book": {
-    "number" : "3",
-    "filenamePrefix" : "leviticus",
-    "bookPage" : "leviticus.html",
-    "title" : "Leviticus",
-    "chapterCount" : "27",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "numbers_1.html",
-    "nextTitle" : "Numbers",
-    "prevBook" : "exodus_1.html",
-    "prevTitle" : "Exodus"
+    "number": "3",
+    "filenamePrefix": "leviticus",
+    "bookPage": "leviticus.html",
+    "title": "Leviticus",
+    "chapterCount": "27",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "numbers_1.html",
+    "nextTitle": "Numbers",
+    "prevBook": "exodus_1.html",
+    "prevTitle": "Exodus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "11",
-    "verseCount" : "47",
-    "nextChapter" : "leviticus_12.html",
-    "nextTitle" : "Leviticus 12",
-    "prevChapter" : "leviticus_10.html",
-    "prevTitle" : "Leviticus 10",
-    "filename" : "leviticus_11.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "11",
+    "verseCount": "47",
+    "nextChapter": "leviticus_12.html",
+    "nextTitle": "Leviticus 12",
+    "prevChapter": "leviticus_10.html",
+    "prevTitle": "Leviticus 10",
+    "filename": "leviticus_11.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "2999",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses and to Aaron, saying unto them,",
-      "plainText" : "And the LORD spake unto Moses and to Aaron, saying unto them,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "2999",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses and to Aaron, saying unto them,",
+      "plainText": "And the LORD spake unto Moses and to Aaron, saying unto them,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "3000",
-      "text" : "Speak unto the children of Israel, saying, These <span class='extra'>are<\/span> the beasts which ye shall eat among all the beasts that <span class='extra'>are<\/span> on the earth.",
-      "plainText" : "Speak unto the children of Israel, saying, These are the beasts which ye shall eat among all the beasts that are on the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "3000",
+      "text": "Speak unto the children of Israel, saying, These <span class='extra'>are</span> the beasts which ye shall eat among all the beasts that <span class='extra'>are</span> on the earth.",
+      "plainText": "Speak unto the children of Israel, saying, These are the beasts which ye shall eat among all the beasts that are on the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "3001",
-      "text" : "Whatsoever parteth the hoof, and is clovenfooted, <span class='extra'>and<\/span> cheweth the cud, among the beasts, that shall ye eat.",
-      "plainText" : "Whatsoever parteth the hoof, and is clovenfooted, and cheweth the cud, among the beasts, that shall ye eat."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "3001",
+      "text": "Whatsoever parteth the hoof, and is clovenfooted, <span class='extra'>and</span> cheweth the cud, among the beasts, that shall ye eat.",
+      "plainText": "Whatsoever parteth the hoof, and is clovenfooted, and cheweth the cud, among the beasts, that shall ye eat."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "3002",
-      "text" : "Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: <span class='extra'>as<\/span> the camel, because he cheweth the cud, but divideth not the hoof; he <span class='extra'>is<\/span> unclean unto you.",
-      "plainText" : "Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: as the camel, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "3002",
+      "text": "Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: <span class='extra'>as</span> the camel, because he cheweth the cud, but divideth not the hoof; he <span class='extra'>is</span> unclean unto you.",
+      "plainText": "Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: as the camel, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "3003",
-      "text" : "And the coney, because he cheweth the cud, but divideth not the hoof; he <span class='extra'>is<\/span> unclean unto you.",
-      "plainText" : "And the coney, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "3003",
+      "text": "And the coney, because he cheweth the cud, but divideth not the hoof; he <span class='extra'>is</span> unclean unto you.",
+      "plainText": "And the coney, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "3004",
-      "text" : "And the hare, because he cheweth the cud, but divideth not the hoof; he <span class='extra'>is<\/span> unclean unto you.",
-      "plainText" : "And the hare, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "3004",
+      "text": "And the hare, because he cheweth the cud, but divideth not the hoof; he <span class='extra'>is</span> unclean unto you.",
+      "plainText": "And the hare, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "3005",
-      "text" : "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he <span class='extra'>is<\/span> unclean to you.",
-      "plainText" : "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he is unclean to you."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "3005",
+      "text": "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he <span class='extra'>is</span> unclean to you.",
+      "plainText": "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he is unclean to you."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "3006",
-      "text" : "Of their flesh shall ye not eat, and their carcase shall ye not touch; they <span class='extra'>are<\/span> unclean to you.",
-      "plainText" : "Of their flesh shall ye not eat, and their carcase shall ye not touch; they are unclean to you."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "3006",
+      "text": "Of their flesh shall ye not eat, and their carcase shall ye not touch; they <span class='extra'>are</span> unclean to you.",
+      "plainText": "Of their flesh shall ye not eat, and their carcase shall ye not touch; they are unclean to you."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "3007",
-      "text" : "These shall ye eat of all that <span class='extra'>are<\/span> in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat.",
-      "plainText" : "These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "3007",
+      "text": "These shall ye eat of all that <span class='extra'>are</span> in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat.",
+      "plainText": "These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "3008",
-      "text" : "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which <span class='extra'>is<\/span> in the waters, they <span class='extra'>shall be<\/span> an abomination unto you:",
-      "plainText" : "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which is in the waters, they shall be an abomination unto you:"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "3008",
+      "text": "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which <span class='extra'>is</span> in the waters, they <span class='extra'>shall be</span> an abomination unto you:",
+      "plainText": "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which is in the waters, they shall be an abomination unto you:"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "3009",
-      "text" : "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination.",
-      "plainText" : "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "3009",
+      "text": "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination.",
+      "plainText": "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "3010",
-      "text" : "Whatsoever hath no fins nor scales in the waters, that <span class='extra'>shall be<\/span> an abomination unto you.",
-      "plainText" : "Whatsoever hath no fins nor scales in the waters, that shall be an abomination unto you."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "3010",
+      "text": "Whatsoever hath no fins nor scales in the waters, that <span class='extra'>shall be</span> an abomination unto you.",
+      "plainText": "Whatsoever hath no fins nor scales in the waters, that shall be an abomination unto you."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "3011",
-      "text" : "And these <span class='extra'>are they which<\/span> ye shall have in abomination among the fowls; they shall not be eaten, they <span class='extra'>are<\/span> an abomination: the eagle, and the ossifrage, and the ospray,",
-      "plainText" : "And these are they which ye shall have in abomination among the fowls; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray,"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "3011",
+      "text": "And these <span class='extra'>are they which</span> ye shall have in abomination among the fowls; they shall not be eaten, they <span class='extra'>are</span> an abomination: the eagle, and the ossifrage, and the ospray,",
+      "plainText": "And these are they which ye shall have in abomination among the fowls; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray,"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "3012",
-      "text" : "And the vulture, and the kite after his kind;",
-      "plainText" : "And the vulture, and the kite after his kind;"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "3012",
+      "text": "And the vulture, and the kite after his kind;",
+      "plainText": "And the vulture, and the kite after his kind;"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "3013",
-      "text" : "Every raven after his kind;",
-      "plainText" : "Every raven after his kind;"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "3013",
+      "text": "Every raven after his kind;",
+      "plainText": "Every raven after his kind;"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "3014",
-      "text" : "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,",
-      "plainText" : "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "3014",
+      "text": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,",
+      "plainText": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "3015",
-      "text" : "And the little owl, and the cormorant, and the great owl,",
-      "plainText" : "And the little owl, and the cormorant, and the great owl,"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "3015",
+      "text": "And the little owl, and the cormorant, and the great owl,",
+      "plainText": "And the little owl, and the cormorant, and the great owl,"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "3016",
-      "text" : "And the swan, and the pelican, and the gier eagle,",
-      "plainText" : "And the swan, and the pelican, and the gier eagle,"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "3016",
+      "text": "And the swan, and the pelican, and the gier eagle,",
+      "plainText": "And the swan, and the pelican, and the gier eagle,"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "3017",
-      "text" : "And the stork, the heron after her kind, and the lapwing, and the bat.",
-      "plainText" : "And the stork, the heron after her kind, and the lapwing, and the bat."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "3017",
+      "text": "And the stork, the heron after her kind, and the lapwing, and the bat.",
+      "plainText": "And the stork, the heron after her kind, and the lapwing, and the bat."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "3018",
-      "text" : "All fowls that creep, going upon <span class='extra'>all<\/span> four, <span class='extra'>shall be<\/span> an abomination unto you.",
-      "plainText" : "All fowls that creep, going upon all four, shall be an abomination unto you."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "3018",
+      "text": "All fowls that creep, going upon <span class='extra'>all</span> four, <span class='extra'>shall be</span> an abomination unto you.",
+      "plainText": "All fowls that creep, going upon all four, shall be an abomination unto you."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "3019",
-      "text" : "Yet these may ye eat of every flying creeping thing that goeth upon <span class='extra'>all<\/span> four, which have legs above their feet, to leap withal upon the earth;",
-      "plainText" : "Yet these may ye eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth;"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "3019",
+      "text": "Yet these may ye eat of every flying creeping thing that goeth upon <span class='extra'>all</span> four, which have legs above their feet, to leap withal upon the earth;",
+      "plainText": "Yet these may ye eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth;"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "3020",
-      "text" : "<span class='extra'>Even<\/span> these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind.",
-      "plainText" : "Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "3020",
+      "text": "<span class='extra'>Even</span> these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind.",
+      "plainText": "Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "3021",
-      "text" : "But all <span class='extra'>other<\/span> flying creeping things, which have four feet, <span class='extra'>shall be<\/span> an abomination unto you.",
-      "plainText" : "But all other flying creeping things, which have four feet, shall be an abomination unto you."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "3021",
+      "text": "But all <span class='extra'>other</span> flying creeping things, which have four feet, <span class='extra'>shall be</span> an abomination unto you.",
+      "plainText": "But all other flying creeping things, which have four feet, shall be an abomination unto you."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "3022",
-      "text" : "And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even.",
-      "plainText" : "And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "3022",
+      "text": "And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even.",
+      "plainText": "And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "3023",
-      "text" : "And whosoever beareth <span class='extra'>ought<\/span> of the carcase of them shall wash his clothes, and be unclean until the even.",
-      "plainText" : "And whosoever beareth ought of the carcase of them shall wash his clothes, and be unclean until the even."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "3023",
+      "text": "And whosoever beareth <span class='extra'>ought</span> of the carcase of them shall wash his clothes, and be unclean until the even.",
+      "plainText": "And whosoever beareth ought of the carcase of them shall wash his clothes, and be unclean until the even."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "3024",
-      "text" : "<span class='extra'>The carcases<\/span> of every beast which divideth the hoof, and <span class='extra'>is<\/span> not clovenfooted, nor cheweth the cud, <span class='extra'>are<\/span> unclean unto you: every one that toucheth them shall be unclean.",
-      "plainText" : "The carcases of every beast which divideth the hoof, and is not clovenfooted, nor cheweth the cud, are unclean unto you: every one that toucheth them shall be unclean."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "3024",
+      "text": "<span class='extra'>The carcases</span> of every beast which divideth the hoof, and <span class='extra'>is</span> not clovenfooted, nor cheweth the cud, <span class='extra'>are</span> unclean unto you: every one that toucheth them shall be unclean.",
+      "plainText": "The carcases of every beast which divideth the hoof, and is not clovenfooted, nor cheweth the cud, are unclean unto you: every one that toucheth them shall be unclean."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "3025",
-      "text" : "And whatsoever goeth upon his paws, among all manner of beasts that go on <span class='extra'>all<\/span> four, those <span class='extra'>are<\/span> unclean unto you: whoso toucheth their carcase shall be unclean until the even.",
-      "plainText" : "And whatsoever goeth upon his paws, among all manner of beasts that go on all four, those are unclean unto you: whoso toucheth their carcase shall be unclean until the even."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "3025",
+      "text": "And whatsoever goeth upon his paws, among all manner of beasts that go on <span class='extra'>all</span> four, those <span class='extra'>are</span> unclean unto you: whoso toucheth their carcase shall be unclean until the even.",
+      "plainText": "And whatsoever goeth upon his paws, among all manner of beasts that go on all four, those are unclean unto you: whoso toucheth their carcase shall be unclean until the even."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "3026",
-      "text" : "And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they <span class='extra'>are<\/span> unclean unto you.",
-      "plainText" : "And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they are unclean unto you."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "3026",
+      "text": "And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they <span class='extra'>are</span> unclean unto you.",
+      "plainText": "And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they are unclean unto you."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "3027",
-      "text" : "These also <span class='extra'>shall be<\/span> unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,",
-      "plainText" : "These also shall be unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "3027",
+      "text": "These also <span class='extra'>shall be</span> unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,",
+      "plainText": "These also shall be unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "3028",
-      "text" : "And the ferret, and the chameleon, and the lizard, and the snail, and the mole.",
-      "plainText" : "And the ferret, and the chameleon, and the lizard, and the snail, and the mole."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "3028",
+      "text": "And the ferret, and the chameleon, and the lizard, and the snail, and the mole.",
+      "plainText": "And the ferret, and the chameleon, and the lizard, and the snail, and the mole."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "3029",
-      "text" : "These <span class='extra'>are<\/span> unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even.",
-      "plainText" : "These are unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "3029",
+      "text": "These <span class='extra'>are</span> unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even.",
+      "plainText": "These are unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "3030",
-      "text" : "And upon whatsoever <span class='extra'>any<\/span> of them, when they are dead, doth fall, it shall be unclean; whether <span class='extra'>it be<\/span> any vessel of wood, or raiment, or skin, or sack, whatsoever vessel <span class='extra'>it be<\/span>, wherein <span class='extra'>any<\/span> work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed.",
-      "plainText" : "And upon whatsoever any of them, when they are dead, doth fall, it shall be unclean; whether it be any vessel of wood, or raiment, or skin, or sack, whatsoever vessel it be, wherein any work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "3030",
+      "text": "And upon whatsoever <span class='extra'>any</span> of them, when they are dead, doth fall, it shall be unclean; whether <span class='extra'>it be</span> any vessel of wood, or raiment, or skin, or sack, whatsoever vessel <span class='extra'>it be</span>, wherein <span class='extra'>any</span> work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed.",
+      "plainText": "And upon whatsoever any of them, when they are dead, doth fall, it shall be unclean; whether it be any vessel of wood, or raiment, or skin, or sack, whatsoever vessel it be, wherein any work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "3031",
-      "text" : "And every earthen vessel, whereinto <span class='extra'>any<\/span> of them falleth, whatsoever <span class='extra'>is<\/span> in it shall be unclean; and ye shall break it.",
-      "plainText" : "And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "3031",
+      "text": "And every earthen vessel, whereinto <span class='extra'>any</span> of them falleth, whatsoever <span class='extra'>is</span> in it shall be unclean; and ye shall break it.",
+      "plainText": "And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "3032",
-      "text" : "Of all meat which may be eaten, <span class='extra'>that<\/span> on which <span class='extra'>such<\/span> water cometh shall be unclean: and all drink that may be drunk in every <span class='extra'>such<\/span> vessel shall be unclean.",
-      "plainText" : "Of all meat which may be eaten, that on which such water cometh shall be unclean: and all drink that may be drunk in every such vessel shall be unclean."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "3032",
+      "text": "Of all meat which may be eaten, <span class='extra'>that</span> on which <span class='extra'>such</span> water cometh shall be unclean: and all drink that may be drunk in every <span class='extra'>such</span> vessel shall be unclean.",
+      "plainText": "Of all meat which may be eaten, that on which such water cometh shall be unclean: and all drink that may be drunk in every such vessel shall be unclean."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "3033",
-      "text" : "And every <span class='extra'>thing<\/span> whereupon <span class='extra'>any part<\/span> of their carcase falleth shall be unclean; <span class='extra'>whether it be<\/span> oven, or ranges for pots, they shall be broken down: <span class='extra'>for<\/span> they <span class='extra'>are<\/span> unclean, and shall be unclean unto you.",
-      "plainText" : "And every thing whereupon any part of their carcase falleth shall be unclean; whether it be oven, or ranges for pots, they shall be broken down: for they are unclean, and shall be unclean unto you."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "3033",
+      "text": "And every <span class='extra'>thing</span> whereupon <span class='extra'>any part</span> of their carcase falleth shall be unclean; <span class='extra'>whether it be</span> oven, or ranges for pots, they shall be broken down: <span class='extra'>for</span> they <span class='extra'>are</span> unclean, and shall be unclean unto you.",
+      "plainText": "And every thing whereupon any part of their carcase falleth shall be unclean; whether it be oven, or ranges for pots, they shall be broken down: for they are unclean, and shall be unclean unto you."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "3034",
-      "text" : "Nevertheless a fountain or pit, <span class='extra'>wherein there is<\/span> plenty of water, shall be clean: but that which toucheth their carcase shall be unclean.",
-      "plainText" : "Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which toucheth their carcase shall be unclean."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "3034",
+      "text": "Nevertheless a fountain or pit, <span class='extra'>wherein there is</span> plenty of water, shall be clean: but that which toucheth their carcase shall be unclean.",
+      "plainText": "Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which toucheth their carcase shall be unclean."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "3035",
-      "text" : "And if <span class='extra'>any part<\/span> of their carcase fall upon any sowing seed which is to be sown, it <span class='extra'>shall be<\/span> clean.",
-      "plainText" : "And if any part of their carcase fall upon any sowing seed which is to be sown, it shall be clean."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "3035",
+      "text": "And if <span class='extra'>any part</span> of their carcase fall upon any sowing seed which is to be sown, it <span class='extra'>shall be</span> clean.",
+      "plainText": "And if any part of their carcase fall upon any sowing seed which is to be sown, it shall be clean."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "3036",
-      "text" : "But if <span class='extra'>any<\/span> water be put upon the seed, and <span class='extra'>any part<\/span> of their carcase fall thereon, it <span class='extra'>shall be<\/span> unclean unto you.",
-      "plainText" : "But if any water be put upon the seed, and any part of their carcase fall thereon, it shall be unclean unto you."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "3036",
+      "text": "But if <span class='extra'>any</span> water be put upon the seed, and <span class='extra'>any part</span> of their carcase fall thereon, it <span class='extra'>shall be</span> unclean unto you.",
+      "plainText": "But if any water be put upon the seed, and any part of their carcase fall thereon, it shall be unclean unto you."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "3037",
-      "text" : "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even.",
-      "plainText" : "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "3037",
+      "text": "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even.",
+      "plainText": "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "3038",
-      "text" : "And he that eateth of the carcase of it shall wash his clothes, and be unclean until the even: he also that beareth the carcase of it shall wash his clothes, and be unclean until the even.",
-      "plainText" : "And he that eateth of the carcase of it shall wash his clothes, and be unclean until the even: he also that beareth the carcase of it shall wash his clothes, and be unclean until the even."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "3038",
+      "text": "And he that eateth of the carcase of it shall wash his clothes, and be unclean until the even: he also that beareth the carcase of it shall wash his clothes, and be unclean until the even.",
+      "plainText": "And he that eateth of the carcase of it shall wash his clothes, and be unclean until the even: he also that beareth the carcase of it shall wash his clothes, and be unclean until the even."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "3039",
-      "text" : "And every creeping thing that creepeth upon the earth <span class='extra'>shall be<\/span> an abomination; it shall not be eaten.",
-      "plainText" : "And every creeping thing that creepeth upon the earth shall be an abomination; it shall not be eaten."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "3039",
+      "text": "And every creeping thing that creepeth upon the earth <span class='extra'>shall be</span> an abomination; it shall not be eaten.",
+      "plainText": "And every creeping thing that creepeth upon the earth shall be an abomination; it shall not be eaten."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "3040",
-      "text" : "Whatsoever goeth upon the belly, and whatsoever goeth upon <span class='extra'>all<\/span> four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they <span class='extra'>are<\/span> an abomination.",
-      "plainText" : "Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination."
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "3040",
+      "text": "Whatsoever goeth upon the belly, and whatsoever goeth upon <span class='extra'>all</span> four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they <span class='extra'>are</span> an abomination.",
+      "plainText": "Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination."
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "3041",
-      "text" : "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby.",
-      "plainText" : "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "3041",
+      "text": "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby.",
+      "plainText": "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "3042",
-      "text" : "For I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span> your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I <span class='extra'>am<\/span> holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.",
-      "plainText" : "For I am the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "3042",
+      "text": "For I <span class='extra'>am</span> the <span class='nog'>LORD</span> your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I <span class='extra'>am</span> holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.",
+      "plainText": "For I am the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "3043",
-      "text" : "For I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span> that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I <span class='extra'>am<\/span> holy.",
-      "plainText" : "For I am the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy."
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "3043",
+      "text": "For I <span class='extra'>am</span> the <span class='nog'>LORD</span> that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I <span class='extra'>am</span> holy.",
+      "plainText": "For I am the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy."
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "3044",
-      "text" : "This <span class='extra'>is<\/span> the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:",
-      "plainText" : "This is the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:"
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "3044",
+      "text": "This <span class='extra'>is</span> the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:",
+      "plainText": "This is the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:"
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "3045",
-      "text" : "To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten.",
-      "plainText" : "To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten."
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "3045",
+      "text": "To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten.",
+      "plainText": "To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten."
     }
   ]
 }
-
-

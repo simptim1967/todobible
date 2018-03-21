@@ -1,280 +1,253 @@
 {
   "book": {
-    "number" : "44",
-    "filenamePrefix" : "acts",
-    "bookPage" : "acts.html",
-    "title" : "Acts",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "romans_1.html",
-    "nextTitle" : "Romans",
-    "prevBook" : "john_1.html",
-    "prevTitle" : "John"
+    "number": "44",
+    "filenamePrefix": "acts",
+    "bookPage": "acts.html",
+    "title": "Acts",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "romans_1.html",
+    "nextTitle": "Romans",
+    "prevBook": "john_1.html",
+    "prevTitle": "John",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "18",
-    "verseCount" : "28",
-    "nextChapter" : "acts_19.html",
-    "nextTitle" : "Acts 19",
-    "prevChapter" : "acts_17.html",
-    "prevTitle" : "Acts 17",
-    "filename" : "acts_18.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "18",
+    "verseCount": "28",
+    "nextChapter": "acts_19.html",
+    "nextTitle": "Acts 19",
+    "prevChapter": "acts_17.html",
+    "prevTitle": "Acts 17",
+    "filename": "acts_18.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "27559",
-      "text" : "After these things Paul departed from Athens, and came to Corinth;",
-      "plainText" : "After these things Paul departed from Athens, and came to Corinth;"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "27559",
+      "text": "After these things Paul departed from Athens, and came to Corinth;",
+      "plainText": "After these things Paul departed from Athens, and came to Corinth;"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "27560",
-      "text" : "And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.",
-      "plainText" : "And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "27560",
+      "text": "And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.",
+      "plainText": "And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "27561",
-      "text" : "And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.",
-      "plainText" : "And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "27561",
+      "text": "And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.",
+      "plainText": "And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "27562",
-      "text" : "And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.",
-      "plainText" : "And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "27562",
+      "text": "And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.",
+      "plainText": "And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "27563",
-      "text" : "And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews <span class='extra'>that<\/span> Jesus <span class='extra'>was<\/span> Christ.",
-      "plainText" : "And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "27563",
+      "text": "And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews <span class='extra'>that</span> Jesus <span class='extra'>was</span> Christ.",
+      "plainText": "And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "27564",
-      "text" : "And when they opposed themselves, and blasphemed, he shook <span class='extra'>his<\/span> raiment, and said unto them, Your blood <span class='extra'>be<\/span> upon your own heads; I <span class='extra'>am<\/span> clean: from henceforth I will go unto the Gentiles.",
-      "plainText" : "And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "27564",
+      "text": "And when they opposed themselves, and blasphemed, he shook <span class='extra'>his</span> raiment, and said unto them, Your blood <span class='extra'>be</span> upon your own heads; I <span class='extra'>am</span> clean: from henceforth I will go unto the Gentiles.",
+      "plainText": "And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "27565",
-      "text" : "And he departed thence, and entered into a certain <span class='extra'>man's<\/span> house, named Justus, <span class='extra'>one<\/span> that worshipped God, whose house joined hard to the synagogue.",
-      "plainText" : "And he departed thence, and entered into a certain man's house, named Justus, one that worshipped God, whose house joined hard to the synagogue."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "27565",
+      "text": "And he departed thence, and entered into a certain <span class='extra'>man's</span> house, named Justus, <span class='extra'>one</span> that worshipped God, whose house joined hard to the synagogue.",
+      "plainText": "And he departed thence, and entered into a certain man's house, named Justus, one that worshipped God, whose house joined hard to the synagogue."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "27566",
-      "text" : "And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.",
-      "plainText" : "And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "27566",
+      "text": "And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.",
+      "plainText": "And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "27567",
-      "text" : "Then spake the Lord to Paul in the night by a vision, <span class='woc'>Be not afraid, but speak, and hold not thy peace:<\/span>",
-      "plainText" : "Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "27567",
+      "text": "Then spake the Lord to Paul in the night by a vision, <span class='woc'>Be not afraid, but speak, and hold not thy peace:</span>",
+      "plainText": "Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "27568",
-      "text" : "<span class='woc'>For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.<\/span>",
-      "plainText" : "For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "27568",
+      "text": "<span class='woc'>For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.</span>",
+      "plainText": "For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "27569",
-      "text" : "And he continued <span class='extra'>there<\/span> a year and six months, teaching the word of God among them.",
-      "plainText" : "And he continued there a year and six months, teaching the word of God among them."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "27569",
+      "text": "And he continued <span class='extra'>there</span> a year and six months, teaching the word of God among them.",
+      "plainText": "And he continued there a year and six months, teaching the word of God among them."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "27570",
-      "text" : "And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,",
-      "plainText" : "And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "27570",
+      "text": "And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,",
+      "plainText": "And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "27571",
-      "text" : "Saying, This <span class='extra'>fellow<\/span> persuadeth men to worship God contrary to the law.",
-      "plainText" : "Saying, This fellow persuadeth men to worship God contrary to the law."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "27571",
+      "text": "Saying, This <span class='extra'>fellow</span> persuadeth men to worship God contrary to the law.",
+      "plainText": "Saying, This fellow persuadeth men to worship God contrary to the law."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "27572",
-      "text" : "And when Paul was now about to open <span class='extra'>his<\/span> mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O <span class='extra'>ye<\/span> Jews, reason would that I should bear with you:",
-      "plainText" : "And when Paul was now about to open his mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O ye Jews, reason would that I should bear with you:"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "27572",
+      "text": "And when Paul was now about to open <span class='extra'>his</span> mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O <span class='extra'>ye</span> Jews, reason would that I should bear with you:",
+      "plainText": "And when Paul was now about to open his mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O ye Jews, reason would that I should bear with you:"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "27573",
-      "text" : "But if it be a question of words and names, and <span class='extra'>of<\/span> your law, look ye <span class='extra'>to it<\/span>; for I will be no judge of such <span class='extra'>matters<\/span>.",
-      "plainText" : "But if it be a question of words and names, and of your law, look ye to it; for I will be no judge of such matters."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "27573",
+      "text": "But if it be a question of words and names, and <span class='extra'>of</span> your law, look ye <span class='extra'>to it</span>; for I will be no judge of such <span class='extra'>matters</span>.",
+      "plainText": "But if it be a question of words and names, and of your law, look ye to it; for I will be no judge of such matters."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "27574",
-      "text" : "And he drave them from the judgment seat.",
-      "plainText" : "And he drave them from the judgment seat."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "27574",
+      "text": "And he drave them from the judgment seat.",
+      "plainText": "And he drave them from the judgment seat."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "27575",
-      "text" : "Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat <span class='extra'>him<\/span> before the judgment seat. And Gallio cared for none of those things.",
-      "plainText" : "Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "27575",
+      "text": "Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat <span class='extra'>him</span> before the judgment seat. And Gallio cared for none of those things.",
+      "plainText": "Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "27576",
-      "text" : "And Paul <span class='extra'>after this<\/span> tarried <span class='extra'>there<\/span> yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn <span class='extra'>his<\/span> head in Cenchrea: for he had a vow.",
-      "plainText" : "And Paul after this tarried there yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "27576",
+      "text": "And Paul <span class='extra'>after this</span> tarried <span class='extra'>there</span> yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn <span class='extra'>his</span> head in Cenchrea: for he had a vow.",
+      "plainText": "And Paul after this tarried there yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "27577",
-      "text" : "And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews.",
-      "plainText" : "And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "27577",
+      "text": "And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews.",
+      "plainText": "And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "27578",
-      "text" : "When they desired <span class='extra'>him<\/span> to tarry longer time with them, he consented not;",
-      "plainText" : "When they desired him to tarry longer time with them, he consented not;"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "27578",
+      "text": "When they desired <span class='extra'>him</span> to tarry longer time with them, he consented not;",
+      "plainText": "When they desired him to tarry longer time with them, he consented not;"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "27579",
-      "text" : "But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus.",
-      "plainText" : "But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "27579",
+      "text": "But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus.",
+      "plainText": "But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "27580",
-      "text" : "And when he had landed at Caesarea, and gone up, and saluted the church, he went down to Antioch.",
-      "plainText" : "And when he had landed at Caesarea, and gone up, and saluted the church, he went down to Antioch."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "27580",
+      "text": "And when he had landed at Caesarea, and gone up, and saluted the church, he went down to Antioch.",
+      "plainText": "And when he had landed at Caesarea, and gone up, and saluted the church, he went down to Antioch."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "27581",
-      "text" : "And after he had spent some time <span class='extra'>there<\/span>, he departed, and went over <span class='extra'>all<\/span> the country of Galatia and Phrygia in order, strengthening all the disciples.",
-      "plainText" : "And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, strengthening all the disciples."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "27581",
+      "text": "And after he had spent some time <span class='extra'>there</span>, he departed, and went over <span class='extra'>all</span> the country of Galatia and Phrygia in order, strengthening all the disciples.",
+      "plainText": "And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, strengthening all the disciples."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "27582",
-      "text" : "And a certain Jew named Apollos, born at Alexandria, an eloquent man, <span class='extra'>and<\/span> mighty in the scriptures, came to Ephesus.",
-      "plainText" : "And a certain Jew named Apollos, born at Alexandria, an eloquent man, and mighty in the scriptures, came to Ephesus."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "27582",
+      "text": "And a certain Jew named Apollos, born at Alexandria, an eloquent man, <span class='extra'>and</span> mighty in the scriptures, came to Ephesus.",
+      "plainText": "And a certain Jew named Apollos, born at Alexandria, an eloquent man, and mighty in the scriptures, came to Ephesus."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "27583",
-      "text" : "This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John.",
-      "plainText" : "This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "27583",
+      "text": "This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John.",
+      "plainText": "This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "27584",
-      "text" : "And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto <span class='extra'>them<\/span>, and expounded unto him the way of God more perfectly.",
-      "plainText" : "And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto them, and expounded unto him the way of God more perfectly."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "27584",
+      "text": "And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto <span class='extra'>them</span>, and expounded unto him the way of God more perfectly.",
+      "plainText": "And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto them, and expounded unto him the way of God more perfectly."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "27585",
-      "text" : "And when he was disposed to pass into Achaia, the brethren wrote, exhorting the disciples to receive him: who, when he was come, helped them much which had believed through grace:",
-      "plainText" : "And when he was disposed to pass into Achaia, the brethren wrote, exhorting the disciples to receive him: who, when he was come, helped them much which had believed through grace:"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "27585",
+      "text": "And when he was disposed to pass into Achaia, the brethren wrote, exhorting the disciples to receive him: who, when he was come, helped them much which had believed through grace:",
+      "plainText": "And when he was disposed to pass into Achaia, the brethren wrote, exhorting the disciples to receive him: who, when he was come, helped them much which had believed through grace:"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "27586",
-      "text" : "For he mightily convinced the Jews, <span class='extra'>and that<\/span> publickly, shewing by the scriptures that Jesus was Christ.",
-      "plainText" : "For he mightily convinced the Jews, and that publickly, shewing by the scriptures that Jesus was Christ."
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "27586",
+      "text": "For he mightily convinced the Jews, <span class='extra'>and that</span> publickly, shewing by the scriptures that Jesus was Christ.",
+      "plainText": "For he mightily convinced the Jews, and that publickly, shewing by the scriptures that Jesus was Christ."
     }
   ]
 }
-

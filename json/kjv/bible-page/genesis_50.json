@@ -1,262 +1,237 @@
 {
   "book": {
-    "number" : "1",
-    "filenamePrefix" : "genesis",
-    "bookPage" : "genesis.html",
-    "title" : "Genesis",
-    "chapterCount" : "50",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "exodus_1.html",
-    "nextTitle" : "Exodus",
-    "prevBook" : "revelation_1.html",
-    "prevTitle" : "Revelation"
+    "number": "1",
+    "filenamePrefix": "genesis",
+    "bookPage": "genesis.html",
+    "title": "Genesis",
+    "chapterCount": "50",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "exodus_1.html",
+    "nextTitle": "Exodus",
+    "prevBook": "revelation_1.html",
+    "prevTitle": "Revelation",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "50",
-    "verseCount" : "26",
-    "nextChapter" : "exodus_1.html",
-    "nextTitle" : "Exodus 1",
-    "prevChapter" : "genesis_49.html",
-    "prevTitle" : "Genesis 49",
-    "filename" : "genesis_50.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "50",
+    "verseCount": "26",
+    "nextChapter": "exodus_1.html",
+    "nextTitle": "Exodus 1",
+    "prevChapter": "genesis_49.html",
+    "prevTitle": "Genesis 49",
+    "filename": "genesis_50.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "1508",
-      "text" : "And Joseph fell upon his father's face, and wept upon him, and kissed him.",
-      "plainText" : "And Joseph fell upon his father's face, and wept upon him, and kissed him."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "1508",
+      "text": "And Joseph fell upon his father's face, and wept upon him, and kissed him.",
+      "plainText": "And Joseph fell upon his father's face, and wept upon him, and kissed him."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "1509",
-      "text" : "And Joseph commanded his servants the physicians to embalm his father: and the physicians embalmed Israel.",
-      "plainText" : "And Joseph commanded his servants the physicians to embalm his father: and the physicians embalmed Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "1509",
+      "text": "And Joseph commanded his servants the physicians to embalm his father: and the physicians embalmed Israel.",
+      "plainText": "And Joseph commanded his servants the physicians to embalm his father: and the physicians embalmed Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "1510",
-      "text" : "And forty days were fulfilled for him; for so are fulfilled the days of those which are embalmed: and the Egyptians mourned for him threescore and ten days.",
-      "plainText" : "And forty days were fulfilled for him; for so are fulfilled the days of those which are embalmed: and the Egyptians mourned for him threescore and ten days."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "1510",
+      "text": "And forty days were fulfilled for him; for so are fulfilled the days of those which are embalmed: and the Egyptians mourned for him threescore and ten days.",
+      "plainText": "And forty days were fulfilled for him; for so are fulfilled the days of those which are embalmed: and the Egyptians mourned for him threescore and ten days."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "1511",
-      "text" : "And when the days of his mourning were past, Joseph spake unto the house of Pharaoh, saying, If now I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,",
-      "plainText" : "And when the days of his mourning were past, Joseph spake unto the house of Pharaoh, saying, If now I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "1511",
+      "text": "And when the days of his mourning were past, Joseph spake unto the house of Pharaoh, saying, If now I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,",
+      "plainText": "And when the days of his mourning were past, Joseph spake unto the house of Pharaoh, saying, If now I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "1512",
-      "text" : "My father made me swear, saying, Lo, I die: in my grave which I have digged for me in the land of Canaan, there shalt thou bury me. Now therefore let me go up, I pray thee, and bury my father, and I will come again.",
-      "plainText" : "My father made me swear, saying, Lo, I die: in my grave which I have digged for me in the land of Canaan, there shalt thou bury me. Now therefore let me go up, I pray thee, and bury my father, and I will come again."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "1512",
+      "text": "My father made me swear, saying, Lo, I die: in my grave which I have digged for me in the land of Canaan, there shalt thou bury me. Now therefore let me go up, I pray thee, and bury my father, and I will come again.",
+      "plainText": "My father made me swear, saying, Lo, I die: in my grave which I have digged for me in the land of Canaan, there shalt thou bury me. Now therefore let me go up, I pray thee, and bury my father, and I will come again."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "1513",
-      "text" : "And Pharaoh said, Go up, and bury thy father, according as he made thee swear.",
-      "plainText" : "And Pharaoh said, Go up, and bury thy father, according as he made thee swear."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "1513",
+      "text": "And Pharaoh said, Go up, and bury thy father, according as he made thee swear.",
+      "plainText": "And Pharaoh said, Go up, and bury thy father, according as he made thee swear."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "1514",
-      "text" : "And Joseph went up to bury his father: and with him went up all the servants of Pharaoh, the elders of his house, and all the elders of the land of Egypt,",
-      "plainText" : "And Joseph went up to bury his father: and with him went up all the servants of Pharaoh, the elders of his house, and all the elders of the land of Egypt,"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "1514",
+      "text": "And Joseph went up to bury his father: and with him went up all the servants of Pharaoh, the elders of his house, and all the elders of the land of Egypt,",
+      "plainText": "And Joseph went up to bury his father: and with him went up all the servants of Pharaoh, the elders of his house, and all the elders of the land of Egypt,"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "1515",
-      "text" : "And all the house of Joseph, and his brethren, and his father's house: only their little ones, and their flocks, and their herds, they left in the land of Goshen.",
-      "plainText" : "And all the house of Joseph, and his brethren, and his father's house: only their little ones, and their flocks, and their herds, they left in the land of Goshen."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "1515",
+      "text": "And all the house of Joseph, and his brethren, and his father's house: only their little ones, and their flocks, and their herds, they left in the land of Goshen.",
+      "plainText": "And all the house of Joseph, and his brethren, and his father's house: only their little ones, and their flocks, and their herds, they left in the land of Goshen."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "1516",
-      "text" : "And there went up with him both chariots and horsemen: and it was a very great company.",
-      "plainText" : "And there went up with him both chariots and horsemen: and it was a very great company."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "1516",
+      "text": "And there went up with him both chariots and horsemen: and it was a very great company.",
+      "plainText": "And there went up with him both chariots and horsemen: and it was a very great company."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "1517",
-      "text" : "And they came to the threshingfloor of Atad, which <span class='extra'>is<\/span> beyond Jordan, and there they mourned with a great and very sore lamentation: and he made a mourning for his father seven days.",
-      "plainText" : "And they came to the threshingfloor of Atad, which is beyond Jordan, and there they mourned with a great and very sore lamentation: and he made a mourning for his father seven days."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "1517",
+      "text": "And they came to the threshingfloor of Atad, which <span class='extra'>is</span> beyond Jordan, and there they mourned with a great and very sore lamentation: and he made a mourning for his father seven days.",
+      "plainText": "And they came to the threshingfloor of Atad, which is beyond Jordan, and there they mourned with a great and very sore lamentation: and he made a mourning for his father seven days."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "1518",
-      "text" : "And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, This <span class='extra'>is<\/span> a grievous mourning to the Egyptians: wherefore the name of it was called Abel-mizraim, which <span class='extra'>is<\/span> beyond Jordan.",
-      "plainText" : "And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, This is a grievous mourning to the Egyptians: wherefore the name of it was called Abel-mizraim, which is beyond Jordan."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "1518",
+      "text": "And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, This <span class='extra'>is</span> a grievous mourning to the Egyptians: wherefore the name of it was called Abel-mizraim, which <span class='extra'>is</span> beyond Jordan.",
+      "plainText": "And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, This is a grievous mourning to the Egyptians: wherefore the name of it was called Abel-mizraim, which is beyond Jordan."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "1519",
-      "text" : "And his sons did unto him according as he commanded them:",
-      "plainText" : "And his sons did unto him according as he commanded them:"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "1519",
+      "text": "And his sons did unto him according as he commanded them:",
+      "plainText": "And his sons did unto him according as he commanded them:"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "1520",
-      "text" : "For his sons carried him into the land of Canaan, and buried him in the cave of the field of Machpelah, which Abraham bought with the field for a possession of a buryingplace of Ephron the Hittite, before Mamre.",
-      "plainText" : "For his sons carried him into the land of Canaan, and buried him in the cave of the field of Machpelah, which Abraham bought with the field for a possession of a buryingplace of Ephron the Hittite, before Mamre."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "1520",
+      "text": "For his sons carried him into the land of Canaan, and buried him in the cave of the field of Machpelah, which Abraham bought with the field for a possession of a buryingplace of Ephron the Hittite, before Mamre.",
+      "plainText": "For his sons carried him into the land of Canaan, and buried him in the cave of the field of Machpelah, which Abraham bought with the field for a possession of a buryingplace of Ephron the Hittite, before Mamre."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "1521",
-      "text" : "And Joseph returned into Egypt, he, and his brethren, and all that went up with him to bury his father, after he had buried his father.",
-      "plainText" : "And Joseph returned into Egypt, he, and his brethren, and all that went up with him to bury his father, after he had buried his father."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "1521",
+      "text": "And Joseph returned into Egypt, he, and his brethren, and all that went up with him to bury his father, after he had buried his father.",
+      "plainText": "And Joseph returned into Egypt, he, and his brethren, and all that went up with him to bury his father, after he had buried his father."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "1522",
-      "text" : "And when Joseph's brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.",
-      "plainText" : "And when Joseph's brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "1522",
+      "text": "And when Joseph's brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.",
+      "plainText": "And when Joseph's brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "1523",
-      "text" : "And they sent a messenger unto Joseph, saying, Thy father did command before he died, saying,",
-      "plainText" : "And they sent a messenger unto Joseph, saying, Thy father did command before he died, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "1523",
+      "text": "And they sent a messenger unto Joseph, saying, Thy father did command before he died, saying,",
+      "plainText": "And they sent a messenger unto Joseph, saying, Thy father did command before he died, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "1524",
-      "text" : "So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him.",
-      "plainText" : "So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "1524",
+      "text": "So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him.",
+      "plainText": "So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "1525",
-      "text" : "And his brethren also went and fell down before his face; and they said, Behold, we <span class='extra'>be<\/span> thy servants.",
-      "plainText" : "And his brethren also went and fell down before his face; and they said, Behold, we be thy servants."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "1525",
+      "text": "And his brethren also went and fell down before his face; and they said, Behold, we <span class='extra'>be</span> thy servants.",
+      "plainText": "And his brethren also went and fell down before his face; and they said, Behold, we be thy servants."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "1526",
-      "text" : "And Joseph said unto them, Fear not: for <span class='extra'>am<\/span> I in the place of God?",
-      "plainText" : "And Joseph said unto them, Fear not: for am I in the place of God?"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "1526",
+      "text": "And Joseph said unto them, Fear not: for <span class='extra'>am</span> I in the place of God?",
+      "plainText": "And Joseph said unto them, Fear not: for am I in the place of God?"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "1527",
-      "text" : "But as for you, ye thought evil against me; <span class='extra'>but<\/span> God meant it unto good, to bring to pass, as <span class='extra'>it is<\/span> this day, to save much people alive.",
-      "plainText" : "But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "1527",
+      "text": "But as for you, ye thought evil against me; <span class='extra'>but</span> God meant it unto good, to bring to pass, as <span class='extra'>it is</span> this day, to save much people alive.",
+      "plainText": "But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "1528",
-      "text" : "Now therefore fear ye not: I will nourish you, and your little ones. And he comforted them, and spake kindly unto them.",
-      "plainText" : "Now therefore fear ye not: I will nourish you, and your little ones. And he comforted them, and spake kindly unto them."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "1528",
+      "text": "Now therefore fear ye not: I will nourish you, and your little ones. And he comforted them, and spake kindly unto them.",
+      "plainText": "Now therefore fear ye not: I will nourish you, and your little ones. And he comforted them, and spake kindly unto them."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "1529",
-      "text" : "And Joseph dwelt in Egypt, he, and his father's house: and Joseph lived an hundred and ten years.",
-      "plainText" : "And Joseph dwelt in Egypt, he, and his father's house: and Joseph lived an hundred and ten years."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "1529",
+      "text": "And Joseph dwelt in Egypt, he, and his father's house: and Joseph lived an hundred and ten years.",
+      "plainText": "And Joseph dwelt in Egypt, he, and his father's house: and Joseph lived an hundred and ten years."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "1530",
-      "text" : "And Joseph saw Ephraim's children of the third <span class='extra'>generation<\/span>: the children also of Machir the son of Manasseh were brought up upon Joseph's knees.",
-      "plainText" : "And Joseph saw Ephraim's children of the third generation: the children also of Machir the son of Manasseh were brought up upon Joseph's knees."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "1530",
+      "text": "And Joseph saw Ephraim's children of the third <span class='extra'>generation</span>: the children also of Machir the son of Manasseh were brought up upon Joseph's knees.",
+      "plainText": "And Joseph saw Ephraim's children of the third generation: the children also of Machir the son of Manasseh were brought up upon Joseph's knees."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "1531",
-      "text" : "And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.",
-      "plainText" : "And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "1531",
+      "text": "And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.",
+      "plainText": "And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "1532",
-      "text" : "And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.",
-      "plainText" : "And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "1532",
+      "text": "And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.",
+      "plainText": "And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "1533",
-      "text" : "So Joseph died, <span class='extra'>being<\/span> an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.",
-      "plainText" : "So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt."
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "1533",
+      "text": "So Joseph died, <span class='extra'>being</span> an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.",
+      "plainText": "So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt."
     }
   ]
 }
-

@@ -1,263 +1,237 @@
 {
   "book": {
-    "number" : "4",
-    "filenamePrefix" : "numbers",
-    "bookPage" : "numbers.html",
-    "title" : "Numbers",
-    "chapterCount" : "36",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "deuteronomy_1.html",
-    "nextTitle" : "Deuteronomy",
-    "prevBook" : "leviticus_1.html",
-    "prevTitle" : "Leviticus"
+    "number": "4",
+    "filenamePrefix": "numbers",
+    "bookPage": "numbers.html",
+    "title": "Numbers",
+    "chapterCount": "36",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "deuteronomy_1.html",
+    "nextTitle": "Deuteronomy",
+    "prevBook": "leviticus_1.html",
+    "prevTitle": "Leviticus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "8",
-    "verseCount" : "26",
-    "nextChapter" : "numbers_9.html",
-    "nextTitle" : "Numbers 9",
-    "prevChapter" : "numbers_7.html",
-    "prevTitle" : "Numbers 7",
-    "filename" : "numbers_8.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "8",
+    "verseCount": "26",
+    "nextChapter": "numbers_9.html",
+    "nextTitle": "Numbers 9",
+    "prevChapter": "numbers_7.html",
+    "prevTitle": "Numbers 7",
+    "filename": "numbers_8.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "3941",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "3941",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "3942",
-      "text" : "Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick.",
-      "plainText" : "Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "3942",
+      "text": "Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick.",
+      "plainText": "Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "3943",
-      "text" : "And Aaron did so; he lighted the lamps thereof over against the candlestick, as the <span class='nog'>LORD<\/span> commanded Moses.",
-      "plainText" : "And Aaron did so; he lighted the lamps thereof over against the candlestick, as the LORD commanded Moses."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "3943",
+      "text": "And Aaron did so; he lighted the lamps thereof over against the candlestick, as the <span class='nog'>LORD</span> commanded Moses.",
+      "plainText": "And Aaron did so; he lighted the lamps thereof over against the candlestick, as the LORD commanded Moses."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "3944",
-      "text" : "And this work of the candlestick <span class='extra'>was of<\/span> beaten gold, unto the shaft thereof, unto the flowers thereof, <span class='extra'>was<\/span> beaten work: according unto the pattern which the <span class='nog'>LORD<\/span> had shewed Moses, so he made the candlestick.",
-      "plainText" : "And this work of the candlestick was of beaten gold, unto the shaft thereof, unto the flowers thereof, was beaten work: according unto the pattern which the LORD had shewed Moses, so he made the candlestick."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "3944",
+      "text": "And this work of the candlestick <span class='extra'>was of</span> beaten gold, unto the shaft thereof, unto the flowers thereof, <span class='extra'>was</span> beaten work: according unto the pattern which the <span class='nog'>LORD</span> had shewed Moses, so he made the candlestick.",
+      "plainText": "And this work of the candlestick was of beaten gold, unto the shaft thereof, unto the flowers thereof, was beaten work: according unto the pattern which the LORD had shewed Moses, so he made the candlestick."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "3945",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "3945",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "3946",
-      "text" : "Take the Levites from among the children of Israel, and cleanse them.",
-      "plainText" : "Take the Levites from among the children of Israel, and cleanse them."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "3946",
+      "text": "Take the Levites from among the children of Israel, and cleanse them.",
+      "plainText": "Take the Levites from among the children of Israel, and cleanse them."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "3947",
-      "text" : "And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and <span class='extra'>so<\/span> make themselves clean.",
-      "plainText" : "And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and so make themselves clean."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "3947",
+      "text": "And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and <span class='extra'>so</span> make themselves clean.",
+      "plainText": "And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and so make themselves clean."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "3948",
-      "text" : "Then let them take a young bullock with his meat offering, <span class='extra'>even<\/span> fine flour mingled with oil, and another young bullock shalt thou take for a sin offering.",
-      "plainText" : "Then let them take a young bullock with his meat offering, even fine flour mingled with oil, and another young bullock shalt thou take for a sin offering."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "3948",
+      "text": "Then let them take a young bullock with his meat offering, <span class='extra'>even</span> fine flour mingled with oil, and another young bullock shalt thou take for a sin offering.",
+      "plainText": "Then let them take a young bullock with his meat offering, even fine flour mingled with oil, and another young bullock shalt thou take for a sin offering."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "3949",
-      "text" : "And thou shalt bring the Levites before the tabernacle of the congregation: and thou shalt gather the whole assembly of the children of Israel together:",
-      "plainText" : "And thou shalt bring the Levites before the tabernacle of the congregation: and thou shalt gather the whole assembly of the children of Israel together:"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "3949",
+      "text": "And thou shalt bring the Levites before the tabernacle of the congregation: and thou shalt gather the whole assembly of the children of Israel together:",
+      "plainText": "And thou shalt bring the Levites before the tabernacle of the congregation: and thou shalt gather the whole assembly of the children of Israel together:"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "3950",
-      "text" : "And thou shalt bring the Levites before the <span class='nog'>LORD<\/span>: and the children of Israel shall put their hands upon the Levites:",
-      "plainText" : "And thou shalt bring the Levites before the LORD: and the children of Israel shall put their hands upon the Levites:"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "3950",
+      "text": "And thou shalt bring the Levites before the <span class='nog'>LORD</span>: and the children of Israel shall put their hands upon the Levites:",
+      "plainText": "And thou shalt bring the Levites before the LORD: and the children of Israel shall put their hands upon the Levites:"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "3951",
-      "text" : "And Aaron shall offer the Levites before the <span class='nog'>LORD<\/span> <span class='extra'>for<\/span> an offering of the children of Israel, that they may execute the service of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And Aaron shall offer the Levites before the LORD for an offering of the children of Israel, that they may execute the service of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "3951",
+      "text": "And Aaron shall offer the Levites before the <span class='nog'>LORD</span> <span class='extra'>for</span> an offering of the children of Israel, that they may execute the service of the <span class='nog'>LORD</span>.",
+      "plainText": "And Aaron shall offer the Levites before the LORD for an offering of the children of Israel, that they may execute the service of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "3952",
-      "text" : "And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one <span class='extra'>for<\/span> a sin offering, and the other <span class='extra'>for<\/span> a burnt offering, unto the <span class='nog'>LORD<\/span>, to make an atonement for the Levites.",
-      "plainText" : "And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one for a sin offering, and the other for a burnt offering, unto the LORD, to make an atonement for the Levites."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "3952",
+      "text": "And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one <span class='extra'>for</span> a sin offering, and the other <span class='extra'>for</span> a burnt offering, unto the <span class='nog'>LORD</span>, to make an atonement for the Levites.",
+      "plainText": "And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one for a sin offering, and the other for a burnt offering, unto the LORD, to make an atonement for the Levites."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "3953",
-      "text" : "And thou shalt set the Levites before Aaron, and before his sons, and offer them <span class='extra'>for<\/span> an offering unto the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And thou shalt set the Levites before Aaron, and before his sons, and offer them for an offering unto the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "3953",
+      "text": "And thou shalt set the Levites before Aaron, and before his sons, and offer them <span class='extra'>for</span> an offering unto the <span class='nog'>LORD</span>.",
+      "plainText": "And thou shalt set the Levites before Aaron, and before his sons, and offer them for an offering unto the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "3954",
-      "text" : "Thus shalt thou separate the Levites from among the children of Israel: and the Levites shall be mine.",
-      "plainText" : "Thus shalt thou separate the Levites from among the children of Israel: and the Levites shall be mine."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "3954",
+      "text": "Thus shalt thou separate the Levites from among the children of Israel: and the Levites shall be mine.",
+      "plainText": "Thus shalt thou separate the Levites from among the children of Israel: and the Levites shall be mine."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "3955",
-      "text" : "And after that shall the Levites go in to do the service of the tabernacle of the congregation: and thou shalt cleanse them, and offer them <span class='extra'>for<\/span> an offering.",
-      "plainText" : "And after that shall the Levites go in to do the service of the tabernacle of the congregation: and thou shalt cleanse them, and offer them for an offering."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "3955",
+      "text": "And after that shall the Levites go in to do the service of the tabernacle of the congregation: and thou shalt cleanse them, and offer them <span class='extra'>for</span> an offering.",
+      "plainText": "And after that shall the Levites go in to do the service of the tabernacle of the congregation: and thou shalt cleanse them, and offer them for an offering."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "3956",
-      "text" : "For they <span class='extra'>are<\/span> wholly given unto me from among the children of Israel; instead of such as open every womb, <span class='extra'>even instead of<\/span> the firstborn of all the children of Israel, have I taken them unto me.",
-      "plainText" : "For they are wholly given unto me from among the children of Israel; instead of such as open every womb, even instead of the firstborn of all the children of Israel, have I taken them unto me."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "3956",
+      "text": "For they <span class='extra'>are</span> wholly given unto me from among the children of Israel; instead of such as open every womb, <span class='extra'>even instead of</span> the firstborn of all the children of Israel, have I taken them unto me.",
+      "plainText": "For they are wholly given unto me from among the children of Israel; instead of such as open every womb, even instead of the firstborn of all the children of Israel, have I taken them unto me."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "3957",
-      "text" : "For all the firstborn of the children of Israel <span class='extra'>are<\/span> mine, <span class='extra'>both<\/span> man and beast: on the day that I smote every firstborn in the land of Egypt I sanctified them for myself.",
-      "plainText" : "For all the firstborn of the children of Israel are mine, both man and beast: on the day that I smote every firstborn in the land of Egypt I sanctified them for myself."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "3957",
+      "text": "For all the firstborn of the children of Israel <span class='extra'>are</span> mine, <span class='extra'>both</span> man and beast: on the day that I smote every firstborn in the land of Egypt I sanctified them for myself.",
+      "plainText": "For all the firstborn of the children of Israel are mine, both man and beast: on the day that I smote every firstborn in the land of Egypt I sanctified them for myself."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "3958",
-      "text" : "And I have taken the Levites for all the firstborn of the children of Israel.",
-      "plainText" : "And I have taken the Levites for all the firstborn of the children of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "3958",
+      "text": "And I have taken the Levites for all the firstborn of the children of Israel.",
+      "plainText": "And I have taken the Levites for all the firstborn of the children of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "3959",
-      "text" : "And I have given the Levites <span class='extra'>as<\/span> a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary.",
-      "plainText" : "And I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "3959",
+      "text": "And I have given the Levites <span class='extra'>as</span> a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary.",
+      "plainText": "And I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "3960",
-      "text" : "And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the <span class='nog'>LORD<\/span> commanded Moses concerning the Levites, so did the children of Israel unto them.",
-      "plainText" : "And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the LORD commanded Moses concerning the Levites, so did the children of Israel unto them."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "3960",
+      "text": "And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the <span class='nog'>LORD</span> commanded Moses concerning the Levites, so did the children of Israel unto them.",
+      "plainText": "And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the LORD commanded Moses concerning the Levites, so did the children of Israel unto them."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "3961",
-      "text" : "And the Levites were purified, and they washed their clothes; and Aaron offered them <span class='extra'>as<\/span> an offering before the <span class='nog'>LORD<\/span>; and Aaron made an atonement for them to cleanse them.",
-      "plainText" : "And the Levites were purified, and they washed their clothes; and Aaron offered them as an offering before the LORD; and Aaron made an atonement for them to cleanse them."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "3961",
+      "text": "And the Levites were purified, and they washed their clothes; and Aaron offered them <span class='extra'>as</span> an offering before the <span class='nog'>LORD</span>; and Aaron made an atonement for them to cleanse them.",
+      "plainText": "And the Levites were purified, and they washed their clothes; and Aaron offered them as an offering before the LORD; and Aaron made an atonement for them to cleanse them."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "3962",
-      "text" : "And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the <span class='nog'>LORD<\/span> had commanded Moses concerning the Levites, so did they unto them.",
-      "plainText" : "And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the LORD had commanded Moses concerning the Levites, so did they unto them."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "3962",
+      "text": "And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the <span class='nog'>LORD</span> had commanded Moses concerning the Levites, so did they unto them.",
+      "plainText": "And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the LORD had commanded Moses concerning the Levites, so did they unto them."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "3963",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "3963",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "3964",
-      "text" : "This <span class='extra'>is it<\/span> that <span class='extra'>belongeth<\/span> unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:",
-      "plainText" : "This is it that belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "3964",
+      "text": "This <span class='extra'>is it</span> that <span class='extra'>belongeth</span> unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:",
+      "plainText": "This is it that belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "3965",
-      "text" : "And from the age of fifty years they shall cease waiting upon the service <span class='extra'>thereof<\/span>, and shall serve no more:",
-      "plainText" : "And from the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more:"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "3965",
+      "text": "And from the age of fifty years they shall cease waiting upon the service <span class='extra'>thereof</span>, and shall serve no more:",
+      "plainText": "And from the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more:"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "3966",
-      "text" : "But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge.",
-      "plainText" : "But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge."
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "3966",
+      "text": "But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge.",
+      "plainText": "But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge."
     }
   ]
 }
-
-

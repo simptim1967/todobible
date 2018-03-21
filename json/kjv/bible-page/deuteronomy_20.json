@@ -1,209 +1,189 @@
 {
   "book": {
-    "number" : "5",
-    "filenamePrefix" : "deuteronomy",
-    "bookPage" : "deuteronomy.html",
-    "title" : "Deuteronomy",
-    "chapterCount" : "34",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "joshua_1.html",
-    "nextTitle" : "Joshua",
-    "prevBook" : "numbers_1.html",
-    "prevTitle" : "Numbers"
+    "number": "5",
+    "filenamePrefix": "deuteronomy",
+    "bookPage": "deuteronomy.html",
+    "title": "Deuteronomy",
+    "chapterCount": "34",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "joshua_1.html",
+    "nextTitle": "Joshua",
+    "prevBook": "numbers_1.html",
+    "prevTitle": "Numbers",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "20",
-    "verseCount" : "20",
-    "nextChapter" : "deuteronomy_21.html",
-    "nextTitle" : "Deuteronomy 21",
-    "prevChapter" : "deuteronomy_19.html",
-    "prevTitle" : "Deuteronomy 19",
-    "filename" : "deuteronomy_20.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "20",
+    "verseCount": "20",
+    "nextChapter": "deuteronomy_21.html",
+    "nextTitle": "Deuteronomy 21",
+    "prevChapter": "deuteronomy_19.html",
+    "prevTitle": "Deuteronomy 19",
+    "filename": "deuteronomy_20.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "5429",
-      "text" : "When thou goest out to battle against thine enemies, and seest horses, and chariots, <span class='extra'>and<\/span> a people more than thou, be not afraid of them: for the <span class='nog'>LORD<\/span> thy God <span class='extra'>is<\/span> with thee, which brought thee up out of the land of Egypt.",
-      "plainText" : "When thou goest out to battle against thine enemies, and seest horses, and chariots, and a people more than thou, be not afraid of them: for the LORD thy God is with thee, which brought thee up out of the land of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "5429",
+      "text": "When thou goest out to battle against thine enemies, and seest horses, and chariots, <span class='extra'>and</span> a people more than thou, be not afraid of them: for the <span class='nog'>LORD</span> thy God <span class='extra'>is</span> with thee, which brought thee up out of the land of Egypt.",
+      "plainText": "When thou goest out to battle against thine enemies, and seest horses, and chariots, and a people more than thou, be not afraid of them: for the LORD thy God is with thee, which brought thee up out of the land of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "5430",
-      "text" : "And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,",
-      "plainText" : "And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "5430",
+      "text": "And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,",
+      "plainText": "And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "5431",
-      "text" : "And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;",
-      "plainText" : "And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "5431",
+      "text": "And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;",
+      "plainText": "And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "5432",
-      "text" : "For the <span class='nog'>LORD<\/span> your God <span class='extra'>is<\/span> he that goeth with you, to fight for you against your enemies, to save you.",
-      "plainText" : "For the LORD your God is he that goeth with you, to fight for you against your enemies, to save you."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "5432",
+      "text": "For the <span class='nog'>LORD</span> your God <span class='extra'>is</span> he that goeth with you, to fight for you against your enemies, to save you.",
+      "plainText": "For the LORD your God is he that goeth with you, to fight for you against your enemies, to save you."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "5433",
-      "text" : "And the officers shall speak unto the people, saying, What man <span class='extra'>is there<\/span> that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it.",
-      "plainText" : "And the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "5433",
+      "text": "And the officers shall speak unto the people, saying, What man <span class='extra'>is there</span> that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it.",
+      "plainText": "And the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "5434",
-      "text" : "And what man <span class='extra'>is he<\/span> that hath planted a vineyard, and hath not <span class='extra'>yet<\/span> eaten of it? let him <span class='extra'>also<\/span> go and return unto his house, lest he die in the battle, and another man eat of it.",
-      "plainText" : "And what man is he that hath planted a vineyard, and hath not yet eaten of it? let him also go and return unto his house, lest he die in the battle, and another man eat of it."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "5434",
+      "text": "And what man <span class='extra'>is he</span> that hath planted a vineyard, and hath not <span class='extra'>yet</span> eaten of it? let him <span class='extra'>also</span> go and return unto his house, lest he die in the battle, and another man eat of it.",
+      "plainText": "And what man is he that hath planted a vineyard, and hath not yet eaten of it? let him also go and return unto his house, lest he die in the battle, and another man eat of it."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "5435",
-      "text" : "And what man <span class='extra'>is there<\/span> that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her.",
-      "plainText" : "And what man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "5435",
+      "text": "And what man <span class='extra'>is there</span> that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her.",
+      "plainText": "And what man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "5436",
-      "text" : "And the officers shall speak further unto the people, and they shall say, What man <span class='extra'>is there that is<\/span> fearful and fainthearted? let him go and return unto his house, lest his brethren's heart faint as well as his heart.",
-      "plainText" : "And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren's heart faint as well as his heart."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "5436",
+      "text": "And the officers shall speak further unto the people, and they shall say, What man <span class='extra'>is there that is</span> fearful and fainthearted? let him go and return unto his house, lest his brethren's heart faint as well as his heart.",
+      "plainText": "And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren's heart faint as well as his heart."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "5437",
-      "text" : "And it shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people.",
-      "plainText" : "And it shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "5437",
+      "text": "And it shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people.",
+      "plainText": "And it shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "5438",
-      "text" : "When thou comest nigh unto a city to fight against it, then proclaim peace unto it.",
-      "plainText" : "When thou comest nigh unto a city to fight against it, then proclaim peace unto it."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "5438",
+      "text": "When thou comest nigh unto a city to fight against it, then proclaim peace unto it.",
+      "plainText": "When thou comest nigh unto a city to fight against it, then proclaim peace unto it."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "5439",
-      "text" : "And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, <span class='extra'>that<\/span> all the people <span class='extra'>that is<\/span> found therein shall be tributaries unto thee, and they shall serve thee.",
-      "plainText" : "And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, that all the people that is found therein shall be tributaries unto thee, and they shall serve thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "5439",
+      "text": "And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, <span class='extra'>that</span> all the people <span class='extra'>that is</span> found therein shall be tributaries unto thee, and they shall serve thee.",
+      "plainText": "And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, that all the people that is found therein shall be tributaries unto thee, and they shall serve thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "5440",
-      "text" : "And if it will make no peace with thee, but will make war against thee, then thou shalt besiege it:",
-      "plainText" : "And if it will make no peace with thee, but will make war against thee, then thou shalt besiege it:"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "5440",
+      "text": "And if it will make no peace with thee, but will make war against thee, then thou shalt besiege it:",
+      "plainText": "And if it will make no peace with thee, but will make war against thee, then thou shalt besiege it:"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "5441",
-      "text" : "And when the <span class='nog'>LORD<\/span> thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:",
-      "plainText" : "And when the LORD thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "5441",
+      "text": "And when the <span class='nog'>LORD</span> thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:",
+      "plainText": "And when the LORD thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "5442",
-      "text" : "But the women, and the little ones, and the cattle, and all that is in the city, <span class='extra'>even<\/span> all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the <span class='nog'>LORD<\/span> thy God hath given thee.",
-      "plainText" : "But the women, and the little ones, and the cattle, and all that is in the city, even all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the LORD thy God hath given thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "5442",
+      "text": "But the women, and the little ones, and the cattle, and all that is in the city, <span class='extra'>even</span> all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the <span class='nog'>LORD</span> thy God hath given thee.",
+      "plainText": "But the women, and the little ones, and the cattle, and all that is in the city, even all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the LORD thy God hath given thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "5443",
-      "text" : "Thus shalt thou do unto all the cities <span class='extra'>which are<\/span> very far off from thee, which <span class='extra'>are<\/span> not of the cities of these nations.",
-      "plainText" : "Thus shalt thou do unto all the cities which are very far off from thee, which are not of the cities of these nations."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "5443",
+      "text": "Thus shalt thou do unto all the cities <span class='extra'>which are</span> very far off from thee, which <span class='extra'>are</span> not of the cities of these nations.",
+      "plainText": "Thus shalt thou do unto all the cities which are very far off from thee, which are not of the cities of these nations."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "5444",
-      "text" : "But of the cities of these people, which the <span class='nog'>LORD<\/span> thy God doth give thee <span class='extra'>for<\/span> an inheritance, thou shalt save alive nothing that breatheth:",
-      "plainText" : "But of the cities of these people, which the LORD thy God doth give thee for an inheritance, thou shalt save alive nothing that breatheth:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "5444",
+      "text": "But of the cities of these people, which the <span class='nog'>LORD</span> thy God doth give thee <span class='extra'>for</span> an inheritance, thou shalt save alive nothing that breatheth:",
+      "plainText": "But of the cities of these people, which the LORD thy God doth give thee for an inheritance, thou shalt save alive nothing that breatheth:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "5445",
-      "text" : "But thou shalt utterly destroy them; <span class='extra'>namely<\/span>, the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites; as the <span class='nog'>LORD<\/span> thy God hath commanded thee:",
-      "plainText" : "But thou shalt utterly destroy them; namely, the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites; as the LORD thy God hath commanded thee:"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "5445",
+      "text": "But thou shalt utterly destroy them; <span class='extra'>namely</span>, the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites; as the <span class='nog'>LORD</span> thy God hath commanded thee:",
+      "plainText": "But thou shalt utterly destroy them; namely, the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites; as the LORD thy God hath commanded thee:"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "5446",
-      "text" : "That they teach you not to do after all their abominations, which they have done unto their gods; so should ye sin against the <span class='nog'>LORD<\/span> your God.",
-      "plainText" : "That they teach you not to do after all their abominations, which they have done unto their gods; so should ye sin against the LORD your God."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "5446",
+      "text": "That they teach you not to do after all their abominations, which they have done unto their gods; so should ye sin against the <span class='nog'>LORD</span> your God.",
+      "plainText": "That they teach you not to do after all their abominations, which they have done unto their gods; so should ye sin against the LORD your God."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "5447",
-      "text" : "When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field <span class='extra'>is<\/span> man's <span class='extra'>life<\/span>) to employ <span class='extra'>them<\/span> in the siege:",
-      "plainText" : "When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field is man's life) to employ them in the siege:"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "5447",
+      "text": "When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field <span class='extra'>is</span> man's <span class='extra'>life</span>) to employ <span class='extra'>them</span> in the siege:",
+      "plainText": "When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field is man's life) to employ them in the siege:"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "5448",
-      "text" : "Only the trees which thou knowest that they <span class='extra'>be<\/span> not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued.",
-      "plainText" : "Only the trees which thou knowest that they be not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued."
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "5448",
+      "text": "Only the trees which thou knowest that they <span class='extra'>be</span> not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued.",
+      "plainText": "Only the trees which thou knowest that they be not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued."
     }
   ]
 }
-
-

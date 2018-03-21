@@ -1,118 +1,109 @@
 {
   "book": {
-    "number" : "62",
-    "filenamePrefix" : "1john",
-    "bookPage" : "1john.html",
-    "title" : "1 John",
-    "chapterCount" : "5",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "2john_1.html",
-    "nextTitle" : "2 John",
-    "prevBook" : "2peter_1.html",
-    "prevTitle" : "2 Peter"
+    "number": "62",
+    "filenamePrefix": "1john",
+    "bookPage": "1john.html",
+    "title": "1 John",
+    "chapterCount": "5",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "2john_1.html",
+    "nextTitle": "2 John",
+    "prevBook": "2peter_1.html",
+    "prevTitle": "2 Peter",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "1",
-    "verseCount" : "10",
-    "nextChapter" : "1john_2.html",
-    "nextTitle" : "1 John 2",
-    "prevChapter" : "2peter_3.html",
-    "prevTitle" : "2 Peter 3",
-    "filename" : "1john_1.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "1",
+    "verseCount": "10",
+    "nextChapter": "1john_2.html",
+    "nextTitle": "1 John 2",
+    "prevChapter": "2peter_3.html",
+    "prevTitle": "2 Peter 3",
+    "filename": "1john_1.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "30542",
-      "text" : "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;",
-      "plainText" : "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "30542",
+      "text": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;",
+      "plainText": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "30543",
-      "text" : "(For the life was manifested, and we have seen <span class='extra'>it<\/span>, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;)",
-      "plainText" : "(For the life was manifested, and we have seen it, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;)"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "30543",
+      "text": "(For the life was manifested, and we have seen <span class='extra'>it</span>, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;)",
+      "plainText": "(For the life was manifested, and we have seen it, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;)"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "30544",
-      "text" : "That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship <span class='extra'>is<\/span> with the Father, and with his Son Jesus Christ.",
-      "plainText" : "That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "30544",
+      "text": "That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship <span class='extra'>is</span> with the Father, and with his Son Jesus Christ.",
+      "plainText": "That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "30545",
-      "text" : "And these things write we unto you, that your joy may be full.",
-      "plainText" : "And these things write we unto you, that your joy may be full."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "30545",
+      "text": "And these things write we unto you, that your joy may be full.",
+      "plainText": "And these things write we unto you, that your joy may be full."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "30546",
-      "text" : "This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.",
-      "plainText" : "This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "30546",
+      "text": "This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.",
+      "plainText": "This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "30547",
-      "text" : "If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:",
-      "plainText" : "If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "30547",
+      "text": "If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:",
+      "plainText": "If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "30548",
-      "text" : "But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.",
-      "plainText" : "But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "30548",
+      "text": "But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.",
+      "plainText": "But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "30549",
-      "text" : "If we say that we have no sin, we deceive ourselves, and the truth is not in us.",
-      "plainText" : "If we say that we have no sin, we deceive ourselves, and the truth is not in us."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "30549",
+      "text": "If we say that we have no sin, we deceive ourselves, and the truth is not in us.",
+      "plainText": "If we say that we have no sin, we deceive ourselves, and the truth is not in us."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "30550",
-      "text" : "If we confess our sins, he is faithful and just to forgive us <span class='extra'>our<\/span> sins, and to cleanse us from all unrighteousness.",
-      "plainText" : "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "30550",
+      "text": "If we confess our sins, he is faithful and just to forgive us <span class='extra'>our</span> sins, and to cleanse us from all unrighteousness.",
+      "plainText": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "30551",
-      "text" : "If we say that we have not sinned, we make him a liar, and his word is not in us.",
-      "plainText" : "If we say that we have not sinned, we make him a liar, and his word is not in us."
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "30551",
+      "text": "If we say that we have not sinned, we make him a liar, and his word is not in us.",
+      "plainText": "If we say that we have not sinned, we make him a liar, and his word is not in us."
     }
   ]
 }
-

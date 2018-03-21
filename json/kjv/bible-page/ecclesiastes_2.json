@@ -1,262 +1,237 @@
 {
   "book": {
-    "number" : "21",
-    "filenamePrefix" : "ecclesiastes",
-    "bookPage" : "ecclesiastes.html",
-    "title" : "Ecclesiastes",
-    "chapterCount" : "12",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "song_of_solomon_1.html",
-    "nextTitle" : "Song of Solomon",
-    "prevBook" : "proverbs_1.html",
-    "prevTitle" : "Proverbs"
+    "number": "21",
+    "filenamePrefix": "ecclesiastes",
+    "bookPage": "ecclesiastes.html",
+    "title": "Ecclesiastes",
+    "chapterCount": "12",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "song_of_solomon_1.html",
+    "nextTitle": "Song of Solomon",
+    "prevBook": "proverbs_1.html",
+    "prevTitle": "Proverbs",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "2",
-    "verseCount" : "26",
-    "nextChapter" : "ecclesiastes_3.html",
-    "nextTitle" : "Ecclesiastes 3",
-    "prevChapter" : "ecclesiastes_1.html",
-    "prevTitle" : "Ecclesiastes 1",
-    "filename" : "ecclesiastes_2.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "2",
+    "verseCount": "26",
+    "nextChapter": "ecclesiastes_3.html",
+    "nextTitle": "Ecclesiastes 3",
+    "prevChapter": "ecclesiastes_1.html",
+    "prevTitle": "Ecclesiastes 1",
+    "filename": "ecclesiastes_2.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "17335",
-      "text" : "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also <span class='extra'>is<\/span> vanity.",
-      "plainText" : "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "17335",
+      "text": "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also <span class='extra'>is</span> vanity.",
+      "plainText": "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "17336",
-      "text" : "I said of laughter, <span class='extra'>It is<\/span> mad: and of mirth, What doeth it?",
-      "plainText" : "I said of laughter, It is mad: and of mirth, What doeth it?"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "17336",
+      "text": "I said of laughter, <span class='extra'>It is</span> mad: and of mirth, What doeth it?",
+      "plainText": "I said of laughter, It is mad: and of mirth, What doeth it?"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "17337",
-      "text" : "I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what <span class='extra'>was<\/span> that good for the sons of men, which they should do under the heaven all the days of their life.",
-      "plainText" : "I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "17337",
+      "text": "I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what <span class='extra'>was</span> that good for the sons of men, which they should do under the heaven all the days of their life.",
+      "plainText": "I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "17338",
-      "text" : "I made me great works; I builded me houses; I planted me vineyards:",
-      "plainText" : "I made me great works; I builded me houses; I planted me vineyards:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "17338",
+      "text": "I made me great works; I builded me houses; I planted me vineyards:",
+      "plainText": "I made me great works; I builded me houses; I planted me vineyards:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "17339",
-      "text" : "I made me gardens and orchards, and I planted trees in them of all <span class='extra'>kind of<\/span> fruits:",
-      "plainText" : "I made me gardens and orchards, and I planted trees in them of all kind of fruits:"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "17339",
+      "text": "I made me gardens and orchards, and I planted trees in them of all <span class='extra'>kind of</span> fruits:",
+      "plainText": "I made me gardens and orchards, and I planted trees in them of all kind of fruits:"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "17340",
-      "text" : "I made me pools of water, to water therewith the wood that bringeth forth trees:",
-      "plainText" : "I made me pools of water, to water therewith the wood that bringeth forth trees:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "17340",
+      "text": "I made me pools of water, to water therewith the wood that bringeth forth trees:",
+      "plainText": "I made me pools of water, to water therewith the wood that bringeth forth trees:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "17341",
-      "text" : "I got <span class='extra'>me<\/span> servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:",
-      "plainText" : "I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "17341",
+      "text": "I got <span class='extra'>me</span> servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:",
+      "plainText": "I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "17342",
-      "text" : "I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, <span class='extra'>as<\/span> musical instruments, and that of all sorts.",
-      "plainText" : "I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "17342",
+      "text": "I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, <span class='extra'>as</span> musical instruments, and that of all sorts.",
+      "plainText": "I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "17343",
-      "text" : "So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.",
-      "plainText" : "So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "17343",
+      "text": "So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.",
+      "plainText": "So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "17344",
-      "text" : "And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.",
-      "plainText" : "And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "17344",
+      "text": "And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.",
+      "plainText": "And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "17345",
-      "text" : "Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all <span class='extra'>was<\/span> vanity and vexation of spirit, and <span class='extra'>there was<\/span> no profit under the sun.",
-      "plainText" : "Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "17345",
+      "text": "Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all <span class='extra'>was</span> vanity and vexation of spirit, and <span class='extra'>there was</span> no profit under the sun.",
+      "plainText": "Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "17346",
-      "text" : "And I turned myself to behold wisdom, and madness, and folly: for what <span class='extra'>can<\/span> the man <span class='extra'>do<\/span> that cometh after the king? <span class='extra'>even<\/span> that which hath been already done.",
-      "plainText" : "And I turned myself to behold wisdom, and madness, and folly: for what can the man do that cometh after the king? even that which hath been already done."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "17346",
+      "text": "And I turned myself to behold wisdom, and madness, and folly: for what <span class='extra'>can</span> the man <span class='extra'>do</span> that cometh after the king? <span class='extra'>even</span> that which hath been already done.",
+      "plainText": "And I turned myself to behold wisdom, and madness, and folly: for what can the man do that cometh after the king? even that which hath been already done."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "17347",
-      "text" : "Then I saw that wisdom excelleth folly, as far as light excelleth darkness.",
-      "plainText" : "Then I saw that wisdom excelleth folly, as far as light excelleth darkness."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "17347",
+      "text": "Then I saw that wisdom excelleth folly, as far as light excelleth darkness.",
+      "plainText": "Then I saw that wisdom excelleth folly, as far as light excelleth darkness."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "17348",
-      "text" : "The wise man's eyes <span class='extra'>are<\/span> in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all.",
-      "plainText" : "The wise man's eyes are in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "17348",
+      "text": "The wise man's eyes <span class='extra'>are</span> in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all.",
+      "plainText": "The wise man's eyes are in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "17349",
-      "text" : "Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also <span class='extra'>is<\/span> vanity.",
-      "plainText" : "Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "17349",
+      "text": "Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also <span class='extra'>is</span> vanity.",
+      "plainText": "Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "17350",
-      "text" : "For <span class='extra'>there is<\/span> no remembrance of the wise more than of the fool for ever; seeing that which now <span class='extra'>is<\/span> in the days to come shall all be forgotten. And how dieth the wise <span class='extra'>man<\/span>? as the fool.",
-      "plainText" : "For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dieth the wise man? as the fool."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "17350",
+      "text": "For <span class='extra'>there is</span> no remembrance of the wise more than of the fool for ever; seeing that which now <span class='extra'>is</span> in the days to come shall all be forgotten. And how dieth the wise <span class='extra'>man</span>? as the fool.",
+      "plainText": "For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dieth the wise man? as the fool."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "17351",
-      "text" : "Therefore I hated life; because the work that is wrought under the sun <span class='extra'>is<\/span> grievous unto me: for all <span class='extra'>is<\/span> vanity and vexation of spirit.",
-      "plainText" : "Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "17351",
+      "text": "Therefore I hated life; because the work that is wrought under the sun <span class='extra'>is</span> grievous unto me: for all <span class='extra'>is</span> vanity and vexation of spirit.",
+      "plainText": "Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "17352",
-      "text" : "Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.",
-      "plainText" : "Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "17352",
+      "text": "Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.",
+      "plainText": "Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "17353",
-      "text" : "And who knoweth whether he shall be a wise <span class='extra'>man<\/span> or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This <span class='extra'>is<\/span> also vanity.",
-      "plainText" : "And who knoweth whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This is also vanity."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "17353",
+      "text": "And who knoweth whether he shall be a wise <span class='extra'>man</span> or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This <span class='extra'>is</span> also vanity.",
+      "plainText": "And who knoweth whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This is also vanity."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "17354",
-      "text" : "Therefore I went about to cause my heart to despair of all the labour which I took under the sun.",
-      "plainText" : "Therefore I went about to cause my heart to despair of all the labour which I took under the sun."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "17354",
+      "text": "Therefore I went about to cause my heart to despair of all the labour which I took under the sun.",
+      "plainText": "Therefore I went about to cause my heart to despair of all the labour which I took under the sun."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "17355",
-      "text" : "For there is a man whose labour <span class='extra'>is<\/span> in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it <span class='extra'>for<\/span> his portion. This also <span class='extra'>is<\/span> vanity and a great evil.",
-      "plainText" : "For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "17355",
+      "text": "For there is a man whose labour <span class='extra'>is</span> in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it <span class='extra'>for</span> his portion. This also <span class='extra'>is</span> vanity and a great evil.",
+      "plainText": "For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "17356",
-      "text" : "For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?",
-      "plainText" : "For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "17356",
+      "text": "For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?",
+      "plainText": "For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "17357",
-      "text" : "For all his days <span class='extra'>are<\/span> sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity.",
-      "plainText" : "For all his days are sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "17357",
+      "text": "For all his days <span class='extra'>are</span> sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity.",
+      "plainText": "For all his days are sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "17358",
-      "text" : "<span class='extra'>There is<\/span> nothing better for a man, <span class='extra'>than<\/span> that he should eat and drink, and <span class='extra'>that<\/span> he should make his soul enjoy good in his labour. This also I saw, that it <span class='extra'>was<\/span> from the hand of God.",
-      "plainText" : "There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "17358",
+      "text": "<span class='extra'>There is</span> nothing better for a man, <span class='extra'>than</span> that he should eat and drink, and <span class='extra'>that</span> he should make his soul enjoy good in his labour. This also I saw, that it <span class='extra'>was</span> from the hand of God.",
+      "plainText": "There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "17359",
-      "text" : "For who can eat, or who else can hasten <span class='extra'>hereunto<\/span>, more than I?",
-      "plainText" : "For who can eat, or who else can hasten hereunto, more than I?"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "17359",
+      "text": "For who can eat, or who else can hasten <span class='extra'>hereunto</span>, more than I?",
+      "plainText": "For who can eat, or who else can hasten hereunto, more than I?"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "17360",
-      "text" : "For <span class='extra'>God<\/span> giveth to a man that <span class='extra'>is<\/span> good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to <span class='extra'>him that is<\/span> good before God. This also <span class='extra'>is<\/span> vanity and vexation of spirit.",
-      "plainText" : "For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit."
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "17360",
+      "text": "For <span class='extra'>God</span> giveth to a man that <span class='extra'>is</span> good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to <span class='extra'>him that is</span> good before God. This also <span class='extra'>is</span> vanity and vexation of spirit.",
+      "plainText": "For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit."
     }
   ]
 }
-

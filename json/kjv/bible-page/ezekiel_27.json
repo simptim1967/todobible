@@ -1,354 +1,317 @@
 {
   "book": {
-    "number" : "26",
-    "filenamePrefix" : "ezekiel",
-    "bookPage" : "ezekiel.html",
-    "title" : "Ezekiel",
-    "chapterCount" : "48",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "daniel_1.html",
-    "nextTitle" : "Daniel",
-    "prevBook" : "lamentations_1.html",
-    "prevTitle" : "Lamentations"
+    "number": "26",
+    "filenamePrefix": "ezekiel",
+    "bookPage": "ezekiel.html",
+    "title": "Ezekiel",
+    "chapterCount": "48",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "daniel_1.html",
+    "nextTitle": "Daniel",
+    "prevBook": "lamentations_1.html",
+    "prevTitle": "Lamentations",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "27",
-    "verseCount" : "36",
-    "nextChapter" : "ezekiel_28.html",
-    "nextTitle" : "Ezekiel 28",
-    "prevChapter" : "ezekiel_26.html",
-    "prevTitle" : "Ezekiel 26",
-    "filename" : "ezekiel_27.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "27",
+    "verseCount": "36",
+    "nextChapter": "ezekiel_28.html",
+    "nextTitle": "Ezekiel 28",
+    "prevChapter": "ezekiel_26.html",
+    "prevTitle": "Ezekiel 26",
+    "filename": "ezekiel_27.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "21123",
-      "text" : "The word of the <span class='nog'>LORD<\/span> came again unto me, saying,",
-      "plainText" : "The word of the LORD came again unto me, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "21123",
+      "text": "The word of the <span class='nog'>LORD</span> came again unto me, saying,",
+      "plainText": "The word of the LORD came again unto me, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "21124",
-      "text" : "Now, thou son of man, take up a lamentation for Tyrus;",
-      "plainText" : "Now, thou son of man, take up a lamentation for Tyrus;"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "21124",
+      "text": "Now, thou son of man, take up a lamentation for Tyrus;",
+      "plainText": "Now, thou son of man, take up a lamentation for Tyrus;"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "21125",
-      "text" : "And say unto Tyrus, O thou that art situate at the entry of the sea, <span class='extra'>which art<\/span> a merchant of the people for many isles, Thus saith the Lord <span class='nog'>GOD<\/span>; O Tyrus, thou hast said, I <span class='extra'>am<\/span> of perfect beauty.",
-      "plainText" : "And say unto Tyrus, O thou that art situate at the entry of the sea, which art a merchant of the people for many isles, Thus saith the Lord GOD; O Tyrus, thou hast said, I am of perfect beauty."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "21125",
+      "text": "And say unto Tyrus, O thou that art situate at the entry of the sea, <span class='extra'>which art</span> a merchant of the people for many isles, Thus saith the Lord <span class='nog'>GOD</span>; O Tyrus, thou hast said, I <span class='extra'>am</span> of perfect beauty.",
+      "plainText": "And say unto Tyrus, O thou that art situate at the entry of the sea, which art a merchant of the people for many isles, Thus saith the Lord GOD; O Tyrus, thou hast said, I am of perfect beauty."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "21126",
-      "text" : "Thy borders <span class='extra'>are<\/span> in the midst of the seas, thy builders have perfected thy beauty.",
-      "plainText" : "Thy borders are in the midst of the seas, thy builders have perfected thy beauty."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "21126",
+      "text": "Thy borders <span class='extra'>are</span> in the midst of the seas, thy builders have perfected thy beauty.",
+      "plainText": "Thy borders are in the midst of the seas, thy builders have perfected thy beauty."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "21127",
-      "text" : "They have made all thy <span class='extra'>ship<\/span> boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee.",
-      "plainText" : "They have made all thy ship boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "21127",
+      "text": "They have made all thy <span class='extra'>ship</span> boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee.",
+      "plainText": "They have made all thy ship boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "21128",
-      "text" : "<span class='extra'>Of<\/span> the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy benches <span class='extra'>of<\/span> ivory, <span class='extra'>brought<\/span> out of the isles of Chittim.",
-      "plainText" : "Of the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy benches of ivory, brought out of the isles of Chittim."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "21128",
+      "text": "<span class='extra'>Of</span> the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy benches <span class='extra'>of</span> ivory, <span class='extra'>brought</span> out of the isles of Chittim.",
+      "plainText": "Of the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy benches of ivory, brought out of the isles of Chittim."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "21129",
-      "text" : "Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee.",
-      "plainText" : "Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "21129",
+      "text": "Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee.",
+      "plainText": "Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "21130",
-      "text" : "The inhabitants of Zidon and Arvad were thy mariners: thy wise <span class='extra'>men<\/span>, O Tyrus, <span class='extra'>that<\/span> were in thee, were thy pilots.",
-      "plainText" : "The inhabitants of Zidon and Arvad were thy mariners: thy wise men, O Tyrus, that were in thee, were thy pilots."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "21130",
+      "text": "The inhabitants of Zidon and Arvad were thy mariners: thy wise <span class='extra'>men</span>, O Tyrus, <span class='extra'>that</span> were in thee, were thy pilots.",
+      "plainText": "The inhabitants of Zidon and Arvad were thy mariners: thy wise men, O Tyrus, that were in thee, were thy pilots."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "21131",
-      "text" : "The ancients of Gebal and the wise <span class='extra'>men<\/span> thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to occupy thy merchandise.",
-      "plainText" : "The ancients of Gebal and the wise men thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to occupy thy merchandise."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "21131",
+      "text": "The ancients of Gebal and the wise <span class='extra'>men</span> thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to occupy thy merchandise.",
+      "plainText": "The ancients of Gebal and the wise men thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to occupy thy merchandise."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "21132",
-      "text" : "They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness.",
-      "plainText" : "They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "21132",
+      "text": "They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness.",
+      "plainText": "They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "21133",
-      "text" : "The men of Arvad with thine army <span class='extra'>were<\/span> upon thy walls round about, and the Gammadims were in thy towers: they hanged their shields upon thy walls round about; they have made thy beauty perfect.",
-      "plainText" : "The men of Arvad with thine army were upon thy walls round about, and the Gammadims were in thy towers: they hanged their shields upon thy walls round about; they have made thy beauty perfect."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "21133",
+      "text": "The men of Arvad with thine army <span class='extra'>were</span> upon thy walls round about, and the Gammadims were in thy towers: they hanged their shields upon thy walls round about; they have made thy beauty perfect.",
+      "plainText": "The men of Arvad with thine army were upon thy walls round about, and the Gammadims were in thy towers: they hanged their shields upon thy walls round about; they have made thy beauty perfect."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "21134",
-      "text" : "Tarshish <span class='extra'>was<\/span> thy merchant by reason of the multitude of all <span class='extra'>kind of<\/span> riches; with silver, iron, tin, and lead, they traded in thy fairs.",
-      "plainText" : "Tarshish was thy merchant by reason of the multitude of all kind of riches; with silver, iron, tin, and lead, they traded in thy fairs."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "21134",
+      "text": "Tarshish <span class='extra'>was</span> thy merchant by reason of the multitude of all <span class='extra'>kind of</span> riches; with silver, iron, tin, and lead, they traded in thy fairs.",
+      "plainText": "Tarshish was thy merchant by reason of the multitude of all kind of riches; with silver, iron, tin, and lead, they traded in thy fairs."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "21135",
-      "text" : "Javan, Tubal, and Meshech, they <span class='extra'>were<\/span> thy merchants: they traded the persons of men and vessels of brass in thy market.",
-      "plainText" : "Javan, Tubal, and Meshech, they were thy merchants: they traded the persons of men and vessels of brass in thy market."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "21135",
+      "text": "Javan, Tubal, and Meshech, they <span class='extra'>were</span> thy merchants: they traded the persons of men and vessels of brass in thy market.",
+      "plainText": "Javan, Tubal, and Meshech, they were thy merchants: they traded the persons of men and vessels of brass in thy market."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "21136",
-      "text" : "They of the house of Togarmah traded in thy fairs with horses and horsemen and mules.",
-      "plainText" : "They of the house of Togarmah traded in thy fairs with horses and horsemen and mules."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "21136",
+      "text": "They of the house of Togarmah traded in thy fairs with horses and horsemen and mules.",
+      "plainText": "They of the house of Togarmah traded in thy fairs with horses and horsemen and mules."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "21137",
-      "text" : "The men of Dedan <span class='extra'>were<\/span> thy merchants; many isles <span class='extra'>were<\/span> the merchandise of thine hand: they brought thee <span class='extra'>for<\/span> a present horns of ivory and ebony.",
-      "plainText" : "The men of Dedan were thy merchants; many isles were the merchandise of thine hand: they brought thee for a present horns of ivory and ebony."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "21137",
+      "text": "The men of Dedan <span class='extra'>were</span> thy merchants; many isles <span class='extra'>were</span> the merchandise of thine hand: they brought thee <span class='extra'>for</span> a present horns of ivory and ebony.",
+      "plainText": "The men of Dedan were thy merchants; many isles were the merchandise of thine hand: they brought thee for a present horns of ivory and ebony."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "21138",
-      "text" : "Syria <span class='extra'>was<\/span> thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate.",
-      "plainText" : "Syria was thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "21138",
+      "text": "Syria <span class='extra'>was</span> thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate.",
+      "plainText": "Syria was thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "21139",
-      "text" : "Judah, and the land of Israel, they <span class='extra'>were<\/span> thy merchants: they traded in thy market wheat of Minnith, and Pannag, and honey, and oil, and balm.",
-      "plainText" : "Judah, and the land of Israel, they were thy merchants: they traded in thy market wheat of Minnith, and Pannag, and honey, and oil, and balm."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "21139",
+      "text": "Judah, and the land of Israel, they <span class='extra'>were</span> thy merchants: they traded in thy market wheat of Minnith, and Pannag, and honey, and oil, and balm.",
+      "plainText": "Judah, and the land of Israel, they were thy merchants: they traded in thy market wheat of Minnith, and Pannag, and honey, and oil, and balm."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "21140",
-      "text" : "Damascus <span class='extra'>was<\/span> thy merchant in the multitude of the wares of thy making, for the multitude of all riches; in the wine of Helbon, and white wool.",
-      "plainText" : "Damascus was thy merchant in the multitude of the wares of thy making, for the multitude of all riches; in the wine of Helbon, and white wool."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "21140",
+      "text": "Damascus <span class='extra'>was</span> thy merchant in the multitude of the wares of thy making, for the multitude of all riches; in the wine of Helbon, and white wool.",
+      "plainText": "Damascus was thy merchant in the multitude of the wares of thy making, for the multitude of all riches; in the wine of Helbon, and white wool."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "21141",
-      "text" : "Dan also and Javan going to and fro occupied in thy fairs: bright iron, cassia, and calamus, were in thy market.",
-      "plainText" : "Dan also and Javan going to and fro occupied in thy fairs: bright iron, cassia, and calamus, were in thy market."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "21141",
+      "text": "Dan also and Javan going to and fro occupied in thy fairs: bright iron, cassia, and calamus, were in thy market.",
+      "plainText": "Dan also and Javan going to and fro occupied in thy fairs: bright iron, cassia, and calamus, were in thy market."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "21142",
-      "text" : "Dedan <span class='extra'>was<\/span> thy merchant in precious clothes for chariots.",
-      "plainText" : "Dedan was thy merchant in precious clothes for chariots."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "21142",
+      "text": "Dedan <span class='extra'>was</span> thy merchant in precious clothes for chariots.",
+      "plainText": "Dedan was thy merchant in precious clothes for chariots."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "21143",
-      "text" : "Arabia, and all the princes of Kedar, they occupied with thee in lambs, and rams, and goats: in these <span class='extra'>were they<\/span> thy merchants.",
-      "plainText" : "Arabia, and all the princes of Kedar, they occupied with thee in lambs, and rams, and goats: in these were they thy merchants."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "21143",
+      "text": "Arabia, and all the princes of Kedar, they occupied with thee in lambs, and rams, and goats: in these <span class='extra'>were they</span> thy merchants.",
+      "plainText": "Arabia, and all the princes of Kedar, they occupied with thee in lambs, and rams, and goats: in these were they thy merchants."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "21144",
-      "text" : "The merchants of Sheba and Raamah, they <span class='extra'>were<\/span> thy merchants: they occupied in thy fairs with chief of all spices, and with all precious stones, and gold.",
-      "plainText" : "The merchants of Sheba and Raamah, they were thy merchants: they occupied in thy fairs with chief of all spices, and with all precious stones, and gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "21144",
+      "text": "The merchants of Sheba and Raamah, they <span class='extra'>were</span> thy merchants: they occupied in thy fairs with chief of all spices, and with all precious stones, and gold.",
+      "plainText": "The merchants of Sheba and Raamah, they were thy merchants: they occupied in thy fairs with chief of all spices, and with all precious stones, and gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "21145",
-      "text" : "Haran, and Canneh, and Eden, the merchants of Sheba, Asshur, <span class='extra'>and<\/span> Chilmad, <span class='extra'>were<\/span> thy merchants.",
-      "plainText" : "Haran, and Canneh, and Eden, the merchants of Sheba, Asshur, and Chilmad, were thy merchants."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "21145",
+      "text": "Haran, and Canneh, and Eden, the merchants of Sheba, Asshur, <span class='extra'>and</span> Chilmad, <span class='extra'>were</span> thy merchants.",
+      "plainText": "Haran, and Canneh, and Eden, the merchants of Sheba, Asshur, and Chilmad, were thy merchants."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "21146",
-      "text" : "These <span class='extra'>were<\/span> thy merchants in all sorts <span class='extra'>of things<\/span>, in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among thy merchandise.",
-      "plainText" : "These were thy merchants in all sorts of things, in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among thy merchandise."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "21146",
+      "text": "These <span class='extra'>were</span> thy merchants in all sorts <span class='extra'>of things</span>, in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among thy merchandise.",
+      "plainText": "These were thy merchants in all sorts of things, in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among thy merchandise."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "21147",
-      "text" : "The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas.",
-      "plainText" : "The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "21147",
+      "text": "The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas.",
+      "plainText": "The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "21148",
-      "text" : "Thy rowers have brought thee into great waters: the east wind hath broken thee in the midst of the seas.",
-      "plainText" : "Thy rowers have brought thee into great waters: the east wind hath broken thee in the midst of the seas."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "21148",
+      "text": "Thy rowers have brought thee into great waters: the east wind hath broken thee in the midst of the seas.",
+      "plainText": "Thy rowers have brought thee into great waters: the east wind hath broken thee in the midst of the seas."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "21149",
-      "text" : "Thy riches, and thy fairs, thy merchandise, thy mariners, and thy pilots, thy calkers, and the occupiers of thy merchandise, and all thy men of war, that <span class='extra'>are<\/span> in thee, and in all thy company which <span class='extra'>is<\/span> in the midst of thee, shall fall into the midst of the seas in the day of thy ruin.",
-      "plainText" : "Thy riches, and thy fairs, thy merchandise, thy mariners, and thy pilots, thy calkers, and the occupiers of thy merchandise, and all thy men of war, that are in thee, and in all thy company which is in the midst of thee, shall fall into the midst of the seas in the day of thy ruin."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "21149",
+      "text": "Thy riches, and thy fairs, thy merchandise, thy mariners, and thy pilots, thy calkers, and the occupiers of thy merchandise, and all thy men of war, that <span class='extra'>are</span> in thee, and in all thy company which <span class='extra'>is</span> in the midst of thee, shall fall into the midst of the seas in the day of thy ruin.",
+      "plainText": "Thy riches, and thy fairs, thy merchandise, thy mariners, and thy pilots, thy calkers, and the occupiers of thy merchandise, and all thy men of war, that are in thee, and in all thy company which is in the midst of thee, shall fall into the midst of the seas in the day of thy ruin."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "21150",
-      "text" : "The suburbs shall shake at the sound of the cry of thy pilots.",
-      "plainText" : "The suburbs shall shake at the sound of the cry of thy pilots."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "21150",
+      "text": "The suburbs shall shake at the sound of the cry of thy pilots.",
+      "plainText": "The suburbs shall shake at the sound of the cry of thy pilots."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "21151",
-      "text" : "And all that handle the oar, the mariners, <span class='extra'>and<\/span> all the pilots of the sea, shall come down from their ships, they shall stand upon the land;",
-      "plainText" : "And all that handle the oar, the mariners, and all the pilots of the sea, shall come down from their ships, they shall stand upon the land;"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "21151",
+      "text": "And all that handle the oar, the mariners, <span class='extra'>and</span> all the pilots of the sea, shall come down from their ships, they shall stand upon the land;",
+      "plainText": "And all that handle the oar, the mariners, and all the pilots of the sea, shall come down from their ships, they shall stand upon the land;"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "21152",
-      "text" : "And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:",
-      "plainText" : "And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:"
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "21152",
+      "text": "And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:",
+      "plainText": "And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:"
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "21153",
-      "text" : "And they shall make themselves utterly bald for thee, and gird them with sackcloth, and they shall weep for thee with bitterness of heart <span class='extra'>and<\/span> bitter wailing.",
-      "plainText" : "And they shall make themselves utterly bald for thee, and gird them with sackcloth, and they shall weep for thee with bitterness of heart and bitter wailing."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "21153",
+      "text": "And they shall make themselves utterly bald for thee, and gird them with sackcloth, and they shall weep for thee with bitterness of heart <span class='extra'>and</span> bitter wailing.",
+      "plainText": "And they shall make themselves utterly bald for thee, and gird them with sackcloth, and they shall weep for thee with bitterness of heart and bitter wailing."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "21154",
-      "text" : "And in their wailing they shall take up a lamentation for thee, and lament over thee, <span class='extra'>saying<\/span>, What <span class='extra'>city is<\/span> like Tyrus, like the destroyed in the midst of the sea?",
-      "plainText" : "And in their wailing they shall take up a lamentation for thee, and lament over thee, saying, What city is like Tyrus, like the destroyed in the midst of the sea?"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "21154",
+      "text": "And in their wailing they shall take up a lamentation for thee, and lament over thee, <span class='extra'>saying</span>, What <span class='extra'>city is</span> like Tyrus, like the destroyed in the midst of the sea?",
+      "plainText": "And in their wailing they shall take up a lamentation for thee, and lament over thee, saying, What city is like Tyrus, like the destroyed in the midst of the sea?"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "21155",
-      "text" : "When thy wares went forth out of the seas, thou filledst many people; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise.",
-      "plainText" : "When thy wares went forth out of the seas, thou filledst many people; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "21155",
+      "text": "When thy wares went forth out of the seas, thou filledst many people; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise.",
+      "plainText": "When thy wares went forth out of the seas, thou filledst many people; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "21156",
-      "text" : "In the time <span class='extra'>when<\/span> thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall.",
-      "plainText" : "In the time when thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "21156",
+      "text": "In the time <span class='extra'>when</span> thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall.",
+      "plainText": "In the time when thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "21157",
-      "text" : "All the inhabitants of the isles shall be astonished at thee, and their kings shall be sore afraid, they shall be troubled in <span class='extra'>their<\/span> countenance.",
-      "plainText" : "All the inhabitants of the isles shall be astonished at thee, and their kings shall be sore afraid, they shall be troubled in their countenance."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "21157",
+      "text": "All the inhabitants of the isles shall be astonished at thee, and their kings shall be sore afraid, they shall be troubled in <span class='extra'>their</span> countenance.",
+      "plainText": "All the inhabitants of the isles shall be astonished at thee, and their kings shall be sore afraid, they shall be troubled in their countenance."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "21158",
-      "text" : "The merchants among the people shall hiss at thee; thou shalt be a terror, and never <span class='extra'>shalt be<\/span> any more.",
-      "plainText" : "The merchants among the people shall hiss at thee; thou shalt be a terror, and never shalt be any more."
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "21158",
+      "text": "The merchants among the people shall hiss at thee; thou shalt be a terror, and never <span class='extra'>shalt be</span> any more.",
+      "plainText": "The merchants among the people shall hiss at thee; thou shalt be a terror, and never shalt be any more."
     }
   ]
 }
-
-
-

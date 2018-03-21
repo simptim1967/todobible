@@ -1,108 +1,99 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "121",
-    "verseCount" : "8",
-    "nextChapter" : "psalms_122.html",
-    "nextTitle" : "Psalms 122",
-    "prevChapter" : "psalms_120.html",
-    "prevTitle" : "Psalms 120",
-    "filename" : "psalms_121.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "121",
+    "verseCount": "8",
+    "nextChapter": "psalms_122.html",
+    "nextTitle": "Psalms 122",
+    "prevChapter": "psalms_120.html",
+    "prevTitle": "Psalms 120",
+    "filename": "psalms_121.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Song of degrees.",
-      "plainText" : "A Song of degrees."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Song of degrees.",
+      "plainText": "A Song of degrees."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16083",
-      "text" : "I will lift up mine eyes unto the hills, from whence cometh my help.",
-      "plainText" : "I will lift up mine eyes unto the hills, from whence cometh my help."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16083",
+      "text": "I will lift up mine eyes unto the hills, from whence cometh my help.",
+      "plainText": "I will lift up mine eyes unto the hills, from whence cometh my help."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16084",
-      "text" : "My help <span class='extra'>cometh<\/span> from the <span class='nog'>LORD<\/span>, which made heaven and earth.",
-      "plainText" : "My help cometh from the LORD, which made heaven and earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16084",
+      "text": "My help <span class='extra'>cometh</span> from the <span class='nog'>LORD</span>, which made heaven and earth.",
+      "plainText": "My help cometh from the LORD, which made heaven and earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16085",
-      "text" : "He will not suffer thy foot to be moved: he that keepeth thee will not slumber.",
-      "plainText" : "He will not suffer thy foot to be moved: he that keepeth thee will not slumber."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16085",
+      "text": "He will not suffer thy foot to be moved: he that keepeth thee will not slumber.",
+      "plainText": "He will not suffer thy foot to be moved: he that keepeth thee will not slumber."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "16086",
-      "text" : "Behold, he that keepeth Israel shall neither slumber nor sleep.",
-      "plainText" : "Behold, he that keepeth Israel shall neither slumber nor sleep."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "16086",
+      "text": "Behold, he that keepeth Israel shall neither slumber nor sleep.",
+      "plainText": "Behold, he that keepeth Israel shall neither slumber nor sleep."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "16087",
-      "text" : "The <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> thy keeper: the <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> thy shade upon thy right hand.",
-      "plainText" : "The LORD is thy keeper: the LORD is thy shade upon thy right hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "16087",
+      "text": "The <span class='nog'>LORD</span> <span class='extra'>is</span> thy keeper: the <span class='nog'>LORD</span> <span class='extra'>is</span> thy shade upon thy right hand.",
+      "plainText": "The LORD is thy keeper: the LORD is thy shade upon thy right hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "16088",
-      "text" : "The sun shall not smite thee by day, nor the moon by night.",
-      "plainText" : "The sun shall not smite thee by day, nor the moon by night."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "16088",
+      "text": "The sun shall not smite thee by day, nor the moon by night.",
+      "plainText": "The sun shall not smite thee by day, nor the moon by night."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "16089",
-      "text" : "The <span class='nog'>LORD<\/span> shall preserve thee from all evil: he shall preserve thy soul.",
-      "plainText" : "The LORD shall preserve thee from all evil: he shall preserve thy soul."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "16089",
+      "text": "The <span class='nog'>LORD</span> shall preserve thee from all evil: he shall preserve thy soul.",
+      "plainText": "The LORD shall preserve thee from all evil: he shall preserve thy soul."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "16090",
-      "text" : "The <span class='nog'>LORD<\/span> shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
-      "plainText" : "The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore."
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "16090",
+      "text": "The <span class='nog'>LORD</span> shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
+      "plainText": "The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore."
     }
   ]
 }
-
-

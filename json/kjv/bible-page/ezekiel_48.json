@@ -1,345 +1,309 @@
 {
   "book": {
-    "number" : "26",
-    "filenamePrefix" : "ezekiel",
-    "bookPage" : "ezekiel.html",
-    "title" : "Ezekiel",
-    "chapterCount" : "48",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "daniel_1.html",
-    "nextTitle" : "Daniel",
-    "prevBook" : "lamentations_1.html",
-    "prevTitle" : "Lamentations"
+    "number": "26",
+    "filenamePrefix": "ezekiel",
+    "bookPage": "ezekiel.html",
+    "title": "Ezekiel",
+    "chapterCount": "48",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "daniel_1.html",
+    "nextTitle": "Daniel",
+    "prevBook": "lamentations_1.html",
+    "prevTitle": "Lamentations",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "48",
-    "verseCount" : "35",
-    "nextChapter" : "daniel_1.html",
-    "nextTitle" : "Daniel 1",
-    "prevChapter" : "ezekiel_47.html",
-    "prevTitle" : "Ezekiel 47",
-    "filename" : "ezekiel_48.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "48",
+    "verseCount": "35",
+    "nextChapter": "daniel_1.html",
+    "nextTitle": "Daniel 1",
+    "prevChapter": "ezekiel_47.html",
+    "prevTitle": "Ezekiel 47",
+    "filename": "ezekiel_48.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "21704",
-      "text" : "Now these <span class='extra'>are<\/span> the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazar-enan, the border of Damascus northward, to the coast of Hamath; for these are his sides east <span class='extra'>and<\/span> west; a <span class='extra'>portion for<\/span> Dan.",
-      "plainText" : "Now these are the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazar-enan, the border of Damascus northward, to the coast of Hamath; for these are his sides east and west; a portion for Dan."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "21704",
+      "text": "Now these <span class='extra'>are</span> the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazar-enan, the border of Damascus northward, to the coast of Hamath; for these are his sides east <span class='extra'>and</span> west; a <span class='extra'>portion for</span> Dan.",
+      "plainText": "Now these are the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazar-enan, the border of Damascus northward, to the coast of Hamath; for these are his sides east and west; a portion for Dan."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "21705",
-      "text" : "And by the border of Dan, from the east side unto the west side, a <span class='extra'>portion for<\/span> Asher.",
-      "plainText" : "And by the border of Dan, from the east side unto the west side, a portion for Asher."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "21705",
+      "text": "And by the border of Dan, from the east side unto the west side, a <span class='extra'>portion for</span> Asher.",
+      "plainText": "And by the border of Dan, from the east side unto the west side, a portion for Asher."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "21706",
-      "text" : "And by the border of Asher, from the east side even unto the west side, a <span class='extra'>portion for<\/span> Naphtali.",
-      "plainText" : "And by the border of Asher, from the east side even unto the west side, a portion for Naphtali."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "21706",
+      "text": "And by the border of Asher, from the east side even unto the west side, a <span class='extra'>portion for</span> Naphtali.",
+      "plainText": "And by the border of Asher, from the east side even unto the west side, a portion for Naphtali."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "21707",
-      "text" : "And by the border of Naphtali, from the east side unto the west side, a <span class='extra'>portion for<\/span> Manasseh.",
-      "plainText" : "And by the border of Naphtali, from the east side unto the west side, a portion for Manasseh."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "21707",
+      "text": "And by the border of Naphtali, from the east side unto the west side, a <span class='extra'>portion for</span> Manasseh.",
+      "plainText": "And by the border of Naphtali, from the east side unto the west side, a portion for Manasseh."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "21708",
-      "text" : "And by the border of Manasseh, from the east side unto the west side, a <span class='extra'>portion for<\/span> Ephraim.",
-      "plainText" : "And by the border of Manasseh, from the east side unto the west side, a portion for Ephraim."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "21708",
+      "text": "And by the border of Manasseh, from the east side unto the west side, a <span class='extra'>portion for</span> Ephraim.",
+      "plainText": "And by the border of Manasseh, from the east side unto the west side, a portion for Ephraim."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "21709",
-      "text" : "And by the border of Ephraim, from the east side even unto the west side, a <span class='extra'>portion for<\/span> Reuben.",
-      "plainText" : "And by the border of Ephraim, from the east side even unto the west side, a portion for Reuben."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "21709",
+      "text": "And by the border of Ephraim, from the east side even unto the west side, a <span class='extra'>portion for</span> Reuben.",
+      "plainText": "And by the border of Ephraim, from the east side even unto the west side, a portion for Reuben."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "21710",
-      "text" : "And by the border of Reuben, from the east side unto the west side, a <span class='extra'>portion for<\/span> Judah.",
-      "plainText" : "And by the border of Reuben, from the east side unto the west side, a portion for Judah."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "21710",
+      "text": "And by the border of Reuben, from the east side unto the west side, a <span class='extra'>portion for</span> Judah.",
+      "plainText": "And by the border of Reuben, from the east side unto the west side, a portion for Judah."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "21711",
-      "text" : "And by the border of Judah, from the east side unto the west side, shall be the offering which ye shall offer of five and twenty thousand <span class='extra'>reeds in<\/span> breadth, and <span class='extra'>in<\/span> length as one of the <span class='extra'>other<\/span> parts, from the east side unto the west side: and the sanctuary shall be in the midst of it.",
-      "plainText" : "And by the border of Judah, from the east side unto the west side, shall be the offering which ye shall offer of five and twenty thousand reeds in breadth, and in length as one of the other parts, from the east side unto the west side: and the sanctuary shall be in the midst of it."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "21711",
+      "text": "And by the border of Judah, from the east side unto the west side, shall be the offering which ye shall offer of five and twenty thousand <span class='extra'>reeds in</span> breadth, and <span class='extra'>in</span> length as one of the <span class='extra'>other</span> parts, from the east side unto the west side: and the sanctuary shall be in the midst of it.",
+      "plainText": "And by the border of Judah, from the east side unto the west side, shall be the offering which ye shall offer of five and twenty thousand reeds in breadth, and in length as one of the other parts, from the east side unto the west side: and the sanctuary shall be in the midst of it."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "21712",
-      "text" : "The oblation that ye shall offer unto the <span class='nog'>LORD<\/span> <span class='extra'>shall be<\/span> of five and twenty thousand in length, and of ten thousand in breadth.",
-      "plainText" : "The oblation that ye shall offer unto the LORD shall be of five and twenty thousand in length, and of ten thousand in breadth."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "21712",
+      "text": "The oblation that ye shall offer unto the <span class='nog'>LORD</span> <span class='extra'>shall be</span> of five and twenty thousand in length, and of ten thousand in breadth.",
+      "plainText": "The oblation that ye shall offer unto the LORD shall be of five and twenty thousand in length, and of ten thousand in breadth."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "21713",
-      "text" : "And for them, <span class='extra'>even<\/span> for the priests, shall be <span class='extra'>this<\/span> holy oblation; toward the north five and twenty thousand <span class='extra'>in length<\/span>, and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the <span class='nog'>LORD<\/span> shall be in the midst thereof.",
-      "plainText" : "And for them, even for the priests, shall be this holy oblation; toward the north five and twenty thousand in length, and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the LORD shall be in the midst thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "21713",
+      "text": "And for them, <span class='extra'>even</span> for the priests, shall be <span class='extra'>this</span> holy oblation; toward the north five and twenty thousand <span class='extra'>in length</span>, and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the <span class='nog'>LORD</span> shall be in the midst thereof.",
+      "plainText": "And for them, even for the priests, shall be this holy oblation; toward the north five and twenty thousand in length, and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the LORD shall be in the midst thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "21714",
-      "text" : "<span class='extra'>It shall be<\/span> for the priests that are sanctified of the sons of Zadok; which have kept my charge, which went not astray when the children of Israel went astray, as the Levites went astray.",
-      "plainText" : "It shall be for the priests that are sanctified of the sons of Zadok; which have kept my charge, which went not astray when the children of Israel went astray, as the Levites went astray."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "21714",
+      "text": "<span class='extra'>It shall be</span> for the priests that are sanctified of the sons of Zadok; which have kept my charge, which went not astray when the children of Israel went astray, as the Levites went astray.",
+      "plainText": "It shall be for the priests that are sanctified of the sons of Zadok; which have kept my charge, which went not astray when the children of Israel went astray, as the Levites went astray."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "21715",
-      "text" : "And <span class='extra'>this<\/span> oblation of the land that is offered shall be unto them a thing most holy by the border of the Levites.",
-      "plainText" : "And this oblation of the land that is offered shall be unto them a thing most holy by the border of the Levites."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "21715",
+      "text": "And <span class='extra'>this</span> oblation of the land that is offered shall be unto them a thing most holy by the border of the Levites.",
+      "plainText": "And this oblation of the land that is offered shall be unto them a thing most holy by the border of the Levites."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "21716",
-      "text" : "And over against the border of the priests the Levites <span class='extra'>shall have<\/span> five and twenty thousand in length, and ten thousand in breadth: all the length <span class='extra'>shall be<\/span> five and twenty thousand, and the breadth ten thousand.",
-      "plainText" : "And over against the border of the priests the Levites shall have five and twenty thousand in length, and ten thousand in breadth: all the length shall be five and twenty thousand, and the breadth ten thousand."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "21716",
+      "text": "And over against the border of the priests the Levites <span class='extra'>shall have</span> five and twenty thousand in length, and ten thousand in breadth: all the length <span class='extra'>shall be</span> five and twenty thousand, and the breadth ten thousand.",
+      "plainText": "And over against the border of the priests the Levites shall have five and twenty thousand in length, and ten thousand in breadth: all the length shall be five and twenty thousand, and the breadth ten thousand."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "21717",
-      "text" : "And they shall not sell of it, neither exchange, nor alienate the firstfruits of the land: for <span class='extra'>it is<\/span> holy unto the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And they shall not sell of it, neither exchange, nor alienate the firstfruits of the land: for it is holy unto the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "21717",
+      "text": "And they shall not sell of it, neither exchange, nor alienate the firstfruits of the land: for <span class='extra'>it is</span> holy unto the <span class='nog'>LORD</span>.",
+      "plainText": "And they shall not sell of it, neither exchange, nor alienate the firstfruits of the land: for it is holy unto the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "21718",
-      "text" : "And the five thousand, that are left in the breadth over against the five and twenty thousand, shall be a profane <span class='extra'>place<\/span> for the city, for dwelling, and for suburbs: and the city shall be in the midst thereof.",
-      "plainText" : "And the five thousand, that are left in the breadth over against the five and twenty thousand, shall be a profane place for the city, for dwelling, and for suburbs: and the city shall be in the midst thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "21718",
+      "text": "And the five thousand, that are left in the breadth over against the five and twenty thousand, shall be a profane <span class='extra'>place</span> for the city, for dwelling, and for suburbs: and the city shall be in the midst thereof.",
+      "plainText": "And the five thousand, that are left in the breadth over against the five and twenty thousand, shall be a profane place for the city, for dwelling, and for suburbs: and the city shall be in the midst thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "21719",
-      "text" : "And these <span class='extra'>shall be<\/span> the measures thereof; the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred.",
-      "plainText" : "And these shall be the measures thereof; the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "21719",
+      "text": "And these <span class='extra'>shall be</span> the measures thereof; the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred.",
+      "plainText": "And these shall be the measures thereof; the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "21720",
-      "text" : "And the suburbs of the city shall be toward the north two hundred and fifty, and toward the south two hundred and fifty, and toward the east two hundred and fifty, and toward the west two hundred and fifty.",
-      "plainText" : "And the suburbs of the city shall be toward the north two hundred and fifty, and toward the south two hundred and fifty, and toward the east two hundred and fifty, and toward the west two hundred and fifty."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "21720",
+      "text": "And the suburbs of the city shall be toward the north two hundred and fifty, and toward the south two hundred and fifty, and toward the east two hundred and fifty, and toward the west two hundred and fifty.",
+      "plainText": "And the suburbs of the city shall be toward the north two hundred and fifty, and toward the south two hundred and fifty, and toward the east two hundred and fifty, and toward the west two hundred and fifty."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "21721",
-      "text" : "And the residue in length over against the oblation of the holy <span class='extra'>portion shall be<\/span> ten thousand eastward, and ten thousand westward: and it shall be over against the oblation of the holy <span class='extra'>portion<\/span>; and the increase thereof shall be for food unto them that serve the city.",
-      "plainText" : "And the residue in length over against the oblation of the holy portion shall be ten thousand eastward, and ten thousand westward: and it shall be over against the oblation of the holy portion; and the increase thereof shall be for food unto them that serve the city."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "21721",
+      "text": "And the residue in length over against the oblation of the holy <span class='extra'>portion shall be</span> ten thousand eastward, and ten thousand westward: and it shall be over against the oblation of the holy <span class='extra'>portion</span>; and the increase thereof shall be for food unto them that serve the city.",
+      "plainText": "And the residue in length over against the oblation of the holy portion shall be ten thousand eastward, and ten thousand westward: and it shall be over against the oblation of the holy portion; and the increase thereof shall be for food unto them that serve the city."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "21722",
-      "text" : "And they that serve the city shall serve it out of all the tribes of Israel.",
-      "plainText" : "And they that serve the city shall serve it out of all the tribes of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "21722",
+      "text": "And they that serve the city shall serve it out of all the tribes of Israel.",
+      "plainText": "And they that serve the city shall serve it out of all the tribes of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "21723",
-      "text" : "All the oblation <span class='extra'>shall be<\/span> five and twenty thousand by five and twenty thousand: ye shall offer the holy oblation foursquare, with the possession of the city.",
-      "plainText" : "All the oblation shall be five and twenty thousand by five and twenty thousand: ye shall offer the holy oblation foursquare, with the possession of the city."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "21723",
+      "text": "All the oblation <span class='extra'>shall be</span> five and twenty thousand by five and twenty thousand: ye shall offer the holy oblation foursquare, with the possession of the city.",
+      "plainText": "All the oblation shall be five and twenty thousand by five and twenty thousand: ye shall offer the holy oblation foursquare, with the possession of the city."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "21724",
-      "text" : "And the residue <span class='extra'>shall be<\/span> for the prince, on the one side and on the other of the holy oblation, and of the possession of the city, over against the five and twenty thousand of the oblation toward the east border, and westward over against the five and twenty thousand toward the west border, over against the portions for the prince: and it shall be the holy oblation; and the sanctuary of the house <span class='extra'>shall be<\/span> in the midst thereof.",
-      "plainText" : "And the residue shall be for the prince, on the one side and on the other of the holy oblation, and of the possession of the city, over against the five and twenty thousand of the oblation toward the east border, and westward over against the five and twenty thousand toward the west border, over against the portions for the prince: and it shall be the holy oblation; and the sanctuary of the house shall be in the midst thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "21724",
+      "text": "And the residue <span class='extra'>shall be</span> for the prince, on the one side and on the other of the holy oblation, and of the possession of the city, over against the five and twenty thousand of the oblation toward the east border, and westward over against the five and twenty thousand toward the west border, over against the portions for the prince: and it shall be the holy oblation; and the sanctuary of the house <span class='extra'>shall be</span> in the midst thereof.",
+      "plainText": "And the residue shall be for the prince, on the one side and on the other of the holy oblation, and of the possession of the city, over against the five and twenty thousand of the oblation toward the east border, and westward over against the five and twenty thousand toward the west border, over against the portions for the prince: and it shall be the holy oblation; and the sanctuary of the house shall be in the midst thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "21725",
-      "text" : "Moreover from the possession of the Levites, and from the possession of the city, <span class='extra'>being<\/span> in the midst <span class='extra'>of that<\/span> which is the prince's, between the border of Judah and the border of Benjamin, shall be for the prince.",
-      "plainText" : "Moreover from the possession of the Levites, and from the possession of the city, being in the midst of that which is the prince's, between the border of Judah and the border of Benjamin, shall be for the prince."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "21725",
+      "text": "Moreover from the possession of the Levites, and from the possession of the city, <span class='extra'>being</span> in the midst <span class='extra'>of that</span> which is the prince's, between the border of Judah and the border of Benjamin, shall be for the prince.",
+      "plainText": "Moreover from the possession of the Levites, and from the possession of the city, being in the midst of that which is the prince's, between the border of Judah and the border of Benjamin, shall be for the prince."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "21726",
-      "text" : "As for the rest of the tribes, from the east side unto the west side, Benjamin <span class='extra'>shall have<\/span> a <span class='extra'>portion<\/span>.",
-      "plainText" : "As for the rest of the tribes, from the east side unto the west side, Benjamin shall have a portion."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "21726",
+      "text": "As for the rest of the tribes, from the east side unto the west side, Benjamin <span class='extra'>shall have</span> a <span class='extra'>portion</span>.",
+      "plainText": "As for the rest of the tribes, from the east side unto the west side, Benjamin shall have a portion."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "21727",
-      "text" : "And by the border of Benjamin, from the east side unto the west side, Simeon <span class='extra'>shall have<\/span> a <span class='extra'>portion<\/span>.",
-      "plainText" : "And by the border of Benjamin, from the east side unto the west side, Simeon shall have a portion."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "21727",
+      "text": "And by the border of Benjamin, from the east side unto the west side, Simeon <span class='extra'>shall have</span> a <span class='extra'>portion</span>.",
+      "plainText": "And by the border of Benjamin, from the east side unto the west side, Simeon shall have a portion."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "21728",
-      "text" : "And by the border of Simeon, from the east side unto the west side, Issachar a <span class='extra'>portion<\/span>.",
-      "plainText" : "And by the border of Simeon, from the east side unto the west side, Issachar a portion."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "21728",
+      "text": "And by the border of Simeon, from the east side unto the west side, Issachar a <span class='extra'>portion</span>.",
+      "plainText": "And by the border of Simeon, from the east side unto the west side, Issachar a portion."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "21729",
-      "text" : "And by the border of Issachar, from the east side unto the west side, Zebulun a <span class='extra'>portion<\/span>.",
-      "plainText" : "And by the border of Issachar, from the east side unto the west side, Zebulun a portion."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "21729",
+      "text": "And by the border of Issachar, from the east side unto the west side, Zebulun a <span class='extra'>portion</span>.",
+      "plainText": "And by the border of Issachar, from the east side unto the west side, Zebulun a portion."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "21730",
-      "text" : "And by the border of Zebulun, from the east side unto the west side, Gad a <span class='extra'>portion<\/span>.",
-      "plainText" : "And by the border of Zebulun, from the east side unto the west side, Gad a portion."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "21730",
+      "text": "And by the border of Zebulun, from the east side unto the west side, Gad a <span class='extra'>portion</span>.",
+      "plainText": "And by the border of Zebulun, from the east side unto the west side, Gad a portion."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "21731",
-      "text" : "And by the border of Gad, at the south side southward, the border shall be even from Tamar <span class='extra'>unto<\/span> the waters of strife <span class='extra'>in<\/span> Kadesh, <span class='extra'>and<\/span> to the river toward the great sea.",
-      "plainText" : "And by the border of Gad, at the south side southward, the border shall be even from Tamar unto the waters of strife in Kadesh, and to the river toward the great sea."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "21731",
+      "text": "And by the border of Gad, at the south side southward, the border shall be even from Tamar <span class='extra'>unto</span> the waters of strife <span class='extra'>in</span> Kadesh, <span class='extra'>and</span> to the river toward the great sea.",
+      "plainText": "And by the border of Gad, at the south side southward, the border shall be even from Tamar unto the waters of strife in Kadesh, and to the river toward the great sea."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "21732",
-      "text" : "This <span class='extra'>is<\/span> the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these <span class='extra'>are<\/span> their portions, saith the Lord <span class='nog'>GOD<\/span>.",
-      "plainText" : "This is the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these are their portions, saith the Lord GOD."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "21732",
+      "text": "This <span class='extra'>is</span> the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these <span class='extra'>are</span> their portions, saith the Lord <span class='nog'>GOD</span>.",
+      "plainText": "This is the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these are their portions, saith the Lord GOD."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "21733",
-      "text" : "And these <span class='extra'>are<\/span> the goings out of the city on the north side, four thousand and five hundred measures.",
-      "plainText" : "And these are the goings out of the city on the north side, four thousand and five hundred measures."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "21733",
+      "text": "And these <span class='extra'>are</span> the goings out of the city on the north side, four thousand and five hundred measures.",
+      "plainText": "And these are the goings out of the city on the north side, four thousand and five hundred measures."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "21734",
-      "text" : "And the gates of the city <span class='extra'>shall be<\/span> after the names of the tribes of Israel: three gates northward; one gate of Reuben, one gate of Judah, one gate of Levi.",
-      "plainText" : "And the gates of the city shall be after the names of the tribes of Israel: three gates northward; one gate of Reuben, one gate of Judah, one gate of Levi."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "21734",
+      "text": "And the gates of the city <span class='extra'>shall be</span> after the names of the tribes of Israel: three gates northward; one gate of Reuben, one gate of Judah, one gate of Levi.",
+      "plainText": "And the gates of the city shall be after the names of the tribes of Israel: three gates northward; one gate of Reuben, one gate of Judah, one gate of Levi."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "21735",
-      "text" : "And at the east side four thousand and five hundred: and three gates; and one gate of Joseph, one gate of Benjamin, one gate of Dan.",
-      "plainText" : "And at the east side four thousand and five hundred: and three gates; and one gate of Joseph, one gate of Benjamin, one gate of Dan."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "21735",
+      "text": "And at the east side four thousand and five hundred: and three gates; and one gate of Joseph, one gate of Benjamin, one gate of Dan.",
+      "plainText": "And at the east side four thousand and five hundred: and three gates; and one gate of Joseph, one gate of Benjamin, one gate of Dan."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "21736",
-      "text" : "And at the south side four thousand and five hundred measures: and three gates; one gate of Simeon, one gate of Issachar, one gate of Zebulun.",
-      "plainText" : "And at the south side four thousand and five hundred measures: and three gates; one gate of Simeon, one gate of Issachar, one gate of Zebulun."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "21736",
+      "text": "And at the south side four thousand and five hundred measures: and three gates; one gate of Simeon, one gate of Issachar, one gate of Zebulun.",
+      "plainText": "And at the south side four thousand and five hundred measures: and three gates; one gate of Simeon, one gate of Issachar, one gate of Zebulun."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "21737",
-      "text" : "At the west side four thousand and five hundred, <span class='extra'>with<\/span> their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali.",
-      "plainText" : "At the west side four thousand and five hundred, with their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "21737",
+      "text": "At the west side four thousand and five hundred, <span class='extra'>with</span> their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali.",
+      "plainText": "At the west side four thousand and five hundred, with their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "21738",
-      "text" : "<span class='extra'>It was<\/span> round about eighteen thousand <span class='extra'>measures<\/span>: and the name of the city from <span class='extra'>that<\/span> day <span class='extra'>shall be<\/span>, The <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> there.",
-      "plainText" : "It was round about eighteen thousand measures: and the name of the city from that day shall be, The LORD is there."
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "21738",
+      "text": "<span class='extra'>It was</span> round about eighteen thousand <span class='extra'>measures</span>: and the name of the city from <span class='extra'>that</span> day <span class='extra'>shall be</span>, The <span class='nog'>LORD</span> <span class='extra'>is</span> there.",
+      "plainText": "It was round about eighteen thousand measures: and the name of the city from that day shall be, The LORD is there."
     }
   ]
 }
-
-
-

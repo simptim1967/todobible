@@ -1,334 +1,301 @@
 {
   "book": {
-    "number" : "1",
-    "filenamePrefix" : "genesis",
-    "bookPage" : "genesis.html",
-    "title" : "Genesis",
-    "chapterCount" : "50",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "exodus_1.html",
-    "nextTitle" : "Exodus",
-    "prevBook" : "revelation_1.html",
-    "prevTitle" : "Revelation"
+    "number": "1",
+    "filenamePrefix": "genesis",
+    "bookPage": "genesis.html",
+    "title": "Genesis",
+    "chapterCount": "50",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "exodus_1.html",
+    "nextTitle": "Exodus",
+    "prevBook": "revelation_1.html",
+    "prevTitle": "Revelation",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "43",
-    "verseCount" : "34",
-    "nextChapter" : "genesis_44.html",
-    "nextTitle" : "Genesis 44",
-    "prevChapter" : "genesis_42.html",
-    "prevTitle" : "Genesis 42",
-    "filename" : "genesis_43.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "43",
+    "verseCount": "34",
+    "nextChapter": "genesis_44.html",
+    "nextTitle": "Genesis 44",
+    "prevChapter": "genesis_42.html",
+    "prevTitle": "Genesis 42",
+    "filename": "genesis_43.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "1292",
-      "text" : "And the famine <span class='extra'>was<\/span> sore in the land.",
-      "plainText" : "And the famine was sore in the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "1292",
+      "text": "And the famine <span class='extra'>was</span> sore in the land.",
+      "plainText": "And the famine was sore in the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "1293",
-      "text" : "And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food.",
-      "plainText" : "And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "1293",
+      "text": "And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food.",
+      "plainText": "And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "1294",
-      "text" : "And Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye shall not see my face, except your brother <span class='extra'>be<\/span> with you.",
-      "plainText" : "And Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye shall not see my face, except your brother be with you."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "1294",
+      "text": "And Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye shall not see my face, except your brother <span class='extra'>be</span> with you.",
+      "plainText": "And Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye shall not see my face, except your brother be with you."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "1295",
-      "text" : "If thou wilt send our brother with us, we will go down and buy thee food:",
-      "plainText" : "If thou wilt send our brother with us, we will go down and buy thee food:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "1295",
+      "text": "If thou wilt send our brother with us, we will go down and buy thee food:",
+      "plainText": "If thou wilt send our brother with us, we will go down and buy thee food:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "1296",
-      "text" : "But if thou wilt not send <span class='extra'>him<\/span>, we will not go down: for the man said unto us, Ye shall not see my face, except your brother <span class='extra'>be<\/span> with you.",
-      "plainText" : "But if thou wilt not send him, we will not go down: for the man said unto us, Ye shall not see my face, except your brother be with you."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "1296",
+      "text": "But if thou wilt not send <span class='extra'>him</span>, we will not go down: for the man said unto us, Ye shall not see my face, except your brother <span class='extra'>be</span> with you.",
+      "plainText": "But if thou wilt not send him, we will not go down: for the man said unto us, Ye shall not see my face, except your brother be with you."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "1297",
-      "text" : "And Israel said, Wherefore dealt ye <span class='extra'>so<\/span> ill with me, <span class='extra'>as<\/span> to tell the man whether ye had yet a brother?",
-      "plainText" : "And Israel said, Wherefore dealt ye so ill with me, as to tell the man whether ye had yet a brother?"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "1297",
+      "text": "And Israel said, Wherefore dealt ye <span class='extra'>so</span> ill with me, <span class='extra'>as</span> to tell the man whether ye had yet a brother?",
+      "plainText": "And Israel said, Wherefore dealt ye so ill with me, as to tell the man whether ye had yet a brother?"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "1298",
-      "text" : "And they said, The man asked us straitly of our state, and of our kindred, saying, <span class='extra'>Is<\/span> your father yet alive? have ye <span class='extra'>another<\/span> brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?",
-      "plainText" : "And they said, The man asked us straitly of our state, and of our kindred, saying, Is your father yet alive? have ye another brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "1298",
+      "text": "And they said, The man asked us straitly of our state, and of our kindred, saying, <span class='extra'>Is</span> your father yet alive? have ye <span class='extra'>another</span> brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?",
+      "plainText": "And they said, The man asked us straitly of our state, and of our kindred, saying, Is your father yet alive? have ye another brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "1299",
-      "text" : "And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, <span class='extra'>and<\/span> also our little ones.",
-      "plainText" : "And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, and also our little ones."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "1299",
+      "text": "And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, <span class='extra'>and</span> also our little ones.",
+      "plainText": "And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, and also our little ones."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "1300",
-      "text" : "I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:",
-      "plainText" : "I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "1300",
+      "text": "I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:",
+      "plainText": "I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "1301",
-      "text" : "For except we had lingered, surely now we had returned this second time.",
-      "plainText" : "For except we had lingered, surely now we had returned this second time."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "1301",
+      "text": "For except we had lingered, surely now we had returned this second time.",
+      "plainText": "For except we had lingered, surely now we had returned this second time."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "1302",
-      "text" : "And their father Israel said unto them, If <span class='extra'>it must be<\/span> so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:",
-      "plainText" : "And their father Israel said unto them, If it must be so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "1302",
+      "text": "And their father Israel said unto them, If <span class='extra'>it must be</span> so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:",
+      "plainText": "And their father Israel said unto them, If it must be so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "1303",
-      "text" : "And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry <span class='extra'>it<\/span> again in your hand; peradventure it <span class='extra'>was<\/span> an oversight:",
-      "plainText" : "And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry it again in your hand; peradventure it was an oversight:"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "1303",
+      "text": "And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry <span class='extra'>it</span> again in your hand; peradventure it <span class='extra'>was</span> an oversight:",
+      "plainText": "And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry it again in your hand; peradventure it was an oversight:"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "1304",
-      "text" : "Take also your brother, and arise, go again unto the man:",
-      "plainText" : "Take also your brother, and arise, go again unto the man:"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "1304",
+      "text": "Take also your brother, and arise, go again unto the man:",
+      "plainText": "Take also your brother, and arise, go again unto the man:"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "1305",
-      "text" : "And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved <span class='extra'>of my children<\/span>, I am bereaved.",
-      "plainText" : "And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved of my children, I am bereaved."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "1305",
+      "text": "And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved <span class='extra'>of my children</span>, I am bereaved.",
+      "plainText": "And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved of my children, I am bereaved."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "1306",
-      "text" : "And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph.",
-      "plainText" : "And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "1306",
+      "text": "And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph.",
+      "plainText": "And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "1307",
-      "text" : "And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring <span class='extra'>these<\/span> men home, and slay, and make ready; for <span class='extra'>these<\/span> men shall dine with me at noon.",
-      "plainText" : "And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring these men home, and slay, and make ready; for these men shall dine with me at noon."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "1307",
+      "text": "And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring <span class='extra'>these</span> men home, and slay, and make ready; for <span class='extra'>these</span> men shall dine with me at noon.",
+      "plainText": "And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring these men home, and slay, and make ready; for these men shall dine with me at noon."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "1308",
-      "text" : "And the man did as Joseph bade; and the man brought the men into Joseph's house.",
-      "plainText" : "And the man did as Joseph bade; and the man brought the men into Joseph's house."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "1308",
+      "text": "And the man did as Joseph bade; and the man brought the men into Joseph's house.",
+      "plainText": "And the man did as Joseph bade; and the man brought the men into Joseph's house."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "1309",
-      "text" : "And the men were afraid, because they were brought into Joseph's house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses.",
-      "plainText" : "And the men were afraid, because they were brought into Joseph's house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "1309",
+      "text": "And the men were afraid, because they were brought into Joseph's house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses.",
+      "plainText": "And the men were afraid, because they were brought into Joseph's house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "1310",
-      "text" : "And they came near to the steward of Joseph's house, and they communed with him at the door of the house,",
-      "plainText" : "And they came near to the steward of Joseph's house, and they communed with him at the door of the house,"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "1310",
+      "text": "And they came near to the steward of Joseph's house, and they communed with him at the door of the house,",
+      "plainText": "And they came near to the steward of Joseph's house, and they communed with him at the door of the house,"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "1311",
-      "text" : "And said, O sir, we came indeed down at the first time to buy food:",
-      "plainText" : "And said, O sir, we came indeed down at the first time to buy food:"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "1311",
+      "text": "And said, O sir, we came indeed down at the first time to buy food:",
+      "plainText": "And said, O sir, we came indeed down at the first time to buy food:"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "1312",
-      "text" : "And it came to pass, when we came to the inn, that we opened our sacks, and, behold, <span class='extra'>every<\/span> man's money <span class='extra'>was<\/span> in the mouth of his sack, our money in full weight: and we have brought it again in our hand.",
-      "plainText" : "And it came to pass, when we came to the inn, that we opened our sacks, and, behold, every man's money was in the mouth of his sack, our money in full weight: and we have brought it again in our hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "1312",
+      "text": "And it came to pass, when we came to the inn, that we opened our sacks, and, behold, <span class='extra'>every</span> man's money <span class='extra'>was</span> in the mouth of his sack, our money in full weight: and we have brought it again in our hand.",
+      "plainText": "And it came to pass, when we came to the inn, that we opened our sacks, and, behold, every man's money was in the mouth of his sack, our money in full weight: and we have brought it again in our hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "1313",
-      "text" : "And other money have we brought down in our hands to buy food: we cannot tell who put our money in our sacks.",
-      "plainText" : "And other money have we brought down in our hands to buy food: we cannot tell who put our money in our sacks."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "1313",
+      "text": "And other money have we brought down in our hands to buy food: we cannot tell who put our money in our sacks.",
+      "plainText": "And other money have we brought down in our hands to buy food: we cannot tell who put our money in our sacks."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "1314",
-      "text" : "And he said, Peace <span class='extra'>be<\/span> to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them.",
-      "plainText" : "And he said, Peace be to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "1314",
+      "text": "And he said, Peace <span class='extra'>be</span> to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them.",
+      "plainText": "And he said, Peace be to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "1315",
-      "text" : "And the man brought the men into Joseph's house, and gave <span class='extra'>them<\/span> water, and they washed their feet; and he gave their asses provender.",
-      "plainText" : "And the man brought the men into Joseph's house, and gave them water, and they washed their feet; and he gave their asses provender."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "1315",
+      "text": "And the man brought the men into Joseph's house, and gave <span class='extra'>them</span> water, and they washed their feet; and he gave their asses provender.",
+      "plainText": "And the man brought the men into Joseph's house, and gave them water, and they washed their feet; and he gave their asses provender."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "1316",
-      "text" : "And they made ready the present against Joseph came at noon: for they heard that they should eat bread there.",
-      "plainText" : "And they made ready the present against Joseph came at noon: for they heard that they should eat bread there."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "1316",
+      "text": "And they made ready the present against Joseph came at noon: for they heard that they should eat bread there.",
+      "plainText": "And they made ready the present against Joseph came at noon: for they heard that they should eat bread there."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "1317",
-      "text" : "And when Joseph came home, they brought him the present which <span class='extra'>was<\/span> in their hand into the house, and bowed themselves to him to the earth.",
-      "plainText" : "And when Joseph came home, they brought him the present which was in their hand into the house, and bowed themselves to him to the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "1317",
+      "text": "And when Joseph came home, they brought him the present which <span class='extra'>was</span> in their hand into the house, and bowed themselves to him to the earth.",
+      "plainText": "And when Joseph came home, they brought him the present which was in their hand into the house, and bowed themselves to him to the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "1318",
-      "text" : "And he asked them of <span class='extra'>their<\/span> welfare, and said, <span class='extra'>Is<\/span> your father well, the old man of whom ye spake? <span class='extra'>Is<\/span> he yet alive?",
-      "plainText" : "And he asked them of their welfare, and said, Is your father well, the old man of whom ye spake? Is he yet alive?"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "1318",
+      "text": "And he asked them of <span class='extra'>their</span> welfare, and said, <span class='extra'>Is</span> your father well, the old man of whom ye spake? <span class='extra'>Is</span> he yet alive?",
+      "plainText": "And he asked them of their welfare, and said, Is your father well, the old man of whom ye spake? Is he yet alive?"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "1319",
-      "text" : "And they answered, Thy servant our father <span class='extra'>is<\/span> in good health, he <span class='extra'>is<\/span> yet alive. And they bowed down their heads, and made obeisance.",
-      "plainText" : "And they answered, Thy servant our father is in good health, he is yet alive. And they bowed down their heads, and made obeisance."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "1319",
+      "text": "And they answered, Thy servant our father <span class='extra'>is</span> in good health, he <span class='extra'>is</span> yet alive. And they bowed down their heads, and made obeisance.",
+      "plainText": "And they answered, Thy servant our father is in good health, he is yet alive. And they bowed down their heads, and made obeisance."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "1320",
-      "text" : "And he lifted up his eyes, and saw his brother Benjamin, his mother's son, and said, <span class='extra'>Is<\/span> this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son.",
-      "plainText" : "And he lifted up his eyes, and saw his brother Benjamin, his mother's son, and said, Is this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "1320",
+      "text": "And he lifted up his eyes, and saw his brother Benjamin, his mother's son, and said, <span class='extra'>Is</span> this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son.",
+      "plainText": "And he lifted up his eyes, and saw his brother Benjamin, his mother's son, and said, Is this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "1321",
-      "text" : "And Joseph made haste; for his bowels did yearn upon his brother: and he sought <span class='extra'>where<\/span> to weep; and he entered into <span class='extra'>his<\/span> chamber, and wept there.",
-      "plainText" : "And Joseph made haste; for his bowels did yearn upon his brother: and he sought where to weep; and he entered into his chamber, and wept there."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "1321",
+      "text": "And Joseph made haste; for his bowels did yearn upon his brother: and he sought <span class='extra'>where</span> to weep; and he entered into <span class='extra'>his</span> chamber, and wept there.",
+      "plainText": "And Joseph made haste; for his bowels did yearn upon his brother: and he sought where to weep; and he entered into his chamber, and wept there."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "1322",
-      "text" : "And he washed his face, and went out, and refrained himself, and said, Set on bread.",
-      "plainText" : "And he washed his face, and went out, and refrained himself, and said, Set on bread."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "1322",
+      "text": "And he washed his face, and went out, and refrained himself, and said, Set on bread.",
+      "plainText": "And he washed his face, and went out, and refrained himself, and said, Set on bread."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "1323",
-      "text" : "And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that <span class='extra'>is<\/span> an abomination unto the Egyptians.",
-      "plainText" : "And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that is an abomination unto the Egyptians."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "1323",
+      "text": "And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that <span class='extra'>is</span> an abomination unto the Egyptians.",
+      "plainText": "And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that is an abomination unto the Egyptians."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "1324",
-      "text" : "And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another.",
-      "plainText" : "And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "1324",
+      "text": "And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another.",
+      "plainText": "And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "1325",
-      "text" : "And he took <span class='extra'>and sent<\/span> messes unto them from before him: but Benjamin's mess was five times so much as any of theirs. And they drank, and were merry with him.",
-      "plainText" : "And he took and sent messes unto them from before him: but Benjamin's mess was five times so much as any of theirs. And they drank, and were merry with him."
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "1325",
+      "text": "And he took <span class='extra'>and sent</span> messes unto them from before him: but Benjamin's mess was five times so much as any of theirs. And they drank, and were merry with him.",
+      "plainText": "And he took and sent messes unto them from before him: but Benjamin's mess was five times so much as any of theirs. And they drank, and were merry with him."
     }
   ]
 }
-

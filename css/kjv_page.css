@@ -123,7 +123,7 @@
     */
     color: black;
     position: relative; 
-    border-right: solid 6px purple;
+    border-right: solid 6px #6a1b9a;
 }
 
 .highlightverse b {
@@ -184,6 +184,11 @@
     border-left: solid 1px purple;
     border-right: solid 1px purple;
     border-bottom: solid 1px purple;
+}
+.verse-todo-list-title {
+    background-color: purple;
+    color: white;
+    text-align: center;
 }
 .verse-todo-item {
     padding: 3px;

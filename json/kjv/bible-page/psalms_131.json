@@ -1,63 +1,59 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "131",
-    "verseCount" : "3",
-    "nextChapter" : "psalms_132.html",
-    "nextTitle" : "Psalms 132",
-    "prevChapter" : "psalms_130.html",
-    "prevTitle" : "Psalms 130",
-    "filename" : "psalms_131.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "131",
+    "verseCount": "3",
+    "nextChapter": "psalms_132.html",
+    "nextTitle": "Psalms 132",
+    "prevChapter": "psalms_130.html",
+    "prevTitle": "Psalms 130",
+    "filename": "psalms_131.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Song of degrees of David.",
-      "plainText" : "A Song of degrees of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Song of degrees of David.",
+      "plainText": "A Song of degrees of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16150",
-      "text" : "<span class='nog'>LORD<\/span>, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.",
-      "plainText" : "LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16150",
+      "text": "<span class='nog'>LORD</span>, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.",
+      "plainText": "LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16151",
-      "text" : "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul <span class='extra'>is<\/span> even as a weaned child.",
-      "plainText" : "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16151",
+      "text": "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul <span class='extra'>is</span> even as a weaned child.",
+      "plainText": "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16152",
-      "text" : "Let Israel hope in the <span class='nog'>LORD<\/span> from henceforth and for ever.",
-      "plainText" : "Let Israel hope in the LORD from henceforth and for ever."
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16152",
+      "text": "Let Israel hope in the <span class='nog'>LORD</span> from henceforth and for ever.",
+      "plainText": "Let Israel hope in the LORD from henceforth and for ever."
     }
   ]
 }
-
-

@@ -1,406 +1,365 @@
 {
   "book": {
-    "number" : "43",
-    "filenamePrefix" : "john",
-    "bookPage" : "john.html",
-    "title" : "John",
-    "chapterCount" : "21",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "acts_1.html",
-    "nextTitle" : "Acts",
-    "prevBook" : "luke_1.html",
-    "prevTitle" : "Luke"
+    "number": "43",
+    "filenamePrefix": "john",
+    "bookPage": "john.html",
+    "title": "John",
+    "chapterCount": "21",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "acts_1.html",
+    "nextTitle": "Acts",
+    "prevBook": "luke_1.html",
+    "prevTitle": "Luke",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "10",
-    "verseCount" : "42",
-    "nextChapter" : "john_11.html",
-    "nextTitle" : "John 11",
-    "prevChapter" : "john_9.html",
-    "prevTitle" : "John 9",
-    "filename" : "john_10.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "10",
+    "verseCount": "42",
+    "nextChapter": "john_11.html",
+    "nextTitle": "John 11",
+    "prevChapter": "john_9.html",
+    "prevTitle": "John 9",
+    "filename": "john_10.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "26483",
-      "text" : "<span class='woc'>Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.<\/span>",
-      "plainText" : "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "26483",
+      "text": "<span class='woc'>Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.</span>",
+      "plainText": "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "26484",
-      "text" : "<span class='woc'>But he that entereth in by the door is the shepherd of the sheep.<\/span>",
-      "plainText" : "But he that entereth in by the door is the shepherd of the sheep."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "26484",
+      "text": "<span class='woc'>But he that entereth in by the door is the shepherd of the sheep.</span>",
+      "plainText": "But he that entereth in by the door is the shepherd of the sheep."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "26485",
-      "text" : "<span class='woc'>To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out.<\/span>",
-      "plainText" : "To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "26485",
+      "text": "<span class='woc'>To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out.</span>",
+      "plainText": "To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "26486",
-      "text" : "<span class='woc'>And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice.<\/span>",
-      "plainText" : "And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "26486",
+      "text": "<span class='woc'>And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice.</span>",
+      "plainText": "And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "26487",
-      "text" : "<span class='woc'>And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.<\/span>",
-      "plainText" : "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "26487",
+      "text": "<span class='woc'>And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.</span>",
+      "plainText": "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "26488",
-      "text" : "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.",
-      "plainText" : "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "26488",
+      "text": "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.",
+      "plainText": "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "26489",
-      "text" : "Then said Jesus unto them again, <span class='woc'>Verily, verily, I say unto you, I am the door of the sheep.<\/span>",
-      "plainText" : "Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "26489",
+      "text": "Then said Jesus unto them again, <span class='woc'>Verily, verily, I say unto you, I am the door of the sheep.</span>",
+      "plainText": "Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "26490",
-      "text" : "<span class='woc'>All that ever came before me are thieves and robbers: but the sheep did not hear them.<\/span>",
-      "plainText" : "All that ever came before me are thieves and robbers: but the sheep did not hear them."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "26490",
+      "text": "<span class='woc'>All that ever came before me are thieves and robbers: but the sheep did not hear them.</span>",
+      "plainText": "All that ever came before me are thieves and robbers: but the sheep did not hear them."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "26491",
-      "text" : "<span class='woc'>I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.<\/span>",
-      "plainText" : "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "26491",
+      "text": "<span class='woc'>I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.</span>",
+      "plainText": "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "26492",
-      "text" : "<span class='woc'>The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have <span class='extra'>it<\/span> more abundantly.<\/span>",
-      "plainText" : "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "26492",
+      "text": "<span class='woc'>The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have <span class='extra'>it</span> more abundantly.</span>",
+      "plainText": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "26493",
-      "text" : "<span class='woc'>I am the good shepherd: the good shepherd giveth his life for the sheep.<\/span>",
-      "plainText" : "I am the good shepherd: the good shepherd giveth his life for the sheep."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "26493",
+      "text": "<span class='woc'>I am the good shepherd: the good shepherd giveth his life for the sheep.</span>",
+      "plainText": "I am the good shepherd: the good shepherd giveth his life for the sheep."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "26494",
-      "text" : "<span class='woc'>But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep.<\/span>",
-      "plainText" : "But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "26494",
+      "text": "<span class='woc'>But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep.</span>",
+      "plainText": "But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "26495",
-      "text" : "<span class='woc'>The hireling fleeth, because he is an hireling, and careth not for the sheep.<\/span>",
-      "plainText" : "The hireling fleeth, because he is an hireling, and careth not for the sheep."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "26495",
+      "text": "<span class='woc'>The hireling fleeth, because he is an hireling, and careth not for the sheep.</span>",
+      "plainText": "The hireling fleeth, because he is an hireling, and careth not for the sheep."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "26496",
-      "text" : "<span class='woc'>I am the good shepherd, and know my <span class='extra'>sheep<\/span>, and am known of mine.<\/span>",
-      "plainText" : "I am the good shepherd, and know my sheep, and am known of mine."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "26496",
+      "text": "<span class='woc'>I am the good shepherd, and know my <span class='extra'>sheep</span>, and am known of mine.</span>",
+      "plainText": "I am the good shepherd, and know my sheep, and am known of mine."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "26497",
-      "text" : "<span class='woc'>As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.<\/span>",
-      "plainText" : "As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "26497",
+      "text": "<span class='woc'>As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.</span>",
+      "plainText": "As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "26498",
-      "text" : "<span class='woc'>And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, <span class='extra'>and<\/span> one shepherd.<\/span>",
-      "plainText" : "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "26498",
+      "text": "<span class='woc'>And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, <span class='extra'>and</span> one shepherd.</span>",
+      "plainText": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "26499",
-      "text" : "<span class='woc'>Therefore doth my Father love me, because I lay down my life, that I might take it again.<\/span>",
-      "plainText" : "Therefore doth my Father love me, because I lay down my life, that I might take it again."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "26499",
+      "text": "<span class='woc'>Therefore doth my Father love me, because I lay down my life, that I might take it again.</span>",
+      "plainText": "Therefore doth my Father love me, because I lay down my life, that I might take it again."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "26500",
-      "text" : "<span class='woc'>No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.<\/span>",
-      "plainText" : "No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "26500",
+      "text": "<span class='woc'>No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.</span>",
+      "plainText": "No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "26501",
-      "text" : "There was a division therefore again among the Jews for these sayings.",
-      "plainText" : "There was a division therefore again among the Jews for these sayings."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "26501",
+      "text": "There was a division therefore again among the Jews for these sayings.",
+      "plainText": "There was a division therefore again among the Jews for these sayings."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "26502",
-      "text" : "And many of them said, He hath a devil, and is mad; why hear ye him?",
-      "plainText" : "And many of them said, He hath a devil, and is mad; why hear ye him?"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "26502",
+      "text": "And many of them said, He hath a devil, and is mad; why hear ye him?",
+      "plainText": "And many of them said, He hath a devil, and is mad; why hear ye him?"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "26503",
-      "text" : "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?",
-      "plainText" : "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "26503",
+      "text": "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?",
+      "plainText": "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "26504",
-      "text" : "And it was at Jerusalem the feast of the dedication, and it was winter.",
-      "plainText" : "And it was at Jerusalem the feast of the dedication, and it was winter."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "26504",
+      "text": "And it was at Jerusalem the feast of the dedication, and it was winter.",
+      "plainText": "And it was at Jerusalem the feast of the dedication, and it was winter."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "26505",
-      "text" : "And Jesus walked in the temple in Solomon's porch.",
-      "plainText" : "And Jesus walked in the temple in Solomon's porch."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "26505",
+      "text": "And Jesus walked in the temple in Solomon's porch.",
+      "plainText": "And Jesus walked in the temple in Solomon's porch."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "26506",
-      "text" : "Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.",
-      "plainText" : "Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "26506",
+      "text": "Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.",
+      "plainText": "Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "26507",
-      "text" : "Jesus answered them, <span class='woc'>I told you, and ye believed not: the works that I do in my Father's name, they bear witness of me.<\/span>",
-      "plainText" : "Jesus answered them, I told you, and ye believed not: the works that I do in my Father's name, they bear witness of me."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "26507",
+      "text": "Jesus answered them, <span class='woc'>I told you, and ye believed not: the works that I do in my Father's name, they bear witness of me.</span>",
+      "plainText": "Jesus answered them, I told you, and ye believed not: the works that I do in my Father's name, they bear witness of me."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "26508",
-      "text" : "<span class='woc'>But ye believe not, because ye are not of my sheep, as I said unto you.<\/span>",
-      "plainText" : "But ye believe not, because ye are not of my sheep, as I said unto you."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "26508",
+      "text": "<span class='woc'>But ye believe not, because ye are not of my sheep, as I said unto you.</span>",
+      "plainText": "But ye believe not, because ye are not of my sheep, as I said unto you."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "26509",
-      "text" : "<span class='woc'>My sheep hear my voice, and I know them, and they follow me:<\/span>",
-      "plainText" : "My sheep hear my voice, and I know them, and they follow me:"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "26509",
+      "text": "<span class='woc'>My sheep hear my voice, and I know them, and they follow me:</span>",
+      "plainText": "My sheep hear my voice, and I know them, and they follow me:"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "26510",
-      "text" : "<span class='woc'>And I give unto them eternal life; and they shall never perish, neither shall any <span class='extra'>man<\/span> pluck them out of my hand.<\/span>",
-      "plainText" : "And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "26510",
+      "text": "<span class='woc'>And I give unto them eternal life; and they shall never perish, neither shall any <span class='extra'>man</span> pluck them out of my hand.</span>",
+      "plainText": "And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "26511",
-      "text" : "<span class='woc'>My Father, which gave <span class='extra'>them<\/span> me, is greater than all; and no <span class='extra'>man<\/span> is able to pluck <span class='extra'>them<\/span> out of my Father's hand.<\/span>",
-      "plainText" : "My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father's hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "26511",
+      "text": "<span class='woc'>My Father, which gave <span class='extra'>them</span> me, is greater than all; and no <span class='extra'>man</span> is able to pluck <span class='extra'>them</span> out of my Father's hand.</span>",
+      "plainText": "My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father's hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "26512",
-      "text" : "<span class='woc'>I and <span class='extra'>my<\/span> Father are one.<\/span>",
-      "plainText" : "I and my Father are one."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "26512",
+      "text": "<span class='woc'>I and <span class='extra'>my</span> Father are one.</span>",
+      "plainText": "I and my Father are one."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "26513",
-      "text" : "Then the Jews took up stones again to stone him.",
-      "plainText" : "Then the Jews took up stones again to stone him."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "26513",
+      "text": "Then the Jews took up stones again to stone him.",
+      "plainText": "Then the Jews took up stones again to stone him."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "26514",
-      "text" : "Jesus answered them, <span class='woc'>Many good works have I shewed you from my Father; for which of those works do ye stone me?<\/span>",
-      "plainText" : "Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "26514",
+      "text": "Jesus answered them, <span class='woc'>Many good works have I shewed you from my Father; for which of those works do ye stone me?</span>",
+      "plainText": "Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "26515",
-      "text" : "The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.",
-      "plainText" : "The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "26515",
+      "text": "The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.",
+      "plainText": "The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "26516",
-      "text" : "Jesus answered them, <span class='woc'>Is it not written in your law, I said, Ye are gods?<\/span>",
-      "plainText" : "Jesus answered them, Is it not written in your law, I said, Ye are gods?"
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "26516",
+      "text": "Jesus answered them, <span class='woc'>Is it not written in your law, I said, Ye are gods?</span>",
+      "plainText": "Jesus answered them, Is it not written in your law, I said, Ye are gods?"
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "26517",
-      "text" : "<span class='woc'>If he called them gods, unto whom the word of God came, and the scripture cannot be broken;<\/span>",
-      "plainText" : "If he called them gods, unto whom the word of God came, and the scripture cannot be broken;"
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "26517",
+      "text": "<span class='woc'>If he called them gods, unto whom the word of God came, and the scripture cannot be broken;</span>",
+      "plainText": "If he called them gods, unto whom the word of God came, and the scripture cannot be broken;"
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "26518",
-      "text" : "<span class='woc'>Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?<\/span>",
-      "plainText" : "Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?"
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "26518",
+      "text": "<span class='woc'>Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?</span>",
+      "plainText": "Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?"
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "26519",
-      "text" : "<span class='woc'>If I do not the works of my Father, believe me not.<\/span>",
-      "plainText" : "If I do not the works of my Father, believe me not."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "26519",
+      "text": "<span class='woc'>If I do not the works of my Father, believe me not.</span>",
+      "plainText": "If I do not the works of my Father, believe me not."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "26520",
-      "text" : "<span class='woc'>But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father <span class='extra'>is<\/span> in me, and I in him.<\/span>",
-      "plainText" : "But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "26520",
+      "text": "<span class='woc'>But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father <span class='extra'>is</span> in me, and I in him.</span>",
+      "plainText": "But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "26521",
-      "text" : "Therefore they sought again to take him: but he escaped out of their hand,",
-      "plainText" : "Therefore they sought again to take him: but he escaped out of their hand,"
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "26521",
+      "text": "Therefore they sought again to take him: but he escaped out of their hand,",
+      "plainText": "Therefore they sought again to take him: but he escaped out of their hand,"
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "26522",
-      "text" : "And went away again beyond Jordan into the place where John at first baptized; and there he abode.",
-      "plainText" : "And went away again beyond Jordan into the place where John at first baptized; and there he abode."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "26522",
+      "text": "And went away again beyond Jordan into the place where John at first baptized; and there he abode.",
+      "plainText": "And went away again beyond Jordan into the place where John at first baptized; and there he abode."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "26523",
-      "text" : "And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true.",
-      "plainText" : "And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "26523",
+      "text": "And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true.",
+      "plainText": "And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "26524",
-      "text" : "And many believed on him there.",
-      "plainText" : "And many believed on him there."
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "26524",
+      "text": "And many believed on him there.",
+      "plainText": "And many believed on him there."
     }
   ]
 }
-

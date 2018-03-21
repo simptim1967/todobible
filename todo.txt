@@ -1,60 +1,40 @@
 ToDoBible.org TODO
 ==================
 
-Release Schedule
-================
-? - Add interlinear functionality
-
-Done
-====
-Update About page
-02/01/2018 - Update for start of new year
-25/12/2017 - Update for Jesus's birthday and link to BGEA
-Extract the plain KJV text into each bible verse/caption
-Update disclaimer page to include type "C" and "I" items in ToDo item key table
-Add todo item type "C" for bible facts about the character of God (Silver badge?)
-Add todo item type "I" for bible facts about identity in Christ (Green badge?)
-Update todo list pages to include type "C" and "I" items in ToDo lists
-Review todo items and re-categorise as type "C" appropriate.
-Remove word "chapter" from bible page headings (mobile first design)
-Change page heading to show book name only for single chapter books
-Review todo items and re-categorise as type "I" as appropriate.
-Ensure that wherever "nog" style is used in formatted text that KJV text and plain text is upper case.
-
-In Progress
-===========
-Complete UI prototype for new interlinear functionality
-
-BUG
-===
-
 Release Objectives
 ==================
 Understand the character of God expressed in Ephesians
 Understand our identity in Christ expressed in Ephesians
 Review topics arising from Ephesians
 Wring out every word of Ephesians
+Understand what God has/is/will do
+Highlight (F)acts, (T)odos, (P)romises
 Create visual bible study of Ephesians
 
 Current Feature Release
 =======================
-Consider clicking on a verse (number part? new button?) to highlight/unhighlight it
-Extract English/Greek interlinear and Strong's number word breakdown for each verse in Ephesians
-Show verse breakdown ... (including the Greek and YLT)
-Display Strong number definition as modal dialog on bible page accessed from links on interlinear
-Consider lookup page for viewing Strong number definitions (Greek and Hebrew)
-Create modal dialog showing the Hebrew/Greek interlinear and Strong numbers for a OT/NT verse
+Visual bible study for Ephesians
 
-Tasks
-=====
-Separate todo list javascript into separate js file
-Separate interlinear javascript into separate js file
-Create a master KJV text document
-Create a master KJV text document with captions
-Extract the Strong's words/numbers from two different sources
-Compare source KJV text with master text and strong numbers against each source
-Create a master KJV text with strong's document
-Upgrade jQuery to latest production version
+ToDo
+====
+- Chapter 2 content, transcript, video
+- Chapter 3 content, transcript, video
+- Chapter 4 content, transcript, video
+- Chapter 5 content, transcript, video
+- Chapter 6 content, transcript, video
+- Intro content, transcript, video
+- Summary content, transcript, video
+Get review feedback for each chapter, intro & summary
+Upload visual bible study onto YouTube
+Update website to include links to visual bible study
+
+In Progress
+===========
+Complete visual bible study for Ephesians
+- Chapter 1 content
+
+Done
+====
 
 Release Checklist
 =================
@@ -64,10 +44,31 @@ Check code changes into git/remote
 Tag release (if appropriate milestone)
 Publish updated website
 
+BUG
+===
+
+Tasks
+=====
+Separate todo list javascript into separate js file
+Separate interlinear javascript into separate js file
+Complete UI prototype for new interlinear functionality
+Create a master KJV text document
+Create a master KJV text document with captions
+Extract the Strong's words/numbers from two different sources
+Compare source KJV text with master text and strong numbers against each source
+Create a master KJV text with strong's document
+Upgrade jQuery to latest production version
+
 Next Release
 ============
-Update copyright year to 2018
 Create visual bible study for Ephesians
+Create Greek interlinear
+Consider clicking on a verse (number part? new button?) to highlight/unhighlight it
+Extract English/Greek interlinear and Strong's number word breakdown for each verse in Ephesians
+Show verse breakdown ... (including the Greek and YLT)
+Display Strong number definition as modal dialog on bible page accessed from links on interlinear
+Consider lookup page for viewing Strong number definitions (Greek and Hebrew)
+Create modal dialog showing the Hebrew/Greek interlinear and Strong numbers for a OT/NT verse
 
 ToDo Item Research / Bible Study
 ================================

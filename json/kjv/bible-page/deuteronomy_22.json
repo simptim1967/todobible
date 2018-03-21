@@ -1,299 +1,269 @@
 {
   "book": {
-    "number" : "5",
-    "filenamePrefix" : "deuteronomy",
-    "bookPage" : "deuteronomy.html",
-    "title" : "Deuteronomy",
-    "chapterCount" : "34",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "joshua_1.html",
-    "nextTitle" : "Joshua",
-    "prevBook" : "numbers_1.html",
-    "prevTitle" : "Numbers"
+    "number": "5",
+    "filenamePrefix": "deuteronomy",
+    "bookPage": "deuteronomy.html",
+    "title": "Deuteronomy",
+    "chapterCount": "34",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "joshua_1.html",
+    "nextTitle": "Joshua",
+    "prevBook": "numbers_1.html",
+    "prevTitle": "Numbers",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "22",
-    "verseCount" : "30",
-    "nextChapter" : "deuteronomy_23.html",
-    "nextTitle" : "Deuteronomy 23",
-    "prevChapter" : "deuteronomy_21.html",
-    "prevTitle" : "Deuteronomy 21",
-    "filename" : "deuteronomy_22.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "22",
+    "verseCount": "30",
+    "nextChapter": "deuteronomy_23.html",
+    "nextTitle": "Deuteronomy 23",
+    "prevChapter": "deuteronomy_21.html",
+    "prevTitle": "Deuteronomy 21",
+    "filename": "deuteronomy_22.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "5472",
-      "text" : "Thou shalt not see thy brother's ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.",
-      "plainText" : "Thou shalt not see thy brother's ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "5472",
+      "text": "Thou shalt not see thy brother's ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.",
+      "plainText": "Thou shalt not see thy brother's ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "5473",
-      "text" : "And if thy brother <span class='extra'>be<\/span> not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again.",
-      "plainText" : "And if thy brother be not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "5473",
+      "text": "And if thy brother <span class='extra'>be</span> not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again.",
+      "plainText": "And if thy brother be not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "5474",
-      "text" : "In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of thy brother's, which he hath lost, and thou hast found, shalt thou do likewise: thou mayest not hide thyself.",
-      "plainText" : "In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of thy brother's, which he hath lost, and thou hast found, shalt thou do likewise: thou mayest not hide thyself."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "5474",
+      "text": "In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of thy brother's, which he hath lost, and thou hast found, shalt thou do likewise: thou mayest not hide thyself.",
+      "plainText": "In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of thy brother's, which he hath lost, and thou hast found, shalt thou do likewise: thou mayest not hide thyself."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "5475",
-      "text" : "Thou shalt not see thy brother's ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift <span class='extra'>them<\/span> up again.",
-      "plainText" : "Thou shalt not see thy brother's ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift them up again."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "5475",
+      "text": "Thou shalt not see thy brother's ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift <span class='extra'>them</span> up again.",
+      "plainText": "Thou shalt not see thy brother's ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift them up again."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "5476",
-      "text" : "The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman's garment: for all that do so <span class='extra'>are<\/span> abomination unto the <span class='nog'>LORD<\/span> thy God.",
-      "plainText" : "The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman's garment: for all that do so are abomination unto the LORD thy God."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "5476",
+      "text": "The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman's garment: for all that do so <span class='extra'>are</span> abomination unto the <span class='nog'>LORD</span> thy God.",
+      "plainText": "The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman's garment: for all that do so are abomination unto the LORD thy God."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "5477",
-      "text" : "If a bird's nest chance to be before thee in the way in any tree, or on the ground, <span class='extra'>whether they be<\/span> young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:",
-      "plainText" : "If a bird's nest chance to be before thee in the way in any tree, or on the ground, whether they be young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "5477",
+      "text": "If a bird's nest chance to be before thee in the way in any tree, or on the ground, <span class='extra'>whether they be</span> young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:",
+      "plainText": "If a bird's nest chance to be before thee in the way in any tree, or on the ground, whether they be young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "5478",
-      "text" : "<span class='extra'>But<\/span> thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and <span class='extra'>that<\/span> thou mayest prolong <span class='extra'>thy<\/span> days.",
-      "plainText" : "But thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and that thou mayest prolong thy days."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "5478",
+      "text": "<span class='extra'>But</span> thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and <span class='extra'>that</span> thou mayest prolong <span class='extra'>thy</span> days.",
+      "plainText": "But thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and that thou mayest prolong thy days."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "5479",
-      "text" : "When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence.",
-      "plainText" : "When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "5479",
+      "text": "When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence.",
+      "plainText": "When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "5480",
-      "text" : "Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled.",
-      "plainText" : "Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "5480",
+      "text": "Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled.",
+      "plainText": "Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "5481",
-      "text" : "Thou shalt not plow with an ox and an ass together.",
-      "plainText" : "Thou shalt not plow with an ox and an ass together."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "5481",
+      "text": "Thou shalt not plow with an ox and an ass together.",
+      "plainText": "Thou shalt not plow with an ox and an ass together."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "5482",
-      "text" : "Thou shalt not wear a garment of divers sorts, <span class='extra'>as<\/span> of woollen and linen together.",
-      "plainText" : "Thou shalt not wear a garment of divers sorts, as of woollen and linen together."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "5482",
+      "text": "Thou shalt not wear a garment of divers sorts, <span class='extra'>as</span> of woollen and linen together.",
+      "plainText": "Thou shalt not wear a garment of divers sorts, as of woollen and linen together."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "5483",
-      "text" : "Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest <span class='extra'>thyself<\/span>.",
-      "plainText" : "Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest thyself."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "5483",
+      "text": "Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest <span class='extra'>thyself</span>.",
+      "plainText": "Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest thyself."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "5484",
-      "text" : "If any man take a wife, and go in unto her, and hate her,",
-      "plainText" : "If any man take a wife, and go in unto her, and hate her,"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "5484",
+      "text": "If any man take a wife, and go in unto her, and hate her,",
+      "plainText": "If any man take a wife, and go in unto her, and hate her,"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "5485",
-      "text" : "And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:",
-      "plainText" : "And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "5485",
+      "text": "And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:",
+      "plainText": "And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "5486",
-      "text" : "Then shall the father of the damsel, and her mother, take and bring forth <span class='extra'>the tokens of<\/span> the damsel's virginity unto the elders of the city in the gate:",
-      "plainText" : "Then shall the father of the damsel, and her mother, take and bring forth the tokens of the damsel's virginity unto the elders of the city in the gate:"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "5486",
+      "text": "Then shall the father of the damsel, and her mother, take and bring forth <span class='extra'>the tokens of</span> the damsel's virginity unto the elders of the city in the gate:",
+      "plainText": "Then shall the father of the damsel, and her mother, take and bring forth the tokens of the damsel's virginity unto the elders of the city in the gate:"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "5487",
-      "text" : "And the damsel's father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;",
-      "plainText" : "And the damsel's father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "5487",
+      "text": "And the damsel's father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;",
+      "plainText": "And the damsel's father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "5488",
-      "text" : "And, lo, he hath given occasions of speech <span class='extra'>against her<\/span>, saying, I found not thy daughter a maid; and yet these <span class='extra'>are the tokens of<\/span> my daughter's virginity. And they shall spread the cloth before the elders of the city.",
-      "plainText" : "And, lo, he hath given occasions of speech against her, saying, I found not thy daughter a maid; and yet these are the tokens of my daughter's virginity. And they shall spread the cloth before the elders of the city."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "5488",
+      "text": "And, lo, he hath given occasions of speech <span class='extra'>against her</span>, saying, I found not thy daughter a maid; and yet these <span class='extra'>are the tokens of</span> my daughter's virginity. And they shall spread the cloth before the elders of the city.",
+      "plainText": "And, lo, he hath given occasions of speech against her, saying, I found not thy daughter a maid; and yet these are the tokens of my daughter's virginity. And they shall spread the cloth before the elders of the city."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "5489",
-      "text" : "And the elders of that city shall take that man and chastise him;",
-      "plainText" : "And the elders of that city shall take that man and chastise him;"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "5489",
+      "text": "And the elders of that city shall take that man and chastise him;",
+      "plainText": "And the elders of that city shall take that man and chastise him;"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "5490",
-      "text" : "And they shall amerce him in an hundred <span class='extra'>shekels<\/span> of silver, and give <span class='extra'>them<\/span> unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days.",
-      "plainText" : "And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "5490",
+      "text": "And they shall amerce him in an hundred <span class='extra'>shekels</span> of silver, and give <span class='extra'>them</span> unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days.",
+      "plainText": "And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "5491",
-      "text" : "But if this thing be true, <span class='extra'>and the tokens of<\/span> virginity be not found for the damsel:",
-      "plainText" : "But if this thing be true, and the tokens of virginity be not found for the damsel:"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "5491",
+      "text": "But if this thing be true, <span class='extra'>and the tokens of</span> virginity be not found for the damsel:",
+      "plainText": "But if this thing be true, and the tokens of virginity be not found for the damsel:"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "5492",
-      "text" : "Then they shall bring out the damsel to the door of her father's house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father's house: so shalt thou put evil away from among you.",
-      "plainText" : "Then they shall bring out the damsel to the door of her father's house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father's house: so shalt thou put evil away from among you."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "5492",
+      "text": "Then they shall bring out the damsel to the door of her father's house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father's house: so shalt thou put evil away from among you.",
+      "plainText": "Then they shall bring out the damsel to the door of her father's house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father's house: so shalt thou put evil away from among you."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "5493",
-      "text" : "If a man be found lying with a woman married to an husband, then they shall both of them die, <span class='extra'>both<\/span> the man that lay with the woman, and the woman: so shalt thou put away evil from Israel.",
-      "plainText" : "If a man be found lying with a woman married to an husband, then they shall both of them die, both the man that lay with the woman, and the woman: so shalt thou put away evil from Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "5493",
+      "text": "If a man be found lying with a woman married to an husband, then they shall both of them die, <span class='extra'>both</span> the man that lay with the woman, and the woman: so shalt thou put away evil from Israel.",
+      "plainText": "If a man be found lying with a woman married to an husband, then they shall both of them die, both the man that lay with the woman, and the woman: so shalt thou put away evil from Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "5494",
-      "text" : "If a damsel <span class='extra'>that is<\/span> a virgin be betrothed unto an husband, and a man find her in the city, and lie with her;",
-      "plainText" : "If a damsel that is a virgin be betrothed unto an husband, and a man find her in the city, and lie with her;"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "5494",
+      "text": "If a damsel <span class='extra'>that is</span> a virgin be betrothed unto an husband, and a man find her in the city, and lie with her;",
+      "plainText": "If a damsel that is a virgin be betrothed unto an husband, and a man find her in the city, and lie with her;"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "5495",
-      "text" : "Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, <span class='extra'>being<\/span> in the city; and the man, because he hath humbled his neighbour's wife: so thou shalt put away evil from among you.",
-      "plainText" : "Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, being in the city; and the man, because he hath humbled his neighbour's wife: so thou shalt put away evil from among you."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "5495",
+      "text": "Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, <span class='extra'>being</span> in the city; and the man, because he hath humbled his neighbour's wife: so thou shalt put away evil from among you.",
+      "plainText": "Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, being in the city; and the man, because he hath humbled his neighbour's wife: so thou shalt put away evil from among you."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "5496",
-      "text" : "But if a man find a betrothed damsel in the field, and the man force her, and lie with her: then the man only that lay with her shall die:",
-      "plainText" : "But if a man find a betrothed damsel in the field, and the man force her, and lie with her: then the man only that lay with her shall die:"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "5496",
+      "text": "But if a man find a betrothed damsel in the field, and the man force her, and lie with her: then the man only that lay with her shall die:",
+      "plainText": "But if a man find a betrothed damsel in the field, and the man force her, and lie with her: then the man only that lay with her shall die:"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "5497",
-      "text" : "But unto the damsel thou shalt do nothing; <span class='extra'>there is<\/span> in the damsel no sin <span class='extra'>worthy<\/span> of death: for as when a man riseth against his neighbour, and slayeth him, even so <span class='extra'>is<\/span> this matter:",
-      "plainText" : "But unto the damsel thou shalt do nothing; there is in the damsel no sin worthy of death: for as when a man riseth against his neighbour, and slayeth him, even so is this matter:"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "5497",
+      "text": "But unto the damsel thou shalt do nothing; <span class='extra'>there is</span> in the damsel no sin <span class='extra'>worthy</span> of death: for as when a man riseth against his neighbour, and slayeth him, even so <span class='extra'>is</span> this matter:",
+      "plainText": "But unto the damsel thou shalt do nothing; there is in the damsel no sin worthy of death: for as when a man riseth against his neighbour, and slayeth him, even so is this matter:"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "5498",
-      "text" : "For he found her in the field, <span class='extra'>and<\/span> the betrothed damsel cried, and <span class='extra'>there was<\/span> none to save her.",
-      "plainText" : "For he found her in the field, and the betrothed damsel cried, and there was none to save her."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "5498",
+      "text": "For he found her in the field, <span class='extra'>and</span> the betrothed damsel cried, and <span class='extra'>there was</span> none to save her.",
+      "plainText": "For he found her in the field, and the betrothed damsel cried, and there was none to save her."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "5499",
-      "text" : "If a man find a damsel <span class='extra'>that is<\/span> a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;",
-      "plainText" : "If a man find a damsel that is a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;"
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "5499",
+      "text": "If a man find a damsel <span class='extra'>that is</span> a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;",
+      "plainText": "If a man find a damsel that is a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;"
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "5500",
-      "text" : "Then the man that lay with her shall give unto the damsel's father fifty <span class='extra'>shekels<\/span> of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days.",
-      "plainText" : "Then the man that lay with her shall give unto the damsel's father fifty shekels of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "5500",
+      "text": "Then the man that lay with her shall give unto the damsel's father fifty <span class='extra'>shekels</span> of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days.",
+      "plainText": "Then the man that lay with her shall give unto the damsel's father fifty shekels of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "5501",
-      "text" : "A man shall not take his father's wife, nor discover his father's skirt.",
-      "plainText" : "A man shall not take his father's wife, nor discover his father's skirt."
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "5501",
+      "text": "A man shall not take his father's wife, nor discover his father's skirt.",
+      "plainText": "A man shall not take his father's wife, nor discover his father's skirt."
     }
   ]
 }
-
-

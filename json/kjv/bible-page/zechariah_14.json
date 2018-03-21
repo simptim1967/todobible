@@ -1,218 +1,197 @@
 {
   "book": {
-    "number" : "38",
-    "filenamePrefix" : "zechariah",
-    "bookPage" : "zechariah.html",
-    "title" : "Zechariah",
-    "chapterCount" : "14",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "malachi_1.html",
-    "nextTitle" : "Malachi",
-    "prevBook" : "haggai_1.html",
-    "prevTitle" : "Haggai"
+    "number": "38",
+    "filenamePrefix": "zechariah",
+    "bookPage": "zechariah.html",
+    "title": "Zechariah",
+    "chapterCount": "14",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "malachi_1.html",
+    "nextTitle": "Malachi",
+    "prevBook": "haggai_1.html",
+    "prevTitle": "Haggai",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "14",
-    "verseCount" : "21",
-    "nextChapter" : "malachi_1.html",
-    "nextTitle" : "Malachi 1",
-    "prevChapter" : "zechariah_13.html",
-    "prevTitle" : "Zechariah 13",
-    "filename" : "zechariah_14.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "14",
+    "verseCount": "21",
+    "nextChapter": "malachi_1.html",
+    "nextTitle": "Malachi 1",
+    "prevChapter": "zechariah_13.html",
+    "prevTitle": "Zechariah 13",
+    "filename": "zechariah_14.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "23070",
-      "text" : "Behold, the day of the <span class='nog'>LORD<\/span> cometh, and thy spoil shall be divided in the midst of thee.",
-      "plainText" : "Behold, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "23070",
+      "text": "Behold, the day of the <span class='nog'>LORD</span> cometh, and thy spoil shall be divided in the midst of thee.",
+      "plainText": "Behold, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "23071",
-      "text" : "For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished; and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city.",
-      "plainText" : "For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished; and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "23071",
+      "text": "For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished; and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city.",
+      "plainText": "For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished; and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "23072",
-      "text" : "Then shall the <span class='nog'>LORD<\/span> go forth, and fight against those nations, as when he fought in the day of battle.",
-      "plainText" : "Then shall the LORD go forth, and fight against those nations, as when he fought in the day of battle."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "23072",
+      "text": "Then shall the <span class='nog'>LORD</span> go forth, and fight against those nations, as when he fought in the day of battle.",
+      "plainText": "Then shall the LORD go forth, and fight against those nations, as when he fought in the day of battle."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "23073",
-      "text" : "And his feet shall stand in that day upon the mount of Olives, which <span class='extra'>is<\/span> before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west, <span class='extra'>and there shall be<\/span> a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south.",
-      "plainText" : "And his feet shall stand in that day upon the mount of Olives, which is before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west, and there shall be a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "23073",
+      "text": "And his feet shall stand in that day upon the mount of Olives, which <span class='extra'>is</span> before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west, <span class='extra'>and there shall be</span> a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south.",
+      "plainText": "And his feet shall stand in that day upon the mount of Olives, which is before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west, and there shall be a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "23074",
-      "text" : "And ye shall flee <span class='extra'>to<\/span> the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the <span class='nog'>LORD<\/span> my God shall come, <span class='extra'>and<\/span> all the saints with thee.",
-      "plainText" : "And ye shall flee to the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the LORD my God shall come, and all the saints with thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "23074",
+      "text": "And ye shall flee <span class='extra'>to</span> the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the <span class='nog'>LORD</span> my God shall come, <span class='extra'>and</span> all the saints with thee.",
+      "plainText": "And ye shall flee to the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the LORD my God shall come, and all the saints with thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "23075",
-      "text" : "And it shall come to pass in that day, <span class='extra'>that<\/span> the light shall not be clear, <span class='extra'>nor<\/span> dark:",
-      "plainText" : "And it shall come to pass in that day, that the light shall not be clear, nor dark:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "23075",
+      "text": "And it shall come to pass in that day, <span class='extra'>that</span> the light shall not be clear, <span class='extra'>nor</span> dark:",
+      "plainText": "And it shall come to pass in that day, that the light shall not be clear, nor dark:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "23076",
-      "text" : "But it shall be one day which shall be known to the <span class='nog'>LORD<\/span>, not day, nor night: but it shall come to pass, <span class='extra'>that<\/span> at evening time it shall be light.",
-      "plainText" : "But it shall be one day which shall be known to the LORD, not day, nor night: but it shall come to pass, that at evening time it shall be light."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "23076",
+      "text": "But it shall be one day which shall be known to the <span class='nog'>LORD</span>, not day, nor night: but it shall come to pass, <span class='extra'>that</span> at evening time it shall be light.",
+      "plainText": "But it shall be one day which shall be known to the LORD, not day, nor night: but it shall come to pass, that at evening time it shall be light."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "23077",
-      "text" : "And it shall be in that day, <span class='extra'>that<\/span> living waters shall go out from Jerusalem; half of them toward the former sea, and half of them toward the hinder sea: in summer and in winter shall it be.",
-      "plainText" : "And it shall be in that day, that living waters shall go out from Jerusalem; half of them toward the former sea, and half of them toward the hinder sea: in summer and in winter shall it be."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "23077",
+      "text": "And it shall be in that day, <span class='extra'>that</span> living waters shall go out from Jerusalem; half of them toward the former sea, and half of them toward the hinder sea: in summer and in winter shall it be.",
+      "plainText": "And it shall be in that day, that living waters shall go out from Jerusalem; half of them toward the former sea, and half of them toward the hinder sea: in summer and in winter shall it be."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "23078",
-      "text" : "And the <span class='nog'>LORD<\/span> shall be king over all the earth: in that day shall there be one <span class='nog'>LORD<\/span>, and his name one.",
-      "plainText" : "And the LORD shall be king over all the earth: in that day shall there be one LORD, and his name one."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "23078",
+      "text": "And the <span class='nog'>LORD</span> shall be king over all the earth: in that day shall there be one <span class='nog'>LORD</span>, and his name one.",
+      "plainText": "And the LORD shall be king over all the earth: in that day shall there be one LORD, and his name one."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "23079",
-      "text" : "All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem: and it shall be lifted up, and inhabited in her place, from Benjamin's gate unto the place of the first gate, unto the corner gate, and <span class='extra'>from<\/span> the tower of Hananeel unto the king's winepresses.",
-      "plainText" : "All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem: and it shall be lifted up, and inhabited in her place, from Benjamin's gate unto the place of the first gate, unto the corner gate, and from the tower of Hananeel unto the king's winepresses."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "23079",
+      "text": "All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem: and it shall be lifted up, and inhabited in her place, from Benjamin's gate unto the place of the first gate, unto the corner gate, and <span class='extra'>from</span> the tower of Hananeel unto the king's winepresses.",
+      "plainText": "All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem: and it shall be lifted up, and inhabited in her place, from Benjamin's gate unto the place of the first gate, unto the corner gate, and from the tower of Hananeel unto the king's winepresses."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "23080",
-      "text" : "And <span class='extra'>men<\/span> shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited.",
-      "plainText" : "And men shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "23080",
+      "text": "And <span class='extra'>men</span> shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited.",
+      "plainText": "And men shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "23081",
-      "text" : "And this shall be the plague wherewith the <span class='nog'>LORD<\/span> will smite all the people that have fought against Jerusalem; Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth.",
-      "plainText" : "And this shall be the plague wherewith the LORD will smite all the people that have fought against Jerusalem; Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "23081",
+      "text": "And this shall be the plague wherewith the <span class='nog'>LORD</span> will smite all the people that have fought against Jerusalem; Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth.",
+      "plainText": "And this shall be the plague wherewith the LORD will smite all the people that have fought against Jerusalem; Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "23082",
-      "text" : "And it shall come to pass in that day, <span class='extra'>that<\/span> a great tumult from the <span class='nog'>LORD<\/span> shall be among them; and they shall lay hold every one on the hand of his neighbour, and his hand shall rise up against the hand of his neighbour.",
-      "plainText" : "And it shall come to pass in that day, that a great tumult from the LORD shall be among them; and they shall lay hold every one on the hand of his neighbour, and his hand shall rise up against the hand of his neighbour."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "23082",
+      "text": "And it shall come to pass in that day, <span class='extra'>that</span> a great tumult from the <span class='nog'>LORD</span> shall be among them; and they shall lay hold every one on the hand of his neighbour, and his hand shall rise up against the hand of his neighbour.",
+      "plainText": "And it shall come to pass in that day, that a great tumult from the LORD shall be among them; and they shall lay hold every one on the hand of his neighbour, and his hand shall rise up against the hand of his neighbour."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "23083",
-      "text" : "And Judah also shall fight at Jerusalem; and the wealth of all the heathen round about shall be gathered together, gold, and silver, and apparel, in great abundance.",
-      "plainText" : "And Judah also shall fight at Jerusalem; and the wealth of all the heathen round about shall be gathered together, gold, and silver, and apparel, in great abundance."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "23083",
+      "text": "And Judah also shall fight at Jerusalem; and the wealth of all the heathen round about shall be gathered together, gold, and silver, and apparel, in great abundance.",
+      "plainText": "And Judah also shall fight at Jerusalem; and the wealth of all the heathen round about shall be gathered together, gold, and silver, and apparel, in great abundance."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "23084",
-      "text" : "And so shall be the plague of the horse, of the mule, of the camel, and of the ass, and of all the beasts that shall be in these tents, as this plague.",
-      "plainText" : "And so shall be the plague of the horse, of the mule, of the camel, and of the ass, and of all the beasts that shall be in these tents, as this plague."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "23084",
+      "text": "And so shall be the plague of the horse, of the mule, of the camel, and of the ass, and of all the beasts that shall be in these tents, as this plague.",
+      "plainText": "And so shall be the plague of the horse, of the mule, of the camel, and of the ass, and of all the beasts that shall be in these tents, as this plague."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "23085",
-      "text" : "And it shall come to pass, <span class='extra'>that<\/span> every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the <span class='nog'>LORD<\/span> of hosts, and to keep the feast of tabernacles.",
-      "plainText" : "And it shall come to pass, that every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the LORD of hosts, and to keep the feast of tabernacles."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "23085",
+      "text": "And it shall come to pass, <span class='extra'>that</span> every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the <span class='nog'>LORD</span> of hosts, and to keep the feast of tabernacles.",
+      "plainText": "And it shall come to pass, that every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the LORD of hosts, and to keep the feast of tabernacles."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "23086",
-      "text" : "And it shall be, <span class='extra'>that<\/span> whoso will not come up of <span class='extra'>all<\/span> the families of the earth unto Jerusalem to worship the King, the <span class='nog'>LORD<\/span> of hosts, even upon them shall be no rain.",
-      "plainText" : "And it shall be, that whoso will not come up of all the families of the earth unto Jerusalem to worship the King, the LORD of hosts, even upon them shall be no rain."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "23086",
+      "text": "And it shall be, <span class='extra'>that</span> whoso will not come up of <span class='extra'>all</span> the families of the earth unto Jerusalem to worship the King, the <span class='nog'>LORD</span> of hosts, even upon them shall be no rain.",
+      "plainText": "And it shall be, that whoso will not come up of all the families of the earth unto Jerusalem to worship the King, the LORD of hosts, even upon them shall be no rain."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "23087",
-      "text" : "And if the family of Egypt go not up, and come not, that <span class='extra'>have<\/span> no <span class='extra'>rain<\/span>; there shall be the plague, wherewith the <span class='nog'>LORD<\/span> will smite the heathen that come not up to keep the feast of tabernacles.",
-      "plainText" : "And if the family of Egypt go not up, and come not, that have no rain; there shall be the plague, wherewith the LORD will smite the heathen that come not up to keep the feast of tabernacles."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "23087",
+      "text": "And if the family of Egypt go not up, and come not, that <span class='extra'>have</span> no <span class='extra'>rain</span>; there shall be the plague, wherewith the <span class='nog'>LORD</span> will smite the heathen that come not up to keep the feast of tabernacles.",
+      "plainText": "And if the family of Egypt go not up, and come not, that have no rain; there shall be the plague, wherewith the LORD will smite the heathen that come not up to keep the feast of tabernacles."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "23088",
-      "text" : "This shall be the punishment of Egypt, and the punishment of all nations that come not up to keep the feast of tabernacles.",
-      "plainText" : "This shall be the punishment of Egypt, and the punishment of all nations that come not up to keep the feast of tabernacles."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "23088",
+      "text": "This shall be the punishment of Egypt, and the punishment of all nations that come not up to keep the feast of tabernacles.",
+      "plainText": "This shall be the punishment of Egypt, and the punishment of all nations that come not up to keep the feast of tabernacles."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "23089",
-      "text" : "In that day shall there be upon the bells of the horses, HOLINESS UNTO THE <span class='nog'>LORD<\/span>; and the pots in the <span class='nog'>LORD<\/span>'s house shall be like the bowls before the altar.",
-      "plainText" : "In that day shall there be upon the bells of the horses, HOLINESS UNTO THE LORD; and the pots in the LORD's house shall be like the bowls before the altar."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "23089",
+      "text": "In that day shall there be upon the bells of the horses, HOLINESS UNTO THE <span class='nog'>LORD</span>; and the pots in the <span class='nog'>LORD</span>'s house shall be like the bowls before the altar.",
+      "plainText": "In that day shall there be upon the bells of the horses, HOLINESS UNTO THE LORD; and the pots in the LORD's house shall be like the bowls before the altar."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "23090",
-      "text" : "Yea, every pot in Jerusalem and in Judah shall be holiness unto the <span class='nog'>LORD<\/span> of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the <span class='nog'>LORD<\/span> of hosts.",
-      "plainText" : "Yea, every pot in Jerusalem and in Judah shall be holiness unto the LORD of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the LORD of hosts."
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "23090",
+      "text": "Yea, every pot in Jerusalem and in Judah shall be holiness unto the <span class='nog'>LORD</span> of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the <span class='nog'>LORD</span> of hosts.",
+      "plainText": "Yea, every pot in Jerusalem and in Judah shall be holiness unto the LORD of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the LORD of hosts."
     }
   ]
 }
-
-

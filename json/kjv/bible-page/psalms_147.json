@@ -1,209 +1,189 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "147",
-    "verseCount" : "20",
-    "nextChapter" : "psalms_148.html",
-    "nextTitle" : "Psalms 148",
-    "prevChapter" : "psalms_146.html",
-    "prevTitle" : "Psalms 146",
-    "filename" : "psalms_147.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "147",
+    "verseCount": "20",
+    "nextChapter": "psalms_148.html",
+    "nextTitle": "Psalms 148",
+    "prevChapter": "psalms_146.html",
+    "prevTitle": "Psalms 146",
+    "filename": "psalms_147.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16353",
-      "text" : "Praise ye the <span class='nog'>LORD<\/span>: for <span class='extra'>it is<\/span> good to sing praises unto our God; for <span class='extra'>it is<\/span> pleasant; <span class='extra'>and<\/span> praise is comely.",
-      "plainText" : "Praise ye the LORD: for it is good to sing praises unto our God; for it is pleasant; and praise is comely."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16353",
+      "text": "Praise ye the <span class='nog'>LORD</span>: for <span class='extra'>it is</span> good to sing praises unto our God; for <span class='extra'>it is</span> pleasant; <span class='extra'>and</span> praise is comely.",
+      "plainText": "Praise ye the LORD: for it is good to sing praises unto our God; for it is pleasant; and praise is comely."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16354",
-      "text" : "The <span class='nog'>LORD<\/span> doth build up Jerusalem: he gathereth together the outcasts of Israel.",
-      "plainText" : "The LORD doth build up Jerusalem: he gathereth together the outcasts of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16354",
+      "text": "The <span class='nog'>LORD</span> doth build up Jerusalem: he gathereth together the outcasts of Israel.",
+      "plainText": "The LORD doth build up Jerusalem: he gathereth together the outcasts of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16355",
-      "text" : "He healeth the broken in heart, and bindeth up their wounds.",
-      "plainText" : "He healeth the broken in heart, and bindeth up their wounds."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16355",
+      "text": "He healeth the broken in heart, and bindeth up their wounds.",
+      "plainText": "He healeth the broken in heart, and bindeth up their wounds."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "16356",
-      "text" : "He telleth the number of the stars; he calleth them all by <span class='extra'>their<\/span> names.",
-      "plainText" : "He telleth the number of the stars; he calleth them all by their names."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "16356",
+      "text": "He telleth the number of the stars; he calleth them all by <span class='extra'>their</span> names.",
+      "plainText": "He telleth the number of the stars; he calleth them all by their names."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "16357",
-      "text" : "Great <span class='extra'>is<\/span> our Lord, and of great power: his understanding <span class='extra'>is<\/span> infinite.",
-      "plainText" : "Great is our Lord, and of great power: his understanding is infinite."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "16357",
+      "text": "Great <span class='extra'>is</span> our Lord, and of great power: his understanding <span class='extra'>is</span> infinite.",
+      "plainText": "Great is our Lord, and of great power: his understanding is infinite."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "16358",
-      "text" : "The <span class='nog'>LORD<\/span> lifteth up the meek: he casteth the wicked down to the ground.",
-      "plainText" : "The LORD lifteth up the meek: he casteth the wicked down to the ground."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "16358",
+      "text": "The <span class='nog'>LORD</span> lifteth up the meek: he casteth the wicked down to the ground.",
+      "plainText": "The LORD lifteth up the meek: he casteth the wicked down to the ground."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "16359",
-      "text" : "Sing unto the <span class='nog'>LORD<\/span> with thanksgiving; sing praise upon the harp unto our God:",
-      "plainText" : "Sing unto the LORD with thanksgiving; sing praise upon the harp unto our God:"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "16359",
+      "text": "Sing unto the <span class='nog'>LORD</span> with thanksgiving; sing praise upon the harp unto our God:",
+      "plainText": "Sing unto the LORD with thanksgiving; sing praise upon the harp unto our God:"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "16360",
-      "text" : "Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.",
-      "plainText" : "Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "16360",
+      "text": "Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.",
+      "plainText": "Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "16361",
-      "text" : "He giveth to the beast his food, <span class='extra'>and<\/span> to the young ravens which cry.",
-      "plainText" : "He giveth to the beast his food, and to the young ravens which cry."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "16361",
+      "text": "He giveth to the beast his food, <span class='extra'>and</span> to the young ravens which cry.",
+      "plainText": "He giveth to the beast his food, and to the young ravens which cry."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "16362",
-      "text" : "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man.",
-      "plainText" : "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "16362",
+      "text": "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man.",
+      "plainText": "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "16363",
-      "text" : "The <span class='nog'>LORD<\/span> taketh pleasure in them that fear him, in those that hope in his mercy.",
-      "plainText" : "The LORD taketh pleasure in them that fear him, in those that hope in his mercy."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "16363",
+      "text": "The <span class='nog'>LORD</span> taketh pleasure in them that fear him, in those that hope in his mercy.",
+      "plainText": "The LORD taketh pleasure in them that fear him, in those that hope in his mercy."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "16364",
-      "text" : "Praise the <span class='nog'>LORD<\/span>, O Jerusalem; praise thy God, O Zion.",
-      "plainText" : "Praise the LORD, O Jerusalem; praise thy God, O Zion."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "16364",
+      "text": "Praise the <span class='nog'>LORD</span>, O Jerusalem; praise thy God, O Zion.",
+      "plainText": "Praise the LORD, O Jerusalem; praise thy God, O Zion."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "16365",
-      "text" : "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee.",
-      "plainText" : "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "16365",
+      "text": "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee.",
+      "plainText": "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "16366",
-      "text" : "He maketh peace <span class='extra'>in<\/span> thy borders, <span class='extra'>and<\/span> filleth thee with the finest of the wheat.",
-      "plainText" : "He maketh peace in thy borders, and filleth thee with the finest of the wheat."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "16366",
+      "text": "He maketh peace <span class='extra'>in</span> thy borders, <span class='extra'>and</span> filleth thee with the finest of the wheat.",
+      "plainText": "He maketh peace in thy borders, and filleth thee with the finest of the wheat."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "16367",
-      "text" : "He sendeth forth his commandment <span class='extra'>upon<\/span> earth: his word runneth very swiftly.",
-      "plainText" : "He sendeth forth his commandment upon earth: his word runneth very swiftly."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "16367",
+      "text": "He sendeth forth his commandment <span class='extra'>upon</span> earth: his word runneth very swiftly.",
+      "plainText": "He sendeth forth his commandment upon earth: his word runneth very swiftly."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "16368",
-      "text" : "He giveth snow like wool: he scattereth the hoarfrost like ashes.",
-      "plainText" : "He giveth snow like wool: he scattereth the hoarfrost like ashes."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "16368",
+      "text": "He giveth snow like wool: he scattereth the hoarfrost like ashes.",
+      "plainText": "He giveth snow like wool: he scattereth the hoarfrost like ashes."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "16369",
-      "text" : "He casteth forth his ice like morsels: who can stand before his cold?",
-      "plainText" : "He casteth forth his ice like morsels: who can stand before his cold?"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "16369",
+      "text": "He casteth forth his ice like morsels: who can stand before his cold?",
+      "plainText": "He casteth forth his ice like morsels: who can stand before his cold?"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "16370",
-      "text" : "He sendeth out his word, and melteth them: he causeth his wind to blow, <span class='extra'>and<\/span> the waters flow.",
-      "plainText" : "He sendeth out his word, and melteth them: he causeth his wind to blow, and the waters flow."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "16370",
+      "text": "He sendeth out his word, and melteth them: he causeth his wind to blow, <span class='extra'>and</span> the waters flow.",
+      "plainText": "He sendeth out his word, and melteth them: he causeth his wind to blow, and the waters flow."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "16371",
-      "text" : "He sheweth his word unto Jacob, his statutes and his judgments unto Israel.",
-      "plainText" : "He sheweth his word unto Jacob, his statutes and his judgments unto Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "16371",
+      "text": "He sheweth his word unto Jacob, his statutes and his judgments unto Israel.",
+      "plainText": "He sheweth his word unto Jacob, his statutes and his judgments unto Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "16372",
-      "text" : "He hath not dealt so with any nation: and <span class='extra'>as for his<\/span> judgments, they have not known them. Praise ye the <span class='nog'>LORD<\/span>.",
-      "plainText" : "He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the LORD."
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "16372",
+      "text": "He hath not dealt so with any nation: and <span class='extra'>as for his</span> judgments, they have not known them. Praise ye the <span class='nog'>LORD</span>.",
+      "plainText": "He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the LORD."
     }
   ]
 }
-
-

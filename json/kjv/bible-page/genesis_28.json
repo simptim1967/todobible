@@ -1,227 +1,205 @@
 {
   "book": {
-    "number" : "1",
-    "filenamePrefix" : "genesis",
-    "bookPage" : "genesis.html",
-    "title" : "Genesis",
-    "chapterCount" : "50",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "exodus_1.html",
-    "nextTitle" : "Exodus",
-    "prevBook" : "revelation_1.html",
-    "prevTitle" : "Revelation"
+    "number": "1",
+    "filenamePrefix": "genesis",
+    "bookPage": "genesis.html",
+    "title": "Genesis",
+    "chapterCount": "50",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "exodus_1.html",
+    "nextTitle": "Exodus",
+    "prevBook": "revelation_1.html",
+    "prevTitle": "Revelation",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "28",
-    "verseCount" : "22",
-    "nextChapter" : "genesis_29.html",
-    "nextTitle" : "Genesis 29",
-    "prevChapter" : "genesis_27.html",
-    "prevTitle" : "Genesis 27",
-    "filename" : "genesis_28.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "28",
+    "verseCount": "22",
+    "nextChapter": "genesis_29.html",
+    "nextTitle": "Genesis 29",
+    "prevChapter": "genesis_27.html",
+    "prevTitle": "Genesis 27",
+    "filename": "genesis_28.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "775",
-      "text" : "And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan.",
-      "plainText" : "And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "775",
+      "text": "And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan.",
+      "plainText": "And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "776",
-      "text" : "Arise, go to Padan-aram, to the house of Bethuel thy mother's father; and take thee a wife from thence of the daughters of Laban thy mother's brother.",
-      "plainText" : "Arise, go to Padan-aram, to the house of Bethuel thy mother's father; and take thee a wife from thence of the daughters of Laban thy mother's brother."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "776",
+      "text": "Arise, go to Padan-aram, to the house of Bethuel thy mother's father; and take thee a wife from thence of the daughters of Laban thy mother's brother.",
+      "plainText": "Arise, go to Padan-aram, to the house of Bethuel thy mother's father; and take thee a wife from thence of the daughters of Laban thy mother's brother."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "777",
-      "text" : "And God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a multitude of people;",
-      "plainText" : "And God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a multitude of people;"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "777",
+      "text": "And God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a multitude of people;",
+      "plainText": "And God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a multitude of people;"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "778",
-      "text" : "And give thee the blessing of Abraham, to thee, and to thy seed with thee; that thou mayest inherit the land wherein thou art a stranger, which God gave unto Abraham.",
-      "plainText" : "And give thee the blessing of Abraham, to thee, and to thy seed with thee; that thou mayest inherit the land wherein thou art a stranger, which God gave unto Abraham."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "778",
+      "text": "And give thee the blessing of Abraham, to thee, and to thy seed with thee; that thou mayest inherit the land wherein thou art a stranger, which God gave unto Abraham.",
+      "plainText": "And give thee the blessing of Abraham, to thee, and to thy seed with thee; that thou mayest inherit the land wherein thou art a stranger, which God gave unto Abraham."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "779",
-      "text" : "And Isaac sent away Jacob: and he went to Padan-aram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob's and Esau's mother.",
-      "plainText" : "And Isaac sent away Jacob: and he went to Padan-aram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob's and Esau's mother."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "779",
+      "text": "And Isaac sent away Jacob: and he went to Padan-aram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob's and Esau's mother.",
+      "plainText": "And Isaac sent away Jacob: and he went to Padan-aram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob's and Esau's mother."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "780",
-      "text" : "When Esau saw that Isaac had blessed Jacob, and sent him away to Padan-aram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan;",
-      "plainText" : "When Esau saw that Isaac had blessed Jacob, and sent him away to Padan-aram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan;"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "780",
+      "text": "When Esau saw that Isaac had blessed Jacob, and sent him away to Padan-aram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan;",
+      "plainText": "When Esau saw that Isaac had blessed Jacob, and sent him away to Padan-aram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan;"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "781",
-      "text" : "And that Jacob obeyed his father and his mother, and was gone to Padan-aram;",
-      "plainText" : "And that Jacob obeyed his father and his mother, and was gone to Padan-aram;"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "781",
+      "text": "And that Jacob obeyed his father and his mother, and was gone to Padan-aram;",
+      "plainText": "And that Jacob obeyed his father and his mother, and was gone to Padan-aram;"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "782",
-      "text" : "And Esau seeing that the daughters of Canaan pleased not Isaac his father;",
-      "plainText" : "And Esau seeing that the daughters of Canaan pleased not Isaac his father;"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "782",
+      "text": "And Esau seeing that the daughters of Canaan pleased not Isaac his father;",
+      "plainText": "And Esau seeing that the daughters of Canaan pleased not Isaac his father;"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "783",
-      "text" : "Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham's son, the sister of Nebajoth, to be his wife.",
-      "plainText" : "Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham's son, the sister of Nebajoth, to be his wife."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "783",
+      "text": "Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham's son, the sister of Nebajoth, to be his wife.",
+      "plainText": "Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham's son, the sister of Nebajoth, to be his wife."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "784",
-      "text" : "And Jacob went out from Beer-sheba, and went toward Haran.",
-      "plainText" : "And Jacob went out from Beer-sheba, and went toward Haran."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "784",
+      "text": "And Jacob went out from Beer-sheba, and went toward Haran.",
+      "plainText": "And Jacob went out from Beer-sheba, and went toward Haran."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "785",
-      "text" : "And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put <span class='extra'>them for<\/span> his pillows, and lay down in that place to sleep.",
-      "plainText" : "And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put them for his pillows, and lay down in that place to sleep."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "785",
+      "text": "And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put <span class='extra'>them for</span> his pillows, and lay down in that place to sleep.",
+      "plainText": "And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put them for his pillows, and lay down in that place to sleep."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "786",
-      "text" : "And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.",
-      "plainText" : "And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "786",
+      "text": "And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.",
+      "plainText": "And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "787",
-      "text" : "And, behold, the <span class='nog'>LORD<\/span> stood above it, and said, I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span> God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;",
-      "plainText" : "And, behold, the LORD stood above it, and said, I am the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "787",
+      "text": "And, behold, the <span class='nog'>LORD</span> stood above it, and said, I <span class='extra'>am</span> the <span class='nog'>LORD</span> God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;",
+      "plainText": "And, behold, the LORD stood above it, and said, I am the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "788",
-      "text" : "And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed.",
-      "plainText" : "And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "788",
+      "text": "And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed.",
+      "plainText": "And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "789",
-      "text" : "And, behold, I <span class='extra'>am<\/span> with thee, and will keep thee in all <span class='extra'>places<\/span> whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done <span class='extra'>that<\/span> which I have spoken to thee of.",
-      "plainText" : "And, behold, I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done that which I have spoken to thee of."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "789",
+      "text": "And, behold, I <span class='extra'>am</span> with thee, and will keep thee in all <span class='extra'>places</span> whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done <span class='extra'>that</span> which I have spoken to thee of.",
+      "plainText": "And, behold, I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done that which I have spoken to thee of."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "790",
-      "text" : "And Jacob awaked out of his sleep, and he said, Surely the <span class='nog'>LORD<\/span> is in this place; and I knew <span class='extra'>it<\/span> not.",
-      "plainText" : "And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "790",
+      "text": "And Jacob awaked out of his sleep, and he said, Surely the <span class='nog'>LORD</span> is in this place; and I knew <span class='extra'>it</span> not.",
+      "plainText": "And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "791",
-      "text" : "And he was afraid, and said, How dreadful <span class='extra'>is<\/span> this place! this <span class='extra'>is<\/span> none other but the house of God, and this <span class='extra'>is<\/span> the gate of heaven.",
-      "plainText" : "And he was afraid, and said, How dreadful is this place! this is none other but the house of God, and this is the gate of heaven."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "791",
+      "text": "And he was afraid, and said, How dreadful <span class='extra'>is</span> this place! this <span class='extra'>is</span> none other but the house of God, and this <span class='extra'>is</span> the gate of heaven.",
+      "plainText": "And he was afraid, and said, How dreadful is this place! this is none other but the house of God, and this is the gate of heaven."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "792",
-      "text" : "And Jacob rose up early in the morning, and took the stone that he had put <span class='extra'>for<\/span> his pillows, and set it up <span class='extra'>for<\/span> a pillar, and poured oil upon the top of it.",
-      "plainText" : "And Jacob rose up early in the morning, and took the stone that he had put for his pillows, and set it up for a pillar, and poured oil upon the top of it."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "792",
+      "text": "And Jacob rose up early in the morning, and took the stone that he had put <span class='extra'>for</span> his pillows, and set it up <span class='extra'>for</span> a pillar, and poured oil upon the top of it.",
+      "plainText": "And Jacob rose up early in the morning, and took the stone that he had put for his pillows, and set it up for a pillar, and poured oil upon the top of it."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "793",
-      "text" : "And he called the name of that place Beth-el: but the name of that city <span class='extra'>was called<\/span> Luz at the first.",
-      "plainText" : "And he called the name of that place Beth-el: but the name of that city was called Luz at the first."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "793",
+      "text": "And he called the name of that place Beth-el: but the name of that city <span class='extra'>was called</span> Luz at the first.",
+      "plainText": "And he called the name of that place Beth-el: but the name of that city was called Luz at the first."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "794",
-      "text" : "And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,",
-      "plainText" : "And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "794",
+      "text": "And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,",
+      "plainText": "And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "795",
-      "text" : "So that I come again to my father's house in peace; then shall the <span class='nog'>LORD<\/span> be my God:",
-      "plainText" : "So that I come again to my father's house in peace; then shall the LORD be my God:"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "795",
+      "text": "So that I come again to my father's house in peace; then shall the <span class='nog'>LORD</span> be my God:",
+      "plainText": "So that I come again to my father's house in peace; then shall the LORD be my God:"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "796",
-      "text" : "And this stone, which I have set <span class='extra'>for<\/span> a pillar, shall be God's house: and of all that thou shalt give me I will surely give the tenth unto thee.",
-      "plainText" : "And this stone, which I have set for a pillar, shall be God's house: and of all that thou shalt give me I will surely give the tenth unto thee."
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "796",
+      "text": "And this stone, which I have set <span class='extra'>for</span> a pillar, shall be God's house: and of all that thou shalt give me I will surely give the tenth unto thee.",
+      "plainText": "And this stone, which I have set for a pillar, shall be God's house: and of all that thou shalt give me I will surely give the tenth unto thee."
     }
   ]
 }
-
-

@@ -1,362 +1,325 @@
 {
   "book": {
-    "number" : "5",
-    "filenamePrefix" : "deuteronomy",
-    "bookPage" : "deuteronomy.html",
-    "title" : "Deuteronomy",
-    "chapterCount" : "34",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "joshua_1.html",
-    "nextTitle" : "Joshua",
-    "prevBook" : "numbers_1.html",
-    "prevTitle" : "Numbers"
+    "number": "5",
+    "filenamePrefix": "deuteronomy",
+    "bookPage": "deuteronomy.html",
+    "title": "Deuteronomy",
+    "chapterCount": "34",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "joshua_1.html",
+    "nextTitle": "Joshua",
+    "prevBook": "numbers_1.html",
+    "prevTitle": "Numbers",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "2",
-    "verseCount" : "37",
-    "nextChapter" : "deuteronomy_3.html",
-    "nextTitle" : "Deuteronomy 3",
-    "prevChapter" : "deuteronomy_1.html",
-    "prevTitle" : "Deuteronomy 1",
-    "filename" : "deuteronomy_2.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "2",
+    "verseCount": "37",
+    "nextChapter": "deuteronomy_3.html",
+    "nextTitle": "Deuteronomy 3",
+    "prevChapter": "deuteronomy_1.html",
+    "prevTitle": "Deuteronomy 1",
+    "filename": "deuteronomy_2.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "4940",
-      "text" : "Then we turned, and took our journey into the wilderness by the way of the Red sea, as the <span class='nog'>LORD<\/span> spake unto me: and we compassed mount Seir many days.",
-      "plainText" : "Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "4940",
+      "text": "Then we turned, and took our journey into the wilderness by the way of the Red sea, as the <span class='nog'>LORD</span> spake unto me: and we compassed mount Seir many days.",
+      "plainText": "Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "4941",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto me, saying,",
-      "plainText" : "And the LORD spake unto me, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "4941",
+      "text": "And the <span class='nog'>LORD</span> spake unto me, saying,",
+      "plainText": "And the LORD spake unto me, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "4942",
-      "text" : "Ye have compassed this mountain long enough: turn you northward.",
-      "plainText" : "Ye have compassed this mountain long enough: turn you northward."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "4942",
+      "text": "Ye have compassed this mountain long enough: turn you northward.",
+      "plainText": "Ye have compassed this mountain long enough: turn you northward."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "4943",
-      "text" : "And command thou the people, saying, Ye <span class='extra'>are<\/span> to pass through the coast of your brethren the children of Esau, which dwell in Seir; and they shall be afraid of you: take ye good heed unto yourselves therefore:",
-      "plainText" : "And command thou the people, saying, Ye are to pass through the coast of your brethren the children of Esau, which dwell in Seir; and they shall be afraid of you: take ye good heed unto yourselves therefore:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "4943",
+      "text": "And command thou the people, saying, Ye <span class='extra'>are</span> to pass through the coast of your brethren the children of Esau, which dwell in Seir; and they shall be afraid of you: take ye good heed unto yourselves therefore:",
+      "plainText": "And command thou the people, saying, Ye are to pass through the coast of your brethren the children of Esau, which dwell in Seir; and they shall be afraid of you: take ye good heed unto yourselves therefore:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "4944",
-      "text" : "Meddle not with them; for I will not give you of their land, no, not so much as a foot breadth; because I have given mount Seir unto Esau <span class='extra'>for<\/span> a possession.",
-      "plainText" : "Meddle not with them; for I will not give you of their land, no, not so much as a foot breadth; because I have given mount Seir unto Esau for a possession."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "4944",
+      "text": "Meddle not with them; for I will not give you of their land, no, not so much as a foot breadth; because I have given mount Seir unto Esau <span class='extra'>for</span> a possession.",
+      "plainText": "Meddle not with them; for I will not give you of their land, no, not so much as a foot breadth; because I have given mount Seir unto Esau for a possession."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "4945",
-      "text" : "Ye shall buy meat of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink.",
-      "plainText" : "Ye shall buy meat of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "4945",
+      "text": "Ye shall buy meat of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink.",
+      "plainText": "Ye shall buy meat of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "4946",
-      "text" : "For the <span class='nog'>LORD<\/span> thy God hath blessed thee in all the works of thy hand: he knoweth thy walking through this great wilderness: these forty years the <span class='nog'>LORD<\/span> thy God <span class='extra'>hath been<\/span> with thee; thou hast lacked nothing.",
-      "plainText" : "For the LORD thy God hath blessed thee in all the works of thy hand: he knoweth thy walking through this great wilderness: these forty years the LORD thy God hath been with thee; thou hast lacked nothing."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "4946",
+      "text": "For the <span class='nog'>LORD</span> thy God hath blessed thee in all the works of thy hand: he knoweth thy walking through this great wilderness: these forty years the <span class='nog'>LORD</span> thy God <span class='extra'>hath been</span> with thee; thou hast lacked nothing.",
+      "plainText": "For the LORD thy God hath blessed thee in all the works of thy hand: he knoweth thy walking through this great wilderness: these forty years the LORD thy God hath been with thee; thou hast lacked nothing."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "4947",
-      "text" : "And when we passed by from our brethren the children of Esau, which dwelt in Seir, through the way of the plain from Elath, and from Ezion-gaber, we turned and passed by the way of the wilderness of Moab.",
-      "plainText" : "And when we passed by from our brethren the children of Esau, which dwelt in Seir, through the way of the plain from Elath, and from Ezion-gaber, we turned and passed by the way of the wilderness of Moab."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "4947",
+      "text": "And when we passed by from our brethren the children of Esau, which dwelt in Seir, through the way of the plain from Elath, and from Ezion-gaber, we turned and passed by the way of the wilderness of Moab.",
+      "plainText": "And when we passed by from our brethren the children of Esau, which dwelt in Seir, through the way of the plain from Elath, and from Ezion-gaber, we turned and passed by the way of the wilderness of Moab."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "4948",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto me, Distress not the Moabites, neither contend with them in battle: for I will not give thee of their land <span class='extra'>for<\/span> a possession; because I have given Ar unto the children of Lot <span class='extra'>for<\/span> a possession.",
-      "plainText" : "And the LORD said unto me, Distress not the Moabites, neither contend with them in battle: for I will not give thee of their land for a possession; because I have given Ar unto the children of Lot for a possession."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "4948",
+      "text": "And the <span class='nog'>LORD</span> said unto me, Distress not the Moabites, neither contend with them in battle: for I will not give thee of their land <span class='extra'>for</span> a possession; because I have given Ar unto the children of Lot <span class='extra'>for</span> a possession.",
+      "plainText": "And the LORD said unto me, Distress not the Moabites, neither contend with them in battle: for I will not give thee of their land for a possession; because I have given Ar unto the children of Lot for a possession."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "4949",
-      "text" : "The Emims dwelt therein in times past, a people great, and many, and tall, as the Anakims;",
-      "plainText" : "The Emims dwelt therein in times past, a people great, and many, and tall, as the Anakims;"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "4949",
+      "text": "The Emims dwelt therein in times past, a people great, and many, and tall, as the Anakims;",
+      "plainText": "The Emims dwelt therein in times past, a people great, and many, and tall, as the Anakims;"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "4950",
-      "text" : "Which also were accounted giants, as the Anakims; but the Moabites call them Emims.",
-      "plainText" : "Which also were accounted giants, as the Anakims; but the Moabites call them Emims."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "4950",
+      "text": "Which also were accounted giants, as the Anakims; but the Moabites call them Emims.",
+      "plainText": "Which also were accounted giants, as the Anakims; but the Moabites call them Emims."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "4951",
-      "text" : "The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the <span class='nog'>LORD<\/span> gave unto them.",
-      "plainText" : "The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the LORD gave unto them."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "4951",
+      "text": "The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the <span class='nog'>LORD</span> gave unto them.",
+      "plainText": "The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the LORD gave unto them."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "4952",
-      "text" : "Now rise up, <span class='extra'>said I<\/span>, and get you over the brook Zered. And we went over the brook Zered.",
-      "plainText" : "Now rise up, said I, and get you over the brook Zered. And we went over the brook Zered."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "4952",
+      "text": "Now rise up, <span class='extra'>said I</span>, and get you over the brook Zered. And we went over the brook Zered.",
+      "plainText": "Now rise up, said I, and get you over the brook Zered. And we went over the brook Zered."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "4953",
-      "text" : "And the space in which we came from Kadesh-barnea, until we were come over the brook Zered, <span class='extra'>was<\/span> thirty and eight years; until all the generation of the men of war were wasted out from among the host, as the <span class='nog'>LORD<\/span> sware unto them.",
-      "plainText" : "And the space in which we came from Kadesh-barnea, until we were come over the brook Zered, was thirty and eight years; until all the generation of the men of war were wasted out from among the host, as the LORD sware unto them."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "4953",
+      "text": "And the space in which we came from Kadesh-barnea, until we were come over the brook Zered, <span class='extra'>was</span> thirty and eight years; until all the generation of the men of war were wasted out from among the host, as the <span class='nog'>LORD</span> sware unto them.",
+      "plainText": "And the space in which we came from Kadesh-barnea, until we were come over the brook Zered, was thirty and eight years; until all the generation of the men of war were wasted out from among the host, as the LORD sware unto them."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "4954",
-      "text" : "For indeed the hand of the <span class='nog'>LORD<\/span> was against them, to destroy them from among the host, until they were consumed.",
-      "plainText" : "For indeed the hand of the LORD was against them, to destroy them from among the host, until they were consumed."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "4954",
+      "text": "For indeed the hand of the <span class='nog'>LORD</span> was against them, to destroy them from among the host, until they were consumed.",
+      "plainText": "For indeed the hand of the LORD was against them, to destroy them from among the host, until they were consumed."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "4955",
-      "text" : "So it came to pass, when all the men of war were consumed and dead from among the people,",
-      "plainText" : "So it came to pass, when all the men of war were consumed and dead from among the people,"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "4955",
+      "text": "So it came to pass, when all the men of war were consumed and dead from among the people,",
+      "plainText": "So it came to pass, when all the men of war were consumed and dead from among the people,"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "4956",
-      "text" : "That the <span class='nog'>LORD<\/span> spake unto me, saying,",
-      "plainText" : "That the LORD spake unto me, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "4956",
+      "text": "That the <span class='nog'>LORD</span> spake unto me, saying,",
+      "plainText": "That the LORD spake unto me, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "4957",
-      "text" : "Thou art to pass over through Ar, the coast of Moab, this day:",
-      "plainText" : "Thou art to pass over through Ar, the coast of Moab, this day:"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "4957",
+      "text": "Thou art to pass over through Ar, the coast of Moab, this day:",
+      "plainText": "Thou art to pass over through Ar, the coast of Moab, this day:"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "4958",
-      "text" : "And <span class='extra'>when<\/span> thou comest nigh over against the children of Ammon, distress them not, nor meddle with them: for I will not give thee of the land of the children of Ammon <span class='extra'>any<\/span> possession; because I have given it unto the children of Lot <span class='extra'>for<\/span> a possession.",
-      "plainText" : "And when thou comest nigh over against the children of Ammon, distress them not, nor meddle with them: for I will not give thee of the land of the children of Ammon any possession; because I have given it unto the children of Lot for a possession."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "4958",
+      "text": "And <span class='extra'>when</span> thou comest nigh over against the children of Ammon, distress them not, nor meddle with them: for I will not give thee of the land of the children of Ammon <span class='extra'>any</span> possession; because I have given it unto the children of Lot <span class='extra'>for</span> a possession.",
+      "plainText": "And when thou comest nigh over against the children of Ammon, distress them not, nor meddle with them: for I will not give thee of the land of the children of Ammon any possession; because I have given it unto the children of Lot for a possession."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "4959",
-      "text" : "(That also was accounted a land of giants: giants dwelt therein in old time; and the Ammonites call them Zamzummims;",
-      "plainText" : "(That also was accounted a land of giants: giants dwelt therein in old time; and the Ammonites call them Zamzummims;"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "4959",
+      "text": "(That also was accounted a land of giants: giants dwelt therein in old time; and the Ammonites call them Zamzummims;",
+      "plainText": "(That also was accounted a land of giants: giants dwelt therein in old time; and the Ammonites call them Zamzummims;"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "4960",
-      "text" : "A people great, and many, and tall, as the Anakims; but the <span class='nog'>LORD<\/span> destroyed them before them; and they succeeded them, and dwelt in their stead:",
-      "plainText" : "A people great, and many, and tall, as the Anakims; but the LORD destroyed them before them; and they succeeded them, and dwelt in their stead:"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "4960",
+      "text": "A people great, and many, and tall, as the Anakims; but the <span class='nog'>LORD</span> destroyed them before them; and they succeeded them, and dwelt in their stead:",
+      "plainText": "A people great, and many, and tall, as the Anakims; but the LORD destroyed them before them; and they succeeded them, and dwelt in their stead:"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "4961",
-      "text" : "As he did to the children of Esau, which dwelt in Seir, when he destroyed the Horims from before them; and they succeeded them, and dwelt in their stead even unto this day:",
-      "plainText" : "As he did to the children of Esau, which dwelt in Seir, when he destroyed the Horims from before them; and they succeeded them, and dwelt in their stead even unto this day:"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "4961",
+      "text": "As he did to the children of Esau, which dwelt in Seir, when he destroyed the Horims from before them; and they succeeded them, and dwelt in their stead even unto this day:",
+      "plainText": "As he did to the children of Esau, which dwelt in Seir, when he destroyed the Horims from before them; and they succeeded them, and dwelt in their stead even unto this day:"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "4962",
-      "text" : "And the Avims which dwelt in Hazerim, <span class='extra'>even<\/span> unto Azzah, the Caphtorims, which came forth out of Caphtor, destroyed them, and dwelt in their stead.)",
-      "plainText" : "And the Avims which dwelt in Hazerim, even unto Azzah, the Caphtorims, which came forth out of Caphtor, destroyed them, and dwelt in their stead.)"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "4962",
+      "text": "And the Avims which dwelt in Hazerim, <span class='extra'>even</span> unto Azzah, the Caphtorims, which came forth out of Caphtor, destroyed them, and dwelt in their stead.)",
+      "plainText": "And the Avims which dwelt in Hazerim, even unto Azzah, the Caphtorims, which came forth out of Caphtor, destroyed them, and dwelt in their stead.)"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "4963",
-      "text" : "Rise ye up, take your journey, and pass over the river Arnon: behold, I have given into thine hand Sihon the Amorite, king of Heshbon, and his land: begin to possess <span class='extra'>it<\/span>, and contend with him in battle.",
-      "plainText" : "Rise ye up, take your journey, and pass over the river Arnon: behold, I have given into thine hand Sihon the Amorite, king of Heshbon, and his land: begin to possess it, and contend with him in battle."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "4963",
+      "text": "Rise ye up, take your journey, and pass over the river Arnon: behold, I have given into thine hand Sihon the Amorite, king of Heshbon, and his land: begin to possess <span class='extra'>it</span>, and contend with him in battle.",
+      "plainText": "Rise ye up, take your journey, and pass over the river Arnon: behold, I have given into thine hand Sihon the Amorite, king of Heshbon, and his land: begin to possess it, and contend with him in battle."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "4964",
-      "text" : "This day will I begin to put the dread of thee and the fear of thee upon the nations <span class='extra'>that are<\/span> under the whole heaven, who shall hear report of thee, and shall tremble, and be in anguish because of thee.",
-      "plainText" : "This day will I begin to put the dread of thee and the fear of thee upon the nations that are under the whole heaven, who shall hear report of thee, and shall tremble, and be in anguish because of thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "4964",
+      "text": "This day will I begin to put the dread of thee and the fear of thee upon the nations <span class='extra'>that are</span> under the whole heaven, who shall hear report of thee, and shall tremble, and be in anguish because of thee.",
+      "plainText": "This day will I begin to put the dread of thee and the fear of thee upon the nations that are under the whole heaven, who shall hear report of thee, and shall tremble, and be in anguish because of thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "4965",
-      "text" : "And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying,",
-      "plainText" : "And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "4965",
+      "text": "And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying,",
+      "plainText": "And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "4966",
-      "text" : "Let me pass through thy land: I will go along by the high way, I will neither turn unto the right hand nor to the left.",
-      "plainText" : "Let me pass through thy land: I will go along by the high way, I will neither turn unto the right hand nor to the left."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "4966",
+      "text": "Let me pass through thy land: I will go along by the high way, I will neither turn unto the right hand nor to the left.",
+      "plainText": "Let me pass through thy land: I will go along by the high way, I will neither turn unto the right hand nor to the left."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "4967",
-      "text" : "Thou shalt sell me meat for money, that I may eat; and give me water for money, that I may drink: only I will pass through on my feet;",
-      "plainText" : "Thou shalt sell me meat for money, that I may eat; and give me water for money, that I may drink: only I will pass through on my feet;"
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "4967",
+      "text": "Thou shalt sell me meat for money, that I may eat; and give me water for money, that I may drink: only I will pass through on my feet;",
+      "plainText": "Thou shalt sell me meat for money, that I may eat; and give me water for money, that I may drink: only I will pass through on my feet;"
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "4968",
-      "text" : "(As the children of Esau which dwell in Seir, and the Moabites which dwell in Ar, did unto me;) until I shall pass over Jordan into the land which the <span class='nog'>LORD<\/span> our God giveth us.",
-      "plainText" : "(As the children of Esau which dwell in Seir, and the Moabites which dwell in Ar, did unto me;) until I shall pass over Jordan into the land which the LORD our God giveth us."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "4968",
+      "text": "(As the children of Esau which dwell in Seir, and the Moabites which dwell in Ar, did unto me;) until I shall pass over Jordan into the land which the <span class='nog'>LORD</span> our God giveth us.",
+      "plainText": "(As the children of Esau which dwell in Seir, and the Moabites which dwell in Ar, did unto me;) until I shall pass over Jordan into the land which the LORD our God giveth us."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "4969",
-      "text" : "But Sihon king of Heshbon would not let us pass by him: for the <span class='nog'>LORD<\/span> thy God hardened his spirit, and made his heart obstinate, that he might deliver him into thy hand, as <span class='extra'>appeareth<\/span> this day.",
-      "plainText" : "But Sihon king of Heshbon would not let us pass by him: for the LORD thy God hardened his spirit, and made his heart obstinate, that he might deliver him into thy hand, as appeareth this day."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "4969",
+      "text": "But Sihon king of Heshbon would not let us pass by him: for the <span class='nog'>LORD</span> thy God hardened his spirit, and made his heart obstinate, that he might deliver him into thy hand, as <span class='extra'>appeareth</span> this day.",
+      "plainText": "But Sihon king of Heshbon would not let us pass by him: for the LORD thy God hardened his spirit, and made his heart obstinate, that he might deliver him into thy hand, as appeareth this day."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "4970",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto me, Behold, I have begun to give Sihon and his land before thee: begin to possess, that thou mayest inherit his land.",
-      "plainText" : "And the LORD said unto me, Behold, I have begun to give Sihon and his land before thee: begin to possess, that thou mayest inherit his land."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "4970",
+      "text": "And the <span class='nog'>LORD</span> said unto me, Behold, I have begun to give Sihon and his land before thee: begin to possess, that thou mayest inherit his land.",
+      "plainText": "And the LORD said unto me, Behold, I have begun to give Sihon and his land before thee: begin to possess, that thou mayest inherit his land."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "4971",
-      "text" : "Then Sihon came out against us, he and all his people, to fight at Jahaz.",
-      "plainText" : "Then Sihon came out against us, he and all his people, to fight at Jahaz."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "4971",
+      "text": "Then Sihon came out against us, he and all his people, to fight at Jahaz.",
+      "plainText": "Then Sihon came out against us, he and all his people, to fight at Jahaz."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "4972",
-      "text" : "And the <span class='nog'>LORD<\/span> our God delivered him before us; and we smote him, and his sons, and all his people.",
-      "plainText" : "And the LORD our God delivered him before us; and we smote him, and his sons, and all his people."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "4972",
+      "text": "And the <span class='nog'>LORD</span> our God delivered him before us; and we smote him, and his sons, and all his people.",
+      "plainText": "And the LORD our God delivered him before us; and we smote him, and his sons, and all his people."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "4973",
-      "text" : "And we took all his cities at that time, and utterly destroyed the men, and the women, and the little ones, of every city, we left none to remain:",
-      "plainText" : "And we took all his cities at that time, and utterly destroyed the men, and the women, and the little ones, of every city, we left none to remain:"
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "4973",
+      "text": "And we took all his cities at that time, and utterly destroyed the men, and the women, and the little ones, of every city, we left none to remain:",
+      "plainText": "And we took all his cities at that time, and utterly destroyed the men, and the women, and the little ones, of every city, we left none to remain:"
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "4974",
-      "text" : "Only the cattle we took for a prey unto ourselves, and the spoil of the cities which we took.",
-      "plainText" : "Only the cattle we took for a prey unto ourselves, and the spoil of the cities which we took."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "4974",
+      "text": "Only the cattle we took for a prey unto ourselves, and the spoil of the cities which we took.",
+      "plainText": "Only the cattle we took for a prey unto ourselves, and the spoil of the cities which we took."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "4975",
-      "text" : "From Aroer, which <span class='extra'>is<\/span> by the brink of the river of Arnon, and <span class='extra'>from<\/span> the city that <span class='extra'>is<\/span> by the river, even unto Gilead, there was not one city too strong for us: the <span class='nog'>LORD<\/span> our God delivered all unto us:",
-      "plainText" : "From Aroer, which is by the brink of the river of Arnon, and from the city that is by the river, even unto Gilead, there was not one city too strong for us: the LORD our God delivered all unto us:"
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "4975",
+      "text": "From Aroer, which <span class='extra'>is</span> by the brink of the river of Arnon, and <span class='extra'>from</span> the city that <span class='extra'>is</span> by the river, even unto Gilead, there was not one city too strong for us: the <span class='nog'>LORD</span> our God delivered all unto us:",
+      "plainText": "From Aroer, which is by the brink of the river of Arnon, and from the city that is by the river, even unto Gilead, there was not one city too strong for us: the LORD our God delivered all unto us:"
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "4976",
-      "text" : "Only unto the land of the children of Ammon thou camest not, <span class='extra'>nor<\/span> unto any place of the river Jabbok, nor unto the cities in the mountains, nor unto whatsoever the <span class='nog'>LORD<\/span> our God forbad us.",
-      "plainText" : "Only unto the land of the children of Ammon thou camest not, nor unto any place of the river Jabbok, nor unto the cities in the mountains, nor unto whatsoever the LORD our God forbad us."
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "4976",
+      "text": "Only unto the land of the children of Ammon thou camest not, <span class='extra'>nor</span> unto any place of the river Jabbok, nor unto the cities in the mountains, nor unto whatsoever the <span class='nog'>LORD</span> our God forbad us.",
+      "plainText": "Only unto the land of the children of Ammon thou camest not, nor unto any place of the river Jabbok, nor unto the cities in the mountains, nor unto whatsoever the LORD our God forbad us."
     }
   ]
 }
-
-

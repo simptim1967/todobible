@@ -1,335 +1,301 @@
 {
   "book": {
-    "number" : "3",
-    "filenamePrefix" : "leviticus",
-    "bookPage" : "leviticus.html",
-    "title" : "Leviticus",
-    "chapterCount" : "27",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "numbers_1.html",
-    "nextTitle" : "Numbers",
-    "prevBook" : "exodus_1.html",
-    "prevTitle" : "Exodus"
+    "number": "3",
+    "filenamePrefix": "leviticus",
+    "bookPage": "leviticus.html",
+    "title": "Leviticus",
+    "chapterCount": "27",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "numbers_1.html",
+    "nextTitle": "Numbers",
+    "prevBook": "exodus_1.html",
+    "prevTitle": "Exodus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "27",
-    "verseCount" : "34",
-    "nextChapter" : "numbers_1.html",
-    "nextTitle" : "Numbers 1",
-    "prevChapter" : "leviticus_26.html",
-    "prevTitle" : "Leviticus 26",
-    "filename" : "leviticus_27.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "27",
+    "verseCount": "34",
+    "nextChapter": "numbers_1.html",
+    "nextTitle": "Numbers 1",
+    "prevChapter": "leviticus_26.html",
+    "prevTitle": "Leviticus 26",
+    "filename": "leviticus_27.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "3572",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "3572",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "3573",
-      "text" : "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons <span class='extra'>shall be<\/span> for the <span class='nog'>LORD<\/span> by thy estimation.",
-      "plainText" : "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the LORD by thy estimation."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "3573",
+      "text": "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons <span class='extra'>shall be</span> for the <span class='nog'>LORD</span> by thy estimation.",
+      "plainText": "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the LORD by thy estimation."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "3574",
-      "text" : "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary.",
-      "plainText" : "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "3574",
+      "text": "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary.",
+      "plainText": "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "3575",
-      "text" : "And if it <span class='extra'>be<\/span> a female, then thy estimation shall be thirty shekels.",
-      "plainText" : "And if it be a female, then thy estimation shall be thirty shekels."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "3575",
+      "text": "And if it <span class='extra'>be</span> a female, then thy estimation shall be thirty shekels.",
+      "plainText": "And if it be a female, then thy estimation shall be thirty shekels."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "3576",
-      "text" : "And if <span class='extra'>it be<\/span> from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels.",
-      "plainText" : "And if it be from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "3576",
+      "text": "And if <span class='extra'>it be</span> from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels.",
+      "plainText": "And if it be from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "3577",
-      "text" : "And if <span class='extra'>it be<\/span> from a month old even unto five years old, then thy estimation shall be of the male five shekels of silver, and for the female thy estimation <span class='extra'>shall be<\/span> three shekels of silver.",
-      "plainText" : "And if it be from a month old even unto five years old, then thy estimation shall be of the male five shekels of silver, and for the female thy estimation shall be three shekels of silver."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "3577",
+      "text": "And if <span class='extra'>it be</span> from a month old even unto five years old, then thy estimation shall be of the male five shekels of silver, and for the female thy estimation <span class='extra'>shall be</span> three shekels of silver.",
+      "plainText": "And if it be from a month old even unto five years old, then thy estimation shall be of the male five shekels of silver, and for the female thy estimation shall be three shekels of silver."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "3578",
-      "text" : "And if <span class='extra'>it be<\/span> from sixty years old and above; if <span class='extra'>it be<\/span> a male, then thy estimation shall be fifteen shekels, and for the female ten shekels.",
-      "plainText" : "And if it be from sixty years old and above; if it be a male, then thy estimation shall be fifteen shekels, and for the female ten shekels."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "3578",
+      "text": "And if <span class='extra'>it be</span> from sixty years old and above; if <span class='extra'>it be</span> a male, then thy estimation shall be fifteen shekels, and for the female ten shekels.",
+      "plainText": "And if it be from sixty years old and above; if it be a male, then thy estimation shall be fifteen shekels, and for the female ten shekels."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "3579",
-      "text" : "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him.",
-      "plainText" : "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "3579",
+      "text": "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him.",
+      "plainText": "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "3580",
-      "text" : "And if <span class='extra'>it be<\/span> a beast, whereof men bring an offering unto the <span class='nog'>LORD<\/span>, all that <span class='extra'>any man<\/span> giveth of such unto the <span class='nog'>LORD<\/span> shall be holy.",
-      "plainText" : "And if it be a beast, whereof men bring an offering unto the LORD, all that any man giveth of such unto the LORD shall be holy."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "3580",
+      "text": "And if <span class='extra'>it be</span> a beast, whereof men bring an offering unto the <span class='nog'>LORD</span>, all that <span class='extra'>any man</span> giveth of such unto the <span class='nog'>LORD</span> shall be holy.",
+      "plainText": "And if it be a beast, whereof men bring an offering unto the LORD, all that any man giveth of such unto the LORD shall be holy."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "3581",
-      "text" : "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy.",
-      "plainText" : "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "3581",
+      "text": "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy.",
+      "plainText": "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "3582",
-      "text" : "And if <span class='extra'>it be<\/span> any unclean beast, of which they do not offer a sacrifice unto the <span class='nog'>LORD<\/span>, then he shall present the beast before the priest:",
-      "plainText" : "And if it be any unclean beast, of which they do not offer a sacrifice unto the LORD, then he shall present the beast before the priest:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "3582",
+      "text": "And if <span class='extra'>it be</span> any unclean beast, of which they do not offer a sacrifice unto the <span class='nog'>LORD</span>, then he shall present the beast before the priest:",
+      "plainText": "And if it be any unclean beast, of which they do not offer a sacrifice unto the LORD, then he shall present the beast before the priest:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "3583",
-      "text" : "And the priest shall value it, whether it be good or bad: as thou valuest it, <span class='extra'>who art<\/span> the priest, so shall it be.",
-      "plainText" : "And the priest shall value it, whether it be good or bad: as thou valuest it, who art the priest, so shall it be."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "3583",
+      "text": "And the priest shall value it, whether it be good or bad: as thou valuest it, <span class='extra'>who art</span> the priest, so shall it be.",
+      "plainText": "And the priest shall value it, whether it be good or bad: as thou valuest it, who art the priest, so shall it be."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "3584",
-      "text" : "But if he will at all redeem it, then he shall add a fifth <span class='extra'>part<\/span> thereof unto thy estimation.",
-      "plainText" : "But if he will at all redeem it, then he shall add a fifth part thereof unto thy estimation."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "3584",
+      "text": "But if he will at all redeem it, then he shall add a fifth <span class='extra'>part</span> thereof unto thy estimation.",
+      "plainText": "But if he will at all redeem it, then he shall add a fifth part thereof unto thy estimation."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "3585",
-      "text" : "And when a man shall sanctify his house <span class='extra'>to be<\/span> holy unto the <span class='nog'>LORD<\/span>, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand.",
-      "plainText" : "And when a man shall sanctify his house to be holy unto the LORD, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "3585",
+      "text": "And when a man shall sanctify his house <span class='extra'>to be</span> holy unto the <span class='nog'>LORD</span>, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand.",
+      "plainText": "And when a man shall sanctify his house to be holy unto the LORD, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "3586",
-      "text" : "And if he that sanctified it will redeem his house, then he shall add the fifth <span class='extra'>part<\/span> of the money of thy estimation unto it, and it shall be his.",
-      "plainText" : "And if he that sanctified it will redeem his house, then he shall add the fifth part of the money of thy estimation unto it, and it shall be his."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "3586",
+      "text": "And if he that sanctified it will redeem his house, then he shall add the fifth <span class='extra'>part</span> of the money of thy estimation unto it, and it shall be his.",
+      "plainText": "And if he that sanctified it will redeem his house, then he shall add the fifth part of the money of thy estimation unto it, and it shall be his."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "3587",
-      "text" : "And if a man shall sanctify unto the <span class='nog'>LORD<\/span> <span class='extra'>some part<\/span> of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed <span class='extra'>shall be valued<\/span> at fifty shekels of silver.",
-      "plainText" : "And if a man shall sanctify unto the LORD some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "3587",
+      "text": "And if a man shall sanctify unto the <span class='nog'>LORD</span> <span class='extra'>some part</span> of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed <span class='extra'>shall be valued</span> at fifty shekels of silver.",
+      "plainText": "And if a man shall sanctify unto the LORD some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "3588",
-      "text" : "If he sanctify his field from the year of jubile, according to thy estimation it shall stand.",
-      "plainText" : "If he sanctify his field from the year of jubile, according to thy estimation it shall stand."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "3588",
+      "text": "If he sanctify his field from the year of jubile, according to thy estimation it shall stand.",
+      "plainText": "If he sanctify his field from the year of jubile, according to thy estimation it shall stand."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "3589",
-      "text" : "But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation.",
-      "plainText" : "But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "3589",
+      "text": "But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation.",
+      "plainText": "But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "3590",
-      "text" : "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth <span class='extra'>part<\/span> of the money of thy estimation unto it, and it shall be assured to him.",
-      "plainText" : "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth part of the money of thy estimation unto it, and it shall be assured to him."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "3590",
+      "text": "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth <span class='extra'>part</span> of the money of thy estimation unto it, and it shall be assured to him.",
+      "plainText": "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth part of the money of thy estimation unto it, and it shall be assured to him."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "3591",
-      "text" : "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more.",
-      "plainText" : "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "3591",
+      "text": "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more.",
+      "plainText": "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "3592",
-      "text" : "But the field, when it goeth out in the jubile, shall be holy unto the <span class='nog'>LORD<\/span>, as a field devoted; the possession thereof shall be the priest's.",
-      "plainText" : "But the field, when it goeth out in the jubile, shall be holy unto the LORD, as a field devoted; the possession thereof shall be the priest's."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "3592",
+      "text": "But the field, when it goeth out in the jubile, shall be holy unto the <span class='nog'>LORD</span>, as a field devoted; the possession thereof shall be the priest's.",
+      "plainText": "But the field, when it goeth out in the jubile, shall be holy unto the LORD, as a field devoted; the possession thereof shall be the priest's."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "3593",
-      "text" : "And if <span class='extra'>a man<\/span> sanctify unto the <span class='nog'>LORD<\/span> a field which he hath bought, which <span class='extra'>is<\/span> not of the fields of his possession;",
-      "plainText" : "And if a man sanctify unto the LORD a field which he hath bought, which is not of the fields of his possession;"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "3593",
+      "text": "And if <span class='extra'>a man</span> sanctify unto the <span class='nog'>LORD</span> a field which he hath bought, which <span class='extra'>is</span> not of the fields of his possession;",
+      "plainText": "And if a man sanctify unto the LORD a field which he hath bought, which is not of the fields of his possession;"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "3594",
-      "text" : "Then the priest shall reckon unto him the worth of thy estimation, <span class='extra'>even<\/span> unto the year of the jubile: and he shall give thine estimation in that day, <span class='extra'>as<\/span> a holy thing unto the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Then the priest shall reckon unto him the worth of thy estimation, even unto the year of the jubile: and he shall give thine estimation in that day, as a holy thing unto the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "3594",
+      "text": "Then the priest shall reckon unto him the worth of thy estimation, <span class='extra'>even</span> unto the year of the jubile: and he shall give thine estimation in that day, <span class='extra'>as</span> a holy thing unto the <span class='nog'>LORD</span>.",
+      "plainText": "Then the priest shall reckon unto him the worth of thy estimation, even unto the year of the jubile: and he shall give thine estimation in that day, as a holy thing unto the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "3595",
-      "text" : "In the year of the jubile the field shall return unto him of whom it was bought, <span class='extra'>even<\/span> to him to whom the possession of the land <span class='extra'>did belong<\/span>.",
-      "plainText" : "In the year of the jubile the field shall return unto him of whom it was bought, even to him to whom the possession of the land did belong."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "3595",
+      "text": "In the year of the jubile the field shall return unto him of whom it was bought, <span class='extra'>even</span> to him to whom the possession of the land <span class='extra'>did belong</span>.",
+      "plainText": "In the year of the jubile the field shall return unto him of whom it was bought, even to him to whom the possession of the land did belong."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "3596",
-      "text" : "And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel.",
-      "plainText" : "And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "3596",
+      "text": "And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel.",
+      "plainText": "And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "3597",
-      "text" : "Only the firstling of the beasts, which should be the <span class='nog'>LORD<\/span>'s firstling, no man shall sanctify it; whether <span class='extra'>it be<\/span> ox, or sheep: it <span class='extra'>is<\/span> the <span class='nog'>LORD<\/span>'s.",
-      "plainText" : "Only the firstling of the beasts, which should be the LORD's firstling, no man shall sanctify it; whether it be ox, or sheep: it is the LORD's."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "3597",
+      "text": "Only the firstling of the beasts, which should be the <span class='nog'>LORD</span>'s firstling, no man shall sanctify it; whether <span class='extra'>it be</span> ox, or sheep: it <span class='extra'>is</span> the <span class='nog'>LORD</span>'s.",
+      "plainText": "Only the firstling of the beasts, which should be the LORD's firstling, no man shall sanctify it; whether it be ox, or sheep: it is the LORD's."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "3598",
-      "text" : "And if <span class='extra'>it be<\/span> of an unclean beast, then he shall redeem <span class='extra'>it<\/span> according to thine estimation, and shall add a fifth <span class='extra'>part<\/span> of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation.",
-      "plainText" : "And if it be of an unclean beast, then he shall redeem it according to thine estimation, and shall add a fifth part of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "3598",
+      "text": "And if <span class='extra'>it be</span> of an unclean beast, then he shall redeem <span class='extra'>it</span> according to thine estimation, and shall add a fifth <span class='extra'>part</span> of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation.",
+      "plainText": "And if it be of an unclean beast, then he shall redeem it according to thine estimation, and shall add a fifth part of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "3599",
-      "text" : "Notwithstanding no devoted thing, that a man shall devote unto the <span class='nog'>LORD<\/span> of all that he hath, <span class='extra'>both<\/span> of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing <span class='extra'>is<\/span> most holy unto the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Notwithstanding no devoted thing, that a man shall devote unto the LORD of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing is most holy unto the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "3599",
+      "text": "Notwithstanding no devoted thing, that a man shall devote unto the <span class='nog'>LORD</span> of all that he hath, <span class='extra'>both</span> of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing <span class='extra'>is</span> most holy unto the <span class='nog'>LORD</span>.",
+      "plainText": "Notwithstanding no devoted thing, that a man shall devote unto the LORD of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing is most holy unto the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "3600",
-      "text" : "None devoted, which shall be devoted of men, shall be redeemed; <span class='extra'>but<\/span> shall surely be put to death.",
-      "plainText" : "None devoted, which shall be devoted of men, shall be redeemed; but shall surely be put to death."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "3600",
+      "text": "None devoted, which shall be devoted of men, shall be redeemed; <span class='extra'>but</span> shall surely be put to death.",
+      "plainText": "None devoted, which shall be devoted of men, shall be redeemed; but shall surely be put to death."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "3601",
-      "text" : "And all the tithe of the land, <span class='extra'>whether<\/span> of the seed of the land, <span class='extra'>or<\/span> of the fruit of the tree, <span class='extra'>is<\/span> the <span class='nog'>LORD<\/span>'s: <span class='extra'>it is<\/span> holy unto the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the LORD's: it is holy unto the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "3601",
+      "text": "And all the tithe of the land, <span class='extra'>whether</span> of the seed of the land, <span class='extra'>or</span> of the fruit of the tree, <span class='extra'>is</span> the <span class='nog'>LORD</span>'s: <span class='extra'>it is</span> holy unto the <span class='nog'>LORD</span>.",
+      "plainText": "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the LORD's: it is holy unto the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "3602",
-      "text" : "And if a man will at all redeem <span class='extra'>ought<\/span> of his tithes, he shall add thereto the fifth <span class='extra'>part<\/span> thereof.",
-      "plainText" : "And if a man will at all redeem ought of his tithes, he shall add thereto the fifth part thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "3602",
+      "text": "And if a man will at all redeem <span class='extra'>ought</span> of his tithes, he shall add thereto the fifth <span class='extra'>part</span> thereof.",
+      "plainText": "And if a man will at all redeem ought of his tithes, he shall add thereto the fifth part thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "3603",
-      "text" : "And concerning the tithe of the herd, or of the flock, <span class='extra'>even<\/span> of whatsoever passeth under the rod, the tenth shall be holy unto the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And concerning the tithe of the herd, or of the flock, even of whatsoever passeth under the rod, the tenth shall be holy unto the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "3603",
+      "text": "And concerning the tithe of the herd, or of the flock, <span class='extra'>even</span> of whatsoever passeth under the rod, the tenth shall be holy unto the <span class='nog'>LORD</span>.",
+      "plainText": "And concerning the tithe of the herd, or of the flock, even of whatsoever passeth under the rod, the tenth shall be holy unto the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "3604",
-      "text" : "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed.",
-      "plainText" : "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "3604",
+      "text": "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed.",
+      "plainText": "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "3605",
-      "text" : "These <span class='extra'>are<\/span> the commandments, which the <span class='nog'>LORD<\/span> commanded Moses for the children of Israel in mount Sinai.",
-      "plainText" : "These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai."
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "3605",
+      "text": "These <span class='extra'>are</span> the commandments, which the <span class='nog'>LORD</span> commanded Moses for the children of Israel in mount Sinai.",
+      "plainText": "These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai."
     }
   ]
 }
-
-

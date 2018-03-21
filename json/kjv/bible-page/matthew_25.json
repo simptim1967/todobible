@@ -1,442 +1,397 @@
 {
   "book": {
-    "number" : "40",
-    "filenamePrefix" : "matthew",
-    "bookPage" : "matthew.html",
-    "title" : "Matthew",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "mark_1.html",
-    "nextTitle" : "Mark",
-    "prevBook" : "malachi_1.html",
-    "prevTitle" : "Malachi"
+    "number": "40",
+    "filenamePrefix": "matthew",
+    "bookPage": "matthew.html",
+    "title": "Matthew",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "mark_1.html",
+    "nextTitle": "Mark",
+    "prevBook": "malachi_1.html",
+    "prevTitle": "Malachi",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "25",
-    "verseCount" : "46",
-    "nextChapter" : "matthew_26.html",
-    "nextTitle" : "Matthew 26",
-    "prevChapter" : "matthew_24.html",
-    "prevTitle" : "Matthew 24",
-    "filename" : "matthew_25.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "25",
+    "verseCount": "46",
+    "nextChapter": "matthew_26.html",
+    "nextTitle": "Matthew 26",
+    "prevChapter": "matthew_24.html",
+    "prevTitle": "Matthew 24",
+    "filename": "matthew_25.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "24010",
-      "text" : "<span class='woc'>Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.<\/span>",
-      "plainText" : "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "24010",
+      "text": "<span class='woc'>Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.</span>",
+      "plainText": "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "24011",
-      "text" : "<span class='woc'>And five of them were wise, and five <span class='extra'>were<\/span> foolish.<\/span>",
-      "plainText" : "And five of them were wise, and five were foolish."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "24011",
+      "text": "<span class='woc'>And five of them were wise, and five <span class='extra'>were</span> foolish.</span>",
+      "plainText": "And five of them were wise, and five were foolish."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "24012",
-      "text" : "<span class='woc'>They that <span class='extra'>were<\/span> foolish took their lamps, and took no oil with them:<\/span>",
-      "plainText" : "They that were foolish took their lamps, and took no oil with them:"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "24012",
+      "text": "<span class='woc'>They that <span class='extra'>were</span> foolish took their lamps, and took no oil with them:</span>",
+      "plainText": "They that were foolish took their lamps, and took no oil with them:"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "24013",
-      "text" : "<span class='woc'>But the wise took oil in their vessels with their lamps.<\/span>",
-      "plainText" : "But the wise took oil in their vessels with their lamps."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "24013",
+      "text": "<span class='woc'>But the wise took oil in their vessels with their lamps.</span>",
+      "plainText": "But the wise took oil in their vessels with their lamps."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "24014",
-      "text" : "<span class='woc'>While the bridegroom tarried, they all slumbered and slept.<\/span>",
-      "plainText" : "While the bridegroom tarried, they all slumbered and slept."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "24014",
+      "text": "<span class='woc'>While the bridegroom tarried, they all slumbered and slept.</span>",
+      "plainText": "While the bridegroom tarried, they all slumbered and slept."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "24015",
-      "text" : "<span class='woc'>And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.<\/span>",
-      "plainText" : "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "24015",
+      "text": "<span class='woc'>And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.</span>",
+      "plainText": "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "24016",
-      "text" : "<span class='woc'>Then all those virgins arose, and trimmed their lamps.<\/span>",
-      "plainText" : "Then all those virgins arose, and trimmed their lamps."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "24016",
+      "text": "<span class='woc'>Then all those virgins arose, and trimmed their lamps.</span>",
+      "plainText": "Then all those virgins arose, and trimmed their lamps."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "24017",
-      "text" : "<span class='woc'>And the foolish said unto the wise, Give us of your oil; for our lamps are gone out.<\/span>",
-      "plainText" : "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "24017",
+      "text": "<span class='woc'>And the foolish said unto the wise, Give us of your oil; for our lamps are gone out.</span>",
+      "plainText": "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "24018",
-      "text" : "<span class='woc'>But the wise answered, saying, <span class='extra'>Not so<\/span>; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.<\/span>",
-      "plainText" : "But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "24018",
+      "text": "<span class='woc'>But the wise answered, saying, <span class='extra'>Not so</span>; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.</span>",
+      "plainText": "But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "24019",
-      "text" : "<span class='woc'>And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.<\/span>",
-      "plainText" : "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "24019",
+      "text": "<span class='woc'>And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.</span>",
+      "plainText": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "24020",
-      "text" : "<span class='woc'>Afterward came also the other virgins, saying, Lord, Lord, open to us.<\/span>",
-      "plainText" : "Afterward came also the other virgins, saying, Lord, Lord, open to us."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "24020",
+      "text": "<span class='woc'>Afterward came also the other virgins, saying, Lord, Lord, open to us.</span>",
+      "plainText": "Afterward came also the other virgins, saying, Lord, Lord, open to us."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "24021",
-      "text" : "<span class='woc'>But he answered and said, Verily I say unto you, I know you not.<\/span>",
-      "plainText" : "But he answered and said, Verily I say unto you, I know you not."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "24021",
+      "text": "<span class='woc'>But he answered and said, Verily I say unto you, I know you not.</span>",
+      "plainText": "But he answered and said, Verily I say unto you, I know you not."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "24022",
-      "text" : "<span class='woc'>Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.<\/span>",
-      "plainText" : "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "24022",
+      "text": "<span class='woc'>Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.</span>",
+      "plainText": "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "24023",
-      "text" : "<span class='woc'>For <span class='extra'>the kingdom of heaven is<\/span> as a man travelling into a far country, <span class='extra'>who<\/span> called his own servants, and delivered unto them his goods.<\/span>",
-      "plainText" : "For the kingdom of heaven is as a man travelling into a far country, who called his own servants, and delivered unto them his goods."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "24023",
+      "text": "<span class='woc'>For <span class='extra'>the kingdom of heaven is</span> as a man travelling into a far country, <span class='extra'>who</span> called his own servants, and delivered unto them his goods.</span>",
+      "plainText": "For the kingdom of heaven is as a man travelling into a far country, who called his own servants, and delivered unto them his goods."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "24024",
-      "text" : "<span class='woc'>And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey.<\/span>",
-      "plainText" : "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "24024",
+      "text": "<span class='woc'>And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey.</span>",
+      "plainText": "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "24025",
-      "text" : "<span class='woc'>Then he that had received the five talents went and traded with the same, and made <span class='extra'>them<\/span> other five talents.<\/span>",
-      "plainText" : "Then he that had received the five talents went and traded with the same, and made them other five talents."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "24025",
+      "text": "<span class='woc'>Then he that had received the five talents went and traded with the same, and made <span class='extra'>them</span> other five talents.</span>",
+      "plainText": "Then he that had received the five talents went and traded with the same, and made them other five talents."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "24026",
-      "text" : "<span class='woc'>And likewise he that <span class='extra'>had received<\/span> two, he also gained other two.<\/span>",
-      "plainText" : "And likewise he that had received two, he also gained other two."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "24026",
+      "text": "<span class='woc'>And likewise he that <span class='extra'>had received</span> two, he also gained other two.</span>",
+      "plainText": "And likewise he that had received two, he also gained other two."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "24027",
-      "text" : "<span class='woc'>But he that had received one went and digged in the earth, and hid his lord's money.<\/span>",
-      "plainText" : "But he that had received one went and digged in the earth, and hid his lord's money."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "24027",
+      "text": "<span class='woc'>But he that had received one went and digged in the earth, and hid his lord's money.</span>",
+      "plainText": "But he that had received one went and digged in the earth, and hid his lord's money."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "24028",
-      "text" : "<span class='woc'>After a long time the lord of those servants cometh, and reckoneth with them.<\/span>",
-      "plainText" : "After a long time the lord of those servants cometh, and reckoneth with them."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "24028",
+      "text": "<span class='woc'>After a long time the lord of those servants cometh, and reckoneth with them.</span>",
+      "plainText": "After a long time the lord of those servants cometh, and reckoneth with them."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "24029",
-      "text" : "<span class='woc'>And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more.<\/span>",
-      "plainText" : "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "24029",
+      "text": "<span class='woc'>And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more.</span>",
+      "plainText": "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "24030",
-      "text" : "<span class='woc'>His lord said unto him, Well done, <span class='extra'>thou<\/span> good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.<\/span>",
-      "plainText" : "His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "24030",
+      "text": "<span class='woc'>His lord said unto him, Well done, <span class='extra'>thou</span> good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.</span>",
+      "plainText": "His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "24031",
-      "text" : "<span class='woc'>He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them.<\/span>",
-      "plainText" : "He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "24031",
+      "text": "<span class='woc'>He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them.</span>",
+      "plainText": "He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "24032",
-      "text" : "<span class='woc'>His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.<\/span>",
-      "plainText" : "His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "24032",
+      "text": "<span class='woc'>His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.</span>",
+      "plainText": "His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "24033",
-      "text" : "<span class='woc'>Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:<\/span>",
-      "plainText" : "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "24033",
+      "text": "<span class='woc'>Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:</span>",
+      "plainText": "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "24034",
-      "text" : "<span class='woc'>And I was afraid, and went and hid thy talent in the earth: lo, <span class='extra'>there<\/span> thou hast <span class='extra'>that is<\/span> thine.<\/span>",
-      "plainText" : "And I was afraid, and went and hid thy talent in the earth: lo, there thou hast that is thine."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "24034",
+      "text": "<span class='woc'>And I was afraid, and went and hid thy talent in the earth: lo, <span class='extra'>there</span> thou hast <span class='extra'>that is</span> thine.</span>",
+      "plainText": "And I was afraid, and went and hid thy talent in the earth: lo, there thou hast that is thine."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "24035",
-      "text" : "<span class='woc'>His lord answered and said unto him, <span class='extra'>Thou<\/span> wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:<\/span>",
-      "plainText" : "His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "24035",
+      "text": "<span class='woc'>His lord answered and said unto him, <span class='extra'>Thou</span> wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:</span>",
+      "plainText": "His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "24036",
-      "text" : "<span class='woc'>Thou oughtest therefore to have put my money to the exchangers, and <span class='extra'>then<\/span> at my coming I should have received mine own with usury.<\/span>",
-      "plainText" : "Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "24036",
+      "text": "<span class='woc'>Thou oughtest therefore to have put my money to the exchangers, and <span class='extra'>then</span> at my coming I should have received mine own with usury.</span>",
+      "plainText": "Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "24037",
-      "text" : "<span class='woc'>Take therefore the talent from him, and give <span class='extra'>it<\/span> unto him which hath ten talents.<\/span>",
-      "plainText" : "Take therefore the talent from him, and give it unto him which hath ten talents."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "24037",
+      "text": "<span class='woc'>Take therefore the talent from him, and give <span class='extra'>it</span> unto him which hath ten talents.</span>",
+      "plainText": "Take therefore the talent from him, and give it unto him which hath ten talents."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "24038",
-      "text" : "<span class='woc'>For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.<\/span>",
-      "plainText" : "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "24038",
+      "text": "<span class='woc'>For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.</span>",
+      "plainText": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "24039",
-      "text" : "<span class='woc'>And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth.<\/span>",
-      "plainText" : "And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "24039",
+      "text": "<span class='woc'>And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth.</span>",
+      "plainText": "And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "24040",
-      "text" : "<span class='woc'>When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:<\/span>",
-      "plainText" : "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:"
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "24040",
+      "text": "<span class='woc'>When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:</span>",
+      "plainText": "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:"
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "24041",
-      "text" : "<span class='woc'>And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth <span class='extra'>his<\/span> sheep from the goats:<\/span>",
-      "plainText" : "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "24041",
+      "text": "<span class='woc'>And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth <span class='extra'>his</span> sheep from the goats:</span>",
+      "plainText": "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "24042",
-      "text" : "<span class='woc'>And he shall set the sheep on his right hand, but the goats on the left.<\/span>",
-      "plainText" : "And he shall set the sheep on his right hand, but the goats on the left."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "24042",
+      "text": "<span class='woc'>And he shall set the sheep on his right hand, but the goats on the left.</span>",
+      "plainText": "And he shall set the sheep on his right hand, but the goats on the left."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "24043",
-      "text" : "<span class='woc'>Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:<\/span>",
-      "plainText" : "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:"
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "24043",
+      "text": "<span class='woc'>Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:</span>",
+      "plainText": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:"
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "24044",
-      "text" : "<span class='woc'>For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:<\/span>",
-      "plainText" : "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:"
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "24044",
+      "text": "<span class='woc'>For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:</span>",
+      "plainText": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:"
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "24045",
-      "text" : "<span class='woc'>Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.<\/span>",
-      "plainText" : "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "24045",
+      "text": "<span class='woc'>Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.</span>",
+      "plainText": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "24046",
-      "text" : "<span class='woc'>Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed <span class='extra'>thee<\/span>? or thirsty, and gave <span class='extra'>thee<\/span> drink?<\/span>",
-      "plainText" : "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?"
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "24046",
+      "text": "<span class='woc'>Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed <span class='extra'>thee</span>? or thirsty, and gave <span class='extra'>thee</span> drink?</span>",
+      "plainText": "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?"
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "24047",
-      "text" : "<span class='woc'>When saw we thee a stranger, and took <span class='extra'>thee<\/span> in? or naked, and clothed <span class='extra'>thee<\/span>?<\/span>",
-      "plainText" : "When saw we thee a stranger, and took thee in? or naked, and clothed thee?"
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "24047",
+      "text": "<span class='woc'>When saw we thee a stranger, and took <span class='extra'>thee</span> in? or naked, and clothed <span class='extra'>thee</span>?</span>",
+      "plainText": "When saw we thee a stranger, and took thee in? or naked, and clothed thee?"
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "24048",
-      "text" : "<span class='woc'>Or when saw we thee sick, or in prison, and came unto thee?<\/span>",
-      "plainText" : "Or when saw we thee sick, or in prison, and came unto thee?"
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "24048",
+      "text": "<span class='woc'>Or when saw we thee sick, or in prison, and came unto thee?</span>",
+      "plainText": "Or when saw we thee sick, or in prison, and came unto thee?"
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "24049",
-      "text" : "<span class='woc'>And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done <span class='extra'>it<\/span> unto one of the least of these my brethren, ye have done <span class='extra'>it<\/span> unto me.<\/span>",
-      "plainText" : "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "24049",
+      "text": "<span class='woc'>And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done <span class='extra'>it</span> unto one of the least of these my brethren, ye have done <span class='extra'>it</span> unto me.</span>",
+      "plainText": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "24050",
-      "text" : "<span class='woc'>Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:<\/span>",
-      "plainText" : "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:"
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "24050",
+      "text": "<span class='woc'>Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:</span>",
+      "plainText": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:"
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "24051",
-      "text" : "<span class='woc'>For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:<\/span>",
-      "plainText" : "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:"
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "24051",
+      "text": "<span class='woc'>For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:</span>",
+      "plainText": "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:"
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "24052",
-      "text" : "<span class='woc'>I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not.<\/span>",
-      "plainText" : "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "24052",
+      "text": "<span class='woc'>I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not.</span>",
+      "plainText": "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "24053",
-      "text" : "<span class='woc'>Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?<\/span>",
-      "plainText" : "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?"
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "24053",
+      "text": "<span class='woc'>Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?</span>",
+      "plainText": "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?"
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "24054",
-      "text" : "<span class='woc'>Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did <span class='extra'>it<\/span> not to one of the least of these, ye did <span class='extra'>it<\/span> not to me.<\/span>",
-      "plainText" : "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me."
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "24054",
+      "text": "<span class='woc'>Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did <span class='extra'>it</span> not to one of the least of these, ye did <span class='extra'>it</span> not to me.</span>",
+      "plainText": "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me."
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "24055",
-      "text" : "<span class='woc'>And these shall go away into everlasting punishment: but the righteous into life eternal.<\/span>",
-      "plainText" : "And these shall go away into everlasting punishment: but the righteous into life eternal."
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "24055",
+      "text": "<span class='woc'>And these shall go away into everlasting punishment: but the righteous into life eternal.</span>",
+      "plainText": "And these shall go away into everlasting punishment: but the righteous into life eternal."
     }
   ]
 }
-

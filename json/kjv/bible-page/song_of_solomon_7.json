@@ -1,145 +1,133 @@
 {
   "book": {
-    "number" : "22",
-    "filenamePrefix" : "song_of_solomon",
-    "bookPage" : "songofsolomon.html",
-    "title" : "Song of Solomon",
-    "chapterCount" : "8",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "isaiah_1.html",
-    "nextTitle" : "Isaiah",
-    "prevBook" : "ecclesiastes_1.html",
-    "prevTitle" : "Ecclesiastes"
+    "number": "22",
+    "filenamePrefix": "song_of_solomon",
+    "bookPage": "songofsolomon.html",
+    "title": "Song of Solomon",
+    "chapterCount": "8",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "isaiah_1.html",
+    "nextTitle": "Isaiah",
+    "prevBook": "ecclesiastes_1.html",
+    "prevTitle": "Ecclesiastes",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "7",
-    "verseCount" : "13",
-    "nextChapter" : "song_of_solomon_8.html",
-    "nextTitle" : "Song of Solomon 8",
-    "prevChapter" : "song_of_solomon_6.html",
-    "prevTitle" : "Song of Solomon 6",
-    "filename" : "song_of_solomon_7.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "7",
+    "verseCount": "13",
+    "nextChapter": "song_of_solomon_8.html",
+    "nextTitle": "Song of Solomon 8",
+    "prevChapter": "song_of_solomon_6.html",
+    "prevTitle": "Song of Solomon 6",
+    "filename": "song_of_solomon_7.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "17629",
-      "text" : "How beautiful are thy feet with shoes, O prince's daughter! the joints of thy thighs <span class='extra'>are<\/span> like jewels, the work of the hands of a cunning workman.",
-      "plainText" : "How beautiful are thy feet with shoes, O prince's daughter! the joints of thy thighs are like jewels, the work of the hands of a cunning workman."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "17629",
+      "text": "How beautiful are thy feet with shoes, O prince's daughter! the joints of thy thighs <span class='extra'>are</span> like jewels, the work of the hands of a cunning workman.",
+      "plainText": "How beautiful are thy feet with shoes, O prince's daughter! the joints of thy thighs are like jewels, the work of the hands of a cunning workman."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "17630",
-      "text" : "Thy navel <span class='extra'>is like<\/span> a round goblet, <span class='extra'>which<\/span> wanteth not liquor: thy belly <span class='extra'>is like<\/span> an heap of wheat set about with lilies.",
-      "plainText" : "Thy navel is like a round goblet, which wanteth not liquor: thy belly is like an heap of wheat set about with lilies."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "17630",
+      "text": "Thy navel <span class='extra'>is like</span> a round goblet, <span class='extra'>which</span> wanteth not liquor: thy belly <span class='extra'>is like</span> an heap of wheat set about with lilies.",
+      "plainText": "Thy navel is like a round goblet, which wanteth not liquor: thy belly is like an heap of wheat set about with lilies."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "17631",
-      "text" : "Thy two breasts <span class='extra'>are<\/span> like two young roes <span class='extra'>that are<\/span> twins.",
-      "plainText" : "Thy two breasts are like two young roes that are twins."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "17631",
+      "text": "Thy two breasts <span class='extra'>are</span> like two young roes <span class='extra'>that are</span> twins.",
+      "plainText": "Thy two breasts are like two young roes that are twins."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "17632",
-      "text" : "Thy neck <span class='extra'>is<\/span> as a tower of ivory; thine eyes <span class='extra'>like<\/span> the fishpools in Heshbon, by the gate of Bath-rabbim: thy nose <span class='extra'>is<\/span> as the tower of Lebanon which looketh toward Damascus.",
-      "plainText" : "Thy neck is as a tower of ivory; thine eyes like the fishpools in Heshbon, by the gate of Bath-rabbim: thy nose is as the tower of Lebanon which looketh toward Damascus."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "17632",
+      "text": "Thy neck <span class='extra'>is</span> as a tower of ivory; thine eyes <span class='extra'>like</span> the fishpools in Heshbon, by the gate of Bath-rabbim: thy nose <span class='extra'>is</span> as the tower of Lebanon which looketh toward Damascus.",
+      "plainText": "Thy neck is as a tower of ivory; thine eyes like the fishpools in Heshbon, by the gate of Bath-rabbim: thy nose is as the tower of Lebanon which looketh toward Damascus."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "17633",
-      "text" : "Thine head upon thee <span class='extra'>is<\/span> like Carmel, and the hair of thine head like purple; the king <span class='extra'>is<\/span> held in the galleries.",
-      "plainText" : "Thine head upon thee is like Carmel, and the hair of thine head like purple; the king is held in the galleries."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "17633",
+      "text": "Thine head upon thee <span class='extra'>is</span> like Carmel, and the hair of thine head like purple; the king <span class='extra'>is</span> held in the galleries.",
+      "plainText": "Thine head upon thee is like Carmel, and the hair of thine head like purple; the king is held in the galleries."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "17634",
-      "text" : "How fair and how pleasant art thou, O love, for delights!",
-      "plainText" : "How fair and how pleasant art thou, O love, for delights!"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "17634",
+      "text": "How fair and how pleasant art thou, O love, for delights!",
+      "plainText": "How fair and how pleasant art thou, O love, for delights!"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "17635",
-      "text" : "This thy stature is like to a palm tree, and thy breasts to clusters <span class='extra'>of grapes<\/span>.",
-      "plainText" : "This thy stature is like to a palm tree, and thy breasts to clusters of grapes."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "17635",
+      "text": "This thy stature is like to a palm tree, and thy breasts to clusters <span class='extra'>of grapes</span>.",
+      "plainText": "This thy stature is like to a palm tree, and thy breasts to clusters of grapes."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "17636",
-      "text" : "I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;",
-      "plainText" : "I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "17636",
+      "text": "I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;",
+      "plainText": "I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "17637",
-      "text" : "And the roof of thy mouth like the best wine for my beloved, that goeth <span class='extra'>down<\/span> sweetly, causing the lips of those that are asleep to speak.",
-      "plainText" : "And the roof of thy mouth like the best wine for my beloved, that goeth down sweetly, causing the lips of those that are asleep to speak."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "17637",
+      "text": "And the roof of thy mouth like the best wine for my beloved, that goeth <span class='extra'>down</span> sweetly, causing the lips of those that are asleep to speak.",
+      "plainText": "And the roof of thy mouth like the best wine for my beloved, that goeth down sweetly, causing the lips of those that are asleep to speak."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "17638",
-      "text" : "I <span class='extra'>am<\/span> my beloved's, and his desire <span class='extra'>is<\/span> toward me.",
-      "plainText" : "I am my beloved's, and his desire is toward me."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "17638",
+      "text": "I <span class='extra'>am</span> my beloved's, and his desire <span class='extra'>is</span> toward me.",
+      "plainText": "I am my beloved's, and his desire is toward me."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "17639",
-      "text" : "Come, my beloved, let us go forth into the field; let us lodge in the villages.",
-      "plainText" : "Come, my beloved, let us go forth into the field; let us lodge in the villages."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "17639",
+      "text": "Come, my beloved, let us go forth into the field; let us lodge in the villages.",
+      "plainText": "Come, my beloved, let us go forth into the field; let us lodge in the villages."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "17640",
-      "text" : "Let us get up early to the vineyards; let us see if the vine flourish, <span class='extra'>whether<\/span> the tender grape appear, <span class='extra'>and<\/span> the pomegranates bud forth: there will I give thee my loves.",
-      "plainText" : "Let us get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give thee my loves."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "17640",
+      "text": "Let us get up early to the vineyards; let us see if the vine flourish, <span class='extra'>whether</span> the tender grape appear, <span class='extra'>and</span> the pomegranates bud forth: there will I give thee my loves.",
+      "plainText": "Let us get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give thee my loves."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "17641",
-      "text" : "The mandrakes give a smell, and at our gates <span class='extra'>are<\/span> all manner of pleasant <span class='extra'>fruits<\/span>, new and old, <span class='extra'>which<\/span> I have laid up for thee, O my beloved.",
-      "plainText" : "The mandrakes give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for thee, O my beloved."
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "17641",
+      "text": "The mandrakes give a smell, and at our gates <span class='extra'>are</span> all manner of pleasant <span class='extra'>fruits</span>, new and old, <span class='extra'>which</span> I have laid up for thee, O my beloved.",
+      "plainText": "The mandrakes give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for thee, O my beloved."
     }
   ]
 }
-

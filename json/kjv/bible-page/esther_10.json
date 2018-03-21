@@ -1,55 +1,53 @@
 {
   "book": {
-    "number" : "17",
-    "filenamePrefix" : "esther",
-    "bookPage" : "esther.html",
-    "title" : "Esther",
-    "chapterCount" : "10",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "job_1.html",
-    "nextTitle" : "Job",
-    "prevBook" : "nehemiah_1.html",
-    "prevTitle" : "Nehemiah"
+    "number": "17",
+    "filenamePrefix": "esther",
+    "bookPage": "esther.html",
+    "title": "Esther",
+    "chapterCount": "10",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "job_1.html",
+    "nextTitle": "Job",
+    "prevBook": "nehemiah_1.html",
+    "prevTitle": "Nehemiah",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "10",
-    "verseCount" : "3",
-    "nextChapter" : "job_1.html",
-    "nextTitle" : "Job 1",
-    "prevChapter" : "esther_9.html",
-    "prevTitle" : "Esther 9",
-    "filename" : "esther_10.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "10",
+    "verseCount": "3",
+    "nextChapter": "job_1.html",
+    "nextTitle": "Job 1",
+    "prevChapter": "esther_9.html",
+    "prevTitle": "Esther 9",
+    "filename": "esther_10.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "12868",
-      "text" : "And the king Ahasuerus laid a tribute upon the land, and <span class='extra'>upon<\/span> the isles of the sea.",
-      "plainText" : "And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "12868",
+      "text": "And the king Ahasuerus laid a tribute upon the land, and <span class='extra'>upon</span> the isles of the sea.",
+      "plainText": "And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "12869",
-      "text" : "And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, <span class='extra'>are<\/span> they not written in the book of the chronicles of the kings of Media and Persia?",
-      "plainText" : "And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "12869",
+      "text": "And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, <span class='extra'>are</span> they not written in the book of the chronicles of the kings of Media and Persia?",
+      "plainText": "And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "12870",
-      "text" : "For Mordecai the Jew <span class='extra'>was<\/span> next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.",
-      "plainText" : "For Mordecai the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed."
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "12870",
+      "text": "For Mordecai the Jew <span class='extra'>was</span> next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.",
+      "plainText": "For Mordecai the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed."
     }
   ]
 }
-

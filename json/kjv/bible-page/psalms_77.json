@@ -1,216 +1,195 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "77",
-    "verseCount" : "20",
-    "nextChapter" : "psalms_78.html",
-    "nextTitle" : "Psalms 78",
-    "prevChapter" : "psalms_76.html",
-    "prevTitle" : "Psalms 76",
-    "filename" : "psalms_77.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "77",
+    "verseCount": "20",
+    "nextChapter": "psalms_78.html",
+    "nextTitle": "Psalms 78",
+    "prevChapter": "psalms_76.html",
+    "prevTitle": "Psalms 76",
+    "filename": "psalms_77.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "To the chief Musician, to Jeduthun, A Psalm of Asaph.",
-      "plainText" : "To the chief Musician, to Jeduthun, A Psalm of Asaph."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "To the chief Musician, to Jeduthun, A Psalm of Asaph.",
+      "plainText": "To the chief Musician, to Jeduthun, A Psalm of Asaph."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "15095",
-      "text" : "I cried unto God with my voice, <span class='extra'>even<\/span> unto God with my voice; and he gave ear unto me.",
-      "plainText" : "I cried unto God with my voice, even unto God with my voice; and he gave ear unto me."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "15095",
+      "text": "I cried unto God with my voice, <span class='extra'>even</span> unto God with my voice; and he gave ear unto me.",
+      "plainText": "I cried unto God with my voice, even unto God with my voice; and he gave ear unto me."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "15096",
-      "text" : "In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted.",
-      "plainText" : "In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "15096",
+      "text": "In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted.",
+      "plainText": "In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "15097",
-      "text" : "I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.",
-      "plainText" : "I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "15097",
+      "text": "I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.",
+      "plainText": "I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "15098",
-      "text" : "Thou holdest mine eyes waking: I am so troubled that I cannot speak.",
-      "plainText" : "Thou holdest mine eyes waking: I am so troubled that I cannot speak."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "15098",
+      "text": "Thou holdest mine eyes waking: I am so troubled that I cannot speak.",
+      "plainText": "Thou holdest mine eyes waking: I am so troubled that I cannot speak."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "15099",
-      "text" : "I have considered the days of old, the years of ancient times.",
-      "plainText" : "I have considered the days of old, the years of ancient times."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "15099",
+      "text": "I have considered the days of old, the years of ancient times.",
+      "plainText": "I have considered the days of old, the years of ancient times."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "15100",
-      "text" : "I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search.",
-      "plainText" : "I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "15100",
+      "text": "I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search.",
+      "plainText": "I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "15101",
-      "text" : "Will the Lord cast off for ever? and will he be favourable no more?",
-      "plainText" : "Will the Lord cast off for ever? and will he be favourable no more?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "15101",
+      "text": "Will the Lord cast off for ever? and will he be favourable no more?",
+      "plainText": "Will the Lord cast off for ever? and will he be favourable no more?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "15102",
-      "text" : "Is his mercy clean gone for ever? doth <span class='extra'>his<\/span> promise fail for evermore?",
-      "plainText" : "Is his mercy clean gone for ever? doth his promise fail for evermore?"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "15102",
+      "text": "Is his mercy clean gone for ever? doth <span class='extra'>his</span> promise fail for evermore?",
+      "plainText": "Is his mercy clean gone for ever? doth his promise fail for evermore?"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "15103",
-      "text" : "Hath God forgotten to be gracious? hath he in anger shut up his tender mercies? Selah.",
-      "plainText" : "Hath God forgotten to be gracious? hath he in anger shut up his tender mercies? Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "15103",
+      "text": "Hath God forgotten to be gracious? hath he in anger shut up his tender mercies? Selah.",
+      "plainText": "Hath God forgotten to be gracious? hath he in anger shut up his tender mercies? Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "15104",
-      "text" : "And I said, This <span class='extra'>is<\/span> my infirmity: <span class='extra'>but I will remember<\/span> the years of the right hand of the most High.",
-      "plainText" : "And I said, This is my infirmity: but I will remember the years of the right hand of the most High."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "15104",
+      "text": "And I said, This <span class='extra'>is</span> my infirmity: <span class='extra'>but I will remember</span> the years of the right hand of the most High.",
+      "plainText": "And I said, This is my infirmity: but I will remember the years of the right hand of the most High."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "15105",
-      "text" : "I will remember the works of the <span class='nog'>LORD<\/span>: surely I will remember thy wonders of old.",
-      "plainText" : "I will remember the works of the LORD: surely I will remember thy wonders of old."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "15105",
+      "text": "I will remember the works of the <span class='nog'>LORD</span>: surely I will remember thy wonders of old.",
+      "plainText": "I will remember the works of the LORD: surely I will remember thy wonders of old."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "15106",
-      "text" : "I will meditate also of all thy work, and talk of thy doings.",
-      "plainText" : "I will meditate also of all thy work, and talk of thy doings."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "15106",
+      "text": "I will meditate also of all thy work, and talk of thy doings.",
+      "plainText": "I will meditate also of all thy work, and talk of thy doings."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "15107",
-      "text" : "Thy way, O God, <span class='extra'>is<\/span> in the sanctuary: who <span class='extra'>is so<\/span> great a God as <span class='extra'>our<\/span> God?",
-      "plainText" : "Thy way, O God, is in the sanctuary: who is so great a God as our God?"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "15107",
+      "text": "Thy way, O God, <span class='extra'>is</span> in the sanctuary: who <span class='extra'>is so</span> great a God as <span class='extra'>our</span> God?",
+      "plainText": "Thy way, O God, is in the sanctuary: who is so great a God as our God?"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "15108",
-      "text" : "Thou <span class='extra'>art<\/span> the God that doest wonders: thou hast declared thy strength among the people.",
-      "plainText" : "Thou art the God that doest wonders: thou hast declared thy strength among the people."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "15108",
+      "text": "Thou <span class='extra'>art</span> the God that doest wonders: thou hast declared thy strength among the people.",
+      "plainText": "Thou art the God that doest wonders: thou hast declared thy strength among the people."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "15109",
-      "text" : "Thou hast with <span class='extra'>thine<\/span> arm redeemed thy people, the sons of Jacob and Joseph. Selah.",
-      "plainText" : "Thou hast with thine arm redeemed thy people, the sons of Jacob and Joseph. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "15109",
+      "text": "Thou hast with <span class='extra'>thine</span> arm redeemed thy people, the sons of Jacob and Joseph. Selah.",
+      "plainText": "Thou hast with thine arm redeemed thy people, the sons of Jacob and Joseph. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "15110",
-      "text" : "The waters saw thee, O God, the waters saw thee; they were afraid: the depths also were troubled.",
-      "plainText" : "The waters saw thee, O God, the waters saw thee; they were afraid: the depths also were troubled."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "15110",
+      "text": "The waters saw thee, O God, the waters saw thee; they were afraid: the depths also were troubled.",
+      "plainText": "The waters saw thee, O God, the waters saw thee; they were afraid: the depths also were troubled."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "15111",
-      "text" : "The clouds poured out water: the skies sent out a sound: thine arrows also went abroad.",
-      "plainText" : "The clouds poured out water: the skies sent out a sound: thine arrows also went abroad."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "15111",
+      "text": "The clouds poured out water: the skies sent out a sound: thine arrows also went abroad.",
+      "plainText": "The clouds poured out water: the skies sent out a sound: thine arrows also went abroad."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "15112",
-      "text" : "The voice of thy thunder <span class='extra'>was<\/span> in the heaven: the lightnings lightened the world: the earth trembled and shook.",
-      "plainText" : "The voice of thy thunder was in the heaven: the lightnings lightened the world: the earth trembled and shook."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "15112",
+      "text": "The voice of thy thunder <span class='extra'>was</span> in the heaven: the lightnings lightened the world: the earth trembled and shook.",
+      "plainText": "The voice of thy thunder was in the heaven: the lightnings lightened the world: the earth trembled and shook."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "15113",
-      "text" : "Thy way <span class='extra'>is<\/span> in the sea, and thy path in the great waters, and thy footsteps are not known.",
-      "plainText" : "Thy way is in the sea, and thy path in the great waters, and thy footsteps are not known."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "15113",
+      "text": "Thy way <span class='extra'>is</span> in the sea, and thy path in the great waters, and thy footsteps are not known.",
+      "plainText": "Thy way is in the sea, and thy path in the great waters, and thy footsteps are not known."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "15114",
-      "text" : "Thou leddest thy people like a flock by the hand of Moses and Aaron.",
-      "plainText" : "Thou leddest thy people like a flock by the hand of Moses and Aaron."
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "15114",
+      "text": "Thou leddest thy people like a flock by the hand of Moses and Aaron.",
+      "plainText": "Thou leddest thy people like a flock by the hand of Moses and Aaron."
     }
   ]
 }
-
-

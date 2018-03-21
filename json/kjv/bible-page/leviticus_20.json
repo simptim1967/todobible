@@ -1,272 +1,245 @@
 {
   "book": {
-    "number" : "3",
-    "filenamePrefix" : "leviticus",
-    "bookPage" : "leviticus.html",
-    "title" : "Leviticus",
-    "chapterCount" : "27",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "numbers_1.html",
-    "nextTitle" : "Numbers",
-    "prevBook" : "exodus_1.html",
-    "prevTitle" : "Exodus"
+    "number": "3",
+    "filenamePrefix": "leviticus",
+    "bookPage": "leviticus.html",
+    "title": "Leviticus",
+    "chapterCount": "27",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "numbers_1.html",
+    "nextTitle": "Numbers",
+    "prevBook": "exodus_1.html",
+    "prevTitle": "Exodus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "20",
-    "verseCount" : "27",
-    "nextChapter" : "leviticus_21.html",
-    "nextTitle" : "Leviticus 21",
-    "prevChapter" : "leviticus_19.html",
-    "prevTitle" : "Leviticus 19",
-    "filename" : "leviticus_20.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "20",
+    "verseCount": "27",
+    "nextChapter": "leviticus_21.html",
+    "nextTitle": "Leviticus 21",
+    "prevChapter": "leviticus_19.html",
+    "prevTitle": "Leviticus 19",
+    "filename": "leviticus_20.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "3320",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "3320",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "3321",
-      "text" : "Again, thou shalt say to the children of Israel, Whosoever <span class='extra'>he be<\/span> of the children of Israel, or of the strangers that sojourn in Israel, that giveth <span class='extra'>any<\/span> of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones.",
-      "plainText" : "Again, thou shalt say to the children of Israel, Whosoever he be of the children of Israel, or of the strangers that sojourn in Israel, that giveth any of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "3321",
+      "text": "Again, thou shalt say to the children of Israel, Whosoever <span class='extra'>he be</span> of the children of Israel, or of the strangers that sojourn in Israel, that giveth <span class='extra'>any</span> of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones.",
+      "plainText": "Again, thou shalt say to the children of Israel, Whosoever he be of the children of Israel, or of the strangers that sojourn in Israel, that giveth any of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "3322",
-      "text" : "And I will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name.",
-      "plainText" : "And I will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "3322",
+      "text": "And I will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name.",
+      "plainText": "And I will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "3323",
-      "text" : "And if the people of the land do any ways hide their eyes from the man, when he giveth of his seed unto Molech, and kill him not:",
-      "plainText" : "And if the people of the land do any ways hide their eyes from the man, when he giveth of his seed unto Molech, and kill him not:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "3323",
+      "text": "And if the people of the land do any ways hide their eyes from the man, when he giveth of his seed unto Molech, and kill him not:",
+      "plainText": "And if the people of the land do any ways hide their eyes from the man, when he giveth of his seed unto Molech, and kill him not:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "3324",
-      "text" : "Then I will set my face against that man, and against his family, and will cut him off, and all that go a whoring after him, to commit whoredom with Molech, from among their people.",
-      "plainText" : "Then I will set my face against that man, and against his family, and will cut him off, and all that go a whoring after him, to commit whoredom with Molech, from among their people."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "3324",
+      "text": "Then I will set my face against that man, and against his family, and will cut him off, and all that go a whoring after him, to commit whoredom with Molech, from among their people.",
+      "plainText": "Then I will set my face against that man, and against his family, and will cut him off, and all that go a whoring after him, to commit whoredom with Molech, from among their people."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "3325",
-      "text" : "And the soul that turneth after such as have familiar spirits, and after wizards, to go a whoring after them, I will even set my face against that soul, and will cut him off from among his people.",
-      "plainText" : "And the soul that turneth after such as have familiar spirits, and after wizards, to go a whoring after them, I will even set my face against that soul, and will cut him off from among his people."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "3325",
+      "text": "And the soul that turneth after such as have familiar spirits, and after wizards, to go a whoring after them, I will even set my face against that soul, and will cut him off from among his people.",
+      "plainText": "And the soul that turneth after such as have familiar spirits, and after wizards, to go a whoring after them, I will even set my face against that soul, and will cut him off from among his people."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "3326",
-      "text" : "Sanctify yourselves therefore, and be ye holy: for I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span> your God.",
-      "plainText" : "Sanctify yourselves therefore, and be ye holy: for I am the LORD your God."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "3326",
+      "text": "Sanctify yourselves therefore, and be ye holy: for I <span class='extra'>am</span> the <span class='nog'>LORD</span> your God.",
+      "plainText": "Sanctify yourselves therefore, and be ye holy: for I am the LORD your God."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "3327",
-      "text" : "And ye shall keep my statutes, and do them: I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span> which sanctify you.",
-      "plainText" : "And ye shall keep my statutes, and do them: I am the LORD which sanctify you."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "3327",
+      "text": "And ye shall keep my statutes, and do them: I <span class='extra'>am</span> the <span class='nog'>LORD</span> which sanctify you.",
+      "plainText": "And ye shall keep my statutes, and do them: I am the LORD which sanctify you."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "3328",
-      "text" : "For every one that curseth his father or his mother shall be surely put to death: he hath cursed his father or his mother; his blood <span class='extra'>shall be<\/span> upon him.",
-      "plainText" : "For every one that curseth his father or his mother shall be surely put to death: he hath cursed his father or his mother; his blood shall be upon him."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "3328",
+      "text": "For every one that curseth his father or his mother shall be surely put to death: he hath cursed his father or his mother; his blood <span class='extra'>shall be</span> upon him.",
+      "plainText": "For every one that curseth his father or his mother shall be surely put to death: he hath cursed his father or his mother; his blood shall be upon him."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "3329",
-      "text" : "And the man that committeth adultery with <span class='extra'>another<\/span> man's wife, <span class='extra'>even he<\/span> that committeth adultery with his neighbour's wife, the adulterer and the adulteress shall surely be put to death.",
-      "plainText" : "And the man that committeth adultery with another man's wife, even he that committeth adultery with his neighbour's wife, the adulterer and the adulteress shall surely be put to death."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "3329",
+      "text": "And the man that committeth adultery with <span class='extra'>another</span> man's wife, <span class='extra'>even he</span> that committeth adultery with his neighbour's wife, the adulterer and the adulteress shall surely be put to death.",
+      "plainText": "And the man that committeth adultery with another man's wife, even he that committeth adultery with his neighbour's wife, the adulterer and the adulteress shall surely be put to death."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "3330",
-      "text" : "And the man that lieth with his father's wife hath uncovered his father's nakedness: both of them shall surely be put to death; their blood <span class='extra'>shall be<\/span> upon them.",
-      "plainText" : "And the man that lieth with his father's wife hath uncovered his father's nakedness: both of them shall surely be put to death; their blood shall be upon them."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "3330",
+      "text": "And the man that lieth with his father's wife hath uncovered his father's nakedness: both of them shall surely be put to death; their blood <span class='extra'>shall be</span> upon them.",
+      "plainText": "And the man that lieth with his father's wife hath uncovered his father's nakedness: both of them shall surely be put to death; their blood shall be upon them."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "3331",
-      "text" : "And if a man lie with his daughter in law, both of them shall surely be put to death: they have wrought confusion; their blood <span class='extra'>shall be<\/span> upon them.",
-      "plainText" : "And if a man lie with his daughter in law, both of them shall surely be put to death: they have wrought confusion; their blood shall be upon them."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "3331",
+      "text": "And if a man lie with his daughter in law, both of them shall surely be put to death: they have wrought confusion; their blood <span class='extra'>shall be</span> upon them.",
+      "plainText": "And if a man lie with his daughter in law, both of them shall surely be put to death: they have wrought confusion; their blood shall be upon them."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "3332",
-      "text" : "If a man also lie with mankind, as he lieth with a woman, both of them have committed an abomination: they shall surely be put to death; their blood <span class='extra'>shall be<\/span> upon them.",
-      "plainText" : "If a man also lie with mankind, as he lieth with a woman, both of them have committed an abomination: they shall surely be put to death; their blood shall be upon them."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "3332",
+      "text": "If a man also lie with mankind, as he lieth with a woman, both of them have committed an abomination: they shall surely be put to death; their blood <span class='extra'>shall be</span> upon them.",
+      "plainText": "If a man also lie with mankind, as he lieth with a woman, both of them have committed an abomination: they shall surely be put to death; their blood shall be upon them."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "3333",
-      "text" : "And if a man take a wife and her mother, it <span class='extra'>is<\/span> wickedness: they shall be burnt with fire, both he and they; that there be no wickedness among you.",
-      "plainText" : "And if a man take a wife and her mother, it is wickedness: they shall be burnt with fire, both he and they; that there be no wickedness among you."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "3333",
+      "text": "And if a man take a wife and her mother, it <span class='extra'>is</span> wickedness: they shall be burnt with fire, both he and they; that there be no wickedness among you.",
+      "plainText": "And if a man take a wife and her mother, it is wickedness: they shall be burnt with fire, both he and they; that there be no wickedness among you."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "3334",
-      "text" : "And if a man lie with a beast, he shall surely be put to death: and ye shall slay the beast.",
-      "plainText" : "And if a man lie with a beast, he shall surely be put to death: and ye shall slay the beast."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "3334",
+      "text": "And if a man lie with a beast, he shall surely be put to death: and ye shall slay the beast.",
+      "plainText": "And if a man lie with a beast, he shall surely be put to death: and ye shall slay the beast."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "3335",
-      "text" : "And if a woman approach unto any beast, and lie down thereto, thou shalt kill the woman, and the beast: they shall surely be put to death; their blood <span class='extra'>shall be<\/span> upon them.",
-      "plainText" : "And if a woman approach unto any beast, and lie down thereto, thou shalt kill the woman, and the beast: they shall surely be put to death; their blood shall be upon them."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "3335",
+      "text": "And if a woman approach unto any beast, and lie down thereto, thou shalt kill the woman, and the beast: they shall surely be put to death; their blood <span class='extra'>shall be</span> upon them.",
+      "plainText": "And if a woman approach unto any beast, and lie down thereto, thou shalt kill the woman, and the beast: they shall surely be put to death; their blood shall be upon them."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "3336",
-      "text" : "And if a man shall take his sister, his father's daughter, or his mother's daughter, and see her nakedness, and she see his nakedness; it <span class='extra'>is<\/span> a wicked thing; and they shall be cut off in the sight of their people: he hath uncovered his sister's nakedness; he shall bear his iniquity.",
-      "plainText" : "And if a man shall take his sister, his father's daughter, or his mother's daughter, and see her nakedness, and she see his nakedness; it is a wicked thing; and they shall be cut off in the sight of their people: he hath uncovered his sister's nakedness; he shall bear his iniquity."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "3336",
+      "text": "And if a man shall take his sister, his father's daughter, or his mother's daughter, and see her nakedness, and she see his nakedness; it <span class='extra'>is</span> a wicked thing; and they shall be cut off in the sight of their people: he hath uncovered his sister's nakedness; he shall bear his iniquity.",
+      "plainText": "And if a man shall take his sister, his father's daughter, or his mother's daughter, and see her nakedness, and she see his nakedness; it is a wicked thing; and they shall be cut off in the sight of their people: he hath uncovered his sister's nakedness; he shall bear his iniquity."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "3337",
-      "text" : "And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he hath discovered her fountain, and she hath uncovered the fountain of her blood: and both of them shall be cut off from among their people.",
-      "plainText" : "And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he hath discovered her fountain, and she hath uncovered the fountain of her blood: and both of them shall be cut off from among their people."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "3337",
+      "text": "And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he hath discovered her fountain, and she hath uncovered the fountain of her blood: and both of them shall be cut off from among their people.",
+      "plainText": "And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he hath discovered her fountain, and she hath uncovered the fountain of her blood: and both of them shall be cut off from among their people."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "3338",
-      "text" : "And thou shalt not uncover the nakedness of thy mother's sister, nor of thy father's sister: for he uncovereth his near kin: they shall bear their iniquity.",
-      "plainText" : "And thou shalt not uncover the nakedness of thy mother's sister, nor of thy father's sister: for he uncovereth his near kin: they shall bear their iniquity."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "3338",
+      "text": "And thou shalt not uncover the nakedness of thy mother's sister, nor of thy father's sister: for he uncovereth his near kin: they shall bear their iniquity.",
+      "plainText": "And thou shalt not uncover the nakedness of thy mother's sister, nor of thy father's sister: for he uncovereth his near kin: they shall bear their iniquity."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "3339",
-      "text" : "And if a man shall lie with his uncle's wife, he hath uncovered his uncle's nakedness: they shall bear their sin; they shall die childless.",
-      "plainText" : "And if a man shall lie with his uncle's wife, he hath uncovered his uncle's nakedness: they shall bear their sin; they shall die childless."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "3339",
+      "text": "And if a man shall lie with his uncle's wife, he hath uncovered his uncle's nakedness: they shall bear their sin; they shall die childless.",
+      "plainText": "And if a man shall lie with his uncle's wife, he hath uncovered his uncle's nakedness: they shall bear their sin; they shall die childless."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "3340",
-      "text" : "And if a man shall take his brother's wife, it <span class='extra'>is<\/span> an unclean thing: he hath uncovered his brother's nakedness; they shall be childless.",
-      "plainText" : "And if a man shall take his brother's wife, it is an unclean thing: he hath uncovered his brother's nakedness; they shall be childless."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "3340",
+      "text": "And if a man shall take his brother's wife, it <span class='extra'>is</span> an unclean thing: he hath uncovered his brother's nakedness; they shall be childless.",
+      "plainText": "And if a man shall take his brother's wife, it is an unclean thing: he hath uncovered his brother's nakedness; they shall be childless."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "3341",
-      "text" : "Ye shall therefore keep all my statutes, and all my judgments, and do them: that the land, whither I bring you to dwell therein, spue you not out.",
-      "plainText" : "Ye shall therefore keep all my statutes, and all my judgments, and do them: that the land, whither I bring you to dwell therein, spue you not out."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "3341",
+      "text": "Ye shall therefore keep all my statutes, and all my judgments, and do them: that the land, whither I bring you to dwell therein, spue you not out.",
+      "plainText": "Ye shall therefore keep all my statutes, and all my judgments, and do them: that the land, whither I bring you to dwell therein, spue you not out."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "3342",
-      "text" : "And ye shall not walk in the manners of the nation, which I cast out before you: for they committed all these things, and therefore I abhorred them.",
-      "plainText" : "And ye shall not walk in the manners of the nation, which I cast out before you: for they committed all these things, and therefore I abhorred them."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "3342",
+      "text": "And ye shall not walk in the manners of the nation, which I cast out before you: for they committed all these things, and therefore I abhorred them.",
+      "plainText": "And ye shall not walk in the manners of the nation, which I cast out before you: for they committed all these things, and therefore I abhorred them."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "3343",
-      "text" : "But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey: I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span> your God, which have separated you from <span class='extra'>other<\/span> people.",
-      "plainText" : "But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey: I am the LORD your God, which have separated you from other people."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "3343",
+      "text": "But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey: I <span class='extra'>am</span> the <span class='nog'>LORD</span> your God, which have separated you from <span class='extra'>other</span> people.",
+      "plainText": "But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey: I am the LORD your God, which have separated you from other people."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "3344",
-      "text" : "Ye shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean: and ye shall not make your souls abominable by beast, or by fowl, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean.",
-      "plainText" : "Ye shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean: and ye shall not make your souls abominable by beast, or by fowl, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "3344",
+      "text": "Ye shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean: and ye shall not make your souls abominable by beast, or by fowl, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean.",
+      "plainText": "Ye shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean: and ye shall not make your souls abominable by beast, or by fowl, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "3345",
-      "text" : "And ye shall be holy unto me: for I the <span class='nog'>LORD<\/span> <span class='extra'>am<\/span> holy, and have severed you from <span class='extra'>other<\/span> people, that ye should be mine.",
-      "plainText" : "And ye shall be holy unto me: for I the LORD am holy, and have severed you from other people, that ye should be mine."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "3345",
+      "text": "And ye shall be holy unto me: for I the <span class='nog'>LORD</span> <span class='extra'>am</span> holy, and have severed you from <span class='extra'>other</span> people, that ye should be mine.",
+      "plainText": "And ye shall be holy unto me: for I the LORD am holy, and have severed you from other people, that ye should be mine."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "3346",
-      "text" : "A man also or woman that hath a familiar spirit, or that is a wizard, shall surely be put to death: they shall stone them with stones: their blood <span class='extra'>shall be<\/span> upon them.",
-      "plainText" : "A man also or woman that hath a familiar spirit, or that is a wizard, shall surely be put to death: they shall stone them with stones: their blood shall be upon them."
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "3346",
+      "text": "A man also or woman that hath a familiar spirit, or that is a wizard, shall surely be put to death: they shall stone them with stones: their blood <span class='extra'>shall be</span> upon them.",
+      "plainText": "A man also or woman that hath a familiar spirit, or that is a wizard, shall surely be put to death: they shall stone them with stones: their blood shall be upon them."
     }
   ]
 }
-
-

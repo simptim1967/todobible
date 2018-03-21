@@ -1,254 +1,229 @@
 {
   "book": {
-    "number" : "10",
-    "filenamePrefix" : "2samuel",
-    "bookPage" : "2samuel.html",
-    "title" : "2 Samuel",
-    "chapterCount" : "24",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "1kings_1.html",
-    "nextTitle" : "1 Kings",
-    "prevBook" : "1samuel_1.html",
-    "prevTitle" : "1 Samuel"
+    "number": "10",
+    "filenamePrefix": "2samuel",
+    "bookPage": "2samuel.html",
+    "title": "2 Samuel",
+    "chapterCount": "24",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "1kings_1.html",
+    "nextTitle": "1 Kings",
+    "prevBook": "1samuel_1.html",
+    "prevTitle": "1 Samuel",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "5",
-    "verseCount" : "25",
-    "nextChapter" : "2samuel_6.html",
-    "nextTitle" : "2 Samuel 6",
-    "prevChapter" : "2samuel_4.html",
-    "prevTitle" : "2 Samuel 4",
-    "filename" : "2samuel_5.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "5",
+    "verseCount": "25",
+    "nextChapter": "2samuel_6.html",
+    "nextTitle": "2 Samuel 6",
+    "prevChapter": "2samuel_4.html",
+    "prevTitle": "2 Samuel 4",
+    "filename": "2samuel_5.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "8134",
-      "text" : "Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we <span class='extra'>are<\/span> thy bone and thy flesh.",
-      "plainText" : "Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "8134",
+      "text": "Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we <span class='extra'>are</span> thy bone and thy flesh.",
+      "plainText": "Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "8135",
-      "text" : "Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the <span class='nog'>LORD<\/span> said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel.",
-      "plainText" : "Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the LORD said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "8135",
+      "text": "Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the <span class='nog'>LORD</span> said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel.",
+      "plainText": "Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the LORD said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "8136",
-      "text" : "So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the <span class='nog'>LORD<\/span>: and they anointed David king over Israel.",
-      "plainText" : "So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the LORD: and they anointed David king over Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "8136",
+      "text": "So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the <span class='nog'>LORD</span>: and they anointed David king over Israel.",
+      "plainText": "So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the LORD: and they anointed David king over Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "8137",
-      "text" : "David <span class='extra'>was<\/span> thirty years old when he began to reign, <span class='extra'>and<\/span> he reigned forty years.",
-      "plainText" : "David was thirty years old when he began to reign, and he reigned forty years."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "8137",
+      "text": "David <span class='extra'>was</span> thirty years old when he began to reign, <span class='extra'>and</span> he reigned forty years.",
+      "plainText": "David was thirty years old when he began to reign, and he reigned forty years."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "8138",
-      "text" : "In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah.",
-      "plainText" : "In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "8138",
+      "text": "In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah.",
+      "plainText": "In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "8139",
-      "text" : "And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither.",
-      "plainText" : "And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "8139",
+      "text": "And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither.",
+      "plainText": "And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "8140",
-      "text" : "Nevertheless David took the strong hold of Zion: the same <span class='extra'>is<\/span> the city of David.",
-      "plainText" : "Nevertheless David took the strong hold of Zion: the same is the city of David."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "8140",
+      "text": "Nevertheless David took the strong hold of Zion: the same <span class='extra'>is</span> the city of David.",
+      "plainText": "Nevertheless David took the strong hold of Zion: the same is the city of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "8141",
-      "text" : "And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, <span class='extra'>that are<\/span> hated of David's soul, <span class='extra'>he shall be chief and captain<\/span>. Wherefore they said, The blind and the lame shall not come into the house.",
-      "plainText" : "And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, that are hated of David's soul, he shall be chief and captain. Wherefore they said, The blind and the lame shall not come into the house."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "8141",
+      "text": "And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, <span class='extra'>that are</span> hated of David's soul, <span class='extra'>he shall be chief and captain</span>. Wherefore they said, The blind and the lame shall not come into the house.",
+      "plainText": "And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, that are hated of David's soul, he shall be chief and captain. Wherefore they said, The blind and the lame shall not come into the house."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "8142",
-      "text" : "So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward.",
-      "plainText" : "So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "8142",
+      "text": "So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward.",
+      "plainText": "So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "8143",
-      "text" : "And David went on, and grew great, and the <span class='nog'>LORD<\/span> God of hosts <span class='extra'>was<\/span> with him.",
-      "plainText" : "And David went on, and grew great, and the LORD God of hosts was with him."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "8143",
+      "text": "And David went on, and grew great, and the <span class='nog'>LORD</span> God of hosts <span class='extra'>was</span> with him.",
+      "plainText": "And David went on, and grew great, and the LORD God of hosts was with him."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "8144",
-      "text" : "And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons: and they built David an house.",
-      "plainText" : "And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons: and they built David an house."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "8144",
+      "text": "And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons: and they built David an house.",
+      "plainText": "And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons: and they built David an house."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "8145",
-      "text" : "And David perceived that the <span class='nog'>LORD<\/span> had established him king over Israel, and that he had exalted his kingdom for his people Israel's sake.",
-      "plainText" : "And David perceived that the LORD had established him king over Israel, and that he had exalted his kingdom for his people Israel's sake."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "8145",
+      "text": "And David perceived that the <span class='nog'>LORD</span> had established him king over Israel, and that he had exalted his kingdom for his people Israel's sake.",
+      "plainText": "And David perceived that the LORD had established him king over Israel, and that he had exalted his kingdom for his people Israel's sake."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "8146",
-      "text" : "And David took <span class='extra'>him<\/span> more concubines and wives out of Jerusalem, after he was come from Hebron: and there were yet sons and daughters born to David.",
-      "plainText" : "And David took him more concubines and wives out of Jerusalem, after he was come from Hebron: and there were yet sons and daughters born to David."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "8146",
+      "text": "And David took <span class='extra'>him</span> more concubines and wives out of Jerusalem, after he was come from Hebron: and there were yet sons and daughters born to David.",
+      "plainText": "And David took him more concubines and wives out of Jerusalem, after he was come from Hebron: and there were yet sons and daughters born to David."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "8147",
-      "text" : "And these <span class='extra'>be<\/span> the names of those that were born unto him in Jerusalem; Shammua, and Shobab, and Nathan, and Solomon,",
-      "plainText" : "And these be the names of those that were born unto him in Jerusalem; Shammua, and Shobab, and Nathan, and Solomon,"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "8147",
+      "text": "And these <span class='extra'>be</span> the names of those that were born unto him in Jerusalem; Shammua, and Shobab, and Nathan, and Solomon,",
+      "plainText": "And these be the names of those that were born unto him in Jerusalem; Shammua, and Shobab, and Nathan, and Solomon,"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "8148",
-      "text" : "Ibhar also, and Elishua, and Nepheg, and Japhia,",
-      "plainText" : "Ibhar also, and Elishua, and Nepheg, and Japhia,"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "8148",
+      "text": "Ibhar also, and Elishua, and Nepheg, and Japhia,",
+      "plainText": "Ibhar also, and Elishua, and Nepheg, and Japhia,"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "8149",
-      "text" : "And Elishama, and Eliada, and Eliphalet.",
-      "plainText" : "And Elishama, and Eliada, and Eliphalet."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "8149",
+      "text": "And Elishama, and Eliada, and Eliphalet.",
+      "plainText": "And Elishama, and Eliada, and Eliphalet."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "8150",
-      "text" : "But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard <span class='extra'>of it<\/span>, and went down to the hold.",
-      "plainText" : "But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard of it, and went down to the hold."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "8150",
+      "text": "But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard <span class='extra'>of it</span>, and went down to the hold.",
+      "plainText": "But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard of it, and went down to the hold."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "8151",
-      "text" : "The Philistines also came and spread themselves in the valley of Rephaim.",
-      "plainText" : "The Philistines also came and spread themselves in the valley of Rephaim."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "8151",
+      "text": "The Philistines also came and spread themselves in the valley of Rephaim.",
+      "plainText": "The Philistines also came and spread themselves in the valley of Rephaim."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "8152",
-      "text" : "And David enquired of the <span class='nog'>LORD<\/span>, saying, Shall I go up to the Philistines? wilt thou deliver them into mine hand? And the <span class='nog'>LORD<\/span> said unto David, Go up: for I will doubtless deliver the Philistines into thine hand.",
-      "plainText" : "And David enquired of the LORD, saying, Shall I go up to the Philistines? wilt thou deliver them into mine hand? And the LORD said unto David, Go up: for I will doubtless deliver the Philistines into thine hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "8152",
+      "text": "And David enquired of the <span class='nog'>LORD</span>, saying, Shall I go up to the Philistines? wilt thou deliver them into mine hand? And the <span class='nog'>LORD</span> said unto David, Go up: for I will doubtless deliver the Philistines into thine hand.",
+      "plainText": "And David enquired of the LORD, saying, Shall I go up to the Philistines? wilt thou deliver them into mine hand? And the LORD said unto David, Go up: for I will doubtless deliver the Philistines into thine hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "8153",
-      "text" : "And David came to Baal-perazim, and David smote them there, and said, The <span class='nog'>LORD<\/span> hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baal-perazim.",
-      "plainText" : "And David came to Baal-perazim, and David smote them there, and said, The LORD hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baal-perazim."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "8153",
+      "text": "And David came to Baal-perazim, and David smote them there, and said, The <span class='nog'>LORD</span> hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baal-perazim.",
+      "plainText": "And David came to Baal-perazim, and David smote them there, and said, The LORD hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baal-perazim."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "8154",
-      "text" : "And there they left their images, and David and his men burned them.",
-      "plainText" : "And there they left their images, and David and his men burned them."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "8154",
+      "text": "And there they left their images, and David and his men burned them.",
+      "plainText": "And there they left their images, and David and his men burned them."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "8155",
-      "text" : "And the Philistines came up yet again, and spread themselves in the valley of Rephaim.",
-      "plainText" : "And the Philistines came up yet again, and spread themselves in the valley of Rephaim."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "8155",
+      "text": "And the Philistines came up yet again, and spread themselves in the valley of Rephaim.",
+      "plainText": "And the Philistines came up yet again, and spread themselves in the valley of Rephaim."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "8156",
-      "text" : "And when David enquired of the <span class='nog'>LORD<\/span>, he said, Thou shalt not go up; <span class='extra'>but<\/span> fetch a compass behind them, and come upon them over against the mulberry trees.",
-      "plainText" : "And when David enquired of the LORD, he said, Thou shalt not go up; but fetch a compass behind them, and come upon them over against the mulberry trees."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "8156",
+      "text": "And when David enquired of the <span class='nog'>LORD</span>, he said, Thou shalt not go up; <span class='extra'>but</span> fetch a compass behind them, and come upon them over against the mulberry trees.",
+      "plainText": "And when David enquired of the LORD, he said, Thou shalt not go up; but fetch a compass behind them, and come upon them over against the mulberry trees."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "8157",
-      "text" : "And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the <span class='nog'>LORD<\/span> go out before thee, to smite the host of the Philistines.",
-      "plainText" : "And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the LORD go out before thee, to smite the host of the Philistines."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "8157",
+      "text": "And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the <span class='nog'>LORD</span> go out before thee, to smite the host of the Philistines.",
+      "plainText": "And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the LORD go out before thee, to smite the host of the Philistines."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "8158",
-      "text" : "And David did so, as the <span class='nog'>LORD<\/span> had commanded him; and smote the Philistines from Geba until thou come to Gazer.",
-      "plainText" : "And David did so, as the LORD had commanded him; and smote the Philistines from Geba until thou come to Gazer."
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "8158",
+      "text": "And David did so, as the <span class='nog'>LORD</span> had commanded him; and smote the Philistines from Geba until thou come to Gazer.",
+      "plainText": "And David did so, as the LORD had commanded him; and smote the Philistines from Geba until thou come to Gazer."
     }
   ]
 }
-
-

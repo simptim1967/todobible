@@ -1,180 +1,163 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "81",
-    "verseCount" : "16",
-    "nextChapter" : "psalms_82.html",
-    "nextTitle" : "Psalms 82",
-    "prevChapter" : "psalms_80.html",
-    "prevTitle" : "Psalms 80",
-    "filename" : "psalms_81.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "81",
+    "verseCount": "16",
+    "nextChapter": "psalms_82.html",
+    "nextTitle": "Psalms 82",
+    "prevChapter": "psalms_80.html",
+    "prevTitle": "Psalms 80",
+    "filename": "psalms_81.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "To the chief Musician upon Gittith, <span class='extra'>A Psalm<\/span> of Asaph.",
-      "plainText" : "To the chief Musician upon Gittith, A Psalm of Asaph."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "To the chief Musician upon Gittith, <span class='extra'>A Psalm</span> of Asaph.",
+      "plainText": "To the chief Musician upon Gittith, A Psalm of Asaph."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "15219",
-      "text" : "Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.",
-      "plainText" : "Sing aloud unto God our strength: make a joyful noise unto the God of Jacob."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "15219",
+      "text": "Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.",
+      "plainText": "Sing aloud unto God our strength: make a joyful noise unto the God of Jacob."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "15220",
-      "text" : "Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.",
-      "plainText" : "Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "15220",
+      "text": "Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.",
+      "plainText": "Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "15221",
-      "text" : "Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day.",
-      "plainText" : "Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "15221",
+      "text": "Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day.",
+      "plainText": "Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "15222",
-      "text" : "For this <span class='extra'>was<\/span> a statute for Israel, <span class='extra'>and<\/span> a law of the God of Jacob.",
-      "plainText" : "For this was a statute for Israel, and a law of the God of Jacob."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "15222",
+      "text": "For this <span class='extra'>was</span> a statute for Israel, <span class='extra'>and</span> a law of the God of Jacob.",
+      "plainText": "For this was a statute for Israel, and a law of the God of Jacob."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "15223",
-      "text" : "This he ordained in Joseph <span class='extra'>for<\/span> a testimony, when he went out through the land of Egypt: <span class='extra'>where<\/span> I heard a language <span class='extra'>that<\/span> I understood not.",
-      "plainText" : "This he ordained in Joseph for a testimony, when he went out through the land of Egypt: where I heard a language that I understood not."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "15223",
+      "text": "This he ordained in Joseph <span class='extra'>for</span> a testimony, when he went out through the land of Egypt: <span class='extra'>where</span> I heard a language <span class='extra'>that</span> I understood not.",
+      "plainText": "This he ordained in Joseph for a testimony, when he went out through the land of Egypt: where I heard a language that I understood not."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "15224",
-      "text" : "I removed his shoulder from the burden: his hands were delivered from the pots.",
-      "plainText" : "I removed his shoulder from the burden: his hands were delivered from the pots."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "15224",
+      "text": "I removed his shoulder from the burden: his hands were delivered from the pots.",
+      "plainText": "I removed his shoulder from the burden: his hands were delivered from the pots."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "15225",
-      "text" : "Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah.",
-      "plainText" : "Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "15225",
+      "text": "Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah.",
+      "plainText": "Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "15226",
-      "text" : "Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;",
-      "plainText" : "Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "15226",
+      "text": "Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;",
+      "plainText": "Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "15227",
-      "text" : "There shall no strange god be in thee; neither shalt thou worship any strange god.",
-      "plainText" : "There shall no strange god be in thee; neither shalt thou worship any strange god."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "15227",
+      "text": "There shall no strange god be in thee; neither shalt thou worship any strange god.",
+      "plainText": "There shall no strange god be in thee; neither shalt thou worship any strange god."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "15228",
-      "text" : "I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span> thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.",
-      "plainText" : "I am the LORD thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "15228",
+      "text": "I <span class='extra'>am</span> the <span class='nog'>LORD</span> thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.",
+      "plainText": "I am the LORD thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "15229",
-      "text" : "But my people would not hearken to my voice; and Israel would none of me.",
-      "plainText" : "But my people would not hearken to my voice; and Israel would none of me."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "15229",
+      "text": "But my people would not hearken to my voice; and Israel would none of me.",
+      "plainText": "But my people would not hearken to my voice; and Israel would none of me."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "15230",
-      "text" : "So I gave them up unto their own hearts' lust: <span class='extra'>and<\/span> they walked in their own counsels.",
-      "plainText" : "So I gave them up unto their own hearts' lust: and they walked in their own counsels."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "15230",
+      "text": "So I gave them up unto their own hearts' lust: <span class='extra'>and</span> they walked in their own counsels.",
+      "plainText": "So I gave them up unto their own hearts' lust: and they walked in their own counsels."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "15231",
-      "text" : "Oh that my people had hearkened unto me, <span class='extra'>and<\/span> Israel had walked in my ways!",
-      "plainText" : "Oh that my people had hearkened unto me, and Israel had walked in my ways!"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "15231",
+      "text": "Oh that my people had hearkened unto me, <span class='extra'>and</span> Israel had walked in my ways!",
+      "plainText": "Oh that my people had hearkened unto me, and Israel had walked in my ways!"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "15232",
-      "text" : "I should soon have subdued their enemies, and turned my hand against their adversaries.",
-      "plainText" : "I should soon have subdued their enemies, and turned my hand against their adversaries."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "15232",
+      "text": "I should soon have subdued their enemies, and turned my hand against their adversaries.",
+      "plainText": "I should soon have subdued their enemies, and turned my hand against their adversaries."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "15233",
-      "text" : "The haters of the <span class='nog'>LORD<\/span> should have submitted themselves unto him: but their time should have endured for ever.",
-      "plainText" : "The haters of the LORD should have submitted themselves unto him: but their time should have endured for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "15233",
+      "text": "The haters of the <span class='nog'>LORD</span> should have submitted themselves unto him: but their time should have endured for ever.",
+      "plainText": "The haters of the LORD should have submitted themselves unto him: but their time should have endured for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "15234",
-      "text" : "He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee.",
-      "plainText" : "He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee."
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "15234",
+      "text": "He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee.",
+      "plainText": "He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee."
     }
   ]
 }
-
-

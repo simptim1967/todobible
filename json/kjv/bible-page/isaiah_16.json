@@ -1,155 +1,141 @@
 {
   "book": {
-    "number" : "23",
-    "filenamePrefix" : "isaiah",
-    "bookPage" : "isaiah.html",
-    "title" : "Isaiah",
-    "chapterCount" : "66",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "jeremiah_1.html",
-    "nextTitle" : "Jeremiah",
-    "prevBook" : "song_of_solomon_1.html",
-    "prevTitle" : "Song of Solomon"
+    "number": "23",
+    "filenamePrefix": "isaiah",
+    "bookPage": "isaiah.html",
+    "title": "Isaiah",
+    "chapterCount": "66",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "jeremiah_1.html",
+    "nextTitle": "Jeremiah",
+    "prevBook": "song_of_solomon_1.html",
+    "prevTitle": "Song of Solomon",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "16",
-    "verseCount" : "14",
-    "nextChapter" : "isaiah_17.html",
-    "nextTitle" : "Isaiah 17",
-    "prevChapter" : "isaiah_15.html",
-    "prevTitle" : "Isaiah 15",
-    "filename" : "isaiah_16.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "16",
+    "verseCount": "14",
+    "nextChapter": "isaiah_17.html",
+    "nextTitle": "Isaiah 17",
+    "prevChapter": "isaiah_15.html",
+    "prevTitle": "Isaiah 15",
+    "filename": "isaiah_16.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "17971",
-      "text" : "Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion.",
-      "plainText" : "Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "17971",
+      "text": "Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion.",
+      "plainText": "Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "17972",
-      "text" : "For it shall be, <span class='extra'>that<\/span>, as a wandering bird cast out of the nest, <span class='extra'>so<\/span> the daughters of Moab shall be at the fords of Arnon.",
-      "plainText" : "For it shall be, that, as a wandering bird cast out of the nest, so the daughters of Moab shall be at the fords of Arnon."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "17972",
+      "text": "For it shall be, <span class='extra'>that</span>, as a wandering bird cast out of the nest, <span class='extra'>so</span> the daughters of Moab shall be at the fords of Arnon.",
+      "plainText": "For it shall be, that, as a wandering bird cast out of the nest, so the daughters of Moab shall be at the fords of Arnon."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "17973",
-      "text" : "Take counsel, execute judgment; make thy shadow as the night in the midst of the noonday; hide the outcasts; bewray not him that wandereth.",
-      "plainText" : "Take counsel, execute judgment; make thy shadow as the night in the midst of the noonday; hide the outcasts; bewray not him that wandereth."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "17973",
+      "text": "Take counsel, execute judgment; make thy shadow as the night in the midst of the noonday; hide the outcasts; bewray not him that wandereth.",
+      "plainText": "Take counsel, execute judgment; make thy shadow as the night in the midst of the noonday; hide the outcasts; bewray not him that wandereth."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "17974",
-      "text" : "Let mine outcasts dwell with thee, Moab; be thou a covert to them from the face of the spoiler: for the extortioner is at an end, the spoiler ceaseth, the oppressors are consumed out of the land.",
-      "plainText" : "Let mine outcasts dwell with thee, Moab; be thou a covert to them from the face of the spoiler: for the extortioner is at an end, the spoiler ceaseth, the oppressors are consumed out of the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "17974",
+      "text": "Let mine outcasts dwell with thee, Moab; be thou a covert to them from the face of the spoiler: for the extortioner is at an end, the spoiler ceaseth, the oppressors are consumed out of the land.",
+      "plainText": "Let mine outcasts dwell with thee, Moab; be thou a covert to them from the face of the spoiler: for the extortioner is at an end, the spoiler ceaseth, the oppressors are consumed out of the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "17975",
-      "text" : "And in mercy shall the throne be established: and he shall sit upon it in truth in the tabernacle of David, judging, and seeking judgment, and hasting righteousness.",
-      "plainText" : "And in mercy shall the throne be established: and he shall sit upon it in truth in the tabernacle of David, judging, and seeking judgment, and hasting righteousness."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "17975",
+      "text": "And in mercy shall the throne be established: and he shall sit upon it in truth in the tabernacle of David, judging, and seeking judgment, and hasting righteousness.",
+      "plainText": "And in mercy shall the throne be established: and he shall sit upon it in truth in the tabernacle of David, judging, and seeking judgment, and hasting righteousness."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "17976",
-      "text" : "We have heard of the pride of Moab; <span class='extra'>he is<\/span> very proud: <span class='extra'>even<\/span> of his haughtiness, and his pride, and his wrath: <span class='extra'>but<\/span> his lies <span class='extra'>shall<\/span> not <span class='extra'>be<\/span> so.",
-      "plainText" : "We have heard of the pride of Moab; he is very proud: even of his haughtiness, and his pride, and his wrath: but his lies shall not be so."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "17976",
+      "text": "We have heard of the pride of Moab; <span class='extra'>he is</span> very proud: <span class='extra'>even</span> of his haughtiness, and his pride, and his wrath: <span class='extra'>but</span> his lies <span class='extra'>shall</span> not <span class='extra'>be</span> so.",
+      "plainText": "We have heard of the pride of Moab; he is very proud: even of his haughtiness, and his pride, and his wrath: but his lies shall not be so."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "17977",
-      "text" : "Therefore shall Moab howl for Moab, every one shall howl: for the foundations of Kir-hareseth shall ye mourn; surely <span class='extra'>they are<\/span> stricken.",
-      "plainText" : "Therefore shall Moab howl for Moab, every one shall howl: for the foundations of Kir-hareseth shall ye mourn; surely they are stricken."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "17977",
+      "text": "Therefore shall Moab howl for Moab, every one shall howl: for the foundations of Kir-hareseth shall ye mourn; surely <span class='extra'>they are</span> stricken.",
+      "plainText": "Therefore shall Moab howl for Moab, every one shall howl: for the foundations of Kir-hareseth shall ye mourn; surely they are stricken."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "17978",
-      "text" : "For the fields of Heshbon languish, <span class='extra'>and<\/span> the vine of Sibmah: the lords of the heathen have broken down the principal plants thereof, they are come <span class='extra'>even<\/span> unto Jazer, they wandered <span class='extra'>through<\/span> the wilderness: her branches are stretched out, they are gone over the sea.",
-      "plainText" : "For the fields of Heshbon languish, and the vine of Sibmah: the lords of the heathen have broken down the principal plants thereof, they are come even unto Jazer, they wandered through the wilderness: her branches are stretched out, they are gone over the sea."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "17978",
+      "text": "For the fields of Heshbon languish, <span class='extra'>and</span> the vine of Sibmah: the lords of the heathen have broken down the principal plants thereof, they are come <span class='extra'>even</span> unto Jazer, they wandered <span class='extra'>through</span> the wilderness: her branches are stretched out, they are gone over the sea.",
+      "plainText": "For the fields of Heshbon languish, and the vine of Sibmah: the lords of the heathen have broken down the principal plants thereof, they are come even unto Jazer, they wandered through the wilderness: her branches are stretched out, they are gone over the sea."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "17979",
-      "text" : "Therefore I will bewail with the weeping of Jazer the vine of Sibmah: I will water thee with my tears, O Heshbon, and Elealeh: for the shouting for thy summer fruits and for thy harvest is fallen.",
-      "plainText" : "Therefore I will bewail with the weeping of Jazer the vine of Sibmah: I will water thee with my tears, O Heshbon, and Elealeh: for the shouting for thy summer fruits and for thy harvest is fallen."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "17979",
+      "text": "Therefore I will bewail with the weeping of Jazer the vine of Sibmah: I will water thee with my tears, O Heshbon, and Elealeh: for the shouting for thy summer fruits and for thy harvest is fallen.",
+      "plainText": "Therefore I will bewail with the weeping of Jazer the vine of Sibmah: I will water thee with my tears, O Heshbon, and Elealeh: for the shouting for thy summer fruits and for thy harvest is fallen."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "17980",
-      "text" : "And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the treaders shall tread out no wine in <span class='extra'>their<\/span> presses; I have made <span class='extra'>their vintage<\/span> shouting to cease.",
-      "plainText" : "And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the treaders shall tread out no wine in their presses; I have made their vintage shouting to cease."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "17980",
+      "text": "And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the treaders shall tread out no wine in <span class='extra'>their</span> presses; I have made <span class='extra'>their vintage</span> shouting to cease.",
+      "plainText": "And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the treaders shall tread out no wine in their presses; I have made their vintage shouting to cease."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "17981",
-      "text" : "Wherefore my bowels shall sound like an harp for Moab, and mine inward parts for Kir-haresh.",
-      "plainText" : "Wherefore my bowels shall sound like an harp for Moab, and mine inward parts for Kir-haresh."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "17981",
+      "text": "Wherefore my bowels shall sound like an harp for Moab, and mine inward parts for Kir-haresh.",
+      "plainText": "Wherefore my bowels shall sound like an harp for Moab, and mine inward parts for Kir-haresh."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "17982",
-      "text" : "And it shall come to pass, when it is seen that Moab is weary on the high place, that he shall come to his sanctuary to pray; but he shall not prevail.",
-      "plainText" : "And it shall come to pass, when it is seen that Moab is weary on the high place, that he shall come to his sanctuary to pray; but he shall not prevail."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "17982",
+      "text": "And it shall come to pass, when it is seen that Moab is weary on the high place, that he shall come to his sanctuary to pray; but he shall not prevail.",
+      "plainText": "And it shall come to pass, when it is seen that Moab is weary on the high place, that he shall come to his sanctuary to pray; but he shall not prevail."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "17983",
-      "text" : "This <span class='extra'>is<\/span> the word that the <span class='nog'>LORD<\/span> hath spoken concerning Moab since that time.",
-      "plainText" : "This is the word that the LORD hath spoken concerning Moab since that time."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "17983",
+      "text": "This <span class='extra'>is</span> the word that the <span class='nog'>LORD</span> hath spoken concerning Moab since that time.",
+      "plainText": "This is the word that the LORD hath spoken concerning Moab since that time."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "17984",
-      "text" : "But now the <span class='nog'>LORD<\/span> hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant <span class='extra'>shall be<\/span> very small <span class='extra'>and<\/span> feeble.",
-      "plainText" : "But now the LORD hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant shall be very small and feeble."
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "17984",
+      "text": "But now the <span class='nog'>LORD</span> hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant <span class='extra'>shall be</span> very small <span class='extra'>and</span> feeble.",
+      "plainText": "But now the LORD hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant shall be very small and feeble."
     }
   ]
 }
-
-

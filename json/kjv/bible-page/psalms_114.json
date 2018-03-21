@@ -1,100 +1,93 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "114",
-    "verseCount" : "8",
-    "nextChapter" : "psalms_115.html",
-    "nextTitle" : "Psalms 115",
-    "prevChapter" : "psalms_113.html",
-    "prevTitle" : "Psalms 113",
-    "filename" : "psalms_114.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "114",
+    "verseCount": "8",
+    "nextChapter": "psalms_115.html",
+    "nextTitle": "Psalms 115",
+    "prevChapter": "psalms_113.html",
+    "prevTitle": "Psalms 113",
+    "filename": "psalms_114.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "15824",
-      "text" : "When Israel went out of Egypt, the house of Jacob from a people of strange language;",
-      "plainText" : "When Israel went out of Egypt, the house of Jacob from a people of strange language;"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "15824",
+      "text": "When Israel went out of Egypt, the house of Jacob from a people of strange language;",
+      "plainText": "When Israel went out of Egypt, the house of Jacob from a people of strange language;"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "15825",
-      "text" : "Judah was his sanctuary, <span class='extra'>and<\/span> Israel his dominion.",
-      "plainText" : "Judah was his sanctuary, and Israel his dominion."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "15825",
+      "text": "Judah was his sanctuary, <span class='extra'>and</span> Israel his dominion.",
+      "plainText": "Judah was his sanctuary, and Israel his dominion."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "15826",
-      "text" : "The sea saw <span class='extra'>it<\/span>, and fled: Jordan was driven back.",
-      "plainText" : "The sea saw it, and fled: Jordan was driven back."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "15826",
+      "text": "The sea saw <span class='extra'>it</span>, and fled: Jordan was driven back.",
+      "plainText": "The sea saw it, and fled: Jordan was driven back."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "15827",
-      "text" : "The mountains skipped like rams, <span class='extra'>and<\/span> the little hills like lambs.",
-      "plainText" : "The mountains skipped like rams, and the little hills like lambs."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "15827",
+      "text": "The mountains skipped like rams, <span class='extra'>and</span> the little hills like lambs.",
+      "plainText": "The mountains skipped like rams, and the little hills like lambs."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "15828",
-      "text" : "What <span class='extra'>ailed<\/span> thee, O thou sea, that thou fleddest? thou Jordan, <span class='extra'>that<\/span> thou wast driven back?",
-      "plainText" : "What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "15828",
+      "text": "What <span class='extra'>ailed</span> thee, O thou sea, that thou fleddest? thou Jordan, <span class='extra'>that</span> thou wast driven back?",
+      "plainText": "What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "15829",
-      "text" : "Ye mountains, <span class='extra'>that<\/span> ye skipped like rams; <span class='extra'>and<\/span> ye little hills, like lambs?",
-      "plainText" : "Ye mountains, that ye skipped like rams; and ye little hills, like lambs?"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "15829",
+      "text": "Ye mountains, <span class='extra'>that</span> ye skipped like rams; <span class='extra'>and</span> ye little hills, like lambs?",
+      "plainText": "Ye mountains, that ye skipped like rams; and ye little hills, like lambs?"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "15830",
-      "text" : "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;",
-      "plainText" : "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "15830",
+      "text": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;",
+      "plainText": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "15831",
-      "text" : "Which turned the rock <span class='extra'>into<\/span> a standing water, the flint into a fountain of waters.",
-      "plainText" : "Which turned the rock into a standing water, the flint into a fountain of waters."
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "15831",
+      "text": "Which turned the rock <span class='extra'>into</span> a standing water, the flint into a fountain of waters.",
+      "plainText": "Which turned the rock into a standing water, the flint into a fountain of waters."
     }
   ]
 }
-

@@ -1,74 +1,69 @@
 {
   "book": {
-    "number" : "24",
-    "filenamePrefix" : "jeremiah",
-    "bookPage" : "jeremiah.html",
-    "title" : "Jeremiah",
-    "chapterCount" : "52",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "lamentations_1.html",
-    "nextTitle" : "Lamentations",
-    "prevBook" : "isaiah_1.html",
-    "prevTitle" : "Isaiah"
+    "number": "24",
+    "filenamePrefix": "jeremiah",
+    "bookPage": "jeremiah.html",
+    "title": "Jeremiah",
+    "chapterCount": "52",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "lamentations_1.html",
+    "nextTitle": "Lamentations",
+    "prevBook": "isaiah_1.html",
+    "prevTitle": "Isaiah",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "45",
-    "verseCount" : "5",
-    "nextChapter" : "jeremiah_46.html",
-    "nextTitle" : "Jeremiah 46",
-    "prevChapter" : "jeremiah_44.html",
-    "prevTitle" : "Jeremiah 44",
-    "filename" : "jeremiah_45.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "45",
+    "verseCount": "5",
+    "nextChapter": "jeremiah_46.html",
+    "nextTitle": "Jeremiah 46",
+    "prevChapter": "jeremiah_44.html",
+    "prevTitle": "Jeremiah 44",
+    "filename": "jeremiah_45.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "20042",
-      "text" : "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,",
-      "plainText" : "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "20042",
+      "text": "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,",
+      "plainText": "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "20043",
-      "text" : "Thus saith the <span class='nog'>LORD<\/span>, the God of Israel, unto thee, O Baruch;",
-      "plainText" : "Thus saith the LORD, the God of Israel, unto thee, O Baruch;"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "20043",
+      "text": "Thus saith the <span class='nog'>LORD</span>, the God of Israel, unto thee, O Baruch;",
+      "plainText": "Thus saith the LORD, the God of Israel, unto thee, O Baruch;"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "20044",
-      "text" : "Thou didst say, Woe is me now! for the <span class='nog'>LORD<\/span> hath added grief to my sorrow; I fainted in my sighing, and I find no rest.",
-      "plainText" : "Thou didst say, Woe is me now! for the LORD hath added grief to my sorrow; I fainted in my sighing, and I find no rest."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "20044",
+      "text": "Thou didst say, Woe is me now! for the <span class='nog'>LORD</span> hath added grief to my sorrow; I fainted in my sighing, and I find no rest.",
+      "plainText": "Thou didst say, Woe is me now! for the LORD hath added grief to my sorrow; I fainted in my sighing, and I find no rest."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "20045",
-      "text" : "Thus shalt thou say unto him, The <span class='nog'>LORD<\/span> saith thus; Behold, <span class='extra'>that<\/span> which I have built will I break down, and that which I have planted I will pluck up, even this whole land.",
-      "plainText" : "Thus shalt thou say unto him, The LORD saith thus; Behold, that which I have built will I break down, and that which I have planted I will pluck up, even this whole land."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "20045",
+      "text": "Thus shalt thou say unto him, The <span class='nog'>LORD</span> saith thus; Behold, <span class='extra'>that</span> which I have built will I break down, and that which I have planted I will pluck up, even this whole land.",
+      "plainText": "Thus shalt thou say unto him, The LORD saith thus; Behold, that which I have built will I break down, and that which I have planted I will pluck up, even this whole land."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "20046",
-      "text" : "And seekest thou great things for thyself? seek <span class='extra'>them<\/span> not: for, behold, I will bring evil upon all flesh, saith the <span class='nog'>LORD<\/span>: but thy life will I give unto thee for a prey in all places whither thou goest.",
-      "plainText" : "And seekest thou great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the LORD: but thy life will I give unto thee for a prey in all places whither thou goest."
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "20046",
+      "text": "And seekest thou great things for thyself? seek <span class='extra'>them</span> not: for, behold, I will bring evil upon all flesh, saith the <span class='nog'>LORD</span>: but thy life will I give unto thee for a prey in all places whither thou goest.",
+      "plainText": "And seekest thou great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the LORD: but thy life will I give unto thee for a prey in all places whither thou goest."
     }
   ]
 }
-
-

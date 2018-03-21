@@ -1,371 +1,333 @@
 {
   "book": {
-    "number" : "11",
-    "filenamePrefix" : "1kings",
-    "bookPage" : "1kings.html",
-    "title" : "1 Kings",
-    "chapterCount" : "22",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "2kings_1.html",
-    "nextTitle" : "2 Kings",
-    "prevBook" : "2samuel_1.html",
-    "prevTitle" : "2 Samuel"
+    "number": "11",
+    "filenamePrefix": "1kings",
+    "bookPage": "1kings.html",
+    "title": "1 Kings",
+    "chapterCount": "22",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "2kings_1.html",
+    "nextTitle": "2 Kings",
+    "prevBook": "2samuel_1.html",
+    "prevTitle": "2 Samuel",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "6",
-    "verseCount" : "38",
-    "nextChapter" : "1kings_7.html",
-    "nextTitle" : "1 Kings 7",
-    "prevChapter" : "1kings_5.html",
-    "prevTitle" : "1 Kings 5",
-    "filename" : "1kings_6.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "6",
+    "verseCount": "38",
+    "nextChapter": "1kings_7.html",
+    "nextTitle": "1 Kings 7",
+    "prevChapter": "1kings_5.html",
+    "prevTitle": "1 Kings 5",
+    "filename": "1kings_6.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "8898",
-      "text" : "And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which <span class='extra'>is<\/span> the second month, that he began to build the house of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "8898",
+      "text": "And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which <span class='extra'>is</span> the second month, that he began to build the house of the <span class='nog'>LORD</span>.",
+      "plainText": "And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "8899",
-      "text" : "And the house which king Solomon built for the <span class='nog'>LORD<\/span>, the length thereof <span class='extra'>was<\/span> threescore cubits, and the breadth thereof twenty <span class='extra'>cubits<\/span>, and the height thereof thirty cubits.",
-      "plainText" : "And the house which king Solomon built for the LORD, the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "8899",
+      "text": "And the house which king Solomon built for the <span class='nog'>LORD</span>, the length thereof <span class='extra'>was</span> threescore cubits, and the breadth thereof twenty <span class='extra'>cubits</span>, and the height thereof thirty cubits.",
+      "plainText": "And the house which king Solomon built for the LORD, the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "8900",
-      "text" : "And the porch before the temple of the house, twenty cubits <span class='extra'>was<\/span> the length thereof, according to the breadth of the house; <span class='extra'>and<\/span> ten cubits <span class='extra'>was<\/span> the breadth thereof before the house.",
-      "plainText" : "And the porch before the temple of the house, twenty cubits was the length thereof, according to the breadth of the house; and ten cubits was the breadth thereof before the house."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "8900",
+      "text": "And the porch before the temple of the house, twenty cubits <span class='extra'>was</span> the length thereof, according to the breadth of the house; <span class='extra'>and</span> ten cubits <span class='extra'>was</span> the breadth thereof before the house.",
+      "plainText": "And the porch before the temple of the house, twenty cubits was the length thereof, according to the breadth of the house; and ten cubits was the breadth thereof before the house."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "8901",
-      "text" : "And for the house he made windows of narrow lights.",
-      "plainText" : "And for the house he made windows of narrow lights."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "8901",
+      "text": "And for the house he made windows of narrow lights.",
+      "plainText": "And for the house he made windows of narrow lights."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "8902",
-      "text" : "And against the wall of the house he built chambers round about, <span class='extra'>against<\/span> the walls of the house round about, <span class='extra'>both<\/span> of the temple and of the oracle: and he made chambers round about:",
-      "plainText" : "And against the wall of the house he built chambers round about, against the walls of the house round about, both of the temple and of the oracle: and he made chambers round about:"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "8902",
+      "text": "And against the wall of the house he built chambers round about, <span class='extra'>against</span> the walls of the house round about, <span class='extra'>both</span> of the temple and of the oracle: and he made chambers round about:",
+      "plainText": "And against the wall of the house he built chambers round about, against the walls of the house round about, both of the temple and of the oracle: and he made chambers round about:"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "8903",
-      "text" : "The nethermost chamber <span class='extra'>was<\/span> five cubits broad, and the middle <span class='extra'>was<\/span> six cubits broad, and the third <span class='extra'>was<\/span> seven cubits broad: for without <span class='extra'>in the wall<\/span> of the house he made narrowed rests round about, that <span class='extra'>the beams<\/span> should not be fastened in the walls of the house.",
-      "plainText" : "The nethermost chamber was five cubits broad, and the middle was six cubits broad, and the third was seven cubits broad: for without in the wall of the house he made narrowed rests round about, that the beams should not be fastened in the walls of the house."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "8903",
+      "text": "The nethermost chamber <span class='extra'>was</span> five cubits broad, and the middle <span class='extra'>was</span> six cubits broad, and the third <span class='extra'>was</span> seven cubits broad: for without <span class='extra'>in the wall</span> of the house he made narrowed rests round about, that <span class='extra'>the beams</span> should not be fastened in the walls of the house.",
+      "plainText": "The nethermost chamber was five cubits broad, and the middle was six cubits broad, and the third was seven cubits broad: for without in the wall of the house he made narrowed rests round about, that the beams should not be fastened in the walls of the house."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "8904",
-      "text" : "And the house, when it was in building, was built of stone made ready before it was brought thither: so that there was neither hammer nor axe <span class='extra'>nor<\/span> any tool of iron heard in the house, while it was in building.",
-      "plainText" : "And the house, when it was in building, was built of stone made ready before it was brought thither: so that there was neither hammer nor axe nor any tool of iron heard in the house, while it was in building."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "8904",
+      "text": "And the house, when it was in building, was built of stone made ready before it was brought thither: so that there was neither hammer nor axe <span class='extra'>nor</span> any tool of iron heard in the house, while it was in building.",
+      "plainText": "And the house, when it was in building, was built of stone made ready before it was brought thither: so that there was neither hammer nor axe nor any tool of iron heard in the house, while it was in building."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "8905",
-      "text" : "The door for the middle chamber <span class='extra'>was<\/span> in the right side of the house: and they went up with winding stairs into the middle <span class='extra'>chamber<\/span>, and out of the middle into the third.",
-      "plainText" : "The door for the middle chamber was in the right side of the house: and they went up with winding stairs into the middle chamber, and out of the middle into the third."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "8905",
+      "text": "The door for the middle chamber <span class='extra'>was</span> in the right side of the house: and they went up with winding stairs into the middle <span class='extra'>chamber</span>, and out of the middle into the third.",
+      "plainText": "The door for the middle chamber was in the right side of the house: and they went up with winding stairs into the middle chamber, and out of the middle into the third."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "8906",
-      "text" : "So he built the house, and finished it; and covered the house with beams and boards of cedar.",
-      "plainText" : "So he built the house, and finished it; and covered the house with beams and boards of cedar."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "8906",
+      "text": "So he built the house, and finished it; and covered the house with beams and boards of cedar.",
+      "plainText": "So he built the house, and finished it; and covered the house with beams and boards of cedar."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "8907",
-      "text" : "And <span class='extra'>then<\/span> he built chambers against all the house, five cubits high: and they rested on the house with timber of cedar.",
-      "plainText" : "And then he built chambers against all the house, five cubits high: and they rested on the house with timber of cedar."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "8907",
+      "text": "And <span class='extra'>then</span> he built chambers against all the house, five cubits high: and they rested on the house with timber of cedar.",
+      "plainText": "And then he built chambers against all the house, five cubits high: and they rested on the house with timber of cedar."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "8908",
-      "text" : "And the word of the <span class='nog'>LORD<\/span> came to Solomon, saying,",
-      "plainText" : "And the word of the LORD came to Solomon, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "8908",
+      "text": "And the word of the <span class='nog'>LORD</span> came to Solomon, saying,",
+      "plainText": "And the word of the LORD came to Solomon, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "8909",
-      "text" : "<span class='extra'>Concerning<\/span> this house which thou art in building, if thou wilt walk in my statutes, and execute my judgments, and keep all my commandments to walk in them; then will I perform my word with thee, which I spake unto David thy father:",
-      "plainText" : "Concerning this house which thou art in building, if thou wilt walk in my statutes, and execute my judgments, and keep all my commandments to walk in them; then will I perform my word with thee, which I spake unto David thy father:"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "8909",
+      "text": "<span class='extra'>Concerning</span> this house which thou art in building, if thou wilt walk in my statutes, and execute my judgments, and keep all my commandments to walk in them; then will I perform my word with thee, which I spake unto David thy father:",
+      "plainText": "Concerning this house which thou art in building, if thou wilt walk in my statutes, and execute my judgments, and keep all my commandments to walk in them; then will I perform my word with thee, which I spake unto David thy father:"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "8910",
-      "text" : "And I will dwell among the children of Israel, and will not forsake my people Israel.",
-      "plainText" : "And I will dwell among the children of Israel, and will not forsake my people Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "8910",
+      "text": "And I will dwell among the children of Israel, and will not forsake my people Israel.",
+      "plainText": "And I will dwell among the children of Israel, and will not forsake my people Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "8911",
-      "text" : "So Solomon built the house, and finished it.",
-      "plainText" : "So Solomon built the house, and finished it."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "8911",
+      "text": "So Solomon built the house, and finished it.",
+      "plainText": "So Solomon built the house, and finished it."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "8912",
-      "text" : "And he built the walls of the house within with boards of cedar, both the floor of the house, and the walls of the cieling: <span class='extra'>and<\/span> he covered <span class='extra'>them<\/span> on the inside with wood, and covered the floor of the house with planks of fir.",
-      "plainText" : "And he built the walls of the house within with boards of cedar, both the floor of the house, and the walls of the cieling: and he covered them on the inside with wood, and covered the floor of the house with planks of fir."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "8912",
+      "text": "And he built the walls of the house within with boards of cedar, both the floor of the house, and the walls of the cieling: <span class='extra'>and</span> he covered <span class='extra'>them</span> on the inside with wood, and covered the floor of the house with planks of fir.",
+      "plainText": "And he built the walls of the house within with boards of cedar, both the floor of the house, and the walls of the cieling: and he covered them on the inside with wood, and covered the floor of the house with planks of fir."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "8913",
-      "text" : "And he built twenty cubits on the sides of the house, both the floor and the walls with boards of cedar: he even built <span class='extra'>them<\/span> for it within, <span class='extra'>even<\/span> for the oracle, <span class='extra'>even<\/span> for the most holy <span class='extra'>place<\/span>.",
-      "plainText" : "And he built twenty cubits on the sides of the house, both the floor and the walls with boards of cedar: he even built them for it within, even for the oracle, even for the most holy place."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "8913",
+      "text": "And he built twenty cubits on the sides of the house, both the floor and the walls with boards of cedar: he even built <span class='extra'>them</span> for it within, <span class='extra'>even</span> for the oracle, <span class='extra'>even</span> for the most holy <span class='extra'>place</span>.",
+      "plainText": "And he built twenty cubits on the sides of the house, both the floor and the walls with boards of cedar: he even built them for it within, even for the oracle, even for the most holy place."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "8914",
-      "text" : "And the house, that <span class='extra'>is<\/span>, the temple before it, was forty cubits <span class='extra'>long<\/span>.",
-      "plainText" : "And the house, that is, the temple before it, was forty cubits long."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "8914",
+      "text": "And the house, that <span class='extra'>is</span>, the temple before it, was forty cubits <span class='extra'>long</span>.",
+      "plainText": "And the house, that is, the temple before it, was forty cubits long."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "8915",
-      "text" : "And the cedar of the house within <span class='extra'>was<\/span> carved with knops and open flowers: all <span class='extra'>was<\/span> cedar; there was no stone seen.",
-      "plainText" : "And the cedar of the house within was carved with knops and open flowers: all was cedar; there was no stone seen."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "8915",
+      "text": "And the cedar of the house within <span class='extra'>was</span> carved with knops and open flowers: all <span class='extra'>was</span> cedar; there was no stone seen.",
+      "plainText": "And the cedar of the house within was carved with knops and open flowers: all was cedar; there was no stone seen."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "8916",
-      "text" : "And the oracle he prepared in the house within, to set there the ark of the covenant of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And the oracle he prepared in the house within, to set there the ark of the covenant of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "8916",
+      "text": "And the oracle he prepared in the house within, to set there the ark of the covenant of the <span class='nog'>LORD</span>.",
+      "plainText": "And the oracle he prepared in the house within, to set there the ark of the covenant of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "8917",
-      "text" : "And the oracle in the forepart <span class='extra'>was<\/span> twenty cubits in length, and twenty cubits in breadth, and twenty cubits in the height thereof: and he overlaid it with pure gold; and <span class='extra'>so<\/span> covered the altar <span class='extra'>which was of<\/span> cedar.",
-      "plainText" : "And the oracle in the forepart was twenty cubits in length, and twenty cubits in breadth, and twenty cubits in the height thereof: and he overlaid it with pure gold; and so covered the altar which was of cedar."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "8917",
+      "text": "And the oracle in the forepart <span class='extra'>was</span> twenty cubits in length, and twenty cubits in breadth, and twenty cubits in the height thereof: and he overlaid it with pure gold; and <span class='extra'>so</span> covered the altar <span class='extra'>which was of</span> cedar.",
+      "plainText": "And the oracle in the forepart was twenty cubits in length, and twenty cubits in breadth, and twenty cubits in the height thereof: and he overlaid it with pure gold; and so covered the altar which was of cedar."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "8918",
-      "text" : "So Solomon overlaid the house within with pure gold: and he made a partition by the chains of gold before the oracle; and he overlaid it with gold.",
-      "plainText" : "So Solomon overlaid the house within with pure gold: and he made a partition by the chains of gold before the oracle; and he overlaid it with gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "8918",
+      "text": "So Solomon overlaid the house within with pure gold: and he made a partition by the chains of gold before the oracle; and he overlaid it with gold.",
+      "plainText": "So Solomon overlaid the house within with pure gold: and he made a partition by the chains of gold before the oracle; and he overlaid it with gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "8919",
-      "text" : "And the whole house he overlaid with gold, until he had finished all the house: also the whole altar that <span class='extra'>was<\/span> by the oracle he overlaid with gold.",
-      "plainText" : "And the whole house he overlaid with gold, until he had finished all the house: also the whole altar that was by the oracle he overlaid with gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "8919",
+      "text": "And the whole house he overlaid with gold, until he had finished all the house: also the whole altar that <span class='extra'>was</span> by the oracle he overlaid with gold.",
+      "plainText": "And the whole house he overlaid with gold, until he had finished all the house: also the whole altar that was by the oracle he overlaid with gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "8920",
-      "text" : "And within the oracle he made two cherubims <span class='extra'>of<\/span> olive tree, <span class='extra'>each<\/span> ten cubits high.",
-      "plainText" : "And within the oracle he made two cherubims of olive tree, each ten cubits high."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "8920",
+      "text": "And within the oracle he made two cherubims <span class='extra'>of</span> olive tree, <span class='extra'>each</span> ten cubits high.",
+      "plainText": "And within the oracle he made two cherubims of olive tree, each ten cubits high."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "8921",
-      "text" : "And five cubits <span class='extra'>was<\/span> the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing unto the uttermost part of the other <span class='extra'>were<\/span> ten cubits.",
-      "plainText" : "And five cubits was the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing unto the uttermost part of the other were ten cubits."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "8921",
+      "text": "And five cubits <span class='extra'>was</span> the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing unto the uttermost part of the other <span class='extra'>were</span> ten cubits.",
+      "plainText": "And five cubits was the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing unto the uttermost part of the other were ten cubits."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "8922",
-      "text" : "And the other cherub <span class='extra'>was<\/span> ten cubits: both the cherubims <span class='extra'>were<\/span> of one measure and one size.",
-      "plainText" : "And the other cherub was ten cubits: both the cherubims were of one measure and one size."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "8922",
+      "text": "And the other cherub <span class='extra'>was</span> ten cubits: both the cherubims <span class='extra'>were</span> of one measure and one size.",
+      "plainText": "And the other cherub was ten cubits: both the cherubims were of one measure and one size."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "8923",
-      "text" : "The height of the one cherub <span class='extra'>was<\/span> ten cubits, and so <span class='extra'>was it<\/span> of the other cherub.",
-      "plainText" : "The height of the one cherub was ten cubits, and so was it of the other cherub."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "8923",
+      "text": "The height of the one cherub <span class='extra'>was</span> ten cubits, and so <span class='extra'>was it</span> of the other cherub.",
+      "plainText": "The height of the one cherub was ten cubits, and so was it of the other cherub."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "8924",
-      "text" : "And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the <span class='extra'>one<\/span> wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house.",
-      "plainText" : "And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the one wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "8924",
+      "text": "And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the <span class='extra'>one</span> wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house.",
+      "plainText": "And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the one wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "8925",
-      "text" : "And he overlaid the cherubims with gold.",
-      "plainText" : "And he overlaid the cherubims with gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "8925",
+      "text": "And he overlaid the cherubims with gold.",
+      "plainText": "And he overlaid the cherubims with gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "8926",
-      "text" : "And he carved all the walls of the house round about with carved figures of cherubims and palm trees and open flowers, within and without.",
-      "plainText" : "And he carved all the walls of the house round about with carved figures of cherubims and palm trees and open flowers, within and without."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "8926",
+      "text": "And he carved all the walls of the house round about with carved figures of cherubims and palm trees and open flowers, within and without.",
+      "plainText": "And he carved all the walls of the house round about with carved figures of cherubims and palm trees and open flowers, within and without."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "8927",
-      "text" : "And the floor of the house he overlaid with gold, within and without.",
-      "plainText" : "And the floor of the house he overlaid with gold, within and without."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "8927",
+      "text": "And the floor of the house he overlaid with gold, within and without.",
+      "plainText": "And the floor of the house he overlaid with gold, within and without."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "8928",
-      "text" : "And for the entering of the oracle he made doors <span class='extra'>of<\/span> olive tree: the lintel <span class='extra'>and<\/span> side posts <span class='extra'>were<\/span> a fifth part <span class='extra'>of the wall<\/span>.",
-      "plainText" : "And for the entering of the oracle he made doors of olive tree: the lintel and side posts were a fifth part of the wall."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "8928",
+      "text": "And for the entering of the oracle he made doors <span class='extra'>of</span> olive tree: the lintel <span class='extra'>and</span> side posts <span class='extra'>were</span> a fifth part <span class='extra'>of the wall</span>.",
+      "plainText": "And for the entering of the oracle he made doors of olive tree: the lintel and side posts were a fifth part of the wall."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "8929",
-      "text" : "The two doors also <span class='extra'>were of<\/span> olive tree; and he carved upon them carvings of cherubims and palm trees and open flowers, and overlaid <span class='extra'>them<\/span> with gold, and spread gold upon the cherubims, and upon the palm trees.",
-      "plainText" : "The two doors also were of olive tree; and he carved upon them carvings of cherubims and palm trees and open flowers, and overlaid them with gold, and spread gold upon the cherubims, and upon the palm trees."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "8929",
+      "text": "The two doors also <span class='extra'>were of</span> olive tree; and he carved upon them carvings of cherubims and palm trees and open flowers, and overlaid <span class='extra'>them</span> with gold, and spread gold upon the cherubims, and upon the palm trees.",
+      "plainText": "The two doors also were of olive tree; and he carved upon them carvings of cherubims and palm trees and open flowers, and overlaid them with gold, and spread gold upon the cherubims, and upon the palm trees."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "8930",
-      "text" : "So also made he for the door of the temple posts <span class='extra'>of<\/span> olive tree, a fourth part <span class='extra'>of the wall<\/span>.",
-      "plainText" : "So also made he for the door of the temple posts of olive tree, a fourth part of the wall."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "8930",
+      "text": "So also made he for the door of the temple posts <span class='extra'>of</span> olive tree, a fourth part <span class='extra'>of the wall</span>.",
+      "plainText": "So also made he for the door of the temple posts of olive tree, a fourth part of the wall."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "8931",
-      "text" : "And the two doors <span class='extra'>were of<\/span> fir tree: the two leaves of the one door <span class='extra'>were<\/span> folding, and the two leaves of the other door <span class='extra'>were<\/span> folding.",
-      "plainText" : "And the two doors were of fir tree: the two leaves of the one door were folding, and the two leaves of the other door were folding."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "8931",
+      "text": "And the two doors <span class='extra'>were of</span> fir tree: the two leaves of the one door <span class='extra'>were</span> folding, and the two leaves of the other door <span class='extra'>were</span> folding.",
+      "plainText": "And the two doors were of fir tree: the two leaves of the one door were folding, and the two leaves of the other door were folding."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "8932",
-      "text" : "And he carved <span class='extra'>thereon<\/span> cherubims and palm trees and open flowers: and covered <span class='extra'>them<\/span> with gold fitted upon the carved work.",
-      "plainText" : "And he carved thereon cherubims and palm trees and open flowers: and covered them with gold fitted upon the carved work."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "8932",
+      "text": "And he carved <span class='extra'>thereon</span> cherubims and palm trees and open flowers: and covered <span class='extra'>them</span> with gold fitted upon the carved work.",
+      "plainText": "And he carved thereon cherubims and palm trees and open flowers: and covered them with gold fitted upon the carved work."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "8933",
-      "text" : "And he built the inner court with three rows of hewed stone, and a row of cedar beams.",
-      "plainText" : "And he built the inner court with three rows of hewed stone, and a row of cedar beams."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "8933",
+      "text": "And he built the inner court with three rows of hewed stone, and a row of cedar beams.",
+      "plainText": "And he built the inner court with three rows of hewed stone, and a row of cedar beams."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "8934",
-      "text" : "In the fourth year was the foundation of the house of the <span class='nog'>LORD<\/span> laid, in the month Zif:",
-      "plainText" : "In the fourth year was the foundation of the house of the LORD laid, in the month Zif:"
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "8934",
+      "text": "In the fourth year was the foundation of the house of the <span class='nog'>LORD</span> laid, in the month Zif:",
+      "plainText": "In the fourth year was the foundation of the house of the LORD laid, in the month Zif:"
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "8935",
-      "text" : "And in the eleventh year, in the month Bul, which <span class='extra'>is<\/span> the eighth month, was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it.",
-      "plainText" : "And in the eleventh year, in the month Bul, which is the eighth month, was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it."
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "8935",
+      "text": "And in the eleventh year, in the month Bul, which <span class='extra'>is</span> the eighth month, was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it.",
+      "plainText": "And in the eleventh year, in the month Bul, which is the eighth month, was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it."
     }
   ]
 }
-
-

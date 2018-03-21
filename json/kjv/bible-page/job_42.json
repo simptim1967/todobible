@@ -1,182 +1,165 @@
 {
   "book": {
-    "number" : "18",
-    "filenamePrefix" : "job",
-    "bookPage" : "job.html",
-    "title" : "Job",
-    "chapterCount" : "42",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "psalms_1.html",
-    "nextTitle" : "Psalms",
-    "prevBook" : "esther_1.html",
-    "prevTitle" : "Esther"
+    "number": "18",
+    "filenamePrefix": "job",
+    "bookPage": "job.html",
+    "title": "Job",
+    "chapterCount": "42",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "psalms_1.html",
+    "nextTitle": "Psalms",
+    "prevBook": "esther_1.html",
+    "prevTitle": "Esther",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "42",
-    "verseCount" : "17",
-    "nextChapter" : "psalms_1.html",
-    "nextTitle" : "Psalms 1",
-    "prevChapter" : "job_41.html",
-    "prevTitle" : "Job 41",
-    "filename" : "job_42.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "42",
+    "verseCount": "17",
+    "nextChapter": "psalms_1.html",
+    "nextTitle": "Psalms 1",
+    "prevChapter": "job_41.html",
+    "prevTitle": "Job 41",
+    "filename": "job_42.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "13924",
-      "text" : "Then Job answered the <span class='nog'>LORD<\/span>, and said,",
-      "plainText" : "Then Job answered the LORD, and said,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "13924",
+      "text": "Then Job answered the <span class='nog'>LORD</span>, and said,",
+      "plainText": "Then Job answered the LORD, and said,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "13925",
-      "text" : "I know that thou canst do every <span class='extra'>thing<\/span>, and <span class='extra'>that<\/span> no thought can be withholden from thee.",
-      "plainText" : "I know that thou canst do every thing, and that no thought can be withholden from thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "13925",
+      "text": "I know that thou canst do every <span class='extra'>thing</span>, and <span class='extra'>that</span> no thought can be withholden from thee.",
+      "plainText": "I know that thou canst do every thing, and that no thought can be withholden from thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "13926",
-      "text" : "Who <span class='extra'>is<\/span> he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not.",
-      "plainText" : "Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "13926",
+      "text": "Who <span class='extra'>is</span> he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not.",
+      "plainText": "Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "13927",
-      "text" : "Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me.",
-      "plainText" : "Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "13927",
+      "text": "Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me.",
+      "plainText": "Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "13928",
-      "text" : "I have heard of thee by the hearing of the ear: but now mine eye seeth thee.",
-      "plainText" : "I have heard of thee by the hearing of the ear: but now mine eye seeth thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "13928",
+      "text": "I have heard of thee by the hearing of the ear: but now mine eye seeth thee.",
+      "plainText": "I have heard of thee by the hearing of the ear: but now mine eye seeth thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "13929",
-      "text" : "Wherefore I abhor <span class='extra'>myself<\/span>, and repent in dust and ashes.",
-      "plainText" : "Wherefore I abhor myself, and repent in dust and ashes."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "13929",
+      "text": "Wherefore I abhor <span class='extra'>myself</span>, and repent in dust and ashes.",
+      "plainText": "Wherefore I abhor myself, and repent in dust and ashes."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "13930",
-      "text" : "And it was <span class='extra'>so<\/span>, that after the <span class='nog'>LORD<\/span> had spoken these words unto Job, the <span class='nog'>LORD<\/span> said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me <span class='extra'>the thing that is<\/span> right, as my servant Job <span class='extra'>hath<\/span>.",
-      "plainText" : "And it was so, that after the LORD had spoken these words unto Job, the LORD said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "13930",
+      "text": "And it was <span class='extra'>so</span>, that after the <span class='nog'>LORD</span> had spoken these words unto Job, the <span class='nog'>LORD</span> said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me <span class='extra'>the thing that is</span> right, as my servant Job <span class='extra'>hath</span>.",
+      "plainText": "And it was so, that after the LORD had spoken these words unto Job, the LORD said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "13931",
-      "text" : "Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you <span class='extra'>after your<\/span> folly, in that ye have not spoken of me <span class='extra'>the thing which is<\/span> right, like my servant Job.",
-      "plainText" : "Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "13931",
+      "text": "Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you <span class='extra'>after your</span> folly, in that ye have not spoken of me <span class='extra'>the thing which is</span> right, like my servant Job.",
+      "plainText": "Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "13932",
-      "text" : "So Eliphaz the Temanite and Bildad the Shuhite <span class='extra'>and<\/span> Zophar the Naamathite went, and did according as the <span class='nog'>LORD<\/span> commanded them: the <span class='nog'>LORD<\/span> also accepted Job.",
-      "plainText" : "So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the LORD commanded them: the LORD also accepted Job."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "13932",
+      "text": "So Eliphaz the Temanite and Bildad the Shuhite <span class='extra'>and</span> Zophar the Naamathite went, and did according as the <span class='nog'>LORD</span> commanded them: the <span class='nog'>LORD</span> also accepted Job.",
+      "plainText": "So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the LORD commanded them: the LORD also accepted Job."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "13933",
-      "text" : "And the <span class='nog'>LORD<\/span> turned the captivity of Job, when he prayed for his friends: also the <span class='nog'>LORD<\/span> gave Job twice as much as he had before.",
-      "plainText" : "And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "13933",
+      "text": "And the <span class='nog'>LORD</span> turned the captivity of Job, when he prayed for his friends: also the <span class='nog'>LORD</span> gave Job twice as much as he had before.",
+      "plainText": "And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "13934",
-      "text" : "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the <span class='nog'>LORD<\/span> had brought upon him: every man also gave him a piece of money, and every one an earring of gold.",
-      "plainText" : "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the LORD had brought upon him: every man also gave him a piece of money, and every one an earring of gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "13934",
+      "text": "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the <span class='nog'>LORD</span> had brought upon him: every man also gave him a piece of money, and every one an earring of gold.",
+      "plainText": "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the LORD had brought upon him: every man also gave him a piece of money, and every one an earring of gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "13935",
-      "text" : "So the <span class='nog'>LORD<\/span> blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses.",
-      "plainText" : "So the LORD blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "13935",
+      "text": "So the <span class='nog'>LORD</span> blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses.",
+      "plainText": "So the LORD blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "13936",
-      "text" : "He had also seven sons and three daughters.",
-      "plainText" : "He had also seven sons and three daughters."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "13936",
+      "text": "He had also seven sons and three daughters.",
+      "plainText": "He had also seven sons and three daughters."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "13937",
-      "text" : "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Keren-happuch.",
-      "plainText" : "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Keren-happuch."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "13937",
+      "text": "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Keren-happuch.",
+      "plainText": "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Keren-happuch."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "13938",
-      "text" : "And in all the land were no women found <span class='extra'>so<\/span> fair as the daughters of Job: and their father gave them inheritance among their brethren.",
-      "plainText" : "And in all the land were no women found so fair as the daughters of Job: and their father gave them inheritance among their brethren."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "13938",
+      "text": "And in all the land were no women found <span class='extra'>so</span> fair as the daughters of Job: and their father gave them inheritance among their brethren.",
+      "plainText": "And in all the land were no women found so fair as the daughters of Job: and their father gave them inheritance among their brethren."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "13939",
-      "text" : "After this lived Job an hundred and forty years, and saw his sons, and his sons' sons, <span class='extra'>even<\/span> four generations.",
-      "plainText" : "After this lived Job an hundred and forty years, and saw his sons, and his sons' sons, even four generations."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "13939",
+      "text": "After this lived Job an hundred and forty years, and saw his sons, and his sons' sons, <span class='extra'>even</span> four generations.",
+      "plainText": "After this lived Job an hundred and forty years, and saw his sons, and his sons' sons, even four generations."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "13940",
-      "text" : "So Job died, <span class='extra'>being<\/span> old and full of days.",
-      "plainText" : "So Job died, being old and full of days."
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "13940",
+      "text": "So Job died, <span class='extra'>being</span> old and full of days.",
+      "plainText": "So Job died, being old and full of days."
     }
   ]
 }
-
-

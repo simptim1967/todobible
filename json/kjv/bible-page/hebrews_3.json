@@ -1,199 +1,181 @@
 {
   "book": {
-    "number" : "58",
-    "filenamePrefix" : "hebrews",
-    "bookPage" : "hebrews.html",
-    "title" : "Hebrews",
-    "chapterCount" : "13",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "james_1.html",
-    "nextTitle" : "James",
-    "prevBook" : "philemon_1.html",
-    "prevTitle" : "Philemon"
+    "number": "58",
+    "filenamePrefix": "hebrews",
+    "bookPage": "hebrews.html",
+    "title": "Hebrews",
+    "chapterCount": "13",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "james_1.html",
+    "nextTitle": "James",
+    "prevBook": "philemon_1.html",
+    "prevTitle": "Philemon",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "3",
-    "verseCount" : "19",
-    "nextChapter" : "hebrews_4.html",
-    "nextTitle" : "Hebrews 4",
-    "prevChapter" : "hebrews_2.html",
-    "prevTitle" : "Hebrews 2",
-    "filename" : "hebrews_3.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "3",
+    "verseCount": "19",
+    "nextChapter": "hebrews_4.html",
+    "nextTitle": "Hebrews 4",
+    "prevChapter": "hebrews_2.html",
+    "prevTitle": "Hebrews 2",
+    "filename": "hebrews_3.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "29997",
-      "text" : "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;",
-      "plainText" : "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "29997",
+      "text": "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;",
+      "plainText": "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "29998",
-      "text" : "Who was faithful to him that appointed him, as also Moses <span class='extra'>was faithful<\/span> in all his house.",
-      "plainText" : "Who was faithful to him that appointed him, as also Moses was faithful in all his house."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "29998",
+      "text": "Who was faithful to him that appointed him, as also Moses <span class='extra'>was faithful</span> in all his house.",
+      "plainText": "Who was faithful to him that appointed him, as also Moses was faithful in all his house."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "29999",
-      "text" : "For this <span class='extra'>man<\/span> was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house.",
-      "plainText" : "For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "29999",
+      "text": "For this <span class='extra'>man</span> was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house.",
+      "plainText": "For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "30000",
-      "text" : "For every house is builded by some <span class='extra'>man<\/span>; but he that built all things <span class='extra'>is<\/span> God.",
-      "plainText" : "For every house is builded by some man; but he that built all things is God."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "30000",
+      "text": "For every house is builded by some <span class='extra'>man</span>; but he that built all things <span class='extra'>is</span> God.",
+      "plainText": "For every house is builded by some man; but he that built all things is God."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "30001",
-      "text" : "And Moses verily <span class='extra'>was<\/span> faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;",
-      "plainText" : "And Moses verily was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "30001",
+      "text": "And Moses verily <span class='extra'>was</span> faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;",
+      "plainText": "And Moses verily was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "30002",
-      "text" : "But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end.",
-      "plainText" : "But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "30002",
+      "text": "But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end.",
+      "plainText": "But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "30003",
-      "text" : "Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,",
-      "plainText" : "Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "30003",
+      "text": "Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,",
+      "plainText": "Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "30004",
-      "text" : "Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:",
-      "plainText" : "Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "30004",
+      "text": "Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:",
+      "plainText": "Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "30005",
-      "text" : "When your fathers tempted me, proved me, and saw my works forty years.",
-      "plainText" : "When your fathers tempted me, proved me, and saw my works forty years."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "30005",
+      "text": "When your fathers tempted me, proved me, and saw my works forty years.",
+      "plainText": "When your fathers tempted me, proved me, and saw my works forty years."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "30006",
-      "text" : "Wherefore I was grieved with that generation, and said, They do alway err in <span class='extra'>their<\/span> heart; and they have not known my ways.",
-      "plainText" : "Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "30006",
+      "text": "Wherefore I was grieved with that generation, and said, They do alway err in <span class='extra'>their</span> heart; and they have not known my ways.",
+      "plainText": "Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "30007",
-      "text" : "So I sware in my wrath, They shall not enter into my rest.)",
-      "plainText" : "So I sware in my wrath, They shall not enter into my rest.)"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "30007",
+      "text": "So I sware in my wrath, They shall not enter into my rest.)",
+      "plainText": "So I sware in my wrath, They shall not enter into my rest.)"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "30008",
-      "text" : "Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.",
-      "plainText" : "Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "30008",
+      "text": "Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.",
+      "plainText": "Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "30009",
-      "text" : "But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.",
-      "plainText" : "But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "30009",
+      "text": "But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.",
+      "plainText": "But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "30010",
-      "text" : "For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;",
-      "plainText" : "For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "30010",
+      "text": "For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;",
+      "plainText": "For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "30011",
-      "text" : "While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.",
-      "plainText" : "While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "30011",
+      "text": "While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.",
+      "plainText": "While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "30012",
-      "text" : "For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses.",
-      "plainText" : "For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "30012",
+      "text": "For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses.",
+      "plainText": "For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "30013",
-      "text" : "But with whom was he grieved forty years? <span class='extra'>was it<\/span> not with them that had sinned, whose carcases fell in the wilderness?",
-      "plainText" : "But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "30013",
+      "text": "But with whom was he grieved forty years? <span class='extra'>was it</span> not with them that had sinned, whose carcases fell in the wilderness?",
+      "plainText": "But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "30014",
-      "text" : "And to whom sware he that they should not enter into his rest, but to them that believed not?",
-      "plainText" : "And to whom sware he that they should not enter into his rest, but to them that believed not?"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "30014",
+      "text": "And to whom sware he that they should not enter into his rest, but to them that believed not?",
+      "plainText": "And to whom sware he that they should not enter into his rest, but to them that believed not?"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "30015",
-      "text" : "So we see that they could not enter in because of unbelief.",
-      "plainText" : "So we see that they could not enter in because of unbelief."
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "30015",
+      "text": "So we see that they could not enter in because of unbelief.",
+      "plainText": "So we see that they could not enter in because of unbelief."
     }
   ]
 }
-

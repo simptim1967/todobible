@@ -1,317 +1,285 @@
 {
   "book": {
-    "number" : "2",
-    "filenamePrefix" : "exodus",
-    "bookPage" : "exodus.html",
-    "title" : "Exodus",
-    "chapterCount" : "40",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "leviticus_1.html",
-    "nextTitle" : "Leviticus",
-    "prevBook" : "genesis_1.html",
-    "prevTitle" : "Genesis"
+    "number": "2",
+    "filenamePrefix": "exodus",
+    "bookPage": "exodus.html",
+    "title": "Exodus",
+    "chapterCount": "40",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "leviticus_1.html",
+    "nextTitle": "Leviticus",
+    "prevBook": "genesis_1.html",
+    "prevTitle": "Genesis",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "8",
-    "verseCount" : "32",
-    "nextChapter" : "exodus_9.html",
-    "nextTitle" : "Exodus 9",
-    "prevChapter" : "exodus_7.html",
-    "prevTitle" : "Exodus 7",
-    "filename" : "exodus_8.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "8",
+    "verseCount": "32",
+    "nextChapter": "exodus_9.html",
+    "nextTitle": "Exodus 9",
+    "prevChapter": "exodus_7.html",
+    "prevTitle": "Exodus 7",
+    "filename": "exodus_8.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "1712",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the <span class='nog'>LORD<\/span>, Let my people go, that they may serve me.",
-      "plainText" : "And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "1712",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the <span class='nog'>LORD</span>, Let my people go, that they may serve me.",
+      "plainText": "And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "1713",
-      "text" : "And if thou refuse to let <span class='extra'>them<\/span> go, behold, I will smite all thy borders with frogs:",
-      "plainText" : "And if thou refuse to let them go, behold, I will smite all thy borders with frogs:"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "1713",
+      "text": "And if thou refuse to let <span class='extra'>them</span> go, behold, I will smite all thy borders with frogs:",
+      "plainText": "And if thou refuse to let them go, behold, I will smite all thy borders with frogs:"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "1714",
-      "text" : "And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:",
-      "plainText" : "And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "1714",
+      "text": "And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:",
+      "plainText": "And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "1715",
-      "text" : "And the frogs shall come up both on thee, and upon thy people, and upon all thy servants.",
-      "plainText" : "And the frogs shall come up both on thee, and upon thy people, and upon all thy servants."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "1715",
+      "text": "And the frogs shall come up both on thee, and upon thy people, and upon all thy servants.",
+      "plainText": "And the frogs shall come up both on thee, and upon thy people, and upon all thy servants."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "1716",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, Say unto Aaron, Stretch forth thine hand with thy rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt.",
-      "plainText" : "And the LORD spake unto Moses, Say unto Aaron, Stretch forth thine hand with thy rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "1716",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, Say unto Aaron, Stretch forth thine hand with thy rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt.",
+      "plainText": "And the LORD spake unto Moses, Say unto Aaron, Stretch forth thine hand with thy rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "1717",
-      "text" : "And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt.",
-      "plainText" : "And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "1717",
+      "text": "And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt.",
+      "plainText": "And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "1718",
-      "text" : "And the magicians did so with their enchantments, and brought up frogs upon the land of Egypt.",
-      "plainText" : "And the magicians did so with their enchantments, and brought up frogs upon the land of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "1718",
+      "text": "And the magicians did so with their enchantments, and brought up frogs upon the land of Egypt.",
+      "plainText": "And the magicians did so with their enchantments, and brought up frogs upon the land of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "1719",
-      "text" : "Then Pharaoh called for Moses and Aaron, and said, Intreat the <span class='nog'>LORD<\/span>, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Then Pharaoh called for Moses and Aaron, and said, Intreat the LORD, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "1719",
+      "text": "Then Pharaoh called for Moses and Aaron, and said, Intreat the <span class='nog'>LORD</span>, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the <span class='nog'>LORD</span>.",
+      "plainText": "Then Pharaoh called for Moses and Aaron, and said, Intreat the LORD, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "1720",
-      "text" : "And Moses said unto Pharaoh, Glory over me: when shall I intreat for thee, and for thy servants, and for thy people, to destroy the frogs from thee and thy houses, <span class='extra'>that<\/span> they may remain in the river only?",
-      "plainText" : "And Moses said unto Pharaoh, Glory over me: when shall I intreat for thee, and for thy servants, and for thy people, to destroy the frogs from thee and thy houses, that they may remain in the river only?"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "1720",
+      "text": "And Moses said unto Pharaoh, Glory over me: when shall I intreat for thee, and for thy servants, and for thy people, to destroy the frogs from thee and thy houses, <span class='extra'>that</span> they may remain in the river only?",
+      "plainText": "And Moses said unto Pharaoh, Glory over me: when shall I intreat for thee, and for thy servants, and for thy people, to destroy the frogs from thee and thy houses, that they may remain in the river only?"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "1721",
-      "text" : "And he said, To morrow. And he said, <span class='extra'>Be it<\/span> according to thy word: that thou mayest know that <span class='extra'>there is<\/span> none like unto the <span class='nog'>LORD<\/span> our God.",
-      "plainText" : "And he said, To morrow. And he said, Be it according to thy word: that thou mayest know that there is none like unto the LORD our God."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "1721",
+      "text": "And he said, To morrow. And he said, <span class='extra'>Be it</span> according to thy word: that thou mayest know that <span class='extra'>there is</span> none like unto the <span class='nog'>LORD</span> our God.",
+      "plainText": "And he said, To morrow. And he said, Be it according to thy word: that thou mayest know that there is none like unto the LORD our God."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "1722",
-      "text" : "And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only.",
-      "plainText" : "And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "1722",
+      "text": "And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only.",
+      "plainText": "And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "1723",
-      "text" : "And Moses and Aaron went out from Pharaoh: and Moses cried unto the <span class='nog'>LORD<\/span> because of the frogs which he had brought against Pharaoh.",
-      "plainText" : "And Moses and Aaron went out from Pharaoh: and Moses cried unto the LORD because of the frogs which he had brought against Pharaoh."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "1723",
+      "text": "And Moses and Aaron went out from Pharaoh: and Moses cried unto the <span class='nog'>LORD</span> because of the frogs which he had brought against Pharaoh.",
+      "plainText": "And Moses and Aaron went out from Pharaoh: and Moses cried unto the LORD because of the frogs which he had brought against Pharaoh."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "1724",
-      "text" : "And the <span class='nog'>LORD<\/span> did according to the word of Moses; and the frogs died out of the houses, out of the villages, and out of the fields.",
-      "plainText" : "And the LORD did according to the word of Moses; and the frogs died out of the houses, out of the villages, and out of the fields."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "1724",
+      "text": "And the <span class='nog'>LORD</span> did according to the word of Moses; and the frogs died out of the houses, out of the villages, and out of the fields.",
+      "plainText": "And the LORD did according to the word of Moses; and the frogs died out of the houses, out of the villages, and out of the fields."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "1725",
-      "text" : "And they gathered them together upon heaps: and the land stank.",
-      "plainText" : "And they gathered them together upon heaps: and the land stank."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "1725",
+      "text": "And they gathered them together upon heaps: and the land stank.",
+      "plainText": "And they gathered them together upon heaps: and the land stank."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "1726",
-      "text" : "But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them; as the <span class='nog'>LORD<\/span> had said.",
-      "plainText" : "But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them; as the LORD had said."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "1726",
+      "text": "But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them; as the <span class='nog'>LORD</span> had said.",
+      "plainText": "But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them; as the LORD had said."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "1727",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice throughout all the land of Egypt.",
-      "plainText" : "And the LORD said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice throughout all the land of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "1727",
+      "text": "And the <span class='nog'>LORD</span> said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice throughout all the land of Egypt.",
+      "plainText": "And the LORD said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice throughout all the land of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "1728",
-      "text" : "And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt.",
-      "plainText" : "And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "1728",
+      "text": "And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt.",
+      "plainText": "And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "1729",
-      "text" : "And the magicians did so with their enchantments to bring forth lice, but they could not: so there were lice upon man, and upon beast.",
-      "plainText" : "And the magicians did so with their enchantments to bring forth lice, but they could not: so there were lice upon man, and upon beast."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "1729",
+      "text": "And the magicians did so with their enchantments to bring forth lice, but they could not: so there were lice upon man, and upon beast.",
+      "plainText": "And the magicians did so with their enchantments to bring forth lice, but they could not: so there were lice upon man, and upon beast."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "1730",
-      "text" : "Then the magicians said unto Pharaoh, This <span class='extra'>is<\/span> the finger of God: and Pharaoh's heart was hardened, and he hearkened not unto them; as the <span class='nog'>LORD<\/span> had said.",
-      "plainText" : "Then the magicians said unto Pharaoh, This is the finger of God: and Pharaoh's heart was hardened, and he hearkened not unto them; as the LORD had said."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "1730",
+      "text": "Then the magicians said unto Pharaoh, This <span class='extra'>is</span> the finger of God: and Pharaoh's heart was hardened, and he hearkened not unto them; as the <span class='nog'>LORD</span> had said.",
+      "plainText": "Then the magicians said unto Pharaoh, This is the finger of God: and Pharaoh's heart was hardened, and he hearkened not unto them; as the LORD had said."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "1731",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the <span class='nog'>LORD<\/span>, Let my people go, that they may serve me.",
-      "plainText" : "And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the LORD, Let my people go, that they may serve me."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "1731",
+      "text": "And the <span class='nog'>LORD</span> said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the <span class='nog'>LORD</span>, Let my people go, that they may serve me.",
+      "plainText": "And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the LORD, Let my people go, that they may serve me."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "1732",
-      "text" : "Else, if thou wilt not let my people go, behold, I will send swarms <span class='extra'>of flies<\/span> upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms <span class='extra'>of flies<\/span>, and also the ground whereon they <span class='extra'>are<\/span>.",
-      "plainText" : "Else, if thou wilt not let my people go, behold, I will send swarms of flies upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms of flies, and also the ground whereon they are."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "1732",
+      "text": "Else, if thou wilt not let my people go, behold, I will send swarms <span class='extra'>of flies</span> upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms <span class='extra'>of flies</span>, and also the ground whereon they <span class='extra'>are</span>.",
+      "plainText": "Else, if thou wilt not let my people go, behold, I will send swarms of flies upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms of flies, and also the ground whereon they are."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "1733",
-      "text" : "And I will sever in that day the land of Goshen, in which my people dwell, that no swarms <span class='extra'>of flies<\/span> shall be there; to the end thou mayest know that I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span> in the midst of the earth.",
-      "plainText" : "And I will sever in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there; to the end thou mayest know that I am the LORD in the midst of the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "1733",
+      "text": "And I will sever in that day the land of Goshen, in which my people dwell, that no swarms <span class='extra'>of flies</span> shall be there; to the end thou mayest know that I <span class='extra'>am</span> the <span class='nog'>LORD</span> in the midst of the earth.",
+      "plainText": "And I will sever in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there; to the end thou mayest know that I am the LORD in the midst of the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "1734",
-      "text" : "And I will put a division between my people and thy people: to morrow shall this sign be.",
-      "plainText" : "And I will put a division between my people and thy people: to morrow shall this sign be."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "1734",
+      "text": "And I will put a division between my people and thy people: to morrow shall this sign be.",
+      "plainText": "And I will put a division between my people and thy people: to morrow shall this sign be."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "1735",
-      "text" : "And the <span class='nog'>LORD<\/span> did so; and there came a grievous swarm <span class='extra'>of flies<\/span> into the house of Pharaoh, and <span class='extra'>into<\/span> his servants' houses, and into all the land of Egypt: the land was corrupted by reason of the swarm <span class='extra'>of flies<\/span>.",
-      "plainText" : "And the LORD did so; and there came a grievous swarm of flies into the house of Pharaoh, and into his servants' houses, and into all the land of Egypt: the land was corrupted by reason of the swarm of flies."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "1735",
+      "text": "And the <span class='nog'>LORD</span> did so; and there came a grievous swarm <span class='extra'>of flies</span> into the house of Pharaoh, and <span class='extra'>into</span> his servants' houses, and into all the land of Egypt: the land was corrupted by reason of the swarm <span class='extra'>of flies</span>.",
+      "plainText": "And the LORD did so; and there came a grievous swarm of flies into the house of Pharaoh, and into his servants' houses, and into all the land of Egypt: the land was corrupted by reason of the swarm of flies."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "1736",
-      "text" : "And Pharaoh called for Moses and for Aaron, and said, Go ye, sacrifice to your God in the land.",
-      "plainText" : "And Pharaoh called for Moses and for Aaron, and said, Go ye, sacrifice to your God in the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "1736",
+      "text": "And Pharaoh called for Moses and for Aaron, and said, Go ye, sacrifice to your God in the land.",
+      "plainText": "And Pharaoh called for Moses and for Aaron, and said, Go ye, sacrifice to your God in the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "1737",
-      "text" : "And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to the <span class='nog'>LORD<\/span> our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us?",
-      "plainText" : "And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to the LORD our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us?"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "1737",
+      "text": "And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to the <span class='nog'>LORD</span> our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us?",
+      "plainText": "And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to the LORD our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us?"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "1738",
-      "text" : "We will go three days' journey into the wilderness, and sacrifice to the <span class='nog'>LORD<\/span> our God, as he shall command us.",
-      "plainText" : "We will go three days' journey into the wilderness, and sacrifice to the LORD our God, as he shall command us."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "1738",
+      "text": "We will go three days' journey into the wilderness, and sacrifice to the <span class='nog'>LORD</span> our God, as he shall command us.",
+      "plainText": "We will go three days' journey into the wilderness, and sacrifice to the LORD our God, as he shall command us."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "1739",
-      "text" : "And Pharaoh said, I will let you go, that ye may sacrifice to the <span class='nog'>LORD<\/span> your God in the wilderness; only ye shall not go very far away: intreat for me.",
-      "plainText" : "And Pharaoh said, I will let you go, that ye may sacrifice to the LORD your God in the wilderness; only ye shall not go very far away: intreat for me."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "1739",
+      "text": "And Pharaoh said, I will let you go, that ye may sacrifice to the <span class='nog'>LORD</span> your God in the wilderness; only ye shall not go very far away: intreat for me.",
+      "plainText": "And Pharaoh said, I will let you go, that ye may sacrifice to the LORD your God in the wilderness; only ye shall not go very far away: intreat for me."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "1740",
-      "text" : "And Moses said, Behold, I go out from thee, and I will intreat the <span class='nog'>LORD<\/span> that the swarms <span class='extra'>of flies<\/span> may depart from Pharaoh, from his servants, and from his people, to morrow: but let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And Moses said, Behold, I go out from thee, and I will intreat the LORD that the swarms of flies may depart from Pharaoh, from his servants, and from his people, to morrow: but let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "1740",
+      "text": "And Moses said, Behold, I go out from thee, and I will intreat the <span class='nog'>LORD</span> that the swarms <span class='extra'>of flies</span> may depart from Pharaoh, from his servants, and from his people, to morrow: but let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to the <span class='nog'>LORD</span>.",
+      "plainText": "And Moses said, Behold, I go out from thee, and I will intreat the LORD that the swarms of flies may depart from Pharaoh, from his servants, and from his people, to morrow: but let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "1741",
-      "text" : "And Moses went out from Pharaoh, and intreated the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And Moses went out from Pharaoh, and intreated the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "1741",
+      "text": "And Moses went out from Pharaoh, and intreated the <span class='nog'>LORD</span>.",
+      "plainText": "And Moses went out from Pharaoh, and intreated the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "1742",
-      "text" : "And the <span class='nog'>LORD<\/span> did according to the word of Moses; and he removed the swarms <span class='extra'>of flies<\/span> from Pharaoh, from his servants, and from his people; there remained not one.",
-      "plainText" : "And the LORD did according to the word of Moses; and he removed the swarms of flies from Pharaoh, from his servants, and from his people; there remained not one."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "1742",
+      "text": "And the <span class='nog'>LORD</span> did according to the word of Moses; and he removed the swarms <span class='extra'>of flies</span> from Pharaoh, from his servants, and from his people; there remained not one.",
+      "plainText": "And the LORD did according to the word of Moses; and he removed the swarms of flies from Pharaoh, from his servants, and from his people; there remained not one."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "1743",
-      "text" : "And Pharaoh hardened his heart at this time also, neither would he let the people go.",
-      "plainText" : "And Pharaoh hardened his heart at this time also, neither would he let the people go."
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "1743",
+      "text": "And Pharaoh hardened his heart at this time also, neither would he let the people go.",
+      "plainText": "And Pharaoh hardened his heart at this time also, neither would he let the people go."
     }
   ]
 }
-
-

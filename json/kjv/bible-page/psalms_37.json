@@ -1,396 +1,355 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "37",
-    "verseCount" : "40",
-    "nextChapter" : "psalms_38.html",
-    "nextTitle" : "Psalms 38",
-    "prevChapter" : "psalms_36.html",
-    "prevTitle" : "Psalms 36",
-    "filename" : "psalms_37.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "37",
+    "verseCount": "40",
+    "nextChapter": "psalms_38.html",
+    "nextTitle": "Psalms 38",
+    "prevChapter": "psalms_36.html",
+    "prevTitle": "Psalms 36",
+    "filename": "psalms_37.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "<span class='extra'>A Psalm<\/span> of David.",
-      "plainText" : "A Psalm of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "<span class='extra'>A Psalm</span> of David.",
+      "plainText": "A Psalm of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14452",
-      "text" : "Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.",
-      "plainText" : "Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14452",
+      "text": "Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.",
+      "plainText": "Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14453",
-      "text" : "For they shall soon be cut down like the grass, and wither as the green herb.",
-      "plainText" : "For they shall soon be cut down like the grass, and wither as the green herb."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14453",
+      "text": "For they shall soon be cut down like the grass, and wither as the green herb.",
+      "plainText": "For they shall soon be cut down like the grass, and wither as the green herb."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14454",
-      "text" : "Trust in the <span class='nog'>LORD<\/span>, and do good; <span class='extra'>so<\/span> shalt thou dwell in the land, and verily thou shalt be fed.",
-      "plainText" : "Trust in the LORD, and do good; so shalt thou dwell in the land, and verily thou shalt be fed."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14454",
+      "text": "Trust in the <span class='nog'>LORD</span>, and do good; <span class='extra'>so</span> shalt thou dwell in the land, and verily thou shalt be fed.",
+      "plainText": "Trust in the LORD, and do good; so shalt thou dwell in the land, and verily thou shalt be fed."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14455",
-      "text" : "Delight thyself also in the <span class='nog'>LORD<\/span>; and he shall give thee the desires of thine heart.",
-      "plainText" : "Delight thyself also in the LORD; and he shall give thee the desires of thine heart."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14455",
+      "text": "Delight thyself also in the <span class='nog'>LORD</span>; and he shall give thee the desires of thine heart.",
+      "plainText": "Delight thyself also in the LORD; and he shall give thee the desires of thine heart."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14456",
-      "text" : "Commit thy way unto the <span class='nog'>LORD<\/span>; trust also in him; and he shall bring <span class='extra'>it<\/span> to pass.",
-      "plainText" : "Commit thy way unto the LORD; trust also in him; and he shall bring it to pass."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14456",
+      "text": "Commit thy way unto the <span class='nog'>LORD</span>; trust also in him; and he shall bring <span class='extra'>it</span> to pass.",
+      "plainText": "Commit thy way unto the LORD; trust also in him; and he shall bring it to pass."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14457",
-      "text" : "And he shall bring forth thy righteousness as the light, and thy judgment as the noonday.",
-      "plainText" : "And he shall bring forth thy righteousness as the light, and thy judgment as the noonday."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14457",
+      "text": "And he shall bring forth thy righteousness as the light, and thy judgment as the noonday.",
+      "plainText": "And he shall bring forth thy righteousness as the light, and thy judgment as the noonday."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14458",
-      "text" : "Rest in the <span class='nog'>LORD<\/span>, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass.",
-      "plainText" : "Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14458",
+      "text": "Rest in the <span class='nog'>LORD</span>, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass.",
+      "plainText": "Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14459",
-      "text" : "Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.",
-      "plainText" : "Cease from anger, and forsake wrath: fret not thyself in any wise to do evil."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14459",
+      "text": "Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.",
+      "plainText": "Cease from anger, and forsake wrath: fret not thyself in any wise to do evil."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14460",
-      "text" : "For evildoers shall be cut off: but those that wait upon the <span class='nog'>LORD<\/span>, they shall inherit the earth.",
-      "plainText" : "For evildoers shall be cut off: but those that wait upon the LORD, they shall inherit the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14460",
+      "text": "For evildoers shall be cut off: but those that wait upon the <span class='nog'>LORD</span>, they shall inherit the earth.",
+      "plainText": "For evildoers shall be cut off: but those that wait upon the LORD, they shall inherit the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "14461",
-      "text" : "For yet a little while, and the wicked <span class='extra'>shall<\/span> not <span class='extra'>be<\/span>: yea, thou shalt diligently consider his place, and it <span class='extra'>shall<\/span> not <span class='extra'>be<\/span>.",
-      "plainText" : "For yet a little while, and the wicked shall not be: yea, thou shalt diligently consider his place, and it shall not be."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "14461",
+      "text": "For yet a little while, and the wicked <span class='extra'>shall</span> not <span class='extra'>be</span>: yea, thou shalt diligently consider his place, and it <span class='extra'>shall</span> not <span class='extra'>be</span>.",
+      "plainText": "For yet a little while, and the wicked shall not be: yea, thou shalt diligently consider his place, and it shall not be."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "14462",
-      "text" : "But the meek shall inherit the earth; and shall delight themselves in the abundance of peace.",
-      "plainText" : "But the meek shall inherit the earth; and shall delight themselves in the abundance of peace."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "14462",
+      "text": "But the meek shall inherit the earth; and shall delight themselves in the abundance of peace.",
+      "plainText": "But the meek shall inherit the earth; and shall delight themselves in the abundance of peace."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "14463",
-      "text" : "The wicked plotteth against the just, and gnasheth upon him with his teeth.",
-      "plainText" : "The wicked plotteth against the just, and gnasheth upon him with his teeth."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "14463",
+      "text": "The wicked plotteth against the just, and gnasheth upon him with his teeth.",
+      "plainText": "The wicked plotteth against the just, and gnasheth upon him with his teeth."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "14464",
-      "text" : "The Lord shall laugh at him: for he seeth that his day is coming.",
-      "plainText" : "The Lord shall laugh at him: for he seeth that his day is coming."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "14464",
+      "text": "The Lord shall laugh at him: for he seeth that his day is coming.",
+      "plainText": "The Lord shall laugh at him: for he seeth that his day is coming."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "14465",
-      "text" : "The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, <span class='extra'>and<\/span> to slay such as be of upright conversation.",
-      "plainText" : "The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "14465",
+      "text": "The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, <span class='extra'>and</span> to slay such as be of upright conversation.",
+      "plainText": "The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "14466",
-      "text" : "Their sword shall enter into their own heart, and their bows shall be broken.",
-      "plainText" : "Their sword shall enter into their own heart, and their bows shall be broken."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "14466",
+      "text": "Their sword shall enter into their own heart, and their bows shall be broken.",
+      "plainText": "Their sword shall enter into their own heart, and their bows shall be broken."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "14467",
-      "text" : "A little that a righteous man hath <span class='extra'>is<\/span> better than the riches of many wicked.",
-      "plainText" : "A little that a righteous man hath is better than the riches of many wicked."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "14467",
+      "text": "A little that a righteous man hath <span class='extra'>is</span> better than the riches of many wicked.",
+      "plainText": "A little that a righteous man hath is better than the riches of many wicked."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "14468",
-      "text" : "For the arms of the wicked shall be broken: but the <span class='nog'>LORD<\/span> upholdeth the righteous.",
-      "plainText" : "For the arms of the wicked shall be broken: but the LORD upholdeth the righteous."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "14468",
+      "text": "For the arms of the wicked shall be broken: but the <span class='nog'>LORD</span> upholdeth the righteous.",
+      "plainText": "For the arms of the wicked shall be broken: but the LORD upholdeth the righteous."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "14469",
-      "text" : "The <span class='nog'>LORD<\/span> knoweth the days of the upright: and their inheritance shall be for ever.",
-      "plainText" : "The LORD knoweth the days of the upright: and their inheritance shall be for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "14469",
+      "text": "The <span class='nog'>LORD</span> knoweth the days of the upright: and their inheritance shall be for ever.",
+      "plainText": "The LORD knoweth the days of the upright: and their inheritance shall be for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "14470",
-      "text" : "They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied.",
-      "plainText" : "They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "14470",
+      "text": "They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied.",
+      "plainText": "They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "14471",
-      "text" : "But the wicked shall perish, and the enemies of the <span class='nog'>LORD<\/span> <span class='extra'>shall be<\/span> as the fat of lambs: they shall consume; into smoke shall they consume away.",
-      "plainText" : "But the wicked shall perish, and the enemies of the LORD shall be as the fat of lambs: they shall consume; into smoke shall they consume away."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "14471",
+      "text": "But the wicked shall perish, and the enemies of the <span class='nog'>LORD</span> <span class='extra'>shall be</span> as the fat of lambs: they shall consume; into smoke shall they consume away.",
+      "plainText": "But the wicked shall perish, and the enemies of the LORD shall be as the fat of lambs: they shall consume; into smoke shall they consume away."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "14472",
-      "text" : "The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth.",
-      "plainText" : "The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "14472",
+      "text": "The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth.",
+      "plainText": "The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "14473",
-      "text" : "For <span class='extra'>such as be<\/span> blessed of him shall inherit the earth; and <span class='extra'>they that be<\/span> cursed of him shall be cut off.",
-      "plainText" : "For such as be blessed of him shall inherit the earth; and they that be cursed of him shall be cut off."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "14473",
+      "text": "For <span class='extra'>such as be</span> blessed of him shall inherit the earth; and <span class='extra'>they that be</span> cursed of him shall be cut off.",
+      "plainText": "For such as be blessed of him shall inherit the earth; and they that be cursed of him shall be cut off."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "14474",
-      "text" : "The steps of a <span class='extra'>good<\/span> man are ordered by the <span class='nog'>LORD<\/span>: and he delighteth in his way.",
-      "plainText" : "The steps of a good man are ordered by the LORD: and he delighteth in his way."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "14474",
+      "text": "The steps of a <span class='extra'>good</span> man are ordered by the <span class='nog'>LORD</span>: and he delighteth in his way.",
+      "plainText": "The steps of a good man are ordered by the LORD: and he delighteth in his way."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "14475",
-      "text" : "Though he fall, he shall not be utterly cast down: for the <span class='nog'>LORD<\/span> upholdeth <span class='extra'>him with<\/span> his hand.",
-      "plainText" : "Though he fall, he shall not be utterly cast down: for the LORD upholdeth him with his hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "14475",
+      "text": "Though he fall, he shall not be utterly cast down: for the <span class='nog'>LORD</span> upholdeth <span class='extra'>him with</span> his hand.",
+      "plainText": "Though he fall, he shall not be utterly cast down: for the LORD upholdeth him with his hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "14476",
-      "text" : "I have been young, and <span class='extra'>now<\/span> am old; yet have I not seen the righteous forsaken, nor his seed begging bread.",
-      "plainText" : "I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "14476",
+      "text": "I have been young, and <span class='extra'>now</span> am old; yet have I not seen the righteous forsaken, nor his seed begging bread.",
+      "plainText": "I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "14477",
-      "text" : "<span class='extra'>He is<\/span> ever merciful, and lendeth; and his seed <span class='extra'>is<\/span> blessed.",
-      "plainText" : "He is ever merciful, and lendeth; and his seed is blessed."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "14477",
+      "text": "<span class='extra'>He is</span> ever merciful, and lendeth; and his seed <span class='extra'>is</span> blessed.",
+      "plainText": "He is ever merciful, and lendeth; and his seed is blessed."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "14478",
-      "text" : "Depart from evil, and do good; and dwell for evermore.",
-      "plainText" : "Depart from evil, and do good; and dwell for evermore."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "14478",
+      "text": "Depart from evil, and do good; and dwell for evermore.",
+      "plainText": "Depart from evil, and do good; and dwell for evermore."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "14479",
-      "text" : "For the <span class='nog'>LORD<\/span> loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off.",
-      "plainText" : "For the LORD loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "14479",
+      "text": "For the <span class='nog'>LORD</span> loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off.",
+      "plainText": "For the LORD loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "14480",
-      "text" : "The righteous shall inherit the land, and dwell therein for ever.",
-      "plainText" : "The righteous shall inherit the land, and dwell therein for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "14480",
+      "text": "The righteous shall inherit the land, and dwell therein for ever.",
+      "plainText": "The righteous shall inherit the land, and dwell therein for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "14481",
-      "text" : "The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.",
-      "plainText" : "The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "14481",
+      "text": "The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.",
+      "plainText": "The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "14482",
-      "text" : "The law of his God <span class='extra'>is<\/span> in his heart; none of his steps shall slide.",
-      "plainText" : "The law of his God is in his heart; none of his steps shall slide."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "14482",
+      "text": "The law of his God <span class='extra'>is</span> in his heart; none of his steps shall slide.",
+      "plainText": "The law of his God is in his heart; none of his steps shall slide."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "14483",
-      "text" : "The wicked watcheth the righteous, and seeketh to slay him.",
-      "plainText" : "The wicked watcheth the righteous, and seeketh to slay him."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "14483",
+      "text": "The wicked watcheth the righteous, and seeketh to slay him.",
+      "plainText": "The wicked watcheth the righteous, and seeketh to slay him."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "14484",
-      "text" : "The <span class='nog'>LORD<\/span> will not leave him in his hand, nor condemn him when he is judged.",
-      "plainText" : "The LORD will not leave him in his hand, nor condemn him when he is judged."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "14484",
+      "text": "The <span class='nog'>LORD</span> will not leave him in his hand, nor condemn him when he is judged.",
+      "plainText": "The LORD will not leave him in his hand, nor condemn him when he is judged."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "14485",
-      "text" : "Wait on the <span class='nog'>LORD<\/span>, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see <span class='extra'>it<\/span>.",
-      "plainText" : "Wait on the LORD, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see it."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "14485",
+      "text": "Wait on the <span class='nog'>LORD</span>, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see <span class='extra'>it</span>.",
+      "plainText": "Wait on the LORD, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see it."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "14486",
-      "text" : "I have seen the wicked in great power, and spreading himself like a green bay tree.",
-      "plainText" : "I have seen the wicked in great power, and spreading himself like a green bay tree."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "14486",
+      "text": "I have seen the wicked in great power, and spreading himself like a green bay tree.",
+      "plainText": "I have seen the wicked in great power, and spreading himself like a green bay tree."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "14487",
-      "text" : "Yet he passed away, and, lo, he <span class='extra'>was<\/span> not: yea, I sought him, but he could not be found.",
-      "plainText" : "Yet he passed away, and, lo, he was not: yea, I sought him, but he could not be found."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "14487",
+      "text": "Yet he passed away, and, lo, he <span class='extra'>was</span> not: yea, I sought him, but he could not be found.",
+      "plainText": "Yet he passed away, and, lo, he was not: yea, I sought him, but he could not be found."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "14488",
-      "text" : "Mark the perfect <span class='extra'>man<\/span>, and behold the upright: for the end of <span class='extra'>that<\/span> man <span class='extra'>is<\/span> peace.",
-      "plainText" : "Mark the perfect man, and behold the upright: for the end of that man is peace."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "14488",
+      "text": "Mark the perfect <span class='extra'>man</span>, and behold the upright: for the end of <span class='extra'>that</span> man <span class='extra'>is</span> peace.",
+      "plainText": "Mark the perfect man, and behold the upright: for the end of that man is peace."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "14489",
-      "text" : "But the transgressors shall be destroyed together: the end of the wicked shall be cut off.",
-      "plainText" : "But the transgressors shall be destroyed together: the end of the wicked shall be cut off."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "14489",
+      "text": "But the transgressors shall be destroyed together: the end of the wicked shall be cut off.",
+      "plainText": "But the transgressors shall be destroyed together: the end of the wicked shall be cut off."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "14490",
-      "text" : "But the salvation of the righteous <span class='extra'>is<\/span> of the <span class='nog'>LORD<\/span>: <span class='extra'>he is<\/span> their strength in the time of trouble.",
-      "plainText" : "But the salvation of the righteous is of the LORD: he is their strength in the time of trouble."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "14490",
+      "text": "But the salvation of the righteous <span class='extra'>is</span> of the <span class='nog'>LORD</span>: <span class='extra'>he is</span> their strength in the time of trouble.",
+      "plainText": "But the salvation of the righteous is of the LORD: he is their strength in the time of trouble."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "14491",
-      "text" : "And the <span class='nog'>LORD<\/span> shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.",
-      "plainText" : "And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him."
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "14491",
+      "text": "And the <span class='nog'>LORD</span> shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.",
+      "plainText": "And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him."
     }
   ]
 }
-
-

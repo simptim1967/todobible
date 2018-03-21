@@ -1,497 +1,445 @@
 {
   "book": {
-    "number" : "5",
-    "filenamePrefix" : "deuteronomy",
-    "bookPage" : "deuteronomy.html",
-    "title" : "Deuteronomy",
-    "chapterCount" : "34",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "joshua_1.html",
-    "nextTitle" : "Joshua",
-    "prevBook" : "numbers_1.html",
-    "prevTitle" : "Numbers"
+    "number": "5",
+    "filenamePrefix": "deuteronomy",
+    "bookPage": "deuteronomy.html",
+    "title": "Deuteronomy",
+    "chapterCount": "34",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "joshua_1.html",
+    "nextTitle": "Joshua",
+    "prevBook": "numbers_1.html",
+    "prevTitle": "Numbers",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "32",
-    "verseCount" : "52",
-    "nextChapter" : "deuteronomy_33.html",
-    "nextTitle" : "Deuteronomy 33",
-    "prevChapter" : "deuteronomy_31.html",
-    "prevTitle" : "Deuteronomy 31",
-    "filename" : "deuteronomy_32.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "32",
+    "verseCount": "52",
+    "nextChapter": "deuteronomy_33.html",
+    "nextTitle": "Deuteronomy 33",
+    "prevChapter": "deuteronomy_31.html",
+    "prevTitle": "Deuteronomy 31",
+    "filename": "deuteronomy_32.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "5760",
-      "text" : "Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.",
-      "plainText" : "Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "5760",
+      "text": "Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.",
+      "plainText": "Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "5761",
-      "text" : "My doctrine shall drop as the rain, my speech shall distil as the dew, as the small rain upon the tender herb, and as the showers upon the grass:",
-      "plainText" : "My doctrine shall drop as the rain, my speech shall distil as the dew, as the small rain upon the tender herb, and as the showers upon the grass:"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "5761",
+      "text": "My doctrine shall drop as the rain, my speech shall distil as the dew, as the small rain upon the tender herb, and as the showers upon the grass:",
+      "plainText": "My doctrine shall drop as the rain, my speech shall distil as the dew, as the small rain upon the tender herb, and as the showers upon the grass:"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "5762",
-      "text" : "Because I will publish the name of the <span class='nog'>LORD<\/span>: ascribe ye greatness unto our God.",
-      "plainText" : "Because I will publish the name of the LORD: ascribe ye greatness unto our God."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "5762",
+      "text": "Because I will publish the name of the <span class='nog'>LORD</span>: ascribe ye greatness unto our God.",
+      "plainText": "Because I will publish the name of the LORD: ascribe ye greatness unto our God."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "5763",
-      "text" : "<span class='extra'>He is<\/span> the Rock, his work <span class='extra'>is<\/span> perfect: for all his ways <span class='extra'>are<\/span> judgment: a God of truth and without iniquity, just and right <span class='extra'>is<\/span> he.",
-      "plainText" : "He is the Rock, his work is perfect: for all his ways are judgment: a God of truth and without iniquity, just and right is he."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "5763",
+      "text": "<span class='extra'>He is</span> the Rock, his work <span class='extra'>is</span> perfect: for all his ways <span class='extra'>are</span> judgment: a God of truth and without iniquity, just and right <span class='extra'>is</span> he.",
+      "plainText": "He is the Rock, his work is perfect: for all his ways are judgment: a God of truth and without iniquity, just and right is he."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "5764",
-      "text" : "They have corrupted themselves, their spot <span class='extra'>is<\/span> not <span class='extra'>the spot<\/span> of his children: <span class='extra'>they are<\/span> a perverse and crooked generation.",
-      "plainText" : "They have corrupted themselves, their spot is not the spot of his children: they are a perverse and crooked generation."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "5764",
+      "text": "They have corrupted themselves, their spot <span class='extra'>is</span> not <span class='extra'>the spot</span> of his children: <span class='extra'>they are</span> a perverse and crooked generation.",
+      "plainText": "They have corrupted themselves, their spot is not the spot of his children: they are a perverse and crooked generation."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "5765",
-      "text" : "Do ye thus requite the <span class='nog'>LORD<\/span>, O foolish people and unwise? <span class='extra'>is<\/span> not he thy father <span class='extra'>that<\/span> hath bought thee? hath he not made thee, and established thee?",
-      "plainText" : "Do ye thus requite the LORD, O foolish people and unwise? is not he thy father that hath bought thee? hath he not made thee, and established thee?"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "5765",
+      "text": "Do ye thus requite the <span class='nog'>LORD</span>, O foolish people and unwise? <span class='extra'>is</span> not he thy father <span class='extra'>that</span> hath bought thee? hath he not made thee, and established thee?",
+      "plainText": "Do ye thus requite the LORD, O foolish people and unwise? is not he thy father that hath bought thee? hath he not made thee, and established thee?"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "5766",
-      "text" : "Remember the days of old, consider the years of many generations: ask thy father, and he will shew thee; thy elders, and they will tell thee.",
-      "plainText" : "Remember the days of old, consider the years of many generations: ask thy father, and he will shew thee; thy elders, and they will tell thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "5766",
+      "text": "Remember the days of old, consider the years of many generations: ask thy father, and he will shew thee; thy elders, and they will tell thee.",
+      "plainText": "Remember the days of old, consider the years of many generations: ask thy father, and he will shew thee; thy elders, and they will tell thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "5767",
-      "text" : "When the most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.",
-      "plainText" : "When the most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "5767",
+      "text": "When the most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.",
+      "plainText": "When the most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "5768",
-      "text" : "For the <span class='nog'>LORD<\/span>'s portion <span class='extra'>is<\/span> his people; Jacob <span class='extra'>is<\/span> the lot of his inheritance.",
-      "plainText" : "For the LORD's portion is his people; Jacob is the lot of his inheritance."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "5768",
+      "text": "For the <span class='nog'>LORD</span>'s portion <span class='extra'>is</span> his people; Jacob <span class='extra'>is</span> the lot of his inheritance.",
+      "plainText": "For the LORD's portion is his people; Jacob is the lot of his inheritance."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "5769",
-      "text" : "He found him in a desert land, and in the waste howling wilderness; he led him about, he instructed him, he kept him as the apple of his eye.",
-      "plainText" : "He found him in a desert land, and in the waste howling wilderness; he led him about, he instructed him, he kept him as the apple of his eye."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "5769",
+      "text": "He found him in a desert land, and in the waste howling wilderness; he led him about, he instructed him, he kept him as the apple of his eye.",
+      "plainText": "He found him in a desert land, and in the waste howling wilderness; he led him about, he instructed him, he kept him as the apple of his eye."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "5770",
-      "text" : "As an eagle stirreth up her nest, fluttereth over her young, spreadeth abroad her wings, taketh them, beareth them on her wings:",
-      "plainText" : "As an eagle stirreth up her nest, fluttereth over her young, spreadeth abroad her wings, taketh them, beareth them on her wings:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "5770",
+      "text": "As an eagle stirreth up her nest, fluttereth over her young, spreadeth abroad her wings, taketh them, beareth them on her wings:",
+      "plainText": "As an eagle stirreth up her nest, fluttereth over her young, spreadeth abroad her wings, taketh them, beareth them on her wings:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "5771",
-      "text" : "<span class='extra'>So<\/span> the <span class='nog'>LORD<\/span> alone did lead him, and <span class='extra'>there was<\/span> no strange god with him.",
-      "plainText" : "So the LORD alone did lead him, and there was no strange god with him."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "5771",
+      "text": "<span class='extra'>So</span> the <span class='nog'>LORD</span> alone did lead him, and <span class='extra'>there was</span> no strange god with him.",
+      "plainText": "So the LORD alone did lead him, and there was no strange god with him."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "5772",
-      "text" : "He made him ride on the high places of the earth, that he might eat the increase of the fields; and he made him to suck honey out of the rock, and oil out of the flinty rock;",
-      "plainText" : "He made him ride on the high places of the earth, that he might eat the increase of the fields; and he made him to suck honey out of the rock, and oil out of the flinty rock;"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "5772",
+      "text": "He made him ride on the high places of the earth, that he might eat the increase of the fields; and he made him to suck honey out of the rock, and oil out of the flinty rock;",
+      "plainText": "He made him ride on the high places of the earth, that he might eat the increase of the fields; and he made him to suck honey out of the rock, and oil out of the flinty rock;"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "5773",
-      "text" : "Butter of kine, and milk of sheep, with fat of lambs, and rams of the breed of Bashan, and goats, with the fat of kidneys of wheat; and thou didst drink the pure blood of the grape.",
-      "plainText" : "Butter of kine, and milk of sheep, with fat of lambs, and rams of the breed of Bashan, and goats, with the fat of kidneys of wheat; and thou didst drink the pure blood of the grape."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "5773",
+      "text": "Butter of kine, and milk of sheep, with fat of lambs, and rams of the breed of Bashan, and goats, with the fat of kidneys of wheat; and thou didst drink the pure blood of the grape.",
+      "plainText": "Butter of kine, and milk of sheep, with fat of lambs, and rams of the breed of Bashan, and goats, with the fat of kidneys of wheat; and thou didst drink the pure blood of the grape."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "5774",
-      "text" : "But Jeshurun waxed fat, and kicked: thou art waxen fat, thou art grown thick, thou art covered <span class='extra'>with fatness<\/span>; then he forsook God <span class='extra'>which<\/span> made him, and lightly esteemed the Rock of his salvation.",
-      "plainText" : "But Jeshurun waxed fat, and kicked: thou art waxen fat, thou art grown thick, thou art covered with fatness; then he forsook God which made him, and lightly esteemed the Rock of his salvation."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "5774",
+      "text": "But Jeshurun waxed fat, and kicked: thou art waxen fat, thou art grown thick, thou art covered <span class='extra'>with fatness</span>; then he forsook God <span class='extra'>which</span> made him, and lightly esteemed the Rock of his salvation.",
+      "plainText": "But Jeshurun waxed fat, and kicked: thou art waxen fat, thou art grown thick, thou art covered with fatness; then he forsook God which made him, and lightly esteemed the Rock of his salvation."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "5775",
-      "text" : "They provoked him to jealousy with strange <span class='extra'>gods<\/span>, with abominations provoked they him to anger.",
-      "plainText" : "They provoked him to jealousy with strange gods, with abominations provoked they him to anger."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "5775",
+      "text": "They provoked him to jealousy with strange <span class='extra'>gods</span>, with abominations provoked they him to anger.",
+      "plainText": "They provoked him to jealousy with strange gods, with abominations provoked they him to anger."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "5776",
-      "text" : "They sacrificed unto devils, not to God; to gods whom they knew not, to new <span class='extra'>gods that<\/span> came newly up, whom your fathers feared not.",
-      "plainText" : "They sacrificed unto devils, not to God; to gods whom they knew not, to new gods that came newly up, whom your fathers feared not."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "5776",
+      "text": "They sacrificed unto devils, not to God; to gods whom they knew not, to new <span class='extra'>gods that</span> came newly up, whom your fathers feared not.",
+      "plainText": "They sacrificed unto devils, not to God; to gods whom they knew not, to new gods that came newly up, whom your fathers feared not."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "5777",
-      "text" : "Of the Rock <span class='extra'>that<\/span> begat thee thou art unmindful, and hast forgotten God that formed thee.",
-      "plainText" : "Of the Rock that begat thee thou art unmindful, and hast forgotten God that formed thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "5777",
+      "text": "Of the Rock <span class='extra'>that</span> begat thee thou art unmindful, and hast forgotten God that formed thee.",
+      "plainText": "Of the Rock that begat thee thou art unmindful, and hast forgotten God that formed thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "5778",
-      "text" : "And when the <span class='nog'>LORD<\/span> saw <span class='extra'>it<\/span>, he abhorred <span class='extra'>them<\/span>, because of the provoking of his sons, and of his daughters.",
-      "plainText" : "And when the LORD saw it, he abhorred them, because of the provoking of his sons, and of his daughters."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "5778",
+      "text": "And when the <span class='nog'>LORD</span> saw <span class='extra'>it</span>, he abhorred <span class='extra'>them</span>, because of the provoking of his sons, and of his daughters.",
+      "plainText": "And when the LORD saw it, he abhorred them, because of the provoking of his sons, and of his daughters."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "5779",
-      "text" : "And he said, I will hide my face from them, I will see what their end <span class='extra'>shall be<\/span>: for they <span class='extra'>are<\/span> a very froward generation, children in whom <span class='extra'>is<\/span> no faith.",
-      "plainText" : "And he said, I will hide my face from them, I will see what their end shall be: for they are a very froward generation, children in whom is no faith."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "5779",
+      "text": "And he said, I will hide my face from them, I will see what their end <span class='extra'>shall be</span>: for they <span class='extra'>are</span> a very froward generation, children in whom <span class='extra'>is</span> no faith.",
+      "plainText": "And he said, I will hide my face from them, I will see what their end shall be: for they are a very froward generation, children in whom is no faith."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "5780",
-      "text" : "They have moved me to jealousy with <span class='extra'>that which is<\/span> not God; they have provoked me to anger with their vanities: and I will move them to jealousy with <span class='extra'>those which are<\/span> not a people; I will provoke them to anger with a foolish nation.",
-      "plainText" : "They have moved me to jealousy with that which is not God; they have provoked me to anger with their vanities: and I will move them to jealousy with those which are not a people; I will provoke them to anger with a foolish nation."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "5780",
+      "text": "They have moved me to jealousy with <span class='extra'>that which is</span> not God; they have provoked me to anger with their vanities: and I will move them to jealousy with <span class='extra'>those which are</span> not a people; I will provoke them to anger with a foolish nation.",
+      "plainText": "They have moved me to jealousy with that which is not God; they have provoked me to anger with their vanities: and I will move them to jealousy with those which are not a people; I will provoke them to anger with a foolish nation."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "5781",
-      "text" : "For a fire is kindled in mine anger, and shall burn unto the lowest hell, and shall consume the earth with her increase, and set on fire the foundations of the mountains.",
-      "plainText" : "For a fire is kindled in mine anger, and shall burn unto the lowest hell, and shall consume the earth with her increase, and set on fire the foundations of the mountains."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "5781",
+      "text": "For a fire is kindled in mine anger, and shall burn unto the lowest hell, and shall consume the earth with her increase, and set on fire the foundations of the mountains.",
+      "plainText": "For a fire is kindled in mine anger, and shall burn unto the lowest hell, and shall consume the earth with her increase, and set on fire the foundations of the mountains."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "5782",
-      "text" : "I will heap mischiefs upon them; I will spend mine arrows upon them.",
-      "plainText" : "I will heap mischiefs upon them; I will spend mine arrows upon them."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "5782",
+      "text": "I will heap mischiefs upon them; I will spend mine arrows upon them.",
+      "plainText": "I will heap mischiefs upon them; I will spend mine arrows upon them."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "5783",
-      "text" : "<span class='extra'>They shall be<\/span> burnt with hunger, and devoured with burning heat, and with bitter destruction: I will also send the teeth of beasts upon them, with the poison of serpents of the dust.",
-      "plainText" : "They shall be burnt with hunger, and devoured with burning heat, and with bitter destruction: I will also send the teeth of beasts upon them, with the poison of serpents of the dust."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "5783",
+      "text": "<span class='extra'>They shall be</span> burnt with hunger, and devoured with burning heat, and with bitter destruction: I will also send the teeth of beasts upon them, with the poison of serpents of the dust.",
+      "plainText": "They shall be burnt with hunger, and devoured with burning heat, and with bitter destruction: I will also send the teeth of beasts upon them, with the poison of serpents of the dust."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "5784",
-      "text" : "The sword without, and terror within, shall destroy both the young man and the virgin, the suckling <span class='extra'>also<\/span> with the man of gray hairs.",
-      "plainText" : "The sword without, and terror within, shall destroy both the young man and the virgin, the suckling also with the man of gray hairs."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "5784",
+      "text": "The sword without, and terror within, shall destroy both the young man and the virgin, the suckling <span class='extra'>also</span> with the man of gray hairs.",
+      "plainText": "The sword without, and terror within, shall destroy both the young man and the virgin, the suckling also with the man of gray hairs."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "5785",
-      "text" : "I said, I would scatter them into corners, I would make the remembrance of them to cease from among men:",
-      "plainText" : "I said, I would scatter them into corners, I would make the remembrance of them to cease from among men:"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "5785",
+      "text": "I said, I would scatter them into corners, I would make the remembrance of them to cease from among men:",
+      "plainText": "I said, I would scatter them into corners, I would make the remembrance of them to cease from among men:"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "5786",
-      "text" : "Were it not that I feared the wrath of the enemy, lest their adversaries should behave themselves strangely, <span class='extra'>and<\/span> lest they should say, Our hand <span class='extra'>is<\/span> high, and the <span class='nog'>LORD<\/span> hath not done all this.",
-      "plainText" : "Were it not that I feared the wrath of the enemy, lest their adversaries should behave themselves strangely, and lest they should say, Our hand is high, and the LORD hath not done all this."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "5786",
+      "text": "Were it not that I feared the wrath of the enemy, lest their adversaries should behave themselves strangely, <span class='extra'>and</span> lest they should say, Our hand <span class='extra'>is</span> high, and the <span class='nog'>LORD</span> hath not done all this.",
+      "plainText": "Were it not that I feared the wrath of the enemy, lest their adversaries should behave themselves strangely, and lest they should say, Our hand is high, and the LORD hath not done all this."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "5787",
-      "text" : "For they <span class='extra'>are<\/span> a nation void of counsel, neither <span class='extra'>is there any<\/span> understanding in them.",
-      "plainText" : "For they are a nation void of counsel, neither is there any understanding in them."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "5787",
+      "text": "For they <span class='extra'>are</span> a nation void of counsel, neither <span class='extra'>is there any</span> understanding in them.",
+      "plainText": "For they are a nation void of counsel, neither is there any understanding in them."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "5788",
-      "text" : "O that they were wise, <span class='extra'>that<\/span> they understood this, <span class='extra'>that<\/span> they would consider their latter end!",
-      "plainText" : "O that they were wise, that they understood this, that they would consider their latter end!"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "5788",
+      "text": "O that they were wise, <span class='extra'>that</span> they understood this, <span class='extra'>that</span> they would consider their latter end!",
+      "plainText": "O that they were wise, that they understood this, that they would consider their latter end!"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "5789",
-      "text" : "How should one chase a thousand, and two put ten thousand to flight, except their Rock had sold them, and the <span class='nog'>LORD<\/span> had shut them up?",
-      "plainText" : "How should one chase a thousand, and two put ten thousand to flight, except their Rock had sold them, and the LORD had shut them up?"
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "5789",
+      "text": "How should one chase a thousand, and two put ten thousand to flight, except their Rock had sold them, and the <span class='nog'>LORD</span> had shut them up?",
+      "plainText": "How should one chase a thousand, and two put ten thousand to flight, except their Rock had sold them, and the LORD had shut them up?"
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "5790",
-      "text" : "For their rock <span class='extra'>is<\/span> not as our Rock, even our enemies themselves <span class='extra'>being<\/span> judges.",
-      "plainText" : "For their rock is not as our Rock, even our enemies themselves being judges."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "5790",
+      "text": "For their rock <span class='extra'>is</span> not as our Rock, even our enemies themselves <span class='extra'>being</span> judges.",
+      "plainText": "For their rock is not as our Rock, even our enemies themselves being judges."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "5791",
-      "text" : "For their vine <span class='extra'>is<\/span> of the vine of Sodom, and of the fields of Gomorrah: their grapes <span class='extra'>are<\/span> grapes of gall, their clusters <span class='extra'>are<\/span> bitter:",
-      "plainText" : "For their vine is of the vine of Sodom, and of the fields of Gomorrah: their grapes are grapes of gall, their clusters are bitter:"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "5791",
+      "text": "For their vine <span class='extra'>is</span> of the vine of Sodom, and of the fields of Gomorrah: their grapes <span class='extra'>are</span> grapes of gall, their clusters <span class='extra'>are</span> bitter:",
+      "plainText": "For their vine is of the vine of Sodom, and of the fields of Gomorrah: their grapes are grapes of gall, their clusters are bitter:"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "5792",
-      "text" : "Their wine <span class='extra'>is<\/span> the poison of dragons, and the cruel venom of asps.",
-      "plainText" : "Their wine is the poison of dragons, and the cruel venom of asps."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "5792",
+      "text": "Their wine <span class='extra'>is</span> the poison of dragons, and the cruel venom of asps.",
+      "plainText": "Their wine is the poison of dragons, and the cruel venom of asps."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "5793",
-      "text" : "<span class='extra'>Is<\/span> not this laid up in store with me, <span class='extra'>and<\/span> sealed up among my treasures?",
-      "plainText" : "Is not this laid up in store with me, and sealed up among my treasures?"
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "5793",
+      "text": "<span class='extra'>Is</span> not this laid up in store with me, <span class='extra'>and</span> sealed up among my treasures?",
+      "plainText": "Is not this laid up in store with me, and sealed up among my treasures?"
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "5794",
-      "text" : "To me <span class='extra'>belongeth<\/span> vengeance, and recompence; their foot shall slide in <span class='extra'>due<\/span> time: for the day of their calamity <span class='extra'>is<\/span> at hand, and the things that shall come upon them make haste.",
-      "plainText" : "To me belongeth vengeance, and recompence; their foot shall slide in due time: for the day of their calamity is at hand, and the things that shall come upon them make haste."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "5794",
+      "text": "To me <span class='extra'>belongeth</span> vengeance, and recompence; their foot shall slide in <span class='extra'>due</span> time: for the day of their calamity <span class='extra'>is</span> at hand, and the things that shall come upon them make haste.",
+      "plainText": "To me belongeth vengeance, and recompence; their foot shall slide in due time: for the day of their calamity is at hand, and the things that shall come upon them make haste."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "5795",
-      "text" : "For the <span class='nog'>LORD<\/span> shall judge his people, and repent himself for his servants, when he seeth that <span class='extra'>their<\/span> power is gone, and <span class='extra'>there is<\/span> none shut up, or left.",
-      "plainText" : "For the LORD shall judge his people, and repent himself for his servants, when he seeth that their power is gone, and there is none shut up, or left."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "5795",
+      "text": "For the <span class='nog'>LORD</span> shall judge his people, and repent himself for his servants, when he seeth that <span class='extra'>their</span> power is gone, and <span class='extra'>there is</span> none shut up, or left.",
+      "plainText": "For the LORD shall judge his people, and repent himself for his servants, when he seeth that their power is gone, and there is none shut up, or left."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "5796",
-      "text" : "And he shall say, Where <span class='extra'>are<\/span> their gods, <span class='extra'>their<\/span> rock in whom they trusted,",
-      "plainText" : "And he shall say, Where are their gods, their rock in whom they trusted,"
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "5796",
+      "text": "And he shall say, Where <span class='extra'>are</span> their gods, <span class='extra'>their</span> rock in whom they trusted,",
+      "plainText": "And he shall say, Where are their gods, their rock in whom they trusted,"
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "5797",
-      "text" : "Which did eat the fat of their sacrifices, <span class='extra'>and<\/span> drank the wine of their drink offerings? let them rise up and help you, <span class='extra'>and<\/span> be your protection.",
-      "plainText" : "Which did eat the fat of their sacrifices, and drank the wine of their drink offerings? let them rise up and help you, and be your protection."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "5797",
+      "text": "Which did eat the fat of their sacrifices, <span class='extra'>and</span> drank the wine of their drink offerings? let them rise up and help you, <span class='extra'>and</span> be your protection.",
+      "plainText": "Which did eat the fat of their sacrifices, and drank the wine of their drink offerings? let them rise up and help you, and be your protection."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "5798",
-      "text" : "See now that I, <span class='extra'>even<\/span> I, <span class='extra'>am<\/span> he, and <span class='extra'>there is<\/span> no god with me: I kill, and I make alive; I wound, and I heal: neither <span class='extra'>is there any<\/span> that can deliver out of my hand.",
-      "plainText" : "See now that I, even I, am he, and there is no god with me: I kill, and I make alive; I wound, and I heal: neither is there any that can deliver out of my hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "5798",
+      "text": "See now that I, <span class='extra'>even</span> I, <span class='extra'>am</span> he, and <span class='extra'>there is</span> no god with me: I kill, and I make alive; I wound, and I heal: neither <span class='extra'>is there any</span> that can deliver out of my hand.",
+      "plainText": "See now that I, even I, am he, and there is no god with me: I kill, and I make alive; I wound, and I heal: neither is there any that can deliver out of my hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "5799",
-      "text" : "For I lift up my hand to heaven, and say, I live for ever.",
-      "plainText" : "For I lift up my hand to heaven, and say, I live for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "5799",
+      "text": "For I lift up my hand to heaven, and say, I live for ever.",
+      "plainText": "For I lift up my hand to heaven, and say, I live for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "5800",
-      "text" : "If I whet my glittering sword, and mine hand take hold on judgment; I will render vengeance to mine enemies, and will reward them that hate me.",
-      "plainText" : "If I whet my glittering sword, and mine hand take hold on judgment; I will render vengeance to mine enemies, and will reward them that hate me."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "5800",
+      "text": "If I whet my glittering sword, and mine hand take hold on judgment; I will render vengeance to mine enemies, and will reward them that hate me.",
+      "plainText": "If I whet my glittering sword, and mine hand take hold on judgment; I will render vengeance to mine enemies, and will reward them that hate me."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "5801",
-      "text" : "I will make mine arrows drunk with blood, and my sword shall devour flesh; <span class='extra'>and that<\/span> with the blood of the slain and of the captives, from the beginning of revenges upon the enemy.",
-      "plainText" : "I will make mine arrows drunk with blood, and my sword shall devour flesh; and that with the blood of the slain and of the captives, from the beginning of revenges upon the enemy."
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "5801",
+      "text": "I will make mine arrows drunk with blood, and my sword shall devour flesh; <span class='extra'>and that</span> with the blood of the slain and of the captives, from the beginning of revenges upon the enemy.",
+      "plainText": "I will make mine arrows drunk with blood, and my sword shall devour flesh; and that with the blood of the slain and of the captives, from the beginning of revenges upon the enemy."
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "5802",
-      "text" : "Rejoice, O ye nations, <span class='extra'>with<\/span> his people: for he will avenge the blood of his servants, and will render vengeance to his adversaries, and will be merciful unto his land, <span class='extra'>and<\/span> to his people.",
-      "plainText" : "Rejoice, O ye nations, with his people: for he will avenge the blood of his servants, and will render vengeance to his adversaries, and will be merciful unto his land, and to his people."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "5802",
+      "text": "Rejoice, O ye nations, <span class='extra'>with</span> his people: for he will avenge the blood of his servants, and will render vengeance to his adversaries, and will be merciful unto his land, <span class='extra'>and</span> to his people.",
+      "plainText": "Rejoice, O ye nations, with his people: for he will avenge the blood of his servants, and will render vengeance to his adversaries, and will be merciful unto his land, and to his people."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "5803",
-      "text" : "And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.",
-      "plainText" : "And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "5803",
+      "text": "And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.",
+      "plainText": "And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "5804",
-      "text" : "And Moses made an end of speaking all these words to all Israel:",
-      "plainText" : "And Moses made an end of speaking all these words to all Israel:"
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "5804",
+      "text": "And Moses made an end of speaking all these words to all Israel:",
+      "plainText": "And Moses made an end of speaking all these words to all Israel:"
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "5805",
-      "text" : "And he said unto them, Set your hearts unto all the words which I testify among you this day, which ye shall command your children to observe to do, all the words of this law.",
-      "plainText" : "And he said unto them, Set your hearts unto all the words which I testify among you this day, which ye shall command your children to observe to do, all the words of this law."
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "5805",
+      "text": "And he said unto them, Set your hearts unto all the words which I testify among you this day, which ye shall command your children to observe to do, all the words of this law.",
+      "plainText": "And he said unto them, Set your hearts unto all the words which I testify among you this day, which ye shall command your children to observe to do, all the words of this law."
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "5806",
-      "text" : "For it <span class='extra'>is<\/span> not a vain thing for you; because it <span class='extra'>is<\/span> your life: and through this thing ye shall prolong <span class='extra'>your<\/span> days in the land, whither ye go over Jordan to possess it.",
-      "plainText" : "For it is not a vain thing for you; because it is your life: and through this thing ye shall prolong your days in the land, whither ye go over Jordan to possess it."
-    }
-    ,
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "5806",
+      "text": "For it <span class='extra'>is</span> not a vain thing for you; because it <span class='extra'>is</span> your life: and through this thing ye shall prolong <span class='extra'>your</span> days in the land, whither ye go over Jordan to possess it.",
+      "plainText": "For it is not a vain thing for you; because it is your life: and through this thing ye shall prolong your days in the land, whither ye go over Jordan to possess it."
+    },
     {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "5807",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses that selfsame day, saying,",
-      "plainText" : "And the LORD spake unto Moses that selfsame day, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "5807",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses that selfsame day, saying,",
+      "plainText": "And the LORD spake unto Moses that selfsame day, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "5808",
-      "text" : "Get thee up into this mountain Abarim, <span class='extra'>unto<\/span> mount Nebo, which <span class='extra'>is<\/span> in the land of Moab, that <span class='extra'>is<\/span> over against Jericho; and behold the land of Canaan, which I give unto the children of Israel for a possession:",
-      "plainText" : "Get thee up into this mountain Abarim, unto mount Nebo, which is in the land of Moab, that is over against Jericho; and behold the land of Canaan, which I give unto the children of Israel for a possession:"
-    }
-    ,
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "5808",
+      "text": "Get thee up into this mountain Abarim, <span class='extra'>unto</span> mount Nebo, which <span class='extra'>is</span> in the land of Moab, that <span class='extra'>is</span> over against Jericho; and behold the land of Canaan, which I give unto the children of Israel for a possession:",
+      "plainText": "Get thee up into this mountain Abarim, unto mount Nebo, which is in the land of Moab, that is over against Jericho; and behold the land of Canaan, which I give unto the children of Israel for a possession:"
+    },
     {
-      "type" : "verse",
-      "id" : "v50",
-      "number" : "50",
-      "absolute" : "5809",
-      "text" : "And die in the mount whither thou goest up, and be gathered unto thy people; as Aaron thy brother died in mount Hor, and was gathered unto his people:",
-      "plainText" : "And die in the mount whither thou goest up, and be gathered unto thy people; as Aaron thy brother died in mount Hor, and was gathered unto his people:"
-    }
-    ,
+      "type": "verse",
+      "id": "v50",
+      "number": "50",
+      "absolute": "5809",
+      "text": "And die in the mount whither thou goest up, and be gathered unto thy people; as Aaron thy brother died in mount Hor, and was gathered unto his people:",
+      "plainText": "And die in the mount whither thou goest up, and be gathered unto thy people; as Aaron thy brother died in mount Hor, and was gathered unto his people:"
+    },
     {
-      "type" : "verse",
-      "id" : "v51",
-      "number" : "51",
-      "absolute" : "5810",
-      "text" : "Because ye trespassed against me among the children of Israel at the waters of Meribah-Kadesh, in the wilderness of Zin; because ye sanctified me not in the midst of the children of Israel.",
-      "plainText" : "Because ye trespassed against me among the children of Israel at the waters of Meribah-Kadesh, in the wilderness of Zin; because ye sanctified me not in the midst of the children of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v51",
+      "number": "51",
+      "absolute": "5810",
+      "text": "Because ye trespassed against me among the children of Israel at the waters of Meribah-Kadesh, in the wilderness of Zin; because ye sanctified me not in the midst of the children of Israel.",
+      "plainText": "Because ye trespassed against me among the children of Israel at the waters of Meribah-Kadesh, in the wilderness of Zin; because ye sanctified me not in the midst of the children of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v52",
-      "number" : "52",
-      "absolute" : "5811",
-      "text" : "Yet thou shalt see the land before <span class='extra'>thee<\/span>; but thou shalt not go thither unto the land which I give the children of Israel.",
-      "plainText" : "Yet thou shalt see the land before thee; but thou shalt not go thither unto the land which I give the children of Israel."
+      "type": "verse",
+      "id": "v52",
+      "number": "52",
+      "absolute": "5811",
+      "text": "Yet thou shalt see the land before <span class='extra'>thee</span>; but thou shalt not go thither unto the land which I give the children of Israel.",
+      "plainText": "Yet thou shalt see the land before thee; but thou shalt not go thither unto the land which I give the children of Israel."
     }
   ]
 }
-
-

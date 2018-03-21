@@ -1,488 +1,437 @@
 {
   "book": {
-    "number" : "2",
-    "filenamePrefix" : "exodus",
-    "bookPage" : "exodus.html",
-    "title" : "Exodus",
-    "chapterCount" : "40",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "leviticus_1.html",
-    "nextTitle" : "Leviticus",
-    "prevBook" : "genesis_1.html",
-    "prevTitle" : "Genesis"
+    "number": "2",
+    "filenamePrefix": "exodus",
+    "bookPage": "exodus.html",
+    "title": "Exodus",
+    "chapterCount": "40",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "leviticus_1.html",
+    "nextTitle": "Leviticus",
+    "prevBook": "genesis_1.html",
+    "prevTitle": "Genesis",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "12",
-    "verseCount" : "51",
-    "nextChapter" : "exodus_13.html",
-    "nextTitle" : "Exodus 13",
-    "prevChapter" : "exodus_11.html",
-    "prevTitle" : "Exodus 11",
-    "filename" : "exodus_12.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "12",
+    "verseCount": "51",
+    "nextChapter": "exodus_13.html",
+    "nextTitle": "Exodus 13",
+    "prevChapter": "exodus_11.html",
+    "prevTitle": "Exodus 11",
+    "filename": "exodus_12.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "1818",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses and Aaron in the land of Egypt, saying,",
-      "plainText" : "And the LORD spake unto Moses and Aaron in the land of Egypt, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "1818",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses and Aaron in the land of Egypt, saying,",
+      "plainText": "And the LORD spake unto Moses and Aaron in the land of Egypt, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "1819",
-      "text" : "This month <span class='extra'>shall be<\/span> unto you the beginning of months: it <span class='extra'>shall be<\/span> the first month of the year to you.",
-      "plainText" : "This month shall be unto you the beginning of months: it shall be the first month of the year to you."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "1819",
+      "text": "This month <span class='extra'>shall be</span> unto you the beginning of months: it <span class='extra'>shall be</span> the first month of the year to you.",
+      "plainText": "This month shall be unto you the beginning of months: it shall be the first month of the year to you."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "1820",
-      "text" : "Speak ye unto all the congregation of Israel, saying, In the tenth <span class='extra'>day<\/span> of this month they shall take to them every man a lamb, according to the house of <span class='extra'>their<\/span> fathers, a lamb for an house:",
-      "plainText" : "Speak ye unto all the congregation of Israel, saying, In the tenth day of this month they shall take to them every man a lamb, according to the house of their fathers, a lamb for an house:"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "1820",
+      "text": "Speak ye unto all the congregation of Israel, saying, In the tenth <span class='extra'>day</span> of this month they shall take to them every man a lamb, according to the house of <span class='extra'>their</span> fathers, a lamb for an house:",
+      "plainText": "Speak ye unto all the congregation of Israel, saying, In the tenth day of this month they shall take to them every man a lamb, according to the house of their fathers, a lamb for an house:"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "1821",
-      "text" : "And if the household be too little for the lamb, let him and his neighbour next unto his house take <span class='extra'>it<\/span> according to the number of the souls; every man according to his eating shall make your count for the lamb.",
-      "plainText" : "And if the household be too little for the lamb, let him and his neighbour next unto his house take it according to the number of the souls; every man according to his eating shall make your count for the lamb."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "1821",
+      "text": "And if the household be too little for the lamb, let him and his neighbour next unto his house take <span class='extra'>it</span> according to the number of the souls; every man according to his eating shall make your count for the lamb.",
+      "plainText": "And if the household be too little for the lamb, let him and his neighbour next unto his house take it according to the number of the souls; every man according to his eating shall make your count for the lamb."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "1822",
-      "text" : "Your lamb shall be without blemish, a male of the first year: ye shall take <span class='extra'>it<\/span> out from the sheep, or from the goats:",
-      "plainText" : "Your lamb shall be without blemish, a male of the first year: ye shall take it out from the sheep, or from the goats:"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "1822",
+      "text": "Your lamb shall be without blemish, a male of the first year: ye shall take <span class='extra'>it</span> out from the sheep, or from the goats:",
+      "plainText": "Your lamb shall be without blemish, a male of the first year: ye shall take it out from the sheep, or from the goats:"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "1823",
-      "text" : "And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening.",
-      "plainText" : "And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "1823",
+      "text": "And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening.",
+      "plainText": "And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "1824",
-      "text" : "And they shall take of the blood, and strike <span class='extra'>it<\/span> on the two side posts and on the upper door post of the houses, wherein they shall eat it.",
-      "plainText" : "And they shall take of the blood, and strike it on the two side posts and on the upper door post of the houses, wherein they shall eat it."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "1824",
+      "text": "And they shall take of the blood, and strike <span class='extra'>it</span> on the two side posts and on the upper door post of the houses, wherein they shall eat it.",
+      "plainText": "And they shall take of the blood, and strike it on the two side posts and on the upper door post of the houses, wherein they shall eat it."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "1825",
-      "text" : "And they shall eat the flesh in that night, roast with fire, and unleavened bread; <span class='extra'>and<\/span> with bitter <span class='extra'>herbs<\/span> they shall eat it.",
-      "plainText" : "And they shall eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "1825",
+      "text": "And they shall eat the flesh in that night, roast with fire, and unleavened bread; <span class='extra'>and</span> with bitter <span class='extra'>herbs</span> they shall eat it.",
+      "plainText": "And they shall eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "1826",
-      "text" : "Eat not of it raw, nor sodden at all with water, but roast <span class='extra'>with<\/span> fire; his head with his legs, and with the purtenance thereof.",
-      "plainText" : "Eat not of it raw, nor sodden at all with water, but roast with fire; his head with his legs, and with the purtenance thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "1826",
+      "text": "Eat not of it raw, nor sodden at all with water, but roast <span class='extra'>with</span> fire; his head with his legs, and with the purtenance thereof.",
+      "plainText": "Eat not of it raw, nor sodden at all with water, but roast with fire; his head with his legs, and with the purtenance thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "1827",
-      "text" : "And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire.",
-      "plainText" : "And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "1827",
+      "text": "And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire.",
+      "plainText": "And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "1828",
-      "text" : "And thus shall ye eat it; <span class='extra'>with<\/span> your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it <span class='extra'>is<\/span> the <span class='nog'>LORD<\/span>'s passover.",
-      "plainText" : "And thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is the LORD's passover."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "1828",
+      "text": "And thus shall ye eat it; <span class='extra'>with</span> your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it <span class='extra'>is</span> the <span class='nog'>LORD</span>'s passover.",
+      "plainText": "And thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is the LORD's passover."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "1829",
-      "text" : "For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>.",
-      "plainText" : "For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I am the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "1829",
+      "text": "For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I <span class='extra'>am</span> the <span class='nog'>LORD</span>.",
+      "plainText": "For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I am the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "1830",
-      "text" : "And the blood shall be to you for a token upon the houses where ye <span class='extra'>are<\/span>: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy <span class='extra'>you<\/span>, when I smite the land of Egypt.",
-      "plainText" : "And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "1830",
+      "text": "And the blood shall be to you for a token upon the houses where ye <span class='extra'>are</span>: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy <span class='extra'>you</span>, when I smite the land of Egypt.",
+      "plainText": "And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "1831",
-      "text" : "And this day shall be unto you for a memorial; and ye shall keep it a feast to the <span class='nog'>LORD<\/span> throughout your generations; ye shall keep it a feast by an ordinance for ever.",
-      "plainText" : "And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "1831",
+      "text": "And this day shall be unto you for a memorial; and ye shall keep it a feast to the <span class='nog'>LORD</span> throughout your generations; ye shall keep it a feast by an ordinance for ever.",
+      "plainText": "And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "1832",
-      "text" : "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.",
-      "plainText" : "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "1832",
+      "text": "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.",
+      "plainText": "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "1833",
-      "text" : "And in the first day <span class='extra'>there shall be<\/span> an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save <span class='extra'>that<\/span> which every man must eat, that only may be done of you.",
-      "plainText" : "And in the first day there shall be an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save that which every man must eat, that only may be done of you."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "1833",
+      "text": "And in the first day <span class='extra'>there shall be</span> an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save <span class='extra'>that</span> which every man must eat, that only may be done of you.",
+      "plainText": "And in the first day there shall be an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save that which every man must eat, that only may be done of you."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "1834",
-      "text" : "And ye shall observe <span class='extra'>the feast of<\/span> unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever.",
-      "plainText" : "And ye shall observe the feast of unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "1834",
+      "text": "And ye shall observe <span class='extra'>the feast of</span> unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever.",
+      "plainText": "And ye shall observe the feast of unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "1835",
-      "text" : "In the first <span class='extra'>month<\/span>, on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even.",
-      "plainText" : "In the first month, on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "1835",
+      "text": "In the first <span class='extra'>month</span>, on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even.",
+      "plainText": "In the first month, on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "1836",
-      "text" : "Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land.",
-      "plainText" : "Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "1836",
+      "text": "Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land.",
+      "plainText": "Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "1837",
-      "text" : "Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread.",
-      "plainText" : "Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "1837",
+      "text": "Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread.",
+      "plainText": "Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "1838",
-      "text" : "Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover.",
-      "plainText" : "Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "1838",
+      "text": "Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover.",
+      "plainText": "Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "1839",
-      "text" : "And ye shall take a bunch of hyssop, and dip <span class='extra'>it<\/span> in the blood that <span class='extra'>is<\/span> in the bason, and strike the lintel and the two side posts with the blood that <span class='extra'>is<\/span> in the bason; and none of you shall go out at the door of his house until the morning.",
-      "plainText" : "And ye shall take a bunch of hyssop, and dip it in the blood that is in the bason, and strike the lintel and the two side posts with the blood that is in the bason; and none of you shall go out at the door of his house until the morning."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "1839",
+      "text": "And ye shall take a bunch of hyssop, and dip <span class='extra'>it</span> in the blood that <span class='extra'>is</span> in the bason, and strike the lintel and the two side posts with the blood that <span class='extra'>is</span> in the bason; and none of you shall go out at the door of his house until the morning.",
+      "plainText": "And ye shall take a bunch of hyssop, and dip it in the blood that is in the bason, and strike the lintel and the two side posts with the blood that is in the bason; and none of you shall go out at the door of his house until the morning."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "1840",
-      "text" : "For the <span class='nog'>LORD<\/span> will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the <span class='nog'>LORD<\/span> will pass over the door, and will not suffer the destroyer to come in unto your houses to smite <span class='extra'>you<\/span>.",
-      "plainText" : "For the LORD will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the LORD will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "1840",
+      "text": "For the <span class='nog'>LORD</span> will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the <span class='nog'>LORD</span> will pass over the door, and will not suffer the destroyer to come in unto your houses to smite <span class='extra'>you</span>.",
+      "plainText": "For the LORD will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the LORD will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "1841",
-      "text" : "And ye shall observe this thing for an ordinance to thee and to thy sons for ever.",
-      "plainText" : "And ye shall observe this thing for an ordinance to thee and to thy sons for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "1841",
+      "text": "And ye shall observe this thing for an ordinance to thee and to thy sons for ever.",
+      "plainText": "And ye shall observe this thing for an ordinance to thee and to thy sons for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "1842",
-      "text" : "And it shall come to pass, when ye be come to the land which the <span class='nog'>LORD<\/span> will give you, according as he hath promised, that ye shall keep this service.",
-      "plainText" : "And it shall come to pass, when ye be come to the land which the LORD will give you, according as he hath promised, that ye shall keep this service."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "1842",
+      "text": "And it shall come to pass, when ye be come to the land which the <span class='nog'>LORD</span> will give you, according as he hath promised, that ye shall keep this service.",
+      "plainText": "And it shall come to pass, when ye be come to the land which the LORD will give you, according as he hath promised, that ye shall keep this service."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "1843",
-      "text" : "And it shall come to pass, when your children shall say unto you, What mean ye by this service?",
-      "plainText" : "And it shall come to pass, when your children shall say unto you, What mean ye by this service?"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "1843",
+      "text": "And it shall come to pass, when your children shall say unto you, What mean ye by this service?",
+      "plainText": "And it shall come to pass, when your children shall say unto you, What mean ye by this service?"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "1844",
-      "text" : "That ye shall say, It <span class='extra'>is<\/span> the sacrifice of the <span class='nog'>LORD<\/span>'s passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped.",
-      "plainText" : "That ye shall say, It is the sacrifice of the LORD's passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "1844",
+      "text": "That ye shall say, It <span class='extra'>is</span> the sacrifice of the <span class='nog'>LORD</span>'s passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped.",
+      "plainText": "That ye shall say, It is the sacrifice of the LORD's passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "1845",
-      "text" : "And the children of Israel went away, and did as the <span class='nog'>LORD<\/span> had commanded Moses and Aaron, so did they.",
-      "plainText" : "And the children of Israel went away, and did as the LORD had commanded Moses and Aaron, so did they."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "1845",
+      "text": "And the children of Israel went away, and did as the <span class='nog'>LORD</span> had commanded Moses and Aaron, so did they.",
+      "plainText": "And the children of Israel went away, and did as the LORD had commanded Moses and Aaron, so did they."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "1846",
-      "text" : "And it came to pass, that at midnight the <span class='nog'>LORD<\/span> smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that <span class='extra'>was<\/span> in the dungeon; and all the firstborn of cattle.",
-      "plainText" : "And it came to pass, that at midnight the LORD smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon; and all the firstborn of cattle."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "1846",
+      "text": "And it came to pass, that at midnight the <span class='nog'>LORD</span> smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that <span class='extra'>was</span> in the dungeon; and all the firstborn of cattle.",
+      "plainText": "And it came to pass, that at midnight the LORD smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon; and all the firstborn of cattle."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "1847",
-      "text" : "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for <span class='extra'>there was<\/span> not a house where <span class='extra'>there was<\/span> not one dead.",
-      "plainText" : "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "1847",
+      "text": "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for <span class='extra'>there was</span> not a house where <span class='extra'>there was</span> not one dead.",
+      "plainText": "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "1848",
-      "text" : "And he called for Moses and Aaron by night, and said, Rise up, <span class='extra'>and<\/span> get you forth from among my people, both ye and the children of Israel; and go, serve the <span class='nog'>LORD<\/span>, as ye have said.",
-      "plainText" : "And he called for Moses and Aaron by night, and said, Rise up, and get you forth from among my people, both ye and the children of Israel; and go, serve the LORD, as ye have said."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "1848",
+      "text": "And he called for Moses and Aaron by night, and said, Rise up, <span class='extra'>and</span> get you forth from among my people, both ye and the children of Israel; and go, serve the <span class='nog'>LORD</span>, as ye have said.",
+      "plainText": "And he called for Moses and Aaron by night, and said, Rise up, and get you forth from among my people, both ye and the children of Israel; and go, serve the LORD, as ye have said."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "1849",
-      "text" : "Also take your flocks and your herds, as ye have said, and be gone; and bless me also.",
-      "plainText" : "Also take your flocks and your herds, as ye have said, and be gone; and bless me also."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "1849",
+      "text": "Also take your flocks and your herds, as ye have said, and be gone; and bless me also.",
+      "plainText": "Also take your flocks and your herds, as ye have said, and be gone; and bless me also."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "1850",
-      "text" : "And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We <span class='extra'>be<\/span> all dead <span class='extra'>men<\/span>.",
-      "plainText" : "And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We be all dead men."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "1850",
+      "text": "And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We <span class='extra'>be</span> all dead <span class='extra'>men</span>.",
+      "plainText": "And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We be all dead men."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "1851",
-      "text" : "And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders.",
-      "plainText" : "And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "1851",
+      "text": "And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders.",
+      "plainText": "And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "1852",
-      "text" : "And the children of Israel did according to the word of Moses; and they borrowed of the Egyptians jewels of silver, and jewels of gold, and raiment:",
-      "plainText" : "And the children of Israel did according to the word of Moses; and they borrowed of the Egyptians jewels of silver, and jewels of gold, and raiment:"
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "1852",
+      "text": "And the children of Israel did according to the word of Moses; and they borrowed of the Egyptians jewels of silver, and jewels of gold, and raiment:",
+      "plainText": "And the children of Israel did according to the word of Moses; and they borrowed of the Egyptians jewels of silver, and jewels of gold, and raiment:"
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "1853",
-      "text" : "And the <span class='nog'>LORD<\/span> gave the people favour in the sight of the Egyptians, so that they lent unto them <span class='extra'>such things as they required<\/span>. And they spoiled the Egyptians.",
-      "plainText" : "And the LORD gave the people favour in the sight of the Egyptians, so that they lent unto them such things as they required. And they spoiled the Egyptians."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "1853",
+      "text": "And the <span class='nog'>LORD</span> gave the people favour in the sight of the Egyptians, so that they lent unto them <span class='extra'>such things as they required</span>. And they spoiled the Egyptians.",
+      "plainText": "And the LORD gave the people favour in the sight of the Egyptians, so that they lent unto them such things as they required. And they spoiled the Egyptians."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "1854",
-      "text" : "And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot <span class='extra'>that were<\/span> men, beside children.",
-      "plainText" : "And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot that were men, beside children."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "1854",
+      "text": "And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot <span class='extra'>that were</span> men, beside children.",
+      "plainText": "And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot that were men, beside children."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "1855",
-      "text" : "And a mixed multitude went up also with them; and flocks, and herds, <span class='extra'>even<\/span> very much cattle.",
-      "plainText" : "And a mixed multitude went up also with them; and flocks, and herds, even very much cattle."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "1855",
+      "text": "And a mixed multitude went up also with them; and flocks, and herds, <span class='extra'>even</span> very much cattle.",
+      "plainText": "And a mixed multitude went up also with them; and flocks, and herds, even very much cattle."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "1856",
-      "text" : "And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual.",
-      "plainText" : "And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "1856",
+      "text": "And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual.",
+      "plainText": "And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "1857",
-      "text" : "Now the sojourning of the children of Israel, who dwelt in Egypt, <span class='extra'>was<\/span> four hundred and thirty years.",
-      "plainText" : "Now the sojourning of the children of Israel, who dwelt in Egypt, was four hundred and thirty years."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "1857",
+      "text": "Now the sojourning of the children of Israel, who dwelt in Egypt, <span class='extra'>was</span> four hundred and thirty years.",
+      "plainText": "Now the sojourning of the children of Israel, who dwelt in Egypt, was four hundred and thirty years."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "1858",
-      "text" : "And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the <span class='nog'>LORD<\/span> went out from the land of Egypt.",
-      "plainText" : "And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the LORD went out from the land of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "1858",
+      "text": "And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the <span class='nog'>LORD</span> went out from the land of Egypt.",
+      "plainText": "And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the LORD went out from the land of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "1859",
-      "text" : "It <span class='extra'>is<\/span> a night to be much observed unto the <span class='nog'>LORD<\/span> for bringing them out from the land of Egypt: this <span class='extra'>is<\/span> that night of the <span class='nog'>LORD<\/span> to be observed of all the children of Israel in their generations.",
-      "plainText" : "It is a night to be much observed unto the LORD for bringing them out from the land of Egypt: this is that night of the LORD to be observed of all the children of Israel in their generations."
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "1859",
+      "text": "It <span class='extra'>is</span> a night to be much observed unto the <span class='nog'>LORD</span> for bringing them out from the land of Egypt: this <span class='extra'>is</span> that night of the <span class='nog'>LORD</span> to be observed of all the children of Israel in their generations.",
+      "plainText": "It is a night to be much observed unto the LORD for bringing them out from the land of Egypt: this is that night of the LORD to be observed of all the children of Israel in their generations."
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "1860",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto Moses and Aaron, This <span class='extra'>is<\/span> the ordinance of the passover: There shall no stranger eat thereof:",
-      "plainText" : "And the LORD said unto Moses and Aaron, This is the ordinance of the passover: There shall no stranger eat thereof:"
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "1860",
+      "text": "And the <span class='nog'>LORD</span> said unto Moses and Aaron, This <span class='extra'>is</span> the ordinance of the passover: There shall no stranger eat thereof:",
+      "plainText": "And the LORD said unto Moses and Aaron, This is the ordinance of the passover: There shall no stranger eat thereof:"
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "1861",
-      "text" : "But every man's servant that is bought for money, when thou hast circumcised him, then shall he eat thereof.",
-      "plainText" : "But every man's servant that is bought for money, when thou hast circumcised him, then shall he eat thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "1861",
+      "text": "But every man's servant that is bought for money, when thou hast circumcised him, then shall he eat thereof.",
+      "plainText": "But every man's servant that is bought for money, when thou hast circumcised him, then shall he eat thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "1862",
-      "text" : "A foreigner and an hired servant shall not eat thereof.",
-      "plainText" : "A foreigner and an hired servant shall not eat thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "1862",
+      "text": "A foreigner and an hired servant shall not eat thereof.",
+      "plainText": "A foreigner and an hired servant shall not eat thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "1863",
-      "text" : "In one house shall it be eaten; thou shalt not carry forth ought of the flesh abroad out of the house; neither shall ye break a bone thereof.",
-      "plainText" : "In one house shall it be eaten; thou shalt not carry forth ought of the flesh abroad out of the house; neither shall ye break a bone thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "1863",
+      "text": "In one house shall it be eaten; thou shalt not carry forth ought of the flesh abroad out of the house; neither shall ye break a bone thereof.",
+      "plainText": "In one house shall it be eaten; thou shalt not carry forth ought of the flesh abroad out of the house; neither shall ye break a bone thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "1864",
-      "text" : "All the congregation of Israel shall keep it.",
-      "plainText" : "All the congregation of Israel shall keep it."
-    }
-    ,
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "1864",
+      "text": "All the congregation of Israel shall keep it.",
+      "plainText": "All the congregation of Israel shall keep it."
+    },
     {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "1865",
-      "text" : "And when a stranger shall sojourn with thee, and will keep the passover to the <span class='nog'>LORD<\/span>, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof.",
-      "plainText" : "And when a stranger shall sojourn with thee, and will keep the passover to the LORD, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "1865",
+      "text": "And when a stranger shall sojourn with thee, and will keep the passover to the <span class='nog'>LORD</span>, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof.",
+      "plainText": "And when a stranger shall sojourn with thee, and will keep the passover to the LORD, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "1866",
-      "text" : "One law shall be to him that is homeborn, and unto the stranger that sojourneth among you.",
-      "plainText" : "One law shall be to him that is homeborn, and unto the stranger that sojourneth among you."
-    }
-    ,
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "1866",
+      "text": "One law shall be to him that is homeborn, and unto the stranger that sojourneth among you.",
+      "plainText": "One law shall be to him that is homeborn, and unto the stranger that sojourneth among you."
+    },
     {
-      "type" : "verse",
-      "id" : "v50",
-      "number" : "50",
-      "absolute" : "1867",
-      "text" : "Thus did all the children of Israel; as the <span class='nog'>LORD<\/span> commanded Moses and Aaron, so did they.",
-      "plainText" : "Thus did all the children of Israel; as the LORD commanded Moses and Aaron, so did they."
-    }
-    ,
+      "type": "verse",
+      "id": "v50",
+      "number": "50",
+      "absolute": "1867",
+      "text": "Thus did all the children of Israel; as the <span class='nog'>LORD</span> commanded Moses and Aaron, so did they.",
+      "plainText": "Thus did all the children of Israel; as the LORD commanded Moses and Aaron, so did they."
+    },
     {
-      "type" : "verse",
-      "id" : "v51",
-      "number" : "51",
-      "absolute" : "1868",
-      "text" : "And it came to pass the selfsame day, <span class='extra'>that<\/span> the <span class='nog'>LORD<\/span> did bring the children of Israel out of the land of Egypt by their armies.",
-      "plainText" : "And it came to pass the selfsame day, that the LORD did bring the children of Israel out of the land of Egypt by their armies."
+      "type": "verse",
+      "id": "v51",
+      "number": "51",
+      "absolute": "1868",
+      "text": "And it came to pass the selfsame day, <span class='extra'>that</span> the <span class='nog'>LORD</span> did bring the children of Israel out of the land of Egypt by their armies.",
+      "plainText": "And it came to pass the selfsame day, that the LORD did bring the children of Israel out of the land of Egypt by their armies."
     }
   ]
 }
-
-

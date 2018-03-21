@@ -1,137 +1,125 @@
 {
   "book": {
-    "number" : "23",
-    "filenamePrefix" : "isaiah",
-    "bookPage" : "isaiah.html",
-    "title" : "Isaiah",
-    "chapterCount" : "66",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "jeremiah_1.html",
-    "nextTitle" : "Jeremiah",
-    "prevBook" : "song_of_solomon_1.html",
-    "prevTitle" : "Song of Solomon"
+    "number": "23",
+    "filenamePrefix": "isaiah",
+    "bookPage": "isaiah.html",
+    "title": "Isaiah",
+    "chapterCount": "66",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "jeremiah_1.html",
+    "nextTitle": "Jeremiah",
+    "prevBook": "song_of_solomon_1.html",
+    "prevTitle": "Song of Solomon",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "53",
-    "verseCount" : "12",
-    "nextChapter" : "isaiah_54.html",
-    "nextTitle" : "Isaiah 54",
-    "prevChapter" : "isaiah_52.html",
-    "prevTitle" : "Isaiah 52",
-    "filename" : "isaiah_53.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "53",
+    "verseCount": "12",
+    "nextChapter": "isaiah_54.html",
+    "nextTitle": "Isaiah 54",
+    "prevChapter": "isaiah_52.html",
+    "prevTitle": "Isaiah 52",
+    "filename": "isaiah_53.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "18713",
-      "text" : "Who hath believed our report? and to whom is the arm of the <span class='nog'>LORD<\/span> revealed?",
-      "plainText" : "Who hath believed our report? and to whom is the arm of the LORD revealed?"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "18713",
+      "text": "Who hath believed our report? and to whom is the arm of the <span class='nog'>LORD</span> revealed?",
+      "plainText": "Who hath believed our report? and to whom is the arm of the LORD revealed?"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "18714",
-      "text" : "For he shall grow up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we shall see him, <span class='extra'>there is<\/span> no beauty that we should desire him.",
-      "plainText" : "For he shall grow up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we shall see him, there is no beauty that we should desire him."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "18714",
+      "text": "For he shall grow up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we shall see him, <span class='extra'>there is</span> no beauty that we should desire him.",
+      "plainText": "For he shall grow up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we shall see him, there is no beauty that we should desire him."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "18715",
-      "text" : "He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were <span class='extra'>our<\/span> faces from him; he was despised, and we esteemed him not.",
-      "plainText" : "He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "18715",
+      "text": "He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were <span class='extra'>our</span> faces from him; he was despised, and we esteemed him not.",
+      "plainText": "He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "18716",
-      "text" : "Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.",
-      "plainText" : "Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "18716",
+      "text": "Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.",
+      "plainText": "Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "18717",
-      "text" : "But he <span class='extra'>was<\/span> wounded for our transgressions, <span class='extra'>he was<\/span> bruised for our iniquities: the chastisement of our peace <span class='extra'>was<\/span> upon him; and with his stripes we are healed.",
-      "plainText" : "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "18717",
+      "text": "But he <span class='extra'>was</span> wounded for our transgressions, <span class='extra'>he was</span> bruised for our iniquities: the chastisement of our peace <span class='extra'>was</span> upon him; and with his stripes we are healed.",
+      "plainText": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "18718",
-      "text" : "All we like sheep have gone astray; we have turned every one to his own way; and the <span class='nog'>LORD<\/span> hath laid on him the iniquity of us all.",
-      "plainText" : "All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "18718",
+      "text": "All we like sheep have gone astray; we have turned every one to his own way; and the <span class='nog'>LORD</span> hath laid on him the iniquity of us all.",
+      "plainText": "All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "18719",
-      "text" : "He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.",
-      "plainText" : "He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "18719",
+      "text": "He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.",
+      "plainText": "He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "18720",
-      "text" : "He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.",
-      "plainText" : "He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "18720",
+      "text": "He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.",
+      "plainText": "He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "18721",
-      "text" : "And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither <span class='extra'>was any<\/span> deceit in his mouth.",
-      "plainText" : "And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "18721",
+      "text": "And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither <span class='extra'>was any</span> deceit in his mouth.",
+      "plainText": "And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "18722",
-      "text" : "Yet it pleased the <span class='nog'>LORD<\/span> to bruise him; he hath put <span class='extra'>him<\/span> to grief: when thou shalt make his soul an offering for sin, he shall see <span class='extra'>his<\/span> seed, he shall prolong <span class='extra'>his<\/span> days, and the pleasure of the <span class='nog'>LORD<\/span> shall prosper in his hand.",
-      "plainText" : "Yet it pleased the LORD to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the LORD shall prosper in his hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "18722",
+      "text": "Yet it pleased the <span class='nog'>LORD</span> to bruise him; he hath put <span class='extra'>him</span> to grief: when thou shalt make his soul an offering for sin, he shall see <span class='extra'>his</span> seed, he shall prolong <span class='extra'>his</span> days, and the pleasure of the <span class='nog'>LORD</span> shall prosper in his hand.",
+      "plainText": "Yet it pleased the LORD to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the LORD shall prosper in his hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "18723",
-      "text" : "He shall see of the travail of his soul, <span class='extra'>and<\/span> shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.",
-      "plainText" : "He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "18723",
+      "text": "He shall see of the travail of his soul, <span class='extra'>and</span> shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.",
+      "plainText": "He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "18724",
-      "text" : "Therefore will I divide him <span class='extra'>a portion<\/span> with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.",
-      "plainText" : "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors."
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "18724",
+      "text": "Therefore will I divide him <span class='extra'>a portion</span> with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.",
+      "plainText": "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors."
     }
   ]
 }
-
-

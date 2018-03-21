@@ -1,245 +1,221 @@
 {
   "book": {
-    "number" : "3",
-    "filenamePrefix" : "leviticus",
-    "bookPage" : "leviticus.html",
-    "title" : "Leviticus",
-    "chapterCount" : "27",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "numbers_1.html",
-    "nextTitle" : "Numbers",
-    "prevBook" : "exodus_1.html",
-    "prevTitle" : "Exodus"
+    "number": "3",
+    "filenamePrefix": "leviticus",
+    "bookPage": "leviticus.html",
+    "title": "Leviticus",
+    "chapterCount": "27",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "numbers_1.html",
+    "nextTitle": "Numbers",
+    "prevBook": "exodus_1.html",
+    "prevTitle": "Exodus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "21",
-    "verseCount" : "24",
-    "nextChapter" : "leviticus_22.html",
-    "nextTitle" : "Leviticus 22",
-    "prevChapter" : "leviticus_20.html",
-    "prevTitle" : "Leviticus 20",
-    "filename" : "leviticus_21.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "21",
+    "verseCount": "24",
+    "nextChapter": "leviticus_22.html",
+    "nextTitle": "Leviticus 22",
+    "prevChapter": "leviticus_20.html",
+    "prevTitle": "Leviticus 20",
+    "filename": "leviticus_21.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "3347",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:",
-      "plainText" : "And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "3347",
+      "text": "And the <span class='nog'>LORD</span> said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:",
+      "plainText": "And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "3348",
-      "text" : "But for his kin, that is near unto him, <span class='extra'>that is<\/span>, for his mother, and for his father, and for his son, and for his daughter, and for his brother,",
-      "plainText" : "But for his kin, that is near unto him, that is, for his mother, and for his father, and for his son, and for his daughter, and for his brother,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "3348",
+      "text": "But for his kin, that is near unto him, <span class='extra'>that is</span>, for his mother, and for his father, and for his son, and for his daughter, and for his brother,",
+      "plainText": "But for his kin, that is near unto him, that is, for his mother, and for his father, and for his son, and for his daughter, and for his brother,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "3349",
-      "text" : "And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled.",
-      "plainText" : "And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "3349",
+      "text": "And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled.",
+      "plainText": "And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "3350",
-      "text" : "<span class='extra'>But<\/span> he shall not defile himself, <span class='extra'>being<\/span> a chief man among his people, to profane himself.",
-      "plainText" : "But he shall not defile himself, being a chief man among his people, to profane himself."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "3350",
+      "text": "<span class='extra'>But</span> he shall not defile himself, <span class='extra'>being</span> a chief man among his people, to profane himself.",
+      "plainText": "But he shall not defile himself, being a chief man among his people, to profane himself."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "3351",
-      "text" : "They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh.",
-      "plainText" : "They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "3351",
+      "text": "They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh.",
+      "plainText": "They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "3352",
-      "text" : "They shall be holy unto their God, and not profane the name of their God: for the offerings of the <span class='nog'>LORD<\/span> made by fire, <span class='extra'>and<\/span> the bread of their God, they do offer: therefore they shall be holy.",
-      "plainText" : "They shall be holy unto their God, and not profane the name of their God: for the offerings of the LORD made by fire, and the bread of their God, they do offer: therefore they shall be holy."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "3352",
+      "text": "They shall be holy unto their God, and not profane the name of their God: for the offerings of the <span class='nog'>LORD</span> made by fire, <span class='extra'>and</span> the bread of their God, they do offer: therefore they shall be holy.",
+      "plainText": "They shall be holy unto their God, and not profane the name of their God: for the offerings of the LORD made by fire, and the bread of their God, they do offer: therefore they shall be holy."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "3353",
-      "text" : "They shall not take a wife <span class='extra'>that is<\/span> a whore, or profane; neither shall they take a woman put away from her husband: for he <span class='extra'>is<\/span> holy unto his God.",
-      "plainText" : "They shall not take a wife that is a whore, or profane; neither shall they take a woman put away from her husband: for he is holy unto his God."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "3353",
+      "text": "They shall not take a wife <span class='extra'>that is</span> a whore, or profane; neither shall they take a woman put away from her husband: for he <span class='extra'>is</span> holy unto his God.",
+      "plainText": "They shall not take a wife that is a whore, or profane; neither shall they take a woman put away from her husband: for he is holy unto his God."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "3354",
-      "text" : "Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the <span class='nog'>LORD<\/span>, which sanctify you, <span class='extra'>am<\/span> holy.",
-      "plainText" : "Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the LORD, which sanctify you, am holy."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "3354",
+      "text": "Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the <span class='nog'>LORD</span>, which sanctify you, <span class='extra'>am</span> holy.",
+      "plainText": "Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the LORD, which sanctify you, am holy."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "3355",
-      "text" : "And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire.",
-      "plainText" : "And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "3355",
+      "text": "And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire.",
+      "plainText": "And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "3356",
-      "text" : "And <span class='extra'>he that is<\/span> the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes;",
-      "plainText" : "And he that is the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes;"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "3356",
+      "text": "And <span class='extra'>he that is</span> the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes;",
+      "plainText": "And he that is the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes;"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "3357",
-      "text" : "Neither shall he go in to any dead body, nor defile himself for his father, or for his mother;",
-      "plainText" : "Neither shall he go in to any dead body, nor defile himself for his father, or for his mother;"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "3357",
+      "text": "Neither shall he go in to any dead body, nor defile himself for his father, or for his mother;",
+      "plainText": "Neither shall he go in to any dead body, nor defile himself for his father, or for his mother;"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "3358",
-      "text" : "Neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God <span class='extra'>is<\/span> upon him: I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him: I am the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "3358",
+      "text": "Neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God <span class='extra'>is</span> upon him: I <span class='extra'>am</span> the <span class='nog'>LORD</span>.",
+      "plainText": "Neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him: I am the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "3359",
-      "text" : "And he shall take a wife in her virginity.",
-      "plainText" : "And he shall take a wife in her virginity."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "3359",
+      "text": "And he shall take a wife in her virginity.",
+      "plainText": "And he shall take a wife in her virginity."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "3360",
-      "text" : "A widow, or a divorced woman, or profane, <span class='extra'>or<\/span> an harlot, these shall he not take: but he shall take a virgin of his own people to wife.",
-      "plainText" : "A widow, or a divorced woman, or profane, or an harlot, these shall he not take: but he shall take a virgin of his own people to wife."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "3360",
+      "text": "A widow, or a divorced woman, or profane, <span class='extra'>or</span> an harlot, these shall he not take: but he shall take a virgin of his own people to wife.",
+      "plainText": "A widow, or a divorced woman, or profane, or an harlot, these shall he not take: but he shall take a virgin of his own people to wife."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "3361",
-      "text" : "Neither shall he profane his seed among his people: for I the <span class='nog'>LORD<\/span> do sanctify him.",
-      "plainText" : "Neither shall he profane his seed among his people: for I the LORD do sanctify him."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "3361",
+      "text": "Neither shall he profane his seed among his people: for I the <span class='nog'>LORD</span> do sanctify him.",
+      "plainText": "Neither shall he profane his seed among his people: for I the LORD do sanctify him."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "3362",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "3362",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "3363",
-      "text" : "Speak unto Aaron, saying, Whosoever <span class='extra'>he be<\/span> of thy seed in their generations that hath <span class='extra'>any<\/span> blemish, let him not approach to offer the bread of his God.",
-      "plainText" : "Speak unto Aaron, saying, Whosoever he be of thy seed in their generations that hath any blemish, let him not approach to offer the bread of his God."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "3363",
+      "text": "Speak unto Aaron, saying, Whosoever <span class='extra'>he be</span> of thy seed in their generations that hath <span class='extra'>any</span> blemish, let him not approach to offer the bread of his God.",
+      "plainText": "Speak unto Aaron, saying, Whosoever he be of thy seed in their generations that hath any blemish, let him not approach to offer the bread of his God."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "3364",
-      "text" : "For whatsoever man <span class='extra'>he be<\/span> that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,",
-      "plainText" : "For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "3364",
+      "text": "For whatsoever man <span class='extra'>he be</span> that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,",
+      "plainText": "For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "3365",
-      "text" : "Or a man that is brokenfooted, or brokenhanded,",
-      "plainText" : "Or a man that is brokenfooted, or brokenhanded,"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "3365",
+      "text": "Or a man that is brokenfooted, or brokenhanded,",
+      "plainText": "Or a man that is brokenfooted, or brokenhanded,"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "3366",
-      "text" : "Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;",
-      "plainText" : "Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "3366",
+      "text": "Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;",
+      "plainText": "Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "3367",
-      "text" : "No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the <span class='nog'>LORD<\/span> made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God.",
-      "plainText" : "No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the LORD made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "3367",
+      "text": "No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the <span class='nog'>LORD</span> made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God.",
+      "plainText": "No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the LORD made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "3368",
-      "text" : "He shall eat the bread of his God, <span class='extra'>both<\/span> of the most holy, and of the holy.",
-      "plainText" : "He shall eat the bread of his God, both of the most holy, and of the holy."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "3368",
+      "text": "He shall eat the bread of his God, <span class='extra'>both</span> of the most holy, and of the holy.",
+      "plainText": "He shall eat the bread of his God, both of the most holy, and of the holy."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "3369",
-      "text" : "Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the <span class='nog'>LORD<\/span> do sanctify them.",
-      "plainText" : "Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the LORD do sanctify them."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "3369",
+      "text": "Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the <span class='nog'>LORD</span> do sanctify them.",
+      "plainText": "Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the LORD do sanctify them."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "3370",
-      "text" : "And Moses told <span class='extra'>it<\/span> unto Aaron, and to his sons, and unto all the children of Israel.",
-      "plainText" : "And Moses told it unto Aaron, and to his sons, and unto all the children of Israel."
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "3370",
+      "text": "And Moses told <span class='extra'>it</span> unto Aaron, and to his sons, and unto all the children of Israel.",
+      "plainText": "And Moses told it unto Aaron, and to his sons, and unto all the children of Israel."
     }
   ]
 }
-
-

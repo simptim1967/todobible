@@ -1,236 +1,213 @@
 {
   "book": {
-    "number" : "4",
-    "filenamePrefix" : "numbers",
-    "bookPage" : "numbers.html",
-    "title" : "Numbers",
-    "chapterCount" : "36",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "deuteronomy_1.html",
-    "nextTitle" : "Deuteronomy",
-    "prevBook" : "leviticus_1.html",
-    "prevTitle" : "Leviticus"
+    "number": "4",
+    "filenamePrefix": "numbers",
+    "bookPage": "numbers.html",
+    "title": "Numbers",
+    "chapterCount": "36",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "deuteronomy_1.html",
+    "nextTitle": "Deuteronomy",
+    "prevBook": "leviticus_1.html",
+    "prevTitle": "Leviticus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "9",
-    "verseCount" : "23",
-    "nextChapter" : "numbers_10.html",
-    "nextTitle" : "Numbers 10",
-    "prevChapter" : "numbers_8.html",
-    "prevTitle" : "Numbers 8",
-    "filename" : "numbers_9.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "9",
+    "verseCount": "23",
+    "nextChapter": "numbers_10.html",
+    "nextTitle": "Numbers 10",
+    "prevChapter": "numbers_8.html",
+    "prevTitle": "Numbers 8",
+    "filename": "numbers_9.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "3967",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,",
-      "plainText" : "And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "3967",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,",
+      "plainText": "And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "3968",
-      "text" : "Let the children of Israel also keep the passover at his appointed season.",
-      "plainText" : "Let the children of Israel also keep the passover at his appointed season."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "3968",
+      "text": "Let the children of Israel also keep the passover at his appointed season.",
+      "plainText": "Let the children of Israel also keep the passover at his appointed season."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "3969",
-      "text" : "In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it.",
-      "plainText" : "In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "3969",
+      "text": "In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it.",
+      "plainText": "In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "3970",
-      "text" : "And Moses spake unto the children of Israel, that they should keep the passover.",
-      "plainText" : "And Moses spake unto the children of Israel, that they should keep the passover."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "3970",
+      "text": "And Moses spake unto the children of Israel, that they should keep the passover.",
+      "plainText": "And Moses spake unto the children of Israel, that they should keep the passover."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "3971",
-      "text" : "And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the <span class='nog'>LORD<\/span> commanded Moses, so did the children of Israel.",
-      "plainText" : "And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the LORD commanded Moses, so did the children of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "3971",
+      "text": "And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the <span class='nog'>LORD</span> commanded Moses, so did the children of Israel.",
+      "plainText": "And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the LORD commanded Moses, so did the children of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "3972",
-      "text" : "And there were certain men, who were defiled by the dead body of a man, that they could not keep the passover on that day: and they came before Moses and before Aaron on that day:",
-      "plainText" : "And there were certain men, who were defiled by the dead body of a man, that they could not keep the passover on that day: and they came before Moses and before Aaron on that day:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "3972",
+      "text": "And there were certain men, who were defiled by the dead body of a man, that they could not keep the passover on that day: and they came before Moses and before Aaron on that day:",
+      "plainText": "And there were certain men, who were defiled by the dead body of a man, that they could not keep the passover on that day: and they came before Moses and before Aaron on that day:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "3973",
-      "text" : "And those men said unto him, We <span class='extra'>are<\/span> defiled by the dead body of a man: wherefore are we kept back, that we may not offer an offering of the <span class='nog'>LORD<\/span> in his appointed season among the children of Israel?",
-      "plainText" : "And those men said unto him, We are defiled by the dead body of a man: wherefore are we kept back, that we may not offer an offering of the LORD in his appointed season among the children of Israel?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "3973",
+      "text": "And those men said unto him, We <span class='extra'>are</span> defiled by the dead body of a man: wherefore are we kept back, that we may not offer an offering of the <span class='nog'>LORD</span> in his appointed season among the children of Israel?",
+      "plainText": "And those men said unto him, We are defiled by the dead body of a man: wherefore are we kept back, that we may not offer an offering of the LORD in his appointed season among the children of Israel?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "3974",
-      "text" : "And Moses said unto them, Stand still, and I will hear what the <span class='nog'>LORD<\/span> will command concerning you.",
-      "plainText" : "And Moses said unto them, Stand still, and I will hear what the LORD will command concerning you."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "3974",
+      "text": "And Moses said unto them, Stand still, and I will hear what the <span class='nog'>LORD</span> will command concerning you.",
+      "plainText": "And Moses said unto them, Stand still, and I will hear what the LORD will command concerning you."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "3975",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "3975",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "3976",
-      "text" : "Speak unto the children of Israel, saying, If any man of you or of your posterity shall be unclean by reason of a dead body, or <span class='extra'>be<\/span> in a journey afar off, yet he shall keep the passover unto the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Speak unto the children of Israel, saying, If any man of you or of your posterity shall be unclean by reason of a dead body, or be in a journey afar off, yet he shall keep the passover unto the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "3976",
+      "text": "Speak unto the children of Israel, saying, If any man of you or of your posterity shall be unclean by reason of a dead body, or <span class='extra'>be</span> in a journey afar off, yet he shall keep the passover unto the <span class='nog'>LORD</span>.",
+      "plainText": "Speak unto the children of Israel, saying, If any man of you or of your posterity shall be unclean by reason of a dead body, or be in a journey afar off, yet he shall keep the passover unto the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "3977",
-      "text" : "The fourteenth day of the second month at even they shall keep it, <span class='extra'>and<\/span> eat it with unleavened bread and bitter <span class='extra'>herbs<\/span>.",
-      "plainText" : "The fourteenth day of the second month at even they shall keep it, and eat it with unleavened bread and bitter herbs."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "3977",
+      "text": "The fourteenth day of the second month at even they shall keep it, <span class='extra'>and</span> eat it with unleavened bread and bitter <span class='extra'>herbs</span>.",
+      "plainText": "The fourteenth day of the second month at even they shall keep it, and eat it with unleavened bread and bitter herbs."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "3978",
-      "text" : "They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it.",
-      "plainText" : "They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "3978",
+      "text": "They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it.",
+      "plainText": "They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "3979",
-      "text" : "But the man that <span class='extra'>is<\/span> clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the <span class='nog'>LORD<\/span> in his appointed season, that man shall bear his sin.",
-      "plainText" : "But the man that is clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the LORD in his appointed season, that man shall bear his sin."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "3979",
+      "text": "But the man that <span class='extra'>is</span> clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the <span class='nog'>LORD</span> in his appointed season, that man shall bear his sin.",
+      "plainText": "But the man that is clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the LORD in his appointed season, that man shall bear his sin."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "3980",
-      "text" : "And if a stranger shall sojourn among you, and will keep the passover unto the <span class='nog'>LORD<\/span>; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land.",
-      "plainText" : "And if a stranger shall sojourn among you, and will keep the passover unto the LORD; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "3980",
+      "text": "And if a stranger shall sojourn among you, and will keep the passover unto the <span class='nog'>LORD</span>; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land.",
+      "plainText": "And if a stranger shall sojourn among you, and will keep the passover unto the LORD; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "3981",
-      "text" : "And on the day that the tabernacle was reared up the cloud covered the tabernacle, <span class='extra'>namely<\/span>, the tent of the testimony: and at even there was upon the tabernacle as it were the appearance of fire, until the morning.",
-      "plainText" : "And on the day that the tabernacle was reared up the cloud covered the tabernacle, namely, the tent of the testimony: and at even there was upon the tabernacle as it were the appearance of fire, until the morning."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "3981",
+      "text": "And on the day that the tabernacle was reared up the cloud covered the tabernacle, <span class='extra'>namely</span>, the tent of the testimony: and at even there was upon the tabernacle as it were the appearance of fire, until the morning.",
+      "plainText": "And on the day that the tabernacle was reared up the cloud covered the tabernacle, namely, the tent of the testimony: and at even there was upon the tabernacle as it were the appearance of fire, until the morning."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "3982",
-      "text" : "So it was alway: the cloud covered it <span class='extra'>by day<\/span>, and the appearance of fire by night.",
-      "plainText" : "So it was alway: the cloud covered it by day, and the appearance of fire by night."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "3982",
+      "text": "So it was alway: the cloud covered it <span class='extra'>by day</span>, and the appearance of fire by night.",
+      "plainText": "So it was alway: the cloud covered it by day, and the appearance of fire by night."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "3983",
-      "text" : "And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents.",
-      "plainText" : "And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "3983",
+      "text": "And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents.",
+      "plainText": "And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "3984",
-      "text" : "At the commandment of the <span class='nog'>LORD<\/span> the children of Israel journeyed, and at the commandment of the <span class='nog'>LORD<\/span> they pitched: as long as the cloud abode upon the tabernacle they rested in their tents.",
-      "plainText" : "At the commandment of the LORD the children of Israel journeyed, and at the commandment of the LORD they pitched: as long as the cloud abode upon the tabernacle they rested in their tents."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "3984",
+      "text": "At the commandment of the <span class='nog'>LORD</span> the children of Israel journeyed, and at the commandment of the <span class='nog'>LORD</span> they pitched: as long as the cloud abode upon the tabernacle they rested in their tents.",
+      "plainText": "At the commandment of the LORD the children of Israel journeyed, and at the commandment of the LORD they pitched: as long as the cloud abode upon the tabernacle they rested in their tents."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "3985",
-      "text" : "And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the <span class='nog'>LORD<\/span>, and journeyed not.",
-      "plainText" : "And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the LORD, and journeyed not."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "3985",
+      "text": "And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the <span class='nog'>LORD</span>, and journeyed not.",
+      "plainText": "And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the LORD, and journeyed not."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "3986",
-      "text" : "And <span class='extra'>so<\/span> it was, when the cloud was a few days upon the tabernacle; according to the commandment of the <span class='nog'>LORD<\/span> they abode in their tents, and according to the commandment of the <span class='nog'>LORD<\/span> they journeyed.",
-      "plainText" : "And so it was, when the cloud was a few days upon the tabernacle; according to the commandment of the LORD they abode in their tents, and according to the commandment of the LORD they journeyed."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "3986",
+      "text": "And <span class='extra'>so</span> it was, when the cloud was a few days upon the tabernacle; according to the commandment of the <span class='nog'>LORD</span> they abode in their tents, and according to the commandment of the <span class='nog'>LORD</span> they journeyed.",
+      "plainText": "And so it was, when the cloud was a few days upon the tabernacle; according to the commandment of the LORD they abode in their tents, and according to the commandment of the LORD they journeyed."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "3987",
-      "text" : "And <span class='extra'>so<\/span> it was, when the cloud abode from even unto the morning, and <span class='extra'>that<\/span> the cloud was taken up in the morning, then they journeyed: whether <span class='extra'>it was<\/span> by day or by night that the cloud was taken up, they journeyed.",
-      "plainText" : "And so it was, when the cloud abode from even unto the morning, and that the cloud was taken up in the morning, then they journeyed: whether it was by day or by night that the cloud was taken up, they journeyed."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "3987",
+      "text": "And <span class='extra'>so</span> it was, when the cloud abode from even unto the morning, and <span class='extra'>that</span> the cloud was taken up in the morning, then they journeyed: whether <span class='extra'>it was</span> by day or by night that the cloud was taken up, they journeyed.",
+      "plainText": "And so it was, when the cloud abode from even unto the morning, and that the cloud was taken up in the morning, then they journeyed: whether it was by day or by night that the cloud was taken up, they journeyed."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "3988",
-      "text" : "Or <span class='extra'>whether it were<\/span> two days, or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed.",
-      "plainText" : "Or whether it were two days, or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "3988",
+      "text": "Or <span class='extra'>whether it were</span> two days, or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed.",
+      "plainText": "Or whether it were two days, or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "3989",
-      "text" : "At the commandment of the <span class='nog'>LORD<\/span> they rested in the tents, and at the commandment of the <span class='nog'>LORD<\/span> they journeyed: they kept the charge of the <span class='nog'>LORD<\/span>, at the commandment of the <span class='nog'>LORD<\/span> by the hand of Moses.",
-      "plainText" : "At the commandment of the LORD they rested in the tents, and at the commandment of the LORD they journeyed: they kept the charge of the LORD, at the commandment of the LORD by the hand of Moses."
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "3989",
+      "text": "At the commandment of the <span class='nog'>LORD</span> they rested in the tents, and at the commandment of the <span class='nog'>LORD</span> they journeyed: they kept the charge of the <span class='nog'>LORD</span>, at the commandment of the <span class='nog'>LORD</span> by the hand of Moses.",
+      "plainText": "At the commandment of the LORD they rested in the tents, and at the commandment of the LORD they journeyed: they kept the charge of the LORD, at the commandment of the LORD by the hand of Moses."
     }
   ]
 }
-
-

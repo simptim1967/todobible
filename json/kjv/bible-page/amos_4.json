@@ -1,147 +1,133 @@
 {
   "book": {
-    "number" : "30",
-    "filenamePrefix" : "amos",
-    "bookPage" : "amos.html",
-    "title" : "Amos",
-    "chapterCount" : "9",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "obadiah_1.html",
-    "nextTitle" : "Obadiah",
-    "prevBook" : "joel_1.html",
-    "prevTitle" : "Joel"
+    "number": "30",
+    "filenamePrefix": "amos",
+    "bookPage": "amos.html",
+    "title": "Amos",
+    "chapterCount": "9",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "obadiah_1.html",
+    "nextTitle": "Obadiah",
+    "prevBook": "joel_1.html",
+    "prevTitle": "Joel",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "4",
-    "verseCount" : "13",
-    "nextChapter" : "amos_5.html",
-    "nextTitle" : "Amos 5",
-    "prevChapter" : "amos_3.html",
-    "prevTitle" : "Amos 3",
-    "filename" : "amos_4.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "4",
+    "verseCount": "13",
+    "nextChapter": "amos_5.html",
+    "nextTitle": "Amos 5",
+    "prevChapter": "amos_3.html",
+    "prevTitle": "Amos 3",
+    "filename": "amos_4.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "22412",
-      "text" : "Hear this word, ye kine of Bashan, that <span class='extra'>are<\/span> in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink.",
-      "plainText" : "Hear this word, ye kine of Bashan, that are in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "22412",
+      "text": "Hear this word, ye kine of Bashan, that <span class='extra'>are</span> in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink.",
+      "plainText": "Hear this word, ye kine of Bashan, that are in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "22413",
-      "text" : "The Lord <span class='nog'>GOD<\/span> hath sworn by his holiness, that, lo, the days shall come upon you, that he will take you away with hooks, and your posterity with fishhooks.",
-      "plainText" : "The Lord GOD hath sworn by his holiness, that, lo, the days shall come upon you, that he will take you away with hooks, and your posterity with fishhooks."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "22413",
+      "text": "The Lord <span class='nog'>GOD</span> hath sworn by his holiness, that, lo, the days shall come upon you, that he will take you away with hooks, and your posterity with fishhooks.",
+      "plainText": "The Lord GOD hath sworn by his holiness, that, lo, the days shall come upon you, that he will take you away with hooks, and your posterity with fishhooks."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "22414",
-      "text" : "And ye shall go out at the breaches, every <span class='extra'>cow at that which is<\/span> before her; and ye shall cast <span class='extra'>them<\/span> into the palace, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And ye shall go out at the breaches, every cow at that which is before her; and ye shall cast them into the palace, saith the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "22414",
+      "text": "And ye shall go out at the breaches, every <span class='extra'>cow at that which is</span> before her; and ye shall cast <span class='extra'>them</span> into the palace, saith the <span class='nog'>LORD</span>.",
+      "plainText": "And ye shall go out at the breaches, every cow at that which is before her; and ye shall cast them into the palace, saith the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "22415",
-      "text" : "Come to Beth-el, and transgress; at Gilgal multiply transgression; and bring your sacrifices every morning, <span class='extra'>and<\/span> your tithes after three years:",
-      "plainText" : "Come to Beth-el, and transgress; at Gilgal multiply transgression; and bring your sacrifices every morning, and your tithes after three years:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "22415",
+      "text": "Come to Beth-el, and transgress; at Gilgal multiply transgression; and bring your sacrifices every morning, <span class='extra'>and</span> your tithes after three years:",
+      "plainText": "Come to Beth-el, and transgress; at Gilgal multiply transgression; and bring your sacrifices every morning, and your tithes after three years:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "22416",
-      "text" : "And offer a sacrifice of thanksgiving with leaven, and proclaim <span class='extra'>and<\/span> publish the free offerings: for this liketh you, O ye children of Israel, saith the Lord <span class='nog'>GOD<\/span>.",
-      "plainText" : "And offer a sacrifice of thanksgiving with leaven, and proclaim and publish the free offerings: for this liketh you, O ye children of Israel, saith the Lord GOD."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "22416",
+      "text": "And offer a sacrifice of thanksgiving with leaven, and proclaim <span class='extra'>and</span> publish the free offerings: for this liketh you, O ye children of Israel, saith the Lord <span class='nog'>GOD</span>.",
+      "plainText": "And offer a sacrifice of thanksgiving with leaven, and proclaim and publish the free offerings: for this liketh you, O ye children of Israel, saith the Lord GOD."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "22417",
-      "text" : "And I also have given you cleanness of teeth in all your cities, and want of bread in all your places: yet have ye not returned unto me, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And I also have given you cleanness of teeth in all your cities, and want of bread in all your places: yet have ye not returned unto me, saith the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "22417",
+      "text": "And I also have given you cleanness of teeth in all your cities, and want of bread in all your places: yet have ye not returned unto me, saith the <span class='nog'>LORD</span>.",
+      "plainText": "And I also have given you cleanness of teeth in all your cities, and want of bread in all your places: yet have ye not returned unto me, saith the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "22418",
-      "text" : "And also I have withholden the rain from you, when <span class='extra'>there were<\/span> yet three months to the harvest: and I caused it to rain upon one city, and caused it not to rain upon another city: one piece was rained upon, and the piece whereupon it rained not withered.",
-      "plainText" : "And also I have withholden the rain from you, when there were yet three months to the harvest: and I caused it to rain upon one city, and caused it not to rain upon another city: one piece was rained upon, and the piece whereupon it rained not withered."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "22418",
+      "text": "And also I have withholden the rain from you, when <span class='extra'>there were</span> yet three months to the harvest: and I caused it to rain upon one city, and caused it not to rain upon another city: one piece was rained upon, and the piece whereupon it rained not withered.",
+      "plainText": "And also I have withholden the rain from you, when there were yet three months to the harvest: and I caused it to rain upon one city, and caused it not to rain upon another city: one piece was rained upon, and the piece whereupon it rained not withered."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "22419",
-      "text" : "So two <span class='extra'>or<\/span> three cities wandered unto one city, to drink water; but they were not satisfied: yet have ye not returned unto me, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "So two or three cities wandered unto one city, to drink water; but they were not satisfied: yet have ye not returned unto me, saith the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "22419",
+      "text": "So two <span class='extra'>or</span> three cities wandered unto one city, to drink water; but they were not satisfied: yet have ye not returned unto me, saith the <span class='nog'>LORD</span>.",
+      "plainText": "So two or three cities wandered unto one city, to drink water; but they were not satisfied: yet have ye not returned unto me, saith the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "22420",
-      "text" : "I have smitten you with blasting and mildew: when your gardens and your vineyards and your fig trees and your olive trees increased, the palmerworm devoured <span class='extra'>them<\/span>: yet have ye not returned unto me, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "I have smitten you with blasting and mildew: when your gardens and your vineyards and your fig trees and your olive trees increased, the palmerworm devoured them: yet have ye not returned unto me, saith the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "22420",
+      "text": "I have smitten you with blasting and mildew: when your gardens and your vineyards and your fig trees and your olive trees increased, the palmerworm devoured <span class='extra'>them</span>: yet have ye not returned unto me, saith the <span class='nog'>LORD</span>.",
+      "plainText": "I have smitten you with blasting and mildew: when your gardens and your vineyards and your fig trees and your olive trees increased, the palmerworm devoured them: yet have ye not returned unto me, saith the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "22421",
-      "text" : "I have sent among you the pestilence after the manner of Egypt: your young men have I slain with the sword, and have taken away your horses; and I have made the stink of your camps to come up unto your nostrils: yet have ye not returned unto me, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "I have sent among you the pestilence after the manner of Egypt: your young men have I slain with the sword, and have taken away your horses; and I have made the stink of your camps to come up unto your nostrils: yet have ye not returned unto me, saith the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "22421",
+      "text": "I have sent among you the pestilence after the manner of Egypt: your young men have I slain with the sword, and have taken away your horses; and I have made the stink of your camps to come up unto your nostrils: yet have ye not returned unto me, saith the <span class='nog'>LORD</span>.",
+      "plainText": "I have sent among you the pestilence after the manner of Egypt: your young men have I slain with the sword, and have taken away your horses; and I have made the stink of your camps to come up unto your nostrils: yet have ye not returned unto me, saith the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "22422",
-      "text" : "I have overthrown <span class='extra'>some<\/span> of you, as God overthrew Sodom and Gomorrah, and ye were as a firebrand plucked out of the burning: yet have ye not returned unto me, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "I have overthrown some of you, as God overthrew Sodom and Gomorrah, and ye were as a firebrand plucked out of the burning: yet have ye not returned unto me, saith the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "22422",
+      "text": "I have overthrown <span class='extra'>some</span> of you, as God overthrew Sodom and Gomorrah, and ye were as a firebrand plucked out of the burning: yet have ye not returned unto me, saith the <span class='nog'>LORD</span>.",
+      "plainText": "I have overthrown some of you, as God overthrew Sodom and Gomorrah, and ye were as a firebrand plucked out of the burning: yet have ye not returned unto me, saith the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "22423",
-      "text" : "Therefore thus will I do unto thee, O Israel: <span class='extra'>and<\/span> because I will do this unto thee, prepare to meet thy God, O Israel.",
-      "plainText" : "Therefore thus will I do unto thee, O Israel: and because I will do this unto thee, prepare to meet thy God, O Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "22423",
+      "text": "Therefore thus will I do unto thee, O Israel: <span class='extra'>and</span> because I will do this unto thee, prepare to meet thy God, O Israel.",
+      "plainText": "Therefore thus will I do unto thee, O Israel: and because I will do this unto thee, prepare to meet thy God, O Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "22424",
-      "text" : "For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what <span class='extra'>is<\/span> his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The <span class='nog'>LORD<\/span>, The God of hosts, <span class='extra'>is<\/span> his name.",
-      "plainText" : "For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what is his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The LORD, The God of hosts, is his name."
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "22424",
+      "text": "For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what <span class='extra'>is</span> his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The <span class='nog'>LORD</span>, The God of hosts, <span class='extra'>is</span> his name.",
+      "plainText": "For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what is his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The LORD, The God of hosts, is his name."
     }
   ]
 }
-
-
-

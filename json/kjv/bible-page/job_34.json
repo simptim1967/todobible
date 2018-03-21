@@ -1,361 +1,325 @@
 {
   "book": {
-    "number" : "18",
-    "filenamePrefix" : "job",
-    "bookPage" : "job.html",
-    "title" : "Job",
-    "chapterCount" : "42",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "psalms_1.html",
-    "nextTitle" : "Psalms",
-    "prevBook" : "esther_1.html",
-    "prevTitle" : "Esther"
+    "number": "18",
+    "filenamePrefix": "job",
+    "bookPage": "job.html",
+    "title": "Job",
+    "chapterCount": "42",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "psalms_1.html",
+    "nextTitle": "Psalms",
+    "prevBook": "esther_1.html",
+    "prevTitle": "Esther",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "34",
-    "verseCount" : "37",
-    "nextChapter" : "job_35.html",
-    "nextTitle" : "Job 35",
-    "prevChapter" : "job_33.html",
-    "prevTitle" : "Job 33",
-    "filename" : "job_34.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "34",
+    "verseCount": "37",
+    "nextChapter": "job_35.html",
+    "nextTitle": "Job 35",
+    "prevChapter": "job_33.html",
+    "prevTitle": "Job 33",
+    "filename": "job_34.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "13685",
-      "text" : "Furthermore Elihu answered and said,",
-      "plainText" : "Furthermore Elihu answered and said,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "13685",
+      "text": "Furthermore Elihu answered and said,",
+      "plainText": "Furthermore Elihu answered and said,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "13686",
-      "text" : "Hear my words, O ye wise <span class='extra'>men<\/span>; and give ear unto me, ye that have knowledge.",
-      "plainText" : "Hear my words, O ye wise men; and give ear unto me, ye that have knowledge."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "13686",
+      "text": "Hear my words, O ye wise <span class='extra'>men</span>; and give ear unto me, ye that have knowledge.",
+      "plainText": "Hear my words, O ye wise men; and give ear unto me, ye that have knowledge."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "13687",
-      "text" : "For the ear trieth words, as the mouth tasteth meat.",
-      "plainText" : "For the ear trieth words, as the mouth tasteth meat."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "13687",
+      "text": "For the ear trieth words, as the mouth tasteth meat.",
+      "plainText": "For the ear trieth words, as the mouth tasteth meat."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "13688",
-      "text" : "Let us choose to us judgment: let us know among ourselves what <span class='extra'>is<\/span> good.",
-      "plainText" : "Let us choose to us judgment: let us know among ourselves what is good."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "13688",
+      "text": "Let us choose to us judgment: let us know among ourselves what <span class='extra'>is</span> good.",
+      "plainText": "Let us choose to us judgment: let us know among ourselves what is good."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "13689",
-      "text" : "For Job hath said, I am righteous: and God hath taken away my judgment.",
-      "plainText" : "For Job hath said, I am righteous: and God hath taken away my judgment."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "13689",
+      "text": "For Job hath said, I am righteous: and God hath taken away my judgment.",
+      "plainText": "For Job hath said, I am righteous: and God hath taken away my judgment."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "13690",
-      "text" : "Should I lie against my right? my wound <span class='extra'>is<\/span> incurable without transgression.",
-      "plainText" : "Should I lie against my right? my wound is incurable without transgression."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "13690",
+      "text": "Should I lie against my right? my wound <span class='extra'>is</span> incurable without transgression.",
+      "plainText": "Should I lie against my right? my wound is incurable without transgression."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "13691",
-      "text" : "What man <span class='extra'>is<\/span> like Job, <span class='extra'>who<\/span> drinketh up scorning like water?",
-      "plainText" : "What man is like Job, who drinketh up scorning like water?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "13691",
+      "text": "What man <span class='extra'>is</span> like Job, <span class='extra'>who</span> drinketh up scorning like water?",
+      "plainText": "What man is like Job, who drinketh up scorning like water?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "13692",
-      "text" : "Which goeth in company with the workers of iniquity, and walketh with wicked men.",
-      "plainText" : "Which goeth in company with the workers of iniquity, and walketh with wicked men."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "13692",
+      "text": "Which goeth in company with the workers of iniquity, and walketh with wicked men.",
+      "plainText": "Which goeth in company with the workers of iniquity, and walketh with wicked men."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "13693",
-      "text" : "For he hath said, It profiteth a man nothing that he should delight himself with God.",
-      "plainText" : "For he hath said, It profiteth a man nothing that he should delight himself with God."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "13693",
+      "text": "For he hath said, It profiteth a man nothing that he should delight himself with God.",
+      "plainText": "For he hath said, It profiteth a man nothing that he should delight himself with God."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "13694",
-      "text" : "Therefore hearken unto me, ye men of understanding: far be it from God, <span class='extra'>that he should do<\/span> wickedness; and <span class='extra'>from<\/span> the Almighty, <span class='extra'>that he should commit<\/span> iniquity.",
-      "plainText" : "Therefore hearken unto me, ye men of understanding: far be it from God, that he should do wickedness; and from the Almighty, that he should commit iniquity."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "13694",
+      "text": "Therefore hearken unto me, ye men of understanding: far be it from God, <span class='extra'>that he should do</span> wickedness; and <span class='extra'>from</span> the Almighty, <span class='extra'>that he should commit</span> iniquity.",
+      "plainText": "Therefore hearken unto me, ye men of understanding: far be it from God, that he should do wickedness; and from the Almighty, that he should commit iniquity."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "13695",
-      "text" : "For the work of a man shall he render unto him, and cause every man to find according to <span class='extra'>his<\/span> ways.",
-      "plainText" : "For the work of a man shall he render unto him, and cause every man to find according to his ways."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "13695",
+      "text": "For the work of a man shall he render unto him, and cause every man to find according to <span class='extra'>his</span> ways.",
+      "plainText": "For the work of a man shall he render unto him, and cause every man to find according to his ways."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "13696",
-      "text" : "Yea, surely God will not do wickedly, neither will the Almighty pervert judgment.",
-      "plainText" : "Yea, surely God will not do wickedly, neither will the Almighty pervert judgment."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "13696",
+      "text": "Yea, surely God will not do wickedly, neither will the Almighty pervert judgment.",
+      "plainText": "Yea, surely God will not do wickedly, neither will the Almighty pervert judgment."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "13697",
-      "text" : "Who hath given him a charge over the earth? or who hath disposed the whole world?",
-      "plainText" : "Who hath given him a charge over the earth? or who hath disposed the whole world?"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "13697",
+      "text": "Who hath given him a charge over the earth? or who hath disposed the whole world?",
+      "plainText": "Who hath given him a charge over the earth? or who hath disposed the whole world?"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "13698",
-      "text" : "If he set his heart upon man, <span class='extra'>if<\/span> he gather unto himself his spirit and his breath;",
-      "plainText" : "If he set his heart upon man, if he gather unto himself his spirit and his breath;"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "13698",
+      "text": "If he set his heart upon man, <span class='extra'>if</span> he gather unto himself his spirit and his breath;",
+      "plainText": "If he set his heart upon man, if he gather unto himself his spirit and his breath;"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "13699",
-      "text" : "All flesh shall perish together, and man shall turn again unto dust.",
-      "plainText" : "All flesh shall perish together, and man shall turn again unto dust."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "13699",
+      "text": "All flesh shall perish together, and man shall turn again unto dust.",
+      "plainText": "All flesh shall perish together, and man shall turn again unto dust."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "13700",
-      "text" : "If now <span class='extra'>thou hast<\/span> understanding, hear this: hearken to the voice of my words.",
-      "plainText" : "If now thou hast understanding, hear this: hearken to the voice of my words."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "13700",
+      "text": "If now <span class='extra'>thou hast</span> understanding, hear this: hearken to the voice of my words.",
+      "plainText": "If now thou hast understanding, hear this: hearken to the voice of my words."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "13701",
-      "text" : "Shall even he that hateth right govern? and wilt thou condemn him that is most just?",
-      "plainText" : "Shall even he that hateth right govern? and wilt thou condemn him that is most just?"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "13701",
+      "text": "Shall even he that hateth right govern? and wilt thou condemn him that is most just?",
+      "plainText": "Shall even he that hateth right govern? and wilt thou condemn him that is most just?"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "13702",
-      "text" : "<span class='extra'>Is it fit<\/span> to say to a king, <span class='extra'>Thou art<\/span> wicked? <span class='extra'>and<\/span> to princes, <span class='extra'>Ye are<\/span> ungodly?",
-      "plainText" : "Is it fit to say to a king, Thou art wicked? and to princes, Ye are ungodly?"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "13702",
+      "text": "<span class='extra'>Is it fit</span> to say to a king, <span class='extra'>Thou art</span> wicked? <span class='extra'>and</span> to princes, <span class='extra'>Ye are</span> ungodly?",
+      "plainText": "Is it fit to say to a king, Thou art wicked? and to princes, Ye are ungodly?"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "13703",
-      "text" : "<span class='extra'>How much less to him<\/span> that accepteth not the persons of princes, nor regardeth the rich more than the poor? for they all <span class='extra'>are<\/span> the work of his hands.",
-      "plainText" : "How much less to him that accepteth not the persons of princes, nor regardeth the rich more than the poor? for they all are the work of his hands."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "13703",
+      "text": "<span class='extra'>How much less to him</span> that accepteth not the persons of princes, nor regardeth the rich more than the poor? for they all <span class='extra'>are</span> the work of his hands.",
+      "plainText": "How much less to him that accepteth not the persons of princes, nor regardeth the rich more than the poor? for they all are the work of his hands."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "13704",
-      "text" : "In a moment shall they die, and the people shall be troubled at midnight, and pass away: and the mighty shall be taken away without hand.",
-      "plainText" : "In a moment shall they die, and the people shall be troubled at midnight, and pass away: and the mighty shall be taken away without hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "13704",
+      "text": "In a moment shall they die, and the people shall be troubled at midnight, and pass away: and the mighty shall be taken away without hand.",
+      "plainText": "In a moment shall they die, and the people shall be troubled at midnight, and pass away: and the mighty shall be taken away without hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "13705",
-      "text" : "For his eyes <span class='extra'>are<\/span> upon the ways of man, and he seeth all his goings.",
-      "plainText" : "For his eyes are upon the ways of man, and he seeth all his goings."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "13705",
+      "text": "For his eyes <span class='extra'>are</span> upon the ways of man, and he seeth all his goings.",
+      "plainText": "For his eyes are upon the ways of man, and he seeth all his goings."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "13706",
-      "text" : "<span class='extra'>There is<\/span> no darkness, nor shadow of death, where the workers of iniquity may hide themselves.",
-      "plainText" : "There is no darkness, nor shadow of death, where the workers of iniquity may hide themselves."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "13706",
+      "text": "<span class='extra'>There is</span> no darkness, nor shadow of death, where the workers of iniquity may hide themselves.",
+      "plainText": "There is no darkness, nor shadow of death, where the workers of iniquity may hide themselves."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "13707",
-      "text" : "For he will not lay upon man more <span class='extra'>than right<\/span>; that he should enter into judgment with God.",
-      "plainText" : "For he will not lay upon man more than right; that he should enter into judgment with God."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "13707",
+      "text": "For he will not lay upon man more <span class='extra'>than right</span>; that he should enter into judgment with God.",
+      "plainText": "For he will not lay upon man more than right; that he should enter into judgment with God."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "13708",
-      "text" : "He shall break in pieces mighty men without number, and set others in their stead.",
-      "plainText" : "He shall break in pieces mighty men without number, and set others in their stead."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "13708",
+      "text": "He shall break in pieces mighty men without number, and set others in their stead.",
+      "plainText": "He shall break in pieces mighty men without number, and set others in their stead."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "13709",
-      "text" : "Therefore he knoweth their works, and he overturneth <span class='extra'>them<\/span> in the night, so that they are destroyed.",
-      "plainText" : "Therefore he knoweth their works, and he overturneth them in the night, so that they are destroyed."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "13709",
+      "text": "Therefore he knoweth their works, and he overturneth <span class='extra'>them</span> in the night, so that they are destroyed.",
+      "plainText": "Therefore he knoweth their works, and he overturneth them in the night, so that they are destroyed."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "13710",
-      "text" : "He striketh them as wicked men in the open sight of others;",
-      "plainText" : "He striketh them as wicked men in the open sight of others;"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "13710",
+      "text": "He striketh them as wicked men in the open sight of others;",
+      "plainText": "He striketh them as wicked men in the open sight of others;"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "13711",
-      "text" : "Because they turned back from him, and would not consider any of his ways:",
-      "plainText" : "Because they turned back from him, and would not consider any of his ways:"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "13711",
+      "text": "Because they turned back from him, and would not consider any of his ways:",
+      "plainText": "Because they turned back from him, and would not consider any of his ways:"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "13712",
-      "text" : "So that they cause the cry of the poor to come unto him, and he heareth the cry of the afflicted.",
-      "plainText" : "So that they cause the cry of the poor to come unto him, and he heareth the cry of the afflicted."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "13712",
+      "text": "So that they cause the cry of the poor to come unto him, and he heareth the cry of the afflicted.",
+      "plainText": "So that they cause the cry of the poor to come unto him, and he heareth the cry of the afflicted."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "13713",
-      "text" : "When he giveth quietness, who then can make trouble? and when he hideth <span class='extra'>his<\/span> face, who then can behold him? whether <span class='extra'>it be done<\/span> against a nation, or against a man only:",
-      "plainText" : "When he giveth quietness, who then can make trouble? and when he hideth his face, who then can behold him? whether it be done against a nation, or against a man only:"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "13713",
+      "text": "When he giveth quietness, who then can make trouble? and when he hideth <span class='extra'>his</span> face, who then can behold him? whether <span class='extra'>it be done</span> against a nation, or against a man only:",
+      "plainText": "When he giveth quietness, who then can make trouble? and when he hideth his face, who then can behold him? whether it be done against a nation, or against a man only:"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "13714",
-      "text" : "That the hypocrite reign not, lest the people be ensnared.",
-      "plainText" : "That the hypocrite reign not, lest the people be ensnared."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "13714",
+      "text": "That the hypocrite reign not, lest the people be ensnared.",
+      "plainText": "That the hypocrite reign not, lest the people be ensnared."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "13715",
-      "text" : "Surely it is meet to be said unto God, I have borne <span class='extra'>chastisement<\/span>, I will not offend <span class='extra'>any more<\/span>:",
-      "plainText" : "Surely it is meet to be said unto God, I have borne chastisement, I will not offend any more:"
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "13715",
+      "text": "Surely it is meet to be said unto God, I have borne <span class='extra'>chastisement</span>, I will not offend <span class='extra'>any more</span>:",
+      "plainText": "Surely it is meet to be said unto God, I have borne chastisement, I will not offend any more:"
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "13716",
-      "text" : "<span class='extra'>That which<\/span> I see not teach thou me: if I have done iniquity, I will do no more.",
-      "plainText" : "That which I see not teach thou me: if I have done iniquity, I will do no more."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "13716",
+      "text": "<span class='extra'>That which</span> I see not teach thou me: if I have done iniquity, I will do no more.",
+      "plainText": "That which I see not teach thou me: if I have done iniquity, I will do no more."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "13717",
-      "text" : "<span class='extra'>Should it be<\/span> according to thy mind? he will recompense it, whether thou refuse, or whether thou choose; and not I: therefore speak what thou knowest.",
-      "plainText" : "Should it be according to thy mind? he will recompense it, whether thou refuse, or whether thou choose; and not I: therefore speak what thou knowest."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "13717",
+      "text": "<span class='extra'>Should it be</span> according to thy mind? he will recompense it, whether thou refuse, or whether thou choose; and not I: therefore speak what thou knowest.",
+      "plainText": "Should it be according to thy mind? he will recompense it, whether thou refuse, or whether thou choose; and not I: therefore speak what thou knowest."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "13718",
-      "text" : "Let men of understanding tell me, and let a wise man hearken unto me.",
-      "plainText" : "Let men of understanding tell me, and let a wise man hearken unto me."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "13718",
+      "text": "Let men of understanding tell me, and let a wise man hearken unto me.",
+      "plainText": "Let men of understanding tell me, and let a wise man hearken unto me."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "13719",
-      "text" : "Job hath spoken without knowledge, and his words <span class='extra'>were<\/span> without wisdom.",
-      "plainText" : "Job hath spoken without knowledge, and his words were without wisdom."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "13719",
+      "text": "Job hath spoken without knowledge, and his words <span class='extra'>were</span> without wisdom.",
+      "plainText": "Job hath spoken without knowledge, and his words were without wisdom."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "13720",
-      "text" : "My desire <span class='extra'>is that<\/span> Job may be tried unto the end because of <span class='extra'>his<\/span> answers for wicked men.",
-      "plainText" : "My desire is that Job may be tried unto the end because of his answers for wicked men."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "13720",
+      "text": "My desire <span class='extra'>is that</span> Job may be tried unto the end because of <span class='extra'>his</span> answers for wicked men.",
+      "plainText": "My desire is that Job may be tried unto the end because of his answers for wicked men."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "13721",
-      "text" : "For he addeth rebellion unto his sin, he clappeth <span class='extra'>his hands<\/span> among us, and multiplieth his words against God.",
-      "plainText" : "For he addeth rebellion unto his sin, he clappeth his hands among us, and multiplieth his words against God."
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "13721",
+      "text": "For he addeth rebellion unto his sin, he clappeth <span class='extra'>his hands</span> among us, and multiplieth his words against God.",
+      "plainText": "For he addeth rebellion unto his sin, he clappeth his hands among us, and multiplieth his words against God."
     }
   ]
 }
-

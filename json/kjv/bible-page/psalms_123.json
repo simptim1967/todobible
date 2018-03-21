@@ -1,72 +1,67 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "123",
-    "verseCount" : "4",
-    "nextChapter" : "psalms_124.html",
-    "nextTitle" : "Psalms 124",
-    "prevChapter" : "psalms_122.html",
-    "prevTitle" : "Psalms 122",
-    "filename" : "psalms_123.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "123",
+    "verseCount": "4",
+    "nextChapter": "psalms_124.html",
+    "nextTitle": "Psalms 124",
+    "prevChapter": "psalms_122.html",
+    "prevTitle": "Psalms 122",
+    "filename": "psalms_123.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Song of degrees.",
-      "plainText" : "A Song of degrees."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Song of degrees.",
+      "plainText": "A Song of degrees."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16100",
-      "text" : "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
-      "plainText" : "Unto thee lift I up mine eyes, O thou that dwellest in the heavens."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16100",
+      "text": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
+      "plainText": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16101",
-      "text" : "Behold, as the eyes of servants <span class='extra'>look<\/span> unto the hand of their masters, <span class='extra'>and<\/span> as the eyes of a maiden unto the hand of her mistress; so our eyes <span class='extra'>wait<\/span> upon the <span class='nog'>LORD<\/span> our God, until that he have mercy upon us.",
-      "plainText" : "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the LORD our God, until that he have mercy upon us."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16101",
+      "text": "Behold, as the eyes of servants <span class='extra'>look</span> unto the hand of their masters, <span class='extra'>and</span> as the eyes of a maiden unto the hand of her mistress; so our eyes <span class='extra'>wait</span> upon the <span class='nog'>LORD</span> our God, until that he have mercy upon us.",
+      "plainText": "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the LORD our God, until that he have mercy upon us."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16102",
-      "text" : "Have mercy upon us, O <span class='nog'>LORD<\/span>, have mercy upon us: for we are exceedingly filled with contempt.",
-      "plainText" : "Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16102",
+      "text": "Have mercy upon us, O <span class='nog'>LORD</span>, have mercy upon us: for we are exceedingly filled with contempt.",
+      "plainText": "Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "16103",
-      "text" : "Our soul is exceedingly filled with the scorning of those that are at ease, <span class='extra'>and<\/span> with the contempt of the proud.",
-      "plainText" : "Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud."
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "16103",
+      "text": "Our soul is exceedingly filled with the scorning of those that are at ease, <span class='extra'>and</span> with the contempt of the proud.",
+      "plainText": "Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud."
     }
   ]
 }
-
-

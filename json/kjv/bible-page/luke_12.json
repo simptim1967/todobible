@@ -1,559 +1,501 @@
 {
   "book": {
-    "number" : "42",
-    "filenamePrefix" : "luke",
-    "bookPage" : "luke.html",
-    "title" : "Luke",
-    "chapterCount" : "24",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "john_1.html",
-    "nextTitle" : "John",
-    "prevBook" : "mark_1.html",
-    "prevTitle" : "Mark"
+    "number": "42",
+    "filenamePrefix": "luke",
+    "bookPage": "luke.html",
+    "title": "Luke",
+    "chapterCount": "24",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "john_1.html",
+    "nextTitle": "John",
+    "prevBook": "mark_1.html",
+    "prevTitle": "Mark",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "12",
-    "verseCount" : "59",
-    "nextChapter" : "luke_13.html",
-    "nextTitle" : "Luke 13",
-    "prevChapter" : "luke_11.html",
-    "prevTitle" : "Luke 11",
-    "filename" : "luke_12.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "12",
+    "verseCount": "59",
+    "nextChapter": "luke_13.html",
+    "nextTitle": "Luke 13",
+    "prevChapter": "luke_11.html",
+    "prevTitle": "Luke 11",
+    "filename": "luke_12.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "25461",
-      "text" : "In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, <span class='woc'>Beware ye of the leaven of the Pharisees, which is hypocrisy.<\/span>",
-      "plainText" : "In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "25461",
+      "text": "In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, <span class='woc'>Beware ye of the leaven of the Pharisees, which is hypocrisy.</span>",
+      "plainText": "In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "25462",
-      "text" : "<span class='woc'>For there is nothing covered, that shall not be revealed; neither hid, that shall not be known.<\/span>",
-      "plainText" : "For there is nothing covered, that shall not be revealed; neither hid, that shall not be known."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "25462",
+      "text": "<span class='woc'>For there is nothing covered, that shall not be revealed; neither hid, that shall not be known.</span>",
+      "plainText": "For there is nothing covered, that shall not be revealed; neither hid, that shall not be known."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "25463",
-      "text" : "<span class='woc'>Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops.<\/span>",
-      "plainText" : "Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "25463",
+      "text": "<span class='woc'>Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops.</span>",
+      "plainText": "Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "25464",
-      "text" : "<span class='woc'>And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.<\/span>",
-      "plainText" : "And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "25464",
+      "text": "<span class='woc'>And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.</span>",
+      "plainText": "And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "25465",
-      "text" : "<span class='woc'>But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him.<\/span>",
-      "plainText" : "But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "25465",
+      "text": "<span class='woc'>But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him.</span>",
+      "plainText": "But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "25466",
-      "text" : "<span class='woc'>Are not five sparrows sold for two farthings, and not one of them is forgotten before God?<\/span>",
-      "plainText" : "Are not five sparrows sold for two farthings, and not one of them is forgotten before God?"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "25466",
+      "text": "<span class='woc'>Are not five sparrows sold for two farthings, and not one of them is forgotten before God?</span>",
+      "plainText": "Are not five sparrows sold for two farthings, and not one of them is forgotten before God?"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "25467",
-      "text" : "<span class='woc'>But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.<\/span>",
-      "plainText" : "But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "25467",
+      "text": "<span class='woc'>But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.</span>",
+      "plainText": "But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "25468",
-      "text" : "<span class='woc'>Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:<\/span>",
-      "plainText" : "Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "25468",
+      "text": "<span class='woc'>Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:</span>",
+      "plainText": "Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "25469",
-      "text" : "<span class='woc'>But he that denieth me before men shall be denied before the angels of God.<\/span>",
-      "plainText" : "But he that denieth me before men shall be denied before the angels of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "25469",
+      "text": "<span class='woc'>But he that denieth me before men shall be denied before the angels of God.</span>",
+      "plainText": "But he that denieth me before men shall be denied before the angels of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "25470",
-      "text" : "<span class='woc'>And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven.<\/span>",
-      "plainText" : "And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "25470",
+      "text": "<span class='woc'>And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven.</span>",
+      "plainText": "And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "25471",
-      "text" : "<span class='woc'>And when they bring you unto the synagogues, and <span class='extra'>unto<\/span> magistrates, and powers, take ye no thought how or what thing ye shall answer, or what ye shall say:<\/span>",
-      "plainText" : "And when they bring you unto the synagogues, and unto magistrates, and powers, take ye no thought how or what thing ye shall answer, or what ye shall say:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "25471",
+      "text": "<span class='woc'>And when they bring you unto the synagogues, and <span class='extra'>unto</span> magistrates, and powers, take ye no thought how or what thing ye shall answer, or what ye shall say:</span>",
+      "plainText": "And when they bring you unto the synagogues, and unto magistrates, and powers, take ye no thought how or what thing ye shall answer, or what ye shall say:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "25472",
-      "text" : "<span class='woc'>For the Holy Ghost shall teach you in the same hour what ye ought to say.<\/span>",
-      "plainText" : "For the Holy Ghost shall teach you in the same hour what ye ought to say."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "25472",
+      "text": "<span class='woc'>For the Holy Ghost shall teach you in the same hour what ye ought to say.</span>",
+      "plainText": "For the Holy Ghost shall teach you in the same hour what ye ought to say."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "25473",
-      "text" : "And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.",
-      "plainText" : "And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "25473",
+      "text": "And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.",
+      "plainText": "And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "25474",
-      "text" : "And he said unto him, <span class='woc'>Man, who made me a judge or a divider over you?<\/span>",
-      "plainText" : "And he said unto him, Man, who made me a judge or a divider over you?"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "25474",
+      "text": "And he said unto him, <span class='woc'>Man, who made me a judge or a divider over you?</span>",
+      "plainText": "And he said unto him, Man, who made me a judge or a divider over you?"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "25475",
-      "text" : "And he said unto them, <span class='woc'>Take heed, and beware of covetousness: for a man's life consisteth not in the abundance of the things which he possesseth.<\/span>",
-      "plainText" : "And he said unto them, Take heed, and beware of covetousness: for a man's life consisteth not in the abundance of the things which he possesseth."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "25475",
+      "text": "And he said unto them, <span class='woc'>Take heed, and beware of covetousness: for a man's life consisteth not in the abundance of the things which he possesseth.</span>",
+      "plainText": "And he said unto them, Take heed, and beware of covetousness: for a man's life consisteth not in the abundance of the things which he possesseth."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "25476",
-      "text" : "And he spake a parable unto them, saying, <span class='woc'>The ground of a certain rich man brought forth plentifully:<\/span>",
-      "plainText" : "And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "25476",
+      "text": "And he spake a parable unto them, saying, <span class='woc'>The ground of a certain rich man brought forth plentifully:</span>",
+      "plainText": "And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "25477",
-      "text" : "<span class='woc'>And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?<\/span>",
-      "plainText" : "And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "25477",
+      "text": "<span class='woc'>And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?</span>",
+      "plainText": "And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "25478",
-      "text" : "<span class='woc'>And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.<\/span>",
-      "plainText" : "And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "25478",
+      "text": "<span class='woc'>And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.</span>",
+      "plainText": "And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "25479",
-      "text" : "<span class='woc'>And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, <span class='extra'>and<\/span> be merry.<\/span>",
-      "plainText" : "And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "25479",
+      "text": "<span class='woc'>And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, <span class='extra'>and</span> be merry.</span>",
+      "plainText": "And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "25480",
-      "text" : "<span class='woc'>But God said unto him, <span class='extra'>Thou<\/span> fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?<\/span>",
-      "plainText" : "But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "25480",
+      "text": "<span class='woc'>But God said unto him, <span class='extra'>Thou</span> fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?</span>",
+      "plainText": "But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "25481",
-      "text" : "<span class='woc'>So <span class='extra'>is<\/span> he that layeth up treasure for himself, and is not rich toward God.<\/span>",
-      "plainText" : "So is he that layeth up treasure for himself, and is not rich toward God."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "25481",
+      "text": "<span class='woc'>So <span class='extra'>is</span> he that layeth up treasure for himself, and is not rich toward God.</span>",
+      "plainText": "So is he that layeth up treasure for himself, and is not rich toward God."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "25482",
-      "text" : "And he said unto his disciples, <span class='woc'>Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on.<\/span>",
-      "plainText" : "And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "25482",
+      "text": "And he said unto his disciples, <span class='woc'>Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on.</span>",
+      "plainText": "And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "25483",
-      "text" : "<span class='woc'>The life is more than meat, and the body <span class='extra'>is more<\/span> than raiment.<\/span>",
-      "plainText" : "The life is more than meat, and the body is more than raiment."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "25483",
+      "text": "<span class='woc'>The life is more than meat, and the body <span class='extra'>is more</span> than raiment.</span>",
+      "plainText": "The life is more than meat, and the body is more than raiment."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "25484",
-      "text" : "<span class='woc'>Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?<\/span>",
-      "plainText" : "Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "25484",
+      "text": "<span class='woc'>Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?</span>",
+      "plainText": "Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "25485",
-      "text" : "<span class='woc'>And which of you with taking thought can add to his stature one cubit?<\/span>",
-      "plainText" : "And which of you with taking thought can add to his stature one cubit?"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "25485",
+      "text": "<span class='woc'>And which of you with taking thought can add to his stature one cubit?</span>",
+      "plainText": "And which of you with taking thought can add to his stature one cubit?"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "25486",
-      "text" : "<span class='woc'>If ye then be not able to do that thing which is least, why take ye thought for the rest?<\/span>",
-      "plainText" : "If ye then be not able to do that thing which is least, why take ye thought for the rest?"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "25486",
+      "text": "<span class='woc'>If ye then be not able to do that thing which is least, why take ye thought for the rest?</span>",
+      "plainText": "If ye then be not able to do that thing which is least, why take ye thought for the rest?"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "25487",
-      "text" : "<span class='woc'>Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these.<\/span>",
-      "plainText" : "Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "25487",
+      "text": "<span class='woc'>Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these.</span>",
+      "plainText": "Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "25488",
-      "text" : "<span class='woc'>If then God so clothe the grass, which is to day in the field, and to morrow is cast into the oven; how much more <span class='extra'>will he clothe<\/span> you, O ye of little faith?<\/span>",
-      "plainText" : "If then God so clothe the grass, which is to day in the field, and to morrow is cast into the oven; how much more will he clothe you, O ye of little faith?"
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "25488",
+      "text": "<span class='woc'>If then God so clothe the grass, which is to day in the field, and to morrow is cast into the oven; how much more <span class='extra'>will he clothe</span> you, O ye of little faith?</span>",
+      "plainText": "If then God so clothe the grass, which is to day in the field, and to morrow is cast into the oven; how much more will he clothe you, O ye of little faith?"
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "25489",
-      "text" : "<span class='woc'>And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind.<\/span>",
-      "plainText" : "And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "25489",
+      "text": "<span class='woc'>And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind.</span>",
+      "plainText": "And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "25490",
-      "text" : "<span class='woc'>For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things.<\/span>",
-      "plainText" : "For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "25490",
+      "text": "<span class='woc'>For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things.</span>",
+      "plainText": "For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "25491",
-      "text" : "<span class='woc'>But rather seek ye the kingdom of God; and all these things shall be added unto you.<\/span>",
-      "plainText" : "But rather seek ye the kingdom of God; and all these things shall be added unto you."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "25491",
+      "text": "<span class='woc'>But rather seek ye the kingdom of God; and all these things shall be added unto you.</span>",
+      "plainText": "But rather seek ye the kingdom of God; and all these things shall be added unto you."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "25492",
-      "text" : "<span class='woc'>Fear not, little flock; for it is your Father's good pleasure to give you the kingdom.<\/span>",
-      "plainText" : "Fear not, little flock; for it is your Father's good pleasure to give you the kingdom."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "25492",
+      "text": "<span class='woc'>Fear not, little flock; for it is your Father's good pleasure to give you the kingdom.</span>",
+      "plainText": "Fear not, little flock; for it is your Father's good pleasure to give you the kingdom."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "25493",
-      "text" : "<span class='woc'>Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth.<\/span>",
-      "plainText" : "Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "25493",
+      "text": "<span class='woc'>Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth.</span>",
+      "plainText": "Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "25494",
-      "text" : "<span class='woc'>For where your treasure is, there will your heart be also.<\/span>",
-      "plainText" : "For where your treasure is, there will your heart be also."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "25494",
+      "text": "<span class='woc'>For where your treasure is, there will your heart be also.</span>",
+      "plainText": "For where your treasure is, there will your heart be also."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "25495",
-      "text" : "<span class='woc'>Let your loins be girded about, and <span class='extra'>your<\/span> lights burning;<\/span>",
-      "plainText" : "Let your loins be girded about, and your lights burning;"
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "25495",
+      "text": "<span class='woc'>Let your loins be girded about, and <span class='extra'>your</span> lights burning;</span>",
+      "plainText": "Let your loins be girded about, and your lights burning;"
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "25496",
-      "text" : "<span class='woc'>And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately.<\/span>",
-      "plainText" : "And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "25496",
+      "text": "<span class='woc'>And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately.</span>",
+      "plainText": "And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "25497",
-      "text" : "<span class='woc'>Blessed <span class='extra'>are<\/span> those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.<\/span>",
-      "plainText" : "Blessed are those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "25497",
+      "text": "<span class='woc'>Blessed <span class='extra'>are</span> those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.</span>",
+      "plainText": "Blessed are those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "25498",
-      "text" : "<span class='woc'>And if he shall come in the second watch, or come in the third watch, and find <span class='extra'>them<\/span> so, blessed are those servants.<\/span>",
-      "plainText" : "And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "25498",
+      "text": "<span class='woc'>And if he shall come in the second watch, or come in the third watch, and find <span class='extra'>them</span> so, blessed are those servants.</span>",
+      "plainText": "And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "25499",
-      "text" : "<span class='woc'>And this know, that if the goodman of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through.<\/span>",
-      "plainText" : "And this know, that if the goodman of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "25499",
+      "text": "<span class='woc'>And this know, that if the goodman of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through.</span>",
+      "plainText": "And this know, that if the goodman of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "25500",
-      "text" : "<span class='woc'>Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.<\/span>",
-      "plainText" : "Be ye therefore ready also: for the Son of man cometh at an hour when ye think not."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "25500",
+      "text": "<span class='woc'>Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.</span>",
+      "plainText": "Be ye therefore ready also: for the Son of man cometh at an hour when ye think not."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "25501",
-      "text" : "Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?",
-      "plainText" : "Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?"
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "25501",
+      "text": "Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?",
+      "plainText": "Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?"
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "25502",
-      "text" : "And the Lord said, <span class='woc'>Who then is that faithful and wise steward, whom <span class='extra'>his<\/span> lord shall make ruler over his household, to give <span class='extra'>them their<\/span> portion of meat in due season?<\/span>",
-      "plainText" : "And the Lord said, Who then is that faithful and wise steward, whom his lord shall make ruler over his household, to give them their portion of meat in due season?"
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "25502",
+      "text": "And the Lord said, <span class='woc'>Who then is that faithful and wise steward, whom <span class='extra'>his</span> lord shall make ruler over his household, to give <span class='extra'>them their</span> portion of meat in due season?</span>",
+      "plainText": "And the Lord said, Who then is that faithful and wise steward, whom his lord shall make ruler over his household, to give them their portion of meat in due season?"
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "25503",
-      "text" : "<span class='woc'>Blessed <span class='extra'>is<\/span> that servant, whom his lord when he cometh shall find so doing.<\/span>",
-      "plainText" : "Blessed is that servant, whom his lord when he cometh shall find so doing."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "25503",
+      "text": "<span class='woc'>Blessed <span class='extra'>is</span> that servant, whom his lord when he cometh shall find so doing.</span>",
+      "plainText": "Blessed is that servant, whom his lord when he cometh shall find so doing."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "25504",
-      "text" : "<span class='woc'>Of a truth I say unto you, that he will make him ruler over all that he hath.<\/span>",
-      "plainText" : "Of a truth I say unto you, that he will make him ruler over all that he hath."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "25504",
+      "text": "<span class='woc'>Of a truth I say unto you, that he will make him ruler over all that he hath.</span>",
+      "plainText": "Of a truth I say unto you, that he will make him ruler over all that he hath."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "25505",
-      "text" : "<span class='woc'>But and if that servant say in his heart, My lord delayeth his coming; and shall begin to beat the menservants and maidens, and to eat and drink, and to be drunken;<\/span>",
-      "plainText" : "But and if that servant say in his heart, My lord delayeth his coming; and shall begin to beat the menservants and maidens, and to eat and drink, and to be drunken;"
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "25505",
+      "text": "<span class='woc'>But and if that servant say in his heart, My lord delayeth his coming; and shall begin to beat the menservants and maidens, and to eat and drink, and to be drunken;</span>",
+      "plainText": "But and if that servant say in his heart, My lord delayeth his coming; and shall begin to beat the menservants and maidens, and to eat and drink, and to be drunken;"
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "25506",
-      "text" : "<span class='woc'>The lord of that servant will come in a day when he looketh not for <span class='extra'>him<\/span>, and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers.<\/span>",
-      "plainText" : "The lord of that servant will come in a day when he looketh not for him, and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers."
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "25506",
+      "text": "<span class='woc'>The lord of that servant will come in a day when he looketh not for <span class='extra'>him</span>, and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers.</span>",
+      "plainText": "The lord of that servant will come in a day when he looketh not for him, and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers."
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "25507",
-      "text" : "<span class='woc'>And that servant, which knew his lord's will, and prepared not <span class='extra'>himself<\/span>, neither did according to his will, shall be beaten with many <span class='extra'>stripes<\/span>.<\/span>",
-      "plainText" : "And that servant, which knew his lord's will, and prepared not himself, neither did according to his will, shall be beaten with many stripes."
-    }
-    ,
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "25507",
+      "text": "<span class='woc'>And that servant, which knew his lord's will, and prepared not <span class='extra'>himself</span>, neither did according to his will, shall be beaten with many <span class='extra'>stripes</span>.</span>",
+      "plainText": "And that servant, which knew his lord's will, and prepared not himself, neither did according to his will, shall be beaten with many stripes."
+    },
     {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "25508",
-      "text" : "<span class='woc'>But he that knew not, and did commit things worthy of stripes, shall be beaten with few <span class='extra'>stripes<\/span>. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.<\/span>",
-      "plainText" : "But he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more."
-    }
-    ,
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "25508",
+      "text": "<span class='woc'>But he that knew not, and did commit things worthy of stripes, shall be beaten with few <span class='extra'>stripes</span>. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.</span>",
+      "plainText": "But he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more."
+    },
     {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "25509",
-      "text" : "<span class='woc'>I am come to send fire on the earth; and what will I, if it be already kindled?<\/span>",
-      "plainText" : "I am come to send fire on the earth; and what will I, if it be already kindled?"
-    }
-    ,
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "25509",
+      "text": "<span class='woc'>I am come to send fire on the earth; and what will I, if it be already kindled?</span>",
+      "plainText": "I am come to send fire on the earth; and what will I, if it be already kindled?"
+    },
     {
-      "type" : "verse",
-      "id" : "v50",
-      "number" : "50",
-      "absolute" : "25510",
-      "text" : "<span class='woc'>But I have a baptism to be baptized with; and how am I straitened till it be accomplished!<\/span>",
-      "plainText" : "But I have a baptism to be baptized with; and how am I straitened till it be accomplished!"
-    }
-    ,
+      "type": "verse",
+      "id": "v50",
+      "number": "50",
+      "absolute": "25510",
+      "text": "<span class='woc'>But I have a baptism to be baptized with; and how am I straitened till it be accomplished!</span>",
+      "plainText": "But I have a baptism to be baptized with; and how am I straitened till it be accomplished!"
+    },
     {
-      "type" : "verse",
-      "id" : "v51",
-      "number" : "51",
-      "absolute" : "25511",
-      "text" : "<span class='woc'>Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather division:<\/span>",
-      "plainText" : "Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather division:"
-    }
-    ,
+      "type": "verse",
+      "id": "v51",
+      "number": "51",
+      "absolute": "25511",
+      "text": "<span class='woc'>Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather division:</span>",
+      "plainText": "Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather division:"
+    },
     {
-      "type" : "verse",
-      "id" : "v52",
-      "number" : "52",
-      "absolute" : "25512",
-      "text" : "<span class='woc'>For from henceforth there shall be five in one house divided, three against two, and two against three.<\/span>",
-      "plainText" : "For from henceforth there shall be five in one house divided, three against two, and two against three."
-    }
-    ,
+      "type": "verse",
+      "id": "v52",
+      "number": "52",
+      "absolute": "25512",
+      "text": "<span class='woc'>For from henceforth there shall be five in one house divided, three against two, and two against three.</span>",
+      "plainText": "For from henceforth there shall be five in one house divided, three against two, and two against three."
+    },
     {
-      "type" : "verse",
-      "id" : "v53",
-      "number" : "53",
-      "absolute" : "25513",
-      "text" : "<span class='woc'>The father shall be divided against the son, and the son against the father; the mother against the daughter, and the daughter against the mother; the mother in law against her daughter in law, and the daughter in law against her mother in law.<\/span>",
-      "plainText" : "The father shall be divided against the son, and the son against the father; the mother against the daughter, and the daughter against the mother; the mother in law against her daughter in law, and the daughter in law against her mother in law."
-    }
-    ,
+      "type": "verse",
+      "id": "v53",
+      "number": "53",
+      "absolute": "25513",
+      "text": "<span class='woc'>The father shall be divided against the son, and the son against the father; the mother against the daughter, and the daughter against the mother; the mother in law against her daughter in law, and the daughter in law against her mother in law.</span>",
+      "plainText": "The father shall be divided against the son, and the son against the father; the mother against the daughter, and the daughter against the mother; the mother in law against her daughter in law, and the daughter in law against her mother in law."
+    },
     {
-      "type" : "verse",
-      "id" : "v54",
-      "number" : "54",
-      "absolute" : "25514",
-      "text" : "And he said also to the people, <span class='woc'>When ye see a cloud rise out of the west, straightway ye say, There cometh a shower; and so it is.<\/span>",
-      "plainText" : "And he said also to the people, When ye see a cloud rise out of the west, straightway ye say, There cometh a shower; and so it is."
-    }
-    ,
+      "type": "verse",
+      "id": "v54",
+      "number": "54",
+      "absolute": "25514",
+      "text": "And he said also to the people, <span class='woc'>When ye see a cloud rise out of the west, straightway ye say, There cometh a shower; and so it is.</span>",
+      "plainText": "And he said also to the people, When ye see a cloud rise out of the west, straightway ye say, There cometh a shower; and so it is."
+    },
     {
-      "type" : "verse",
-      "id" : "v55",
-      "number" : "55",
-      "absolute" : "25515",
-      "text" : "<span class='woc'>And when <span class='extra'>ye see<\/span> the south wind blow, ye say, There will be heat; and it cometh to pass.<\/span>",
-      "plainText" : "And when ye see the south wind blow, ye say, There will be heat; and it cometh to pass."
-    }
-    ,
+      "type": "verse",
+      "id": "v55",
+      "number": "55",
+      "absolute": "25515",
+      "text": "<span class='woc'>And when <span class='extra'>ye see</span> the south wind blow, ye say, There will be heat; and it cometh to pass.</span>",
+      "plainText": "And when ye see the south wind blow, ye say, There will be heat; and it cometh to pass."
+    },
     {
-      "type" : "verse",
-      "id" : "v56",
-      "number" : "56",
-      "absolute" : "25516",
-      "text" : "<span class='woc'><span class='extra'>Ye<\/span> hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?<\/span>",
-      "plainText" : "Ye hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?"
-    }
-    ,
+      "type": "verse",
+      "id": "v56",
+      "number": "56",
+      "absolute": "25516",
+      "text": "<span class='woc'><span class='extra'>Ye</span> hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?</span>",
+      "plainText": "Ye hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?"
+    },
     {
-      "type" : "verse",
-      "id" : "v57",
-      "number" : "57",
-      "absolute" : "25517",
-      "text" : "<span class='woc'>Yea, and why even of yourselves judge ye not what is right?<\/span>",
-      "plainText" : "Yea, and why even of yourselves judge ye not what is right?"
-    }
-    ,
+      "type": "verse",
+      "id": "v57",
+      "number": "57",
+      "absolute": "25517",
+      "text": "<span class='woc'>Yea, and why even of yourselves judge ye not what is right?</span>",
+      "plainText": "Yea, and why even of yourselves judge ye not what is right?"
+    },
     {
-      "type" : "verse",
-      "id" : "v58",
-      "number" : "58",
-      "absolute" : "25518",
-      "text" : "<span class='woc'>When thou goest with thine adversary to the magistrate, <span class='extra'>as thou art<\/span> in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison.<\/span>",
-      "plainText" : "When thou goest with thine adversary to the magistrate, as thou art in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison."
-    }
-    ,
+      "type": "verse",
+      "id": "v58",
+      "number": "58",
+      "absolute": "25518",
+      "text": "<span class='woc'>When thou goest with thine adversary to the magistrate, <span class='extra'>as thou art</span> in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison.</span>",
+      "plainText": "When thou goest with thine adversary to the magistrate, as thou art in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison."
+    },
     {
-      "type" : "verse",
-      "id" : "v59",
-      "number" : "59",
-      "absolute" : "25519",
-      "text" : "<span class='woc'>I tell thee, thou shalt not depart thence, till thou hast paid the very last mite.<\/span>",
-      "plainText" : "I tell thee, thou shalt not depart thence, till thou hast paid the very last mite."
+      "type": "verse",
+      "id": "v59",
+      "number": "59",
+      "absolute": "25519",
+      "text": "<span class='woc'>I tell thee, thou shalt not depart thence, till thou hast paid the very last mite.</span>",
+      "plainText": "I tell thee, thou shalt not depart thence, till thou hast paid the very last mite."
     }
   ]
 }
-

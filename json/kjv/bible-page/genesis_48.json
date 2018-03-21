@@ -1,226 +1,205 @@
 {
   "book": {
-    "number" : "1",
-    "filenamePrefix" : "genesis",
-    "bookPage" : "genesis.html",
-    "title" : "Genesis",
-    "chapterCount" : "50",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "exodus_1.html",
-    "nextTitle" : "Exodus",
-    "prevBook" : "revelation_1.html",
-    "prevTitle" : "Revelation"
+    "number": "1",
+    "filenamePrefix": "genesis",
+    "bookPage": "genesis.html",
+    "title": "Genesis",
+    "chapterCount": "50",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "exodus_1.html",
+    "nextTitle": "Exodus",
+    "prevBook": "revelation_1.html",
+    "prevTitle": "Revelation",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "48",
-    "verseCount" : "22",
-    "nextChapter" : "genesis_49.html",
-    "nextTitle" : "Genesis 49",
-    "prevChapter" : "genesis_47.html",
-    "prevTitle" : "Genesis 47",
-    "filename" : "genesis_48.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "48",
+    "verseCount": "22",
+    "nextChapter": "genesis_49.html",
+    "nextTitle": "Genesis 49",
+    "prevChapter": "genesis_47.html",
+    "prevTitle": "Genesis 47",
+    "filename": "genesis_48.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "1453",
-      "text" : "And it came to pass after these things, that <span class='extra'>one<\/span> told Joseph, Behold, thy father <span class='extra'>is<\/span> sick: and he took with him his two sons, Manasseh and Ephraim.",
-      "plainText" : "And it came to pass after these things, that one told Joseph, Behold, thy father is sick: and he took with him his two sons, Manasseh and Ephraim."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "1453",
+      "text": "And it came to pass after these things, that <span class='extra'>one</span> told Joseph, Behold, thy father <span class='extra'>is</span> sick: and he took with him his two sons, Manasseh and Ephraim.",
+      "plainText": "And it came to pass after these things, that one told Joseph, Behold, thy father is sick: and he took with him his two sons, Manasseh and Ephraim."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "1454",
-      "text" : "And <span class='extra'>one<\/span> told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed.",
-      "plainText" : "And one told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "1454",
+      "text": "And <span class='extra'>one</span> told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed.",
+      "plainText": "And one told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "1455",
-      "text" : "And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me,",
-      "plainText" : "And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me,"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "1455",
+      "text": "And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me,",
+      "plainText": "And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me,"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "1456",
-      "text" : "And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee <span class='extra'>for<\/span> an everlasting possession.",
-      "plainText" : "And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee for an everlasting possession."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "1456",
+      "text": "And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee <span class='extra'>for</span> an everlasting possession.",
+      "plainText": "And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee for an everlasting possession."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "1457",
-      "text" : "And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, <span class='extra'>are<\/span> mine; as Reuben and Simeon, they shall be mine.",
-      "plainText" : "And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, are mine; as Reuben and Simeon, they shall be mine."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "1457",
+      "text": "And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, <span class='extra'>are</span> mine; as Reuben and Simeon, they shall be mine.",
+      "plainText": "And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, are mine; as Reuben and Simeon, they shall be mine."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "1458",
-      "text" : "And thy issue, which thou begettest after them, shall be thine, <span class='extra'>and<\/span> shall be called after the name of their brethren in their inheritance.",
-      "plainText" : "And thy issue, which thou begettest after them, shall be thine, and shall be called after the name of their brethren in their inheritance."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "1458",
+      "text": "And thy issue, which thou begettest after them, shall be thine, <span class='extra'>and</span> shall be called after the name of their brethren in their inheritance.",
+      "plainText": "And thy issue, which thou begettest after them, shall be thine, and shall be called after the name of their brethren in their inheritance."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "1459",
-      "text" : "And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet <span class='extra'>there was<\/span> but a little way to come unto Ephrath: and I buried her there in the way of Ephrath; the same <span class='extra'>is<\/span> Beth-lehem.",
-      "plainText" : "And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet there was but a little way to come unto Ephrath: and I buried her there in the way of Ephrath; the same is Beth-lehem."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "1459",
+      "text": "And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet <span class='extra'>there was</span> but a little way to come unto Ephrath: and I buried her there in the way of Ephrath; the same <span class='extra'>is</span> Beth-lehem.",
+      "plainText": "And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet there was but a little way to come unto Ephrath: and I buried her there in the way of Ephrath; the same is Beth-lehem."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "1460",
-      "text" : "And Israel beheld Joseph's sons, and said, Who <span class='extra'>are<\/span> these?",
-      "plainText" : "And Israel beheld Joseph's sons, and said, Who are these?"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "1460",
+      "text": "And Israel beheld Joseph's sons, and said, Who <span class='extra'>are</span> these?",
+      "plainText": "And Israel beheld Joseph's sons, and said, Who are these?"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "1461",
-      "text" : "And Joseph said unto his father, They <span class='extra'>are<\/span> my sons, whom God hath given me in this <span class='extra'>place<\/span>. And he said, Bring them, I pray thee, unto me, and I will bless them.",
-      "plainText" : "And Joseph said unto his father, They are my sons, whom God hath given me in this place. And he said, Bring them, I pray thee, unto me, and I will bless them."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "1461",
+      "text": "And Joseph said unto his father, They <span class='extra'>are</span> my sons, whom God hath given me in this <span class='extra'>place</span>. And he said, Bring them, I pray thee, unto me, and I will bless them.",
+      "plainText": "And Joseph said unto his father, They are my sons, whom God hath given me in this place. And he said, Bring them, I pray thee, unto me, and I will bless them."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "1462",
-      "text" : "Now the eyes of Israel were dim for age, <span class='extra'>so that<\/span> he could not see. And he brought them near unto him; and he kissed them, and embraced them.",
-      "plainText" : "Now the eyes of Israel were dim for age, so that he could not see. And he brought them near unto him; and he kissed them, and embraced them."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "1462",
+      "text": "Now the eyes of Israel were dim for age, <span class='extra'>so that</span> he could not see. And he brought them near unto him; and he kissed them, and embraced them.",
+      "plainText": "Now the eyes of Israel were dim for age, so that he could not see. And he brought them near unto him; and he kissed them, and embraced them."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "1463",
-      "text" : "And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed.",
-      "plainText" : "And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "1463",
+      "text": "And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed.",
+      "plainText": "And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "1464",
-      "text" : "And Joseph brought them out from between his knees, and he bowed himself with his face to the earth.",
-      "plainText" : "And Joseph brought them out from between his knees, and he bowed himself with his face to the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "1464",
+      "text": "And Joseph brought them out from between his knees, and he bowed himself with his face to the earth.",
+      "plainText": "And Joseph brought them out from between his knees, and he bowed himself with his face to the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "1465",
-      "text" : "And Joseph took them both, Ephraim in his right hand toward Israel's left hand, and Manasseh in his left hand toward Israel's right hand, and brought <span class='extra'>them<\/span> near unto him.",
-      "plainText" : "And Joseph took them both, Ephraim in his right hand toward Israel's left hand, and Manasseh in his left hand toward Israel's right hand, and brought them near unto him."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "1465",
+      "text": "And Joseph took them both, Ephraim in his right hand toward Israel's left hand, and Manasseh in his left hand toward Israel's right hand, and brought <span class='extra'>them</span> near unto him.",
+      "plainText": "And Joseph took them both, Ephraim in his right hand toward Israel's left hand, and Manasseh in his left hand toward Israel's right hand, and brought them near unto him."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "1466",
-      "text" : "And Israel stretched out his right hand, and laid <span class='extra'>it<\/span> upon Ephraim's head, who <span class='extra'>was<\/span> the younger, and his left hand upon Manasseh's head, guiding his hands wittingly; for Manasseh <span class='extra'>was<\/span> the firstborn.",
-      "plainText" : "And Israel stretched out his right hand, and laid it upon Ephraim's head, who was the younger, and his left hand upon Manasseh's head, guiding his hands wittingly; for Manasseh was the firstborn."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "1466",
+      "text": "And Israel stretched out his right hand, and laid <span class='extra'>it</span> upon Ephraim's head, who <span class='extra'>was</span> the younger, and his left hand upon Manasseh's head, guiding his hands wittingly; for Manasseh <span class='extra'>was</span> the firstborn.",
+      "plainText": "And Israel stretched out his right hand, and laid it upon Ephraim's head, who was the younger, and his left hand upon Manasseh's head, guiding his hands wittingly; for Manasseh was the firstborn."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "1467",
-      "text" : "And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,",
-      "plainText" : "And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "1467",
+      "text": "And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,",
+      "plainText": "And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "1468",
-      "text" : "The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth.",
-      "plainText" : "The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "1468",
+      "text": "The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth.",
+      "plainText": "The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "1469",
-      "text" : "And when Joseph saw that his father laid his right hand upon the head of Ephraim, it displeased him: and he held up his father's hand, to remove it from Ephraim's head unto Manasseh's head.",
-      "plainText" : "And when Joseph saw that his father laid his right hand upon the head of Ephraim, it displeased him: and he held up his father's hand, to remove it from Ephraim's head unto Manasseh's head."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "1469",
+      "text": "And when Joseph saw that his father laid his right hand upon the head of Ephraim, it displeased him: and he held up his father's hand, to remove it from Ephraim's head unto Manasseh's head.",
+      "plainText": "And when Joseph saw that his father laid his right hand upon the head of Ephraim, it displeased him: and he held up his father's hand, to remove it from Ephraim's head unto Manasseh's head."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "1470",
-      "text" : "And Joseph said unto his father, Not so, my father: for this <span class='extra'>is<\/span> the firstborn; put thy right hand upon his head.",
-      "plainText" : "And Joseph said unto his father, Not so, my father: for this is the firstborn; put thy right hand upon his head."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "1470",
+      "text": "And Joseph said unto his father, Not so, my father: for this <span class='extra'>is</span> the firstborn; put thy right hand upon his head.",
+      "plainText": "And Joseph said unto his father, Not so, my father: for this is the firstborn; put thy right hand upon his head."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "1471",
-      "text" : "And his father refused, and said, I know <span class='extra'>it<\/span>, my son, I know <span class='extra'>it<\/span>: he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations.",
-      "plainText" : "And his father refused, and said, I know it, my son, I know it: he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "1471",
+      "text": "And his father refused, and said, I know <span class='extra'>it</span>, my son, I know <span class='extra'>it</span>: he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations.",
+      "plainText": "And his father refused, and said, I know it, my son, I know it: he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "1472",
-      "text" : "And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh.",
-      "plainText" : "And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "1472",
+      "text": "And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh.",
+      "plainText": "And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "1473",
-      "text" : "And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers.",
-      "plainText" : "And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "1473",
+      "text": "And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers.",
+      "plainText": "And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "1474",
-      "text" : "Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow.",
-      "plainText" : "Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow."
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "1474",
+      "text": "Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow.",
+      "plainText": "Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow."
     }
   ]
 }
-

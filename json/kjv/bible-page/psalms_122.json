@@ -1,117 +1,107 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "122",
-    "verseCount" : "9",
-    "nextChapter" : "psalms_123.html",
-    "nextTitle" : "Psalms 123",
-    "prevChapter" : "psalms_121.html",
-    "prevTitle" : "Psalms 121",
-    "filename" : "psalms_122.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "122",
+    "verseCount": "9",
+    "nextChapter": "psalms_123.html",
+    "nextTitle": "Psalms 123",
+    "prevChapter": "psalms_121.html",
+    "prevTitle": "Psalms 121",
+    "filename": "psalms_122.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Song of degrees of David.",
-      "plainText" : "A Song of degrees of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Song of degrees of David.",
+      "plainText": "A Song of degrees of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16091",
-      "text" : "I was glad when they said unto me, Let us go into the house of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "I was glad when they said unto me, Let us go into the house of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16091",
+      "text": "I was glad when they said unto me, Let us go into the house of the <span class='nog'>LORD</span>.",
+      "plainText": "I was glad when they said unto me, Let us go into the house of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16092",
-      "text" : "Our feet shall stand within thy gates, O Jerusalem.",
-      "plainText" : "Our feet shall stand within thy gates, O Jerusalem."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16092",
+      "text": "Our feet shall stand within thy gates, O Jerusalem.",
+      "plainText": "Our feet shall stand within thy gates, O Jerusalem."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16093",
-      "text" : "Jerusalem is builded as a city that is compact together:",
-      "plainText" : "Jerusalem is builded as a city that is compact together:"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16093",
+      "text": "Jerusalem is builded as a city that is compact together:",
+      "plainText": "Jerusalem is builded as a city that is compact together:"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "16094",
-      "text" : "Whither the tribes go up, the tribes of the <span class='nog'>LORD<\/span>, unto the testimony of Israel, to give thanks unto the name of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "16094",
+      "text": "Whither the tribes go up, the tribes of the <span class='nog'>LORD</span>, unto the testimony of Israel, to give thanks unto the name of the <span class='nog'>LORD</span>.",
+      "plainText": "Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "16095",
-      "text" : "For there are set thrones of judgment, the thrones of the house of David.",
-      "plainText" : "For there are set thrones of judgment, the thrones of the house of David."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "16095",
+      "text": "For there are set thrones of judgment, the thrones of the house of David.",
+      "plainText": "For there are set thrones of judgment, the thrones of the house of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "16096",
-      "text" : "Pray for the peace of Jerusalem: they shall prosper that love thee.",
-      "plainText" : "Pray for the peace of Jerusalem: they shall prosper that love thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "16096",
+      "text": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+      "plainText": "Pray for the peace of Jerusalem: they shall prosper that love thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "16097",
-      "text" : "Peace be within thy walls, <span class='extra'>and<\/span> prosperity within thy palaces.",
-      "plainText" : "Peace be within thy walls, and prosperity within thy palaces."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "16097",
+      "text": "Peace be within thy walls, <span class='extra'>and</span> prosperity within thy palaces.",
+      "plainText": "Peace be within thy walls, and prosperity within thy palaces."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "16098",
-      "text" : "For my brethren and companions' sakes, I will now say, Peace <span class='extra'>be<\/span> within thee.",
-      "plainText" : "For my brethren and companions' sakes, I will now say, Peace be within thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "16098",
+      "text": "For my brethren and companions' sakes, I will now say, Peace <span class='extra'>be</span> within thee.",
+      "plainText": "For my brethren and companions' sakes, I will now say, Peace be within thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "16099",
-      "text" : "Because of the house of the <span class='nog'>LORD<\/span> our God I will seek thy good.",
-      "plainText" : "Because of the house of the LORD our God I will seek thy good."
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "16099",
+      "text": "Because of the house of the <span class='nog'>LORD</span> our God I will seek thy good.",
+      "plainText": "Because of the house of the LORD our God I will seek thy good."
     }
   ]
 }
-
-

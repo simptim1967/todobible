@@ -1,487 +1,437 @@
 {
   "book": {
-    "number" : "40",
-    "filenamePrefix" : "matthew",
-    "bookPage" : "matthew.html",
-    "title" : "Matthew",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "mark_1.html",
-    "nextTitle" : "Mark",
-    "prevBook" : "malachi_1.html",
-    "prevTitle" : "Malachi"
+    "number": "40",
+    "filenamePrefix": "matthew",
+    "bookPage": "matthew.html",
+    "title": "Matthew",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "mark_1.html",
+    "nextTitle": "Mark",
+    "prevBook": "malachi_1.html",
+    "prevTitle": "Malachi",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "24",
-    "verseCount" : "51",
-    "nextChapter" : "matthew_25.html",
-    "nextTitle" : "Matthew 25",
-    "prevChapter" : "matthew_23.html",
-    "prevTitle" : "Matthew 23",
-    "filename" : "matthew_24.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "24",
+    "verseCount": "51",
+    "nextChapter": "matthew_25.html",
+    "nextTitle": "Matthew 25",
+    "prevChapter": "matthew_23.html",
+    "prevTitle": "Matthew 23",
+    "filename": "matthew_24.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "23959",
-      "text" : "And Jesus went out, and departed from the temple: and his disciples came to <span class='extra'>him<\/span> for to shew him the buildings of the temple.",
-      "plainText" : "And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "23959",
+      "text": "And Jesus went out, and departed from the temple: and his disciples came to <span class='extra'>him</span> for to shew him the buildings of the temple.",
+      "plainText": "And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "23960",
-      "text" : "And Jesus said unto them, <span class='woc'>See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.<\/span>",
-      "plainText" : "And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "23960",
+      "text": "And Jesus said unto them, <span class='woc'>See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.</span>",
+      "plainText": "And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "23961",
-      "text" : "And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what <span class='extra'>shall be<\/span> the sign of thy coming, and of the end of the world?",
-      "plainText" : "And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "23961",
+      "text": "And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what <span class='extra'>shall be</span> the sign of thy coming, and of the end of the world?",
+      "plainText": "And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "23962",
-      "text" : "And Jesus answered and said unto them, <span class='woc'>Take heed that no man deceive you.<\/span>",
-      "plainText" : "And Jesus answered and said unto them, Take heed that no man deceive you."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "23962",
+      "text": "And Jesus answered and said unto them, <span class='woc'>Take heed that no man deceive you.</span>",
+      "plainText": "And Jesus answered and said unto them, Take heed that no man deceive you."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "23963",
-      "text" : "<span class='woc'>For many shall come in my name, saying, I am Christ; and shall deceive many.<\/span>",
-      "plainText" : "For many shall come in my name, saying, I am Christ; and shall deceive many."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "23963",
+      "text": "<span class='woc'>For many shall come in my name, saying, I am Christ; and shall deceive many.</span>",
+      "plainText": "For many shall come in my name, saying, I am Christ; and shall deceive many."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "23964",
-      "text" : "<span class='woc'>And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all <span class='extra'>these things<\/span> must come to pass, but the end is not yet.<\/span>",
-      "plainText" : "And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "23964",
+      "text": "<span class='woc'>And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all <span class='extra'>these things</span> must come to pass, but the end is not yet.</span>",
+      "plainText": "And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "23965",
-      "text" : "<span class='woc'>For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.<\/span>",
-      "plainText" : "For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "23965",
+      "text": "<span class='woc'>For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.</span>",
+      "plainText": "For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "23966",
-      "text" : "<span class='woc'>All these <span class='extra'>are<\/span> the beginning of sorrows.<\/span>",
-      "plainText" : "All these are the beginning of sorrows."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "23966",
+      "text": "<span class='woc'>All these <span class='extra'>are</span> the beginning of sorrows.</span>",
+      "plainText": "All these are the beginning of sorrows."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "23967",
-      "text" : "<span class='woc'>Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake.<\/span>",
-      "plainText" : "Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "23967",
+      "text": "<span class='woc'>Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake.</span>",
+      "plainText": "Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "23968",
-      "text" : "<span class='woc'>And then shall many be offended, and shall betray one another, and shall hate one another.<\/span>",
-      "plainText" : "And then shall many be offended, and shall betray one another, and shall hate one another."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "23968",
+      "text": "<span class='woc'>And then shall many be offended, and shall betray one another, and shall hate one another.</span>",
+      "plainText": "And then shall many be offended, and shall betray one another, and shall hate one another."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "23969",
-      "text" : "<span class='woc'>And many false prophets shall rise, and shall deceive many.<\/span>",
-      "plainText" : "And many false prophets shall rise, and shall deceive many."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "23969",
+      "text": "<span class='woc'>And many false prophets shall rise, and shall deceive many.</span>",
+      "plainText": "And many false prophets shall rise, and shall deceive many."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "23970",
-      "text" : "<span class='woc'>And because iniquity shall abound, the love of many shall wax cold.<\/span>",
-      "plainText" : "And because iniquity shall abound, the love of many shall wax cold."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "23970",
+      "text": "<span class='woc'>And because iniquity shall abound, the love of many shall wax cold.</span>",
+      "plainText": "And because iniquity shall abound, the love of many shall wax cold."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "23971",
-      "text" : "<span class='woc'>But he that shall endure unto the end, the same shall be saved.<\/span>",
-      "plainText" : "But he that shall endure unto the end, the same shall be saved."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "23971",
+      "text": "<span class='woc'>But he that shall endure unto the end, the same shall be saved.</span>",
+      "plainText": "But he that shall endure unto the end, the same shall be saved."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "23972",
-      "text" : "<span class='woc'>And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.<\/span>",
-      "plainText" : "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "23972",
+      "text": "<span class='woc'>And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.</span>",
+      "plainText": "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "23973",
-      "text" : "<span class='woc'>When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place,<\/span> (whoso readeth, let him understand:)",
-      "plainText" : "When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "23973",
+      "text": "<span class='woc'>When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place,</span> (whoso readeth, let him understand:)",
+      "plainText": "When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "23974",
-      "text" : "<span class='woc'>Then let them which be in Judaea flee into the mountains:<\/span>",
-      "plainText" : "Then let them which be in Judaea flee into the mountains:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "23974",
+      "text": "<span class='woc'>Then let them which be in Judaea flee into the mountains:</span>",
+      "plainText": "Then let them which be in Judaea flee into the mountains:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "23975",
-      "text" : "<span class='woc'>Let him which is on the housetop not come down to take any thing out of his house:<\/span>",
-      "plainText" : "Let him which is on the housetop not come down to take any thing out of his house:"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "23975",
+      "text": "<span class='woc'>Let him which is on the housetop not come down to take any thing out of his house:</span>",
+      "plainText": "Let him which is on the housetop not come down to take any thing out of his house:"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "23976",
-      "text" : "<span class='woc'>Neither let him which is in the field return back to take his clothes.<\/span>",
-      "plainText" : "Neither let him which is in the field return back to take his clothes."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "23976",
+      "text": "<span class='woc'>Neither let him which is in the field return back to take his clothes.</span>",
+      "plainText": "Neither let him which is in the field return back to take his clothes."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "23977",
-      "text" : "<span class='woc'>And woe unto them that are with child, and to them that give suck in those days!<\/span>",
-      "plainText" : "And woe unto them that are with child, and to them that give suck in those days!"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "23977",
+      "text": "<span class='woc'>And woe unto them that are with child, and to them that give suck in those days!</span>",
+      "plainText": "And woe unto them that are with child, and to them that give suck in those days!"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "23978",
-      "text" : "<span class='woc'>But pray ye that your flight be not in the winter, neither on the sabbath day:<\/span>",
-      "plainText" : "But pray ye that your flight be not in the winter, neither on the sabbath day:"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "23978",
+      "text": "<span class='woc'>But pray ye that your flight be not in the winter, neither on the sabbath day:</span>",
+      "plainText": "But pray ye that your flight be not in the winter, neither on the sabbath day:"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "23979",
-      "text" : "<span class='woc'>For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.<\/span>",
-      "plainText" : "For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "23979",
+      "text": "<span class='woc'>For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.</span>",
+      "plainText": "For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "23980",
-      "text" : "<span class='woc'>And except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened.<\/span>",
-      "plainText" : "And except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "23980",
+      "text": "<span class='woc'>And except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened.</span>",
+      "plainText": "And except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "23981",
-      "text" : "<span class='woc'>Then if any man shall say unto you, Lo, here <span class='extra'>is<\/span> Christ, or there; believe <span class='extra'>it<\/span> not.<\/span>",
-      "plainText" : "Then if any man shall say unto you, Lo, here is Christ, or there; believe it not."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "23981",
+      "text": "<span class='woc'>Then if any man shall say unto you, Lo, here <span class='extra'>is</span> Christ, or there; believe <span class='extra'>it</span> not.</span>",
+      "plainText": "Then if any man shall say unto you, Lo, here is Christ, or there; believe it not."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "23982",
-      "text" : "<span class='woc'>For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if <span class='extra'>it were<\/span> possible, they shall deceive the very elect.<\/span>",
-      "plainText" : "For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "23982",
+      "text": "<span class='woc'>For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if <span class='extra'>it were</span> possible, they shall deceive the very elect.</span>",
+      "plainText": "For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "23983",
-      "text" : "<span class='woc'>Behold, I have told you before.<\/span>",
-      "plainText" : "Behold, I have told you before."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "23983",
+      "text": "<span class='woc'>Behold, I have told you before.</span>",
+      "plainText": "Behold, I have told you before."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "23984",
-      "text" : "<span class='woc'>Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, <span class='extra'>he is<\/span> in the secret chambers; believe <span class='extra'>it<\/span> not.<\/span>",
-      "plainText" : "Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, he is in the secret chambers; believe it not."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "23984",
+      "text": "<span class='woc'>Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, <span class='extra'>he is</span> in the secret chambers; believe <span class='extra'>it</span> not.</span>",
+      "plainText": "Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, he is in the secret chambers; believe it not."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "23985",
-      "text" : "<span class='woc'>For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.<\/span>",
-      "plainText" : "For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "23985",
+      "text": "<span class='woc'>For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.</span>",
+      "plainText": "For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "23986",
-      "text" : "<span class='woc'>For wheresoever the carcase is, there will the eagles be gathered together.<\/span>",
-      "plainText" : "For wheresoever the carcase is, there will the eagles be gathered together."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "23986",
+      "text": "<span class='woc'>For wheresoever the carcase is, there will the eagles be gathered together.</span>",
+      "plainText": "For wheresoever the carcase is, there will the eagles be gathered together."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "23987",
-      "text" : "<span class='woc'>Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:<\/span>",
-      "plainText" : "Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "23987",
+      "text": "<span class='woc'>Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:</span>",
+      "plainText": "Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "23988",
-      "text" : "<span class='woc'>And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.<\/span>",
-      "plainText" : "And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "23988",
+      "text": "<span class='woc'>And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.</span>",
+      "plainText": "And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "23989",
-      "text" : "<span class='woc'>And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.<\/span>",
-      "plainText" : "And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "23989",
+      "text": "<span class='woc'>And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.</span>",
+      "plainText": "And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "23990",
-      "text" : "<span class='woc'>Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer <span class='extra'>is<\/span> nigh:<\/span>",
-      "plainText" : "Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh:"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "23990",
+      "text": "<span class='woc'>Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer <span class='extra'>is</span> nigh:</span>",
+      "plainText": "Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh:"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "23991",
-      "text" : "<span class='woc'>So likewise ye, when ye shall see all these things, know that it is near, <span class='extra'>even<\/span> at the doors.<\/span>",
-      "plainText" : "So likewise ye, when ye shall see all these things, know that it is near, even at the doors."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "23991",
+      "text": "<span class='woc'>So likewise ye, when ye shall see all these things, know that it is near, <span class='extra'>even</span> at the doors.</span>",
+      "plainText": "So likewise ye, when ye shall see all these things, know that it is near, even at the doors."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "23992",
-      "text" : "<span class='woc'>Verily I say unto you, This generation shall not pass, till all these things be fulfilled.<\/span>",
-      "plainText" : "Verily I say unto you, This generation shall not pass, till all these things be fulfilled."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "23992",
+      "text": "<span class='woc'>Verily I say unto you, This generation shall not pass, till all these things be fulfilled.</span>",
+      "plainText": "Verily I say unto you, This generation shall not pass, till all these things be fulfilled."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "23993",
-      "text" : "<span class='woc'>Heaven and earth shall pass away, but my words shall not pass away.<\/span>",
-      "plainText" : "Heaven and earth shall pass away, but my words shall not pass away."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "23993",
+      "text": "<span class='woc'>Heaven and earth shall pass away, but my words shall not pass away.</span>",
+      "plainText": "Heaven and earth shall pass away, but my words shall not pass away."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "23994",
-      "text" : "<span class='woc'>But of that day and hour knoweth no <span class='extra'>man<\/span>, no, not the angels of heaven, but my Father only.<\/span>",
-      "plainText" : "But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "23994",
+      "text": "<span class='woc'>But of that day and hour knoweth no <span class='extra'>man</span>, no, not the angels of heaven, but my Father only.</span>",
+      "plainText": "But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "23995",
-      "text" : "<span class='woc'>But as the days of Noe <span class='extra'>were<\/span>, so shall also the coming of the Son of man be.<\/span>",
-      "plainText" : "But as the days of Noe were, so shall also the coming of the Son of man be."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "23995",
+      "text": "<span class='woc'>But as the days of Noe <span class='extra'>were</span>, so shall also the coming of the Son of man be.</span>",
+      "plainText": "But as the days of Noe were, so shall also the coming of the Son of man be."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "23996",
-      "text" : "<span class='woc'>For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,<\/span>",
-      "plainText" : "For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,"
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "23996",
+      "text": "<span class='woc'>For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,</span>",
+      "plainText": "For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,"
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "23997",
-      "text" : "<span class='woc'>And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.<\/span>",
-      "plainText" : "And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "23997",
+      "text": "<span class='woc'>And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.</span>",
+      "plainText": "And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "23998",
-      "text" : "<span class='woc'>Then shall two be in the field; the one shall be taken, and the other left.<\/span>",
-      "plainText" : "Then shall two be in the field; the one shall be taken, and the other left."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "23998",
+      "text": "<span class='woc'>Then shall two be in the field; the one shall be taken, and the other left.</span>",
+      "plainText": "Then shall two be in the field; the one shall be taken, and the other left."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "23999",
-      "text" : "<span class='woc'>Two <span class='extra'>women shall be<\/span> grinding at the mill; the one shall be taken, and the other left.<\/span>",
-      "plainText" : "Two women shall be grinding at the mill; the one shall be taken, and the other left."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "23999",
+      "text": "<span class='woc'>Two <span class='extra'>women shall be</span> grinding at the mill; the one shall be taken, and the other left.</span>",
+      "plainText": "Two women shall be grinding at the mill; the one shall be taken, and the other left."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "24000",
-      "text" : "<span class='woc'>Watch therefore: for ye know not what hour your Lord doth come.<\/span>",
-      "plainText" : "Watch therefore: for ye know not what hour your Lord doth come."
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "24000",
+      "text": "<span class='woc'>Watch therefore: for ye know not what hour your Lord doth come.</span>",
+      "plainText": "Watch therefore: for ye know not what hour your Lord doth come."
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "24001",
-      "text" : "<span class='woc'>But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.<\/span>",
-      "plainText" : "But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "24001",
+      "text": "<span class='woc'>But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.</span>",
+      "plainText": "But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "24002",
-      "text" : "<span class='woc'>Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.<\/span>",
-      "plainText" : "Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "24002",
+      "text": "<span class='woc'>Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.</span>",
+      "plainText": "Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "24003",
-      "text" : "<span class='woc'>Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?<\/span>",
-      "plainText" : "Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?"
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "24003",
+      "text": "<span class='woc'>Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?</span>",
+      "plainText": "Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?"
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "24004",
-      "text" : "<span class='woc'>Blessed <span class='extra'>is<\/span> that servant, whom his lord when he cometh shall find so doing.<\/span>",
-      "plainText" : "Blessed is that servant, whom his lord when he cometh shall find so doing."
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "24004",
+      "text": "<span class='woc'>Blessed <span class='extra'>is</span> that servant, whom his lord when he cometh shall find so doing.</span>",
+      "plainText": "Blessed is that servant, whom his lord when he cometh shall find so doing."
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "24005",
-      "text" : "<span class='woc'>Verily I say unto you, That he shall make him ruler over all his goods.<\/span>",
-      "plainText" : "Verily I say unto you, That he shall make him ruler over all his goods."
-    }
-    ,
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "24005",
+      "text": "<span class='woc'>Verily I say unto you, That he shall make him ruler over all his goods.</span>",
+      "plainText": "Verily I say unto you, That he shall make him ruler over all his goods."
+    },
     {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "24006",
-      "text" : "<span class='woc'>But and if that evil servant shall say in his heart, My lord delayeth his coming;<\/span>",
-      "plainText" : "But and if that evil servant shall say in his heart, My lord delayeth his coming;"
-    }
-    ,
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "24006",
+      "text": "<span class='woc'>But and if that evil servant shall say in his heart, My lord delayeth his coming;</span>",
+      "plainText": "But and if that evil servant shall say in his heart, My lord delayeth his coming;"
+    },
     {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "24007",
-      "text" : "<span class='woc'>And shall begin to smite <span class='extra'>his<\/span> fellowservants, and to eat and drink with the drunken;<\/span>",
-      "plainText" : "And shall begin to smite his fellowservants, and to eat and drink with the drunken;"
-    }
-    ,
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "24007",
+      "text": "<span class='woc'>And shall begin to smite <span class='extra'>his</span> fellowservants, and to eat and drink with the drunken;</span>",
+      "plainText": "And shall begin to smite his fellowservants, and to eat and drink with the drunken;"
+    },
     {
-      "type" : "verse",
-      "id" : "v50",
-      "number" : "50",
-      "absolute" : "24008",
-      "text" : "<span class='woc'>The lord of that servant shall come in a day when he looketh not for <span class='extra'>him<\/span>, and in an hour that he is not aware of,<\/span>",
-      "plainText" : "The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,"
-    }
-    ,
+      "type": "verse",
+      "id": "v50",
+      "number": "50",
+      "absolute": "24008",
+      "text": "<span class='woc'>The lord of that servant shall come in a day when he looketh not for <span class='extra'>him</span>, and in an hour that he is not aware of,</span>",
+      "plainText": "The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,"
+    },
     {
-      "type" : "verse",
-      "id" : "v51",
-      "number" : "51",
-      "absolute" : "24009",
-      "text" : "<span class='woc'>And shall cut him asunder, and appoint <span class='extra'>him<\/span> his portion with the hypocrites: there shall be weeping and gnashing of teeth.<\/span>",
-      "plainText" : "And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth."
+      "type": "verse",
+      "id": "v51",
+      "number": "51",
+      "absolute": "24009",
+      "text": "<span class='woc'>And shall cut him asunder, and appoint <span class='extra'>him</span> his portion with the hypocrites: there shall be weeping and gnashing of teeth.</span>",
+      "plainText": "And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth."
     }
   ]
 }
-

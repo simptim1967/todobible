@@ -1,415 +1,373 @@
 {
   "book": {
-    "number" : "44",
-    "filenamePrefix" : "acts",
-    "bookPage" : "acts.html",
-    "title" : "Acts",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "romans_1.html",
-    "nextTitle" : "Romans",
-    "prevBook" : "john_1.html",
-    "prevTitle" : "John"
+    "number": "44",
+    "filenamePrefix": "acts",
+    "bookPage": "acts.html",
+    "title": "Acts",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "romans_1.html",
+    "nextTitle": "Romans",
+    "prevBook": "john_1.html",
+    "prevTitle": "John",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "9",
-    "verseCount" : "43",
-    "nextChapter" : "acts_10.html",
-    "nextTitle" : "Acts 10",
-    "prevChapter" : "acts_8.html",
-    "prevTitle" : "Acts 8",
-    "filename" : "acts_9.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "9",
+    "verseCount": "43",
+    "nextChapter": "acts_10.html",
+    "nextTitle": "Acts 10",
+    "prevChapter": "acts_8.html",
+    "prevTitle": "Acts 8",
+    "filename": "acts_9.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "27218",
-      "text" : "And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,",
-      "plainText" : "And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "27218",
+      "text": "And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,",
+      "plainText": "And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "27219",
-      "text" : "And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem.",
-      "plainText" : "And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "27219",
+      "text": "And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem.",
+      "plainText": "And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "27220",
-      "text" : "And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:",
-      "plainText" : "And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "27220",
+      "text": "And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:",
+      "plainText": "And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "27221",
-      "text" : "And he fell to the earth, and heard a voice saying unto him, <span class='woc'>Saul, Saul, why persecutest thou me?<\/span>",
-      "plainText" : "And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "27221",
+      "text": "And he fell to the earth, and heard a voice saying unto him, <span class='woc'>Saul, Saul, why persecutest thou me?</span>",
+      "plainText": "And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "27222",
-      "text" : "And he said, Who art thou, Lord? And the Lord said, <span class='woc'>I am Jesus whom thou persecutest: <span class='extra'>it is<\/span> hard for thee to kick against the pricks.<\/span>",
-      "plainText" : "And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "27222",
+      "text": "And he said, Who art thou, Lord? And the Lord said, <span class='woc'>I am Jesus whom thou persecutest: <span class='extra'>it is</span> hard for thee to kick against the pricks.</span>",
+      "plainText": "And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "27223",
-      "text" : "And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord <span class='extra'>said<\/span> unto him, <span class='woc'>Arise, and go into the city, and it shall be told thee what thou must do.<\/span>",
-      "plainText" : "And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "27223",
+      "text": "And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord <span class='extra'>said</span> unto him, <span class='woc'>Arise, and go into the city, and it shall be told thee what thou must do.</span>",
+      "plainText": "And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "27224",
-      "text" : "And the men which journeyed with him stood speechless, hearing a voice, but seeing no man.",
-      "plainText" : "And the men which journeyed with him stood speechless, hearing a voice, but seeing no man."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "27224",
+      "text": "And the men which journeyed with him stood speechless, hearing a voice, but seeing no man.",
+      "plainText": "And the men which journeyed with him stood speechless, hearing a voice, but seeing no man."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "27225",
-      "text" : "And Saul arose from the earth; and when his eyes were opened, he saw no man: but they led him by the hand, and brought <span class='extra'>him<\/span> into Damascus.",
-      "plainText" : "And Saul arose from the earth; and when his eyes were opened, he saw no man: but they led him by the hand, and brought him into Damascus."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "27225",
+      "text": "And Saul arose from the earth; and when his eyes were opened, he saw no man: but they led him by the hand, and brought <span class='extra'>him</span> into Damascus.",
+      "plainText": "And Saul arose from the earth; and when his eyes were opened, he saw no man: but they led him by the hand, and brought him into Damascus."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "27226",
-      "text" : "And he was three days without sight, and neither did eat nor drink.",
-      "plainText" : "And he was three days without sight, and neither did eat nor drink."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "27226",
+      "text": "And he was three days without sight, and neither did eat nor drink.",
+      "plainText": "And he was three days without sight, and neither did eat nor drink."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "27227",
-      "text" : "And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, <span class='woc'>Ananias.<\/span> And he said, Behold, I <span class='extra'>am here<\/span>, Lord.",
-      "plainText" : "And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias. And he said, Behold, I am here, Lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "27227",
+      "text": "And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, <span class='woc'>Ananias.</span> And he said, Behold, I <span class='extra'>am here</span>, Lord.",
+      "plainText": "And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias. And he said, Behold, I am here, Lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "27228",
-      "text" : "And the Lord <span class='extra'>said<\/span> unto him, <span class='woc'>Arise, and go into the street which is called Straight, and enquire in the house of Judas for <span class='extra'>one<\/span> called Saul, of Tarsus: for, behold, he prayeth,<\/span>",
-      "plainText" : "And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "27228",
+      "text": "And the Lord <span class='extra'>said</span> unto him, <span class='woc'>Arise, and go into the street which is called Straight, and enquire in the house of Judas for <span class='extra'>one</span> called Saul, of Tarsus: for, behold, he prayeth,</span>",
+      "plainText": "And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "27229",
-      "text" : "<span class='woc'>And hath seen in a vision a man named Ananias coming in, and putting <span class='extra'>his<\/span> hand on him, that he might receive his sight.<\/span>",
-      "plainText" : "And hath seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "27229",
+      "text": "<span class='woc'>And hath seen in a vision a man named Ananias coming in, and putting <span class='extra'>his</span> hand on him, that he might receive his sight.</span>",
+      "plainText": "And hath seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "27230",
-      "text" : "Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:",
-      "plainText" : "Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "27230",
+      "text": "Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:",
+      "plainText": "Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "27231",
-      "text" : "And here he hath authority from the chief priests to bind all that call on thy name.",
-      "plainText" : "And here he hath authority from the chief priests to bind all that call on thy name."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "27231",
+      "text": "And here he hath authority from the chief priests to bind all that call on thy name.",
+      "plainText": "And here he hath authority from the chief priests to bind all that call on thy name."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "27232",
-      "text" : "But the Lord said unto him, <span class='woc'>Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:<\/span>",
-      "plainText" : "But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "27232",
+      "text": "But the Lord said unto him, <span class='woc'>Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:</span>",
+      "plainText": "But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "27233",
-      "text" : "<span class='woc'>For I will shew him how great things he must suffer for my name's sake.<\/span>",
-      "plainText" : "For I will shew him how great things he must suffer for my name's sake."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "27233",
+      "text": "<span class='woc'>For I will shew him how great things he must suffer for my name's sake.</span>",
+      "plainText": "For I will shew him how great things he must suffer for my name's sake."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "27234",
-      "text" : "And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, <span class='extra'>even<\/span> Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost.",
-      "plainText" : "And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "27234",
+      "text": "And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, <span class='extra'>even</span> Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost.",
+      "plainText": "And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "27235",
-      "text" : "And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized.",
-      "plainText" : "And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "27235",
+      "text": "And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized.",
+      "plainText": "And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "27236",
-      "text" : "And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus.",
-      "plainText" : "And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "27236",
+      "text": "And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus.",
+      "plainText": "And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "27237",
-      "text" : "And straightway he preached Christ in the synagogues, that he is the Son of God.",
-      "plainText" : "And straightway he preached Christ in the synagogues, that he is the Son of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "27237",
+      "text": "And straightway he preached Christ in the synagogues, that he is the Son of God.",
+      "plainText": "And straightway he preached Christ in the synagogues, that he is the Son of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "27238",
-      "text" : "But all that heard <span class='extra'>him<\/span> were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests?",
-      "plainText" : "But all that heard him were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests?"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "27238",
+      "text": "But all that heard <span class='extra'>him</span> were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests?",
+      "plainText": "But all that heard him were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests?"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "27239",
-      "text" : "But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ.",
-      "plainText" : "But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "27239",
+      "text": "But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ.",
+      "plainText": "But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "27240",
-      "text" : "And after that many days were fulfilled, the Jews took counsel to kill him:",
-      "plainText" : "And after that many days were fulfilled, the Jews took counsel to kill him:"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "27240",
+      "text": "And after that many days were fulfilled, the Jews took counsel to kill him:",
+      "plainText": "And after that many days were fulfilled, the Jews took counsel to kill him:"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "27241",
-      "text" : "But their laying await was known of Saul. And they watched the gates day and night to kill him.",
-      "plainText" : "But their laying await was known of Saul. And they watched the gates day and night to kill him."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "27241",
+      "text": "But their laying await was known of Saul. And they watched the gates day and night to kill him.",
+      "plainText": "But their laying await was known of Saul. And they watched the gates day and night to kill him."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "27242",
-      "text" : "Then the disciples took him by night, and let <span class='extra'>him<\/span> down by the wall in a basket.",
-      "plainText" : "Then the disciples took him by night, and let him down by the wall in a basket."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "27242",
+      "text": "Then the disciples took him by night, and let <span class='extra'>him</span> down by the wall in a basket.",
+      "plainText": "Then the disciples took him by night, and let him down by the wall in a basket."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "27243",
-      "text" : "And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple.",
-      "plainText" : "And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "27243",
+      "text": "And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple.",
+      "plainText": "And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "27244",
-      "text" : "But Barnabas took him, and brought <span class='extra'>him<\/span> to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus.",
-      "plainText" : "But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "27244",
+      "text": "But Barnabas took him, and brought <span class='extra'>him</span> to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus.",
+      "plainText": "But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "27245",
-      "text" : "And he was with them coming in and going out at Jerusalem.",
-      "plainText" : "And he was with them coming in and going out at Jerusalem."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "27245",
+      "text": "And he was with them coming in and going out at Jerusalem.",
+      "plainText": "And he was with them coming in and going out at Jerusalem."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "27246",
-      "text" : "And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him.",
-      "plainText" : "And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "27246",
+      "text": "And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him.",
+      "plainText": "And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "27247",
-      "text" : "<span class='extra'>Which<\/span> when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus.",
-      "plainText" : "Which when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "27247",
+      "text": "<span class='extra'>Which</span> when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus.",
+      "plainText": "Which when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "27248",
-      "text" : "Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.",
-      "plainText" : "Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "27248",
+      "text": "Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.",
+      "plainText": "Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "27249",
-      "text" : "And it came to pass, as Peter passed throughout all <span class='extra'>quarters<\/span>, he came down also to the saints which dwelt at Lydda.",
-      "plainText" : "And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "27249",
+      "text": "And it came to pass, as Peter passed throughout all <span class='extra'>quarters</span>, he came down also to the saints which dwelt at Lydda.",
+      "plainText": "And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "27250",
-      "text" : "And there he found a certain man named Aeneas, which had kept his bed eight years, and was sick of the palsy.",
-      "plainText" : "And there he found a certain man named Aeneas, which had kept his bed eight years, and was sick of the palsy."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "27250",
+      "text": "And there he found a certain man named Aeneas, which had kept his bed eight years, and was sick of the palsy.",
+      "plainText": "And there he found a certain man named Aeneas, which had kept his bed eight years, and was sick of the palsy."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "27251",
-      "text" : "And Peter said unto him, Aeneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately.",
-      "plainText" : "And Peter said unto him, Aeneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "27251",
+      "text": "And Peter said unto him, Aeneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately.",
+      "plainText": "And Peter said unto him, Aeneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "27252",
-      "text" : "And all that dwelt at Lydda and Saron saw him, and turned to the Lord.",
-      "plainText" : "And all that dwelt at Lydda and Saron saw him, and turned to the Lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "27252",
+      "text": "And all that dwelt at Lydda and Saron saw him, and turned to the Lord.",
+      "plainText": "And all that dwelt at Lydda and Saron saw him, and turned to the Lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "27253",
-      "text" : "Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.",
-      "plainText" : "Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "27253",
+      "text": "Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.",
+      "plainText": "Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "27254",
-      "text" : "And it came to pass in those days, that she was sick, and died: whom when they had washed, they laid <span class='extra'>her<\/span> in an upper chamber.",
-      "plainText" : "And it came to pass in those days, that she was sick, and died: whom when they had washed, they laid her in an upper chamber."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "27254",
+      "text": "And it came to pass in those days, that she was sick, and died: whom when they had washed, they laid <span class='extra'>her</span> in an upper chamber.",
+      "plainText": "And it came to pass in those days, that she was sick, and died: whom when they had washed, they laid her in an upper chamber."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "27255",
-      "text" : "And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring <span class='extra'>him<\/span> that he would not delay to come to them.",
-      "plainText" : "And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring him that he would not delay to come to them."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "27255",
+      "text": "And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring <span class='extra'>him</span> that he would not delay to come to them.",
+      "plainText": "And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring him that he would not delay to come to them."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "27256",
-      "text" : "Then Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and shewing the coats and garments which Dorcas made, while she was with them.",
-      "plainText" : "Then Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and shewing the coats and garments which Dorcas made, while she was with them."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "27256",
+      "text": "Then Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and shewing the coats and garments which Dorcas made, while she was with them.",
+      "plainText": "Then Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and shewing the coats and garments which Dorcas made, while she was with them."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "27257",
-      "text" : "But Peter put them all forth, and kneeled down, and prayed; and turning <span class='extra'>him<\/span> to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up.",
-      "plainText" : "But Peter put them all forth, and kneeled down, and prayed; and turning him to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "27257",
+      "text": "But Peter put them all forth, and kneeled down, and prayed; and turning <span class='extra'>him</span> to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up.",
+      "plainText": "But Peter put them all forth, and kneeled down, and prayed; and turning him to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "27258",
-      "text" : "And he gave her <span class='extra'>his<\/span> hand, and lifted her up, and when he had called the saints and widows, presented her alive.",
-      "plainText" : "And he gave her his hand, and lifted her up, and when he had called the saints and widows, presented her alive."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "27258",
+      "text": "And he gave her <span class='extra'>his</span> hand, and lifted her up, and when he had called the saints and widows, presented her alive.",
+      "plainText": "And he gave her his hand, and lifted her up, and when he had called the saints and widows, presented her alive."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "27259",
-      "text" : "And it was known throughout all Joppa; and many believed in the Lord.",
-      "plainText" : "And it was known throughout all Joppa; and many believed in the Lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "27259",
+      "text": "And it was known throughout all Joppa; and many believed in the Lord.",
+      "plainText": "And it was known throughout all Joppa; and many believed in the Lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "27260",
-      "text" : "And it came to pass, that he tarried many days in Joppa with one Simon a tanner.",
-      "plainText" : "And it came to pass, that he tarried many days in Joppa with one Simon a tanner."
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "27260",
+      "text": "And it came to pass, that he tarried many days in Joppa with one Simon a tanner.",
+      "plainText": "And it came to pass, that he tarried many days in Joppa with one Simon a tanner."
     }
   ]
 }
-

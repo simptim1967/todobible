@@ -1,290 +1,261 @@
 {
   "book": {
-    "number" : "1",
-    "filenamePrefix" : "genesis",
-    "bookPage" : "genesis.html",
-    "title" : "Genesis",
-    "chapterCount" : "50",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "exodus_1.html",
-    "nextTitle" : "Exodus",
-    "prevBook" : "revelation_1.html",
-    "prevTitle" : "Revelation"
+    "number": "1",
+    "filenamePrefix": "genesis",
+    "bookPage": "genesis.html",
+    "title": "Genesis",
+    "chapterCount": "50",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "exodus_1.html",
+    "nextTitle": "Exodus",
+    "prevBook": "revelation_1.html",
+    "prevTitle": "Revelation",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "9",
-    "verseCount" : "29",
-    "nextChapter" : "genesis_10.html",
-    "nextTitle" : "Genesis 10",
-    "prevChapter" : "genesis_8.html",
-    "prevTitle" : "Genesis 8",
-    "filename" : "genesis_9.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "9",
+    "verseCount": "29",
+    "nextChapter": "genesis_10.html",
+    "nextTitle": "Genesis 10",
+    "prevChapter": "genesis_8.html",
+    "prevTitle": "Genesis 8",
+    "filename": "genesis_9.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "207",
-      "text" : "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.",
-      "plainText" : "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "207",
+      "text": "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.",
+      "plainText": "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "208",
-      "text" : "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth <span class='extra'>upon<\/span> the earth, and upon all the fishes of the sea; into your hand are they delivered.",
-      "plainText" : "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "208",
+      "text": "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth <span class='extra'>upon</span> the earth, and upon all the fishes of the sea; into your hand are they delivered.",
+      "plainText": "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "209",
-      "text" : "Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.",
-      "plainText" : "Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "209",
+      "text": "Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.",
+      "plainText": "Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "210",
-      "text" : "But flesh with the life thereof, <span class='extra'>which is<\/span> the blood thereof, shall ye not eat.",
-      "plainText" : "But flesh with the life thereof, which is the blood thereof, shall ye not eat."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "210",
+      "text": "But flesh with the life thereof, <span class='extra'>which is</span> the blood thereof, shall ye not eat.",
+      "plainText": "But flesh with the life thereof, which is the blood thereof, shall ye not eat."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "211",
-      "text" : "And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man's brother will I require the life of man.",
-      "plainText" : "And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man's brother will I require the life of man."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "211",
+      "text": "And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man's brother will I require the life of man.",
+      "plainText": "And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man's brother will I require the life of man."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "212",
-      "text" : "Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man.",
-      "plainText" : "Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "212",
+      "text": "Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man.",
+      "plainText": "Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "213",
-      "text" : "And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.",
-      "plainText" : "And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "213",
+      "text": "And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.",
+      "plainText": "And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "214",
-      "text" : "And God spake unto Noah, and to his sons with him, saying,",
-      "plainText" : "And God spake unto Noah, and to his sons with him, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "214",
+      "text": "And God spake unto Noah, and to his sons with him, saying,",
+      "plainText": "And God spake unto Noah, and to his sons with him, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "215",
-      "text" : "And I, behold, I establish my covenant with you, and with your seed after you;",
-      "plainText" : "And I, behold, I establish my covenant with you, and with your seed after you;"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "215",
+      "text": "And I, behold, I establish my covenant with you, and with your seed after you;",
+      "plainText": "And I, behold, I establish my covenant with you, and with your seed after you;"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "216",
-      "text" : "And with every living creature that <span class='extra'>is<\/span> with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.",
-      "plainText" : "And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "216",
+      "text": "And with every living creature that <span class='extra'>is</span> with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.",
+      "plainText": "And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "217",
-      "text" : "And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.",
-      "plainText" : "And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "217",
+      "text": "And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.",
+      "plainText": "And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "218",
-      "text" : "And God said, This <span class='extra'>is<\/span> the token of the covenant which I make between me and you and every living creature that <span class='extra'>is<\/span> with you, for perpetual generations:",
-      "plainText" : "And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "218",
+      "text": "And God said, This <span class='extra'>is</span> the token of the covenant which I make between me and you and every living creature that <span class='extra'>is</span> with you, for perpetual generations:",
+      "plainText": "And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "219",
-      "text" : "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.",
-      "plainText" : "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "219",
+      "text": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.",
+      "plainText": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "220",
-      "text" : "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:",
-      "plainText" : "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "220",
+      "text": "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:",
+      "plainText": "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "221",
-      "text" : "And I will remember my covenant, which <span class='extra'>is<\/span> between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.",
-      "plainText" : "And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "221",
+      "text": "And I will remember my covenant, which <span class='extra'>is</span> between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.",
+      "plainText": "And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "222",
-      "text" : "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that <span class='extra'>is<\/span> upon the earth.",
-      "plainText" : "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "222",
+      "text": "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that <span class='extra'>is</span> upon the earth.",
+      "plainText": "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "223",
-      "text" : "And God said unto Noah, This <span class='extra'>is<\/span> the token of the covenant, which I have established between me and all flesh that <span class='extra'>is<\/span> upon the earth.",
-      "plainText" : "And God said unto Noah, This is the token of the covenant, which I have established between me and all flesh that is upon the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "223",
+      "text": "And God said unto Noah, This <span class='extra'>is</span> the token of the covenant, which I have established between me and all flesh that <span class='extra'>is</span> upon the earth.",
+      "plainText": "And God said unto Noah, This is the token of the covenant, which I have established between me and all flesh that is upon the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "224",
-      "text" : "And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham <span class='extra'>is<\/span> the father of Canaan.",
-      "plainText" : "And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham is the father of Canaan."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "224",
+      "text": "And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham <span class='extra'>is</span> the father of Canaan.",
+      "plainText": "And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham is the father of Canaan."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "225",
-      "text" : "These <span class='extra'>are<\/span> the three sons of Noah: and of them was the whole earth overspread.",
-      "plainText" : "These are the three sons of Noah: and of them was the whole earth overspread."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "225",
+      "text": "These <span class='extra'>are</span> the three sons of Noah: and of them was the whole earth overspread.",
+      "plainText": "These are the three sons of Noah: and of them was the whole earth overspread."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "226",
-      "text" : "And Noah began <span class='extra'>to be<\/span> an husbandman, and he planted a vineyard:",
-      "plainText" : "And Noah began to be an husbandman, and he planted a vineyard:"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "226",
+      "text": "And Noah began <span class='extra'>to be</span> an husbandman, and he planted a vineyard:",
+      "plainText": "And Noah began to be an husbandman, and he planted a vineyard:"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "227",
-      "text" : "And he drank of the wine, and was drunken; and he was uncovered within his tent.",
-      "plainText" : "And he drank of the wine, and was drunken; and he was uncovered within his tent."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "227",
+      "text": "And he drank of the wine, and was drunken; and he was uncovered within his tent.",
+      "plainText": "And he drank of the wine, and was drunken; and he was uncovered within his tent."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "228",
-      "text" : "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without.",
-      "plainText" : "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "228",
+      "text": "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without.",
+      "plainText": "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "229",
-      "text" : "And Shem and Japheth took a garment, and laid <span class='extra'>it<\/span> upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces <span class='extra'>were<\/span> backward, and they saw not their father's nakedness.",
-      "plainText" : "And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father's nakedness."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "229",
+      "text": "And Shem and Japheth took a garment, and laid <span class='extra'>it</span> upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces <span class='extra'>were</span> backward, and they saw not their father's nakedness.",
+      "plainText": "And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father's nakedness."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "230",
-      "text" : "And Noah awoke from his wine, and knew what his younger son had done unto him.",
-      "plainText" : "And Noah awoke from his wine, and knew what his younger son had done unto him."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "230",
+      "text": "And Noah awoke from his wine, and knew what his younger son had done unto him.",
+      "plainText": "And Noah awoke from his wine, and knew what his younger son had done unto him."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "231",
-      "text" : "And he said, Cursed <span class='extra'>be<\/span> Canaan; a servant of servants shall he be unto his brethren.",
-      "plainText" : "And he said, Cursed be Canaan; a servant of servants shall he be unto his brethren."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "231",
+      "text": "And he said, Cursed <span class='extra'>be</span> Canaan; a servant of servants shall he be unto his brethren.",
+      "plainText": "And he said, Cursed be Canaan; a servant of servants shall he be unto his brethren."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "232",
-      "text" : "And he said, Blessed <span class='extra'>be<\/span> the <span class='nog'>LORD<\/span> God of Shem; and Canaan shall be his servant.",
-      "plainText" : "And he said, Blessed be the LORD God of Shem; and Canaan shall be his servant."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "232",
+      "text": "And he said, Blessed <span class='extra'>be</span> the <span class='nog'>LORD</span> God of Shem; and Canaan shall be his servant.",
+      "plainText": "And he said, Blessed be the LORD God of Shem; and Canaan shall be his servant."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "233",
-      "text" : "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant.",
-      "plainText" : "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "233",
+      "text": "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant.",
+      "plainText": "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "234",
-      "text" : "And Noah lived after the flood three hundred and fifty years.",
-      "plainText" : "And Noah lived after the flood three hundred and fifty years."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "234",
+      "text": "And Noah lived after the flood three hundred and fifty years.",
+      "plainText": "And Noah lived after the flood three hundred and fifty years."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "235",
-      "text" : "And all the days of Noah were nine hundred and fifty years: and he died.",
-      "plainText" : "And all the days of Noah were nine hundred and fifty years: and he died."
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "235",
+      "text": "And all the days of Noah were nine hundred and fifty years: and he died.",
+      "plainText": "And all the days of Noah were nine hundred and fifty years: and he died."
     }
   ]
 }
-
-

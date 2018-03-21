@@ -1,442 +1,397 @@
 {
   "book": {
-    "number" : "40",
-    "filenamePrefix" : "matthew",
-    "bookPage" : "matthew.html",
-    "title" : "Matthew",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "mark_1.html",
-    "nextTitle" : "Mark",
-    "prevBook" : "malachi_1.html",
-    "prevTitle" : "Malachi"
+    "number": "40",
+    "filenamePrefix": "matthew",
+    "bookPage": "matthew.html",
+    "title": "Matthew",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "mark_1.html",
+    "nextTitle": "Mark",
+    "prevBook": "malachi_1.html",
+    "prevTitle": "Malachi",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "21",
-    "verseCount" : "46",
-    "nextChapter" : "matthew_22.html",
-    "nextTitle" : "Matthew 22",
-    "prevChapter" : "matthew_20.html",
-    "prevTitle" : "Matthew 20",
-    "filename" : "matthew_21.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "21",
+    "verseCount": "46",
+    "nextChapter": "matthew_22.html",
+    "nextTitle": "Matthew 22",
+    "prevChapter": "matthew_20.html",
+    "prevTitle": "Matthew 20",
+    "filename": "matthew_21.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "23828",
-      "text" : "And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,",
-      "plainText" : "And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "23828",
+      "text": "And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,",
+      "plainText": "And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "23829",
-      "text" : "Saying unto them, <span class='woc'>Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose <span class='extra'>them<\/span>, and bring <span class='extra'>them<\/span> unto me.<\/span>",
-      "plainText" : "Saying unto them, Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose them, and bring them unto me."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "23829",
+      "text": "Saying unto them, <span class='woc'>Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose <span class='extra'>them</span>, and bring <span class='extra'>them</span> unto me.</span>",
+      "plainText": "Saying unto them, Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose them, and bring them unto me."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "23830",
-      "text" : "<span class='woc'>And if any <span class='extra'>man<\/span> say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them.<\/span>",
-      "plainText" : "And if any man say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "23830",
+      "text": "<span class='woc'>And if any <span class='extra'>man</span> say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them.</span>",
+      "plainText": "And if any man say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "23831",
-      "text" : "All this was done, that it might be fulfilled which was spoken by the prophet, saying,",
-      "plainText" : "All this was done, that it might be fulfilled which was spoken by the prophet, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "23831",
+      "text": "All this was done, that it might be fulfilled which was spoken by the prophet, saying,",
+      "plainText": "All this was done, that it might be fulfilled which was spoken by the prophet, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "23832",
-      "text" : "Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass.",
-      "plainText" : "Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "23832",
+      "text": "Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass.",
+      "plainText": "Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "23833",
-      "text" : "And the disciples went, and did as Jesus commanded them,",
-      "plainText" : "And the disciples went, and did as Jesus commanded them,"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "23833",
+      "text": "And the disciples went, and did as Jesus commanded them,",
+      "plainText": "And the disciples went, and did as Jesus commanded them,"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "23834",
-      "text" : "And brought the ass, and the colt, and put on them their clothes, and they set <span class='extra'>him<\/span> thereon.",
-      "plainText" : "And brought the ass, and the colt, and put on them their clothes, and they set him thereon."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "23834",
+      "text": "And brought the ass, and the colt, and put on them their clothes, and they set <span class='extra'>him</span> thereon.",
+      "plainText": "And brought the ass, and the colt, and put on them their clothes, and they set him thereon."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "23835",
-      "text" : "And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed <span class='extra'>them<\/span> in the way.",
-      "plainText" : "And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed them in the way."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "23835",
+      "text": "And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed <span class='extra'>them</span> in the way.",
+      "plainText": "And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed them in the way."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "23836",
-      "text" : "And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed <span class='extra'>is<\/span> he that cometh in the name of the Lord; Hosanna in the highest.",
-      "plainText" : "And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "23836",
+      "text": "And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed <span class='extra'>is</span> he that cometh in the name of the Lord; Hosanna in the highest.",
+      "plainText": "And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "23837",
-      "text" : "And when he was come into Jerusalem, all the city was moved, saying, Who is this?",
-      "plainText" : "And when he was come into Jerusalem, all the city was moved, saying, Who is this?"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "23837",
+      "text": "And when he was come into Jerusalem, all the city was moved, saying, Who is this?",
+      "plainText": "And when he was come into Jerusalem, all the city was moved, saying, Who is this?"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "23838",
-      "text" : "And the multitude said, This is Jesus the prophet of Nazareth of Galilee.",
-      "plainText" : "And the multitude said, This is Jesus the prophet of Nazareth of Galilee."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "23838",
+      "text": "And the multitude said, This is Jesus the prophet of Nazareth of Galilee.",
+      "plainText": "And the multitude said, This is Jesus the prophet of Nazareth of Galilee."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "23839",
-      "text" : "And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves,",
-      "plainText" : "And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves,"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "23839",
+      "text": "And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves,",
+      "plainText": "And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves,"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "23840",
-      "text" : "And said unto them, <span class='woc'>It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.<\/span>",
-      "plainText" : "And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "23840",
+      "text": "And said unto them, <span class='woc'>It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.</span>",
+      "plainText": "And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "23841",
-      "text" : "And the blind and the lame came to him in the temple; and he healed them.",
-      "plainText" : "And the blind and the lame came to him in the temple; and he healed them."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "23841",
+      "text": "And the blind and the lame came to him in the temple; and he healed them.",
+      "plainText": "And the blind and the lame came to him in the temple; and he healed them."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "23842",
-      "text" : "And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,",
-      "plainText" : "And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "23842",
+      "text": "And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,",
+      "plainText": "And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "23843",
-      "text" : "And said unto him, Hearest thou what these say? And Jesus saith unto them, <span class='woc'>Yea; have ye never read, Out of the mouth of babes and sucklings thou hast perfected praise?<\/span>",
-      "plainText" : "And said unto him, Hearest thou what these say? And Jesus saith unto them, Yea; have ye never read, Out of the mouth of babes and sucklings thou hast perfected praise?"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "23843",
+      "text": "And said unto him, Hearest thou what these say? And Jesus saith unto them, <span class='woc'>Yea; have ye never read, Out of the mouth of babes and sucklings thou hast perfected praise?</span>",
+      "plainText": "And said unto him, Hearest thou what these say? And Jesus saith unto them, Yea; have ye never read, Out of the mouth of babes and sucklings thou hast perfected praise?"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "23844",
-      "text" : "And he left them, and went out of the city into Bethany; and he lodged there.",
-      "plainText" : "And he left them, and went out of the city into Bethany; and he lodged there."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "23844",
+      "text": "And he left them, and went out of the city into Bethany; and he lodged there.",
+      "plainText": "And he left them, and went out of the city into Bethany; and he lodged there."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "23845",
-      "text" : "Now in the morning as he returned into the city, he hungered.",
-      "plainText" : "Now in the morning as he returned into the city, he hungered."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "23845",
+      "text": "Now in the morning as he returned into the city, he hungered.",
+      "plainText": "Now in the morning as he returned into the city, he hungered."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "23846",
-      "text" : "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, <span class='woc'>Let no fruit grow on thee henceforward for ever.<\/span> And presently the fig tree withered away.",
-      "plainText" : "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, Let no fruit grow on thee henceforward for ever. And presently the fig tree withered away."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "23846",
+      "text": "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, <span class='woc'>Let no fruit grow on thee henceforward for ever.</span> And presently the fig tree withered away.",
+      "plainText": "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, Let no fruit grow on thee henceforward for ever. And presently the fig tree withered away."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "23847",
-      "text" : "And when the disciples saw <span class='extra'>it<\/span>, they marvelled, saying, How soon is the fig tree withered away!",
-      "plainText" : "And when the disciples saw it, they marvelled, saying, How soon is the fig tree withered away!"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "23847",
+      "text": "And when the disciples saw <span class='extra'>it</span>, they marvelled, saying, How soon is the fig tree withered away!",
+      "plainText": "And when the disciples saw it, they marvelled, saying, How soon is the fig tree withered away!"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "23848",
-      "text" : "Jesus answered and said unto them, <span class='woc'>Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this <span class='extra'>which is done<\/span> to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done.<\/span>",
-      "plainText" : "Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "23848",
+      "text": "Jesus answered and said unto them, <span class='woc'>Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this <span class='extra'>which is done</span> to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done.</span>",
+      "plainText": "Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "23849",
-      "text" : "<span class='woc'>And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.<\/span>",
-      "plainText" : "And all things, whatsoever ye shall ask in prayer, believing, ye shall receive."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "23849",
+      "text": "<span class='woc'>And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.</span>",
+      "plainText": "And all things, whatsoever ye shall ask in prayer, believing, ye shall receive."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "23850",
-      "text" : "And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?",
-      "plainText" : "And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "23850",
+      "text": "And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?",
+      "plainText": "And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "23851",
-      "text" : "And Jesus answered and said unto them, <span class='woc'>I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things.<\/span>",
-      "plainText" : "And Jesus answered and said unto them, I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "23851",
+      "text": "And Jesus answered and said unto them, <span class='woc'>I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things.</span>",
+      "plainText": "And Jesus answered and said unto them, I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "23852",
-      "text" : "<span class='woc'>The baptism of John, whence was it? from heaven, or of men?<\/span> And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did ye not then believe him?",
-      "plainText" : "The baptism of John, whence was it? from heaven, or of men? And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did ye not then believe him?"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "23852",
+      "text": "<span class='woc'>The baptism of John, whence was it? from heaven, or of men?</span> And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did ye not then believe him?",
+      "plainText": "The baptism of John, whence was it? from heaven, or of men? And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did ye not then believe him?"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "23853",
-      "text" : "But if we shall say, Of men; we fear the people; for all hold John as a prophet.",
-      "plainText" : "But if we shall say, Of men; we fear the people; for all hold John as a prophet."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "23853",
+      "text": "But if we shall say, Of men; we fear the people; for all hold John as a prophet.",
+      "plainText": "But if we shall say, Of men; we fear the people; for all hold John as a prophet."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "23854",
-      "text" : "And they answered Jesus, and said, We cannot tell. And he said unto them, <span class='woc'>Neither tell I you by what authority I do these things.<\/span>",
-      "plainText" : "And they answered Jesus, and said, We cannot tell. And he said unto them, Neither tell I you by what authority I do these things."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "23854",
+      "text": "And they answered Jesus, and said, We cannot tell. And he said unto them, <span class='woc'>Neither tell I you by what authority I do these things.</span>",
+      "plainText": "And they answered Jesus, and said, We cannot tell. And he said unto them, Neither tell I you by what authority I do these things."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "23855",
-      "text" : "<span class='woc'>But what think ye? A <span class='extra'>certain<\/span> man had two sons; and he came to the first, and said, Son, go work to day in my vineyard.<\/span>",
-      "plainText" : "But what think ye? A certain man had two sons; and he came to the first, and said, Son, go work to day in my vineyard."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "23855",
+      "text": "<span class='woc'>But what think ye? A <span class='extra'>certain</span> man had two sons; and he came to the first, and said, Son, go work to day in my vineyard.</span>",
+      "plainText": "But what think ye? A certain man had two sons; and he came to the first, and said, Son, go work to day in my vineyard."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "23856",
-      "text" : "<span class='woc'>He answered and said, I will not: but afterward he repented, and went.<\/span>",
-      "plainText" : "He answered and said, I will not: but afterward he repented, and went."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "23856",
+      "text": "<span class='woc'>He answered and said, I will not: but afterward he repented, and went.</span>",
+      "plainText": "He answered and said, I will not: but afterward he repented, and went."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "23857",
-      "text" : "<span class='woc'>And he came to the second, and said likewise. And he answered and said, I <span class='extra'>go<\/span>, sir: and went not.<\/span>",
-      "plainText" : "And he came to the second, and said likewise. And he answered and said, I go, sir: and went not."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "23857",
+      "text": "<span class='woc'>And he came to the second, and said likewise. And he answered and said, I <span class='extra'>go</span>, sir: and went not.</span>",
+      "plainText": "And he came to the second, and said likewise. And he answered and said, I go, sir: and went not."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "23858",
-      "text" : "<span class='woc'>Whether of them twain did the will of <span class='extra'>his<\/span> father?<\/span> They say unto him, The first. Jesus saith unto them, <span class='woc'>Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you.<\/span>",
-      "plainText" : "Whether of them twain did the will of his father? They say unto him, The first. Jesus saith unto them, Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "23858",
+      "text": "<span class='woc'>Whether of them twain did the will of <span class='extra'>his</span> father?</span> They say unto him, The first. Jesus saith unto them, <span class='woc'>Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you.</span>",
+      "plainText": "Whether of them twain did the will of his father? They say unto him, The first. Jesus saith unto them, Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "23859",
-      "text" : "<span class='woc'>For John came unto you in the way of righteousness, and ye believed him not: but the publicans and the harlots believed him: and ye, when ye had seen <span class='extra'>it<\/span>, repented not afterward, that ye might believe him.<\/span>",
-      "plainText" : "For John came unto you in the way of righteousness, and ye believed him not: but the publicans and the harlots believed him: and ye, when ye had seen it, repented not afterward, that ye might believe him."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "23859",
+      "text": "<span class='woc'>For John came unto you in the way of righteousness, and ye believed him not: but the publicans and the harlots believed him: and ye, when ye had seen <span class='extra'>it</span>, repented not afterward, that ye might believe him.</span>",
+      "plainText": "For John came unto you in the way of righteousness, and ye believed him not: but the publicans and the harlots believed him: and ye, when ye had seen it, repented not afterward, that ye might believe him."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "23860",
-      "text" : "<span class='woc'>Hear another parable: There was a certain householder, which planted a vineyard, and hedged it round about, and digged a winepress in it, and built a tower, and let it out to husbandmen, and went into a far country:<\/span>",
-      "plainText" : "Hear another parable: There was a certain householder, which planted a vineyard, and hedged it round about, and digged a winepress in it, and built a tower, and let it out to husbandmen, and went into a far country:"
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "23860",
+      "text": "<span class='woc'>Hear another parable: There was a certain householder, which planted a vineyard, and hedged it round about, and digged a winepress in it, and built a tower, and let it out to husbandmen, and went into a far country:</span>",
+      "plainText": "Hear another parable: There was a certain householder, which planted a vineyard, and hedged it round about, and digged a winepress in it, and built a tower, and let it out to husbandmen, and went into a far country:"
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "23861",
-      "text" : "<span class='woc'>And when the time of the fruit drew near, he sent his servants to the husbandmen, that they might receive the fruits of it.<\/span>",
-      "plainText" : "And when the time of the fruit drew near, he sent his servants to the husbandmen, that they might receive the fruits of it."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "23861",
+      "text": "<span class='woc'>And when the time of the fruit drew near, he sent his servants to the husbandmen, that they might receive the fruits of it.</span>",
+      "plainText": "And when the time of the fruit drew near, he sent his servants to the husbandmen, that they might receive the fruits of it."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "23862",
-      "text" : "<span class='woc'>And the husbandmen took his servants, and beat one, and killed another, and stoned another.<\/span>",
-      "plainText" : "And the husbandmen took his servants, and beat one, and killed another, and stoned another."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "23862",
+      "text": "<span class='woc'>And the husbandmen took his servants, and beat one, and killed another, and stoned another.</span>",
+      "plainText": "And the husbandmen took his servants, and beat one, and killed another, and stoned another."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "23863",
-      "text" : "<span class='woc'>Again, he sent other servants more than the first: and they did unto them likewise.<\/span>",
-      "plainText" : "Again, he sent other servants more than the first: and they did unto them likewise."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "23863",
+      "text": "<span class='woc'>Again, he sent other servants more than the first: and they did unto them likewise.</span>",
+      "plainText": "Again, he sent other servants more than the first: and they did unto them likewise."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "23864",
-      "text" : "<span class='woc'>But last of all he sent unto them his son, saying, They will reverence my son.<\/span>",
-      "plainText" : "But last of all he sent unto them his son, saying, They will reverence my son."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "23864",
+      "text": "<span class='woc'>But last of all he sent unto them his son, saying, They will reverence my son.</span>",
+      "plainText": "But last of all he sent unto them his son, saying, They will reverence my son."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "23865",
-      "text" : "<span class='woc'>But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance.<\/span>",
-      "plainText" : "But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "23865",
+      "text": "<span class='woc'>But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance.</span>",
+      "plainText": "But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "23866",
-      "text" : "<span class='woc'>And they caught him, and cast <span class='extra'>him<\/span> out of the vineyard, and slew <span class='extra'>him<\/span>.<\/span>",
-      "plainText" : "And they caught him, and cast him out of the vineyard, and slew him."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "23866",
+      "text": "<span class='woc'>And they caught him, and cast <span class='extra'>him</span> out of the vineyard, and slew <span class='extra'>him</span>.</span>",
+      "plainText": "And they caught him, and cast him out of the vineyard, and slew him."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "23867",
-      "text" : "<span class='woc'>When the lord therefore of the vineyard cometh, what will he do unto those husbandmen?<\/span>",
-      "plainText" : "When the lord therefore of the vineyard cometh, what will he do unto those husbandmen?"
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "23867",
+      "text": "<span class='woc'>When the lord therefore of the vineyard cometh, what will he do unto those husbandmen?</span>",
+      "plainText": "When the lord therefore of the vineyard cometh, what will he do unto those husbandmen?"
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "23868",
-      "text" : "They say unto him, He will miserably destroy those wicked men, and will let out <span class='extra'>his<\/span> vineyard unto other husbandmen, which shall render him the fruits in their seasons.",
-      "plainText" : "They say unto him, He will miserably destroy those wicked men, and will let out his vineyard unto other husbandmen, which shall render him the fruits in their seasons."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "23868",
+      "text": "They say unto him, He will miserably destroy those wicked men, and will let out <span class='extra'>his</span> vineyard unto other husbandmen, which shall render him the fruits in their seasons.",
+      "plainText": "They say unto him, He will miserably destroy those wicked men, and will let out his vineyard unto other husbandmen, which shall render him the fruits in their seasons."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "23869",
-      "text" : "Jesus saith unto them, <span class='woc'>Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord's doing, and it is marvellous in our eyes?<\/span>",
-      "plainText" : "Jesus saith unto them, Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord's doing, and it is marvellous in our eyes?"
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "23869",
+      "text": "Jesus saith unto them, <span class='woc'>Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord's doing, and it is marvellous in our eyes?</span>",
+      "plainText": "Jesus saith unto them, Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord's doing, and it is marvellous in our eyes?"
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "23870",
-      "text" : "<span class='woc'>Therefore say I unto you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof.<\/span>",
-      "plainText" : "Therefore say I unto you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "23870",
+      "text": "<span class='woc'>Therefore say I unto you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof.</span>",
+      "plainText": "Therefore say I unto you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "23871",
-      "text" : "<span class='woc'>And whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it will grind him to powder.<\/span>",
-      "plainText" : "And whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it will grind him to powder."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "23871",
+      "text": "<span class='woc'>And whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it will grind him to powder.</span>",
+      "plainText": "And whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it will grind him to powder."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "23872",
-      "text" : "And when the chief priests and Pharisees had heard his parables, they perceived that he spake of them.",
-      "plainText" : "And when the chief priests and Pharisees had heard his parables, they perceived that he spake of them."
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "23872",
+      "text": "And when the chief priests and Pharisees had heard his parables, they perceived that he spake of them.",
+      "plainText": "And when the chief priests and Pharisees had heard his parables, they perceived that he spake of them."
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "23873",
-      "text" : "But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet.",
-      "plainText" : "But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet."
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "23873",
+      "text": "But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet.",
+      "plainText": "But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet."
     }
   ]
 }
-

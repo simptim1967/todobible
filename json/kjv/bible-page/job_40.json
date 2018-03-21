@@ -1,245 +1,221 @@
 {
   "book": {
-    "number" : "18",
-    "filenamePrefix" : "job",
-    "bookPage" : "job.html",
-    "title" : "Job",
-    "chapterCount" : "42",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "psalms_1.html",
-    "nextTitle" : "Psalms",
-    "prevBook" : "esther_1.html",
-    "prevTitle" : "Esther"
+    "number": "18",
+    "filenamePrefix": "job",
+    "bookPage": "job.html",
+    "title": "Job",
+    "chapterCount": "42",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "psalms_1.html",
+    "nextTitle": "Psalms",
+    "prevBook": "esther_1.html",
+    "prevTitle": "Esther",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "40",
-    "verseCount" : "24",
-    "nextChapter" : "job_41.html",
-    "nextTitle" : "Job 41",
-    "prevChapter" : "job_39.html",
-    "prevTitle" : "Job 39",
-    "filename" : "job_40.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "40",
+    "verseCount": "24",
+    "nextChapter": "job_41.html",
+    "nextTitle": "Job 41",
+    "prevChapter": "job_39.html",
+    "prevTitle": "Job 39",
+    "filename": "job_40.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "13866",
-      "text" : "Moreover the <span class='nog'>LORD<\/span> answered Job, and said,",
-      "plainText" : "Moreover the LORD answered Job, and said,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "13866",
+      "text": "Moreover the <span class='nog'>LORD</span> answered Job, and said,",
+      "plainText": "Moreover the LORD answered Job, and said,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "13867",
-      "text" : "Shall he that contendeth with the Almighty instruct <span class='extra'>him<\/span>? he that reproveth God, let him answer it.",
-      "plainText" : "Shall he that contendeth with the Almighty instruct him? he that reproveth God, let him answer it."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "13867",
+      "text": "Shall he that contendeth with the Almighty instruct <span class='extra'>him</span>? he that reproveth God, let him answer it.",
+      "plainText": "Shall he that contendeth with the Almighty instruct him? he that reproveth God, let him answer it."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "13868",
-      "text" : "Then Job answered the <span class='nog'>LORD<\/span>, and said,",
-      "plainText" : "Then Job answered the LORD, and said,"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "13868",
+      "text": "Then Job answered the <span class='nog'>LORD</span>, and said,",
+      "plainText": "Then Job answered the LORD, and said,"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "13869",
-      "text" : "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.",
-      "plainText" : "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "13869",
+      "text": "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.",
+      "plainText": "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "13870",
-      "text" : "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further.",
-      "plainText" : "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "13870",
+      "text": "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further.",
+      "plainText": "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "13871",
-      "text" : "Then answered the <span class='nog'>LORD<\/span> unto Job out of the whirlwind, and said,",
-      "plainText" : "Then answered the LORD unto Job out of the whirlwind, and said,"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "13871",
+      "text": "Then answered the <span class='nog'>LORD</span> unto Job out of the whirlwind, and said,",
+      "plainText": "Then answered the LORD unto Job out of the whirlwind, and said,"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "13872",
-      "text" : "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me.",
-      "plainText" : "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "13872",
+      "text": "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me.",
+      "plainText": "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "13873",
-      "text" : "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?",
-      "plainText" : "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "13873",
+      "text": "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?",
+      "plainText": "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "13874",
-      "text" : "Hast thou an arm like God? or canst thou thunder with a voice like him?",
-      "plainText" : "Hast thou an arm like God? or canst thou thunder with a voice like him?"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "13874",
+      "text": "Hast thou an arm like God? or canst thou thunder with a voice like him?",
+      "plainText": "Hast thou an arm like God? or canst thou thunder with a voice like him?"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "13875",
-      "text" : "Deck thyself now <span class='extra'>with<\/span> majesty and excellency; and array thyself with glory and beauty.",
-      "plainText" : "Deck thyself now with majesty and excellency; and array thyself with glory and beauty."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "13875",
+      "text": "Deck thyself now <span class='extra'>with</span> majesty and excellency; and array thyself with glory and beauty.",
+      "plainText": "Deck thyself now with majesty and excellency; and array thyself with glory and beauty."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "13876",
-      "text" : "Cast abroad the rage of thy wrath: and behold every one <span class='extra'>that is<\/span> proud, and abase him.",
-      "plainText" : "Cast abroad the rage of thy wrath: and behold every one that is proud, and abase him."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "13876",
+      "text": "Cast abroad the rage of thy wrath: and behold every one <span class='extra'>that is</span> proud, and abase him.",
+      "plainText": "Cast abroad the rage of thy wrath: and behold every one that is proud, and abase him."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "13877",
-      "text" : "Look on every one <span class='extra'>that is<\/span> proud, <span class='extra'>and<\/span> bring him low; and tread down the wicked in their place.",
-      "plainText" : "Look on every one that is proud, and bring him low; and tread down the wicked in their place."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "13877",
+      "text": "Look on every one <span class='extra'>that is</span> proud, <span class='extra'>and</span> bring him low; and tread down the wicked in their place.",
+      "plainText": "Look on every one that is proud, and bring him low; and tread down the wicked in their place."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "13878",
-      "text" : "Hide them in the dust together; <span class='extra'>and<\/span> bind their faces in secret.",
-      "plainText" : "Hide them in the dust together; and bind their faces in secret."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "13878",
+      "text": "Hide them in the dust together; <span class='extra'>and</span> bind their faces in secret.",
+      "plainText": "Hide them in the dust together; and bind their faces in secret."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "13879",
-      "text" : "Then will I also confess unto thee that thine own right hand can save thee.",
-      "plainText" : "Then will I also confess unto thee that thine own right hand can save thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "13879",
+      "text": "Then will I also confess unto thee that thine own right hand can save thee.",
+      "plainText": "Then will I also confess unto thee that thine own right hand can save thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "13880",
-      "text" : "Behold now behemoth, which I made with thee; he eateth grass as an ox.",
-      "plainText" : "Behold now behemoth, which I made with thee; he eateth grass as an ox."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "13880",
+      "text": "Behold now behemoth, which I made with thee; he eateth grass as an ox.",
+      "plainText": "Behold now behemoth, which I made with thee; he eateth grass as an ox."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "13881",
-      "text" : "Lo now, his strength <span class='extra'>is<\/span> in his loins, and his force <span class='extra'>is<\/span> in the navel of his belly.",
-      "plainText" : "Lo now, his strength is in his loins, and his force is in the navel of his belly."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "13881",
+      "text": "Lo now, his strength <span class='extra'>is</span> in his loins, and his force <span class='extra'>is</span> in the navel of his belly.",
+      "plainText": "Lo now, his strength is in his loins, and his force is in the navel of his belly."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "13882",
-      "text" : "He moveth his tail like a cedar: the sinews of his stones are wrapped together.",
-      "plainText" : "He moveth his tail like a cedar: the sinews of his stones are wrapped together."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "13882",
+      "text": "He moveth his tail like a cedar: the sinews of his stones are wrapped together.",
+      "plainText": "He moveth his tail like a cedar: the sinews of his stones are wrapped together."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "13883",
-      "text" : "His bones <span class='extra'>are as<\/span> strong pieces of brass; his bones <span class='extra'>are<\/span> like bars of iron.",
-      "plainText" : "His bones are as strong pieces of brass; his bones are like bars of iron."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "13883",
+      "text": "His bones <span class='extra'>are as</span> strong pieces of brass; his bones <span class='extra'>are</span> like bars of iron.",
+      "plainText": "His bones are as strong pieces of brass; his bones are like bars of iron."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "13884",
-      "text" : "He <span class='extra'>is<\/span> the chief of the ways of God: he that made him can make his sword to approach <span class='extra'>unto him<\/span>.",
-      "plainText" : "He is the chief of the ways of God: he that made him can make his sword to approach unto him."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "13884",
+      "text": "He <span class='extra'>is</span> the chief of the ways of God: he that made him can make his sword to approach <span class='extra'>unto him</span>.",
+      "plainText": "He is the chief of the ways of God: he that made him can make his sword to approach unto him."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "13885",
-      "text" : "Surely the mountains bring him forth food, where all the beasts of the field play.",
-      "plainText" : "Surely the mountains bring him forth food, where all the beasts of the field play."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "13885",
+      "text": "Surely the mountains bring him forth food, where all the beasts of the field play.",
+      "plainText": "Surely the mountains bring him forth food, where all the beasts of the field play."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "13886",
-      "text" : "He lieth under the shady trees, in the covert of the reed, and fens.",
-      "plainText" : "He lieth under the shady trees, in the covert of the reed, and fens."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "13886",
+      "text": "He lieth under the shady trees, in the covert of the reed, and fens.",
+      "plainText": "He lieth under the shady trees, in the covert of the reed, and fens."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "13887",
-      "text" : "The shady trees cover him <span class='extra'>with<\/span> their shadow; the willows of the brook compass him about.",
-      "plainText" : "The shady trees cover him with their shadow; the willows of the brook compass him about."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "13887",
+      "text": "The shady trees cover him <span class='extra'>with</span> their shadow; the willows of the brook compass him about.",
+      "plainText": "The shady trees cover him with their shadow; the willows of the brook compass him about."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "13888",
-      "text" : "Behold, he drinketh up a river, <span class='extra'>and<\/span> hasteth not: he trusteth that he can draw up Jordan into his mouth.",
-      "plainText" : "Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "13888",
+      "text": "Behold, he drinketh up a river, <span class='extra'>and</span> hasteth not: he trusteth that he can draw up Jordan into his mouth.",
+      "plainText": "Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "13889",
-      "text" : "He taketh it with his eyes: <span class='extra'>his<\/span> nose pierceth through snares.",
-      "plainText" : "He taketh it with his eyes: his nose pierceth through snares."
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "13889",
+      "text": "He taketh it with his eyes: <span class='extra'>his</span> nose pierceth through snares.",
+      "plainText": "He taketh it with his eyes: his nose pierceth through snares."
     }
   ]
 }
-
-

@@ -1,281 +1,253 @@
 {
   "book": {
-    "number" : "20",
-    "filenamePrefix" : "proverbs",
-    "bookPage" : "proverbs.html",
-    "title" : "Proverbs",
-    "chapterCount" : "31",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "ecclesiastes_1.html",
-    "nextTitle" : "Ecclesiastes",
-    "prevBook" : "psalms_1.html",
-    "prevTitle" : "Psalms"
+    "number": "20",
+    "filenamePrefix": "proverbs",
+    "bookPage": "proverbs.html",
+    "title": "Proverbs",
+    "chapterCount": "31",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "ecclesiastes_1.html",
+    "nextTitle": "Ecclesiastes",
+    "prevBook": "psalms_1.html",
+    "prevTitle": "Psalms",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "25",
-    "verseCount" : "28",
-    "nextChapter" : "proverbs_26.html",
-    "nextTitle" : "Proverbs 26",
-    "prevChapter" : "proverbs_24.html",
-    "prevTitle" : "Proverbs 24",
-    "filename" : "proverbs_25.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "25",
+    "verseCount": "28",
+    "nextChapter": "proverbs_26.html",
+    "nextTitle": "Proverbs 26",
+    "prevChapter": "proverbs_24.html",
+    "prevTitle": "Proverbs 24",
+    "filename": "proverbs_25.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "17115",
-      "text" : "These <span class='extra'>are<\/span> also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.",
-      "plainText" : "These are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "17115",
+      "text": "These <span class='extra'>are</span> also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.",
+      "plainText": "These are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "17116",
-      "text" : "<span class='extra'>It is<\/span> the glory of God to conceal a thing: but the honour of kings <span class='extra'>is<\/span> to search out a matter.",
-      "plainText" : "It is the glory of God to conceal a thing: but the honour of kings is to search out a matter."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "17116",
+      "text": "<span class='extra'>It is</span> the glory of God to conceal a thing: but the honour of kings <span class='extra'>is</span> to search out a matter.",
+      "plainText": "It is the glory of God to conceal a thing: but the honour of kings is to search out a matter."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "17117",
-      "text" : "The heaven for height, and the earth for depth, and the heart of kings <span class='extra'>is<\/span> unsearchable.",
-      "plainText" : "The heaven for height, and the earth for depth, and the heart of kings is unsearchable."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "17117",
+      "text": "The heaven for height, and the earth for depth, and the heart of kings <span class='extra'>is</span> unsearchable.",
+      "plainText": "The heaven for height, and the earth for depth, and the heart of kings is unsearchable."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "17118",
-      "text" : "Take away the dross from the silver, and there shall come forth a vessel for the finer.",
-      "plainText" : "Take away the dross from the silver, and there shall come forth a vessel for the finer."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "17118",
+      "text": "Take away the dross from the silver, and there shall come forth a vessel for the finer.",
+      "plainText": "Take away the dross from the silver, and there shall come forth a vessel for the finer."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "17119",
-      "text" : "Take away the wicked <span class='extra'>from<\/span> before the king, and his throne shall be established in righteousness.",
-      "plainText" : "Take away the wicked from before the king, and his throne shall be established in righteousness."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "17119",
+      "text": "Take away the wicked <span class='extra'>from</span> before the king, and his throne shall be established in righteousness.",
+      "plainText": "Take away the wicked from before the king, and his throne shall be established in righteousness."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "17120",
-      "text" : "Put not forth thyself in the presence of the king, and stand not in the place of great <span class='extra'>men<\/span>:",
-      "plainText" : "Put not forth thyself in the presence of the king, and stand not in the place of great men:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "17120",
+      "text": "Put not forth thyself in the presence of the king, and stand not in the place of great <span class='extra'>men</span>:",
+      "plainText": "Put not forth thyself in the presence of the king, and stand not in the place of great men:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "17121",
-      "text" : "For better <span class='extra'>it is<\/span> that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen.",
-      "plainText" : "For better it is that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "17121",
+      "text": "For better <span class='extra'>it is</span> that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen.",
+      "plainText": "For better it is that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "17122",
-      "text" : "Go not forth hastily to strive, lest <span class='extra'>thou know not<\/span> what to do in the end thereof, when thy neighbour hath put thee to shame.",
-      "plainText" : "Go not forth hastily to strive, lest thou know not what to do in the end thereof, when thy neighbour hath put thee to shame."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "17122",
+      "text": "Go not forth hastily to strive, lest <span class='extra'>thou know not</span> what to do in the end thereof, when thy neighbour hath put thee to shame.",
+      "plainText": "Go not forth hastily to strive, lest thou know not what to do in the end thereof, when thy neighbour hath put thee to shame."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "17123",
-      "text" : "Debate thy cause with thy neighbour <span class='extra'>himself<\/span>; and discover not a secret to another:",
-      "plainText" : "Debate thy cause with thy neighbour himself; and discover not a secret to another:"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "17123",
+      "text": "Debate thy cause with thy neighbour <span class='extra'>himself</span>; and discover not a secret to another:",
+      "plainText": "Debate thy cause with thy neighbour himself; and discover not a secret to another:"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "17124",
-      "text" : "Lest he that heareth <span class='extra'>it<\/span> put thee to shame, and thine infamy turn not away.",
-      "plainText" : "Lest he that heareth it put thee to shame, and thine infamy turn not away."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "17124",
+      "text": "Lest he that heareth <span class='extra'>it</span> put thee to shame, and thine infamy turn not away.",
+      "plainText": "Lest he that heareth it put thee to shame, and thine infamy turn not away."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "17125",
-      "text" : "A word fitly spoken <span class='extra'>is like<\/span> apples of gold in pictures of silver.",
-      "plainText" : "A word fitly spoken is like apples of gold in pictures of silver."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "17125",
+      "text": "A word fitly spoken <span class='extra'>is like</span> apples of gold in pictures of silver.",
+      "plainText": "A word fitly spoken is like apples of gold in pictures of silver."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "17126",
-      "text" : "<span class='extra'>As<\/span> an earring of gold, and an ornament of fine gold, <span class='extra'>so is<\/span> a wise reprover upon an obedient ear.",
-      "plainText" : "As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "17126",
+      "text": "<span class='extra'>As</span> an earring of gold, and an ornament of fine gold, <span class='extra'>so is</span> a wise reprover upon an obedient ear.",
+      "plainText": "As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "17127",
-      "text" : "As the cold of snow in the time of harvest, <span class='extra'>so is<\/span> a faithful messenger to them that send him: for he refresheth the soul of his masters.",
-      "plainText" : "As the cold of snow in the time of harvest, so is a faithful messenger to them that send him: for he refresheth the soul of his masters."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "17127",
+      "text": "As the cold of snow in the time of harvest, <span class='extra'>so is</span> a faithful messenger to them that send him: for he refresheth the soul of his masters.",
+      "plainText": "As the cold of snow in the time of harvest, so is a faithful messenger to them that send him: for he refresheth the soul of his masters."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "17128",
-      "text" : "Whoso boasteth himself of a false gift <span class='extra'>is like<\/span> clouds and wind without rain.",
-      "plainText" : "Whoso boasteth himself of a false gift is like clouds and wind without rain."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "17128",
+      "text": "Whoso boasteth himself of a false gift <span class='extra'>is like</span> clouds and wind without rain.",
+      "plainText": "Whoso boasteth himself of a false gift is like clouds and wind without rain."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "17129",
-      "text" : "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.",
-      "plainText" : "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "17129",
+      "text": "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.",
+      "plainText": "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "17130",
-      "text" : "Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it.",
-      "plainText" : "Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "17130",
+      "text": "Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it.",
+      "plainText": "Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "17131",
-      "text" : "Withdraw thy foot from thy neighbour's house; lest he be weary of thee, and <span class='extra'>so<\/span> hate thee.",
-      "plainText" : "Withdraw thy foot from thy neighbour's house; lest he be weary of thee, and so hate thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "17131",
+      "text": "Withdraw thy foot from thy neighbour's house; lest he be weary of thee, and <span class='extra'>so</span> hate thee.",
+      "plainText": "Withdraw thy foot from thy neighbour's house; lest he be weary of thee, and so hate thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "17132",
-      "text" : "A man that beareth false witness against his neighbour <span class='extra'>is<\/span> a maul, and a sword, and a sharp arrow.",
-      "plainText" : "A man that beareth false witness against his neighbour is a maul, and a sword, and a sharp arrow."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "17132",
+      "text": "A man that beareth false witness against his neighbour <span class='extra'>is</span> a maul, and a sword, and a sharp arrow.",
+      "plainText": "A man that beareth false witness against his neighbour is a maul, and a sword, and a sharp arrow."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "17133",
-      "text" : "Confidence in an unfaithful man in time of trouble <span class='extra'>is like<\/span> a broken tooth, and a foot out of joint.",
-      "plainText" : "Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "17133",
+      "text": "Confidence in an unfaithful man in time of trouble <span class='extra'>is like</span> a broken tooth, and a foot out of joint.",
+      "plainText": "Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "17134",
-      "text" : "<span class='extra'>As<\/span> he that taketh away a garment in cold weather, <span class='extra'>and as<\/span> vinegar upon nitre, so <span class='extra'>is<\/span> he that singeth songs to an heavy heart.",
-      "plainText" : "As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "17134",
+      "text": "<span class='extra'>As</span> he that taketh away a garment in cold weather, <span class='extra'>and as</span> vinegar upon nitre, so <span class='extra'>is</span> he that singeth songs to an heavy heart.",
+      "plainText": "As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "17135",
-      "text" : "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:",
-      "plainText" : "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "17135",
+      "text": "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:",
+      "plainText": "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "17136",
-      "text" : "For thou shalt heap coals of fire upon his head, and the <span class='nog'>LORD<\/span> shall reward thee.",
-      "plainText" : "For thou shalt heap coals of fire upon his head, and the LORD shall reward thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "17136",
+      "text": "For thou shalt heap coals of fire upon his head, and the <span class='nog'>LORD</span> shall reward thee.",
+      "plainText": "For thou shalt heap coals of fire upon his head, and the LORD shall reward thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "17137",
-      "text" : "The north wind driveth away rain: so <span class='extra'>doth<\/span> an angry countenance a backbiting tongue.",
-      "plainText" : "The north wind driveth away rain: so doth an angry countenance a backbiting tongue."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "17137",
+      "text": "The north wind driveth away rain: so <span class='extra'>doth</span> an angry countenance a backbiting tongue.",
+      "plainText": "The north wind driveth away rain: so doth an angry countenance a backbiting tongue."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "17138",
-      "text" : "<span class='extra'>It is<\/span> better to dwell in the corner of the housetop, than with a brawling woman and in a wide house.",
-      "plainText" : "It is better to dwell in the corner of the housetop, than with a brawling woman and in a wide house."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "17138",
+      "text": "<span class='extra'>It is</span> better to dwell in the corner of the housetop, than with a brawling woman and in a wide house.",
+      "plainText": "It is better to dwell in the corner of the housetop, than with a brawling woman and in a wide house."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "17139",
-      "text" : "<span class='extra'>As<\/span> cold waters to a thirsty soul, so <span class='extra'>is<\/span> good news from a far country.",
-      "plainText" : "As cold waters to a thirsty soul, so is good news from a far country."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "17139",
+      "text": "<span class='extra'>As</span> cold waters to a thirsty soul, so <span class='extra'>is</span> good news from a far country.",
+      "plainText": "As cold waters to a thirsty soul, so is good news from a far country."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "17140",
-      "text" : "A righteous man falling down before the wicked <span class='extra'>is as<\/span> a troubled fountain, and a corrupt spring.",
-      "plainText" : "A righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "17140",
+      "text": "A righteous man falling down before the wicked <span class='extra'>is as</span> a troubled fountain, and a corrupt spring.",
+      "plainText": "A righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "17141",
-      "text" : "<span class='extra'>It is<\/span> not good to eat much honey: so <span class='extra'>for men<\/span> to search their own glory <span class='extra'>is not<\/span> glory.",
-      "plainText" : "It is not good to eat much honey: so for men to search their own glory is not glory."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "17141",
+      "text": "<span class='extra'>It is</span> not good to eat much honey: so <span class='extra'>for men</span> to search their own glory <span class='extra'>is not</span> glory.",
+      "plainText": "It is not good to eat much honey: so for men to search their own glory is not glory."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "17142",
-      "text" : "He that <span class='extra'>hath<\/span> no rule over his own spirit <span class='extra'>is like<\/span> a city <span class='extra'>that is<\/span> broken down, <span class='extra'>and<\/span> without walls.",
-      "plainText" : "He that hath no rule over his own spirit is like a city that is broken down, and without walls."
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "17142",
+      "text": "He that <span class='extra'>hath</span> no rule over his own spirit <span class='extra'>is like</span> a city <span class='extra'>that is</span> broken down, <span class='extra'>and</span> without walls.",
+      "plainText": "He that hath no rule over his own spirit is like a city that is broken down, and without walls."
     }
   ]
 }
-
-

@@ -1,478 +1,429 @@
 {
   "book": {
-    "number" : "42",
-    "filenamePrefix" : "luke",
-    "bookPage" : "luke.html",
-    "title" : "Luke",
-    "chapterCount" : "24",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "john_1.html",
-    "nextTitle" : "John",
-    "prevBook" : "mark_1.html",
-    "prevTitle" : "Mark"
+    "number": "42",
+    "filenamePrefix": "luke",
+    "bookPage": "luke.html",
+    "title": "Luke",
+    "chapterCount": "24",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "john_1.html",
+    "nextTitle": "John",
+    "prevBook": "mark_1.html",
+    "prevTitle": "Mark",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "7",
-    "verseCount" : "50",
-    "nextChapter" : "luke_8.html",
-    "nextTitle" : "Luke 8",
-    "prevChapter" : "luke_6.html",
-    "prevTitle" : "Luke 6",
-    "filename" : "luke_7.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "7",
+    "verseCount": "50",
+    "nextChapter": "luke_8.html",
+    "nextTitle": "Luke 8",
+    "prevChapter": "luke_6.html",
+    "prevTitle": "Luke 6",
+    "filename": "luke_7.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "25197",
-      "text" : "Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.",
-      "plainText" : "Now when he had ended all his sayings in the audience of the people, he entered into Capernaum."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "25197",
+      "text": "Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.",
+      "plainText": "Now when he had ended all his sayings in the audience of the people, he entered into Capernaum."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "25198",
-      "text" : "And a certain centurion's servant, who was dear unto him, was sick, and ready to die.",
-      "plainText" : "And a certain centurion's servant, who was dear unto him, was sick, and ready to die."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "25198",
+      "text": "And a certain centurion's servant, who was dear unto him, was sick, and ready to die.",
+      "plainText": "And a certain centurion's servant, who was dear unto him, was sick, and ready to die."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "25199",
-      "text" : "And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant.",
-      "plainText" : "And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "25199",
+      "text": "And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant.",
+      "plainText": "And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "25200",
-      "text" : "And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:",
-      "plainText" : "And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "25200",
+      "text": "And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:",
+      "plainText": "And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "25201",
-      "text" : "For he loveth our nation, and he hath built us a synagogue.",
-      "plainText" : "For he loveth our nation, and he hath built us a synagogue."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "25201",
+      "text": "For he loveth our nation, and he hath built us a synagogue.",
+      "plainText": "For he loveth our nation, and he hath built us a synagogue."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "25202",
-      "text" : "Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:",
-      "plainText" : "Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "25202",
+      "text": "Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:",
+      "plainText": "Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "25203",
-      "text" : "Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed.",
-      "plainText" : "Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "25203",
+      "text": "Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed.",
+      "plainText": "Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "25204",
-      "text" : "For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth <span class='extra'>it<\/span>.",
-      "plainText" : "For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "25204",
+      "text": "For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth <span class='extra'>it</span>.",
+      "plainText": "For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "25205",
-      "text" : "When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, <span class='woc'>I say unto you, I have not found so great faith, no, not in Israel.<\/span>",
-      "plainText" : "When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "25205",
+      "text": "When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, <span class='woc'>I say unto you, I have not found so great faith, no, not in Israel.</span>",
+      "plainText": "When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "25206",
-      "text" : "And they that were sent, returning to the house, found the servant whole that had been sick.",
-      "plainText" : "And they that were sent, returning to the house, found the servant whole that had been sick."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "25206",
+      "text": "And they that were sent, returning to the house, found the servant whole that had been sick.",
+      "plainText": "And they that were sent, returning to the house, found the servant whole that had been sick."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "25207",
-      "text" : "And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people.",
-      "plainText" : "And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "25207",
+      "text": "And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people.",
+      "plainText": "And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "25208",
-      "text" : "Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her.",
-      "plainText" : "Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "25208",
+      "text": "Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her.",
+      "plainText": "Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "25209",
-      "text" : "And when the Lord saw her, he had compassion on her, and said unto her, <span class='woc'>Weep not.<\/span>",
-      "plainText" : "And when the Lord saw her, he had compassion on her, and said unto her, Weep not."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "25209",
+      "text": "And when the Lord saw her, he had compassion on her, and said unto her, <span class='woc'>Weep not.</span>",
+      "plainText": "And when the Lord saw her, he had compassion on her, and said unto her, Weep not."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "25210",
-      "text" : "And he came and touched the bier: and they that bare <span class='extra'>him<\/span> stood still. And he said, <span class='woc'>Young man, I say unto thee, Arise.<\/span>",
-      "plainText" : "And he came and touched the bier: and they that bare him stood still. And he said, Young man, I say unto thee, Arise."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "25210",
+      "text": "And he came and touched the bier: and they that bare <span class='extra'>him</span> stood still. And he said, <span class='woc'>Young man, I say unto thee, Arise.</span>",
+      "plainText": "And he came and touched the bier: and they that bare him stood still. And he said, Young man, I say unto thee, Arise."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "25211",
-      "text" : "And he that was dead sat up, and began to speak. And he delivered him to his mother.",
-      "plainText" : "And he that was dead sat up, and began to speak. And he delivered him to his mother."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "25211",
+      "text": "And he that was dead sat up, and began to speak. And he delivered him to his mother.",
+      "plainText": "And he that was dead sat up, and began to speak. And he delivered him to his mother."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "25212",
-      "text" : "And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people.",
-      "plainText" : "And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "25212",
+      "text": "And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people.",
+      "plainText": "And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "25213",
-      "text" : "And this rumour of him went forth throughout all Judaea, and throughout all the region round about.",
-      "plainText" : "And this rumour of him went forth throughout all Judaea, and throughout all the region round about."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "25213",
+      "text": "And this rumour of him went forth throughout all Judaea, and throughout all the region round about.",
+      "plainText": "And this rumour of him went forth throughout all Judaea, and throughout all the region round about."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "25214",
-      "text" : "And the disciples of John shewed him of all these things.",
-      "plainText" : "And the disciples of John shewed him of all these things."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "25214",
+      "text": "And the disciples of John shewed him of all these things.",
+      "plainText": "And the disciples of John shewed him of all these things."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "25215",
-      "text" : "And John calling <span class='extra'>unto him<\/span> two of his disciples sent <span class='extra'>them<\/span> to Jesus, saying, Art thou he that should come? or look we for another?",
-      "plainText" : "And John calling unto him two of his disciples sent them to Jesus, saying, Art thou he that should come? or look we for another?"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "25215",
+      "text": "And John calling <span class='extra'>unto him</span> two of his disciples sent <span class='extra'>them</span> to Jesus, saying, Art thou he that should come? or look we for another?",
+      "plainText": "And John calling unto him two of his disciples sent them to Jesus, saying, Art thou he that should come? or look we for another?"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "25216",
-      "text" : "When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?",
-      "plainText" : "When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "25216",
+      "text": "When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?",
+      "plainText": "When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "25217",
-      "text" : "And in that same hour he cured many of <span class='extra'>their<\/span> infirmities and plagues, and of evil spirits; and unto many <span class='extra'>that were<\/span> blind he gave sight.",
-      "plainText" : "And in that same hour he cured many of their infirmities and plagues, and of evil spirits; and unto many that were blind he gave sight."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "25217",
+      "text": "And in that same hour he cured many of <span class='extra'>their</span> infirmities and plagues, and of evil spirits; and unto many <span class='extra'>that were</span> blind he gave sight.",
+      "plainText": "And in that same hour he cured many of their infirmities and plagues, and of evil spirits; and unto many that were blind he gave sight."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "25218",
-      "text" : "Then Jesus answering said unto them, <span class='woc'>Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached.<\/span>",
-      "plainText" : "Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "25218",
+      "text": "Then Jesus answering said unto them, <span class='woc'>Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached.</span>",
+      "plainText": "Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "25219",
-      "text" : "<span class='woc'>And blessed is <span class='extra'>he<\/span>, whosoever shall not be offended in me.<\/span>",
-      "plainText" : "And blessed is he, whosoever shall not be offended in me."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "25219",
+      "text": "<span class='woc'>And blessed is <span class='extra'>he</span>, whosoever shall not be offended in me.</span>",
+      "plainText": "And blessed is he, whosoever shall not be offended in me."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "25220",
-      "text" : "And when the messengers of John were departed, he began to speak unto the people concerning John, <span class='woc'>What went ye out into the wilderness for to see? A reed shaken with the wind?<\/span>",
-      "plainText" : "And when the messengers of John were departed, he began to speak unto the people concerning John, What went ye out into the wilderness for to see? A reed shaken with the wind?"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "25220",
+      "text": "And when the messengers of John were departed, he began to speak unto the people concerning John, <span class='woc'>What went ye out into the wilderness for to see? A reed shaken with the wind?</span>",
+      "plainText": "And when the messengers of John were departed, he began to speak unto the people concerning John, What went ye out into the wilderness for to see? A reed shaken with the wind?"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "25221",
-      "text" : "<span class='woc'>But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings' courts.<\/span>",
-      "plainText" : "But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings' courts."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "25221",
+      "text": "<span class='woc'>But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings' courts.</span>",
+      "plainText": "But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings' courts."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "25222",
-      "text" : "<span class='woc'>But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet.<\/span>",
-      "plainText" : "But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "25222",
+      "text": "<span class='woc'>But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet.</span>",
+      "plainText": "But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "25223",
-      "text" : "<span class='woc'>This is <span class='extra'>he<\/span>, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.<\/span>",
-      "plainText" : "This is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "25223",
+      "text": "<span class='woc'>This is <span class='extra'>he</span>, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.</span>",
+      "plainText": "This is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "25224",
-      "text" : "<span class='woc'>For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he.<\/span>",
-      "plainText" : "For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "25224",
+      "text": "<span class='woc'>For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he.</span>",
+      "plainText": "For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "25225",
-      "text" : "And all the people that heard <span class='extra'>him<\/span>, and the publicans, justified God, being baptized with the baptism of John.",
-      "plainText" : "And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "25225",
+      "text": "And all the people that heard <span class='extra'>him</span>, and the publicans, justified God, being baptized with the baptism of John.",
+      "plainText": "And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "25226",
-      "text" : "But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him.",
-      "plainText" : "But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "25226",
+      "text": "But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him.",
+      "plainText": "But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "25227",
-      "text" : "And the Lord said, <span class='woc'>Whereunto then shall I liken the men of this generation? and to what are they like?<\/span>",
-      "plainText" : "And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?"
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "25227",
+      "text": "And the Lord said, <span class='woc'>Whereunto then shall I liken the men of this generation? and to what are they like?</span>",
+      "plainText": "And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?"
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "25228",
-      "text" : "<span class='woc'>They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept.<\/span>",
-      "plainText" : "They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "25228",
+      "text": "<span class='woc'>They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept.</span>",
+      "plainText": "They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "25229",
-      "text" : "<span class='woc'>For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil.<\/span>",
-      "plainText" : "For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "25229",
+      "text": "<span class='woc'>For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil.</span>",
+      "plainText": "For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "25230",
-      "text" : "<span class='woc'>The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!<\/span>",
-      "plainText" : "The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!"
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "25230",
+      "text": "<span class='woc'>The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!</span>",
+      "plainText": "The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!"
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "25231",
-      "text" : "<span class='woc'>But wisdom is justified of all her children.<\/span>",
-      "plainText" : "But wisdom is justified of all her children."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "25231",
+      "text": "<span class='woc'>But wisdom is justified of all her children.</span>",
+      "plainText": "But wisdom is justified of all her children."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "25232",
-      "text" : "And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee's house, and sat down to meat.",
-      "plainText" : "And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee's house, and sat down to meat."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "25232",
+      "text": "And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee's house, and sat down to meat.",
+      "plainText": "And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee's house, and sat down to meat."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "25233",
-      "text" : "And, behold, a woman in the city, which was a sinner, when she knew that <span class='extra'>Jesus<\/span> sat at meat in the Pharisee's house, brought an alabaster box of ointment,",
-      "plainText" : "And, behold, a woman in the city, which was a sinner, when she knew that Jesus sat at meat in the Pharisee's house, brought an alabaster box of ointment,"
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "25233",
+      "text": "And, behold, a woman in the city, which was a sinner, when she knew that <span class='extra'>Jesus</span> sat at meat in the Pharisee's house, brought an alabaster box of ointment,",
+      "plainText": "And, behold, a woman in the city, which was a sinner, when she knew that Jesus sat at meat in the Pharisee's house, brought an alabaster box of ointment,"
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "25234",
-      "text" : "And stood at his feet behind <span class='extra'>him<\/span> weeping, and began to wash his feet with tears, and did wipe <span class='extra'>them<\/span> with the hairs of her head, and kissed his feet, and anointed <span class='extra'>them<\/span> with the ointment.",
-      "plainText" : "And stood at his feet behind him weeping, and began to wash his feet with tears, and did wipe them with the hairs of her head, and kissed his feet, and anointed them with the ointment."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "25234",
+      "text": "And stood at his feet behind <span class='extra'>him</span> weeping, and began to wash his feet with tears, and did wipe <span class='extra'>them</span> with the hairs of her head, and kissed his feet, and anointed <span class='extra'>them</span> with the ointment.",
+      "plainText": "And stood at his feet behind him weeping, and began to wash his feet with tears, and did wipe them with the hairs of her head, and kissed his feet, and anointed them with the ointment."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "25235",
-      "text" : "Now when the Pharisee which had bidden him saw <span class='extra'>it<\/span>, he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman <span class='extra'>this is<\/span> that toucheth him: for she is a sinner.",
-      "plainText" : "Now when the Pharisee which had bidden him saw it, he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman this is that toucheth him: for she is a sinner."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "25235",
+      "text": "Now when the Pharisee which had bidden him saw <span class='extra'>it</span>, he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman <span class='extra'>this is</span> that toucheth him: for she is a sinner.",
+      "plainText": "Now when the Pharisee which had bidden him saw it, he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman this is that toucheth him: for she is a sinner."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "25236",
-      "text" : "And Jesus answering said unto him, <span class='woc'>Simon, I have somewhat to say unto thee.<\/span> And he saith, Master, say on.",
-      "plainText" : "And Jesus answering said unto him, Simon, I have somewhat to say unto thee. And he saith, Master, say on."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "25236",
+      "text": "And Jesus answering said unto him, <span class='woc'>Simon, I have somewhat to say unto thee.</span> And he saith, Master, say on.",
+      "plainText": "And Jesus answering said unto him, Simon, I have somewhat to say unto thee. And he saith, Master, say on."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "25237",
-      "text" : "<span class='woc'>There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty.<\/span>",
-      "plainText" : "There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "25237",
+      "text": "<span class='woc'>There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty.</span>",
+      "plainText": "There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "25238",
-      "text" : "<span class='woc'>And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?<\/span>",
-      "plainText" : "And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?"
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "25238",
+      "text": "<span class='woc'>And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?</span>",
+      "plainText": "And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?"
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "25239",
-      "text" : "Simon answered and said, I suppose that <span class='extra'>he<\/span>, to whom he forgave most. And he said unto him, <span class='woc'>Thou hast rightly judged.<\/span>",
-      "plainText" : "Simon answered and said, I suppose that he, to whom he forgave most. And he said unto him, Thou hast rightly judged."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "25239",
+      "text": "Simon answered and said, I suppose that <span class='extra'>he</span>, to whom he forgave most. And he said unto him, <span class='woc'>Thou hast rightly judged.</span>",
+      "plainText": "Simon answered and said, I suppose that he, to whom he forgave most. And he said unto him, Thou hast rightly judged."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "25240",
-      "text" : "And he turned to the woman, and said unto Simon, <span class='woc'>Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped <span class='extra'>them<\/span> with the hairs of her head.<\/span>",
-      "plainText" : "And he turned to the woman, and said unto Simon, Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped them with the hairs of her head."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "25240",
+      "text": "And he turned to the woman, and said unto Simon, <span class='woc'>Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped <span class='extra'>them</span> with the hairs of her head.</span>",
+      "plainText": "And he turned to the woman, and said unto Simon, Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped them with the hairs of her head."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "25241",
-      "text" : "<span class='woc'>Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet.<\/span>",
-      "plainText" : "Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet."
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "25241",
+      "text": "<span class='woc'>Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet.</span>",
+      "plainText": "Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet."
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "25242",
-      "text" : "<span class='woc'>My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment.<\/span>",
-      "plainText" : "My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment."
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "25242",
+      "text": "<span class='woc'>My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment.</span>",
+      "plainText": "My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment."
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "25243",
-      "text" : "<span class='woc'>Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, <span class='extra'>the same<\/span> loveth little.<\/span>",
-      "plainText" : "Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, the same loveth little."
-    }
-    ,
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "25243",
+      "text": "<span class='woc'>Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, <span class='extra'>the same</span> loveth little.</span>",
+      "plainText": "Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, the same loveth little."
+    },
     {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "25244",
-      "text" : "And he said unto her, <span class='woc'>Thy sins are forgiven.<\/span>",
-      "plainText" : "And he said unto her, Thy sins are forgiven."
-    }
-    ,
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "25244",
+      "text": "And he said unto her, <span class='woc'>Thy sins are forgiven.</span>",
+      "plainText": "And he said unto her, Thy sins are forgiven."
+    },
     {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "25245",
-      "text" : "And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?",
-      "plainText" : "And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?"
-    }
-    ,
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "25245",
+      "text": "And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?",
+      "plainText": "And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?"
+    },
     {
-      "type" : "verse",
-      "id" : "v50",
-      "number" : "50",
-      "absolute" : "25246",
-      "text" : "And he said to the woman, <span class='woc'>Thy faith hath saved thee; go in peace.<\/span>",
-      "plainText" : "And he said to the woman, Thy faith hath saved thee; go in peace."
+      "type": "verse",
+      "id": "v50",
+      "number": "50",
+      "absolute": "25246",
+      "text": "And he said to the woman, <span class='woc'>Thy faith hath saved thee; go in peace.</span>",
+      "plainText": "And he said to the woman, Thy faith hath saved thee; go in peace."
     }
   ]
 }
-

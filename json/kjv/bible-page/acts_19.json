@@ -1,397 +1,357 @@
 {
   "book": {
-    "number" : "44",
-    "filenamePrefix" : "acts",
-    "bookPage" : "acts.html",
-    "title" : "Acts",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "romans_1.html",
-    "nextTitle" : "Romans",
-    "prevBook" : "john_1.html",
-    "prevTitle" : "John"
+    "number": "44",
+    "filenamePrefix": "acts",
+    "bookPage": "acts.html",
+    "title": "Acts",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "romans_1.html",
+    "nextTitle": "Romans",
+    "prevBook": "john_1.html",
+    "prevTitle": "John",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "19",
-    "verseCount" : "41",
-    "nextChapter" : "acts_20.html",
-    "nextTitle" : "Acts 20",
-    "prevChapter" : "acts_18.html",
-    "prevTitle" : "Acts 18",
-    "filename" : "acts_19.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "19",
+    "verseCount": "41",
+    "nextChapter": "acts_20.html",
+    "nextTitle": "Acts 20",
+    "prevChapter": "acts_18.html",
+    "prevTitle": "Acts 18",
+    "filename": "acts_19.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "27587",
-      "text" : "And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,",
-      "plainText" : "And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "27587",
+      "text": "And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,",
+      "plainText": "And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "27588",
-      "text" : "He said unto them, Have ye received the Holy Ghost since ye believed? And they said unto him, We have not so much as heard whether there be any Holy Ghost.",
-      "plainText" : "He said unto them, Have ye received the Holy Ghost since ye believed? And they said unto him, We have not so much as heard whether there be any Holy Ghost."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "27588",
+      "text": "He said unto them, Have ye received the Holy Ghost since ye believed? And they said unto him, We have not so much as heard whether there be any Holy Ghost.",
+      "plainText": "He said unto them, Have ye received the Holy Ghost since ye believed? And they said unto him, We have not so much as heard whether there be any Holy Ghost."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "27589",
-      "text" : "And he said unto them, Unto what then were ye baptized? And they said, Unto John's baptism.",
-      "plainText" : "And he said unto them, Unto what then were ye baptized? And they said, Unto John's baptism."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "27589",
+      "text": "And he said unto them, Unto what then were ye baptized? And they said, Unto John's baptism.",
+      "plainText": "And he said unto them, Unto what then were ye baptized? And they said, Unto John's baptism."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "27590",
-      "text" : "Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus.",
-      "plainText" : "Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "27590",
+      "text": "Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus.",
+      "plainText": "Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "27591",
-      "text" : "When they heard <span class='extra'>this<\/span>, they were baptized in the name of the Lord Jesus.",
-      "plainText" : "When they heard this, they were baptized in the name of the Lord Jesus."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "27591",
+      "text": "When they heard <span class='extra'>this</span>, they were baptized in the name of the Lord Jesus.",
+      "plainText": "When they heard this, they were baptized in the name of the Lord Jesus."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "27592",
-      "text" : "And when Paul had laid <span class='extra'>his<\/span> hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied.",
-      "plainText" : "And when Paul had laid his hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "27592",
+      "text": "And when Paul had laid <span class='extra'>his</span> hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied.",
+      "plainText": "And when Paul had laid his hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "27593",
-      "text" : "And all the men were about twelve.",
-      "plainText" : "And all the men were about twelve."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "27593",
+      "text": "And all the men were about twelve.",
+      "plainText": "And all the men were about twelve."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "27594",
-      "text" : "And he went into the synagogue, and spake boldly for the space of three months, disputing and persuading the things concerning the kingdom of God.",
-      "plainText" : "And he went into the synagogue, and spake boldly for the space of three months, disputing and persuading the things concerning the kingdom of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "27594",
+      "text": "And he went into the synagogue, and spake boldly for the space of three months, disputing and persuading the things concerning the kingdom of God.",
+      "plainText": "And he went into the synagogue, and spake boldly for the space of three months, disputing and persuading the things concerning the kingdom of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "27595",
-      "text" : "But when divers were hardened, and believed not, but spake evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the school of one Tyrannus.",
-      "plainText" : "But when divers were hardened, and believed not, but spake evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the school of one Tyrannus."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "27595",
+      "text": "But when divers were hardened, and believed not, but spake evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the school of one Tyrannus.",
+      "plainText": "But when divers were hardened, and believed not, but spake evil of that way before the multitude, he departed from them, and separated the disciples, disputing daily in the school of one Tyrannus."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "27596",
-      "text" : "And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks.",
-      "plainText" : "And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "27596",
+      "text": "And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks.",
+      "plainText": "And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "27597",
-      "text" : "And God wrought special miracles by the hands of Paul:",
-      "plainText" : "And God wrought special miracles by the hands of Paul:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "27597",
+      "text": "And God wrought special miracles by the hands of Paul:",
+      "plainText": "And God wrought special miracles by the hands of Paul:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "27598",
-      "text" : "So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.",
-      "plainText" : "So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "27598",
+      "text": "So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.",
+      "plainText": "So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "27599",
-      "text" : "Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth.",
-      "plainText" : "Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "27599",
+      "text": "Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth.",
+      "plainText": "Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "27600",
-      "text" : "And there were seven sons of <span class='extra'>one<\/span> Sceva, a Jew, <span class='extra'>and<\/span> chief of the priests, which did so.",
-      "plainText" : "And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "27600",
+      "text": "And there were seven sons of <span class='extra'>one</span> Sceva, a Jew, <span class='extra'>and</span> chief of the priests, which did so.",
+      "plainText": "And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "27601",
-      "text" : "And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?",
-      "plainText" : "And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "27601",
+      "text": "And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?",
+      "plainText": "And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "27602",
-      "text" : "And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded.",
-      "plainText" : "And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "27602",
+      "text": "And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded.",
+      "plainText": "And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "27603",
-      "text" : "And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified.",
-      "plainText" : "And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "27603",
+      "text": "And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified.",
+      "plainText": "And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "27604",
-      "text" : "And many that believed came, and confessed, and shewed their deeds.",
-      "plainText" : "And many that believed came, and confessed, and shewed their deeds."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "27604",
+      "text": "And many that believed came, and confessed, and shewed their deeds.",
+      "plainText": "And many that believed came, and confessed, and shewed their deeds."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "27605",
-      "text" : "Many of them also which used curious arts brought their books together, and burned them before all <span class='extra'>men<\/span>: and they counted the price of them, and found <span class='extra'>it<\/span> fifty thousand <span class='extra'>pieces<\/span> of silver.",
-      "plainText" : "Many of them also which used curious arts brought their books together, and burned them before all men: and they counted the price of them, and found it fifty thousand pieces of silver."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "27605",
+      "text": "Many of them also which used curious arts brought their books together, and burned them before all <span class='extra'>men</span>: and they counted the price of them, and found <span class='extra'>it</span> fifty thousand <span class='extra'>pieces</span> of silver.",
+      "plainText": "Many of them also which used curious arts brought their books together, and burned them before all men: and they counted the price of them, and found it fifty thousand pieces of silver."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "27606",
-      "text" : "So mightily grew the word of God and prevailed.",
-      "plainText" : "So mightily grew the word of God and prevailed."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "27606",
+      "text": "So mightily grew the word of God and prevailed.",
+      "plainText": "So mightily grew the word of God and prevailed."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "27607",
-      "text" : "After these things were ended, Paul purposed in the spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome.",
-      "plainText" : "After these things were ended, Paul purposed in the spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "27607",
+      "text": "After these things were ended, Paul purposed in the spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome.",
+      "plainText": "After these things were ended, Paul purposed in the spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "27608",
-      "text" : "So he sent into Macedonia two of them that ministered unto him, Timotheus and Erastus; but he himself stayed in Asia for a season.",
-      "plainText" : "So he sent into Macedonia two of them that ministered unto him, Timotheus and Erastus; but he himself stayed in Asia for a season."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "27608",
+      "text": "So he sent into Macedonia two of them that ministered unto him, Timotheus and Erastus; but he himself stayed in Asia for a season.",
+      "plainText": "So he sent into Macedonia two of them that ministered unto him, Timotheus and Erastus; but he himself stayed in Asia for a season."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "27609",
-      "text" : "And the same time there arose no small stir about that way.",
-      "plainText" : "And the same time there arose no small stir about that way."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "27609",
+      "text": "And the same time there arose no small stir about that way.",
+      "plainText": "And the same time there arose no small stir about that way."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "27610",
-      "text" : "For a certain <span class='extra'>man<\/span> named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;",
-      "plainText" : "For a certain man named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "27610",
+      "text": "For a certain <span class='extra'>man</span> named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;",
+      "plainText": "For a certain man named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "27611",
-      "text" : "Whom he called together with the workmen of like occupation, and said, Sirs, ye know that by this craft we have our wealth.",
-      "plainText" : "Whom he called together with the workmen of like occupation, and said, Sirs, ye know that by this craft we have our wealth."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "27611",
+      "text": "Whom he called together with the workmen of like occupation, and said, Sirs, ye know that by this craft we have our wealth.",
+      "plainText": "Whom he called together with the workmen of like occupation, and said, Sirs, ye know that by this craft we have our wealth."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "27612",
-      "text" : "Moreover ye see and hear, that not alone at Ephesus, but almost throughout all Asia, this Paul hath persuaded and turned away much people, saying that they be no gods, which are made with hands:",
-      "plainText" : "Moreover ye see and hear, that not alone at Ephesus, but almost throughout all Asia, this Paul hath persuaded and turned away much people, saying that they be no gods, which are made with hands:"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "27612",
+      "text": "Moreover ye see and hear, that not alone at Ephesus, but almost throughout all Asia, this Paul hath persuaded and turned away much people, saying that they be no gods, which are made with hands:",
+      "plainText": "Moreover ye see and hear, that not alone at Ephesus, but almost throughout all Asia, this Paul hath persuaded and turned away much people, saying that they be no gods, which are made with hands:"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "27613",
-      "text" : "So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth.",
-      "plainText" : "So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "27613",
+      "text": "So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth.",
+      "plainText": "So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "27614",
-      "text" : "And when they heard <span class='extra'>these sayings<\/span>, they were full of wrath, and cried out, saying, Great <span class='extra'>is<\/span> Diana of the Ephesians.",
-      "plainText" : "And when they heard these sayings, they were full of wrath, and cried out, saying, Great is Diana of the Ephesians."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "27614",
+      "text": "And when they heard <span class='extra'>these sayings</span>, they were full of wrath, and cried out, saying, Great <span class='extra'>is</span> Diana of the Ephesians.",
+      "plainText": "And when they heard these sayings, they were full of wrath, and cried out, saying, Great is Diana of the Ephesians."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "27615",
-      "text" : "And the whole city was filled with confusion: and having caught Gaius and Aristarchus, men of Macedonia, Paul's companions in travel, they rushed with one accord into the theatre.",
-      "plainText" : "And the whole city was filled with confusion: and having caught Gaius and Aristarchus, men of Macedonia, Paul's companions in travel, they rushed with one accord into the theatre."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "27615",
+      "text": "And the whole city was filled with confusion: and having caught Gaius and Aristarchus, men of Macedonia, Paul's companions in travel, they rushed with one accord into the theatre.",
+      "plainText": "And the whole city was filled with confusion: and having caught Gaius and Aristarchus, men of Macedonia, Paul's companions in travel, they rushed with one accord into the theatre."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "27616",
-      "text" : "And when Paul would have entered in unto the people, the disciples suffered him not.",
-      "plainText" : "And when Paul would have entered in unto the people, the disciples suffered him not."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "27616",
+      "text": "And when Paul would have entered in unto the people, the disciples suffered him not.",
+      "plainText": "And when Paul would have entered in unto the people, the disciples suffered him not."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "27617",
-      "text" : "And certain of the chief of Asia, which were his friends, sent unto him, desiring <span class='extra'>him<\/span> that he would not adventure himself into the theatre.",
-      "plainText" : "And certain of the chief of Asia, which were his friends, sent unto him, desiring him that he would not adventure himself into the theatre."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "27617",
+      "text": "And certain of the chief of Asia, which were his friends, sent unto him, desiring <span class='extra'>him</span> that he would not adventure himself into the theatre.",
+      "plainText": "And certain of the chief of Asia, which were his friends, sent unto him, desiring him that he would not adventure himself into the theatre."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "27618",
-      "text" : "Some therefore cried one thing, and some another: for the assembly was confused; and the more part knew not wherefore they were come together.",
-      "plainText" : "Some therefore cried one thing, and some another: for the assembly was confused; and the more part knew not wherefore they were come together."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "27618",
+      "text": "Some therefore cried one thing, and some another: for the assembly was confused; and the more part knew not wherefore they were come together.",
+      "plainText": "Some therefore cried one thing, and some another: for the assembly was confused; and the more part knew not wherefore they were come together."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "27619",
-      "text" : "And they drew Alexander out of the multitude, the Jews putting him forward. And Alexander beckoned with the hand, and would have made his defence unto the people.",
-      "plainText" : "And they drew Alexander out of the multitude, the Jews putting him forward. And Alexander beckoned with the hand, and would have made his defence unto the people."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "27619",
+      "text": "And they drew Alexander out of the multitude, the Jews putting him forward. And Alexander beckoned with the hand, and would have made his defence unto the people.",
+      "plainText": "And they drew Alexander out of the multitude, the Jews putting him forward. And Alexander beckoned with the hand, and would have made his defence unto the people."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "27620",
-      "text" : "But when they knew that he was a Jew, all with one voice about the space of two hours cried out, Great <span class='extra'>is<\/span> Diana of the Ephesians.",
-      "plainText" : "But when they knew that he was a Jew, all with one voice about the space of two hours cried out, Great is Diana of the Ephesians."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "27620",
+      "text": "But when they knew that he was a Jew, all with one voice about the space of two hours cried out, Great <span class='extra'>is</span> Diana of the Ephesians.",
+      "plainText": "But when they knew that he was a Jew, all with one voice about the space of two hours cried out, Great is Diana of the Ephesians."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "27621",
-      "text" : "And when the townclerk had appeased the people, he said, <span class='extra'>Ye<\/span> men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the <span class='extra'>image<\/span> which fell down from Jupiter?",
-      "plainText" : "And when the townclerk had appeased the people, he said, Ye men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the image which fell down from Jupiter?"
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "27621",
+      "text": "And when the townclerk had appeased the people, he said, <span class='extra'>Ye</span> men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the <span class='extra'>image</span> which fell down from Jupiter?",
+      "plainText": "And when the townclerk had appeased the people, he said, Ye men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the image which fell down from Jupiter?"
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "27622",
-      "text" : "Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly.",
-      "plainText" : "Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "27622",
+      "text": "Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly.",
+      "plainText": "Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "27623",
-      "text" : "For ye have brought hither these men, which are neither robbers of churches, nor yet blasphemers of your goddess.",
-      "plainText" : "For ye have brought hither these men, which are neither robbers of churches, nor yet blasphemers of your goddess."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "27623",
+      "text": "For ye have brought hither these men, which are neither robbers of churches, nor yet blasphemers of your goddess.",
+      "plainText": "For ye have brought hither these men, which are neither robbers of churches, nor yet blasphemers of your goddess."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "27624",
-      "text" : "Wherefore if Demetrius, and the craftsmen which are with him, have a matter against any man, the law is open, and there are deputies: let them implead one another.",
-      "plainText" : "Wherefore if Demetrius, and the craftsmen which are with him, have a matter against any man, the law is open, and there are deputies: let them implead one another."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "27624",
+      "text": "Wherefore if Demetrius, and the craftsmen which are with him, have a matter against any man, the law is open, and there are deputies: let them implead one another.",
+      "plainText": "Wherefore if Demetrius, and the craftsmen which are with him, have a matter against any man, the law is open, and there are deputies: let them implead one another."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "27625",
-      "text" : "But if ye enquire any thing concerning other matters, it shall be determined in a lawful assembly.",
-      "plainText" : "But if ye enquire any thing concerning other matters, it shall be determined in a lawful assembly."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "27625",
+      "text": "But if ye enquire any thing concerning other matters, it shall be determined in a lawful assembly.",
+      "plainText": "But if ye enquire any thing concerning other matters, it shall be determined in a lawful assembly."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "27626",
-      "text" : "For we are in danger to be called in question for this day's uproar, there being no cause whereby we may give an account of this concourse.",
-      "plainText" : "For we are in danger to be called in question for this day's uproar, there being no cause whereby we may give an account of this concourse."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "27626",
+      "text": "For we are in danger to be called in question for this day's uproar, there being no cause whereby we may give an account of this concourse.",
+      "plainText": "For we are in danger to be called in question for this day's uproar, there being no cause whereby we may give an account of this concourse."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "27627",
-      "text" : "And when he had thus spoken, he dismissed the assembly.",
-      "plainText" : "And when he had thus spoken, he dismissed the assembly."
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "27627",
+      "text": "And when he had thus spoken, he dismissed the assembly.",
+      "plainText": "And when he had thus spoken, he dismissed the assembly."
     }
   ]
 }
-

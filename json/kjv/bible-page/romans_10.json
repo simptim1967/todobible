@@ -1,217 +1,197 @@
 {
   "book": {
-    "number" : "45",
-    "filenamePrefix" : "romans",
-    "bookPage" : "romans.html",
-    "title" : "Romans",
-    "chapterCount" : "16",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "1corinthians_1.html",
-    "nextTitle" : "1 Corinthians",
-    "prevBook" : "acts_1.html",
-    "prevTitle" : "Acts"
+    "number": "45",
+    "filenamePrefix": "romans",
+    "bookPage": "romans.html",
+    "title": "Romans",
+    "chapterCount": "16",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "1corinthians_1.html",
+    "nextTitle": "1 Corinthians",
+    "prevBook": "acts_1.html",
+    "prevTitle": "Acts",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "10",
-    "verseCount" : "21",
-    "nextChapter" : "romans_11.html",
-    "nextTitle" : "Romans 11",
-    "prevChapter" : "romans_9.html",
-    "prevTitle" : "Romans 9",
-    "filename" : "romans_10.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "10",
+    "verseCount": "21",
+    "nextChapter": "romans_11.html",
+    "nextTitle": "Romans 11",
+    "prevChapter": "romans_9.html",
+    "prevTitle": "Romans 9",
+    "filename": "romans_10.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "28190",
-      "text" : "Brethren, my heart's desire and prayer to God for Israel is, that they might be saved.",
-      "plainText" : "Brethren, my heart's desire and prayer to God for Israel is, that they might be saved."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "28190",
+      "text": "Brethren, my heart's desire and prayer to God for Israel is, that they might be saved.",
+      "plainText": "Brethren, my heart's desire and prayer to God for Israel is, that they might be saved."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "28191",
-      "text" : "For I bear them record that they have a zeal of God, but not according to knowledge.",
-      "plainText" : "For I bear them record that they have a zeal of God, but not according to knowledge."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "28191",
+      "text": "For I bear them record that they have a zeal of God, but not according to knowledge.",
+      "plainText": "For I bear them record that they have a zeal of God, but not according to knowledge."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "28192",
-      "text" : "For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God.",
-      "plainText" : "For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "28192",
+      "text": "For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God.",
+      "plainText": "For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "28193",
-      "text" : "For Christ <span class='extra'>is<\/span> the end of the law for righteousness to every one that believeth.",
-      "plainText" : "For Christ is the end of the law for righteousness to every one that believeth."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "28193",
+      "text": "For Christ <span class='extra'>is</span> the end of the law for righteousness to every one that believeth.",
+      "plainText": "For Christ is the end of the law for righteousness to every one that believeth."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "28194",
-      "text" : "For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.",
-      "plainText" : "For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "28194",
+      "text": "For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.",
+      "plainText": "For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "28195",
-      "text" : "But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down <span class='extra'>from above<\/span>:)",
-      "plainText" : "But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "28195",
+      "text": "But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down <span class='extra'>from above</span>:)",
+      "plainText": "But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "28196",
-      "text" : "Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)",
-      "plainText" : "Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "28196",
+      "text": "Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)",
+      "plainText": "Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "28197",
-      "text" : "But what saith it? The word is nigh thee, <span class='extra'>even<\/span> in thy mouth, and in thy heart: that is, the word of faith, which we preach;",
-      "plainText" : "But what saith it? The word is nigh thee, even in thy mouth, and in thy heart: that is, the word of faith, which we preach;"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "28197",
+      "text": "But what saith it? The word is nigh thee, <span class='extra'>even</span> in thy mouth, and in thy heart: that is, the word of faith, which we preach;",
+      "plainText": "But what saith it? The word is nigh thee, even in thy mouth, and in thy heart: that is, the word of faith, which we preach;"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "28198",
-      "text" : "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.",
-      "plainText" : "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "28198",
+      "text": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.",
+      "plainText": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "28199",
-      "text" : "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.",
-      "plainText" : "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "28199",
+      "text": "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.",
+      "plainText": "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "28200",
-      "text" : "For the scripture saith, Whosoever believeth on him shall not be ashamed.",
-      "plainText" : "For the scripture saith, Whosoever believeth on him shall not be ashamed."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "28200",
+      "text": "For the scripture saith, Whosoever believeth on him shall not be ashamed.",
+      "plainText": "For the scripture saith, Whosoever believeth on him shall not be ashamed."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "28201",
-      "text" : "For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.",
-      "plainText" : "For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "28201",
+      "text": "For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.",
+      "plainText": "For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "28202",
-      "text" : "For whosoever shall call upon the name of the Lord shall be saved.",
-      "plainText" : "For whosoever shall call upon the name of the Lord shall be saved."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "28202",
+      "text": "For whosoever shall call upon the name of the Lord shall be saved.",
+      "plainText": "For whosoever shall call upon the name of the Lord shall be saved."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "28203",
-      "text" : "How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?",
-      "plainText" : "How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "28203",
+      "text": "How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?",
+      "plainText": "How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "28204",
-      "text" : "And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!",
-      "plainText" : "And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "28204",
+      "text": "And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!",
+      "plainText": "And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "28205",
-      "text" : "But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?",
-      "plainText" : "But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "28205",
+      "text": "But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?",
+      "plainText": "But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "28206",
-      "text" : "So then faith <span class='extra'>cometh<\/span> by hearing, and hearing by the word of God.",
-      "plainText" : "So then faith cometh by hearing, and hearing by the word of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "28206",
+      "text": "So then faith <span class='extra'>cometh</span> by hearing, and hearing by the word of God.",
+      "plainText": "So then faith cometh by hearing, and hearing by the word of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "28207",
-      "text" : "But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.",
-      "plainText" : "But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "28207",
+      "text": "But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.",
+      "plainText": "But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "28208",
-      "text" : "But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by <span class='extra'>them that are<\/span> no people, <span class='extra'>and<\/span> by a foolish nation I will anger you.",
-      "plainText" : "But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "28208",
+      "text": "But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by <span class='extra'>them that are</span> no people, <span class='extra'>and</span> by a foolish nation I will anger you.",
+      "plainText": "But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "28209",
-      "text" : "But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.",
-      "plainText" : "But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "28209",
+      "text": "But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.",
+      "plainText": "But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "28210",
-      "text" : "But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.",
-      "plainText" : "But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people."
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "28210",
+      "text": "But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.",
+      "plainText": "But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people."
     }
   ]
 }
-

@@ -1,128 +1,117 @@
 {
   "book": {
-    "number" : "16",
-    "filenamePrefix" : "nehemiah",
-    "bookPage" : "nehemiah.html",
-    "title" : "Nehemiah",
-    "chapterCount" : "13",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "esther_1.html",
-    "nextTitle" : "Esther",
-    "prevBook" : "ezra_1.html",
-    "prevTitle" : "Ezra"
+    "number": "16",
+    "filenamePrefix": "nehemiah",
+    "bookPage": "nehemiah.html",
+    "title": "Nehemiah",
+    "chapterCount": "13",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "esther_1.html",
+    "nextTitle": "Esther",
+    "prevBook": "ezra_1.html",
+    "prevTitle": "Ezra",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "1",
-    "verseCount" : "11",
-    "nextChapter" : "nehemiah_2.html",
-    "nextTitle" : "Nehemiah 2",
-    "prevChapter" : "ezra_10.html",
-    "prevTitle" : "Ezra 10",
-    "filename" : "nehemiah_1.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "1",
+    "verseCount": "11",
+    "nextChapter": "nehemiah_2.html",
+    "nextTitle": "Nehemiah 2",
+    "prevChapter": "ezra_10.html",
+    "prevTitle": "Ezra 10",
+    "filename": "nehemiah_1.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "12298",
-      "text" : "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,",
-      "plainText" : "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "12298",
+      "text": "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,",
+      "plainText": "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "12299",
-      "text" : "That Hanani, one of my brethren, came, he and <span class='extra'>certain<\/span> men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.",
-      "plainText" : "That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "12299",
+      "text": "That Hanani, one of my brethren, came, he and <span class='extra'>certain</span> men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.",
+      "plainText": "That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "12300",
-      "text" : "And they said unto me, The remnant that are left of the captivity there in the province <span class='extra'>are<\/span> in great affliction and reproach: the wall of Jerusalem also <span class='extra'>is<\/span> broken down, and the gates thereof are burned with fire.",
-      "plainText" : "And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "12300",
+      "text": "And they said unto me, The remnant that are left of the captivity there in the province <span class='extra'>are</span> in great affliction and reproach: the wall of Jerusalem also <span class='extra'>is</span> broken down, and the gates thereof are burned with fire.",
+      "plainText": "And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "12301",
-      "text" : "And it came to pass, when I heard these words, that I sat down and wept, and mourned <span class='extra'>certain<\/span> days, and fasted, and prayed before the God of heaven,",
-      "plainText" : "And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "12301",
+      "text": "And it came to pass, when I heard these words, that I sat down and wept, and mourned <span class='extra'>certain</span> days, and fasted, and prayed before the God of heaven,",
+      "plainText": "And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "12302",
-      "text" : "And said, I beseech thee, O <span class='nog'>LORD<\/span> God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:",
-      "plainText" : "And said, I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "12302",
+      "text": "And said, I beseech thee, O <span class='nog'>LORD</span> God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:",
+      "plainText": "And said, I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "12303",
-      "text" : "Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father's house have sinned.",
-      "plainText" : "Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father's house have sinned."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "12303",
+      "text": "Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father's house have sinned.",
+      "plainText": "Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father's house have sinned."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "12304",
-      "text" : "We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses.",
-      "plainText" : "We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "12304",
+      "text": "We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses.",
+      "plainText": "We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "12305",
-      "text" : "Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, <span class='extra'>If<\/span> ye transgress, I will scatter you abroad among the nations:",
-      "plainText" : "Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, If ye transgress, I will scatter you abroad among the nations:"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "12305",
+      "text": "Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, <span class='extra'>If</span> ye transgress, I will scatter you abroad among the nations:",
+      "plainText": "Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, If ye transgress, I will scatter you abroad among the nations:"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "12306",
-      "text" : "But <span class='extra'>if<\/span> ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, <span class='extra'>yet<\/span> will I gather them from thence, and will bring them unto the place that I have chosen to set my name there.",
-      "plainText" : "But if ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, yet will I gather them from thence, and will bring them unto the place that I have chosen to set my name there."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "12306",
+      "text": "But <span class='extra'>if</span> ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, <span class='extra'>yet</span> will I gather them from thence, and will bring them unto the place that I have chosen to set my name there.",
+      "plainText": "But if ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, yet will I gather them from thence, and will bring them unto the place that I have chosen to set my name there."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "12307",
-      "text" : "Now these <span class='extra'>are<\/span> thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand.",
-      "plainText" : "Now these are thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "12307",
+      "text": "Now these <span class='extra'>are</span> thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand.",
+      "plainText": "Now these are thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "12308",
-      "text" : "O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer.",
-      "plainText" : "O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer."
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "12308",
+      "text": "O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer.",
+      "plainText": "O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer."
     }
   ]
 }
-
-

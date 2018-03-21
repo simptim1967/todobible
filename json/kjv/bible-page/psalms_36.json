@@ -1,144 +1,131 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "36",
-    "verseCount" : "12",
-    "nextChapter" : "psalms_37.html",
-    "nextTitle" : "Psalms 37",
-    "prevChapter" : "psalms_35.html",
-    "prevTitle" : "Psalms 35",
-    "filename" : "psalms_36.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "36",
+    "verseCount": "12",
+    "nextChapter": "psalms_37.html",
+    "nextTitle": "Psalms 37",
+    "prevChapter": "psalms_35.html",
+    "prevTitle": "Psalms 35",
+    "filename": "psalms_36.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "To the chief Musician, <span class='extra'>A Psalm<\/span> of David the servant of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "To the chief Musician, A Psalm of David the servant of the Lord."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "To the chief Musician, <span class='extra'>A Psalm</span> of David the servant of the <span class='nog'>LORD</span>.",
+      "plainText": "To the chief Musician, A Psalm of David the servant of the Lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14440",
-      "text" : "The transgression of the wicked saith within my heart, <span class='extra'>that there is<\/span> no fear of God before his eyes.",
-      "plainText" : "The transgression of the wicked saith within my heart, that there is no fear of God before his eyes."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14440",
+      "text": "The transgression of the wicked saith within my heart, <span class='extra'>that there is</span> no fear of God before his eyes.",
+      "plainText": "The transgression of the wicked saith within my heart, that there is no fear of God before his eyes."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14441",
-      "text" : "For he flattereth himself in his own eyes, until his iniquity be found to be hateful.",
-      "plainText" : "For he flattereth himself in his own eyes, until his iniquity be found to be hateful."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14441",
+      "text": "For he flattereth himself in his own eyes, until his iniquity be found to be hateful.",
+      "plainText": "For he flattereth himself in his own eyes, until his iniquity be found to be hateful."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14442",
-      "text" : "The words of his mouth <span class='extra'>are<\/span> iniquity and deceit: he hath left off to be wise, <span class='extra'>and<\/span> to do good.",
-      "plainText" : "The words of his mouth are iniquity and deceit: he hath left off to be wise, and to do good."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14442",
+      "text": "The words of his mouth <span class='extra'>are</span> iniquity and deceit: he hath left off to be wise, <span class='extra'>and</span> to do good.",
+      "plainText": "The words of his mouth are iniquity and deceit: he hath left off to be wise, and to do good."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14443",
-      "text" : "He deviseth mischief upon his bed; he setteth himself in a way <span class='extra'>that is<\/span> not good; he abhorreth not evil.",
-      "plainText" : "He deviseth mischief upon his bed; he setteth himself in a way that is not good; he abhorreth not evil."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14443",
+      "text": "He deviseth mischief upon his bed; he setteth himself in a way <span class='extra'>that is</span> not good; he abhorreth not evil.",
+      "plainText": "He deviseth mischief upon his bed; he setteth himself in a way that is not good; he abhorreth not evil."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14444",
-      "text" : "Thy mercy, O <span class='nog'>LORD<\/span>, <span class='extra'>is<\/span> in the heavens; <span class='extra'>and<\/span> thy faithfulness <span class='extra'>reacheth<\/span> unto the clouds.",
-      "plainText" : "Thy mercy, O LORD, is in the heavens; and thy faithfulness reacheth unto the clouds."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14444",
+      "text": "Thy mercy, O <span class='nog'>LORD</span>, <span class='extra'>is</span> in the heavens; <span class='extra'>and</span> thy faithfulness <span class='extra'>reacheth</span> unto the clouds.",
+      "plainText": "Thy mercy, O LORD, is in the heavens; and thy faithfulness reacheth unto the clouds."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14445",
-      "text" : "Thy righteousness <span class='extra'>is<\/span> like the great mountains; thy judgments <span class='extra'>are<\/span> a great deep: O <span class='nog'>LORD<\/span>, thou preservest man and beast.",
-      "plainText" : "Thy righteousness is like the great mountains; thy judgments are a great deep: O LORD, thou preservest man and beast."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14445",
+      "text": "Thy righteousness <span class='extra'>is</span> like the great mountains; thy judgments <span class='extra'>are</span> a great deep: O <span class='nog'>LORD</span>, thou preservest man and beast.",
+      "plainText": "Thy righteousness is like the great mountains; thy judgments are a great deep: O LORD, thou preservest man and beast."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14446",
-      "text" : "How excellent <span class='extra'>is<\/span> thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.",
-      "plainText" : "How excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14446",
+      "text": "How excellent <span class='extra'>is</span> thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.",
+      "plainText": "How excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14447",
-      "text" : "They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures.",
-      "plainText" : "They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14447",
+      "text": "They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures.",
+      "plainText": "They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14448",
-      "text" : "For with thee <span class='extra'>is<\/span> the fountain of life: in thy light shall we see light.",
-      "plainText" : "For with thee is the fountain of life: in thy light shall we see light."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14448",
+      "text": "For with thee <span class='extra'>is</span> the fountain of life: in thy light shall we see light.",
+      "plainText": "For with thee is the fountain of life: in thy light shall we see light."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "14449",
-      "text" : "O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart.",
-      "plainText" : "O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "14449",
+      "text": "O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart.",
+      "plainText": "O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "14450",
-      "text" : "Let not the foot of pride come against me, and let not the hand of the wicked remove me.",
-      "plainText" : "Let not the foot of pride come against me, and let not the hand of the wicked remove me."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "14450",
+      "text": "Let not the foot of pride come against me, and let not the hand of the wicked remove me.",
+      "plainText": "Let not the foot of pride come against me, and let not the hand of the wicked remove me."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "14451",
-      "text" : "There are the workers of iniquity fallen: they are cast down, and shall not be able to rise.",
-      "plainText" : "There are the workers of iniquity fallen: they are cast down, and shall not be able to rise."
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "14451",
+      "text": "There are the workers of iniquity fallen: they are cast down, and shall not be able to rise.",
+      "plainText": "There are the workers of iniquity fallen: they are cast down, and shall not be able to rise."
     }
   ]
 }
-
-

@@ -1,335 +1,301 @@
 {
   "book": {
-    "number" : "1",
-    "filenamePrefix" : "genesis",
-    "bookPage" : "genesis.html",
-    "title" : "Genesis",
-    "chapterCount" : "50",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "exodus_1.html",
-    "nextTitle" : "Exodus",
-    "prevBook" : "revelation_1.html",
-    "prevTitle" : "Revelation"
+    "number": "1",
+    "filenamePrefix": "genesis",
+    "bookPage": "genesis.html",
+    "title": "Genesis",
+    "chapterCount": "50",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "exodus_1.html",
+    "nextTitle": "Exodus",
+    "prevBook": "revelation_1.html",
+    "prevTitle": "Revelation",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "25",
-    "verseCount" : "34",
-    "nextChapter" : "genesis_26.html",
-    "nextTitle" : "Genesis 26",
-    "prevChapter" : "genesis_24.html",
-    "prevTitle" : "Genesis 24",
-    "filename" : "genesis_25.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "25",
+    "verseCount": "34",
+    "nextChapter": "genesis_26.html",
+    "nextTitle": "Genesis 26",
+    "prevChapter": "genesis_24.html",
+    "prevTitle": "Genesis 24",
+    "filename": "genesis_25.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "660",
-      "text" : "Then again Abraham took a wife, and her name <span class='extra'>was<\/span> Keturah.",
-      "plainText" : "Then again Abraham took a wife, and her name was Keturah."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "660",
+      "text": "Then again Abraham took a wife, and her name <span class='extra'>was</span> Keturah.",
+      "plainText": "Then again Abraham took a wife, and her name was Keturah."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "661",
-      "text" : "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.",
-      "plainText" : "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "661",
+      "text": "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.",
+      "plainText": "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "662",
-      "text" : "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim.",
-      "plainText" : "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "662",
+      "text": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim.",
+      "plainText": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "663",
-      "text" : "And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these <span class='extra'>were<\/span> the children of Keturah.",
-      "plainText" : "And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these were the children of Keturah."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "663",
+      "text": "And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these <span class='extra'>were</span> the children of Keturah.",
+      "plainText": "And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these were the children of Keturah."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "664",
-      "text" : "And Abraham gave all that he had unto Isaac.",
-      "plainText" : "And Abraham gave all that he had unto Isaac."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "664",
+      "text": "And Abraham gave all that he had unto Isaac.",
+      "plainText": "And Abraham gave all that he had unto Isaac."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "665",
-      "text" : "But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country.",
-      "plainText" : "But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "665",
+      "text": "But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country.",
+      "plainText": "But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "666",
-      "text" : "And these <span class='extra'>are<\/span> the days of the years of Abraham's life which he lived, an hundred threescore and fifteen years.",
-      "plainText" : "And these are the days of the years of Abraham's life which he lived, an hundred threescore and fifteen years."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "666",
+      "text": "And these <span class='extra'>are</span> the days of the years of Abraham's life which he lived, an hundred threescore and fifteen years.",
+      "plainText": "And these are the days of the years of Abraham's life which he lived, an hundred threescore and fifteen years."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "667",
-      "text" : "Then Abraham gave up the ghost, and died in a good old age, an old man, and full <span class='extra'>of years<\/span>; and was gathered to his people.",
-      "plainText" : "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "667",
+      "text": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full <span class='extra'>of years</span>; and was gathered to his people.",
+      "plainText": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "668",
-      "text" : "And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which <span class='extra'>is<\/span> before Mamre;",
-      "plainText" : "And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre;"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "668",
+      "text": "And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which <span class='extra'>is</span> before Mamre;",
+      "plainText": "And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre;"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "669",
-      "text" : "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife.",
-      "plainText" : "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "669",
+      "text": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife.",
+      "plainText": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "670",
-      "text" : "And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahai-roi.",
-      "plainText" : "And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahai-roi."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "670",
+      "text": "And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahai-roi.",
+      "plainText": "And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahai-roi."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "671",
-      "text" : "Now these <span class='extra'>are<\/span> the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's handmaid, bare unto Abraham:",
-      "plainText" : "Now these are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's handmaid, bare unto Abraham:"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "671",
+      "text": "Now these <span class='extra'>are</span> the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's handmaid, bare unto Abraham:",
+      "plainText": "Now these are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's handmaid, bare unto Abraham:"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "672",
-      "text" : "And these <span class='extra'>are<\/span> the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,",
-      "plainText" : "And these are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "672",
+      "text": "And these <span class='extra'>are</span> the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,",
+      "plainText": "And these are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "673",
-      "text" : "And Mishma, and Dumah, and Massa,",
-      "plainText" : "And Mishma, and Dumah, and Massa,"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "673",
+      "text": "And Mishma, and Dumah, and Massa,",
+      "plainText": "And Mishma, and Dumah, and Massa,"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "674",
-      "text" : "Hadar, and Tema, Jetur, Naphish, and Kedemah:",
-      "plainText" : "Hadar, and Tema, Jetur, Naphish, and Kedemah:"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "674",
+      "text": "Hadar, and Tema, Jetur, Naphish, and Kedemah:",
+      "plainText": "Hadar, and Tema, Jetur, Naphish, and Kedemah:"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "675",
-      "text" : "These <span class='extra'>are<\/span> the sons of Ishmael, and these <span class='extra'>are<\/span> their names, by their towns, and by their castles; twelve princes according to their nations.",
-      "plainText" : "These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "675",
+      "text": "These <span class='extra'>are</span> the sons of Ishmael, and these <span class='extra'>are</span> their names, by their towns, and by their castles; twelve princes according to their nations.",
+      "plainText": "These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "676",
-      "text" : "And these <span class='extra'>are<\/span> the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.",
-      "plainText" : "And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "676",
+      "text": "And these <span class='extra'>are</span> the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.",
+      "plainText": "And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "677",
-      "text" : "And they dwelt from Havilah unto Shur, that <span class='extra'>is<\/span> before Egypt, as thou goest toward Assyria: <span class='extra'>and<\/span> he died in the presence of all his brethren.",
-      "plainText" : "And they dwelt from Havilah unto Shur, that is before Egypt, as thou goest toward Assyria: and he died in the presence of all his brethren."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "677",
+      "text": "And they dwelt from Havilah unto Shur, that <span class='extra'>is</span> before Egypt, as thou goest toward Assyria: <span class='extra'>and</span> he died in the presence of all his brethren.",
+      "plainText": "And they dwelt from Havilah unto Shur, that is before Egypt, as thou goest toward Assyria: and he died in the presence of all his brethren."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "678",
-      "text" : "And these <span class='extra'>are<\/span> the generations of Isaac, Abraham's son: Abraham begat Isaac:",
-      "plainText" : "And these are the generations of Isaac, Abraham's son: Abraham begat Isaac:"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "678",
+      "text": "And these <span class='extra'>are</span> the generations of Isaac, Abraham's son: Abraham begat Isaac:",
+      "plainText": "And these are the generations of Isaac, Abraham's son: Abraham begat Isaac:"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "679",
-      "text" : "And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the Syrian.",
-      "plainText" : "And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the Syrian."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "679",
+      "text": "And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the Syrian.",
+      "plainText": "And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the Syrian."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "680",
-      "text" : "And Isaac intreated the <span class='nog'>LORD<\/span> for his wife, because she <span class='extra'>was<\/span> barren: and the <span class='nog'>LORD<\/span> was intreated of him, and Rebekah his wife conceived.",
-      "plainText" : "And Isaac intreated the LORD for his wife, because she was barren: and the LORD was intreated of him, and Rebekah his wife conceived."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "680",
+      "text": "And Isaac intreated the <span class='nog'>LORD</span> for his wife, because she <span class='extra'>was</span> barren: and the <span class='nog'>LORD</span> was intreated of him, and Rebekah his wife conceived.",
+      "plainText": "And Isaac intreated the LORD for his wife, because she was barren: and the LORD was intreated of him, and Rebekah his wife conceived."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "681",
-      "text" : "And the children struggled together within her; and she said, If <span class='extra'>it be<\/span> so, why <span class='extra'>am<\/span> I thus? And she went to enquire of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "681",
+      "text": "And the children struggled together within her; and she said, If <span class='extra'>it be</span> so, why <span class='extra'>am</span> I thus? And she went to enquire of the <span class='nog'>LORD</span>.",
+      "plainText": "And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "682",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto her, Two nations <span class='extra'>are<\/span> in thy womb, and two manner of people shall be separated from thy bowels; and <span class='extra'>the one<\/span> people shall be stronger than <span class='extra'>the other<\/span> people; and the elder shall serve the younger.",
-      "plainText" : "And the LORD said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "682",
+      "text": "And the <span class='nog'>LORD</span> said unto her, Two nations <span class='extra'>are</span> in thy womb, and two manner of people shall be separated from thy bowels; and <span class='extra'>the one</span> people shall be stronger than <span class='extra'>the other</span> people; and the elder shall serve the younger.",
+      "plainText": "And the LORD said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "683",
-      "text" : "And when her days to be delivered were fulfilled, behold, <span class='extra'>there were<\/span> twins in her womb.",
-      "plainText" : "And when her days to be delivered were fulfilled, behold, there were twins in her womb."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "683",
+      "text": "And when her days to be delivered were fulfilled, behold, <span class='extra'>there were</span> twins in her womb.",
+      "plainText": "And when her days to be delivered were fulfilled, behold, there were twins in her womb."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "684",
-      "text" : "And the first came out red, all over like an hairy garment; and they called his name Esau.",
-      "plainText" : "And the first came out red, all over like an hairy garment; and they called his name Esau."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "684",
+      "text": "And the first came out red, all over like an hairy garment; and they called his name Esau.",
+      "plainText": "And the first came out red, all over like an hairy garment; and they called his name Esau."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "685",
-      "text" : "And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob: and Isaac <span class='extra'>was<\/span> threescore years old when she bare them.",
-      "plainText" : "And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob: and Isaac was threescore years old when she bare them."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "685",
+      "text": "And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob: and Isaac <span class='extra'>was</span> threescore years old when she bare them.",
+      "plainText": "And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob: and Isaac was threescore years old when she bare them."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "686",
-      "text" : "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob <span class='extra'>was<\/span> a plain man, dwelling in tents.",
-      "plainText" : "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "686",
+      "text": "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob <span class='extra'>was</span> a plain man, dwelling in tents.",
+      "plainText": "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "687",
-      "text" : "And Isaac loved Esau, because he did eat of <span class='extra'>his<\/span> venison: but Rebekah loved Jacob.",
-      "plainText" : "And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "687",
+      "text": "And Isaac loved Esau, because he did eat of <span class='extra'>his</span> venison: but Rebekah loved Jacob.",
+      "plainText": "And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "688",
-      "text" : "And Jacob sod pottage: and Esau came from the field, and he <span class='extra'>was<\/span> faint:",
-      "plainText" : "And Jacob sod pottage: and Esau came from the field, and he was faint:"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "688",
+      "text": "And Jacob sod pottage: and Esau came from the field, and he <span class='extra'>was</span> faint:",
+      "plainText": "And Jacob sod pottage: and Esau came from the field, and he was faint:"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "689",
-      "text" : "And Esau said to Jacob, Feed me, I pray thee, with that same red <span class='extra'>pottage<\/span>; for I <span class='extra'>am<\/span> faint: therefore was his name called Edom.",
-      "plainText" : "And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "689",
+      "text": "And Esau said to Jacob, Feed me, I pray thee, with that same red <span class='extra'>pottage</span>; for I <span class='extra'>am</span> faint: therefore was his name called Edom.",
+      "plainText": "And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "690",
-      "text" : "And Jacob said, Sell me this day thy birthright.",
-      "plainText" : "And Jacob said, Sell me this day thy birthright."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "690",
+      "text": "And Jacob said, Sell me this day thy birthright.",
+      "plainText": "And Jacob said, Sell me this day thy birthright."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "691",
-      "text" : "And Esau said, Behold, I <span class='extra'>am<\/span> at the point to die: and what profit shall this birthright do to me?",
-      "plainText" : "And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "691",
+      "text": "And Esau said, Behold, I <span class='extra'>am</span> at the point to die: and what profit shall this birthright do to me?",
+      "plainText": "And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "692",
-      "text" : "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.",
-      "plainText" : "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "692",
+      "text": "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.",
+      "plainText": "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "693",
-      "text" : "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised <span class='extra'>his<\/span> birthright.",
-      "plainText" : "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright."
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "693",
+      "text": "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised <span class='extra'>his</span> birthright.",
+      "plainText": "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright."
     }
   ]
 }
-
-

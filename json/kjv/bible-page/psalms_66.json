@@ -1,215 +1,195 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "66",
-    "verseCount" : "20",
-    "nextChapter" : "psalms_67.html",
-    "nextTitle" : "Psalms 67",
-    "prevChapter" : "psalms_65.html",
-    "prevTitle" : "Psalms 65",
-    "filename" : "psalms_66.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "66",
+    "verseCount": "20",
+    "nextChapter": "psalms_67.html",
+    "nextTitle": "Psalms 67",
+    "prevChapter": "psalms_65.html",
+    "prevTitle": "Psalms 65",
+    "filename": "psalms_66.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "To the chief Musician, A Song <span class='extra'>or<\/span> Psalm.",
-      "plainText" : "To the chief Musician, A Song or Psalm."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "To the chief Musician, A Song <span class='extra'>or</span> Psalm.",
+      "plainText": "To the chief Musician, A Song or Psalm."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14875",
-      "text" : "Make a joyful noise unto God, all ye lands:",
-      "plainText" : "Make a joyful noise unto God, all ye lands:"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14875",
+      "text": "Make a joyful noise unto God, all ye lands:",
+      "plainText": "Make a joyful noise unto God, all ye lands:"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14876",
-      "text" : "Sing forth the honour of his name: make his praise glorious.",
-      "plainText" : "Sing forth the honour of his name: make his praise glorious."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14876",
+      "text": "Sing forth the honour of his name: make his praise glorious.",
+      "plainText": "Sing forth the honour of his name: make his praise glorious."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14877",
-      "text" : "Say unto God, How terrible <span class='extra'>art thou in<\/span> thy works! through the greatness of thy power shall thine enemies submit themselves unto thee.",
-      "plainText" : "Say unto God, How terrible art thou in thy works! through the greatness of thy power shall thine enemies submit themselves unto thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14877",
+      "text": "Say unto God, How terrible <span class='extra'>art thou in</span> thy works! through the greatness of thy power shall thine enemies submit themselves unto thee.",
+      "plainText": "Say unto God, How terrible art thou in thy works! through the greatness of thy power shall thine enemies submit themselves unto thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14878",
-      "text" : "All the earth shall worship thee, and shall sing unto thee; they shall sing <span class='extra'>to<\/span> thy name. Selah.",
-      "plainText" : "All the earth shall worship thee, and shall sing unto thee; they shall sing to thy name. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14878",
+      "text": "All the earth shall worship thee, and shall sing unto thee; they shall sing <span class='extra'>to</span> thy name. Selah.",
+      "plainText": "All the earth shall worship thee, and shall sing unto thee; they shall sing to thy name. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14879",
-      "text" : "Come and see the works of God: <span class='extra'>he is<\/span> terrible <span class='extra'>in his<\/span> doing toward the children of men.",
-      "plainText" : "Come and see the works of God: he is terrible in his doing toward the children of men."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14879",
+      "text": "Come and see the works of God: <span class='extra'>he is</span> terrible <span class='extra'>in his</span> doing toward the children of men.",
+      "plainText": "Come and see the works of God: he is terrible in his doing toward the children of men."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14880",
-      "text" : "He turned the sea into dry <span class='extra'>land<\/span>: they went through the flood on foot: there did we rejoice in him.",
-      "plainText" : "He turned the sea into dry land: they went through the flood on foot: there did we rejoice in him."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14880",
+      "text": "He turned the sea into dry <span class='extra'>land</span>: they went through the flood on foot: there did we rejoice in him.",
+      "plainText": "He turned the sea into dry land: they went through the flood on foot: there did we rejoice in him."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14881",
-      "text" : "He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah.",
-      "plainText" : "He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14881",
+      "text": "He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah.",
+      "plainText": "He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14882",
-      "text" : "O bless our God, ye people, and make the voice of his praise to be heard:",
-      "plainText" : "O bless our God, ye people, and make the voice of his praise to be heard:"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14882",
+      "text": "O bless our God, ye people, and make the voice of his praise to be heard:",
+      "plainText": "O bless our God, ye people, and make the voice of his praise to be heard:"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14883",
-      "text" : "Which holdeth our soul in life, and suffereth not our feet to be moved.",
-      "plainText" : "Which holdeth our soul in life, and suffereth not our feet to be moved."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14883",
+      "text": "Which holdeth our soul in life, and suffereth not our feet to be moved.",
+      "plainText": "Which holdeth our soul in life, and suffereth not our feet to be moved."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "14884",
-      "text" : "For thou, O God, hast proved us: thou hast tried us, as silver is tried.",
-      "plainText" : "For thou, O God, hast proved us: thou hast tried us, as silver is tried."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "14884",
+      "text": "For thou, O God, hast proved us: thou hast tried us, as silver is tried.",
+      "plainText": "For thou, O God, hast proved us: thou hast tried us, as silver is tried."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "14885",
-      "text" : "Thou broughtest us into the net; thou laidst affliction upon our loins.",
-      "plainText" : "Thou broughtest us into the net; thou laidst affliction upon our loins."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "14885",
+      "text": "Thou broughtest us into the net; thou laidst affliction upon our loins.",
+      "plainText": "Thou broughtest us into the net; thou laidst affliction upon our loins."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "14886",
-      "text" : "Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy <span class='extra'>place<\/span>.",
-      "plainText" : "Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy place."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "14886",
+      "text": "Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy <span class='extra'>place</span>.",
+      "plainText": "Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy place."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "14887",
-      "text" : "I will go into thy house with burnt offerings: I will pay thee my vows,",
-      "plainText" : "I will go into thy house with burnt offerings: I will pay thee my vows,"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "14887",
+      "text": "I will go into thy house with burnt offerings: I will pay thee my vows,",
+      "plainText": "I will go into thy house with burnt offerings: I will pay thee my vows,"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "14888",
-      "text" : "Which my lips have uttered, and my mouth hath spoken, when I was in trouble.",
-      "plainText" : "Which my lips have uttered, and my mouth hath spoken, when I was in trouble."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "14888",
+      "text": "Which my lips have uttered, and my mouth hath spoken, when I was in trouble.",
+      "plainText": "Which my lips have uttered, and my mouth hath spoken, when I was in trouble."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "14889",
-      "text" : "I will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah.",
-      "plainText" : "I will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "14889",
+      "text": "I will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah.",
+      "plainText": "I will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "14890",
-      "text" : "Come <span class='extra'>and<\/span> hear, all ye that fear God, and I will declare what he hath done for my soul.",
-      "plainText" : "Come and hear, all ye that fear God, and I will declare what he hath done for my soul."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "14890",
+      "text": "Come <span class='extra'>and</span> hear, all ye that fear God, and I will declare what he hath done for my soul.",
+      "plainText": "Come and hear, all ye that fear God, and I will declare what he hath done for my soul."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "14891",
-      "text" : "I cried unto him with my mouth, and he was extolled with my tongue.",
-      "plainText" : "I cried unto him with my mouth, and he was extolled with my tongue."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "14891",
+      "text": "I cried unto him with my mouth, and he was extolled with my tongue.",
+      "plainText": "I cried unto him with my mouth, and he was extolled with my tongue."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "14892",
-      "text" : "If I regard iniquity in my heart, the Lord will not hear <span class='extra'>me<\/span>:",
-      "plainText" : "If I regard iniquity in my heart, the Lord will not hear me:"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "14892",
+      "text": "If I regard iniquity in my heart, the Lord will not hear <span class='extra'>me</span>:",
+      "plainText": "If I regard iniquity in my heart, the Lord will not hear me:"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "14893",
-      "text" : "<span class='extra'>But<\/span> verily God hath heard <span class='extra'>me<\/span>; he hath attended to the voice of my prayer.",
-      "plainText" : "But verily God hath heard me; he hath attended to the voice of my prayer."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "14893",
+      "text": "<span class='extra'>But</span> verily God hath heard <span class='extra'>me</span>; he hath attended to the voice of my prayer.",
+      "plainText": "But verily God hath heard me; he hath attended to the voice of my prayer."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "14894",
-      "text" : "Blessed <span class='extra'>be<\/span> God, which hath not turned away my prayer, nor his mercy from me.",
-      "plainText" : "Blessed be God, which hath not turned away my prayer, nor his mercy from me."
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "14894",
+      "text": "Blessed <span class='extra'>be</span> God, which hath not turned away my prayer, nor his mercy from me.",
+      "plainText": "Blessed be God, which hath not turned away my prayer, nor his mercy from me."
     }
   ]
 }
-

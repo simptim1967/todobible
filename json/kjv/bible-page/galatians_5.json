@@ -1,262 +1,237 @@
 {
   "book": {
-    "number" : "48",
-    "filenamePrefix" : "galatians",
-    "bookPage" : "galatians.html",
-    "title" : "Galatians",
-    "chapterCount" : "6",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "ephesians_1.html",
-    "nextTitle" : "Ephesians",
-    "prevBook" : "2corinthians_1.html",
-    "prevTitle" : "2 Corinthians"
+    "number": "48",
+    "filenamePrefix": "galatians",
+    "bookPage": "galatians.html",
+    "title": "Galatians",
+    "chapterCount": "6",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "ephesians_1.html",
+    "nextTitle": "Ephesians",
+    "prevBook": "2corinthians_1.html",
+    "prevTitle": "2 Corinthians",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "5",
-    "verseCount" : "26",
-    "nextChapter" : "galatians_6.html",
-    "nextTitle" : "Galatians 6",
-    "prevChapter" : "galatians_4.html",
-    "prevTitle" : "Galatians 4",
-    "filename" : "galatians_5.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "5",
+    "verseCount": "26",
+    "nextChapter": "galatians_6.html",
+    "nextTitle": "Galatians 6",
+    "prevChapter": "galatians_4.html",
+    "prevTitle": "Galatians 4",
+    "filename": "galatians_5.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "29164",
-      "text" : "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
-      "plainText" : "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "29164",
+      "text": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+      "plainText": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "29165",
-      "text" : "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.",
-      "plainText" : "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "29165",
+      "text": "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.",
+      "plainText": "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "29166",
-      "text" : "For I testify again to every man that is circumcised, that he is a debtor to do the whole law.",
-      "plainText" : "For I testify again to every man that is circumcised, that he is a debtor to do the whole law."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "29166",
+      "text": "For I testify again to every man that is circumcised, that he is a debtor to do the whole law.",
+      "plainText": "For I testify again to every man that is circumcised, that he is a debtor to do the whole law."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "29167",
-      "text" : "Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.",
-      "plainText" : "Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "29167",
+      "text": "Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.",
+      "plainText": "Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "29168",
-      "text" : "For we through the Spirit wait for the hope of righteousness by faith.",
-      "plainText" : "For we through the Spirit wait for the hope of righteousness by faith."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "29168",
+      "text": "For we through the Spirit wait for the hope of righteousness by faith.",
+      "plainText": "For we through the Spirit wait for the hope of righteousness by faith."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "29169",
-      "text" : "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.",
-      "plainText" : "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "29169",
+      "text": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.",
+      "plainText": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "29170",
-      "text" : "Ye did run well; who did hinder you that ye should not obey the truth?",
-      "plainText" : "Ye did run well; who did hinder you that ye should not obey the truth?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "29170",
+      "text": "Ye did run well; who did hinder you that ye should not obey the truth?",
+      "plainText": "Ye did run well; who did hinder you that ye should not obey the truth?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "29171",
-      "text" : "This persuasion <span class='extra'>cometh<\/span> not of him that calleth you.",
-      "plainText" : "This persuasion cometh not of him that calleth you."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "29171",
+      "text": "This persuasion <span class='extra'>cometh</span> not of him that calleth you.",
+      "plainText": "This persuasion cometh not of him that calleth you."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "29172",
-      "text" : "A little leaven leaveneth the whole lump.",
-      "plainText" : "A little leaven leaveneth the whole lump."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "29172",
+      "text": "A little leaven leaveneth the whole lump.",
+      "plainText": "A little leaven leaveneth the whole lump."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "29173",
-      "text" : "I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.",
-      "plainText" : "I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "29173",
+      "text": "I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.",
+      "plainText": "I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "29174",
-      "text" : "And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.",
-      "plainText" : "And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "29174",
+      "text": "And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.",
+      "plainText": "And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "29175",
-      "text" : "I would they were even cut off which trouble you.",
-      "plainText" : "I would they were even cut off which trouble you."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "29175",
+      "text": "I would they were even cut off which trouble you.",
+      "plainText": "I would they were even cut off which trouble you."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "29176",
-      "text" : "For, brethren, ye have been called unto liberty; only <span class='extra'>use<\/span> not liberty for an occasion to the flesh, but by love serve one another.",
-      "plainText" : "For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "29176",
+      "text": "For, brethren, ye have been called unto liberty; only <span class='extra'>use</span> not liberty for an occasion to the flesh, but by love serve one another.",
+      "plainText": "For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "29177",
-      "text" : "For all the law is fulfilled in one word, <span class='extra'>even<\/span> in this; Thou shalt love thy neighbour as thyself.",
-      "plainText" : "For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "29177",
+      "text": "For all the law is fulfilled in one word, <span class='extra'>even</span> in this; Thou shalt love thy neighbour as thyself.",
+      "plainText": "For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "29178",
-      "text" : "But if ye bite and devour one another, take heed that ye be not consumed one of another.",
-      "plainText" : "But if ye bite and devour one another, take heed that ye be not consumed one of another."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "29178",
+      "text": "But if ye bite and devour one another, take heed that ye be not consumed one of another.",
+      "plainText": "But if ye bite and devour one another, take heed that ye be not consumed one of another."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "29179",
-      "text" : "<span class='extra'>This<\/span> I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.",
-      "plainText" : "This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "29179",
+      "text": "<span class='extra'>This</span> I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.",
+      "plainText": "This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "29180",
-      "text" : "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.",
-      "plainText" : "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "29180",
+      "text": "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.",
+      "plainText": "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "29181",
-      "text" : "But if ye be led of the Spirit, ye are not under the law.",
-      "plainText" : "But if ye be led of the Spirit, ye are not under the law."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "29181",
+      "text": "But if ye be led of the Spirit, ye are not under the law.",
+      "plainText": "But if ye be led of the Spirit, ye are not under the law."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "29182",
-      "text" : "Now the works of the flesh are manifest, which are <span class='extra'>these<\/span>; Adultery, fornication, uncleanness, lasciviousness,",
-      "plainText" : "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "29182",
+      "text": "Now the works of the flesh are manifest, which are <span class='extra'>these</span>; Adultery, fornication, uncleanness, lasciviousness,",
+      "plainText": "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "29183",
-      "text" : "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,",
-      "plainText" : "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "29183",
+      "text": "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,",
+      "plainText": "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "29184",
-      "text" : "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told <span class='extra'>you<\/span> in time past, that they which do such things shall not inherit the kingdom of God.",
-      "plainText" : "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "29184",
+      "text": "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told <span class='extra'>you</span> in time past, that they which do such things shall not inherit the kingdom of God.",
+      "plainText": "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "29185",
-      "text" : "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
-      "plainText" : "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "29185",
+      "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
+      "plainText": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "29186",
-      "text" : "Meekness, temperance: against such there is no law.",
-      "plainText" : "Meekness, temperance: against such there is no law."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "29186",
+      "text": "Meekness, temperance: against such there is no law.",
+      "plainText": "Meekness, temperance: against such there is no law."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "29187",
-      "text" : "And they that are Christ's have crucified the flesh with the affections and lusts.",
-      "plainText" : "And they that are Christ's have crucified the flesh with the affections and lusts."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "29187",
+      "text": "And they that are Christ's have crucified the flesh with the affections and lusts.",
+      "plainText": "And they that are Christ's have crucified the flesh with the affections and lusts."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "29188",
-      "text" : "If we live in the Spirit, let us also walk in the Spirit.",
-      "plainText" : "If we live in the Spirit, let us also walk in the Spirit."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "29188",
+      "text": "If we live in the Spirit, let us also walk in the Spirit.",
+      "plainText": "If we live in the Spirit, let us also walk in the Spirit."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "29189",
-      "text" : "Let us not be desirous of vain glory, provoking one another, envying one another.",
-      "plainText" : "Let us not be desirous of vain glory, provoking one another, envying one another."
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "29189",
+      "text": "Let us not be desirous of vain glory, provoking one another, envying one another.",
+      "plainText": "Let us not be desirous of vain glory, provoking one another, envying one another."
     }
   ]
 }
-

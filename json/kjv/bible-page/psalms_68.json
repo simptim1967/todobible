@@ -1,352 +1,315 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "68",
-    "verseCount" : "35",
-    "nextChapter" : "psalms_69.html",
-    "nextTitle" : "Psalms 69",
-    "prevChapter" : "psalms_67.html",
-    "prevTitle" : "Psalms 67",
-    "filename" : "psalms_68.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "68",
+    "verseCount": "35",
+    "nextChapter": "psalms_69.html",
+    "nextTitle": "Psalms 69",
+    "prevChapter": "psalms_67.html",
+    "prevTitle": "Psalms 67",
+    "filename": "psalms_68.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "To the chief Musician, A Psalm <span class='extra'>or<\/span> Song of David.",
-      "plainText" : "To the chief Musician, A Psalm or Song of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "To the chief Musician, A Psalm <span class='extra'>or</span> Song of David.",
+      "plainText": "To the chief Musician, A Psalm or Song of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14902",
-      "text" : "Let God arise, let his enemies be scattered: let them also that hate him flee before him.",
-      "plainText" : "Let God arise, let his enemies be scattered: let them also that hate him flee before him."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14902",
+      "text": "Let God arise, let his enemies be scattered: let them also that hate him flee before him.",
+      "plainText": "Let God arise, let his enemies be scattered: let them also that hate him flee before him."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14903",
-      "text" : "As smoke is driven away, <span class='extra'>so<\/span> drive <span class='extra'>them<\/span> away: as wax melteth before the fire, <span class='extra'>so<\/span> let the wicked perish at the presence of God.",
-      "plainText" : "As smoke is driven away, so drive them away: as wax melteth before the fire, so let the wicked perish at the presence of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14903",
+      "text": "As smoke is driven away, <span class='extra'>so</span> drive <span class='extra'>them</span> away: as wax melteth before the fire, <span class='extra'>so</span> let the wicked perish at the presence of God.",
+      "plainText": "As smoke is driven away, so drive them away: as wax melteth before the fire, so let the wicked perish at the presence of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14904",
-      "text" : "But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.",
-      "plainText" : "But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14904",
+      "text": "But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.",
+      "plainText": "But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14905",
-      "text" : "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name JAH, and rejoice before him.",
-      "plainText" : "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name JAH, and rejoice before him."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14905",
+      "text": "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name JAH, and rejoice before him.",
+      "plainText": "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name JAH, and rejoice before him."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14906",
-      "text" : "A father of the fatherless, and a judge of the widows, <span class='extra'>is<\/span> God in his holy habitation.",
-      "plainText" : "A father of the fatherless, and a judge of the widows, is God in his holy habitation."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14906",
+      "text": "A father of the fatherless, and a judge of the widows, <span class='extra'>is</span> God in his holy habitation.",
+      "plainText": "A father of the fatherless, and a judge of the widows, is God in his holy habitation."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14907",
-      "text" : "God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry <span class='extra'>land<\/span>.",
-      "plainText" : "God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry land."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14907",
+      "text": "God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry <span class='extra'>land</span>.",
+      "plainText": "God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry land."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14908",
-      "text" : "O God, when thou wentest forth before thy people, when thou didst march through the wilderness; Selah:",
-      "plainText" : "O God, when thou wentest forth before thy people, when thou didst march through the wilderness; Selah:"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14908",
+      "text": "O God, when thou wentest forth before thy people, when thou didst march through the wilderness; Selah:",
+      "plainText": "O God, when thou wentest forth before thy people, when thou didst march through the wilderness; Selah:"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14909",
-      "text" : "The earth shook, the heavens also dropped at the presence of God: <span class='extra'>even<\/span> Sinai itself <span class='extra'>was moved<\/span> at the presence of God, the God of Israel.",
-      "plainText" : "The earth shook, the heavens also dropped at the presence of God: even Sinai itself was moved at the presence of God, the God of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14909",
+      "text": "The earth shook, the heavens also dropped at the presence of God: <span class='extra'>even</span> Sinai itself <span class='extra'>was moved</span> at the presence of God, the God of Israel.",
+      "plainText": "The earth shook, the heavens also dropped at the presence of God: even Sinai itself was moved at the presence of God, the God of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14910",
-      "text" : "Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary.",
-      "plainText" : "Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14910",
+      "text": "Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary.",
+      "plainText": "Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "14911",
-      "text" : "Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor.",
-      "plainText" : "Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "14911",
+      "text": "Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor.",
+      "plainText": "Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "14912",
-      "text" : "The Lord gave the word: great <span class='extra'>was<\/span> the company of those that published <span class='extra'>it<\/span>.",
-      "plainText" : "The Lord gave the word: great was the company of those that published it."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "14912",
+      "text": "The Lord gave the word: great <span class='extra'>was</span> the company of those that published <span class='extra'>it</span>.",
+      "plainText": "The Lord gave the word: great was the company of those that published it."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "14913",
-      "text" : "Kings of armies did flee apace: and she that tarried at home divided the spoil.",
-      "plainText" : "Kings of armies did flee apace: and she that tarried at home divided the spoil."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "14913",
+      "text": "Kings of armies did flee apace: and she that tarried at home divided the spoil.",
+      "plainText": "Kings of armies did flee apace: and she that tarried at home divided the spoil."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "14914",
-      "text" : "Though ye have lien among the pots, <span class='extra'>yet shall ye be as<\/span> the wings of a dove covered with silver, and her feathers with yellow gold.",
-      "plainText" : "Though ye have lien among the pots, yet shall ye be as the wings of a dove covered with silver, and her feathers with yellow gold."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "14914",
+      "text": "Though ye have lien among the pots, <span class='extra'>yet shall ye be as</span> the wings of a dove covered with silver, and her feathers with yellow gold.",
+      "plainText": "Though ye have lien among the pots, yet shall ye be as the wings of a dove covered with silver, and her feathers with yellow gold."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "14915",
-      "text" : "When the Almighty scattered kings in it, it was <span class='extra'>white<\/span> as snow in Salmon.",
-      "plainText" : "When the Almighty scattered kings in it, it was white as snow in Salmon."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "14915",
+      "text": "When the Almighty scattered kings in it, it was <span class='extra'>white</span> as snow in Salmon.",
+      "plainText": "When the Almighty scattered kings in it, it was white as snow in Salmon."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "14916",
-      "text" : "The hill of God <span class='extra'>is as<\/span> the hill of Bashan; an high hill <span class='extra'>as<\/span> the hill of Bashan.",
-      "plainText" : "The hill of God is as the hill of Bashan; an high hill as the hill of Bashan."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "14916",
+      "text": "The hill of God <span class='extra'>is as</span> the hill of Bashan; an high hill <span class='extra'>as</span> the hill of Bashan.",
+      "plainText": "The hill of God is as the hill of Bashan; an high hill as the hill of Bashan."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "14917",
-      "text" : "Why leap ye, ye high hills? <span class='extra'>this is<\/span> the hill <span class='extra'>which<\/span> God desireth to dwell in; yea, the <span class='nog'>LORD<\/span> will dwell <span class='extra'>in it<\/span> for ever.",
-      "plainText" : "Why leap ye, ye high hills? this is the hill which God desireth to dwell in; yea, the LORD will dwell in it for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "14917",
+      "text": "Why leap ye, ye high hills? <span class='extra'>this is</span> the hill <span class='extra'>which</span> God desireth to dwell in; yea, the <span class='nog'>LORD</span> will dwell <span class='extra'>in it</span> for ever.",
+      "plainText": "Why leap ye, ye high hills? this is the hill which God desireth to dwell in; yea, the LORD will dwell in it for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "14918",
-      "text" : "The chariots of God <span class='extra'>are<\/span> twenty thousand, <span class='extra'>even<\/span> thousands of angels: the Lord <span class='extra'>is<\/span> among them, <span class='extra'>as in<\/span> Sinai, in the holy <span class='extra'>place<\/span>.",
-      "plainText" : "The chariots of God are twenty thousand, even thousands of angels: the Lord is among them, as in Sinai, in the holy place."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "14918",
+      "text": "The chariots of God <span class='extra'>are</span> twenty thousand, <span class='extra'>even</span> thousands of angels: the Lord <span class='extra'>is</span> among them, <span class='extra'>as in</span> Sinai, in the holy <span class='extra'>place</span>.",
+      "plainText": "The chariots of God are twenty thousand, even thousands of angels: the Lord is among them, as in Sinai, in the holy place."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "14919",
-      "text" : "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, <span class='extra'>for<\/span> the rebellious also, that the <span class='nog'>LORD<\/span> God might dwell <span class='extra'>among them<\/span>.",
-      "plainText" : "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, for the rebellious also, that the LORD God might dwell among them."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "14919",
+      "text": "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, <span class='extra'>for</span> the rebellious also, that the <span class='nog'>LORD</span> God might dwell <span class='extra'>among them</span>.",
+      "plainText": "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, for the rebellious also, that the LORD God might dwell among them."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "14920",
-      "text" : "Blessed <span class='extra'>be<\/span> the Lord, <span class='extra'>who<\/span> daily loadeth us <span class='extra'>with benefits, even<\/span> the God of our salvation. Selah.",
-      "plainText" : "Blessed be the Lord, who daily loadeth us with benefits, even the God of our salvation. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "14920",
+      "text": "Blessed <span class='extra'>be</span> the Lord, <span class='extra'>who</span> daily loadeth us <span class='extra'>with benefits, even</span> the God of our salvation. Selah.",
+      "plainText": "Blessed be the Lord, who daily loadeth us with benefits, even the God of our salvation. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "14921",
-      "text" : "<span class='extra'>He that is<\/span> our God <span class='extra'>is<\/span> the God of salvation; and unto <span class='nog'>GOD<\/span> the Lord <span class='extra'>belong<\/span> the issues from death.",
-      "plainText" : "He that is our God is the God of salvation; and unto GOD the Lord belong the issues from death."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "14921",
+      "text": "<span class='extra'>He that is</span> our God <span class='extra'>is</span> the God of salvation; and unto <span class='nog'>GOD</span> the Lord <span class='extra'>belong</span> the issues from death.",
+      "plainText": "He that is our God is the God of salvation; and unto GOD the Lord belong the issues from death."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "14922",
-      "text" : "But God shall wound the head of his enemies, <span class='extra'>and<\/span> the hairy scalp of such an one as goeth on still in his trespasses.",
-      "plainText" : "But God shall wound the head of his enemies, and the hairy scalp of such an one as goeth on still in his trespasses."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "14922",
+      "text": "But God shall wound the head of his enemies, <span class='extra'>and</span> the hairy scalp of such an one as goeth on still in his trespasses.",
+      "plainText": "But God shall wound the head of his enemies, and the hairy scalp of such an one as goeth on still in his trespasses."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "14923",
-      "text" : "The Lord said, I will bring again from Bashan, I will bring <span class='extra'>my people<\/span> again from the depths of the sea:",
-      "plainText" : "The Lord said, I will bring again from Bashan, I will bring my people again from the depths of the sea:"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "14923",
+      "text": "The Lord said, I will bring again from Bashan, I will bring <span class='extra'>my people</span> again from the depths of the sea:",
+      "plainText": "The Lord said, I will bring again from Bashan, I will bring my people again from the depths of the sea:"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "14924",
-      "text" : "That thy foot may be dipped in the blood of <span class='extra'>thine<\/span> enemies, <span class='extra'>and<\/span> the tongue of thy dogs in the same.",
-      "plainText" : "That thy foot may be dipped in the blood of thine enemies, and the tongue of thy dogs in the same."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "14924",
+      "text": "That thy foot may be dipped in the blood of <span class='extra'>thine</span> enemies, <span class='extra'>and</span> the tongue of thy dogs in the same.",
+      "plainText": "That thy foot may be dipped in the blood of thine enemies, and the tongue of thy dogs in the same."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "14925",
-      "text" : "They have seen thy goings, O God; <span class='extra'>even<\/span> the goings of my God, my King, in the sanctuary.",
-      "plainText" : "They have seen thy goings, O God; even the goings of my God, my King, in the sanctuary."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "14925",
+      "text": "They have seen thy goings, O God; <span class='extra'>even</span> the goings of my God, my King, in the sanctuary.",
+      "plainText": "They have seen thy goings, O God; even the goings of my God, my King, in the sanctuary."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "14926",
-      "text" : "The singers went before, the players on instruments <span class='extra'>followed<\/span> after; among <span class='extra'>them were<\/span> the damsels playing with timbrels.",
-      "plainText" : "The singers went before, the players on instruments followed after; among them were the damsels playing with timbrels."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "14926",
+      "text": "The singers went before, the players on instruments <span class='extra'>followed</span> after; among <span class='extra'>them were</span> the damsels playing with timbrels.",
+      "plainText": "The singers went before, the players on instruments followed after; among them were the damsels playing with timbrels."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "14927",
-      "text" : "Bless ye God in the congregations, <span class='extra'>even<\/span> the Lord, from the fountain of Israel.",
-      "plainText" : "Bless ye God in the congregations, even the Lord, from the fountain of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "14927",
+      "text": "Bless ye God in the congregations, <span class='extra'>even</span> the Lord, from the fountain of Israel.",
+      "plainText": "Bless ye God in the congregations, even the Lord, from the fountain of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "14928",
-      "text" : "There <span class='extra'>is<\/span> little Benjamin <span class='extra'>with<\/span> their ruler, the princes of Judah <span class='extra'>and<\/span> their council, the princes of Zebulun, <span class='extra'>and<\/span> the princes of Naphtali.",
-      "plainText" : "There is little Benjamin with their ruler, the princes of Judah and their council, the princes of Zebulun, and the princes of Naphtali."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "14928",
+      "text": "There <span class='extra'>is</span> little Benjamin <span class='extra'>with</span> their ruler, the princes of Judah <span class='extra'>and</span> their council, the princes of Zebulun, <span class='extra'>and</span> the princes of Naphtali.",
+      "plainText": "There is little Benjamin with their ruler, the princes of Judah and their council, the princes of Zebulun, and the princes of Naphtali."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "14929",
-      "text" : "Thy God hath commanded thy strength: strengthen, O God, that which thou hast wrought for us.",
-      "plainText" : "Thy God hath commanded thy strength: strengthen, O God, that which thou hast wrought for us."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "14929",
+      "text": "Thy God hath commanded thy strength: strengthen, O God, that which thou hast wrought for us.",
+      "plainText": "Thy God hath commanded thy strength: strengthen, O God, that which thou hast wrought for us."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "14930",
-      "text" : "Because of thy temple at Jerusalem shall kings bring presents unto thee.",
-      "plainText" : "Because of thy temple at Jerusalem shall kings bring presents unto thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "14930",
+      "text": "Because of thy temple at Jerusalem shall kings bring presents unto thee.",
+      "plainText": "Because of thy temple at Jerusalem shall kings bring presents unto thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "14931",
-      "text" : "Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, <span class='extra'>till every one<\/span> submit himself with pieces of silver: scatter thou the people <span class='extra'>that<\/span> delight in war.",
-      "plainText" : "Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, till every one submit himself with pieces of silver: scatter thou the people that delight in war."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "14931",
+      "text": "Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, <span class='extra'>till every one</span> submit himself with pieces of silver: scatter thou the people <span class='extra'>that</span> delight in war.",
+      "plainText": "Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, till every one submit himself with pieces of silver: scatter thou the people that delight in war."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "14932",
-      "text" : "Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God.",
-      "plainText" : "Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "14932",
+      "text": "Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God.",
+      "plainText": "Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "14933",
-      "text" : "Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; Selah:",
-      "plainText" : "Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; Selah:"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "14933",
+      "text": "Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; Selah:",
+      "plainText": "Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; Selah:"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "14934",
-      "text" : "To him that rideth upon the heavens of heavens, <span class='extra'>which were<\/span> of old; lo, he doth send out his voice, <span class='extra'>and that<\/span> a mighty voice.",
-      "plainText" : "To him that rideth upon the heavens of heavens, which were of old; lo, he doth send out his voice, and that a mighty voice."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "14934",
+      "text": "To him that rideth upon the heavens of heavens, <span class='extra'>which were</span> of old; lo, he doth send out his voice, <span class='extra'>and that</span> a mighty voice.",
+      "plainText": "To him that rideth upon the heavens of heavens, which were of old; lo, he doth send out his voice, and that a mighty voice."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "14935",
-      "text" : "Ascribe ye strength unto God: his excellency <span class='extra'>is<\/span> over Israel, and his strength <span class='extra'>is<\/span> in the clouds.",
-      "plainText" : "Ascribe ye strength unto God: his excellency is over Israel, and his strength is in the clouds."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "14935",
+      "text": "Ascribe ye strength unto God: his excellency <span class='extra'>is</span> over Israel, and his strength <span class='extra'>is</span> in the clouds.",
+      "plainText": "Ascribe ye strength unto God: his excellency is over Israel, and his strength is in the clouds."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "14936",
-      "text" : "O God, <span class='extra'>thou art<\/span> terrible out of thy holy places: the God of Israel <span class='extra'>is<\/span> he that giveth strength and power unto <span class='extra'>his<\/span> people. Blessed <span class='extra'>be<\/span> God.",
-      "plainText" : "O God, thou art terrible out of thy holy places: the God of Israel is he that giveth strength and power unto his people. Blessed be God."
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "14936",
+      "text": "O God, <span class='extra'>thou art</span> terrible out of thy holy places: the God of Israel <span class='extra'>is</span> he that giveth strength and power unto <span class='extra'>his</span> people. Blessed <span class='extra'>be</span> God.",
+      "plainText": "O God, thou art terrible out of thy holy places: the God of Israel is he that giveth strength and power unto his people. Blessed be God."
     }
   ]
 }
-
-
-

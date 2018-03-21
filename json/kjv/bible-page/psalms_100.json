@@ -1,81 +1,75 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "100",
-    "verseCount" : "5",
-    "nextChapter" : "psalms_101.html",
-    "nextTitle" : "Psalms 101",
-    "prevChapter" : "psalms_99.html",
-    "prevTitle" : "Psalms 99",
-    "filename" : "psalms_100.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "100",
+    "verseCount": "5",
+    "nextChapter": "psalms_101.html",
+    "nextTitle": "Psalms 101",
+    "prevChapter": "psalms_99.html",
+    "prevTitle": "Psalms 99",
+    "filename": "psalms_100.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Psalm of praise.",
-      "plainText" : "A Psalm of praise."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Psalm of praise.",
+      "plainText": "A Psalm of praise."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "15510",
-      "text" : "Make a joyful noise unto the <span class='nog'>LORD<\/span>, all ye lands.",
-      "plainText" : "Make a joyful noise unto the LORD, all ye lands."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "15510",
+      "text": "Make a joyful noise unto the <span class='nog'>LORD</span>, all ye lands.",
+      "plainText": "Make a joyful noise unto the LORD, all ye lands."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "15511",
-      "text" : "Serve the <span class='nog'>LORD<\/span> with gladness: come before his presence with singing.",
-      "plainText" : "Serve the LORD with gladness: come before his presence with singing."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "15511",
+      "text": "Serve the <span class='nog'>LORD</span> with gladness: come before his presence with singing.",
+      "plainText": "Serve the LORD with gladness: come before his presence with singing."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "15512",
-      "text" : "Know ye that the <span class='nog'>LORD<\/span> he <span class='extra'>is<\/span> God: <span class='extra'>it is<\/span> he <span class='extra'>that<\/span> hath made us, and not we ourselves; <span class='extra'>we are<\/span> his people, and the sheep of his pasture.",
-      "plainText" : "Know ye that the LORD he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "15512",
+      "text": "Know ye that the <span class='nog'>LORD</span> he <span class='extra'>is</span> God: <span class='extra'>it is</span> he <span class='extra'>that</span> hath made us, and not we ourselves; <span class='extra'>we are</span> his people, and the sheep of his pasture.",
+      "plainText": "Know ye that the LORD he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "15513",
-      "text" : "Enter into his gates with thanksgiving, <span class='extra'>and<\/span> into his courts with praise: be thankful unto him, <span class='extra'>and<\/span> bless his name.",
-      "plainText" : "Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "15513",
+      "text": "Enter into his gates with thanksgiving, <span class='extra'>and</span> into his courts with praise: be thankful unto him, <span class='extra'>and</span> bless his name.",
+      "plainText": "Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "15514",
-      "text" : "For the <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> good; his mercy <span class='extra'>is<\/span> everlasting; and his truth <span class='extra'>endureth<\/span> to all generations.",
-      "plainText" : "For the LORD is good; his mercy is everlasting; and his truth endureth to all generations."
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "15514",
+      "text": "For the <span class='nog'>LORD</span> <span class='extra'>is</span> good; his mercy <span class='extra'>is</span> everlasting; and his truth <span class='extra'>endureth</span> to all generations.",
+      "plainText": "For the LORD is good; his mercy is everlasting; and his truth endureth to all generations."
     }
   ]
 }
-
-

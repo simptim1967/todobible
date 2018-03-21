@@ -1,83 +1,77 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "150",
-    "verseCount" : "6",
-    "nextChapter" : "proverbs_1.html",
-    "nextTitle" : "Proverbs 1",
-    "prevChapter" : "psalms_149.html",
-    "prevTitle" : "Psalms 149",
-    "filename" : "psalms_150.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "150",
+    "verseCount": "6",
+    "nextChapter": "proverbs_1.html",
+    "nextTitle": "Proverbs 1",
+    "prevChapter": "psalms_149.html",
+    "prevTitle": "Psalms 149",
+    "filename": "psalms_150.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16396",
-      "text" : "Praise ye the <span class='nog'>LORD<\/span>. Praise God in his sanctuary: praise him in the firmament of his power.",
-      "plainText" : "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16396",
+      "text": "Praise ye the <span class='nog'>LORD</span>. Praise God in his sanctuary: praise him in the firmament of his power.",
+      "plainText": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16397",
-      "text" : "Praise him for his mighty acts: praise him according to his excellent greatness.",
-      "plainText" : "Praise him for his mighty acts: praise him according to his excellent greatness."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16397",
+      "text": "Praise him for his mighty acts: praise him according to his excellent greatness.",
+      "plainText": "Praise him for his mighty acts: praise him according to his excellent greatness."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16398",
-      "text" : "Praise him with the sound of the trumpet: praise him with the psaltery and harp.",
-      "plainText" : "Praise him with the sound of the trumpet: praise him with the psaltery and harp."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16398",
+      "text": "Praise him with the sound of the trumpet: praise him with the psaltery and harp.",
+      "plainText": "Praise him with the sound of the trumpet: praise him with the psaltery and harp."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "16399",
-      "text" : "Praise him with the timbrel and dance: praise him with stringed instruments and organs.",
-      "plainText" : "Praise him with the timbrel and dance: praise him with stringed instruments and organs."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "16399",
+      "text": "Praise him with the timbrel and dance: praise him with stringed instruments and organs.",
+      "plainText": "Praise him with the timbrel and dance: praise him with stringed instruments and organs."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "16400",
-      "text" : "Praise him upon the loud cymbals: praise him upon the high sounding cymbals.",
-      "plainText" : "Praise him upon the loud cymbals: praise him upon the high sounding cymbals."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "16400",
+      "text": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals.",
+      "plainText": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "16401",
-      "text" : "Let every thing that hath breath praise the <span class='nog'>LORD<\/span>. Praise ye the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Let every thing that hath breath praise the LORD. Praise ye the LORD."
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "16401",
+      "text": "Let every thing that hath breath praise the <span class='nog'>LORD</span>. Praise ye the <span class='nog'>LORD</span>.",
+      "plainText": "Let every thing that hath breath praise the LORD. Praise ye the LORD."
     }
   ]
 }
-
-

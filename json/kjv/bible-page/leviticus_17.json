@@ -1,173 +1,157 @@
 {
   "book": {
-    "number" : "3",
-    "filenamePrefix" : "leviticus",
-    "bookPage" : "leviticus.html",
-    "title" : "Leviticus",
-    "chapterCount" : "27",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "numbers_1.html",
-    "nextTitle" : "Numbers",
-    "prevBook" : "exodus_1.html",
-    "prevTitle" : "Exodus"
+    "number": "3",
+    "filenamePrefix": "leviticus",
+    "bookPage": "leviticus.html",
+    "title": "Leviticus",
+    "chapterCount": "27",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "numbers_1.html",
+    "nextTitle": "Numbers",
+    "prevBook": "exodus_1.html",
+    "prevTitle": "Exodus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "17",
-    "verseCount" : "16",
-    "nextChapter" : "leviticus_18.html",
-    "nextTitle" : "Leviticus 18",
-    "prevChapter" : "leviticus_16.html",
-    "prevTitle" : "Leviticus 16",
-    "filename" : "leviticus_17.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "17",
+    "verseCount": "16",
+    "nextChapter": "leviticus_18.html",
+    "nextTitle": "Leviticus 18",
+    "prevChapter": "leviticus_16.html",
+    "prevTitle": "Leviticus 16",
+    "filename": "leviticus_17.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "3237",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "3237",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "3238",
-      "text" : "Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This <span class='extra'>is<\/span> the thing which the <span class='nog'>LORD<\/span> hath commanded, saying,",
-      "plainText" : "Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This is the thing which the LORD hath commanded, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "3238",
+      "text": "Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This <span class='extra'>is</span> the thing which the <span class='nog'>LORD</span> hath commanded, saying,",
+      "plainText": "Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This is the thing which the LORD hath commanded, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "3239",
-      "text" : "What man soever <span class='extra'>there be<\/span> of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth <span class='extra'>it<\/span> out of the camp,",
-      "plainText" : "What man soever there be of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth it out of the camp,"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "3239",
+      "text": "What man soever <span class='extra'>there be</span> of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth <span class='extra'>it</span> out of the camp,",
+      "plainText": "What man soever there be of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth it out of the camp,"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "3240",
-      "text" : "And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto the <span class='nog'>LORD<\/span> before the tabernacle of the <span class='nog'>LORD<\/span>; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:",
-      "plainText" : "And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto the LORD before the tabernacle of the LORD; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "3240",
+      "text": "And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto the <span class='nog'>LORD</span> before the tabernacle of the <span class='nog'>LORD</span>; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:",
+      "plainText": "And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto the LORD before the tabernacle of the LORD; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "3241",
-      "text" : "To the end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them unto the <span class='nog'>LORD<\/span>, unto the door of the tabernacle of the congregation, unto the priest, and offer them <span class='extra'>for<\/span> peace offerings unto the <span class='nog'>LORD<\/span>.",
-      "plainText" : "To the end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them unto the LORD, unto the door of the tabernacle of the congregation, unto the priest, and offer them for peace offerings unto the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "3241",
+      "text": "To the end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them unto the <span class='nog'>LORD</span>, unto the door of the tabernacle of the congregation, unto the priest, and offer them <span class='extra'>for</span> peace offerings unto the <span class='nog'>LORD</span>.",
+      "plainText": "To the end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them unto the LORD, unto the door of the tabernacle of the congregation, unto the priest, and offer them for peace offerings unto the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "3242",
-      "text" : "And the priest shall sprinkle the blood upon the altar of the <span class='nog'>LORD<\/span> <span class='extra'>at<\/span> the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And the priest shall sprinkle the blood upon the altar of the LORD at the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "3242",
+      "text": "And the priest shall sprinkle the blood upon the altar of the <span class='nog'>LORD</span> <span class='extra'>at</span> the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the <span class='nog'>LORD</span>.",
+      "plainText": "And the priest shall sprinkle the blood upon the altar of the LORD at the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "3243",
-      "text" : "And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations.",
-      "plainText" : "And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "3243",
+      "text": "And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations.",
+      "plainText": "And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "3244",
-      "text" : "And thou shalt say unto them, Whatsoever man <span class='extra'>there be<\/span> of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,",
-      "plainText" : "And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "3244",
+      "text": "And thou shalt say unto them, Whatsoever man <span class='extra'>there be</span> of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,",
+      "plainText": "And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "3245",
-      "text" : "And bringeth it not unto the door of the tabernacle of the congregation, to offer it unto the <span class='nog'>LORD<\/span>; even that man shall be cut off from among his people.",
-      "plainText" : "And bringeth it not unto the door of the tabernacle of the congregation, to offer it unto the LORD; even that man shall be cut off from among his people."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "3245",
+      "text": "And bringeth it not unto the door of the tabernacle of the congregation, to offer it unto the <span class='nog'>LORD</span>; even that man shall be cut off from among his people.",
+      "plainText": "And bringeth it not unto the door of the tabernacle of the congregation, to offer it unto the LORD; even that man shall be cut off from among his people."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "3246",
-      "text" : "And whatsoever man <span class='extra'>there be<\/span> of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.",
-      "plainText" : "And whatsoever man there be of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "3246",
+      "text": "And whatsoever man <span class='extra'>there be</span> of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.",
+      "plainText": "And whatsoever man there be of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "3247",
-      "text" : "For the life of the flesh <span class='extra'>is<\/span> in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it <span class='extra'>is<\/span> the blood <span class='extra'>that<\/span> maketh an atonement for the soul.",
-      "plainText" : "For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "3247",
+      "text": "For the life of the flesh <span class='extra'>is</span> in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it <span class='extra'>is</span> the blood <span class='extra'>that</span> maketh an atonement for the soul.",
+      "plainText": "For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "3248",
-      "text" : "Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood.",
-      "plainText" : "Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "3248",
+      "text": "Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood.",
+      "plainText": "Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "3249",
-      "text" : "And whatsoever man <span class='extra'>there be<\/span> of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.",
-      "plainText" : "And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "3249",
+      "text": "And whatsoever man <span class='extra'>there be</span> of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.",
+      "plainText": "And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "3250",
-      "text" : "For <span class='extra'>it is<\/span> the life of all flesh; the blood of it <span class='extra'>is<\/span> for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh <span class='extra'>is<\/span> the blood thereof: whosoever eateth it shall be cut off.",
-      "plainText" : "For it is the life of all flesh; the blood of it is for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh is the blood thereof: whosoever eateth it shall be cut off."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "3250",
+      "text": "For <span class='extra'>it is</span> the life of all flesh; the blood of it <span class='extra'>is</span> for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh <span class='extra'>is</span> the blood thereof: whosoever eateth it shall be cut off.",
+      "plainText": "For it is the life of all flesh; the blood of it is for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh is the blood thereof: whosoever eateth it shall be cut off."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "3251",
-      "text" : "And every soul that eateth that which died <span class='extra'>of itself<\/span>, or that which was torn <span class='extra'>with beasts, whether it be<\/span> one of your own country, or a stranger, he shall both wash his clothes, and bathe <span class='extra'>himself<\/span> in water, and be unclean until the even: then shall he be clean.",
-      "plainText" : "And every soul that eateth that which died of itself, or that which was torn with beasts, whether it be one of your own country, or a stranger, he shall both wash his clothes, and bathe himself in water, and be unclean until the even: then shall he be clean."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "3251",
+      "text": "And every soul that eateth that which died <span class='extra'>of itself</span>, or that which was torn <span class='extra'>with beasts, whether it be</span> one of your own country, or a stranger, he shall both wash his clothes, and bathe <span class='extra'>himself</span> in water, and be unclean until the even: then shall he be clean.",
+      "plainText": "And every soul that eateth that which died of itself, or that which was torn with beasts, whether it be one of your own country, or a stranger, he shall both wash his clothes, and bathe himself in water, and be unclean until the even: then shall he be clean."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "3252",
-      "text" : "But if he wash <span class='extra'>them<\/span> not, nor bathe his flesh; then he shall bear his iniquity.",
-      "plainText" : "But if he wash them not, nor bathe his flesh; then he shall bear his iniquity."
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "3252",
+      "text": "But if he wash <span class='extra'>them</span> not, nor bathe his flesh; then he shall bear his iniquity.",
+      "plainText": "But if he wash them not, nor bathe his flesh; then he shall bear his iniquity."
     }
   ]
 }
-
-

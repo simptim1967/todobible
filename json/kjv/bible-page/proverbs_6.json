@@ -1,344 +1,309 @@
 {
   "book": {
-    "number" : "20",
-    "filenamePrefix" : "proverbs",
-    "bookPage" : "proverbs.html",
-    "title" : "Proverbs",
-    "chapterCount" : "31",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "ecclesiastes_1.html",
-    "nextTitle" : "Ecclesiastes",
-    "prevBook" : "psalms_1.html",
-    "prevTitle" : "Psalms"
+    "number": "20",
+    "filenamePrefix": "proverbs",
+    "bookPage": "proverbs.html",
+    "title": "Proverbs",
+    "chapterCount": "31",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "ecclesiastes_1.html",
+    "nextTitle": "Ecclesiastes",
+    "prevBook": "psalms_1.html",
+    "prevTitle": "Psalms",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "6",
-    "verseCount" : "35",
-    "nextChapter" : "proverbs_7.html",
-    "nextTitle" : "Proverbs 7",
-    "prevChapter" : "proverbs_5.html",
-    "prevTitle" : "Proverbs 5",
-    "filename" : "proverbs_6.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "6",
+    "verseCount": "35",
+    "nextChapter": "proverbs_7.html",
+    "nextTitle": "Proverbs 7",
+    "prevChapter": "proverbs_5.html",
+    "prevTitle": "Proverbs 5",
+    "filename": "proverbs_6.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16542",
-      "text" : "My son, if thou be surety for thy friend, <span class='extra'>if<\/span> thou hast stricken thy hand with a stranger,",
-      "plainText" : "My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16542",
+      "text": "My son, if thou be surety for thy friend, <span class='extra'>if</span> thou hast stricken thy hand with a stranger,",
+      "plainText": "My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16543",
-      "text" : "Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth.",
-      "plainText" : "Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16543",
+      "text": "Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth.",
+      "plainText": "Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16544",
-      "text" : "Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend.",
-      "plainText" : "Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16544",
+      "text": "Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend.",
+      "plainText": "Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "16545",
-      "text" : "Give not sleep to thine eyes, nor slumber to thine eyelids.",
-      "plainText" : "Give not sleep to thine eyes, nor slumber to thine eyelids."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "16545",
+      "text": "Give not sleep to thine eyes, nor slumber to thine eyelids.",
+      "plainText": "Give not sleep to thine eyes, nor slumber to thine eyelids."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "16546",
-      "text" : "Deliver thyself as a roe from the hand <span class='extra'>of the hunter<\/span>, and as a bird from the hand of the fowler.",
-      "plainText" : "Deliver thyself as a roe from the hand of the hunter, and as a bird from the hand of the fowler."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "16546",
+      "text": "Deliver thyself as a roe from the hand <span class='extra'>of the hunter</span>, and as a bird from the hand of the fowler.",
+      "plainText": "Deliver thyself as a roe from the hand of the hunter, and as a bird from the hand of the fowler."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "16547",
-      "text" : "Go to the ant, thou sluggard; consider her ways, and be wise:",
-      "plainText" : "Go to the ant, thou sluggard; consider her ways, and be wise:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "16547",
+      "text": "Go to the ant, thou sluggard; consider her ways, and be wise:",
+      "plainText": "Go to the ant, thou sluggard; consider her ways, and be wise:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "16548",
-      "text" : "Which having no guide, overseer, or ruler,",
-      "plainText" : "Which having no guide, overseer, or ruler,"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "16548",
+      "text": "Which having no guide, overseer, or ruler,",
+      "plainText": "Which having no guide, overseer, or ruler,"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "16549",
-      "text" : "Provideth her meat in the summer, <span class='extra'>and<\/span> gathereth her food in the harvest.",
-      "plainText" : "Provideth her meat in the summer, and gathereth her food in the harvest."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "16549",
+      "text": "Provideth her meat in the summer, <span class='extra'>and</span> gathereth her food in the harvest.",
+      "plainText": "Provideth her meat in the summer, and gathereth her food in the harvest."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "16550",
-      "text" : "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?",
-      "plainText" : "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "16550",
+      "text": "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?",
+      "plainText": "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "16551",
-      "text" : "<span class='extra'>Yet<\/span> a little sleep, a little slumber, a little folding of the hands to sleep:",
-      "plainText" : "Yet a little sleep, a little slumber, a little folding of the hands to sleep:"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "16551",
+      "text": "<span class='extra'>Yet</span> a little sleep, a little slumber, a little folding of the hands to sleep:",
+      "plainText": "Yet a little sleep, a little slumber, a little folding of the hands to sleep:"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "16552",
-      "text" : "So shall thy poverty come as one that travelleth, and thy want as an armed man.",
-      "plainText" : "So shall thy poverty come as one that travelleth, and thy want as an armed man."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "16552",
+      "text": "So shall thy poverty come as one that travelleth, and thy want as an armed man.",
+      "plainText": "So shall thy poverty come as one that travelleth, and thy want as an armed man."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "16553",
-      "text" : "A naughty person, a wicked man, walketh with a froward mouth.",
-      "plainText" : "A naughty person, a wicked man, walketh with a froward mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "16553",
+      "text": "A naughty person, a wicked man, walketh with a froward mouth.",
+      "plainText": "A naughty person, a wicked man, walketh with a froward mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "16554",
-      "text" : "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;",
-      "plainText" : "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "16554",
+      "text": "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;",
+      "plainText": "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "16555",
-      "text" : "Frowardness <span class='extra'>is<\/span> in his heart, he deviseth mischief continually; he soweth discord.",
-      "plainText" : "Frowardness is in his heart, he deviseth mischief continually; he soweth discord."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "16555",
+      "text": "Frowardness <span class='extra'>is</span> in his heart, he deviseth mischief continually; he soweth discord.",
+      "plainText": "Frowardness is in his heart, he deviseth mischief continually; he soweth discord."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "16556",
-      "text" : "Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.",
-      "plainText" : "Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "16556",
+      "text": "Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.",
+      "plainText": "Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "16557",
-      "text" : "These six <span class='extra'>things<\/span> doth the <span class='nog'>LORD<\/span> hate: yea, seven <span class='extra'>are<\/span> an abomination unto him:",
-      "plainText" : "These six things doth the LORD hate: yea, seven are an abomination unto him:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "16557",
+      "text": "These six <span class='extra'>things</span> doth the <span class='nog'>LORD</span> hate: yea, seven <span class='extra'>are</span> an abomination unto him:",
+      "plainText": "These six things doth the LORD hate: yea, seven are an abomination unto him:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "16558",
-      "text" : "A proud look, a lying tongue, and hands that shed innocent blood,",
-      "plainText" : "A proud look, a lying tongue, and hands that shed innocent blood,"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "16558",
+      "text": "A proud look, a lying tongue, and hands that shed innocent blood,",
+      "plainText": "A proud look, a lying tongue, and hands that shed innocent blood,"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "16559",
-      "text" : "An heart that deviseth wicked imaginations, feet that be swift in running to mischief,",
-      "plainText" : "An heart that deviseth wicked imaginations, feet that be swift in running to mischief,"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "16559",
+      "text": "An heart that deviseth wicked imaginations, feet that be swift in running to mischief,",
+      "plainText": "An heart that deviseth wicked imaginations, feet that be swift in running to mischief,"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "16560",
-      "text" : "A false witness <span class='extra'>that<\/span> speaketh lies, and he that soweth discord among brethren.",
-      "plainText" : "A false witness that speaketh lies, and he that soweth discord among brethren."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "16560",
+      "text": "A false witness <span class='extra'>that</span> speaketh lies, and he that soweth discord among brethren.",
+      "plainText": "A false witness that speaketh lies, and he that soweth discord among brethren."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "16561",
-      "text" : "My son, keep thy father's commandment, and forsake not the law of thy mother:",
-      "plainText" : "My son, keep thy father's commandment, and forsake not the law of thy mother:"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "16561",
+      "text": "My son, keep thy father's commandment, and forsake not the law of thy mother:",
+      "plainText": "My son, keep thy father's commandment, and forsake not the law of thy mother:"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "16562",
-      "text" : "Bind them continually upon thine heart, <span class='extra'>and<\/span> tie them about thy neck.",
-      "plainText" : "Bind them continually upon thine heart, and tie them about thy neck."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "16562",
+      "text": "Bind them continually upon thine heart, <span class='extra'>and</span> tie them about thy neck.",
+      "plainText": "Bind them continually upon thine heart, and tie them about thy neck."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "16563",
-      "text" : "When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and <span class='extra'>when<\/span> thou awakest, it shall talk with thee.",
-      "plainText" : "When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "16563",
+      "text": "When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and <span class='extra'>when</span> thou awakest, it shall talk with thee.",
+      "plainText": "When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "16564",
-      "text" : "For the commandment <span class='extra'>is<\/span> a lamp; and the law <span class='extra'>is<\/span> light; and reproofs of instruction <span class='extra'>are<\/span> the way of life:",
-      "plainText" : "For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "16564",
+      "text": "For the commandment <span class='extra'>is</span> a lamp; and the law <span class='extra'>is</span> light; and reproofs of instruction <span class='extra'>are</span> the way of life:",
+      "plainText": "For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "16565",
-      "text" : "To keep thee from the evil woman, from the flattery of the tongue of a strange woman.",
-      "plainText" : "To keep thee from the evil woman, from the flattery of the tongue of a strange woman."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "16565",
+      "text": "To keep thee from the evil woman, from the flattery of the tongue of a strange woman.",
+      "plainText": "To keep thee from the evil woman, from the flattery of the tongue of a strange woman."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "16566",
-      "text" : "Lust not after her beauty in thine heart; neither let her take thee with her eyelids.",
-      "plainText" : "Lust not after her beauty in thine heart; neither let her take thee with her eyelids."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "16566",
+      "text": "Lust not after her beauty in thine heart; neither let her take thee with her eyelids.",
+      "plainText": "Lust not after her beauty in thine heart; neither let her take thee with her eyelids."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "16567",
-      "text" : "For by means of a whorish woman <span class='extra'>a man is brought<\/span> to a piece of bread: and the adulteress will hunt for the precious life.",
-      "plainText" : "For by means of a whorish woman a man is brought to a piece of bread: and the adulteress will hunt for the precious life."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "16567",
+      "text": "For by means of a whorish woman <span class='extra'>a man is brought</span> to a piece of bread: and the adulteress will hunt for the precious life.",
+      "plainText": "For by means of a whorish woman a man is brought to a piece of bread: and the adulteress will hunt for the precious life."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "16568",
-      "text" : "Can a man take fire in his bosom, and his clothes not be burned?",
-      "plainText" : "Can a man take fire in his bosom, and his clothes not be burned?"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "16568",
+      "text": "Can a man take fire in his bosom, and his clothes not be burned?",
+      "plainText": "Can a man take fire in his bosom, and his clothes not be burned?"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "16569",
-      "text" : "Can one go upon hot coals, and his feet not be burned?",
-      "plainText" : "Can one go upon hot coals, and his feet not be burned?"
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "16569",
+      "text": "Can one go upon hot coals, and his feet not be burned?",
+      "plainText": "Can one go upon hot coals, and his feet not be burned?"
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "16570",
-      "text" : "So he that goeth in to his neighbour's wife; whosoever toucheth her shall not be innocent.",
-      "plainText" : "So he that goeth in to his neighbour's wife; whosoever toucheth her shall not be innocent."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "16570",
+      "text": "So he that goeth in to his neighbour's wife; whosoever toucheth her shall not be innocent.",
+      "plainText": "So he that goeth in to his neighbour's wife; whosoever toucheth her shall not be innocent."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "16571",
-      "text" : "<span class='extra'>Men<\/span> do not despise a thief, if he steal to satisfy his soul when he is hungry;",
-      "plainText" : "Men do not despise a thief, if he steal to satisfy his soul when he is hungry;"
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "16571",
+      "text": "<span class='extra'>Men</span> do not despise a thief, if he steal to satisfy his soul when he is hungry;",
+      "plainText": "Men do not despise a thief, if he steal to satisfy his soul when he is hungry;"
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "16572",
-      "text" : "But <span class='extra'>if<\/span> he be found, he shall restore sevenfold; he shall give all the substance of his house.",
-      "plainText" : "But if he be found, he shall restore sevenfold; he shall give all the substance of his house."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "16572",
+      "text": "But <span class='extra'>if</span> he be found, he shall restore sevenfold; he shall give all the substance of his house.",
+      "plainText": "But if he be found, he shall restore sevenfold; he shall give all the substance of his house."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "16573",
-      "text" : "<span class='extra'>But<\/span> whoso committeth adultery with a woman lacketh understanding: he <span class='extra'>that<\/span> doeth it destroyeth his own soul.",
-      "plainText" : "But whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "16573",
+      "text": "<span class='extra'>But</span> whoso committeth adultery with a woman lacketh understanding: he <span class='extra'>that</span> doeth it destroyeth his own soul.",
+      "plainText": "But whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "16574",
-      "text" : "A wound and dishonour shall he get; and his reproach shall not be wiped away.",
-      "plainText" : "A wound and dishonour shall he get; and his reproach shall not be wiped away."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "16574",
+      "text": "A wound and dishonour shall he get; and his reproach shall not be wiped away.",
+      "plainText": "A wound and dishonour shall he get; and his reproach shall not be wiped away."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "16575",
-      "text" : "For jealousy <span class='extra'>is<\/span> the rage of a man: therefore he will not spare in the day of vengeance.",
-      "plainText" : "For jealousy is the rage of a man: therefore he will not spare in the day of vengeance."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "16575",
+      "text": "For jealousy <span class='extra'>is</span> the rage of a man: therefore he will not spare in the day of vengeance.",
+      "plainText": "For jealousy is the rage of a man: therefore he will not spare in the day of vengeance."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "16576",
-      "text" : "He will not regard any ransom; neither will he rest content, though thou givest many gifts.",
-      "plainText" : "He will not regard any ransom; neither will he rest content, though thou givest many gifts."
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "16576",
+      "text": "He will not regard any ransom; neither will he rest content, though thou givest many gifts.",
+      "plainText": "He will not regard any ransom; neither will he rest content, though thou givest many gifts."
     }
   ]
 }
-
-

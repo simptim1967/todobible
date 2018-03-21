@@ -1,470 +1,421 @@
 {
   "book": {
-    "number" : "5",
-    "filenamePrefix" : "deuteronomy",
-    "bookPage" : "deuteronomy.html",
-    "title" : "Deuteronomy",
-    "chapterCount" : "34",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "joshua_1.html",
-    "nextTitle" : "Joshua",
-    "prevBook" : "numbers_1.html",
-    "prevTitle" : "Numbers"
+    "number": "5",
+    "filenamePrefix": "deuteronomy",
+    "bookPage": "deuteronomy.html",
+    "title": "Deuteronomy",
+    "chapterCount": "34",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "joshua_1.html",
+    "nextTitle": "Joshua",
+    "prevBook": "numbers_1.html",
+    "prevTitle": "Numbers",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "4",
-    "verseCount" : "49",
-    "nextChapter" : "deuteronomy_5.html",
-    "nextTitle" : "Deuteronomy 5",
-    "prevChapter" : "deuteronomy_3.html",
-    "prevTitle" : "Deuteronomy 3",
-    "filename" : "deuteronomy_4.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "4",
+    "verseCount": "49",
+    "nextChapter": "deuteronomy_5.html",
+    "nextTitle": "Deuteronomy 5",
+    "prevChapter": "deuteronomy_3.html",
+    "prevTitle": "Deuteronomy 3",
+    "filename": "deuteronomy_4.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "5006",
-      "text" : "Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do <span class='extra'>them<\/span>, that ye may live, and go in and possess the land which the <span class='nog'>LORD<\/span> God of your fathers giveth you.",
-      "plainText" : "Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do them, that ye may live, and go in and possess the land which the LORD God of your fathers giveth you."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "5006",
+      "text": "Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do <span class='extra'>them</span>, that ye may live, and go in and possess the land which the <span class='nog'>LORD</span> God of your fathers giveth you.",
+      "plainText": "Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do them, that ye may live, and go in and possess the land which the LORD God of your fathers giveth you."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "5007",
-      "text" : "Ye shall not add unto the word which I command you, neither shall ye diminish <span class='extra'>ought<\/span> from it, that ye may keep the commandments of the <span class='nog'>LORD<\/span> your God which I command you.",
-      "plainText" : "Ye shall not add unto the word which I command you, neither shall ye diminish ought from it, that ye may keep the commandments of the LORD your God which I command you."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "5007",
+      "text": "Ye shall not add unto the word which I command you, neither shall ye diminish <span class='extra'>ought</span> from it, that ye may keep the commandments of the <span class='nog'>LORD</span> your God which I command you.",
+      "plainText": "Ye shall not add unto the word which I command you, neither shall ye diminish ought from it, that ye may keep the commandments of the LORD your God which I command you."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "5008",
-      "text" : "Your eyes have seen what the <span class='nog'>LORD<\/span> did because of Baal-peor: for all the men that followed Baal-peor, the <span class='nog'>LORD<\/span> thy God hath destroyed them from among you.",
-      "plainText" : "Your eyes have seen what the LORD did because of Baal-peor: for all the men that followed Baal-peor, the LORD thy God hath destroyed them from among you."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "5008",
+      "text": "Your eyes have seen what the <span class='nog'>LORD</span> did because of Baal-peor: for all the men that followed Baal-peor, the <span class='nog'>LORD</span> thy God hath destroyed them from among you.",
+      "plainText": "Your eyes have seen what the LORD did because of Baal-peor: for all the men that followed Baal-peor, the LORD thy God hath destroyed them from among you."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "5009",
-      "text" : "But ye that did cleave unto the <span class='nog'>LORD<\/span> your God <span class='extra'>are<\/span> alive every one of you this day.",
-      "plainText" : "But ye that did cleave unto the LORD your God are alive every one of you this day."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "5009",
+      "text": "But ye that did cleave unto the <span class='nog'>LORD</span> your God <span class='extra'>are</span> alive every one of you this day.",
+      "plainText": "But ye that did cleave unto the LORD your God are alive every one of you this day."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "5010",
-      "text" : "Behold, I have taught you statutes and judgments, even as the <span class='nog'>LORD<\/span> my God commanded me, that ye should do so in the land whither ye go to possess it.",
-      "plainText" : "Behold, I have taught you statutes and judgments, even as the LORD my God commanded me, that ye should do so in the land whither ye go to possess it."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "5010",
+      "text": "Behold, I have taught you statutes and judgments, even as the <span class='nog'>LORD</span> my God commanded me, that ye should do so in the land whither ye go to possess it.",
+      "plainText": "Behold, I have taught you statutes and judgments, even as the LORD my God commanded me, that ye should do so in the land whither ye go to possess it."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "5011",
-      "text" : "Keep therefore and do <span class='extra'>them<\/span>; for this <span class='extra'>is<\/span> your wisdom and your understanding in the sight of the nations, which shall hear all these statutes, and say, Surely this great nation <span class='extra'>is<\/span> a wise and understanding people.",
-      "plainText" : "Keep therefore and do them; for this is your wisdom and your understanding in the sight of the nations, which shall hear all these statutes, and say, Surely this great nation is a wise and understanding people."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "5011",
+      "text": "Keep therefore and do <span class='extra'>them</span>; for this <span class='extra'>is</span> your wisdom and your understanding in the sight of the nations, which shall hear all these statutes, and say, Surely this great nation <span class='extra'>is</span> a wise and understanding people.",
+      "plainText": "Keep therefore and do them; for this is your wisdom and your understanding in the sight of the nations, which shall hear all these statutes, and say, Surely this great nation is a wise and understanding people."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "5012",
-      "text" : "For what nation <span class='extra'>is there so<\/span> great, who <span class='extra'>hath<\/span> God <span class='extra'>so<\/span> nigh unto them, as the <span class='nog'>LORD<\/span> our God <span class='extra'>is<\/span> in all <span class='extra'>things that<\/span> we call upon him <span class='extra'>for<\/span>?",
-      "plainText" : "For what nation is there so great, who hath God so nigh unto them, as the LORD our God is in all things that we call upon him for?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "5012",
+      "text": "For what nation <span class='extra'>is there so</span> great, who <span class='extra'>hath</span> God <span class='extra'>so</span> nigh unto them, as the <span class='nog'>LORD</span> our God <span class='extra'>is</span> in all <span class='extra'>things that</span> we call upon him <span class='extra'>for</span>?",
+      "plainText": "For what nation is there so great, who hath God so nigh unto them, as the LORD our God is in all things that we call upon him for?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "5013",
-      "text" : "And what nation <span class='extra'>is there so<\/span> great, that hath statutes and judgments <span class='extra'>so<\/span> righteous as all this law, which I set before you this day?",
-      "plainText" : "And what nation is there so great, that hath statutes and judgments so righteous as all this law, which I set before you this day?"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "5013",
+      "text": "And what nation <span class='extra'>is there so</span> great, that hath statutes and judgments <span class='extra'>so</span> righteous as all this law, which I set before you this day?",
+      "plainText": "And what nation is there so great, that hath statutes and judgments so righteous as all this law, which I set before you this day?"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "5014",
-      "text" : "Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen, and lest they depart from thy heart all the days of thy life: but teach them thy sons, and thy sons' sons;",
-      "plainText" : "Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen, and lest they depart from thy heart all the days of thy life: but teach them thy sons, and thy sons' sons;"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "5014",
+      "text": "Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen, and lest they depart from thy heart all the days of thy life: but teach them thy sons, and thy sons' sons;",
+      "plainText": "Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen, and lest they depart from thy heart all the days of thy life: but teach them thy sons, and thy sons' sons;"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "5015",
-      "text" : "<span class='extra'>Specially<\/span> the day that thou stoodest before the <span class='nog'>LORD<\/span> thy God in Horeb, when the <span class='nog'>LORD<\/span> said unto me, Gather me the people together, and I will make them hear my words, that they may learn to fear me all the days that they shall live upon the earth, and <span class='extra'>that<\/span> they may teach their children.",
-      "plainText" : "Specially the day that thou stoodest before the LORD thy God in Horeb, when the LORD said unto me, Gather me the people together, and I will make them hear my words, that they may learn to fear me all the days that they shall live upon the earth, and that they may teach their children."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "5015",
+      "text": "<span class='extra'>Specially</span> the day that thou stoodest before the <span class='nog'>LORD</span> thy God in Horeb, when the <span class='nog'>LORD</span> said unto me, Gather me the people together, and I will make them hear my words, that they may learn to fear me all the days that they shall live upon the earth, and <span class='extra'>that</span> they may teach their children.",
+      "plainText": "Specially the day that thou stoodest before the LORD thy God in Horeb, when the LORD said unto me, Gather me the people together, and I will make them hear my words, that they may learn to fear me all the days that they shall live upon the earth, and that they may teach their children."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "5016",
-      "text" : "And ye came near and stood under the mountain; and the mountain burned with fire unto the midst of heaven, with darkness, clouds, and thick darkness.",
-      "plainText" : "And ye came near and stood under the mountain; and the mountain burned with fire unto the midst of heaven, with darkness, clouds, and thick darkness."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "5016",
+      "text": "And ye came near and stood under the mountain; and the mountain burned with fire unto the midst of heaven, with darkness, clouds, and thick darkness.",
+      "plainText": "And ye came near and stood under the mountain; and the mountain burned with fire unto the midst of heaven, with darkness, clouds, and thick darkness."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "5017",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto you out of the midst of the fire: ye heard the voice of the words, but saw no similitude; only <span class='extra'>ye heard<\/span> a voice.",
-      "plainText" : "And the LORD spake unto you out of the midst of the fire: ye heard the voice of the words, but saw no similitude; only ye heard a voice."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "5017",
+      "text": "And the <span class='nog'>LORD</span> spake unto you out of the midst of the fire: ye heard the voice of the words, but saw no similitude; only <span class='extra'>ye heard</span> a voice.",
+      "plainText": "And the LORD spake unto you out of the midst of the fire: ye heard the voice of the words, but saw no similitude; only ye heard a voice."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "5018",
-      "text" : "And he declared unto you his covenant, which he commanded you to perform, <span class='extra'>even<\/span> ten commandments; and he wrote them upon two tables of stone.",
-      "plainText" : "And he declared unto you his covenant, which he commanded you to perform, even ten commandments; and he wrote them upon two tables of stone."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "5018",
+      "text": "And he declared unto you his covenant, which he commanded you to perform, <span class='extra'>even</span> ten commandments; and he wrote them upon two tables of stone.",
+      "plainText": "And he declared unto you his covenant, which he commanded you to perform, even ten commandments; and he wrote them upon two tables of stone."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "5019",
-      "text" : "And the <span class='nog'>LORD<\/span> commanded me at that time to teach you statutes and judgments, that ye might do them in the land whither ye go over to possess it.",
-      "plainText" : "And the LORD commanded me at that time to teach you statutes and judgments, that ye might do them in the land whither ye go over to possess it."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "5019",
+      "text": "And the <span class='nog'>LORD</span> commanded me at that time to teach you statutes and judgments, that ye might do them in the land whither ye go over to possess it.",
+      "plainText": "And the LORD commanded me at that time to teach you statutes and judgments, that ye might do them in the land whither ye go over to possess it."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "5020",
-      "text" : "Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day <span class='extra'>that<\/span> the <span class='nog'>LORD<\/span> spake unto you in Horeb out of the midst of the fire:",
-      "plainText" : "Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day that the LORD spake unto you in Horeb out of the midst of the fire:"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "5020",
+      "text": "Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day <span class='extra'>that</span> the <span class='nog'>LORD</span> spake unto you in Horeb out of the midst of the fire:",
+      "plainText": "Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day that the LORD spake unto you in Horeb out of the midst of the fire:"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "5021",
-      "text" : "Lest ye corrupt <span class='extra'>yourselves<\/span>, and make you a graven image, the similitude of any figure, the likeness of male or female,",
-      "plainText" : "Lest ye corrupt yourselves, and make you a graven image, the similitude of any figure, the likeness of male or female,"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "5021",
+      "text": "Lest ye corrupt <span class='extra'>yourselves</span>, and make you a graven image, the similitude of any figure, the likeness of male or female,",
+      "plainText": "Lest ye corrupt yourselves, and make you a graven image, the similitude of any figure, the likeness of male or female,"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "5022",
-      "text" : "The likeness of any beast that <span class='extra'>is<\/span> on the earth, the likeness of any winged fowl that flieth in the air,",
-      "plainText" : "The likeness of any beast that is on the earth, the likeness of any winged fowl that flieth in the air,"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "5022",
+      "text": "The likeness of any beast that <span class='extra'>is</span> on the earth, the likeness of any winged fowl that flieth in the air,",
+      "plainText": "The likeness of any beast that is on the earth, the likeness of any winged fowl that flieth in the air,"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "5023",
-      "text" : "The likeness of any thing that creepeth on the ground, the likeness of any fish that <span class='extra'>is<\/span> in the waters beneath the earth:",
-      "plainText" : "The likeness of any thing that creepeth on the ground, the likeness of any fish that is in the waters beneath the earth:"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "5023",
+      "text": "The likeness of any thing that creepeth on the ground, the likeness of any fish that <span class='extra'>is</span> in the waters beneath the earth:",
+      "plainText": "The likeness of any thing that creepeth on the ground, the likeness of any fish that is in the waters beneath the earth:"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "5024",
-      "text" : "And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, <span class='extra'>even<\/span> all the host of heaven, shouldest be driven to worship them, and serve them, which the <span class='nog'>LORD<\/span> thy God hath divided unto all nations under the whole heaven.",
-      "plainText" : "And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, even all the host of heaven, shouldest be driven to worship them, and serve them, which the LORD thy God hath divided unto all nations under the whole heaven."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "5024",
+      "text": "And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, <span class='extra'>even</span> all the host of heaven, shouldest be driven to worship them, and serve them, which the <span class='nog'>LORD</span> thy God hath divided unto all nations under the whole heaven.",
+      "plainText": "And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, even all the host of heaven, shouldest be driven to worship them, and serve them, which the LORD thy God hath divided unto all nations under the whole heaven."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "5025",
-      "text" : "But the <span class='nog'>LORD<\/span> hath taken you, and brought you forth out of the iron furnace, <span class='extra'>even<\/span> out of Egypt, to be unto him a people of inheritance, as <span class='extra'>ye are<\/span> this day.",
-      "plainText" : "But the LORD hath taken you, and brought you forth out of the iron furnace, even out of Egypt, to be unto him a people of inheritance, as ye are this day."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "5025",
+      "text": "But the <span class='nog'>LORD</span> hath taken you, and brought you forth out of the iron furnace, <span class='extra'>even</span> out of Egypt, to be unto him a people of inheritance, as <span class='extra'>ye are</span> this day.",
+      "plainText": "But the LORD hath taken you, and brought you forth out of the iron furnace, even out of Egypt, to be unto him a people of inheritance, as ye are this day."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "5026",
-      "text" : "Furthermore the <span class='nog'>LORD<\/span> was angry with me for your sakes, and sware that I should not go over Jordan, and that I should not go in unto that good land, which the <span class='nog'>LORD<\/span> thy God giveth thee <span class='extra'>for<\/span> an inheritance:",
-      "plainText" : "Furthermore the LORD was angry with me for your sakes, and sware that I should not go over Jordan, and that I should not go in unto that good land, which the LORD thy God giveth thee for an inheritance:"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "5026",
+      "text": "Furthermore the <span class='nog'>LORD</span> was angry with me for your sakes, and sware that I should not go over Jordan, and that I should not go in unto that good land, which the <span class='nog'>LORD</span> thy God giveth thee <span class='extra'>for</span> an inheritance:",
+      "plainText": "Furthermore the LORD was angry with me for your sakes, and sware that I should not go over Jordan, and that I should not go in unto that good land, which the LORD thy God giveth thee for an inheritance:"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "5027",
-      "text" : "But I must die in this land, I must not go over Jordan: but ye shall go over, and possess that good land.",
-      "plainText" : "But I must die in this land, I must not go over Jordan: but ye shall go over, and possess that good land."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "5027",
+      "text": "But I must die in this land, I must not go over Jordan: but ye shall go over, and possess that good land.",
+      "plainText": "But I must die in this land, I must not go over Jordan: but ye shall go over, and possess that good land."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "5028",
-      "text" : "Take heed unto yourselves, lest ye forget the covenant of the <span class='nog'>LORD<\/span> your God, which he made with you, and make you a graven image, <span class='extra'>or<\/span> the likeness of any <span class='extra'>thing<\/span>, which the <span class='nog'>LORD<\/span> thy God hath forbidden thee.",
-      "plainText" : "Take heed unto yourselves, lest ye forget the covenant of the LORD your God, which he made with you, and make you a graven image, or the likeness of any thing, which the LORD thy God hath forbidden thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "5028",
+      "text": "Take heed unto yourselves, lest ye forget the covenant of the <span class='nog'>LORD</span> your God, which he made with you, and make you a graven image, <span class='extra'>or</span> the likeness of any <span class='extra'>thing</span>, which the <span class='nog'>LORD</span> thy God hath forbidden thee.",
+      "plainText": "Take heed unto yourselves, lest ye forget the covenant of the LORD your God, which he made with you, and make you a graven image, or the likeness of any thing, which the LORD thy God hath forbidden thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "5029",
-      "text" : "For the <span class='nog'>LORD<\/span> thy God <span class='extra'>is<\/span> a consuming fire, <span class='extra'>even<\/span> a jealous God.",
-      "plainText" : "For the LORD thy God is a consuming fire, even a jealous God."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "5029",
+      "text": "For the <span class='nog'>LORD</span> thy God <span class='extra'>is</span> a consuming fire, <span class='extra'>even</span> a jealous God.",
+      "plainText": "For the LORD thy God is a consuming fire, even a jealous God."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "5030",
-      "text" : "When thou shalt beget children, and children's children, and ye shall have remained long in the land, and shall corrupt <span class='extra'>yourselves<\/span>, and make a graven image, <span class='extra'>or<\/span> the likeness of any <span class='extra'>thing<\/span>, and shall do evil in the sight of the <span class='nog'>LORD<\/span> thy God, to provoke him to anger:",
-      "plainText" : "When thou shalt beget children, and children's children, and ye shall have remained long in the land, and shall corrupt yourselves, and make a graven image, or the likeness of any thing, and shall do evil in the sight of the LORD thy God, to provoke him to anger:"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "5030",
+      "text": "When thou shalt beget children, and children's children, and ye shall have remained long in the land, and shall corrupt <span class='extra'>yourselves</span>, and make a graven image, <span class='extra'>or</span> the likeness of any <span class='extra'>thing</span>, and shall do evil in the sight of the <span class='nog'>LORD</span> thy God, to provoke him to anger:",
+      "plainText": "When thou shalt beget children, and children's children, and ye shall have remained long in the land, and shall corrupt yourselves, and make a graven image, or the likeness of any thing, and shall do evil in the sight of the LORD thy God, to provoke him to anger:"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "5031",
-      "text" : "I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong <span class='extra'>your<\/span> days upon it, but shall utterly be destroyed.",
-      "plainText" : "I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong your days upon it, but shall utterly be destroyed."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "5031",
+      "text": "I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong <span class='extra'>your</span> days upon it, but shall utterly be destroyed.",
+      "plainText": "I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong your days upon it, but shall utterly be destroyed."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "5032",
-      "text" : "And the <span class='nog'>LORD<\/span> shall scatter you among the nations, and ye shall be left few in number among the heathen, whither the <span class='nog'>LORD<\/span> shall lead you.",
-      "plainText" : "And the LORD shall scatter you among the nations, and ye shall be left few in number among the heathen, whither the LORD shall lead you."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "5032",
+      "text": "And the <span class='nog'>LORD</span> shall scatter you among the nations, and ye shall be left few in number among the heathen, whither the <span class='nog'>LORD</span> shall lead you.",
+      "plainText": "And the LORD shall scatter you among the nations, and ye shall be left few in number among the heathen, whither the LORD shall lead you."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "5033",
-      "text" : "And there ye shall serve gods, the work of men's hands, wood and stone, which neither see, nor hear, nor eat, nor smell.",
-      "plainText" : "And there ye shall serve gods, the work of men's hands, wood and stone, which neither see, nor hear, nor eat, nor smell."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "5033",
+      "text": "And there ye shall serve gods, the work of men's hands, wood and stone, which neither see, nor hear, nor eat, nor smell.",
+      "plainText": "And there ye shall serve gods, the work of men's hands, wood and stone, which neither see, nor hear, nor eat, nor smell."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "5034",
-      "text" : "But if from thence thou shalt seek the <span class='nog'>LORD<\/span> thy God, thou shalt find <span class='extra'>him<\/span>, if thou seek him with all thy heart and with all thy soul.",
-      "plainText" : "But if from thence thou shalt seek the LORD thy God, thou shalt find him, if thou seek him with all thy heart and with all thy soul."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "5034",
+      "text": "But if from thence thou shalt seek the <span class='nog'>LORD</span> thy God, thou shalt find <span class='extra'>him</span>, if thou seek him with all thy heart and with all thy soul.",
+      "plainText": "But if from thence thou shalt seek the LORD thy God, thou shalt find him, if thou seek him with all thy heart and with all thy soul."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "5035",
-      "text" : "When thou art in tribulation, and all these things are come upon thee, <span class='extra'>even<\/span> in the latter days, if thou turn to the <span class='nog'>LORD<\/span> thy God, and shalt be obedient unto his voice;",
-      "plainText" : "When thou art in tribulation, and all these things are come upon thee, even in the latter days, if thou turn to the LORD thy God, and shalt be obedient unto his voice;"
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "5035",
+      "text": "When thou art in tribulation, and all these things are come upon thee, <span class='extra'>even</span> in the latter days, if thou turn to the <span class='nog'>LORD</span> thy God, and shalt be obedient unto his voice;",
+      "plainText": "When thou art in tribulation, and all these things are come upon thee, even in the latter days, if thou turn to the LORD thy God, and shalt be obedient unto his voice;"
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "5036",
-      "text" : "(For the <span class='nog'>LORD<\/span> thy God <span class='extra'>is<\/span> a merciful God;) he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them.",
-      "plainText" : "(For the LORD thy God is a merciful God;) he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "5036",
+      "text": "(For the <span class='nog'>LORD</span> thy God <span class='extra'>is</span> a merciful God;) he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them.",
+      "plainText": "(For the LORD thy God is a merciful God;) he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "5037",
-      "text" : "For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and <span class='extra'>ask<\/span> from the one side of heaven unto the other, whether there hath been <span class='extra'>any such thing<\/span> as this great thing <span class='extra'>is<\/span>, or hath been heard like it?",
-      "plainText" : "For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and ask from the one side of heaven unto the other, whether there hath been any such thing as this great thing is, or hath been heard like it?"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "5037",
+      "text": "For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and <span class='extra'>ask</span> from the one side of heaven unto the other, whether there hath been <span class='extra'>any such thing</span> as this great thing <span class='extra'>is</span>, or hath been heard like it?",
+      "plainText": "For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and ask from the one side of heaven unto the other, whether there hath been any such thing as this great thing is, or hath been heard like it?"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "5038",
-      "text" : "Did <span class='extra'>ever<\/span> people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?",
-      "plainText" : "Did ever people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?"
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "5038",
+      "text": "Did <span class='extra'>ever</span> people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?",
+      "plainText": "Did ever people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?"
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "5039",
-      "text" : "Or hath God assayed to go <span class='extra'>and<\/span> take him a nation from the midst of <span class='extra'>another<\/span> nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the <span class='nog'>LORD<\/span> your God did for you in Egypt before your eyes?",
-      "plainText" : "Or hath God assayed to go and take him a nation from the midst of another nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the LORD your God did for you in Egypt before your eyes?"
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "5039",
+      "text": "Or hath God assayed to go <span class='extra'>and</span> take him a nation from the midst of <span class='extra'>another</span> nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the <span class='nog'>LORD</span> your God did for you in Egypt before your eyes?",
+      "plainText": "Or hath God assayed to go and take him a nation from the midst of another nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the LORD your God did for you in Egypt before your eyes?"
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "5040",
-      "text" : "Unto thee it was shewed, that thou mightest know that the <span class='nog'>LORD<\/span> he <span class='extra'>is<\/span> God; <span class='extra'>there is<\/span> none else beside him.",
-      "plainText" : "Unto thee it was shewed, that thou mightest know that the LORD he is God; there is none else beside him."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "5040",
+      "text": "Unto thee it was shewed, that thou mightest know that the <span class='nog'>LORD</span> he <span class='extra'>is</span> God; <span class='extra'>there is</span> none else beside him.",
+      "plainText": "Unto thee it was shewed, that thou mightest know that the LORD he is God; there is none else beside him."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "5041",
-      "text" : "Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire.",
-      "plainText" : "Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "5041",
+      "text": "Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire.",
+      "plainText": "Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "5042",
-      "text" : "And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;",
-      "plainText" : "And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;"
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "5042",
+      "text": "And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;",
+      "plainText": "And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;"
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "5043",
-      "text" : "To drive out nations from before thee greater and mightier than thou <span class='extra'>art<\/span>, to bring thee in, to give thee their land <span class='extra'>for<\/span> an inheritance, as <span class='extra'>it is<\/span> this day.",
-      "plainText" : "To drive out nations from before thee greater and mightier than thou art, to bring thee in, to give thee their land for an inheritance, as it is this day."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "5043",
+      "text": "To drive out nations from before thee greater and mightier than thou <span class='extra'>art</span>, to bring thee in, to give thee their land <span class='extra'>for</span> an inheritance, as <span class='extra'>it is</span> this day.",
+      "plainText": "To drive out nations from before thee greater and mightier than thou art, to bring thee in, to give thee their land for an inheritance, as it is this day."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "5044",
-      "text" : "Know therefore this day, and consider <span class='extra'>it<\/span> in thine heart, that the <span class='nog'>LORD<\/span> he <span class='extra'>is<\/span> God in heaven above, and upon the earth beneath: <span class='extra'>there is<\/span> none else.",
-      "plainText" : "Know therefore this day, and consider it in thine heart, that the LORD he is God in heaven above, and upon the earth beneath: there is none else."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "5044",
+      "text": "Know therefore this day, and consider <span class='extra'>it</span> in thine heart, that the <span class='nog'>LORD</span> he <span class='extra'>is</span> God in heaven above, and upon the earth beneath: <span class='extra'>there is</span> none else.",
+      "plainText": "Know therefore this day, and consider it in thine heart, that the LORD he is God in heaven above, and upon the earth beneath: there is none else."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "5045",
-      "text" : "Thou shalt keep therefore his statutes, and his commandments, which I command thee this day, that it may go well with thee, and with thy children after thee, and that thou mayest prolong <span class='extra'>thy<\/span> days upon the earth, which the <span class='nog'>LORD<\/span> thy God giveth thee, for ever.",
-      "plainText" : "Thou shalt keep therefore his statutes, and his commandments, which I command thee this day, that it may go well with thee, and with thy children after thee, and that thou mayest prolong thy days upon the earth, which the LORD thy God giveth thee, for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "5045",
+      "text": "Thou shalt keep therefore his statutes, and his commandments, which I command thee this day, that it may go well with thee, and with thy children after thee, and that thou mayest prolong <span class='extra'>thy</span> days upon the earth, which the <span class='nog'>LORD</span> thy God giveth thee, for ever.",
+      "plainText": "Thou shalt keep therefore his statutes, and his commandments, which I command thee this day, that it may go well with thee, and with thy children after thee, and that thou mayest prolong thy days upon the earth, which the LORD thy God giveth thee, for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "5046",
-      "text" : "Then Moses severed three cities on this side Jordan toward the sunrising;",
-      "plainText" : "Then Moses severed three cities on this side Jordan toward the sunrising;"
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "5046",
+      "text": "Then Moses severed three cities on this side Jordan toward the sunrising;",
+      "plainText": "Then Moses severed three cities on this side Jordan toward the sunrising;"
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "5047",
-      "text" : "That the slayer might flee thither, which should kill his neighbour unawares, and hated him not in times past; and that fleeing unto one of these cities he might live:",
-      "plainText" : "That the slayer might flee thither, which should kill his neighbour unawares, and hated him not in times past; and that fleeing unto one of these cities he might live:"
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "5047",
+      "text": "That the slayer might flee thither, which should kill his neighbour unawares, and hated him not in times past; and that fleeing unto one of these cities he might live:",
+      "plainText": "That the slayer might flee thither, which should kill his neighbour unawares, and hated him not in times past; and that fleeing unto one of these cities he might live:"
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "5048",
-      "text" : "<span class='extra'>Namely<\/span>, Bezer in the wilderness, in the plain country, of the Reubenites; and Ramoth in Gilead, of the Gadites; and Golan in Bashan, of the Manassites.",
-      "plainText" : "Namely, Bezer in the wilderness, in the plain country, of the Reubenites; and Ramoth in Gilead, of the Gadites; and Golan in Bashan, of the Manassites."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "5048",
+      "text": "<span class='extra'>Namely</span>, Bezer in the wilderness, in the plain country, of the Reubenites; and Ramoth in Gilead, of the Gadites; and Golan in Bashan, of the Manassites.",
+      "plainText": "Namely, Bezer in the wilderness, in the plain country, of the Reubenites; and Ramoth in Gilead, of the Gadites; and Golan in Bashan, of the Manassites."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "5049",
-      "text" : "And this <span class='extra'>is<\/span> the law which Moses set before the children of Israel:",
-      "plainText" : "And this is the law which Moses set before the children of Israel:"
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "5049",
+      "text": "And this <span class='extra'>is</span> the law which Moses set before the children of Israel:",
+      "plainText": "And this is the law which Moses set before the children of Israel:"
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "5050",
-      "text" : "These <span class='extra'>are<\/span> the testimonies, and the statutes, and the judgments, which Moses spake unto the children of Israel, after they came forth out of Egypt,",
-      "plainText" : "These are the testimonies, and the statutes, and the judgments, which Moses spake unto the children of Israel, after they came forth out of Egypt,"
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "5050",
+      "text": "These <span class='extra'>are</span> the testimonies, and the statutes, and the judgments, which Moses spake unto the children of Israel, after they came forth out of Egypt,",
+      "plainText": "These are the testimonies, and the statutes, and the judgments, which Moses spake unto the children of Israel, after they came forth out of Egypt,"
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "5051",
-      "text" : "On this side Jordan, in the valley over against Beth-peor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel smote, after they were come forth out of Egypt:",
-      "plainText" : "On this side Jordan, in the valley over against Beth-peor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel smote, after they were come forth out of Egypt:"
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "5051",
+      "text": "On this side Jordan, in the valley over against Beth-peor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel smote, after they were come forth out of Egypt:",
+      "plainText": "On this side Jordan, in the valley over against Beth-peor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel smote, after they were come forth out of Egypt:"
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "5052",
-      "text" : "And they possessed his land, and the land of Og king of Bashan, two kings of the Amorites, which <span class='extra'>were<\/span> on this side Jordan toward the sunrising;",
-      "plainText" : "And they possessed his land, and the land of Og king of Bashan, two kings of the Amorites, which were on this side Jordan toward the sunrising;"
-    }
-    ,
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "5052",
+      "text": "And they possessed his land, and the land of Og king of Bashan, two kings of the Amorites, which <span class='extra'>were</span> on this side Jordan toward the sunrising;",
+      "plainText": "And they possessed his land, and the land of Og king of Bashan, two kings of the Amorites, which were on this side Jordan toward the sunrising;"
+    },
     {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "5053",
-      "text" : "From Aroer, which <span class='extra'>is<\/span> by the bank of the river Arnon, even unto mount Sion, which <span class='extra'>is<\/span> Hermon,",
-      "plainText" : "From Aroer, which is by the bank of the river Arnon, even unto mount Sion, which is Hermon,"
-    }
-    ,
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "5053",
+      "text": "From Aroer, which <span class='extra'>is</span> by the bank of the river Arnon, even unto mount Sion, which <span class='extra'>is</span> Hermon,",
+      "plainText": "From Aroer, which is by the bank of the river Arnon, even unto mount Sion, which is Hermon,"
+    },
     {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "5054",
-      "text" : "And all the plain on this side Jordan eastward, even unto the sea of the plain, under the springs of Pisgah.",
-      "plainText" : "And all the plain on this side Jordan eastward, even unto the sea of the plain, under the springs of Pisgah."
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "5054",
+      "text": "And all the plain on this side Jordan eastward, even unto the sea of the plain, under the springs of Pisgah.",
+      "plainText": "And all the plain on this side Jordan eastward, even unto the sea of the plain, under the springs of Pisgah."
     }
   ]
 }
-
-

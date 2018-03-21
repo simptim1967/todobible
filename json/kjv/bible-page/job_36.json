@@ -1,325 +1,293 @@
 {
   "book": {
-    "number" : "18",
-    "filenamePrefix" : "job",
-    "bookPage" : "job.html",
-    "title" : "Job",
-    "chapterCount" : "42",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "psalms_1.html",
-    "nextTitle" : "Psalms",
-    "prevBook" : "esther_1.html",
-    "prevTitle" : "Esther"
+    "number": "18",
+    "filenamePrefix": "job",
+    "bookPage": "job.html",
+    "title": "Job",
+    "chapterCount": "42",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "psalms_1.html",
+    "nextTitle": "Psalms",
+    "prevBook": "esther_1.html",
+    "prevTitle": "Esther",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "36",
-    "verseCount" : "33",
-    "nextChapter" : "job_37.html",
-    "nextTitle" : "Job 37",
-    "prevChapter" : "job_35.html",
-    "prevTitle" : "Job 35",
-    "filename" : "job_36.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "36",
+    "verseCount": "33",
+    "nextChapter": "job_37.html",
+    "nextTitle": "Job 37",
+    "prevChapter": "job_35.html",
+    "prevTitle": "Job 35",
+    "filename": "job_36.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "13738",
-      "text" : "Elihu also proceeded, and said,",
-      "plainText" : "Elihu also proceeded, and said,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "13738",
+      "text": "Elihu also proceeded, and said,",
+      "plainText": "Elihu also proceeded, and said,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "13739",
-      "text" : "Suffer me a little, and I will shew thee that <span class='extra'>I have<\/span> yet to speak on God's behalf.",
-      "plainText" : "Suffer me a little, and I will shew thee that I have yet to speak on God's behalf."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "13739",
+      "text": "Suffer me a little, and I will shew thee that <span class='extra'>I have</span> yet to speak on God's behalf.",
+      "plainText": "Suffer me a little, and I will shew thee that I have yet to speak on God's behalf."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "13740",
-      "text" : "I will fetch my knowledge from afar, and will ascribe righteousness to my Maker.",
-      "plainText" : "I will fetch my knowledge from afar, and will ascribe righteousness to my Maker."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "13740",
+      "text": "I will fetch my knowledge from afar, and will ascribe righteousness to my Maker.",
+      "plainText": "I will fetch my knowledge from afar, and will ascribe righteousness to my Maker."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "13741",
-      "text" : "For truly my words <span class='extra'>shall<\/span> not <span class='extra'>be<\/span> false: he that is perfect in knowledge <span class='extra'>is<\/span> with thee.",
-      "plainText" : "For truly my words shall not be false: he that is perfect in knowledge is with thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "13741",
+      "text": "For truly my words <span class='extra'>shall</span> not <span class='extra'>be</span> false: he that is perfect in knowledge <span class='extra'>is</span> with thee.",
+      "plainText": "For truly my words shall not be false: he that is perfect in knowledge is with thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "13742",
-      "text" : "Behold, God <span class='extra'>is<\/span> mighty, and despiseth not <span class='extra'>any: he is<\/span> mighty in strength <span class='extra'>and<\/span> wisdom.",
-      "plainText" : "Behold, God is mighty, and despiseth not any: he is mighty in strength and wisdom."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "13742",
+      "text": "Behold, God <span class='extra'>is</span> mighty, and despiseth not <span class='extra'>any: he is</span> mighty in strength <span class='extra'>and</span> wisdom.",
+      "plainText": "Behold, God is mighty, and despiseth not any: he is mighty in strength and wisdom."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "13743",
-      "text" : "He preserveth not the life of the wicked: but giveth right to the poor.",
-      "plainText" : "He preserveth not the life of the wicked: but giveth right to the poor."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "13743",
+      "text": "He preserveth not the life of the wicked: but giveth right to the poor.",
+      "plainText": "He preserveth not the life of the wicked: but giveth right to the poor."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "13744",
-      "text" : "He withdraweth not his eyes from the righteous: but with kings <span class='extra'>are they<\/span> on the throne; yea, he doth establish them for ever, and they are exalted.",
-      "plainText" : "He withdraweth not his eyes from the righteous: but with kings are they on the throne; yea, he doth establish them for ever, and they are exalted."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "13744",
+      "text": "He withdraweth not his eyes from the righteous: but with kings <span class='extra'>are they</span> on the throne; yea, he doth establish them for ever, and they are exalted.",
+      "plainText": "He withdraweth not his eyes from the righteous: but with kings are they on the throne; yea, he doth establish them for ever, and they are exalted."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "13745",
-      "text" : "And if <span class='extra'>they be<\/span> bound in fetters, <span class='extra'>and<\/span> be holden in cords of affliction;",
-      "plainText" : "And if they be bound in fetters, and be holden in cords of affliction;"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "13745",
+      "text": "And if <span class='extra'>they be</span> bound in fetters, <span class='extra'>and</span> be holden in cords of affliction;",
+      "plainText": "And if they be bound in fetters, and be holden in cords of affliction;"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "13746",
-      "text" : "Then he sheweth them their work, and their transgressions that they have exceeded.",
-      "plainText" : "Then he sheweth them their work, and their transgressions that they have exceeded."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "13746",
+      "text": "Then he sheweth them their work, and their transgressions that they have exceeded.",
+      "plainText": "Then he sheweth them their work, and their transgressions that they have exceeded."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "13747",
-      "text" : "He openeth also their ear to discipline, and commandeth that they return from iniquity.",
-      "plainText" : "He openeth also their ear to discipline, and commandeth that they return from iniquity."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "13747",
+      "text": "He openeth also their ear to discipline, and commandeth that they return from iniquity.",
+      "plainText": "He openeth also their ear to discipline, and commandeth that they return from iniquity."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "13748",
-      "text" : "If they obey and serve <span class='extra'>him<\/span>, they shall spend their days in prosperity, and their years in pleasures.",
-      "plainText" : "If they obey and serve him, they shall spend their days in prosperity, and their years in pleasures."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "13748",
+      "text": "If they obey and serve <span class='extra'>him</span>, they shall spend their days in prosperity, and their years in pleasures.",
+      "plainText": "If they obey and serve him, they shall spend their days in prosperity, and their years in pleasures."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "13749",
-      "text" : "But if they obey not, they shall perish by the sword, and they shall die without knowledge.",
-      "plainText" : "But if they obey not, they shall perish by the sword, and they shall die without knowledge."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "13749",
+      "text": "But if they obey not, they shall perish by the sword, and they shall die without knowledge.",
+      "plainText": "But if they obey not, they shall perish by the sword, and they shall die without knowledge."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "13750",
-      "text" : "But the hypocrites in heart heap up wrath: they cry not when he bindeth them.",
-      "plainText" : "But the hypocrites in heart heap up wrath: they cry not when he bindeth them."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "13750",
+      "text": "But the hypocrites in heart heap up wrath: they cry not when he bindeth them.",
+      "plainText": "But the hypocrites in heart heap up wrath: they cry not when he bindeth them."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "13751",
-      "text" : "They die in youth, and their life <span class='extra'>is<\/span> among the unclean.",
-      "plainText" : "They die in youth, and their life is among the unclean."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "13751",
+      "text": "They die in youth, and their life <span class='extra'>is</span> among the unclean.",
+      "plainText": "They die in youth, and their life is among the unclean."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "13752",
-      "text" : "He delivereth the poor in his affliction, and openeth their ears in oppression.",
-      "plainText" : "He delivereth the poor in his affliction, and openeth their ears in oppression."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "13752",
+      "text": "He delivereth the poor in his affliction, and openeth their ears in oppression.",
+      "plainText": "He delivereth the poor in his affliction, and openeth their ears in oppression."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "13753",
-      "text" : "Even so would he have removed thee out of the strait <span class='extra'>into<\/span> a broad place, where <span class='extra'>there is<\/span> no straitness; and that which should be set on thy table <span class='extra'>should be<\/span> full of fatness.",
-      "plainText" : "Even so would he have removed thee out of the strait into a broad place, where there is no straitness; and that which should be set on thy table should be full of fatness."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "13753",
+      "text": "Even so would he have removed thee out of the strait <span class='extra'>into</span> a broad place, where <span class='extra'>there is</span> no straitness; and that which should be set on thy table <span class='extra'>should be</span> full of fatness.",
+      "plainText": "Even so would he have removed thee out of the strait into a broad place, where there is no straitness; and that which should be set on thy table should be full of fatness."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "13754",
-      "text" : "But thou hast fulfilled the judgment of the wicked: judgment and justice take hold <span class='extra'>on thee<\/span>.",
-      "plainText" : "But thou hast fulfilled the judgment of the wicked: judgment and justice take hold on thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "13754",
+      "text": "But thou hast fulfilled the judgment of the wicked: judgment and justice take hold <span class='extra'>on thee</span>.",
+      "plainText": "But thou hast fulfilled the judgment of the wicked: judgment and justice take hold on thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "13755",
-      "text" : "Because <span class='extra'>there is<\/span> wrath, <span class='extra'>beware<\/span> lest he take thee away with <span class='extra'>his<\/span> stroke: then a great ransom cannot deliver thee.",
-      "plainText" : "Because there is wrath, beware lest he take thee away with his stroke: then a great ransom cannot deliver thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "13755",
+      "text": "Because <span class='extra'>there is</span> wrath, <span class='extra'>beware</span> lest he take thee away with <span class='extra'>his</span> stroke: then a great ransom cannot deliver thee.",
+      "plainText": "Because there is wrath, beware lest he take thee away with his stroke: then a great ransom cannot deliver thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "13756",
-      "text" : "Will he esteem thy riches? <span class='extra'>no<\/span>, not gold, nor all the forces of strength.",
-      "plainText" : "Will he esteem thy riches? no, not gold, nor all the forces of strength."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "13756",
+      "text": "Will he esteem thy riches? <span class='extra'>no</span>, not gold, nor all the forces of strength.",
+      "plainText": "Will he esteem thy riches? no, not gold, nor all the forces of strength."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "13757",
-      "text" : "Desire not the night, when people are cut off in their place.",
-      "plainText" : "Desire not the night, when people are cut off in their place."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "13757",
+      "text": "Desire not the night, when people are cut off in their place.",
+      "plainText": "Desire not the night, when people are cut off in their place."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "13758",
-      "text" : "Take heed, regard not iniquity: for this hast thou chosen rather than affliction.",
-      "plainText" : "Take heed, regard not iniquity: for this hast thou chosen rather than affliction."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "13758",
+      "text": "Take heed, regard not iniquity: for this hast thou chosen rather than affliction.",
+      "plainText": "Take heed, regard not iniquity: for this hast thou chosen rather than affliction."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "13759",
-      "text" : "Behold, God exalteth by his power: who teacheth like him?",
-      "plainText" : "Behold, God exalteth by his power: who teacheth like him?"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "13759",
+      "text": "Behold, God exalteth by his power: who teacheth like him?",
+      "plainText": "Behold, God exalteth by his power: who teacheth like him?"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "13760",
-      "text" : "Who hath enjoined him his way? or who can say, Thou hast wrought iniquity?",
-      "plainText" : "Who hath enjoined him his way? or who can say, Thou hast wrought iniquity?"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "13760",
+      "text": "Who hath enjoined him his way? or who can say, Thou hast wrought iniquity?",
+      "plainText": "Who hath enjoined him his way? or who can say, Thou hast wrought iniquity?"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "13761",
-      "text" : "Remember that thou magnify his work, which men behold.",
-      "plainText" : "Remember that thou magnify his work, which men behold."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "13761",
+      "text": "Remember that thou magnify his work, which men behold.",
+      "plainText": "Remember that thou magnify his work, which men behold."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "13762",
-      "text" : "Every man may see it; man may behold <span class='extra'>it<\/span> afar off.",
-      "plainText" : "Every man may see it; man may behold it afar off."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "13762",
+      "text": "Every man may see it; man may behold <span class='extra'>it</span> afar off.",
+      "plainText": "Every man may see it; man may behold it afar off."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "13763",
-      "text" : "Behold, God <span class='extra'>is<\/span> great, and we know <span class='extra'>him<\/span> not, neither can the number of his years be searched out.",
-      "plainText" : "Behold, God is great, and we know him not, neither can the number of his years be searched out."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "13763",
+      "text": "Behold, God <span class='extra'>is</span> great, and we know <span class='extra'>him</span> not, neither can the number of his years be searched out.",
+      "plainText": "Behold, God is great, and we know him not, neither can the number of his years be searched out."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "13764",
-      "text" : "For he maketh small the drops of water: they pour down rain according to the vapour thereof:",
-      "plainText" : "For he maketh small the drops of water: they pour down rain according to the vapour thereof:"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "13764",
+      "text": "For he maketh small the drops of water: they pour down rain according to the vapour thereof:",
+      "plainText": "For he maketh small the drops of water: they pour down rain according to the vapour thereof:"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "13765",
-      "text" : "Which the clouds do drop <span class='extra'>and<\/span> distil upon man abundantly.",
-      "plainText" : "Which the clouds do drop and distil upon man abundantly."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "13765",
+      "text": "Which the clouds do drop <span class='extra'>and</span> distil upon man abundantly.",
+      "plainText": "Which the clouds do drop and distil upon man abundantly."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "13766",
-      "text" : "Also can <span class='extra'>any<\/span> understand the spreadings of the clouds, <span class='extra'>or<\/span> the noise of his tabernacle?",
-      "plainText" : "Also can any understand the spreadings of the clouds, or the noise of his tabernacle?"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "13766",
+      "text": "Also can <span class='extra'>any</span> understand the spreadings of the clouds, <span class='extra'>or</span> the noise of his tabernacle?",
+      "plainText": "Also can any understand the spreadings of the clouds, or the noise of his tabernacle?"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "13767",
-      "text" : "Behold, he spreadeth his light upon it, and covereth the bottom of the sea.",
-      "plainText" : "Behold, he spreadeth his light upon it, and covereth the bottom of the sea."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "13767",
+      "text": "Behold, he spreadeth his light upon it, and covereth the bottom of the sea.",
+      "plainText": "Behold, he spreadeth his light upon it, and covereth the bottom of the sea."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "13768",
-      "text" : "For by them judgeth he the people; he giveth meat in abundance.",
-      "plainText" : "For by them judgeth he the people; he giveth meat in abundance."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "13768",
+      "text": "For by them judgeth he the people; he giveth meat in abundance.",
+      "plainText": "For by them judgeth he the people; he giveth meat in abundance."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "13769",
-      "text" : "With clouds he covereth the light; and commandeth it <span class='extra'>not to shine<\/span> by <span class='extra'>the cloud<\/span> that cometh betwixt.",
-      "plainText" : "With clouds he covereth the light; and commandeth it not to shine by the cloud that cometh betwixt."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "13769",
+      "text": "With clouds he covereth the light; and commandeth it <span class='extra'>not to shine</span> by <span class='extra'>the cloud</span> that cometh betwixt.",
+      "plainText": "With clouds he covereth the light; and commandeth it not to shine by the cloud that cometh betwixt."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "13770",
-      "text" : "The noise thereof sheweth concerning it, the cattle also concerning the vapour.",
-      "plainText" : "The noise thereof sheweth concerning it, the cattle also concerning the vapour."
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "13770",
+      "text": "The noise thereof sheweth concerning it, the cattle also concerning the vapour.",
+      "plainText": "The noise thereof sheweth concerning it, the cattle also concerning the vapour."
     }
   ]
 }
-

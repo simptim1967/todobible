@@ -1,326 +1,293 @@
 {
   "book": {
-    "number" : "3",
-    "filenamePrefix" : "leviticus",
-    "bookPage" : "leviticus.html",
-    "title" : "Leviticus",
-    "chapterCount" : "27",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "numbers_1.html",
-    "nextTitle" : "Numbers",
-    "prevBook" : "exodus_1.html",
-    "prevTitle" : "Exodus"
+    "number": "3",
+    "filenamePrefix": "leviticus",
+    "bookPage": "leviticus.html",
+    "title": "Leviticus",
+    "chapterCount": "27",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "numbers_1.html",
+    "nextTitle": "Numbers",
+    "prevBook": "exodus_1.html",
+    "prevTitle": "Exodus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "22",
-    "verseCount" : "33",
-    "nextChapter" : "leviticus_23.html",
-    "nextTitle" : "Leviticus 23",
-    "prevChapter" : "leviticus_21.html",
-    "prevTitle" : "Leviticus 21",
-    "filename" : "leviticus_22.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "22",
+    "verseCount": "33",
+    "nextChapter": "leviticus_23.html",
+    "nextTitle": "Leviticus 23",
+    "prevChapter": "leviticus_21.html",
+    "prevTitle": "Leviticus 21",
+    "filename": "leviticus_22.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "3371",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "3371",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "3372",
-      "text" : "Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name <span class='extra'>in those things<\/span> which they hallow unto me: I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name in those things which they hallow unto me: I am the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "3372",
+      "text": "Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name <span class='extra'>in those things</span> which they hallow unto me: I <span class='extra'>am</span> the <span class='nog'>LORD</span>.",
+      "plainText": "Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name in those things which they hallow unto me: I am the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "3373",
-      "text" : "Say unto them, Whosoever <span class='extra'>he be<\/span> of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the <span class='nog'>LORD<\/span>, having his uncleanness upon him, that soul shall be cut off from my presence: I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Say unto them, Whosoever he be of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the LORD, having his uncleanness upon him, that soul shall be cut off from my presence: I am the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "3373",
+      "text": "Say unto them, Whosoever <span class='extra'>he be</span> of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the <span class='nog'>LORD</span>, having his uncleanness upon him, that soul shall be cut off from my presence: I <span class='extra'>am</span> the <span class='nog'>LORD</span>.",
+      "plainText": "Say unto them, Whosoever he be of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the LORD, having his uncleanness upon him, that soul shall be cut off from my presence: I am the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "3374",
-      "text" : "What man soever of the seed of Aaron <span class='extra'>is<\/span> a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing <span class='extra'>that is<\/span> unclean <span class='extra'>by<\/span> the dead, or a man whose seed goeth from him;",
-      "plainText" : "What man soever of the seed of Aaron is a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing that is unclean by the dead, or a man whose seed goeth from him;"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "3374",
+      "text": "What man soever of the seed of Aaron <span class='extra'>is</span> a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing <span class='extra'>that is</span> unclean <span class='extra'>by</span> the dead, or a man whose seed goeth from him;",
+      "plainText": "What man soever of the seed of Aaron is a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing that is unclean by the dead, or a man whose seed goeth from him;"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "3375",
-      "text" : "Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;",
-      "plainText" : "Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "3375",
+      "text": "Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;",
+      "plainText": "Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "3376",
-      "text" : "The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water.",
-      "plainText" : "The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "3376",
+      "text": "The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water.",
+      "plainText": "The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "3377",
-      "text" : "And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it <span class='extra'>is<\/span> his food.",
-      "plainText" : "And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it is his food."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "3377",
+      "text": "And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it <span class='extra'>is</span> his food.",
+      "plainText": "And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it is his food."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "3378",
-      "text" : "That which dieth of itself, or is torn <span class='extra'>with beasts<\/span>, he shall not eat to defile himself therewith: I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>.",
-      "plainText" : "That which dieth of itself, or is torn with beasts, he shall not eat to defile himself therewith: I am the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "3378",
+      "text": "That which dieth of itself, or is torn <span class='extra'>with beasts</span>, he shall not eat to defile himself therewith: I <span class='extra'>am</span> the <span class='nog'>LORD</span>.",
+      "plainText": "That which dieth of itself, or is torn with beasts, he shall not eat to defile himself therewith: I am the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "3379",
-      "text" : "They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the <span class='nog'>LORD<\/span> do sanctify them.",
-      "plainText" : "They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the LORD do sanctify them."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "3379",
+      "text": "They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the <span class='nog'>LORD</span> do sanctify them.",
+      "plainText": "They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the LORD do sanctify them."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "3380",
-      "text" : "There shall no stranger eat <span class='extra'>of<\/span> the holy thing: a sojourner of the priest, or an hired servant, shall not eat <span class='extra'>of<\/span> the holy thing.",
-      "plainText" : "There shall no stranger eat of the holy thing: a sojourner of the priest, or an hired servant, shall not eat of the holy thing."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "3380",
+      "text": "There shall no stranger eat <span class='extra'>of</span> the holy thing: a sojourner of the priest, or an hired servant, shall not eat <span class='extra'>of</span> the holy thing.",
+      "plainText": "There shall no stranger eat of the holy thing: a sojourner of the priest, or an hired servant, shall not eat of the holy thing."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "3381",
-      "text" : "But if the priest buy <span class='extra'>any<\/span> soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat.",
-      "plainText" : "But if the priest buy any soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "3381",
+      "text": "But if the priest buy <span class='extra'>any</span> soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat.",
+      "plainText": "But if the priest buy any soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "3382",
-      "text" : "If the priest's daughter also be <span class='extra'>married<\/span> unto a stranger, she may not eat of an offering of the holy things.",
-      "plainText" : "If the priest's daughter also be married unto a stranger, she may not eat of an offering of the holy things."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "3382",
+      "text": "If the priest's daughter also be <span class='extra'>married</span> unto a stranger, she may not eat of an offering of the holy things.",
+      "plainText": "If the priest's daughter also be married unto a stranger, she may not eat of an offering of the holy things."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "3383",
-      "text" : "But if the priest's daughter be a widow, or divorced, and have no child, and is returned unto her father's house, as in her youth, she shall eat of her father's meat: but there shall no stranger eat thereof.",
-      "plainText" : "But if the priest's daughter be a widow, or divorced, and have no child, and is returned unto her father's house, as in her youth, she shall eat of her father's meat: but there shall no stranger eat thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "3383",
+      "text": "But if the priest's daughter be a widow, or divorced, and have no child, and is returned unto her father's house, as in her youth, she shall eat of her father's meat: but there shall no stranger eat thereof.",
+      "plainText": "But if the priest's daughter be a widow, or divorced, and have no child, and is returned unto her father's house, as in her youth, she shall eat of her father's meat: but there shall no stranger eat thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "3384",
-      "text" : "And if a man eat <span class='extra'>of<\/span> the holy thing unwittingly, then he shall put the fifth <span class='extra'>part<\/span> thereof unto it, and shall give <span class='extra'>it<\/span> unto the priest with the holy thing.",
-      "plainText" : "And if a man eat of the holy thing unwittingly, then he shall put the fifth part thereof unto it, and shall give it unto the priest with the holy thing."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "3384",
+      "text": "And if a man eat <span class='extra'>of</span> the holy thing unwittingly, then he shall put the fifth <span class='extra'>part</span> thereof unto it, and shall give <span class='extra'>it</span> unto the priest with the holy thing.",
+      "plainText": "And if a man eat of the holy thing unwittingly, then he shall put the fifth part thereof unto it, and shall give it unto the priest with the holy thing."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "3385",
-      "text" : "And they shall not profane the holy things of the children of Israel, which they offer unto the <span class='nog'>LORD<\/span>;",
-      "plainText" : "And they shall not profane the holy things of the children of Israel, which they offer unto the LORD;"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "3385",
+      "text": "And they shall not profane the holy things of the children of Israel, which they offer unto the <span class='nog'>LORD</span>;",
+      "plainText": "And they shall not profane the holy things of the children of Israel, which they offer unto the LORD;"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "3386",
-      "text" : "Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the <span class='nog'>LORD<\/span> do sanctify them.",
-      "plainText" : "Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the LORD do sanctify them."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "3386",
+      "text": "Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the <span class='nog'>LORD</span> do sanctify them.",
+      "plainText": "Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the LORD do sanctify them."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "3387",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "3387",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "3388",
-      "text" : "Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever <span class='extra'>he be<\/span> of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the <span class='nog'>LORD<\/span> for a burnt offering;",
-      "plainText" : "Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever he be of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the LORD for a burnt offering;"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "3388",
+      "text": "Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever <span class='extra'>he be</span> of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the <span class='nog'>LORD</span> for a burnt offering;",
+      "plainText": "Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever he be of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the LORD for a burnt offering;"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "3389",
-      "text" : "<span class='extra'>Ye shall offer<\/span> at your own will a male without blemish, of the beeves, of the sheep, or of the goats.",
-      "plainText" : "Ye shall offer at your own will a male without blemish, of the beeves, of the sheep, or of the goats."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "3389",
+      "text": "<span class='extra'>Ye shall offer</span> at your own will a male without blemish, of the beeves, of the sheep, or of the goats.",
+      "plainText": "Ye shall offer at your own will a male without blemish, of the beeves, of the sheep, or of the goats."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "3390",
-      "text" : "<span class='extra'>But<\/span> whatsoever hath a blemish, <span class='extra'>that<\/span> shall ye not offer: for it shall not be acceptable for you.",
-      "plainText" : "But whatsoever hath a blemish, that shall ye not offer: for it shall not be acceptable for you."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "3390",
+      "text": "<span class='extra'>But</span> whatsoever hath a blemish, <span class='extra'>that</span> shall ye not offer: for it shall not be acceptable for you.",
+      "plainText": "But whatsoever hath a blemish, that shall ye not offer: for it shall not be acceptable for you."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "3391",
-      "text" : "And whosoever offereth a sacrifice of peace offerings unto the <span class='nog'>LORD<\/span> to accomplish <span class='extra'>his<\/span> vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein.",
-      "plainText" : "And whosoever offereth a sacrifice of peace offerings unto the LORD to accomplish his vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "3391",
+      "text": "And whosoever offereth a sacrifice of peace offerings unto the <span class='nog'>LORD</span> to accomplish <span class='extra'>his</span> vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein.",
+      "plainText": "And whosoever offereth a sacrifice of peace offerings unto the LORD to accomplish his vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "3392",
-      "text" : "Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the <span class='nog'>LORD<\/span>, nor make an offering by fire of them upon the altar unto the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the LORD, nor make an offering by fire of them upon the altar unto the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "3392",
+      "text": "Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the <span class='nog'>LORD</span>, nor make an offering by fire of them upon the altar unto the <span class='nog'>LORD</span>.",
+      "plainText": "Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the LORD, nor make an offering by fire of them upon the altar unto the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "3393",
-      "text" : "Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer <span class='extra'>for<\/span> a freewill offering; but for a vow it shall not be accepted.",
-      "plainText" : "Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer for a freewill offering; but for a vow it shall not be accepted."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "3393",
+      "text": "Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer <span class='extra'>for</span> a freewill offering; but for a vow it shall not be accepted.",
+      "plainText": "Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer for a freewill offering; but for a vow it shall not be accepted."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "3394",
-      "text" : "Ye shall not offer unto the <span class='nog'>LORD<\/span> that which is bruised, or crushed, or broken, or cut; neither shall ye make <span class='extra'>any offering thereof<\/span> in your land.",
-      "plainText" : "Ye shall not offer unto the LORD that which is bruised, or crushed, or broken, or cut; neither shall ye make any offering thereof in your land."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "3394",
+      "text": "Ye shall not offer unto the <span class='nog'>LORD</span> that which is bruised, or crushed, or broken, or cut; neither shall ye make <span class='extra'>any offering thereof</span> in your land.",
+      "plainText": "Ye shall not offer unto the LORD that which is bruised, or crushed, or broken, or cut; neither shall ye make any offering thereof in your land."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "3395",
-      "text" : "Neither from a stranger's hand shall ye offer the bread of your God of any of these; because their corruption <span class='extra'>is<\/span> in them, <span class='extra'>and<\/span> blemishes <span class='extra'>be<\/span> in them: they shall not be accepted for you.",
-      "plainText" : "Neither from a stranger's hand shall ye offer the bread of your God of any of these; because their corruption is in them, and blemishes be in them: they shall not be accepted for you."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "3395",
+      "text": "Neither from a stranger's hand shall ye offer the bread of your God of any of these; because their corruption <span class='extra'>is</span> in them, <span class='extra'>and</span> blemishes <span class='extra'>be</span> in them: they shall not be accepted for you.",
+      "plainText": "Neither from a stranger's hand shall ye offer the bread of your God of any of these; because their corruption is in them, and blemishes be in them: they shall not be accepted for you."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "3396",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "3396",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "3397",
-      "text" : "When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the <span class='nog'>LORD<\/span>.",
-      "plainText" : "When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "3397",
+      "text": "When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the <span class='nog'>LORD</span>.",
+      "plainText": "When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "3398",
-      "text" : "And <span class='extra'>whether it be<\/span> cow or ewe, ye shall not kill it and her young both in one day.",
-      "plainText" : "And whether it be cow or ewe, ye shall not kill it and her young both in one day."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "3398",
+      "text": "And <span class='extra'>whether it be</span> cow or ewe, ye shall not kill it and her young both in one day.",
+      "plainText": "And whether it be cow or ewe, ye shall not kill it and her young both in one day."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "3399",
-      "text" : "And when ye will offer a sacrifice of thanksgiving unto the <span class='nog'>LORD<\/span>, offer <span class='extra'>it<\/span> at your own will.",
-      "plainText" : "And when ye will offer a sacrifice of thanksgiving unto the LORD, offer it at your own will."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "3399",
+      "text": "And when ye will offer a sacrifice of thanksgiving unto the <span class='nog'>LORD</span>, offer <span class='extra'>it</span> at your own will.",
+      "plainText": "And when ye will offer a sacrifice of thanksgiving unto the LORD, offer it at your own will."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "3400",
-      "text" : "On the same day it shall be eaten up; ye shall leave none of it until the morrow: I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>.",
-      "plainText" : "On the same day it shall be eaten up; ye shall leave none of it until the morrow: I am the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "3400",
+      "text": "On the same day it shall be eaten up; ye shall leave none of it until the morrow: I <span class='extra'>am</span> the <span class='nog'>LORD</span>.",
+      "plainText": "On the same day it shall be eaten up; ye shall leave none of it until the morrow: I am the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "3401",
-      "text" : "Therefore shall ye keep my commandments, and do them: I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Therefore shall ye keep my commandments, and do them: I am the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "3401",
+      "text": "Therefore shall ye keep my commandments, and do them: I <span class='extra'>am</span> the <span class='nog'>LORD</span>.",
+      "plainText": "Therefore shall ye keep my commandments, and do them: I am the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "3402",
-      "text" : "Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span> which hallow you,",
-      "plainText" : "Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I am the LORD which hallow you,"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "3402",
+      "text": "Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I <span class='extra'>am</span> the <span class='nog'>LORD</span> which hallow you,",
+      "plainText": "Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I am the LORD which hallow you,"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "3403",
-      "text" : "That brought you out of the land of Egypt, to be your God: I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>.",
-      "plainText" : "That brought you out of the land of Egypt, to be your God: I am the LORD."
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "3403",
+      "text": "That brought you out of the land of Egypt, to be your God: I <span class='extra'>am</span> the <span class='nog'>LORD</span>.",
+      "plainText": "That brought you out of the land of Egypt, to be your God: I am the LORD."
     }
   ]
 }
-
-

@@ -1,460 +1,413 @@
 {
   "book": {
-    "number" : "44",
-    "filenamePrefix" : "acts",
-    "bookPage" : "acts.html",
-    "title" : "Acts",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "romans_1.html",
-    "nextTitle" : "Romans",
-    "prevBook" : "john_1.html",
-    "prevTitle" : "John"
+    "number": "44",
+    "filenamePrefix": "acts",
+    "bookPage": "acts.html",
+    "title": "Acts",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "romans_1.html",
+    "nextTitle": "Romans",
+    "prevBook": "john_1.html",
+    "prevTitle": "John",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "10",
-    "verseCount" : "48",
-    "nextChapter" : "acts_11.html",
-    "nextTitle" : "Acts 11",
-    "prevChapter" : "acts_9.html",
-    "prevTitle" : "Acts 9",
-    "filename" : "acts_10.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "10",
+    "verseCount": "48",
+    "nextChapter": "acts_11.html",
+    "nextTitle": "Acts 11",
+    "prevChapter": "acts_9.html",
+    "prevTitle": "Acts 9",
+    "filename": "acts_10.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "27261",
-      "text" : "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian <span class='extra'>band<\/span>,",
-      "plainText" : "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "27261",
+      "text": "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian <span class='extra'>band</span>,",
+      "plainText": "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "27262",
-      "text" : "<span class='extra'>A<\/span> devout <span class='extra'>man<\/span>, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.",
-      "plainText" : "A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "27262",
+      "text": "<span class='extra'>A</span> devout <span class='extra'>man</span>, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.",
+      "plainText": "A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "27263",
-      "text" : "He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius.",
-      "plainText" : "He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "27263",
+      "text": "He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius.",
+      "plainText": "He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "27264",
-      "text" : "And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God.",
-      "plainText" : "And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "27264",
+      "text": "And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God.",
+      "plainText": "And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "27265",
-      "text" : "And now send men to Joppa, and call for <span class='extra'>one<\/span> Simon, whose surname is Peter:",
-      "plainText" : "And now send men to Joppa, and call for one Simon, whose surname is Peter:"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "27265",
+      "text": "And now send men to Joppa, and call for <span class='extra'>one</span> Simon, whose surname is Peter:",
+      "plainText": "And now send men to Joppa, and call for one Simon, whose surname is Peter:"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "27266",
-      "text" : "He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do.",
-      "plainText" : "He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "27266",
+      "text": "He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do.",
+      "plainText": "He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "27267",
-      "text" : "And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;",
-      "plainText" : "And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "27267",
+      "text": "And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;",
+      "plainText": "And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "27268",
-      "text" : "And when he had declared all <span class='extra'>these<\/span> things unto them, he sent them to Joppa.",
-      "plainText" : "And when he had declared all these things unto them, he sent them to Joppa."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "27268",
+      "text": "And when he had declared all <span class='extra'>these</span> things unto them, he sent them to Joppa.",
+      "plainText": "And when he had declared all these things unto them, he sent them to Joppa."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "27269",
-      "text" : "On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:",
-      "plainText" : "On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "27269",
+      "text": "On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:",
+      "plainText": "On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "27270",
-      "text" : "And he became very hungry, and would have eaten: but while they made ready, he fell into a trance,",
-      "plainText" : "And he became very hungry, and would have eaten: but while they made ready, he fell into a trance,"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "27270",
+      "text": "And he became very hungry, and would have eaten: but while they made ready, he fell into a trance,",
+      "plainText": "And he became very hungry, and would have eaten: but while they made ready, he fell into a trance,"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "27271",
-      "text" : "And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth:",
-      "plainText" : "And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "27271",
+      "text": "And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth:",
+      "plainText": "And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "27272",
-      "text" : "Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.",
-      "plainText" : "Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "27272",
+      "text": "Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.",
+      "plainText": "Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "27273",
-      "text" : "And there came a voice to him, <span class='woc'>Rise, Peter; kill, and eat.<\/span>",
-      "plainText" : "And there came a voice to him, Rise, Peter; kill, and eat."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "27273",
+      "text": "And there came a voice to him, <span class='woc'>Rise, Peter; kill, and eat.</span>",
+      "plainText": "And there came a voice to him, Rise, Peter; kill, and eat."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "27274",
-      "text" : "But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean.",
-      "plainText" : "But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "27274",
+      "text": "But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean.",
+      "plainText": "But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "27275",
-      "text" : "And the voice <span class='extra'>spake<\/span> unto him again the second time, <span class='woc'>What God hath cleansed, <span class='extra'>that<\/span> call not thou common.<\/span>",
-      "plainText" : "And the voice spake unto him again the second time, What God hath cleansed, that call not thou common."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "27275",
+      "text": "And the voice <span class='extra'>spake</span> unto him again the second time, <span class='woc'>What God hath cleansed, <span class='extra'>that</span> call not thou common.</span>",
+      "plainText": "And the voice spake unto him again the second time, What God hath cleansed, that call not thou common."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "27276",
-      "text" : "This was done thrice: and the vessel was received up again into heaven.",
-      "plainText" : "This was done thrice: and the vessel was received up again into heaven."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "27276",
+      "text": "This was done thrice: and the vessel was received up again into heaven.",
+      "plainText": "This was done thrice: and the vessel was received up again into heaven."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "27277",
-      "text" : "Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made enquiry for Simon's house, and stood before the gate,",
-      "plainText" : "Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made enquiry for Simon's house, and stood before the gate,"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "27277",
+      "text": "Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made enquiry for Simon's house, and stood before the gate,",
+      "plainText": "Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made enquiry for Simon's house, and stood before the gate,"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "27278",
-      "text" : "And called, and asked whether Simon, which was surnamed Peter, were lodged there.",
-      "plainText" : "And called, and asked whether Simon, which was surnamed Peter, were lodged there."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "27278",
+      "text": "And called, and asked whether Simon, which was surnamed Peter, were lodged there.",
+      "plainText": "And called, and asked whether Simon, which was surnamed Peter, were lodged there."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "27279",
-      "text" : "While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee.",
-      "plainText" : "While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "27279",
+      "text": "While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee.",
+      "plainText": "While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "27280",
-      "text" : "Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them.",
-      "plainText" : "Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "27280",
+      "text": "Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them.",
+      "plainText": "Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "27281",
-      "text" : "Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what <span class='extra'>is<\/span> the cause wherefore ye are come?",
-      "plainText" : "Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what is the cause wherefore ye are come?"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "27281",
+      "text": "Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what <span class='extra'>is</span> the cause wherefore ye are come?",
+      "plainText": "Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what is the cause wherefore ye are come?"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "27282",
-      "text" : "And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee.",
-      "plainText" : "And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "27282",
+      "text": "And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee.",
+      "plainText": "And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "27283",
-      "text" : "Then called he them in, and lodged <span class='extra'>them<\/span>. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him.",
-      "plainText" : "Then called he them in, and lodged them. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "27283",
+      "text": "Then called he them in, and lodged <span class='extra'>them</span>. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him.",
+      "plainText": "Then called he them in, and lodged them. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "27284",
-      "text" : "And the morrow after they entered into Caesarea. And Cornelius waited for them, and had called together his kinsmen and near friends.",
-      "plainText" : "And the morrow after they entered into Caesarea. And Cornelius waited for them, and had called together his kinsmen and near friends."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "27284",
+      "text": "And the morrow after they entered into Caesarea. And Cornelius waited for them, and had called together his kinsmen and near friends.",
+      "plainText": "And the morrow after they entered into Caesarea. And Cornelius waited for them, and had called together his kinsmen and near friends."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "27285",
-      "text" : "And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped <span class='extra'>him<\/span>.",
-      "plainText" : "And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped him."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "27285",
+      "text": "And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped <span class='extra'>him</span>.",
+      "plainText": "And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped him."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "27286",
-      "text" : "But Peter took him up, saying, Stand up; I myself also am a man.",
-      "plainText" : "But Peter took him up, saying, Stand up; I myself also am a man."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "27286",
+      "text": "But Peter took him up, saying, Stand up; I myself also am a man.",
+      "plainText": "But Peter took him up, saying, Stand up; I myself also am a man."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "27287",
-      "text" : "And as he talked with him, he went in, and found many that were come together.",
-      "plainText" : "And as he talked with him, he went in, and found many that were come together."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "27287",
+      "text": "And as he talked with him, he went in, and found many that were come together.",
+      "plainText": "And as he talked with him, he went in, and found many that were come together."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "27288",
-      "text" : "And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean.",
-      "plainText" : "And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "27288",
+      "text": "And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean.",
+      "plainText": "And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "27289",
-      "text" : "Therefore came I <span class='extra'>unto you<\/span> without gainsaying, as soon as I was sent for: I ask therefore for what intent ye have sent for me?",
-      "plainText" : "Therefore came I unto you without gainsaying, as soon as I was sent for: I ask therefore for what intent ye have sent for me?"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "27289",
+      "text": "Therefore came I <span class='extra'>unto you</span> without gainsaying, as soon as I was sent for: I ask therefore for what intent ye have sent for me?",
+      "plainText": "Therefore came I unto you without gainsaying, as soon as I was sent for: I ask therefore for what intent ye have sent for me?"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "27290",
-      "text" : "And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, behold, a man stood before me in bright clothing,",
-      "plainText" : "And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, behold, a man stood before me in bright clothing,"
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "27290",
+      "text": "And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, behold, a man stood before me in bright clothing,",
+      "plainText": "And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, behold, a man stood before me in bright clothing,"
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "27291",
-      "text" : "And said, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God.",
-      "plainText" : "And said, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "27291",
+      "text": "And said, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God.",
+      "plainText": "And said, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "27292",
-      "text" : "Send therefore to Joppa, and call hither Simon, whose surname is Peter; he is lodged in the house of <span class='extra'>one<\/span> Simon a tanner by the sea side: who, when he cometh, shall speak unto thee.",
-      "plainText" : "Send therefore to Joppa, and call hither Simon, whose surname is Peter; he is lodged in the house of one Simon a tanner by the sea side: who, when he cometh, shall speak unto thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "27292",
+      "text": "Send therefore to Joppa, and call hither Simon, whose surname is Peter; he is lodged in the house of <span class='extra'>one</span> Simon a tanner by the sea side: who, when he cometh, shall speak unto thee.",
+      "plainText": "Send therefore to Joppa, and call hither Simon, whose surname is Peter; he is lodged in the house of one Simon a tanner by the sea side: who, when he cometh, shall speak unto thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "27293",
-      "text" : "Immediately therefore I sent to thee; and thou hast well done that thou art come. Now therefore are we all here present before God, to hear all things that are commanded thee of God.",
-      "plainText" : "Immediately therefore I sent to thee; and thou hast well done that thou art come. Now therefore are we all here present before God, to hear all things that are commanded thee of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "27293",
+      "text": "Immediately therefore I sent to thee; and thou hast well done that thou art come. Now therefore are we all here present before God, to hear all things that are commanded thee of God.",
+      "plainText": "Immediately therefore I sent to thee; and thou hast well done that thou art come. Now therefore are we all here present before God, to hear all things that are commanded thee of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "27294",
-      "text" : "Then Peter opened <span class='extra'>his<\/span> mouth, and said, Of a truth I perceive that God is no respecter of persons:",
-      "plainText" : "Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons:"
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "27294",
+      "text": "Then Peter opened <span class='extra'>his</span> mouth, and said, Of a truth I perceive that God is no respecter of persons:",
+      "plainText": "Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons:"
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "27295",
-      "text" : "But in every nation he that feareth him, and worketh righteousness, is accepted with him.",
-      "plainText" : "But in every nation he that feareth him, and worketh righteousness, is accepted with him."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "27295",
+      "text": "But in every nation he that feareth him, and worketh righteousness, is accepted with him.",
+      "plainText": "But in every nation he that feareth him, and worketh righteousness, is accepted with him."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "27296",
-      "text" : "The word which <span class='extra'>God<\/span> sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)",
-      "plainText" : "The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)"
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "27296",
+      "text": "The word which <span class='extra'>God</span> sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)",
+      "plainText": "The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)"
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "27297",
-      "text" : "That word, <span class='extra'>I say<\/span>, ye know, which was published throughout all Judaea, and began from Galilee, after the baptism which John preached;",
-      "plainText" : "That word, I say, ye know, which was published throughout all Judaea, and began from Galilee, after the baptism which John preached;"
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "27297",
+      "text": "That word, <span class='extra'>I say</span>, ye know, which was published throughout all Judaea, and began from Galilee, after the baptism which John preached;",
+      "plainText": "That word, I say, ye know, which was published throughout all Judaea, and began from Galilee, after the baptism which John preached;"
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "27298",
-      "text" : "How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.",
-      "plainText" : "How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "27298",
+      "text": "How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.",
+      "plainText": "How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "27299",
-      "text" : "And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:",
-      "plainText" : "And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:"
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "27299",
+      "text": "And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:",
+      "plainText": "And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:"
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "27300",
-      "text" : "Him God raised up the third day, and shewed him openly;",
-      "plainText" : "Him God raised up the third day, and shewed him openly;"
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "27300",
+      "text": "Him God raised up the third day, and shewed him openly;",
+      "plainText": "Him God raised up the third day, and shewed him openly;"
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "27301",
-      "text" : "Not to all the people, but unto witnesses chosen before of God, <span class='extra'>even<\/span> to us, who did eat and drink with him after he rose from the dead.",
-      "plainText" : "Not to all the people, but unto witnesses chosen before of God, even to us, who did eat and drink with him after he rose from the dead."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "27301",
+      "text": "Not to all the people, but unto witnesses chosen before of God, <span class='extra'>even</span> to us, who did eat and drink with him after he rose from the dead.",
+      "plainText": "Not to all the people, but unto witnesses chosen before of God, even to us, who did eat and drink with him after he rose from the dead."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "27302",
-      "text" : "And he commanded us to preach unto the people, and to testify that it is he which was ordained of God <span class='extra'>to be<\/span> the Judge of quick and dead.",
-      "plainText" : "And he commanded us to preach unto the people, and to testify that it is he which was ordained of God to be the Judge of quick and dead."
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "27302",
+      "text": "And he commanded us to preach unto the people, and to testify that it is he which was ordained of God <span class='extra'>to be</span> the Judge of quick and dead.",
+      "plainText": "And he commanded us to preach unto the people, and to testify that it is he which was ordained of God to be the Judge of quick and dead."
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "27303",
-      "text" : "To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.",
-      "plainText" : "To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "27303",
+      "text": "To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.",
+      "plainText": "To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "27304",
-      "text" : "While Peter yet spake these words, the Holy Ghost fell on all them which heard the word.",
-      "plainText" : "While Peter yet spake these words, the Holy Ghost fell on all them which heard the word."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "27304",
+      "text": "While Peter yet spake these words, the Holy Ghost fell on all them which heard the word.",
+      "plainText": "While Peter yet spake these words, the Holy Ghost fell on all them which heard the word."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "27305",
-      "text" : "And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Ghost.",
-      "plainText" : "And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Ghost."
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "27305",
+      "text": "And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Ghost.",
+      "plainText": "And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Ghost."
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "27306",
-      "text" : "For they heard them speak with tongues, and magnify God. Then answered Peter,",
-      "plainText" : "For they heard them speak with tongues, and magnify God. Then answered Peter,"
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "27306",
+      "text": "For they heard them speak with tongues, and magnify God. Then answered Peter,",
+      "plainText": "For they heard them speak with tongues, and magnify God. Then answered Peter,"
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "27307",
-      "text" : "Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?",
-      "plainText" : "Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?"
-    }
-    ,
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "27307",
+      "text": "Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?",
+      "plainText": "Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?"
+    },
     {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "27308",
-      "text" : "And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days.",
-      "plainText" : "And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days."
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "27308",
+      "text": "And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days.",
+      "plainText": "And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days."
     }
   ]
 }
-

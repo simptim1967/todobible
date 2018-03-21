@@ -1,81 +1,75 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "127",
-    "verseCount" : "5",
-    "nextChapter" : "psalms_128.html",
-    "nextTitle" : "Psalms 128",
-    "prevChapter" : "psalms_126.html",
-    "prevTitle" : "Psalms 126",
-    "filename" : "psalms_127.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "127",
+    "verseCount": "5",
+    "nextChapter": "psalms_128.html",
+    "nextTitle": "Psalms 128",
+    "prevChapter": "psalms_126.html",
+    "prevTitle": "Psalms 126",
+    "filename": "psalms_127.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Song of degrees for Solomon.",
-      "plainText" : "A Song of degrees for Solomon."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Song of degrees for Solomon.",
+      "plainText": "A Song of degrees for Solomon."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16123",
-      "text" : "Except the <span class='nog'>LORD<\/span> build the house, they labour in vain that build it: except the <span class='nog'>LORD<\/span> keep the city, the watchman waketh <span class='extra'>but<\/span> in vain.",
-      "plainText" : "Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16123",
+      "text": "Except the <span class='nog'>LORD</span> build the house, they labour in vain that build it: except the <span class='nog'>LORD</span> keep the city, the watchman waketh <span class='extra'>but</span> in vain.",
+      "plainText": "Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16124",
-      "text" : "<span class='extra'>It is<\/span> vain for you to rise up early, to sit up late, to eat the bread of sorrows: <span class='extra'>for<\/span> so he giveth his beloved sleep.",
-      "plainText" : "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16124",
+      "text": "<span class='extra'>It is</span> vain for you to rise up early, to sit up late, to eat the bread of sorrows: <span class='extra'>for</span> so he giveth his beloved sleep.",
+      "plainText": "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16125",
-      "text" : "Lo, children <span class='extra'>are<\/span> an heritage of the <span class='nog'>LORD<\/span>: <span class='extra'>and<\/span> the fruit of the womb <span class='extra'>is his<\/span> reward.",
-      "plainText" : "Lo, children are an heritage of the LORD: and the fruit of the womb is his reward."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16125",
+      "text": "Lo, children <span class='extra'>are</span> an heritage of the <span class='nog'>LORD</span>: <span class='extra'>and</span> the fruit of the womb <span class='extra'>is his</span> reward.",
+      "plainText": "Lo, children are an heritage of the LORD: and the fruit of the womb is his reward."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "16126",
-      "text" : "As arrows <span class='extra'>are<\/span> in the hand of a mighty man; so <span class='extra'>are<\/span> children of the youth.",
-      "plainText" : "As arrows are in the hand of a mighty man; so are children of the youth."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "16126",
+      "text": "As arrows <span class='extra'>are</span> in the hand of a mighty man; so <span class='extra'>are</span> children of the youth.",
+      "plainText": "As arrows are in the hand of a mighty man; so are children of the youth."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "16127",
-      "text" : "Happy <span class='extra'>is<\/span> the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.",
-      "plainText" : "Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate."
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "16127",
+      "text": "Happy <span class='extra'>is</span> the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.",
+      "plainText": "Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate."
     }
   ]
 }
-
-

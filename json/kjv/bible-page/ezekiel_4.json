@@ -1,183 +1,165 @@
 {
   "book": {
-    "number" : "26",
-    "filenamePrefix" : "ezekiel",
-    "bookPage" : "ezekiel.html",
-    "title" : "Ezekiel",
-    "chapterCount" : "48",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "daniel_1.html",
-    "nextTitle" : "Daniel",
-    "prevBook" : "lamentations_1.html",
-    "prevTitle" : "Lamentations"
+    "number": "26",
+    "filenamePrefix": "ezekiel",
+    "bookPage": "ezekiel.html",
+    "title": "Ezekiel",
+    "chapterCount": "48",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "daniel_1.html",
+    "nextTitle": "Daniel",
+    "prevBook": "lamentations_1.html",
+    "prevTitle": "Lamentations",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "4",
-    "verseCount" : "17",
-    "nextChapter" : "ezekiel_5.html",
-    "nextTitle" : "Ezekiel 5",
-    "prevChapter" : "ezekiel_3.html",
-    "prevTitle" : "Ezekiel 3",
-    "filename" : "ezekiel_4.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "4",
+    "verseCount": "17",
+    "nextChapter": "ezekiel_5.html",
+    "nextTitle": "Ezekiel 5",
+    "prevChapter": "ezekiel_3.html",
+    "prevTitle": "Ezekiel 3",
+    "filename": "ezekiel_4.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "20531",
-      "text" : "Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, <span class='extra'>even<\/span> Jerusalem:",
-      "plainText" : "Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem:"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "20531",
+      "text": "Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, <span class='extra'>even</span> Jerusalem:",
+      "plainText": "Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem:"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "20532",
-      "text" : "And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set <span class='extra'>battering<\/span> rams against it round about.",
-      "plainText" : "And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set battering rams against it round about."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "20532",
+      "text": "And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set <span class='extra'>battering</span> rams against it round about.",
+      "plainText": "And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set battering rams against it round about."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "20533",
-      "text" : "Moreover take thou unto thee an iron pan, and set it <span class='extra'>for<\/span> a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This <span class='extra'>shall be<\/span> a sign to the house of Israel.",
-      "plainText" : "Moreover take thou unto thee an iron pan, and set it for a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This shall be a sign to the house of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "20533",
+      "text": "Moreover take thou unto thee an iron pan, and set it <span class='extra'>for</span> a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This <span class='extra'>shall be</span> a sign to the house of Israel.",
+      "plainText": "Moreover take thou unto thee an iron pan, and set it for a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This shall be a sign to the house of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "20534",
-      "text" : "Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: <span class='extra'>according<\/span> to the number of the days that thou shalt lie upon it thou shalt bear their iniquity.",
-      "plainText" : "Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: according to the number of the days that thou shalt lie upon it thou shalt bear their iniquity."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "20534",
+      "text": "Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: <span class='extra'>according</span> to the number of the days that thou shalt lie upon it thou shalt bear their iniquity.",
+      "plainText": "Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: according to the number of the days that thou shalt lie upon it thou shalt bear their iniquity."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "20535",
-      "text" : "For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel.",
-      "plainText" : "For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "20535",
+      "text": "For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel.",
+      "plainText": "For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "20536",
-      "text" : "And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year.",
-      "plainText" : "And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "20536",
+      "text": "And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year.",
+      "plainText": "And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "20537",
-      "text" : "Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm <span class='extra'>shall be<\/span> uncovered, and thou shalt prophesy against it.",
-      "plainText" : "Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm shall be uncovered, and thou shalt prophesy against it."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "20537",
+      "text": "Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm <span class='extra'>shall be</span> uncovered, and thou shalt prophesy against it.",
+      "plainText": "Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm shall be uncovered, and thou shalt prophesy against it."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "20538",
-      "text" : "And, behold, I will lay bands upon thee, and thou shalt not turn thee from one side to another, till thou hast ended the days of thy siege.",
-      "plainText" : "And, behold, I will lay bands upon thee, and thou shalt not turn thee from one side to another, till thou hast ended the days of thy siege."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "20538",
+      "text": "And, behold, I will lay bands upon thee, and thou shalt not turn thee from one side to another, till thou hast ended the days of thy siege.",
+      "plainText": "And, behold, I will lay bands upon thee, and thou shalt not turn thee from one side to another, till thou hast ended the days of thy siege."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "20539",
-      "text" : "Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, <span class='extra'>according<\/span> to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof.",
-      "plainText" : "Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, according to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "20539",
+      "text": "Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, <span class='extra'>according</span> to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof.",
+      "plainText": "Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, according to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "20540",
-      "text" : "And thy meat which thou shalt eat <span class='extra'>shall be<\/span> by weight, twenty shekels a day: from time to time shalt thou eat it.",
-      "plainText" : "And thy meat which thou shalt eat shall be by weight, twenty shekels a day: from time to time shalt thou eat it."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "20540",
+      "text": "And thy meat which thou shalt eat <span class='extra'>shall be</span> by weight, twenty shekels a day: from time to time shalt thou eat it.",
+      "plainText": "And thy meat which thou shalt eat shall be by weight, twenty shekels a day: from time to time shalt thou eat it."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "20541",
-      "text" : "Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink.",
-      "plainText" : "Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "20541",
+      "text": "Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink.",
+      "plainText": "Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "20542",
-      "text" : "And thou shalt eat it <span class='extra'>as<\/span> barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight.",
-      "plainText" : "And thou shalt eat it as barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "20542",
+      "text": "And thou shalt eat it <span class='extra'>as</span> barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight.",
+      "plainText": "And thou shalt eat it as barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "20543",
-      "text" : "And the <span class='nog'>LORD<\/span> said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them.",
-      "plainText" : "And the LORD said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "20543",
+      "text": "And the <span class='nog'>LORD</span> said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them.",
+      "plainText": "And the LORD said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "20544",
-      "text" : "Then said I, Ah Lord <span class='nog'>GOD<\/span>! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth.",
-      "plainText" : "Then said I, Ah Lord GOD! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "20544",
+      "text": "Then said I, Ah Lord <span class='nog'>GOD</span>! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth.",
+      "plainText": "Then said I, Ah Lord GOD! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "20545",
-      "text" : "Then he said unto me, Lo, I have given thee cow's dung for man's dung, and thou shalt prepare thy bread therewith.",
-      "plainText" : "Then he said unto me, Lo, I have given thee cow's dung for man's dung, and thou shalt prepare thy bread therewith."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "20545",
+      "text": "Then he said unto me, Lo, I have given thee cow's dung for man's dung, and thou shalt prepare thy bread therewith.",
+      "plainText": "Then he said unto me, Lo, I have given thee cow's dung for man's dung, and thou shalt prepare thy bread therewith."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "20546",
-      "text" : "Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:",
-      "plainText" : "Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "20546",
+      "text": "Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:",
+      "plainText": "Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "20547",
-      "text" : "That they may want bread and water, and be astonied one with another, and consume away for their iniquity.",
-      "plainText" : "That they may want bread and water, and be astonied one with another, and consume away for their iniquity."
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "20547",
+      "text": "That they may want bread and water, and be astonied one with another, and consume away for their iniquity.",
+      "plainText": "That they may want bread and water, and be astonied one with another, and consume away for their iniquity."
     }
   ]
 }
-
-
-

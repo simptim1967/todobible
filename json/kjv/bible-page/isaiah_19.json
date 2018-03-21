@@ -1,254 +1,229 @@
 {
   "book": {
-    "number" : "23",
-    "filenamePrefix" : "isaiah",
-    "bookPage" : "isaiah.html",
-    "title" : "Isaiah",
-    "chapterCount" : "66",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "jeremiah_1.html",
-    "nextTitle" : "Jeremiah",
-    "prevBook" : "song_of_solomon_1.html",
-    "prevTitle" : "Song of Solomon"
+    "number": "23",
+    "filenamePrefix": "isaiah",
+    "bookPage": "isaiah.html",
+    "title": "Isaiah",
+    "chapterCount": "66",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "jeremiah_1.html",
+    "nextTitle": "Jeremiah",
+    "prevBook": "song_of_solomon_1.html",
+    "prevTitle": "Song of Solomon",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "19",
-    "verseCount" : "25",
-    "nextChapter" : "isaiah_20.html",
-    "nextTitle" : "Isaiah 20",
-    "prevChapter" : "isaiah_18.html",
-    "prevTitle" : "Isaiah 18",
-    "filename" : "isaiah_19.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "19",
+    "verseCount": "25",
+    "nextChapter": "isaiah_20.html",
+    "nextTitle": "Isaiah 20",
+    "prevChapter": "isaiah_18.html",
+    "prevTitle": "Isaiah 18",
+    "filename": "isaiah_19.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "18006",
-      "text" : "The burden of Egypt. Behold, the <span class='nog'>LORD<\/span> rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.",
-      "plainText" : "The burden of Egypt. Behold, the LORD rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "18006",
+      "text": "The burden of Egypt. Behold, the <span class='nog'>LORD</span> rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.",
+      "plainText": "The burden of Egypt. Behold, the LORD rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "18007",
-      "text" : "And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city, <span class='extra'>and<\/span> kingdom against kingdom.",
-      "plainText" : "And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city, and kingdom against kingdom."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "18007",
+      "text": "And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city, <span class='extra'>and</span> kingdom against kingdom.",
+      "plainText": "And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city, and kingdom against kingdom."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "18008",
-      "text" : "And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards.",
-      "plainText" : "And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "18008",
+      "text": "And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards.",
+      "plainText": "And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "18009",
-      "text" : "And the Egyptians will I give over into the hand of a cruel lord; and a fierce king shall rule over them, saith the Lord, the <span class='nog'>LORD<\/span> of hosts.",
-      "plainText" : "And the Egyptians will I give over into the hand of a cruel lord; and a fierce king shall rule over them, saith the Lord, the LORD of hosts."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "18009",
+      "text": "And the Egyptians will I give over into the hand of a cruel lord; and a fierce king shall rule over them, saith the Lord, the <span class='nog'>LORD</span> of hosts.",
+      "plainText": "And the Egyptians will I give over into the hand of a cruel lord; and a fierce king shall rule over them, saith the Lord, the LORD of hosts."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "18010",
-      "text" : "And the waters shall fail from the sea, and the river shall be wasted and dried up.",
-      "plainText" : "And the waters shall fail from the sea, and the river shall be wasted and dried up."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "18010",
+      "text": "And the waters shall fail from the sea, and the river shall be wasted and dried up.",
+      "plainText": "And the waters shall fail from the sea, and the river shall be wasted and dried up."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "18011",
-      "text" : "And they shall turn the rivers far away; <span class='extra'>and<\/span> the brooks of defence shall be emptied and dried up: the reeds and flags shall wither.",
-      "plainText" : "And they shall turn the rivers far away; and the brooks of defence shall be emptied and dried up: the reeds and flags shall wither."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "18011",
+      "text": "And they shall turn the rivers far away; <span class='extra'>and</span> the brooks of defence shall be emptied and dried up: the reeds and flags shall wither.",
+      "plainText": "And they shall turn the rivers far away; and the brooks of defence shall be emptied and dried up: the reeds and flags shall wither."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "18012",
-      "text" : "The paper reeds by the brooks, by the mouth of the brooks, and every thing sown by the brooks, shall wither, be driven away, and be no <span class='extra'>more<\/span>.",
-      "plainText" : "The paper reeds by the brooks, by the mouth of the brooks, and every thing sown by the brooks, shall wither, be driven away, and be no more."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "18012",
+      "text": "The paper reeds by the brooks, by the mouth of the brooks, and every thing sown by the brooks, shall wither, be driven away, and be no <span class='extra'>more</span>.",
+      "plainText": "The paper reeds by the brooks, by the mouth of the brooks, and every thing sown by the brooks, shall wither, be driven away, and be no more."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "18013",
-      "text" : "The fishers also shall mourn, and all they that cast angle into the brooks shall lament, and they that spread nets upon the waters shall languish.",
-      "plainText" : "The fishers also shall mourn, and all they that cast angle into the brooks shall lament, and they that spread nets upon the waters shall languish."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "18013",
+      "text": "The fishers also shall mourn, and all they that cast angle into the brooks shall lament, and they that spread nets upon the waters shall languish.",
+      "plainText": "The fishers also shall mourn, and all they that cast angle into the brooks shall lament, and they that spread nets upon the waters shall languish."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "18014",
-      "text" : "Moreover they that work in fine flax, and they that weave networks, shall be confounded.",
-      "plainText" : "Moreover they that work in fine flax, and they that weave networks, shall be confounded."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "18014",
+      "text": "Moreover they that work in fine flax, and they that weave networks, shall be confounded.",
+      "plainText": "Moreover they that work in fine flax, and they that weave networks, shall be confounded."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "18015",
-      "text" : "And they shall be broken in the purposes thereof, all that make sluices <span class='extra'>and<\/span> ponds for fish.",
-      "plainText" : "And they shall be broken in the purposes thereof, all that make sluices and ponds for fish."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "18015",
+      "text": "And they shall be broken in the purposes thereof, all that make sluices <span class='extra'>and</span> ponds for fish.",
+      "plainText": "And they shall be broken in the purposes thereof, all that make sluices and ponds for fish."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "18016",
-      "text" : "Surely the princes of Zoan <span class='extra'>are<\/span> fools, the counsel of the wise counsellors of Pharaoh is become brutish: how say ye unto Pharaoh, I <span class='extra'>am<\/span> the son of the wise, the son of ancient kings?",
-      "plainText" : "Surely the princes of Zoan are fools, the counsel of the wise counsellors of Pharaoh is become brutish: how say ye unto Pharaoh, I am the son of the wise, the son of ancient kings?"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "18016",
+      "text": "Surely the princes of Zoan <span class='extra'>are</span> fools, the counsel of the wise counsellors of Pharaoh is become brutish: how say ye unto Pharaoh, I <span class='extra'>am</span> the son of the wise, the son of ancient kings?",
+      "plainText": "Surely the princes of Zoan are fools, the counsel of the wise counsellors of Pharaoh is become brutish: how say ye unto Pharaoh, I am the son of the wise, the son of ancient kings?"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "18017",
-      "text" : "Where <span class='extra'>are<\/span> they? where <span class='extra'>are<\/span> thy wise <span class='extra'>men<\/span>? and let them tell thee now, and let them know what the <span class='nog'>LORD<\/span> of hosts hath purposed upon Egypt.",
-      "plainText" : "Where are they? where are thy wise men? and let them tell thee now, and let them know what the LORD of hosts hath purposed upon Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "18017",
+      "text": "Where <span class='extra'>are</span> they? where <span class='extra'>are</span> thy wise <span class='extra'>men</span>? and let them tell thee now, and let them know what the <span class='nog'>LORD</span> of hosts hath purposed upon Egypt.",
+      "plainText": "Where are they? where are thy wise men? and let them tell thee now, and let them know what the LORD of hosts hath purposed upon Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "18018",
-      "text" : "The princes of Zoan are become fools, the princes of Noph are deceived; they have also seduced Egypt, <span class='extra'>even they that are<\/span> the stay of the tribes thereof.",
-      "plainText" : "The princes of Zoan are become fools, the princes of Noph are deceived; they have also seduced Egypt, even they that are the stay of the tribes thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "18018",
+      "text": "The princes of Zoan are become fools, the princes of Noph are deceived; they have also seduced Egypt, <span class='extra'>even they that are</span> the stay of the tribes thereof.",
+      "plainText": "The princes of Zoan are become fools, the princes of Noph are deceived; they have also seduced Egypt, even they that are the stay of the tribes thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "18019",
-      "text" : "The <span class='nog'>LORD<\/span> hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken <span class='extra'>man<\/span> staggereth in his vomit.",
-      "plainText" : "The LORD hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken man staggereth in his vomit."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "18019",
+      "text": "The <span class='nog'>LORD</span> hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken <span class='extra'>man</span> staggereth in his vomit.",
+      "plainText": "The LORD hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken man staggereth in his vomit."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "18020",
-      "text" : "Neither shall there be <span class='extra'>any<\/span> work for Egypt, which the head or tail, branch or rush, may do.",
-      "plainText" : "Neither shall there be any work for Egypt, which the head or tail, branch or rush, may do."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "18020",
+      "text": "Neither shall there be <span class='extra'>any</span> work for Egypt, which the head or tail, branch or rush, may do.",
+      "plainText": "Neither shall there be any work for Egypt, which the head or tail, branch or rush, may do."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "18021",
-      "text" : "In that day shall Egypt be like unto women: and it shall be afraid and fear because of the shaking of the hand of the <span class='nog'>LORD<\/span> of hosts, which he shaketh over it.",
-      "plainText" : "In that day shall Egypt be like unto women: and it shall be afraid and fear because of the shaking of the hand of the LORD of hosts, which he shaketh over it."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "18021",
+      "text": "In that day shall Egypt be like unto women: and it shall be afraid and fear because of the shaking of the hand of the <span class='nog'>LORD</span> of hosts, which he shaketh over it.",
+      "plainText": "In that day shall Egypt be like unto women: and it shall be afraid and fear because of the shaking of the hand of the LORD of hosts, which he shaketh over it."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "18022",
-      "text" : "And the land of Judah shall be a terror unto Egypt, every one that maketh mention thereof shall be afraid in himself, because of the counsel of the <span class='nog'>LORD<\/span> of hosts, which he hath determined against it.",
-      "plainText" : "And the land of Judah shall be a terror unto Egypt, every one that maketh mention thereof shall be afraid in himself, because of the counsel of the LORD of hosts, which he hath determined against it."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "18022",
+      "text": "And the land of Judah shall be a terror unto Egypt, every one that maketh mention thereof shall be afraid in himself, because of the counsel of the <span class='nog'>LORD</span> of hosts, which he hath determined against it.",
+      "plainText": "And the land of Judah shall be a terror unto Egypt, every one that maketh mention thereof shall be afraid in himself, because of the counsel of the LORD of hosts, which he hath determined against it."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "18023",
-      "text" : "In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the <span class='nog'>LORD<\/span> of hosts; one shall be called, The city of destruction.",
-      "plainText" : "In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the LORD of hosts; one shall be called, The city of destruction."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "18023",
+      "text": "In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the <span class='nog'>LORD</span> of hosts; one shall be called, The city of destruction.",
+      "plainText": "In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the LORD of hosts; one shall be called, The city of destruction."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "18024",
-      "text" : "In that day shall there be an altar to the <span class='nog'>LORD<\/span> in the midst of the land of Egypt, and a pillar at the border thereof to the <span class='nog'>LORD<\/span>.",
-      "plainText" : "In that day shall there be an altar to the LORD in the midst of the land of Egypt, and a pillar at the border thereof to the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "18024",
+      "text": "In that day shall there be an altar to the <span class='nog'>LORD</span> in the midst of the land of Egypt, and a pillar at the border thereof to the <span class='nog'>LORD</span>.",
+      "plainText": "In that day shall there be an altar to the LORD in the midst of the land of Egypt, and a pillar at the border thereof to the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "18025",
-      "text" : "And it shall be for a sign and for a witness unto the <span class='nog'>LORD<\/span> of hosts in the land of Egypt: for they shall cry unto the <span class='nog'>LORD<\/span> because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them.",
-      "plainText" : "And it shall be for a sign and for a witness unto the LORD of hosts in the land of Egypt: for they shall cry unto the LORD because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "18025",
+      "text": "And it shall be for a sign and for a witness unto the <span class='nog'>LORD</span> of hosts in the land of Egypt: for they shall cry unto the <span class='nog'>LORD</span> because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them.",
+      "plainText": "And it shall be for a sign and for a witness unto the LORD of hosts in the land of Egypt: for they shall cry unto the LORD because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "18026",
-      "text" : "And the <span class='nog'>LORD<\/span> shall be known to Egypt, and the Egyptians shall know the <span class='nog'>LORD<\/span> in that day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the <span class='nog'>LORD<\/span>, and perform <span class='extra'>it<\/span>.",
-      "plainText" : "And the LORD shall be known to Egypt, and the Egyptians shall know the LORD in that day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the LORD, and perform it."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "18026",
+      "text": "And the <span class='nog'>LORD</span> shall be known to Egypt, and the Egyptians shall know the <span class='nog'>LORD</span> in that day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the <span class='nog'>LORD</span>, and perform <span class='extra'>it</span>.",
+      "plainText": "And the LORD shall be known to Egypt, and the Egyptians shall know the LORD in that day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the LORD, and perform it."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "18027",
-      "text" : "And the <span class='nog'>LORD<\/span> shall smite Egypt: he shall smite and heal <span class='extra'>it<\/span>: and they shall return <span class='extra'>even<\/span> to the <span class='nog'>LORD<\/span>, and he shall be intreated of them, and shall heal them.",
-      "plainText" : "And the LORD shall smite Egypt: he shall smite and heal it: and they shall return even to the LORD, and he shall be intreated of them, and shall heal them."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "18027",
+      "text": "And the <span class='nog'>LORD</span> shall smite Egypt: he shall smite and heal <span class='extra'>it</span>: and they shall return <span class='extra'>even</span> to the <span class='nog'>LORD</span>, and he shall be intreated of them, and shall heal them.",
+      "plainText": "And the LORD shall smite Egypt: he shall smite and heal it: and they shall return even to the LORD, and he shall be intreated of them, and shall heal them."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "18028",
-      "text" : "In that day shall there be a highway out of Egypt to Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria, and the Egyptians shall serve with the Assyrians.",
-      "plainText" : "In that day shall there be a highway out of Egypt to Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria, and the Egyptians shall serve with the Assyrians."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "18028",
+      "text": "In that day shall there be a highway out of Egypt to Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria, and the Egyptians shall serve with the Assyrians.",
+      "plainText": "In that day shall there be a highway out of Egypt to Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria, and the Egyptians shall serve with the Assyrians."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "18029",
-      "text" : "In that day shall Israel be the third with Egypt and with Assyria, <span class='extra'>even<\/span> a blessing in the midst of the land:",
-      "plainText" : "In that day shall Israel be the third with Egypt and with Assyria, even a blessing in the midst of the land:"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "18029",
+      "text": "In that day shall Israel be the third with Egypt and with Assyria, <span class='extra'>even</span> a blessing in the midst of the land:",
+      "plainText": "In that day shall Israel be the third with Egypt and with Assyria, even a blessing in the midst of the land:"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "18030",
-      "text" : "Whom the <span class='nog'>LORD<\/span> of hosts shall bless, saying, Blessed <span class='extra'>be<\/span> Egypt my people, and Assyria the work of my hands, and Israel mine inheritance.",
-      "plainText" : "Whom the LORD of hosts shall bless, saying, Blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance."
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "18030",
+      "text": "Whom the <span class='nog'>LORD</span> of hosts shall bless, saying, Blessed <span class='extra'>be</span> Egypt my people, and Assyria the work of my hands, and Israel mine inheritance.",
+      "plainText": "Whom the LORD of hosts shall bless, saying, Blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance."
     }
   ]
 }
-
-

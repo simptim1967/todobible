@@ -1,488 +1,437 @@
 {
   "book": {
-    "number" : "6",
-    "filenamePrefix" : "joshua",
-    "bookPage" : "joshua.html",
-    "title" : "Joshua",
-    "chapterCount" : "24",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "judges_1.html",
-    "nextTitle" : "Judges",
-    "prevBook" : "deuteronomy_1.html",
-    "prevTitle" : "Deuteronomy"
+    "number": "6",
+    "filenamePrefix": "joshua",
+    "bookPage": "joshua.html",
+    "title": "Joshua",
+    "chapterCount": "24",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "judges_1.html",
+    "nextTitle": "Judges",
+    "prevBook": "deuteronomy_1.html",
+    "prevTitle": "Deuteronomy",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "19",
-    "verseCount" : "51",
-    "nextChapter" : "joshua_20.html",
-    "nextTitle" : "Joshua 20",
-    "prevChapter" : "joshua_18.html",
-    "prevTitle" : "Joshua 18",
-    "filename" : "joshua_19.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "19",
+    "verseCount": "51",
+    "nextChapter": "joshua_20.html",
+    "nextTitle": "Joshua 20",
+    "prevChapter": "joshua_18.html",
+    "prevTitle": "Joshua 18",
+    "filename": "joshua_19.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "6323",
-      "text" : "And the second lot came forth to Simeon, <span class='extra'>even<\/span> for the tribe of the children of Simeon according to their families: and their inheritance was within the inheritance of the children of Judah.",
-      "plainText" : "And the second lot came forth to Simeon, even for the tribe of the children of Simeon according to their families: and their inheritance was within the inheritance of the children of Judah."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "6323",
+      "text": "And the second lot came forth to Simeon, <span class='extra'>even</span> for the tribe of the children of Simeon according to their families: and their inheritance was within the inheritance of the children of Judah.",
+      "plainText": "And the second lot came forth to Simeon, even for the tribe of the children of Simeon according to their families: and their inheritance was within the inheritance of the children of Judah."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "6324",
-      "text" : "And they had in their inheritance Beer-sheba, or Sheba, and Moladah,",
-      "plainText" : "And they had in their inheritance Beer-sheba, or Sheba, and Moladah,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "6324",
+      "text": "And they had in their inheritance Beer-sheba, or Sheba, and Moladah,",
+      "plainText": "And they had in their inheritance Beer-sheba, or Sheba, and Moladah,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "6325",
-      "text" : "And Hazar-shual, and Balah, and Azem,",
-      "plainText" : "And Hazar-shual, and Balah, and Azem,"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "6325",
+      "text": "And Hazar-shual, and Balah, and Azem,",
+      "plainText": "And Hazar-shual, and Balah, and Azem,"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "6326",
-      "text" : "And Eltolad, and Bethul, and Hormah,",
-      "plainText" : "And Eltolad, and Bethul, and Hormah,"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "6326",
+      "text": "And Eltolad, and Bethul, and Hormah,",
+      "plainText": "And Eltolad, and Bethul, and Hormah,"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "6327",
-      "text" : "And Ziklag, and Beth-marcaboth, and Hazar-susah,",
-      "plainText" : "And Ziklag, and Beth-marcaboth, and Hazar-susah,"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "6327",
+      "text": "And Ziklag, and Beth-marcaboth, and Hazar-susah,",
+      "plainText": "And Ziklag, and Beth-marcaboth, and Hazar-susah,"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "6328",
-      "text" : "And Beth-lebaoth, and Sharuhen; thirteen cities and their villages:",
-      "plainText" : "And Beth-lebaoth, and Sharuhen; thirteen cities and their villages:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "6328",
+      "text": "And Beth-lebaoth, and Sharuhen; thirteen cities and their villages:",
+      "plainText": "And Beth-lebaoth, and Sharuhen; thirteen cities and their villages:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "6329",
-      "text" : "Ain, Remmon, and Ether, and Ashan; four cities and their villages:",
-      "plainText" : "Ain, Remmon, and Ether, and Ashan; four cities and their villages:"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "6329",
+      "text": "Ain, Remmon, and Ether, and Ashan; four cities and their villages:",
+      "plainText": "Ain, Remmon, and Ether, and Ashan; four cities and their villages:"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "6330",
-      "text" : "And all the villages that <span class='extra'>were<\/span> round about these cities to Baalath-beer, Ramath of the south. This <span class='extra'>is<\/span> the inheritance of the tribe of the children of Simeon according to their families.",
-      "plainText" : "And all the villages that were round about these cities to Baalath-beer, Ramath of the south. This is the inheritance of the tribe of the children of Simeon according to their families."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "6330",
+      "text": "And all the villages that <span class='extra'>were</span> round about these cities to Baalath-beer, Ramath of the south. This <span class='extra'>is</span> the inheritance of the tribe of the children of Simeon according to their families.",
+      "plainText": "And all the villages that were round about these cities to Baalath-beer, Ramath of the south. This is the inheritance of the tribe of the children of Simeon according to their families."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "6331",
-      "text" : "Out of the portion of the children of Judah <span class='extra'>was<\/span> the inheritance of the children of Simeon: for the part of the children of Judah was too much for them: therefore the children of Simeon had their inheritance within the inheritance of them.",
-      "plainText" : "Out of the portion of the children of Judah was the inheritance of the children of Simeon: for the part of the children of Judah was too much for them: therefore the children of Simeon had their inheritance within the inheritance of them."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "6331",
+      "text": "Out of the portion of the children of Judah <span class='extra'>was</span> the inheritance of the children of Simeon: for the part of the children of Judah was too much for them: therefore the children of Simeon had their inheritance within the inheritance of them.",
+      "plainText": "Out of the portion of the children of Judah was the inheritance of the children of Simeon: for the part of the children of Judah was too much for them: therefore the children of Simeon had their inheritance within the inheritance of them."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "6332",
-      "text" : "And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid:",
-      "plainText" : "And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid:"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "6332",
+      "text": "And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid:",
+      "plainText": "And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid:"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "6333",
-      "text" : "And their border went up toward the sea, and Maralah, and reached to Dabbasheth, and reached to the river that <span class='extra'>is<\/span> before Jokneam;",
-      "plainText" : "And their border went up toward the sea, and Maralah, and reached to Dabbasheth, and reached to the river that is before Jokneam;"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "6333",
+      "text": "And their border went up toward the sea, and Maralah, and reached to Dabbasheth, and reached to the river that <span class='extra'>is</span> before Jokneam;",
+      "plainText": "And their border went up toward the sea, and Maralah, and reached to Dabbasheth, and reached to the river that is before Jokneam;"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "6334",
-      "text" : "And turned from Sarid eastward toward the sunrising unto the border of Chisloth-tabor, and then goeth out to Daberath, and goeth up to Japhia,",
-      "plainText" : "And turned from Sarid eastward toward the sunrising unto the border of Chisloth-tabor, and then goeth out to Daberath, and goeth up to Japhia,"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "6334",
+      "text": "And turned from Sarid eastward toward the sunrising unto the border of Chisloth-tabor, and then goeth out to Daberath, and goeth up to Japhia,",
+      "plainText": "And turned from Sarid eastward toward the sunrising unto the border of Chisloth-tabor, and then goeth out to Daberath, and goeth up to Japhia,"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "6335",
-      "text" : "And from thence passeth on along on the east to Gittah-hepher, to Ittah-kazin, and goeth out to Remmon-methoar to Neah;",
-      "plainText" : "And from thence passeth on along on the east to Gittah-hepher, to Ittah-kazin, and goeth out to Remmon-methoar to Neah;"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "6335",
+      "text": "And from thence passeth on along on the east to Gittah-hepher, to Ittah-kazin, and goeth out to Remmon-methoar to Neah;",
+      "plainText": "And from thence passeth on along on the east to Gittah-hepher, to Ittah-kazin, and goeth out to Remmon-methoar to Neah;"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "6336",
-      "text" : "And the border compasseth it on the north side to Hannathon: and the outgoings thereof are in the valley of Jiphthah-el:",
-      "plainText" : "And the border compasseth it on the north side to Hannathon: and the outgoings thereof are in the valley of Jiphthah-el:"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "6336",
+      "text": "And the border compasseth it on the north side to Hannathon: and the outgoings thereof are in the valley of Jiphthah-el:",
+      "plainText": "And the border compasseth it on the north side to Hannathon: and the outgoings thereof are in the valley of Jiphthah-el:"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "6337",
-      "text" : "And Kattath, and Nahallal, and Shimron, and Idalah, and Beth-lehem: twelve cities with their villages.",
-      "plainText" : "And Kattath, and Nahallal, and Shimron, and Idalah, and Beth-lehem: twelve cities with their villages."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "6337",
+      "text": "And Kattath, and Nahallal, and Shimron, and Idalah, and Beth-lehem: twelve cities with their villages.",
+      "plainText": "And Kattath, and Nahallal, and Shimron, and Idalah, and Beth-lehem: twelve cities with their villages."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "6338",
-      "text" : "This <span class='extra'>is<\/span> the inheritance of the children of Zebulun according to their families, these cities with their villages.",
-      "plainText" : "This is the inheritance of the children of Zebulun according to their families, these cities with their villages."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "6338",
+      "text": "This <span class='extra'>is</span> the inheritance of the children of Zebulun according to their families, these cities with their villages.",
+      "plainText": "This is the inheritance of the children of Zebulun according to their families, these cities with their villages."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "6339",
-      "text" : "<span class='extra'>And<\/span> the fourth lot came out to Issachar, for the children of Issachar according to their families.",
-      "plainText" : "And the fourth lot came out to Issachar, for the children of Issachar according to their families."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "6339",
+      "text": "<span class='extra'>And</span> the fourth lot came out to Issachar, for the children of Issachar according to their families.",
+      "plainText": "And the fourth lot came out to Issachar, for the children of Issachar according to their families."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "6340",
-      "text" : "And their border was toward Jezreel, and Chesulloth, and Shunem,",
-      "plainText" : "And their border was toward Jezreel, and Chesulloth, and Shunem,"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "6340",
+      "text": "And their border was toward Jezreel, and Chesulloth, and Shunem,",
+      "plainText": "And their border was toward Jezreel, and Chesulloth, and Shunem,"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "6341",
-      "text" : "And Hapharaim, and Shion, and Anaharath,",
-      "plainText" : "And Hapharaim, and Shion, and Anaharath,"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "6341",
+      "text": "And Hapharaim, and Shion, and Anaharath,",
+      "plainText": "And Hapharaim, and Shion, and Anaharath,"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "6342",
-      "text" : "And Rabbith, and Kishion, and Abez,",
-      "plainText" : "And Rabbith, and Kishion, and Abez,"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "6342",
+      "text": "And Rabbith, and Kishion, and Abez,",
+      "plainText": "And Rabbith, and Kishion, and Abez,"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "6343",
-      "text" : "And Remeth, and En-gannim, and En-haddah, and Beth-pazzez;",
-      "plainText" : "And Remeth, and En-gannim, and En-haddah, and Beth-pazzez;"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "6343",
+      "text": "And Remeth, and En-gannim, and En-haddah, and Beth-pazzez;",
+      "plainText": "And Remeth, and En-gannim, and En-haddah, and Beth-pazzez;"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "6344",
-      "text" : "And the coast reacheth to Tabor, and Shahazimah, and Beth-shemesh; and the outgoings of their border were at Jordan: sixteen cities with their villages.",
-      "plainText" : "And the coast reacheth to Tabor, and Shahazimah, and Beth-shemesh; and the outgoings of their border were at Jordan: sixteen cities with their villages."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "6344",
+      "text": "And the coast reacheth to Tabor, and Shahazimah, and Beth-shemesh; and the outgoings of their border were at Jordan: sixteen cities with their villages.",
+      "plainText": "And the coast reacheth to Tabor, and Shahazimah, and Beth-shemesh; and the outgoings of their border were at Jordan: sixteen cities with their villages."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "6345",
-      "text" : "This <span class='extra'>is<\/span> the inheritance of the tribe of the children of Issachar according to their families, the cities and their villages.",
-      "plainText" : "This is the inheritance of the tribe of the children of Issachar according to their families, the cities and their villages."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "6345",
+      "text": "This <span class='extra'>is</span> the inheritance of the tribe of the children of Issachar according to their families, the cities and their villages.",
+      "plainText": "This is the inheritance of the tribe of the children of Issachar according to their families, the cities and their villages."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "6346",
-      "text" : "And the fifth lot came out for the tribe of the children of Asher according to their families.",
-      "plainText" : "And the fifth lot came out for the tribe of the children of Asher according to their families."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "6346",
+      "text": "And the fifth lot came out for the tribe of the children of Asher according to their families.",
+      "plainText": "And the fifth lot came out for the tribe of the children of Asher according to their families."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "6347",
-      "text" : "And their border was Helkath, and Hali, and Beten, and Achshaph,",
-      "plainText" : "And their border was Helkath, and Hali, and Beten, and Achshaph,"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "6347",
+      "text": "And their border was Helkath, and Hali, and Beten, and Achshaph,",
+      "plainText": "And their border was Helkath, and Hali, and Beten, and Achshaph,"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "6348",
-      "text" : "And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to Shihor-libnath;",
-      "plainText" : "And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to Shihor-libnath;"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "6348",
+      "text": "And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to Shihor-libnath;",
+      "plainText": "And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to Shihor-libnath;"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "6349",
-      "text" : "And turneth toward the sunrising to Beth-dagon, and reacheth to Zebulun, and to the valley of Jiphthah-el toward the north side of Beth-emek, and Neiel, and goeth out to Cabul on the left hand,",
-      "plainText" : "And turneth toward the sunrising to Beth-dagon, and reacheth to Zebulun, and to the valley of Jiphthah-el toward the north side of Beth-emek, and Neiel, and goeth out to Cabul on the left hand,"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "6349",
+      "text": "And turneth toward the sunrising to Beth-dagon, and reacheth to Zebulun, and to the valley of Jiphthah-el toward the north side of Beth-emek, and Neiel, and goeth out to Cabul on the left hand,",
+      "plainText": "And turneth toward the sunrising to Beth-dagon, and reacheth to Zebulun, and to the valley of Jiphthah-el toward the north side of Beth-emek, and Neiel, and goeth out to Cabul on the left hand,"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "6350",
-      "text" : "And Hebron, and Rehob, and Hammon, and Kanah, <span class='extra'>even<\/span> unto great Zidon;",
-      "plainText" : "And Hebron, and Rehob, and Hammon, and Kanah, even unto great Zidon;"
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "6350",
+      "text": "And Hebron, and Rehob, and Hammon, and Kanah, <span class='extra'>even</span> unto great Zidon;",
+      "plainText": "And Hebron, and Rehob, and Hammon, and Kanah, even unto great Zidon;"
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "6351",
-      "text" : "And <span class='extra'>then<\/span> the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:",
-      "plainText" : "And then the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "6351",
+      "text": "And <span class='extra'>then</span> the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:",
+      "plainText": "And then the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "6352",
-      "text" : "Ummah also, and Aphek, and Rehob: twenty and two cities with their villages.",
-      "plainText" : "Ummah also, and Aphek, and Rehob: twenty and two cities with their villages."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "6352",
+      "text": "Ummah also, and Aphek, and Rehob: twenty and two cities with their villages.",
+      "plainText": "Ummah also, and Aphek, and Rehob: twenty and two cities with their villages."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "6353",
-      "text" : "This <span class='extra'>is<\/span> the inheritance of the tribe of the children of Asher according to their families, these cities with their villages.",
-      "plainText" : "This is the inheritance of the tribe of the children of Asher according to their families, these cities with their villages."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "6353",
+      "text": "This <span class='extra'>is</span> the inheritance of the tribe of the children of Asher according to their families, these cities with their villages.",
+      "plainText": "This is the inheritance of the tribe of the children of Asher according to their families, these cities with their villages."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "6354",
-      "text" : "The sixth lot came out to the children of Naphtali, <span class='extra'>even<\/span> for the children of Naphtali according to their families.",
-      "plainText" : "The sixth lot came out to the children of Naphtali, even for the children of Naphtali according to their families."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "6354",
+      "text": "The sixth lot came out to the children of Naphtali, <span class='extra'>even</span> for the children of Naphtali according to their families.",
+      "plainText": "The sixth lot came out to the children of Naphtali, even for the children of Naphtali according to their families."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "6355",
-      "text" : "And their coast was from Heleph, from Allon to Zaanannim, and Adami, Nekeb, and Jabneel, unto Lakum; and the outgoings thereof were at Jordan:",
-      "plainText" : "And their coast was from Heleph, from Allon to Zaanannim, and Adami, Nekeb, and Jabneel, unto Lakum; and the outgoings thereof were at Jordan:"
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "6355",
+      "text": "And their coast was from Heleph, from Allon to Zaanannim, and Adami, Nekeb, and Jabneel, unto Lakum; and the outgoings thereof were at Jordan:",
+      "plainText": "And their coast was from Heleph, from Allon to Zaanannim, and Adami, Nekeb, and Jabneel, unto Lakum; and the outgoings thereof were at Jordan:"
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "6356",
-      "text" : "And <span class='extra'>then<\/span> the coast turneth westward to Aznoth-tabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising.",
-      "plainText" : "And then the coast turneth westward to Aznoth-tabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "6356",
+      "text": "And <span class='extra'>then</span> the coast turneth westward to Aznoth-tabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising.",
+      "plainText": "And then the coast turneth westward to Aznoth-tabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "6357",
-      "text" : "And the fenced cities <span class='extra'>are<\/span> Ziddim, Zer, and Hammath, Rakkath, and Chinnereth,",
-      "plainText" : "And the fenced cities are Ziddim, Zer, and Hammath, Rakkath, and Chinnereth,"
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "6357",
+      "text": "And the fenced cities <span class='extra'>are</span> Ziddim, Zer, and Hammath, Rakkath, and Chinnereth,",
+      "plainText": "And the fenced cities are Ziddim, Zer, and Hammath, Rakkath, and Chinnereth,"
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "6358",
-      "text" : "And Adamah, and Ramah, and Hazor,",
-      "plainText" : "And Adamah, and Ramah, and Hazor,"
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "6358",
+      "text": "And Adamah, and Ramah, and Hazor,",
+      "plainText": "And Adamah, and Ramah, and Hazor,"
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "6359",
-      "text" : "And Kedesh, and Edrei, and En-hazor,",
-      "plainText" : "And Kedesh, and Edrei, and En-hazor,"
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "6359",
+      "text": "And Kedesh, and Edrei, and En-hazor,",
+      "plainText": "And Kedesh, and Edrei, and En-hazor,"
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "6360",
-      "text" : "And Iron, and Migdal-el, Horem, and Beth-anath, and Beth-shemesh; nineteen cities with their villages.",
-      "plainText" : "And Iron, and Migdal-el, Horem, and Beth-anath, and Beth-shemesh; nineteen cities with their villages."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "6360",
+      "text": "And Iron, and Migdal-el, Horem, and Beth-anath, and Beth-shemesh; nineteen cities with their villages.",
+      "plainText": "And Iron, and Migdal-el, Horem, and Beth-anath, and Beth-shemesh; nineteen cities with their villages."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "6361",
-      "text" : "This <span class='extra'>is<\/span> the inheritance of the tribe of the children of Naphtali according to their families, the cities and their villages.",
-      "plainText" : "This is the inheritance of the tribe of the children of Naphtali according to their families, the cities and their villages."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "6361",
+      "text": "This <span class='extra'>is</span> the inheritance of the tribe of the children of Naphtali according to their families, the cities and their villages.",
+      "plainText": "This is the inheritance of the tribe of the children of Naphtali according to their families, the cities and their villages."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "6362",
-      "text" : "<span class='extra'>And<\/span> the seventh lot came out for the tribe of the children of Dan according to their families.",
-      "plainText" : "And the seventh lot came out for the tribe of the children of Dan according to their families."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "6362",
+      "text": "<span class='extra'>And</span> the seventh lot came out for the tribe of the children of Dan according to their families.",
+      "plainText": "And the seventh lot came out for the tribe of the children of Dan according to their families."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "6363",
-      "text" : "And the coast of their inheritance was Zorah, and Eshtaol, and Ir-shemesh,",
-      "plainText" : "And the coast of their inheritance was Zorah, and Eshtaol, and Ir-shemesh,"
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "6363",
+      "text": "And the coast of their inheritance was Zorah, and Eshtaol, and Ir-shemesh,",
+      "plainText": "And the coast of their inheritance was Zorah, and Eshtaol, and Ir-shemesh,"
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "6364",
-      "text" : "And Shaalabbin, and Ajalon, and Jethlah,",
-      "plainText" : "And Shaalabbin, and Ajalon, and Jethlah,"
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "6364",
+      "text": "And Shaalabbin, and Ajalon, and Jethlah,",
+      "plainText": "And Shaalabbin, and Ajalon, and Jethlah,"
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "6365",
-      "text" : "And Elon, and Thimnathah, and Ekron,",
-      "plainText" : "And Elon, and Thimnathah, and Ekron,"
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "6365",
+      "text": "And Elon, and Thimnathah, and Ekron,",
+      "plainText": "And Elon, and Thimnathah, and Ekron,"
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "6366",
-      "text" : "And Eltekeh, and Gibbethon, and Baalath,",
-      "plainText" : "And Eltekeh, and Gibbethon, and Baalath,"
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "6366",
+      "text": "And Eltekeh, and Gibbethon, and Baalath,",
+      "plainText": "And Eltekeh, and Gibbethon, and Baalath,"
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "6367",
-      "text" : "And Jehud, and Bene-berak, and Gath-rimmon,",
-      "plainText" : "And Jehud, and Bene-berak, and Gath-rimmon,"
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "6367",
+      "text": "And Jehud, and Bene-berak, and Gath-rimmon,",
+      "plainText": "And Jehud, and Bene-berak, and Gath-rimmon,"
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "6368",
-      "text" : "And Me-jarkon, and Rakkon, with the border before Japho.",
-      "plainText" : "And Me-jarkon, and Rakkon, with the border before Japho."
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "6368",
+      "text": "And Me-jarkon, and Rakkon, with the border before Japho.",
+      "plainText": "And Me-jarkon, and Rakkon, with the border before Japho."
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "6369",
-      "text" : "And the coast of the children of Dan went out <span class='extra'>too little<\/span> for them: therefore the children of Dan went up to fight against Leshem, and took it, and smote it with the edge of the sword, and possessed it, and dwelt therein, and called Leshem, Dan, after the name of Dan their father.",
-      "plainText" : "And the coast of the children of Dan went out too little for them: therefore the children of Dan went up to fight against Leshem, and took it, and smote it with the edge of the sword, and possessed it, and dwelt therein, and called Leshem, Dan, after the name of Dan their father."
-    }
-    ,
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "6369",
+      "text": "And the coast of the children of Dan went out <span class='extra'>too little</span> for them: therefore the children of Dan went up to fight against Leshem, and took it, and smote it with the edge of the sword, and possessed it, and dwelt therein, and called Leshem, Dan, after the name of Dan their father.",
+      "plainText": "And the coast of the children of Dan went out too little for them: therefore the children of Dan went up to fight against Leshem, and took it, and smote it with the edge of the sword, and possessed it, and dwelt therein, and called Leshem, Dan, after the name of Dan their father."
+    },
     {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "6370",
-      "text" : "This <span class='extra'>is<\/span> the inheritance of the tribe of the children of Dan according to their families, these cities with their villages.",
-      "plainText" : "This is the inheritance of the tribe of the children of Dan according to their families, these cities with their villages."
-    }
-    ,
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "6370",
+      "text": "This <span class='extra'>is</span> the inheritance of the tribe of the children of Dan according to their families, these cities with their villages.",
+      "plainText": "This is the inheritance of the tribe of the children of Dan according to their families, these cities with their villages."
+    },
     {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "6371",
-      "text" : "When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:",
-      "plainText" : "When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:"
-    }
-    ,
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "6371",
+      "text": "When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:",
+      "plainText": "When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:"
+    },
     {
-      "type" : "verse",
-      "id" : "v50",
-      "number" : "50",
-      "absolute" : "6372",
-      "text" : "According to the word of the <span class='nog'>LORD<\/span> they gave him the city which he asked, <span class='extra'>even<\/span> Timnath-serah in mount Ephraim: and he built the city, and dwelt therein.",
-      "plainText" : "According to the word of the LORD they gave him the city which he asked, even Timnath-serah in mount Ephraim: and he built the city, and dwelt therein."
-    }
-    ,
+      "type": "verse",
+      "id": "v50",
+      "number": "50",
+      "absolute": "6372",
+      "text": "According to the word of the <span class='nog'>LORD</span> they gave him the city which he asked, <span class='extra'>even</span> Timnath-serah in mount Ephraim: and he built the city, and dwelt therein.",
+      "plainText": "According to the word of the LORD they gave him the city which he asked, even Timnath-serah in mount Ephraim: and he built the city, and dwelt therein."
+    },
     {
-      "type" : "verse",
-      "id" : "v51",
-      "number" : "51",
-      "absolute" : "6373",
-      "text" : "These <span class='extra'>are<\/span> the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the <span class='nog'>LORD<\/span>, at the door of the tabernacle of the congregation. So they made an end of dividing the country.",
-      "plainText" : "These are the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the LORD, at the door of the tabernacle of the congregation. So they made an end of dividing the country."
+      "type": "verse",
+      "id": "v51",
+      "number": "51",
+      "absolute": "6373",
+      "text": "These <span class='extra'>are</span> the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the <span class='nog'>LORD</span>, at the door of the tabernacle of the congregation. So they made an end of dividing the country.",
+      "plainText": "These are the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the LORD, at the door of the tabernacle of the congregation. So they made an end of dividing the country."
     }
   ]
 }
-
-

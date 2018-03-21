@@ -1,280 +1,253 @@
 {
   "book": {
-    "number" : "44",
-    "filenamePrefix" : "acts",
-    "bookPage" : "acts.html",
-    "title" : "Acts",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "romans_1.html",
-    "nextTitle" : "Romans",
-    "prevBook" : "john_1.html",
-    "prevTitle" : "John"
+    "number": "44",
+    "filenamePrefix": "acts",
+    "bookPage": "acts.html",
+    "title": "Acts",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "romans_1.html",
+    "nextTitle": "Romans",
+    "prevBook": "john_1.html",
+    "prevTitle": "John",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "14",
-    "verseCount" : "28",
-    "nextChapter" : "acts_15.html",
-    "nextTitle" : "Acts 15",
-    "prevChapter" : "acts_13.html",
-    "prevTitle" : "Acts 13",
-    "filename" : "acts_14.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "14",
+    "verseCount": "28",
+    "nextChapter": "acts_15.html",
+    "nextTitle": "Acts 15",
+    "prevChapter": "acts_13.html",
+    "prevTitle": "Acts 13",
+    "filename": "acts_14.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "27416",
-      "text" : "And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed.",
-      "plainText" : "And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "27416",
+      "text": "And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed.",
+      "plainText": "And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "27417",
-      "text" : "But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brethren.",
-      "plainText" : "But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brethren."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "27417",
+      "text": "But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brethren.",
+      "plainText": "But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brethren."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "27418",
-      "text" : "Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word of his grace, and granted signs and wonders to be done by their hands.",
-      "plainText" : "Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word of his grace, and granted signs and wonders to be done by their hands."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "27418",
+      "text": "Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word of his grace, and granted signs and wonders to be done by their hands.",
+      "plainText": "Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word of his grace, and granted signs and wonders to be done by their hands."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "27419",
-      "text" : "But the multitude of the city was divided: and part held with the Jews, and part with the apostles.",
-      "plainText" : "But the multitude of the city was divided: and part held with the Jews, and part with the apostles."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "27419",
+      "text": "But the multitude of the city was divided: and part held with the Jews, and part with the apostles.",
+      "plainText": "But the multitude of the city was divided: and part held with the Jews, and part with the apostles."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "27420",
-      "text" : "And when there was an assault made both of the Gentiles, and also of the Jews with their rulers, to use <span class='extra'>them<\/span> despitefully, and to stone them,",
-      "plainText" : "And when there was an assault made both of the Gentiles, and also of the Jews with their rulers, to use them despitefully, and to stone them,"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "27420",
+      "text": "And when there was an assault made both of the Gentiles, and also of the Jews with their rulers, to use <span class='extra'>them</span> despitefully, and to stone them,",
+      "plainText": "And when there was an assault made both of the Gentiles, and also of the Jews with their rulers, to use them despitefully, and to stone them,"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "27421",
-      "text" : "They were ware of <span class='extra'>it<\/span>, and fled unto Lystra and Derbe, cities of Lycaonia, and unto the region that lieth round about:",
-      "plainText" : "They were ware of it, and fled unto Lystra and Derbe, cities of Lycaonia, and unto the region that lieth round about:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "27421",
+      "text": "They were ware of <span class='extra'>it</span>, and fled unto Lystra and Derbe, cities of Lycaonia, and unto the region that lieth round about:",
+      "plainText": "They were ware of it, and fled unto Lystra and Derbe, cities of Lycaonia, and unto the region that lieth round about:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "27422",
-      "text" : "And there they preached the gospel.",
-      "plainText" : "And there they preached the gospel."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "27422",
+      "text": "And there they preached the gospel.",
+      "plainText": "And there they preached the gospel."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "27423",
-      "text" : "And there sat a certain man at Lystra, impotent in his feet, being a cripple from his mother's womb, who never had walked:",
-      "plainText" : "And there sat a certain man at Lystra, impotent in his feet, being a cripple from his mother's womb, who never had walked:"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "27423",
+      "text": "And there sat a certain man at Lystra, impotent in his feet, being a cripple from his mother's womb, who never had walked:",
+      "plainText": "And there sat a certain man at Lystra, impotent in his feet, being a cripple from his mother's womb, who never had walked:"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "27424",
-      "text" : "The same heard Paul speak: who stedfastly beholding him, and perceiving that he had faith to be healed,",
-      "plainText" : "The same heard Paul speak: who stedfastly beholding him, and perceiving that he had faith to be healed,"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "27424",
+      "text": "The same heard Paul speak: who stedfastly beholding him, and perceiving that he had faith to be healed,",
+      "plainText": "The same heard Paul speak: who stedfastly beholding him, and perceiving that he had faith to be healed,"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "27425",
-      "text" : "Said with a loud voice, Stand upright on thy feet. And he leaped and walked.",
-      "plainText" : "Said with a loud voice, Stand upright on thy feet. And he leaped and walked."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "27425",
+      "text": "Said with a loud voice, Stand upright on thy feet. And he leaped and walked.",
+      "plainText": "Said with a loud voice, Stand upright on thy feet. And he leaped and walked."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "27426",
-      "text" : "And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men.",
-      "plainText" : "And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "27426",
+      "text": "And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men.",
+      "plainText": "And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "27427",
-      "text" : "And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker.",
-      "plainText" : "And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "27427",
+      "text": "And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker.",
+      "plainText": "And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "27428",
-      "text" : "Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people.",
-      "plainText" : "Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "27428",
+      "text": "Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people.",
+      "plainText": "Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "27429",
-      "text" : "<span class='extra'>Which<\/span> when the apostles, Barnabas and Paul, heard <span class='extra'>of<\/span>, they rent their clothes, and ran in among the people, crying out,",
-      "plainText" : "Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out,"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "27429",
+      "text": "<span class='extra'>Which</span> when the apostles, Barnabas and Paul, heard <span class='extra'>of</span>, they rent their clothes, and ran in among the people, crying out,",
+      "plainText": "Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out,"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "27430",
-      "text" : "And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:",
-      "plainText" : "And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "27430",
+      "text": "And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:",
+      "plainText": "And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "27431",
-      "text" : "Who in times past suffered all nations to walk in their own ways.",
-      "plainText" : "Who in times past suffered all nations to walk in their own ways."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "27431",
+      "text": "Who in times past suffered all nations to walk in their own ways.",
+      "plainText": "Who in times past suffered all nations to walk in their own ways."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "27432",
-      "text" : "Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness.",
-      "plainText" : "Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "27432",
+      "text": "Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness.",
+      "plainText": "Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "27433",
-      "text" : "And with these sayings scarce restrained they the people, that they had not done sacrifice unto them.",
-      "plainText" : "And with these sayings scarce restrained they the people, that they had not done sacrifice unto them."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "27433",
+      "text": "And with these sayings scarce restrained they the people, that they had not done sacrifice unto them.",
+      "plainText": "And with these sayings scarce restrained they the people, that they had not done sacrifice unto them."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "27434",
-      "text" : "And there came thither <span class='extra'>certain<\/span> Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew <span class='extra'>him<\/span> out of the city, supposing he had been dead.",
-      "plainText" : "And there came thither certain Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew him out of the city, supposing he had been dead."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "27434",
+      "text": "And there came thither <span class='extra'>certain</span> Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew <span class='extra'>him</span> out of the city, supposing he had been dead.",
+      "plainText": "And there came thither certain Jews from Antioch and Iconium, who persuaded the people, and, having stoned Paul, drew him out of the city, supposing he had been dead."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "27435",
-      "text" : "Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.",
-      "plainText" : "Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "27435",
+      "text": "Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.",
+      "plainText": "Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "27436",
-      "text" : "And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and <span class='extra'>to<\/span> Iconium, and Antioch,",
-      "plainText" : "And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "27436",
+      "text": "And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and <span class='extra'>to</span> Iconium, and Antioch,",
+      "plainText": "And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "27437",
-      "text" : "Confirming the souls of the disciples, <span class='extra'>and<\/span> exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God.",
-      "plainText" : "Confirming the souls of the disciples, and exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "27437",
+      "text": "Confirming the souls of the disciples, <span class='extra'>and</span> exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God.",
+      "plainText": "Confirming the souls of the disciples, and exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "27438",
-      "text" : "And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed.",
-      "plainText" : "And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "27438",
+      "text": "And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed.",
+      "plainText": "And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "27439",
-      "text" : "And after they had passed throughout Pisidia, they came to Pamphylia.",
-      "plainText" : "And after they had passed throughout Pisidia, they came to Pamphylia."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "27439",
+      "text": "And after they had passed throughout Pisidia, they came to Pamphylia.",
+      "plainText": "And after they had passed throughout Pisidia, they came to Pamphylia."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "27440",
-      "text" : "And when they had preached the word in Perga, they went down into Attalia:",
-      "plainText" : "And when they had preached the word in Perga, they went down into Attalia:"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "27440",
+      "text": "And when they had preached the word in Perga, they went down into Attalia:",
+      "plainText": "And when they had preached the word in Perga, they went down into Attalia:"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "27441",
-      "text" : "And thence sailed to Antioch, from whence they had been recommended to the grace of God for the work which they fulfilled.",
-      "plainText" : "And thence sailed to Antioch, from whence they had been recommended to the grace of God for the work which they fulfilled."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "27441",
+      "text": "And thence sailed to Antioch, from whence they had been recommended to the grace of God for the work which they fulfilled.",
+      "plainText": "And thence sailed to Antioch, from whence they had been recommended to the grace of God for the work which they fulfilled."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "27442",
-      "text" : "And when they were come, and had gathered the church together, they rehearsed all that God had done with them, and how he had opened the door of faith unto the Gentiles.",
-      "plainText" : "And when they were come, and had gathered the church together, they rehearsed all that God had done with them, and how he had opened the door of faith unto the Gentiles."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "27442",
+      "text": "And when they were come, and had gathered the church together, they rehearsed all that God had done with them, and how he had opened the door of faith unto the Gentiles.",
+      "plainText": "And when they were come, and had gathered the church together, they rehearsed all that God had done with them, and how he had opened the door of faith unto the Gentiles."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "27443",
-      "text" : "And there they abode long time with the disciples.",
-      "plainText" : "And there they abode long time with the disciples."
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "27443",
+      "text": "And there they abode long time with the disciples.",
+      "plainText": "And there they abode long time with the disciples."
     }
   ]
 }
-

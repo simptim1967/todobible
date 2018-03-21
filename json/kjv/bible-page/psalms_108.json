@@ -1,153 +1,139 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "108",
-    "verseCount" : "13",
-    "nextChapter" : "psalms_109.html",
-    "nextTitle" : "Psalms 109",
-    "prevChapter" : "psalms_107.html",
-    "prevTitle" : "Psalms 107",
-    "filename" : "psalms_108.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "108",
+    "verseCount": "13",
+    "nextChapter": "psalms_109.html",
+    "nextTitle": "Psalms 109",
+    "prevChapter": "psalms_107.html",
+    "prevTitle": "Psalms 107",
+    "filename": "psalms_108.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Song <span class='extra'>or<\/span> Psalm of David.",
-      "plainText" : "A Song or Psalm of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Song <span class='extra'>or</span> Psalm of David.",
+      "plainText": "A Song or Psalm of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "15744",
-      "text" : "O God, my heart is fixed; I will sing and give praise, even with my glory.",
-      "plainText" : "O God, my heart is fixed; I will sing and give praise, even with my glory."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "15744",
+      "text": "O God, my heart is fixed; I will sing and give praise, even with my glory.",
+      "plainText": "O God, my heart is fixed; I will sing and give praise, even with my glory."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "15745",
-      "text" : "Awake, psaltery and harp: I <span class='extra'>myself<\/span> will awake early.",
-      "plainText" : "Awake, psaltery and harp: I myself will awake early."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "15745",
+      "text": "Awake, psaltery and harp: I <span class='extra'>myself</span> will awake early.",
+      "plainText": "Awake, psaltery and harp: I myself will awake early."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "15746",
-      "text" : "I will praise thee, O <span class='nog'>LORD<\/span>, among the people: and I will sing praises unto thee among the nations.",
-      "plainText" : "I will praise thee, O LORD, among the people: and I will sing praises unto thee among the nations."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "15746",
+      "text": "I will praise thee, O <span class='nog'>LORD</span>, among the people: and I will sing praises unto thee among the nations.",
+      "plainText": "I will praise thee, O LORD, among the people: and I will sing praises unto thee among the nations."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "15747",
-      "text" : "For thy mercy <span class='extra'>is<\/span> great above the heavens: and thy truth <span class='extra'>reacheth<\/span> unto the clouds.",
-      "plainText" : "For thy mercy is great above the heavens: and thy truth reacheth unto the clouds."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "15747",
+      "text": "For thy mercy <span class='extra'>is</span> great above the heavens: and thy truth <span class='extra'>reacheth</span> unto the clouds.",
+      "plainText": "For thy mercy is great above the heavens: and thy truth reacheth unto the clouds."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "15748",
-      "text" : "Be thou exalted, O God, above the heavens: and thy glory above all the earth;",
-      "plainText" : "Be thou exalted, O God, above the heavens: and thy glory above all the earth;"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "15748",
+      "text": "Be thou exalted, O God, above the heavens: and thy glory above all the earth;",
+      "plainText": "Be thou exalted, O God, above the heavens: and thy glory above all the earth;"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "15749",
-      "text" : "That thy beloved may be delivered: save <span class='extra'>with<\/span> thy right hand, and answer me.",
-      "plainText" : "That thy beloved may be delivered: save with thy right hand, and answer me."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "15749",
+      "text": "That thy beloved may be delivered: save <span class='extra'>with</span> thy right hand, and answer me.",
+      "plainText": "That thy beloved may be delivered: save with thy right hand, and answer me."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "15750",
-      "text" : "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.",
-      "plainText" : "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "15750",
+      "text": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.",
+      "plainText": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "15751",
-      "text" : "Gilead <span class='extra'>is<\/span> mine; Manasseh <span class='extra'>is<\/span> mine; Ephraim also <span class='extra'>is<\/span> the strength of mine head; Judah <span class='extra'>is<\/span> my lawgiver;",
-      "plainText" : "Gilead is mine; Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "15751",
+      "text": "Gilead <span class='extra'>is</span> mine; Manasseh <span class='extra'>is</span> mine; Ephraim also <span class='extra'>is</span> the strength of mine head; Judah <span class='extra'>is</span> my lawgiver;",
+      "plainText": "Gilead is mine; Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "15752",
-      "text" : "Moab <span class='extra'>is<\/span> my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.",
-      "plainText" : "Moab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "15752",
+      "text": "Moab <span class='extra'>is</span> my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.",
+      "plainText": "Moab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "15753",
-      "text" : "Who will bring me into the strong city? who will lead me into Edom?",
-      "plainText" : "Who will bring me into the strong city? who will lead me into Edom?"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "15753",
+      "text": "Who will bring me into the strong city? who will lead me into Edom?",
+      "plainText": "Who will bring me into the strong city? who will lead me into Edom?"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "15754",
-      "text" : "<span class='extra'>Wilt<\/span> not <span class='extra'>thou<\/span>, O God, <span class='extra'>who<\/span> hast cast us off? and wilt not thou, O God, go forth with our hosts?",
-      "plainText" : "Wilt not thou, O God, who hast cast us off? and wilt not thou, O God, go forth with our hosts?"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "15754",
+      "text": "<span class='extra'>Wilt</span> not <span class='extra'>thou</span>, O God, <span class='extra'>who</span> hast cast us off? and wilt not thou, O God, go forth with our hosts?",
+      "plainText": "Wilt not thou, O God, who hast cast us off? and wilt not thou, O God, go forth with our hosts?"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "15755",
-      "text" : "Give us help from trouble: for vain <span class='extra'>is<\/span> the help of man.",
-      "plainText" : "Give us help from trouble: for vain is the help of man."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "15755",
+      "text": "Give us help from trouble: for vain <span class='extra'>is</span> the help of man.",
+      "plainText": "Give us help from trouble: for vain is the help of man."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "15756",
-      "text" : "Through God we shall do valiantly: for he <span class='extra'>it is that<\/span> shall tread down our enemies.",
-      "plainText" : "Through God we shall do valiantly: for he it is that shall tread down our enemies."
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "15756",
+      "text": "Through God we shall do valiantly: for he <span class='extra'>it is that</span> shall tread down our enemies.",
+      "plainText": "Through God we shall do valiantly: for he it is that shall tread down our enemies."
     }
   ]
 }
-
-

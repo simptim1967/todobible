@@ -1,117 +1,107 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "28",
-    "verseCount" : "9",
-    "nextChapter" : "psalms_29.html",
-    "nextTitle" : "Psalms 29",
-    "prevChapter" : "psalms_27.html",
-    "prevTitle" : "Psalms 27",
-    "filename" : "psalms_28.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "28",
+    "verseCount": "9",
+    "nextChapter": "psalms_29.html",
+    "nextTitle": "Psalms 29",
+    "prevChapter": "psalms_27.html",
+    "prevTitle": "Psalms 27",
+    "filename": "psalms_28.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "<span class='extra'>A Psalm<\/span> of David.",
-      "plainText" : "A Psalm of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "<span class='extra'>A Psalm</span> of David.",
+      "plainText": "A Psalm of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14301",
-      "text" : "Unto thee will I cry, O <span class='nog'>LORD<\/span> my rock; be not silent to me: lest, <span class='extra'>if<\/span> thou be silent to me, I become like them that go down into the pit.",
-      "plainText" : "Unto thee will I cry, O LORD my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14301",
+      "text": "Unto thee will I cry, O <span class='nog'>LORD</span> my rock; be not silent to me: lest, <span class='extra'>if</span> thou be silent to me, I become like them that go down into the pit.",
+      "plainText": "Unto thee will I cry, O LORD my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14302",
-      "text" : "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.",
-      "plainText" : "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14302",
+      "text": "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.",
+      "plainText": "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14303",
-      "text" : "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief <span class='extra'>is<\/span> in their hearts.",
-      "plainText" : "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief is in their hearts."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14303",
+      "text": "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief <span class='extra'>is</span> in their hearts.",
+      "plainText": "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief is in their hearts."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14304",
-      "text" : "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.",
-      "plainText" : "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14304",
+      "text": "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.",
+      "plainText": "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14305",
-      "text" : "Because they regard not the works of the <span class='nog'>LORD<\/span>, nor the operation of his hands, he shall destroy them, and not build them up.",
-      "plainText" : "Because they regard not the works of the LORD, nor the operation of his hands, he shall destroy them, and not build them up."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14305",
+      "text": "Because they regard not the works of the <span class='nog'>LORD</span>, nor the operation of his hands, he shall destroy them, and not build them up.",
+      "plainText": "Because they regard not the works of the LORD, nor the operation of his hands, he shall destroy them, and not build them up."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14306",
-      "text" : "Blessed <span class='extra'>be<\/span> the <span class='nog'>LORD<\/span>, because he hath heard the voice of my supplications.",
-      "plainText" : "Blessed be the LORD, because he hath heard the voice of my supplications."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14306",
+      "text": "Blessed <span class='extra'>be</span> the <span class='nog'>LORD</span>, because he hath heard the voice of my supplications.",
+      "plainText": "Blessed be the LORD, because he hath heard the voice of my supplications."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14307",
-      "text" : "The <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
-      "plainText" : "The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14307",
+      "text": "The <span class='nog'>LORD</span> <span class='extra'>is</span> my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
+      "plainText": "The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14308",
-      "text" : "The <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> their strength, and he <span class='extra'>is<\/span> the saving strength of his anointed.",
-      "plainText" : "The LORD is their strength, and he is the saving strength of his anointed."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14308",
+      "text": "The <span class='nog'>LORD</span> <span class='extra'>is</span> their strength, and he <span class='extra'>is</span> the saving strength of his anointed.",
+      "plainText": "The LORD is their strength, and he is the saving strength of his anointed."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14309",
-      "text" : "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.",
-      "plainText" : "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever."
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14309",
+      "text": "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.",
+      "plainText": "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever."
     }
   ]
 }
-
-

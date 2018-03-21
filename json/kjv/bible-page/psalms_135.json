@@ -1,218 +1,197 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "135",
-    "verseCount" : "21",
-    "nextChapter" : "psalms_136.html",
-    "nextTitle" : "Psalms 136",
-    "prevChapter" : "psalms_134.html",
-    "prevTitle" : "Psalms 134",
-    "filename" : "psalms_135.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "135",
+    "verseCount": "21",
+    "nextChapter": "psalms_136.html",
+    "nextTitle": "Psalms 136",
+    "prevChapter": "psalms_134.html",
+    "prevTitle": "Psalms 134",
+    "filename": "psalms_135.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16177",
-      "text" : "Praise ye the <span class='nog'>LORD<\/span>. Praise ye the name of the <span class='nog'>LORD<\/span>; praise <span class='extra'>him<\/span>, O ye servants of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Praise ye the LORD. Praise ye the name of the LORD; praise him, O ye servants of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16177",
+      "text": "Praise ye the <span class='nog'>LORD</span>. Praise ye the name of the <span class='nog'>LORD</span>; praise <span class='extra'>him</span>, O ye servants of the <span class='nog'>LORD</span>.",
+      "plainText": "Praise ye the LORD. Praise ye the name of the LORD; praise him, O ye servants of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16178",
-      "text" : "Ye that stand in the house of the <span class='nog'>LORD<\/span>, in the courts of the house of our God,",
-      "plainText" : "Ye that stand in the house of the LORD, in the courts of the house of our God,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16178",
+      "text": "Ye that stand in the house of the <span class='nog'>LORD</span>, in the courts of the house of our God,",
+      "plainText": "Ye that stand in the house of the LORD, in the courts of the house of our God,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16179",
-      "text" : "Praise the <span class='nog'>LORD<\/span>; for the <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> good: sing praises unto his name; for <span class='extra'>it is<\/span> pleasant.",
-      "plainText" : "Praise the LORD; for the LORD is good: sing praises unto his name; for it is pleasant."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16179",
+      "text": "Praise the <span class='nog'>LORD</span>; for the <span class='nog'>LORD</span> <span class='extra'>is</span> good: sing praises unto his name; for <span class='extra'>it is</span> pleasant.",
+      "plainText": "Praise the LORD; for the LORD is good: sing praises unto his name; for it is pleasant."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "16180",
-      "text" : "For the <span class='nog'>LORD<\/span> hath chosen Jacob unto himself, <span class='extra'>and<\/span> Israel for his peculiar treasure.",
-      "plainText" : "For the LORD hath chosen Jacob unto himself, and Israel for his peculiar treasure."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "16180",
+      "text": "For the <span class='nog'>LORD</span> hath chosen Jacob unto himself, <span class='extra'>and</span> Israel for his peculiar treasure.",
+      "plainText": "For the LORD hath chosen Jacob unto himself, and Israel for his peculiar treasure."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "16181",
-      "text" : "For I know that the <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> great, and <span class='extra'>that<\/span> our Lord <span class='extra'>is<\/span> above all gods.",
-      "plainText" : "For I know that the LORD is great, and that our Lord is above all gods."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "16181",
+      "text": "For I know that the <span class='nog'>LORD</span> <span class='extra'>is</span> great, and <span class='extra'>that</span> our Lord <span class='extra'>is</span> above all gods.",
+      "plainText": "For I know that the LORD is great, and that our Lord is above all gods."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "16182",
-      "text" : "Whatsoever the <span class='nog'>LORD<\/span> pleased, <span class='extra'>that<\/span> did he in heaven, and in earth, in the seas, and all deep places.",
-      "plainText" : "Whatsoever the LORD pleased, that did he in heaven, and in earth, in the seas, and all deep places."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "16182",
+      "text": "Whatsoever the <span class='nog'>LORD</span> pleased, <span class='extra'>that</span> did he in heaven, and in earth, in the seas, and all deep places.",
+      "plainText": "Whatsoever the LORD pleased, that did he in heaven, and in earth, in the seas, and all deep places."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "16183",
-      "text" : "He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries.",
-      "plainText" : "He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "16183",
+      "text": "He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries.",
+      "plainText": "He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "16184",
-      "text" : "Who smote the firstborn of Egypt, both of man and beast.",
-      "plainText" : "Who smote the firstborn of Egypt, both of man and beast."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "16184",
+      "text": "Who smote the firstborn of Egypt, both of man and beast.",
+      "plainText": "Who smote the firstborn of Egypt, both of man and beast."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "16185",
-      "text" : "<span class='extra'>Who<\/span> sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants.",
-      "plainText" : "Who sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "16185",
+      "text": "<span class='extra'>Who</span> sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants.",
+      "plainText": "Who sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "16186",
-      "text" : "Who smote great nations, and slew mighty kings;",
-      "plainText" : "Who smote great nations, and slew mighty kings;"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "16186",
+      "text": "Who smote great nations, and slew mighty kings;",
+      "plainText": "Who smote great nations, and slew mighty kings;"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "16187",
-      "text" : "Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:",
-      "plainText" : "Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "16187",
+      "text": "Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:",
+      "plainText": "Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "16188",
-      "text" : "And gave their land <span class='extra'>for<\/span> an heritage, an heritage unto Israel his people.",
-      "plainText" : "And gave their land for an heritage, an heritage unto Israel his people."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "16188",
+      "text": "And gave their land <span class='extra'>for</span> an heritage, an heritage unto Israel his people.",
+      "plainText": "And gave their land for an heritage, an heritage unto Israel his people."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "16189",
-      "text" : "Thy name, O <span class='nog'>LORD<\/span>, <span class='extra'>endureth<\/span> for ever; <span class='extra'>and<\/span> thy memorial, O <span class='nog'>LORD<\/span>, throughout all generations.",
-      "plainText" : "Thy name, O LORD, endureth for ever; and thy memorial, O LORD, throughout all generations."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "16189",
+      "text": "Thy name, O <span class='nog'>LORD</span>, <span class='extra'>endureth</span> for ever; <span class='extra'>and</span> thy memorial, O <span class='nog'>LORD</span>, throughout all generations.",
+      "plainText": "Thy name, O LORD, endureth for ever; and thy memorial, O LORD, throughout all generations."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "16190",
-      "text" : "For the <span class='nog'>LORD<\/span> will judge his people, and he will repent himself concerning his servants.",
-      "plainText" : "For the LORD will judge his people, and he will repent himself concerning his servants."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "16190",
+      "text": "For the <span class='nog'>LORD</span> will judge his people, and he will repent himself concerning his servants.",
+      "plainText": "For the LORD will judge his people, and he will repent himself concerning his servants."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "16191",
-      "text" : "The idols of the heathen <span class='extra'>are<\/span> silver and gold, the work of men's hands.",
-      "plainText" : "The idols of the heathen are silver and gold, the work of men's hands."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "16191",
+      "text": "The idols of the heathen <span class='extra'>are</span> silver and gold, the work of men's hands.",
+      "plainText": "The idols of the heathen are silver and gold, the work of men's hands."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "16192",
-      "text" : "They have mouths, but they speak not; eyes have they, but they see not;",
-      "plainText" : "They have mouths, but they speak not; eyes have they, but they see not;"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "16192",
+      "text": "They have mouths, but they speak not; eyes have they, but they see not;",
+      "plainText": "They have mouths, but they speak not; eyes have they, but they see not;"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "16193",
-      "text" : "They have ears, but they hear not; neither is there <span class='extra'>any<\/span> breath in their mouths.",
-      "plainText" : "They have ears, but they hear not; neither is there any breath in their mouths."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "16193",
+      "text": "They have ears, but they hear not; neither is there <span class='extra'>any</span> breath in their mouths.",
+      "plainText": "They have ears, but they hear not; neither is there any breath in their mouths."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "16194",
-      "text" : "They that make them are like unto them: <span class='extra'>so is<\/span> every one that trusteth in them.",
-      "plainText" : "They that make them are like unto them: so is every one that trusteth in them."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "16194",
+      "text": "They that make them are like unto them: <span class='extra'>so is</span> every one that trusteth in them.",
+      "plainText": "They that make them are like unto them: so is every one that trusteth in them."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "16195",
-      "text" : "Bless the <span class='nog'>LORD<\/span>, O house of Israel: bless the <span class='nog'>LORD<\/span>, O house of Aaron:",
-      "plainText" : "Bless the LORD, O house of Israel: bless the LORD, O house of Aaron:"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "16195",
+      "text": "Bless the <span class='nog'>LORD</span>, O house of Israel: bless the <span class='nog'>LORD</span>, O house of Aaron:",
+      "plainText": "Bless the LORD, O house of Israel: bless the LORD, O house of Aaron:"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "16196",
-      "text" : "Bless the <span class='nog'>LORD<\/span>, O house of Levi: ye that fear the <span class='nog'>LORD<\/span>, bless the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Bless the LORD, O house of Levi: ye that fear the LORD, bless the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "16196",
+      "text": "Bless the <span class='nog'>LORD</span>, O house of Levi: ye that fear the <span class='nog'>LORD</span>, bless the <span class='nog'>LORD</span>.",
+      "plainText": "Bless the LORD, O house of Levi: ye that fear the LORD, bless the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "16197",
-      "text" : "Blessed be the <span class='nog'>LORD<\/span> out of Zion, which dwelleth at Jerusalem. Praise ye the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Blessed be the LORD out of Zion, which dwelleth at Jerusalem. Praise ye the LORD."
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "16197",
+      "text": "Blessed be the <span class='nog'>LORD</span> out of Zion, which dwelleth at Jerusalem. Praise ye the <span class='nog'>LORD</span>.",
+      "plainText": "Blessed be the LORD out of Zion, which dwelleth at Jerusalem. Praise ye the LORD."
     }
   ]
 }
-
-

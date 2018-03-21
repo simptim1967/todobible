@@ -1,343 +1,309 @@
 {
   "book": {
-    "number" : "40",
-    "filenamePrefix" : "matthew",
-    "bookPage" : "matthew.html",
-    "title" : "Matthew",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "mark_1.html",
-    "nextTitle" : "Mark",
-    "prevBook" : "malachi_1.html",
-    "prevTitle" : "Malachi"
+    "number": "40",
+    "filenamePrefix": "matthew",
+    "bookPage": "matthew.html",
+    "title": "Matthew",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "mark_1.html",
+    "nextTitle": "Mark",
+    "prevBook": "malachi_1.html",
+    "prevTitle": "Malachi",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "18",
-    "verseCount" : "35",
-    "nextChapter" : "matthew_19.html",
-    "nextTitle" : "Matthew 19",
-    "prevChapter" : "matthew_17.html",
-    "prevTitle" : "Matthew 17",
-    "filename" : "matthew_18.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "18",
+    "verseCount": "35",
+    "nextChapter": "matthew_19.html",
+    "nextTitle": "Matthew 19",
+    "prevChapter": "matthew_17.html",
+    "prevTitle": "Matthew 17",
+    "filename": "matthew_18.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "23729",
-      "text" : "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?",
-      "plainText" : "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "23729",
+      "text": "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?",
+      "plainText": "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "23730",
-      "text" : "And Jesus called a little child unto him, and set him in the midst of them,",
-      "plainText" : "And Jesus called a little child unto him, and set him in the midst of them,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "23730",
+      "text": "And Jesus called a little child unto him, and set him in the midst of them,",
+      "plainText": "And Jesus called a little child unto him, and set him in the midst of them,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "23731",
-      "text" : "And said, <span class='woc'>Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.<\/span>",
-      "plainText" : "And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "23731",
+      "text": "And said, <span class='woc'>Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.</span>",
+      "plainText": "And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "23732",
-      "text" : "<span class='woc'>Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.<\/span>",
-      "plainText" : "Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "23732",
+      "text": "<span class='woc'>Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.</span>",
+      "plainText": "Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "23733",
-      "text" : "<span class='woc'>And whoso shall receive one such little child in my name receiveth me.<\/span>",
-      "plainText" : "And whoso shall receive one such little child in my name receiveth me."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "23733",
+      "text": "<span class='woc'>And whoso shall receive one such little child in my name receiveth me.</span>",
+      "plainText": "And whoso shall receive one such little child in my name receiveth me."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "23734",
-      "text" : "<span class='woc'>But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and <span class='extra'>that<\/span> he were drowned in the depth of the sea.<\/span>",
-      "plainText" : "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "23734",
+      "text": "<span class='woc'>But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and <span class='extra'>that</span> he were drowned in the depth of the sea.</span>",
+      "plainText": "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "23735",
-      "text" : "<span class='woc'>Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!<\/span>",
-      "plainText" : "Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "23735",
+      "text": "<span class='woc'>Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!</span>",
+      "plainText": "Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "23736",
-      "text" : "<span class='woc'>Wherefore if thy hand or thy foot offend thee, cut them off, and cast <span class='extra'>them<\/span> from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.<\/span>",
-      "plainText" : "Wherefore if thy hand or thy foot offend thee, cut them off, and cast them from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "23736",
+      "text": "<span class='woc'>Wherefore if thy hand or thy foot offend thee, cut them off, and cast <span class='extra'>them</span> from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.</span>",
+      "plainText": "Wherefore if thy hand or thy foot offend thee, cut them off, and cast them from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "23737",
-      "text" : "<span class='woc'>And if thine eye offend thee, pluck it out, and cast <span class='extra'>it<\/span> from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire.<\/span>",
-      "plainText" : "And if thine eye offend thee, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "23737",
+      "text": "<span class='woc'>And if thine eye offend thee, pluck it out, and cast <span class='extra'>it</span> from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire.</span>",
+      "plainText": "And if thine eye offend thee, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "23738",
-      "text" : "<span class='woc'>Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.<\/span>",
-      "plainText" : "Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "23738",
+      "text": "<span class='woc'>Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.</span>",
+      "plainText": "Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "23739",
-      "text" : "<span class='woc'>For the Son of man is come to save that which was lost.<\/span>",
-      "plainText" : "For the Son of man is come to save that which was lost."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "23739",
+      "text": "<span class='woc'>For the Son of man is come to save that which was lost.</span>",
+      "plainText": "For the Son of man is come to save that which was lost."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "23740",
-      "text" : "<span class='woc'>How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?<\/span>",
-      "plainText" : "How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "23740",
+      "text": "<span class='woc'>How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?</span>",
+      "plainText": "How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "23741",
-      "text" : "<span class='woc'>And if so be that he find it, verily I say unto you, he rejoiceth more of that <span class='extra'>sheep<\/span>, than of the ninety and nine which went not astray.<\/span>",
-      "plainText" : "And if so be that he find it, verily I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "23741",
+      "text": "<span class='woc'>And if so be that he find it, verily I say unto you, he rejoiceth more of that <span class='extra'>sheep</span>, than of the ninety and nine which went not astray.</span>",
+      "plainText": "And if so be that he find it, verily I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "23742",
-      "text" : "<span class='woc'>Even so it is not the will of your Father which is in heaven, that one of these little ones should perish.<\/span>",
-      "plainText" : "Even so it is not the will of your Father which is in heaven, that one of these little ones should perish."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "23742",
+      "text": "<span class='woc'>Even so it is not the will of your Father which is in heaven, that one of these little ones should perish.</span>",
+      "plainText": "Even so it is not the will of your Father which is in heaven, that one of these little ones should perish."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "23743",
-      "text" : "<span class='woc'>Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.<\/span>",
-      "plainText" : "Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "23743",
+      "text": "<span class='woc'>Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.</span>",
+      "plainText": "Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "23744",
-      "text" : "<span class='woc'>But if he will not hear <span class='extra'>thee, then<\/span> take with thee one or two more, that in the mouth of two or three witnesses every word may be established.<\/span>",
-      "plainText" : "But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "23744",
+      "text": "<span class='woc'>But if he will not hear <span class='extra'>thee, then</span> take with thee one or two more, that in the mouth of two or three witnesses every word may be established.</span>",
+      "plainText": "But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "23745",
-      "text" : "<span class='woc'>And if he shall neglect to hear them, tell <span class='extra'>it<\/span> unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.<\/span>",
-      "plainText" : "And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "23745",
+      "text": "<span class='woc'>And if he shall neglect to hear them, tell <span class='extra'>it</span> unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.</span>",
+      "plainText": "And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "23746",
-      "text" : "<span class='woc'>Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.<\/span>",
-      "plainText" : "Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "23746",
+      "text": "<span class='woc'>Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.</span>",
+      "plainText": "Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "23747",
-      "text" : "<span class='woc'>Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.<\/span>",
-      "plainText" : "Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "23747",
+      "text": "<span class='woc'>Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.</span>",
+      "plainText": "Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "23748",
-      "text" : "<span class='woc'>For where two or three are gathered together in my name, there am I in the midst of them.<\/span>",
-      "plainText" : "For where two or three are gathered together in my name, there am I in the midst of them."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "23748",
+      "text": "<span class='woc'>For where two or three are gathered together in my name, there am I in the midst of them.</span>",
+      "plainText": "For where two or three are gathered together in my name, there am I in the midst of them."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "23749",
-      "text" : "Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?",
-      "plainText" : "Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "23749",
+      "text": "Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?",
+      "plainText": "Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "23750",
-      "text" : "Jesus saith unto him, <span class='woc'>I say not unto thee, Until seven times: but, Until seventy times seven.<\/span>",
-      "plainText" : "Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "23750",
+      "text": "Jesus saith unto him, <span class='woc'>I say not unto thee, Until seven times: but, Until seventy times seven.</span>",
+      "plainText": "Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "23751",
-      "text" : "<span class='woc'>Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants.<\/span>",
-      "plainText" : "Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "23751",
+      "text": "<span class='woc'>Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants.</span>",
+      "plainText": "Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "23752",
-      "text" : "<span class='woc'>And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents.<\/span>",
-      "plainText" : "And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "23752",
+      "text": "<span class='woc'>And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents.</span>",
+      "plainText": "And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "23753",
-      "text" : "<span class='woc'>But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.<\/span>",
-      "plainText" : "But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "23753",
+      "text": "<span class='woc'>But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.</span>",
+      "plainText": "But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "23754",
-      "text" : "<span class='woc'>The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all.<\/span>",
-      "plainText" : "The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "23754",
+      "text": "<span class='woc'>The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all.</span>",
+      "plainText": "The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "23755",
-      "text" : "<span class='woc'>Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt.<\/span>",
-      "plainText" : "Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "23755",
+      "text": "<span class='woc'>Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt.</span>",
+      "plainText": "Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "23756",
-      "text" : "<span class='woc'>But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took <span class='extra'>him<\/span> by the throat, saying, Pay me that thou owest.<\/span>",
-      "plainText" : "But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "23756",
+      "text": "<span class='woc'>But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took <span class='extra'>him</span> by the throat, saying, Pay me that thou owest.</span>",
+      "plainText": "But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "23757",
-      "text" : "<span class='woc'>And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all.<\/span>",
-      "plainText" : "And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "23757",
+      "text": "<span class='woc'>And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all.</span>",
+      "plainText": "And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "23758",
-      "text" : "<span class='woc'>And he would not: but went and cast him into prison, till he should pay the debt.<\/span>",
-      "plainText" : "And he would not: but went and cast him into prison, till he should pay the debt."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "23758",
+      "text": "<span class='woc'>And he would not: but went and cast him into prison, till he should pay the debt.</span>",
+      "plainText": "And he would not: but went and cast him into prison, till he should pay the debt."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "23759",
-      "text" : "<span class='woc'>So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done.<\/span>",
-      "plainText" : "So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "23759",
+      "text": "<span class='woc'>So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done.</span>",
+      "plainText": "So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "23760",
-      "text" : "<span class='woc'>Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:<\/span>",
-      "plainText" : "Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "23760",
+      "text": "<span class='woc'>Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:</span>",
+      "plainText": "Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "23761",
-      "text" : "<span class='woc'>Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?<\/span>",
-      "plainText" : "Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?"
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "23761",
+      "text": "<span class='woc'>Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?</span>",
+      "plainText": "Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?"
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "23762",
-      "text" : "<span class='woc'>And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.<\/span>",
-      "plainText" : "And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "23762",
+      "text": "<span class='woc'>And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.</span>",
+      "plainText": "And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "23763",
-      "text" : "<span class='woc'>So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses.<\/span>",
-      "plainText" : "So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses."
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "23763",
+      "text": "<span class='woc'>So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses.</span>",
+      "plainText": "So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses."
     }
   ]
 }
-

@@ -1,326 +1,293 @@
 {
   "book": {
-    "number" : "1",
-    "filenamePrefix" : "genesis",
-    "bookPage" : "genesis.html",
-    "title" : "Genesis",
-    "chapterCount" : "50",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "exodus_1.html",
-    "nextTitle" : "Exodus",
-    "prevBook" : "revelation_1.html",
-    "prevTitle" : "Revelation"
+    "number": "1",
+    "filenamePrefix": "genesis",
+    "bookPage": "genesis.html",
+    "title": "Genesis",
+    "chapterCount": "50",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "exodus_1.html",
+    "nextTitle": "Exodus",
+    "prevBook": "revelation_1.html",
+    "prevTitle": "Revelation",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "49",
-    "verseCount" : "33",
-    "nextChapter" : "genesis_50.html",
-    "nextTitle" : "Genesis 50",
-    "prevChapter" : "genesis_48.html",
-    "prevTitle" : "Genesis 48",
-    "filename" : "genesis_49.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "49",
+    "verseCount": "33",
+    "nextChapter": "genesis_50.html",
+    "nextTitle": "Genesis 50",
+    "prevChapter": "genesis_48.html",
+    "prevTitle": "Genesis 48",
+    "filename": "genesis_49.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "1475",
-      "text" : "And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you <span class='extra'>that<\/span> which shall befall you in the last days.",
-      "plainText" : "And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "1475",
+      "text": "And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you <span class='extra'>that</span> which shall befall you in the last days.",
+      "plainText": "And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "1476",
-      "text" : "Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father.",
-      "plainText" : "Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "1476",
+      "text": "Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father.",
+      "plainText": "Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "1477",
-      "text" : "Reuben, thou <span class='extra'>art<\/span> my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:",
-      "plainText" : "Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "1477",
+      "text": "Reuben, thou <span class='extra'>art</span> my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:",
+      "plainText": "Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "1478",
-      "text" : "Unstable as water, thou shalt not excel; because thou wentest up to thy father's bed; then defiledst thou <span class='extra'>it<\/span>: he went up to my couch.",
-      "plainText" : "Unstable as water, thou shalt not excel; because thou wentest up to thy father's bed; then defiledst thou it: he went up to my couch."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "1478",
+      "text": "Unstable as water, thou shalt not excel; because thou wentest up to thy father's bed; then defiledst thou <span class='extra'>it</span>: he went up to my couch.",
+      "plainText": "Unstable as water, thou shalt not excel; because thou wentest up to thy father's bed; then defiledst thou it: he went up to my couch."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "1479",
-      "text" : "Simeon and Levi <span class='extra'>are<\/span> brethren; instruments of cruelty <span class='extra'>are in<\/span> their habitations.",
-      "plainText" : "Simeon and Levi are brethren; instruments of cruelty are in their habitations."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "1479",
+      "text": "Simeon and Levi <span class='extra'>are</span> brethren; instruments of cruelty <span class='extra'>are in</span> their habitations.",
+      "plainText": "Simeon and Levi are brethren; instruments of cruelty are in their habitations."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "1480",
-      "text" : "O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall.",
-      "plainText" : "O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "1480",
+      "text": "O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall.",
+      "plainText": "O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "1481",
-      "text" : "Cursed <span class='extra'>be<\/span> their anger, for <span class='extra'>it was<\/span> fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel.",
-      "plainText" : "Cursed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "1481",
+      "text": "Cursed <span class='extra'>be</span> their anger, for <span class='extra'>it was</span> fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel.",
+      "plainText": "Cursed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "1482",
-      "text" : "Judah, thou <span class='extra'>art he<\/span> whom thy brethren shall praise: thy hand <span class='extra'>shall be<\/span> in the neck of thine enemies; thy father's children shall bow down before thee.",
-      "plainText" : "Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father's children shall bow down before thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "1482",
+      "text": "Judah, thou <span class='extra'>art he</span> whom thy brethren shall praise: thy hand <span class='extra'>shall be</span> in the neck of thine enemies; thy father's children shall bow down before thee.",
+      "plainText": "Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father's children shall bow down before thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "1483",
-      "text" : "Judah <span class='extra'>is<\/span> a lion's whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?",
-      "plainText" : "Judah is a lion's whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "1483",
+      "text": "Judah <span class='extra'>is</span> a lion's whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?",
+      "plainText": "Judah is a lion's whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "1484",
-      "text" : "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him <span class='extra'>shall<\/span> the gathering of the people <span class='extra'>be<\/span>.",
-      "plainText" : "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "1484",
+      "text": "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him <span class='extra'>shall</span> the gathering of the people <span class='extra'>be</span>.",
+      "plainText": "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "1485",
-      "text" : "Binding his foal unto the vine, and his ass's colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:",
-      "plainText" : "Binding his foal unto the vine, and his ass's colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "1485",
+      "text": "Binding his foal unto the vine, and his ass's colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:",
+      "plainText": "Binding his foal unto the vine, and his ass's colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "1486",
-      "text" : "His eyes <span class='extra'>shall be<\/span> red with wine, and his teeth white with milk.",
-      "plainText" : "His eyes shall be red with wine, and his teeth white with milk."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "1486",
+      "text": "His eyes <span class='extra'>shall be</span> red with wine, and his teeth white with milk.",
+      "plainText": "His eyes shall be red with wine, and his teeth white with milk."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "1487",
-      "text" : "Zebulun shall dwell at the haven of the sea; and he <span class='extra'>shall be<\/span> for an haven of ships; and his border <span class='extra'>shall be<\/span> unto Zidon.",
-      "plainText" : "Zebulun shall dwell at the haven of the sea; and he shall be for an haven of ships; and his border shall be unto Zidon."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "1487",
+      "text": "Zebulun shall dwell at the haven of the sea; and he <span class='extra'>shall be</span> for an haven of ships; and his border <span class='extra'>shall be</span> unto Zidon.",
+      "plainText": "Zebulun shall dwell at the haven of the sea; and he shall be for an haven of ships; and his border shall be unto Zidon."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "1488",
-      "text" : "Issachar <span class='extra'>is<\/span> a strong ass couching down between two burdens:",
-      "plainText" : "Issachar is a strong ass couching down between two burdens:"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "1488",
+      "text": "Issachar <span class='extra'>is</span> a strong ass couching down between two burdens:",
+      "plainText": "Issachar is a strong ass couching down between two burdens:"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "1489",
-      "text" : "And he saw that rest <span class='extra'>was<\/span> good, and the land that <span class='extra'>it was<\/span> pleasant; and bowed his shoulder to bear, and became a servant unto tribute.",
-      "plainText" : "And he saw that rest was good, and the land that it was pleasant; and bowed his shoulder to bear, and became a servant unto tribute."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "1489",
+      "text": "And he saw that rest <span class='extra'>was</span> good, and the land that <span class='extra'>it was</span> pleasant; and bowed his shoulder to bear, and became a servant unto tribute.",
+      "plainText": "And he saw that rest was good, and the land that it was pleasant; and bowed his shoulder to bear, and became a servant unto tribute."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "1490",
-      "text" : "Dan shall judge his people, as one of the tribes of Israel.",
-      "plainText" : "Dan shall judge his people, as one of the tribes of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "1490",
+      "text": "Dan shall judge his people, as one of the tribes of Israel.",
+      "plainText": "Dan shall judge his people, as one of the tribes of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "1491",
-      "text" : "Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward.",
-      "plainText" : "Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "1491",
+      "text": "Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward.",
+      "plainText": "Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "1492",
-      "text" : "I have waited for thy salvation, O <span class='nog'>LORD<\/span>.",
-      "plainText" : "I have waited for thy salvation, O LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "1492",
+      "text": "I have waited for thy salvation, O <span class='nog'>LORD</span>.",
+      "plainText": "I have waited for thy salvation, O LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "1493",
-      "text" : "Gad, a troop shall overcome him: but he shall overcome at the last.",
-      "plainText" : "Gad, a troop shall overcome him: but he shall overcome at the last."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "1493",
+      "text": "Gad, a troop shall overcome him: but he shall overcome at the last.",
+      "plainText": "Gad, a troop shall overcome him: but he shall overcome at the last."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "1494",
-      "text" : "Out of Asher his bread <span class='extra'>shall be<\/span> fat, and he shall yield royal dainties.",
-      "plainText" : "Out of Asher his bread shall be fat, and he shall yield royal dainties."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "1494",
+      "text": "Out of Asher his bread <span class='extra'>shall be</span> fat, and he shall yield royal dainties.",
+      "plainText": "Out of Asher his bread shall be fat, and he shall yield royal dainties."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "1495",
-      "text" : "Naphtali <span class='extra'>is<\/span> a hind let loose: he giveth goodly words.",
-      "plainText" : "Naphtali is a hind let loose: he giveth goodly words."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "1495",
+      "text": "Naphtali <span class='extra'>is</span> a hind let loose: he giveth goodly words.",
+      "plainText": "Naphtali is a hind let loose: he giveth goodly words."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "1496",
-      "text" : "Joseph <span class='extra'>is<\/span> a fruitful bough, <span class='extra'>even<\/span> a fruitful bough by a well; <span class='extra'>whose<\/span> branches run over the wall:",
-      "plainText" : "Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall:"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "1496",
+      "text": "Joseph <span class='extra'>is</span> a fruitful bough, <span class='extra'>even</span> a fruitful bough by a well; <span class='extra'>whose</span> branches run over the wall:",
+      "plainText": "Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall:"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "1497",
-      "text" : "The archers have sorely grieved him, and shot <span class='extra'>at him<\/span>, and hated him:",
-      "plainText" : "The archers have sorely grieved him, and shot at him, and hated him:"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "1497",
+      "text": "The archers have sorely grieved him, and shot <span class='extra'>at him</span>, and hated him:",
+      "plainText": "The archers have sorely grieved him, and shot at him, and hated him:"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "1498",
-      "text" : "But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty <span class='extra'>God<\/span> of Jacob; (from thence <span class='extra'>is<\/span> the shepherd, the stone of Israel:)",
-      "plainText" : "But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from thence is the shepherd, the stone of Israel:)"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "1498",
+      "text": "But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty <span class='extra'>God</span> of Jacob; (from thence <span class='extra'>is</span> the shepherd, the stone of Israel:)",
+      "plainText": "But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from thence is the shepherd, the stone of Israel:)"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "1499",
-      "text" : "<span class='extra'>Even<\/span> by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:",
-      "plainText" : "Even by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "1499",
+      "text": "<span class='extra'>Even</span> by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:",
+      "plainText": "Even by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "1500",
-      "text" : "The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren.",
-      "plainText" : "The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "1500",
+      "text": "The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren.",
+      "plainText": "The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "1501",
-      "text" : "Benjamin shall ravin <span class='extra'>as<\/span> a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.",
-      "plainText" : "Benjamin shall ravin as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "1501",
+      "text": "Benjamin shall ravin <span class='extra'>as</span> a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.",
+      "plainText": "Benjamin shall ravin as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "1502",
-      "text" : "All these <span class='extra'>are<\/span> the twelve tribes of Israel: and this <span class='extra'>is it<\/span> that their father spake unto them, and blessed them; every one according to his blessing he blessed them.",
-      "plainText" : "All these are the twelve tribes of Israel: and this is it that their father spake unto them, and blessed them; every one according to his blessing he blessed them."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "1502",
+      "text": "All these <span class='extra'>are</span> the twelve tribes of Israel: and this <span class='extra'>is it</span> that their father spake unto them, and blessed them; every one according to his blessing he blessed them.",
+      "plainText": "All these are the twelve tribes of Israel: and this is it that their father spake unto them, and blessed them; every one according to his blessing he blessed them."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "1503",
-      "text" : "And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that <span class='extra'>is<\/span> in the field of Ephron the Hittite,",
-      "plainText" : "And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "1503",
+      "text": "And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that <span class='extra'>is</span> in the field of Ephron the Hittite,",
+      "plainText": "And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "1504",
-      "text" : "In the cave that <span class='extra'>is<\/span> in the field of Machpelah, which <span class='extra'>is<\/span> before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace.",
-      "plainText" : "In the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "1504",
+      "text": "In the cave that <span class='extra'>is</span> in the field of Machpelah, which <span class='extra'>is</span> before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace.",
+      "plainText": "In the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "1505",
-      "text" : "There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.",
-      "plainText" : "There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "1505",
+      "text": "There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.",
+      "plainText": "There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "1506",
-      "text" : "The purchase of the field and of the cave that <span class='extra'>is<\/span> therein <span class='extra'>was<\/span> from the children of Heth.",
-      "plainText" : "The purchase of the field and of the cave that is therein was from the children of Heth."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "1506",
+      "text": "The purchase of the field and of the cave that <span class='extra'>is</span> therein <span class='extra'>was</span> from the children of Heth.",
+      "plainText": "The purchase of the field and of the cave that is therein was from the children of Heth."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "1507",
-      "text" : "And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.",
-      "plainText" : "And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people."
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "1507",
+      "text": "And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.",
+      "plainText": "And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people."
     }
   ]
 }
-
-

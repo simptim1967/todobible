@@ -1,316 +1,286 @@
 {
   "book": {
-    "number" : "49",
-    "filenamePrefix" : "ephesians",
-    "bookPage" : "ephesians.html",
-    "title" : "Ephesians",
-    "chapterCount" : "6",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "philippians_1.html",
-    "nextTitle" : "Philippians",
-    "prevBook" : "galatians_1.html",
-    "prevTitle" : "Galatians"
+    "number": "49",
+    "filenamePrefix": "ephesians",
+    "bookPage": "ephesians.html",
+    "title": "Ephesians",
+    "chapterCount": "6",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "philippians_1.html",
+    "nextTitle": "Philippians",
+    "prevBook": "galatians_1.html",
+    "prevTitle": "Galatians",
+    "tooltipwords": true,
+    "interlinear": false
   },
   "chapter": {
-    "number" : "4",
-    "verseCount" : "32",
-    "nextChapter" : "ephesians_5.html",
-    "nextTitle" : "Ephesians 5",
-    "prevChapter" : "ephesians_3.html",
-    "prevTitle" : "Ephesians 3",
-    "filename" : "ephesians_4.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "4",
+    "verseCount": "32",
+    "nextChapter": "ephesians_5.html",
+    "nextTitle": "Ephesians 5",
+    "prevChapter": "ephesians_3.html",
+    "prevTitle": "Ephesians 3",
+    "filename": "ephesians_4.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "29274",
-      "text" : "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,",
-      "plainText" : "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "29274",
+      "text": "I therefore, the prisoner of the Lord, <span class='ttw'; data-toggle='tooltip' data-placement='top' title='implore, beg, entreat, exhort, call upon'>beseech</span> you that <span class='ttw'; data-toggle='tooltip' data-placement='top' title='you (plural)'>ye</span> walk worthy of the vocation wherewith <span class='ttw'; data-toggle='tooltip' data-placement='top' title='you (plural)'>ye</span> are called,",
+      "plainText": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "29275",
-      "text" : "With all lowliness and meekness, with longsuffering, forbearing one another in love;",
-      "plainText" : "With all lowliness and meekness, with longsuffering, forbearing one another in love;"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "29275",
+      "text": "With all lowliness and meekness, with longsuffering, forbearing one another in love;",
+      "plainText": "With all lowliness and meekness, with longsuffering, forbearing one another in love;"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "29276",
-      "text" : "Endeavouring to keep the unity of the Spirit in the bond of peace.",
-      "plainText" : "Endeavouring to keep the unity of the Spirit in the bond of peace."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "29276",
+      "text": "Endeavouring to keep the unity of the Spirit in the bond of peace.",
+      "plainText": "Endeavouring to keep the unity of the Spirit in the bond of peace."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "29277",
-      "text" : "<span class='extra'>There is<\/span> one body, and one Spirit, even as ye are called in one hope of your calling;",
-      "plainText" : "There is one body, and one Spirit, even as ye are called in one hope of your calling;"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "29277",
+      "text": "<span class='extra'>There is</span> one body, and one Spirit, even as ye are called in one hope of your calling;",
+      "plainText": "There is one body, and one Spirit, even as ye are called in one hope of your calling;"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "29278",
-      "text" : "One Lord, one faith, one baptism,",
-      "plainText" : "One Lord, one faith, one baptism,"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "29278",
+      "text": "One Lord, one faith, one baptism,",
+      "plainText": "One Lord, one faith, one baptism,"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "29279",
-      "text" : "One God and Father of all, who <span class='extra'>is<\/span> above all, and through all, and in you all.",
-      "plainText" : "One God and Father of all, who is above all, and through all, and in you all."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "29279",
+      "text": "One God and Father of all, who <span class='extra'>is</span> above all, and through all, and in you all.",
+      "plainText": "One God and Father of all, who is above all, and through all, and in you all."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "29280",
-      "text" : "But unto every one of us is given grace according to the measure of the gift of Christ.",
-      "plainText" : "But unto every one of us is given grace according to the measure of the gift of Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "29280",
+      "text": "But unto every one of us is given grace according to the measure of the gift of Christ.",
+      "plainText": "But unto every one of us is given grace according to the measure of the gift of Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "29281",
-      "text" : "Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.",
-      "plainText" : "Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "29281",
+      "text": "Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.",
+      "plainText": "Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "29282",
-      "text" : "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?",
-      "plainText" : "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "29282",
+      "text": "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?",
+      "plainText": "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "29283",
-      "text" : "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)",
-      "plainText" : "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "29283",
+      "text": "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)",
+      "plainText": "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "29284",
-      "text" : "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;",
-      "plainText" : "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "29284",
+      "text": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;",
+      "plainText": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "29285",
-      "text" : "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:",
-      "plainText" : "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "29285",
+      "text": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:",
+      "plainText": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "29286",
-      "text" : "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:",
-      "plainText" : "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "29286",
+      "text": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:",
+      "plainText": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "29287",
-      "text" : "That we <span class='extra'>henceforth<\/span> be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, <span class='extra'>and<\/span> cunning craftiness, whereby they lie in wait to deceive;",
-      "plainText" : "That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "29287",
+      "text": "That we <span class='extra'>henceforth</span> be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, <span class='extra'>and</span> cunning craftiness, whereby they lie in wait to deceive;",
+      "plainText": "That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "29288",
-      "text" : "But speaking the truth in love, may grow up into him in all things, which is the head, <span class='extra'>even<\/span> Christ:",
-      "plainText" : "But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "29288",
+      "text": "But speaking the truth in love, may grow up into him in all things, which is the head, <span class='extra'>even</span> Christ:",
+      "plainText": "But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "29289",
-      "text" : "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.",
-      "plainText" : "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "29289",
+      "text": "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.",
+      "plainText": "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "29290",
-      "text" : "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,",
-      "plainText" : "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "29290",
+      "text": "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,",
+      "plainText": "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "29291",
-      "text" : "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:",
-      "plainText" : "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "29291",
+      "text": "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:",
+      "plainText": "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "29292",
-      "text" : "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness.",
-      "plainText" : "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "29292",
+      "text": "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness.",
+      "plainText": "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "29293",
-      "text" : "But ye have not so learned Christ;",
-      "plainText" : "But ye have not so learned Christ;"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "29293",
+      "text": "But ye have not so learned Christ;",
+      "plainText": "But ye have not so learned Christ;"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "29294",
-      "text" : "If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:",
-      "plainText" : "If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "29294",
+      "text": "If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:",
+      "plainText": "If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "29295",
-      "text" : "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;",
-      "plainText" : "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "29295",
+      "text": "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;",
+      "plainText": "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "29296",
-      "text" : "And be renewed in the spirit of your mind;",
-      "plainText" : "And be renewed in the spirit of your mind;"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "29296",
+      "text": "And be renewed in the spirit of your mind;",
+      "plainText": "And be renewed in the spirit of your mind;"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "29297",
-      "text" : "And that ye put on the new man, which after God is created in righteousness and true holiness.",
-      "plainText" : "And that ye put on the new man, which after God is created in righteousness and true holiness."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "29297",
+      "text": "And that ye put on the new man, which after God is created in righteousness and true holiness.",
+      "plainText": "And that ye put on the new man, which after God is created in righteousness and true holiness."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "29298",
-      "text" : "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.",
-      "plainText" : "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "29298",
+      "text": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.",
+      "plainText": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "29299",
-      "text" : "Be ye angry, and sin not: let not the sun go down upon your wrath:",
-      "plainText" : "Be ye angry, and sin not: let not the sun go down upon your wrath:"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "29299",
+      "text": "Be ye angry, and sin not: let not the sun go down upon your wrath:",
+      "plainText": "Be ye angry, and sin not: let not the sun go down upon your wrath:"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "29300",
-      "text" : "Neither give place to the devil.",
-      "plainText" : "Neither give place to the devil."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "29300",
+      "text": "Neither give place to the devil.",
+      "plainText": "Neither give place to the devil."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "29301",
-      "text" : "Let him that stole steal no more: but rather let him labour, working with <span class='extra'>his<\/span> hands the thing which is good, that he may have to give to him that needeth.",
-      "plainText" : "Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "29301",
+      "text": "Let him that stole steal no more: but rather let him labour, working with <span class='extra'>his</span> hands the thing which is good, that he may have to give to him that needeth.",
+      "plainText": "Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "29302",
-      "text" : "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.",
-      "plainText" : "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "29302",
+      "text": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.",
+      "plainText": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "29303",
-      "text" : "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.",
-      "plainText" : "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "29303",
+      "text": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.",
+      "plainText": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "29304",
-      "text" : "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:",
-      "plainText" : "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:"
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "29304",
+      "text": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:",
+      "plainText": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:"
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "29305",
-      "text" : "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.",
-      "plainText" : "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you."
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "29305",
+      "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake <span class='ttw'; data-toggle='tooltip' data-placement='top' title='has'>hath</span> forgiven you.",
+      "plainText": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you."
     }
   ]
 }
-

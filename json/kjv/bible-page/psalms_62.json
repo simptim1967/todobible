@@ -1,143 +1,131 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "62",
-    "verseCount" : "12",
-    "nextChapter" : "psalms_63.html",
-    "nextTitle" : "Psalms 63",
-    "prevChapter" : "psalms_61.html",
-    "prevTitle" : "Psalms 61",
-    "filename" : "psalms_62.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "62",
+    "verseCount": "12",
+    "nextChapter": "psalms_63.html",
+    "nextTitle": "Psalms 63",
+    "prevChapter": "psalms_61.html",
+    "prevTitle": "Psalms 61",
+    "filename": "psalms_62.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "To the chief Musician, to Jeduthun, A Psalm of David.",
-      "plainText" : "To the chief Musician, to Jeduthun, A Psalm of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "To the chief Musician, to Jeduthun, A Psalm of David.",
+      "plainText": "To the chief Musician, to Jeduthun, A Psalm of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14829",
-      "text" : "Truly my soul waiteth upon God: from him <span class='extra'>cometh<\/span> my salvation.",
-      "plainText" : "Truly my soul waiteth upon God: from him cometh my salvation."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14829",
+      "text": "Truly my soul waiteth upon God: from him <span class='extra'>cometh</span> my salvation.",
+      "plainText": "Truly my soul waiteth upon God: from him cometh my salvation."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14830",
-      "text" : "He only <span class='extra'>is<\/span> my rock and my salvation; <span class='extra'>he is<\/span> my defence; I shall not be greatly moved.",
-      "plainText" : "He only is my rock and my salvation; he is my defence; I shall not be greatly moved."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14830",
+      "text": "He only <span class='extra'>is</span> my rock and my salvation; <span class='extra'>he is</span> my defence; I shall not be greatly moved.",
+      "plainText": "He only is my rock and my salvation; he is my defence; I shall not be greatly moved."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14831",
-      "text" : "How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall <span class='extra'>shall ye be, and as<\/span> a tottering fence.",
-      "plainText" : "How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall shall ye be, and as a tottering fence."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14831",
+      "text": "How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall <span class='extra'>shall ye be, and as</span> a tottering fence.",
+      "plainText": "How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall shall ye be, and as a tottering fence."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14832",
-      "text" : "They only consult to cast <span class='extra'>him<\/span> down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.",
-      "plainText" : "They only consult to cast him down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14832",
+      "text": "They only consult to cast <span class='extra'>him</span> down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.",
+      "plainText": "They only consult to cast him down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14833",
-      "text" : "My soul, wait thou only upon God; for my expectation <span class='extra'>is<\/span> from him.",
-      "plainText" : "My soul, wait thou only upon God; for my expectation is from him."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14833",
+      "text": "My soul, wait thou only upon God; for my expectation <span class='extra'>is</span> from him.",
+      "plainText": "My soul, wait thou only upon God; for my expectation is from him."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14834",
-      "text" : "He only <span class='extra'>is<\/span> my rock and my salvation: <span class='extra'>he is<\/span> my defence; I shall not be moved.",
-      "plainText" : "He only is my rock and my salvation: he is my defence; I shall not be moved."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14834",
+      "text": "He only <span class='extra'>is</span> my rock and my salvation: <span class='extra'>he is</span> my defence; I shall not be moved.",
+      "plainText": "He only is my rock and my salvation: he is my defence; I shall not be moved."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14835",
-      "text" : "In God <span class='extra'>is<\/span> my salvation and my glory: the rock of my strength, <span class='extra'>and<\/span> my refuge, <span class='extra'>is<\/span> in God.",
-      "plainText" : "In God is my salvation and my glory: the rock of my strength, and my refuge, is in God."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14835",
+      "text": "In God <span class='extra'>is</span> my salvation and my glory: the rock of my strength, <span class='extra'>and</span> my refuge, <span class='extra'>is</span> in God.",
+      "plainText": "In God is my salvation and my glory: the rock of my strength, and my refuge, is in God."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14836",
-      "text" : "Trust in him at all times; ye people, pour out your heart before him: God <span class='extra'>is<\/span> a refuge for us. Selah.",
-      "plainText" : "Trust in him at all times; ye people, pour out your heart before him: God is a refuge for us. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14836",
+      "text": "Trust in him at all times; ye people, pour out your heart before him: God <span class='extra'>is</span> a refuge for us. Selah.",
+      "plainText": "Trust in him at all times; ye people, pour out your heart before him: God is a refuge for us. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14837",
-      "text" : "Surely men of low degree <span class='extra'>are<\/span> vanity, <span class='extra'>and<\/span> men of high degree <span class='extra'>are<\/span> a lie: to be laid in the balance, they <span class='extra'>are<\/span> altogether <span class='extra'>lighter<\/span> than vanity.",
-      "plainText" : "Surely men of low degree are vanity, and men of high degree are a lie: to be laid in the balance, they are altogether lighter than vanity."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14837",
+      "text": "Surely men of low degree <span class='extra'>are</span> vanity, <span class='extra'>and</span> men of high degree <span class='extra'>are</span> a lie: to be laid in the balance, they <span class='extra'>are</span> altogether <span class='extra'>lighter</span> than vanity.",
+      "plainText": "Surely men of low degree are vanity, and men of high degree are a lie: to be laid in the balance, they are altogether lighter than vanity."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "14838",
-      "text" : "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart <span class='extra'>upon them<\/span>.",
-      "plainText" : "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "14838",
+      "text": "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart <span class='extra'>upon them</span>.",
+      "plainText": "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "14839",
-      "text" : "God hath spoken once; twice have I heard this; that power <span class='extra'>belongeth<\/span> unto God.",
-      "plainText" : "God hath spoken once; twice have I heard this; that power belongeth unto God."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "14839",
+      "text": "God hath spoken once; twice have I heard this; that power <span class='extra'>belongeth</span> unto God.",
+      "plainText": "God hath spoken once; twice have I heard this; that power belongeth unto God."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "14840",
-      "text" : "Also unto thee, O Lord, <span class='extra'>belongeth<\/span> mercy: for thou renderest to every man according to his work.",
-      "plainText" : "Also unto thee, O Lord, belongeth mercy: for thou renderest to every man according to his work."
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "14840",
+      "text": "Also unto thee, O Lord, <span class='extra'>belongeth</span> mercy: for thou renderest to every man according to his work.",
+      "plainText": "Also unto thee, O Lord, belongeth mercy: for thou renderest to every man according to his work."
     }
   ]
 }
-

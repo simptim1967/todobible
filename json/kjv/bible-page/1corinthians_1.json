@@ -1,307 +1,277 @@
 {
   "book": {
-    "number" : "46",
-    "filenamePrefix" : "1corinthians",
-    "bookPage" : "1corinthians.html",
-    "title" : "1 Corinthians",
-    "chapterCount" : "16",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "2corinthians_1.html",
-    "nextTitle" : "2 Corinthians",
-    "prevBook" : "romans_1.html",
-    "prevTitle" : "Romans"
+    "number": "46",
+    "filenamePrefix": "1corinthians",
+    "bookPage": "1corinthians.html",
+    "title": "1 Corinthians",
+    "chapterCount": "16",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "2corinthians_1.html",
+    "nextTitle": "2 Corinthians",
+    "prevBook": "romans_1.html",
+    "prevTitle": "Romans",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "1",
-    "verseCount" : "31",
-    "nextChapter" : "1corinthians_2.html",
-    "nextTitle" : "1 Corinthians 2",
-    "prevChapter" : "romans_16.html",
-    "prevTitle" : "Romans 16",
-    "filename" : "1corinthians_1.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "1",
+    "verseCount": "31",
+    "nextChapter": "1corinthians_2.html",
+    "nextTitle": "1 Corinthians 2",
+    "prevChapter": "romans_16.html",
+    "prevTitle": "Romans 16",
+    "filename": "1corinthians_1.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "28365",
-      "text" : "Paul, called <span class='extra'>to be<\/span> an apostle of Jesus Christ through the will of God, and Sosthenes <span class='extra'>our<\/span> brother,",
-      "plainText" : "Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "28365",
+      "text": "Paul, called <span class='extra'>to be</span> an apostle of Jesus Christ through the will of God, and Sosthenes <span class='extra'>our</span> brother,",
+      "plainText": "Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "28366",
-      "text" : "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called <span class='extra'>to be<\/span> saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:",
-      "plainText" : "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "28366",
+      "text": "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called <span class='extra'>to be</span> saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:",
+      "plainText": "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "28367",
-      "text" : "Grace <span class='extra'>be<\/span> unto you, and peace, from God our Father, and <span class='extra'>from<\/span> the Lord Jesus Christ.",
-      "plainText" : "Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "28367",
+      "text": "Grace <span class='extra'>be</span> unto you, and peace, from God our Father, and <span class='extra'>from</span> the Lord Jesus Christ.",
+      "plainText": "Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "28368",
-      "text" : "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;",
-      "plainText" : "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "28368",
+      "text": "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;",
+      "plainText": "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "28369",
-      "text" : "That in every thing ye are enriched by him, in all utterance, and <span class='extra'>in<\/span> all knowledge;",
-      "plainText" : "That in every thing ye are enriched by him, in all utterance, and in all knowledge;"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "28369",
+      "text": "That in every thing ye are enriched by him, in all utterance, and <span class='extra'>in</span> all knowledge;",
+      "plainText": "That in every thing ye are enriched by him, in all utterance, and in all knowledge;"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "28370",
-      "text" : "Even as the testimony of Christ was confirmed in you:",
-      "plainText" : "Even as the testimony of Christ was confirmed in you:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "28370",
+      "text": "Even as the testimony of Christ was confirmed in you:",
+      "plainText": "Even as the testimony of Christ was confirmed in you:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "28371",
-      "text" : "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:",
-      "plainText" : "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "28371",
+      "text": "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:",
+      "plainText": "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "28372",
-      "text" : "Who shall also confirm you unto the end, <span class='extra'>that ye may be<\/span> blameless in the day of our Lord Jesus Christ.",
-      "plainText" : "Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "28372",
+      "text": "Who shall also confirm you unto the end, <span class='extra'>that ye may be</span> blameless in the day of our Lord Jesus Christ.",
+      "plainText": "Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "28373",
-      "text" : "God <span class='extra'>is<\/span> faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.",
-      "plainText" : "God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "28373",
+      "text": "God <span class='extra'>is</span> faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.",
+      "plainText": "God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "28374",
-      "text" : "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and <span class='extra'>that<\/span> there be no divisions among you; but <span class='extra'>that<\/span> ye be perfectly joined together in the same mind and in the same judgment.",
-      "plainText" : "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "28374",
+      "text": "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and <span class='extra'>that</span> there be no divisions among you; but <span class='extra'>that</span> ye be perfectly joined together in the same mind and in the same judgment.",
+      "plainText": "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "28375",
-      "text" : "For it hath been declared unto me of you, my brethren, by them <span class='extra'>which are of the house<\/span> of Chloe, that there are contentions among you.",
-      "plainText" : "For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "28375",
+      "text": "For it hath been declared unto me of you, my brethren, by them <span class='extra'>which are of the house</span> of Chloe, that there are contentions among you.",
+      "plainText": "For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "28376",
-      "text" : "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.",
-      "plainText" : "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "28376",
+      "text": "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.",
+      "plainText": "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "28377",
-      "text" : "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?",
-      "plainText" : "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "28377",
+      "text": "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?",
+      "plainText": "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "28378",
-      "text" : "I thank God that I baptized none of you, but Crispus and Gaius;",
-      "plainText" : "I thank God that I baptized none of you, but Crispus and Gaius;"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "28378",
+      "text": "I thank God that I baptized none of you, but Crispus and Gaius;",
+      "plainText": "I thank God that I baptized none of you, but Crispus and Gaius;"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "28379",
-      "text" : "Lest any should say that I had baptized in mine own name.",
-      "plainText" : "Lest any should say that I had baptized in mine own name."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "28379",
+      "text": "Lest any should say that I had baptized in mine own name.",
+      "plainText": "Lest any should say that I had baptized in mine own name."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "28380",
-      "text" : "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other.",
-      "plainText" : "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "28380",
+      "text": "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other.",
+      "plainText": "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "28381",
-      "text" : "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect.",
-      "plainText" : "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "28381",
+      "text": "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect.",
+      "plainText": "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "28382",
-      "text" : "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.",
-      "plainText" : "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "28382",
+      "text": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.",
+      "plainText": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "28383",
-      "text" : "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent.",
-      "plainText" : "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "28383",
+      "text": "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent.",
+      "plainText": "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "28384",
-      "text" : "Where <span class='extra'>is<\/span> the wise? where <span class='extra'>is<\/span> the scribe? where <span class='extra'>is<\/span> the disputer of this world? hath not God made foolish the wisdom of this world?",
-      "plainText" : "Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of this world?"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "28384",
+      "text": "Where <span class='extra'>is</span> the wise? where <span class='extra'>is</span> the scribe? where <span class='extra'>is</span> the disputer of this world? hath not God made foolish the wisdom of this world?",
+      "plainText": "Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of this world?"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "28385",
-      "text" : "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.",
-      "plainText" : "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "28385",
+      "text": "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.",
+      "plainText": "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "28386",
-      "text" : "For the Jews require a sign, and the Greeks seek after wisdom:",
-      "plainText" : "For the Jews require a sign, and the Greeks seek after wisdom:"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "28386",
+      "text": "For the Jews require a sign, and the Greeks seek after wisdom:",
+      "plainText": "For the Jews require a sign, and the Greeks seek after wisdom:"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "28387",
-      "text" : "But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;",
-      "plainText" : "But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "28387",
+      "text": "But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;",
+      "plainText": "But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "28388",
-      "text" : "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.",
-      "plainText" : "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "28388",
+      "text": "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.",
+      "plainText": "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "28389",
-      "text" : "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men.",
-      "plainText" : "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "28389",
+      "text": "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men.",
+      "plainText": "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "28390",
-      "text" : "For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, <span class='extra'>are called<\/span>:",
-      "plainText" : "For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called:"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "28390",
+      "text": "For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, <span class='extra'>are called</span>:",
+      "plainText": "For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called:"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "28391",
-      "text" : "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;",
-      "plainText" : "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "28391",
+      "text": "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;",
+      "plainText": "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "28392",
-      "text" : "And base things of the world, and things which are despised, hath God chosen, <span class='extra'>yea<\/span>, and things which are not, to bring to nought things that are:",
-      "plainText" : "And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:"
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "28392",
+      "text": "And base things of the world, and things which are despised, hath God chosen, <span class='extra'>yea</span>, and things which are not, to bring to nought things that are:",
+      "plainText": "And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:"
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "28393",
-      "text" : "That no flesh should glory in his presence.",
-      "plainText" : "That no flesh should glory in his presence."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "28393",
+      "text": "That no flesh should glory in his presence.",
+      "plainText": "That no flesh should glory in his presence."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "28394",
-      "text" : "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:",
-      "plainText" : "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:"
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "28394",
+      "text": "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:",
+      "plainText": "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:"
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "28395",
-      "text" : "That, according as it is written, He that glorieth, let him glory in the Lord.",
-      "plainText" : "That, according as it is written, He that glorieth, let him glory in the Lord."
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "28395",
+      "text": "That, according as it is written, He that glorieth, let him glory in the Lord.",
+      "plainText": "That, according as it is written, He that glorieth, let him glory in the Lord."
     }
   ]
 }
-

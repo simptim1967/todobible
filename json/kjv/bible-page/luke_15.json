@@ -1,316 +1,285 @@
 {
   "book": {
-    "number" : "42",
-    "filenamePrefix" : "luke",
-    "bookPage" : "luke.html",
-    "title" : "Luke",
-    "chapterCount" : "24",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "john_1.html",
-    "nextTitle" : "John",
-    "prevBook" : "mark_1.html",
-    "prevTitle" : "Mark"
+    "number": "42",
+    "filenamePrefix": "luke",
+    "bookPage": "luke.html",
+    "title": "Luke",
+    "chapterCount": "24",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "john_1.html",
+    "nextTitle": "John",
+    "prevBook": "mark_1.html",
+    "prevTitle": "Mark",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "15",
-    "verseCount" : "32",
-    "nextChapter" : "luke_16.html",
-    "nextTitle" : "Luke 16",
-    "prevChapter" : "luke_14.html",
-    "prevTitle" : "Luke 14",
-    "filename" : "luke_15.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "15",
+    "verseCount": "32",
+    "nextChapter": "luke_16.html",
+    "nextTitle": "Luke 16",
+    "prevChapter": "luke_14.html",
+    "prevTitle": "Luke 14",
+    "filename": "luke_15.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "25590",
-      "text" : "Then drew near unto him all the publicans and sinners for to hear him.",
-      "plainText" : "Then drew near unto him all the publicans and sinners for to hear him."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "25590",
+      "text": "Then drew near unto him all the publicans and sinners for to hear him.",
+      "plainText": "Then drew near unto him all the publicans and sinners for to hear him."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "25591",
-      "text" : "And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them.",
-      "plainText" : "And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "25591",
+      "text": "And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them.",
+      "plainText": "And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "25592",
-      "text" : "And he spake this parable unto them, saying,",
-      "plainText" : "And he spake this parable unto them, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "25592",
+      "text": "And he spake this parable unto them, saying,",
+      "plainText": "And he spake this parable unto them, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "25593",
-      "text" : "<span class='woc'>What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?<\/span>",
-      "plainText" : "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "25593",
+      "text": "<span class='woc'>What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?</span>",
+      "plainText": "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "25594",
-      "text" : "<span class='woc'>And when he hath found <span class='extra'>it<\/span>, he layeth <span class='extra'>it<\/span> on his shoulders, rejoicing.<\/span>",
-      "plainText" : "And when he hath found it, he layeth it on his shoulders, rejoicing."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "25594",
+      "text": "<span class='woc'>And when he hath found <span class='extra'>it</span>, he layeth <span class='extra'>it</span> on his shoulders, rejoicing.</span>",
+      "plainText": "And when he hath found it, he layeth it on his shoulders, rejoicing."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "25595",
-      "text" : "<span class='woc'>And when he cometh home, he calleth together <span class='extra'>his<\/span> friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost.<\/span>",
-      "plainText" : "And when he cometh home, he calleth together his friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "25595",
+      "text": "<span class='woc'>And when he cometh home, he calleth together <span class='extra'>his</span> friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost.</span>",
+      "plainText": "And when he cometh home, he calleth together his friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "25596",
-      "text" : "<span class='woc'>I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.<\/span>",
-      "plainText" : "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "25596",
+      "text": "<span class='woc'>I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.</span>",
+      "plainText": "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "25597",
-      "text" : "<span class='woc'>Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find <span class='extra'>it<\/span>?<\/span>",
-      "plainText" : "Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it?"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "25597",
+      "text": "<span class='woc'>Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find <span class='extra'>it</span>?</span>",
+      "plainText": "Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it?"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "25598",
-      "text" : "<span class='woc'>And when she hath found <span class='extra'>it<\/span>, she calleth <span class='extra'>her<\/span> friends and <span class='extra'>her<\/span> neighbours together, saying, Rejoice with me; for I have found the piece which I had lost.<\/span>",
-      "plainText" : "And when she hath found it, she calleth her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "25598",
+      "text": "<span class='woc'>And when she hath found <span class='extra'>it</span>, she calleth <span class='extra'>her</span> friends and <span class='extra'>her</span> neighbours together, saying, Rejoice with me; for I have found the piece which I had lost.</span>",
+      "plainText": "And when she hath found it, she calleth her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "25599",
-      "text" : "<span class='woc'>Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.<\/span>",
-      "plainText" : "Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "25599",
+      "text": "<span class='woc'>Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.</span>",
+      "plainText": "Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "25600",
-      "text" : "And he said, <span class='woc'>A certain man had two sons:<\/span>",
-      "plainText" : "And he said, A certain man had two sons:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "25600",
+      "text": "And he said, <span class='woc'>A certain man had two sons:</span>",
+      "plainText": "And he said, A certain man had two sons:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "25601",
-      "text" : "<span class='woc'>And the younger of them said to <span class='extra'>his<\/span> father, Father, give me the portion of goods that falleth <span class='extra'>to me<\/span>. And he divided unto them <span class='extra'>his<\/span> living.<\/span>",
-      "plainText" : "And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "25601",
+      "text": "<span class='woc'>And the younger of them said to <span class='extra'>his</span> father, Father, give me the portion of goods that falleth <span class='extra'>to me</span>. And he divided unto them <span class='extra'>his</span> living.</span>",
+      "plainText": "And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "25602",
-      "text" : "<span class='woc'>And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.<\/span>",
-      "plainText" : "And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "25602",
+      "text": "<span class='woc'>And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.</span>",
+      "plainText": "And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "25603",
-      "text" : "<span class='woc'>And when he had spent all, there arose a mighty famine in that land; and he began to be in want.<\/span>",
-      "plainText" : "And when he had spent all, there arose a mighty famine in that land; and he began to be in want."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "25603",
+      "text": "<span class='woc'>And when he had spent all, there arose a mighty famine in that land; and he began to be in want.</span>",
+      "plainText": "And when he had spent all, there arose a mighty famine in that land; and he began to be in want."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "25604",
-      "text" : "<span class='woc'>And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.<\/span>",
-      "plainText" : "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "25604",
+      "text": "<span class='woc'>And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.</span>",
+      "plainText": "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "25605",
-      "text" : "<span class='woc'>And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.<\/span>",
-      "plainText" : "And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "25605",
+      "text": "<span class='woc'>And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.</span>",
+      "plainText": "And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "25606",
-      "text" : "<span class='woc'>And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger!<\/span>",
-      "plainText" : "And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger!"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "25606",
+      "text": "<span class='woc'>And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger!</span>",
+      "plainText": "And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger!"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "25607",
-      "text" : "<span class='woc'>I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,<\/span>",
-      "plainText" : "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "25607",
+      "text": "<span class='woc'>I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,</span>",
+      "plainText": "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "25608",
-      "text" : "<span class='woc'>And am no more worthy to be called thy son: make me as one of thy hired servants.<\/span>",
-      "plainText" : "And am no more worthy to be called thy son: make me as one of thy hired servants."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "25608",
+      "text": "<span class='woc'>And am no more worthy to be called thy son: make me as one of thy hired servants.</span>",
+      "plainText": "And am no more worthy to be called thy son: make me as one of thy hired servants."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "25609",
-      "text" : "<span class='woc'>And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.<\/span>",
-      "plainText" : "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "25609",
+      "text": "<span class='woc'>And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.</span>",
+      "plainText": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "25610",
-      "text" : "<span class='woc'>And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.<\/span>",
-      "plainText" : "And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "25610",
+      "text": "<span class='woc'>And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.</span>",
+      "plainText": "And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "25611",
-      "text" : "<span class='woc'>But the father said to his servants, Bring forth the best robe, and put <span class='extra'>it<\/span> on him; and put a ring on his hand, and shoes on <span class='extra'>his<\/span> feet:<\/span>",
-      "plainText" : "But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "25611",
+      "text": "<span class='woc'>But the father said to his servants, Bring forth the best robe, and put <span class='extra'>it</span> on him; and put a ring on his hand, and shoes on <span class='extra'>his</span> feet:</span>",
+      "plainText": "But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "25612",
-      "text" : "<span class='woc'>And bring hither the fatted calf, and kill <span class='extra'>it<\/span>; and let us eat, and be merry:<\/span>",
-      "plainText" : "And bring hither the fatted calf, and kill it; and let us eat, and be merry:"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "25612",
+      "text": "<span class='woc'>And bring hither the fatted calf, and kill <span class='extra'>it</span>; and let us eat, and be merry:</span>",
+      "plainText": "And bring hither the fatted calf, and kill it; and let us eat, and be merry:"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "25613",
-      "text" : "<span class='woc'>For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.<\/span>",
-      "plainText" : "For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "25613",
+      "text": "<span class='woc'>For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.</span>",
+      "plainText": "For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "25614",
-      "text" : "<span class='woc'>Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing.<\/span>",
-      "plainText" : "Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "25614",
+      "text": "<span class='woc'>Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing.</span>",
+      "plainText": "Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "25615",
-      "text" : "<span class='woc'>And he called one of the servants, and asked what these things meant.<\/span>",
-      "plainText" : "And he called one of the servants, and asked what these things meant."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "25615",
+      "text": "<span class='woc'>And he called one of the servants, and asked what these things meant.</span>",
+      "plainText": "And he called one of the servants, and asked what these things meant."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "25616",
-      "text" : "<span class='woc'>And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.<\/span>",
-      "plainText" : "And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "25616",
+      "text": "<span class='woc'>And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.</span>",
+      "plainText": "And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "25617",
-      "text" : "<span class='woc'>And he was angry, and would not go in: therefore came his father out, and intreated him.<\/span>",
-      "plainText" : "And he was angry, and would not go in: therefore came his father out, and intreated him."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "25617",
+      "text": "<span class='woc'>And he was angry, and would not go in: therefore came his father out, and intreated him.</span>",
+      "plainText": "And he was angry, and would not go in: therefore came his father out, and intreated him."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "25618",
-      "text" : "<span class='woc'>And he answering said to <span class='extra'>his<\/span> father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:<\/span>",
-      "plainText" : "And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "25618",
+      "text": "<span class='woc'>And he answering said to <span class='extra'>his</span> father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:</span>",
+      "plainText": "And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "25619",
-      "text" : "<span class='woc'>But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.<\/span>",
-      "plainText" : "But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "25619",
+      "text": "<span class='woc'>But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.</span>",
+      "plainText": "But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "25620",
-      "text" : "<span class='woc'>And he said unto him, Son, thou art ever with me, and all that I have is thine.<\/span>",
-      "plainText" : "And he said unto him, Son, thou art ever with me, and all that I have is thine."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "25620",
+      "text": "<span class='woc'>And he said unto him, Son, thou art ever with me, and all that I have is thine.</span>",
+      "plainText": "And he said unto him, Son, thou art ever with me, and all that I have is thine."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "25621",
-      "text" : "<span class='woc'>It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.<\/span>",
-      "plainText" : "It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found."
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "25621",
+      "text": "<span class='woc'>It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.</span>",
+      "plainText": "It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found."
     }
   ]
 }
-

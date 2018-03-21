@@ -1,407 +1,365 @@
 {
   "book": {
-    "number" : "4",
-    "filenamePrefix" : "numbers",
-    "bookPage" : "numbers.html",
-    "title" : "Numbers",
-    "chapterCount" : "36",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "deuteronomy_1.html",
-    "nextTitle" : "Deuteronomy",
-    "prevBook" : "leviticus_1.html",
-    "prevTitle" : "Leviticus"
+    "number": "4",
+    "filenamePrefix": "numbers",
+    "bookPage": "numbers.html",
+    "title": "Numbers",
+    "chapterCount": "36",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "deuteronomy_1.html",
+    "nextTitle": "Deuteronomy",
+    "prevBook": "leviticus_1.html",
+    "prevTitle": "Leviticus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "32",
-    "verseCount" : "42",
-    "nextChapter" : "numbers_33.html",
-    "nextTitle" : "Numbers 33",
-    "prevChapter" : "numbers_31.html",
-    "prevTitle" : "Numbers 31",
-    "filename" : "numbers_32.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "32",
+    "verseCount": "42",
+    "nextChapter": "numbers_33.html",
+    "nextTitle": "Numbers 33",
+    "prevChapter": "numbers_31.html",
+    "prevTitle": "Numbers 31",
+    "filename": "numbers_32.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "4720",
-      "text" : "Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place <span class='extra'>was<\/span> a place for cattle;",
-      "plainText" : "Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle;"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "4720",
+      "text": "Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place <span class='extra'>was</span> a place for cattle;",
+      "plainText": "Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle;"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "4721",
-      "text" : "The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,",
-      "plainText" : "The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "4721",
+      "text": "The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,",
+      "plainText": "The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "4722",
-      "text" : "Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,",
-      "plainText" : "Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "4722",
+      "text": "Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,",
+      "plainText": "Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "4723",
-      "text" : "<span class='extra'>Even<\/span> the country which the <span class='nog'>LORD<\/span> smote before the congregation of Israel, <span class='extra'>is<\/span> a land for cattle, and thy servants have cattle:",
-      "plainText" : "Even the country which the LORD smote before the congregation of Israel, is a land for cattle, and thy servants have cattle:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "4723",
+      "text": "<span class='extra'>Even</span> the country which the <span class='nog'>LORD</span> smote before the congregation of Israel, <span class='extra'>is</span> a land for cattle, and thy servants have cattle:",
+      "plainText": "Even the country which the LORD smote before the congregation of Israel, is a land for cattle, and thy servants have cattle:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "4724",
-      "text" : "Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, <span class='extra'>and<\/span> bring us not over Jordan.",
-      "plainText" : "Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, and bring us not over Jordan."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "4724",
+      "text": "Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, <span class='extra'>and</span> bring us not over Jordan.",
+      "plainText": "Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, and bring us not over Jordan."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "4725",
-      "text" : "And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here?",
-      "plainText" : "And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here?"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "4725",
+      "text": "And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here?",
+      "plainText": "And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here?"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "4726",
-      "text" : "And wherefore discourage ye the heart of the children of Israel from going over into the land which the <span class='nog'>LORD<\/span> hath given them?",
-      "plainText" : "And wherefore discourage ye the heart of the children of Israel from going over into the land which the LORD hath given them?"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "4726",
+      "text": "And wherefore discourage ye the heart of the children of Israel from going over into the land which the <span class='nog'>LORD</span> hath given them?",
+      "plainText": "And wherefore discourage ye the heart of the children of Israel from going over into the land which the LORD hath given them?"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "4727",
-      "text" : "Thus did your fathers, when I sent them from Kadesh-barnea to see the land.",
-      "plainText" : "Thus did your fathers, when I sent them from Kadesh-barnea to see the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "4727",
+      "text": "Thus did your fathers, when I sent them from Kadesh-barnea to see the land.",
+      "plainText": "Thus did your fathers, when I sent them from Kadesh-barnea to see the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "4728",
-      "text" : "For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the <span class='nog'>LORD<\/span> had given them.",
-      "plainText" : "For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "4728",
+      "text": "For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the <span class='nog'>LORD</span> had given them.",
+      "plainText": "For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "4729",
-      "text" : "And the <span class='nog'>LORD<\/span>'s anger was kindled the same time, and he sware, saying,",
-      "plainText" : "And the LORD's anger was kindled the same time, and he sware, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "4729",
+      "text": "And the <span class='nog'>LORD</span>'s anger was kindled the same time, and he sware, saying,",
+      "plainText": "And the LORD's anger was kindled the same time, and he sware, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "4730",
-      "text" : "Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:",
-      "plainText" : "Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "4730",
+      "text": "Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:",
+      "plainText": "Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "4731",
-      "text" : "Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "4731",
+      "text": "Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the <span class='nog'>LORD</span>.",
+      "plainText": "Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "4732",
-      "text" : "And the <span class='nog'>LORD<\/span>'s anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the <span class='nog'>LORD<\/span>, was consumed.",
-      "plainText" : "And the LORD's anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the LORD, was consumed."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "4732",
+      "text": "And the <span class='nog'>LORD</span>'s anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the <span class='nog'>LORD</span>, was consumed.",
+      "plainText": "And the LORD's anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the LORD, was consumed."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "4733",
-      "text" : "And, behold, ye are risen up in your fathers' stead, an increase of sinful men, to augment yet the fierce anger of the <span class='nog'>LORD<\/span> toward Israel.",
-      "plainText" : "And, behold, ye are risen up in your fathers' stead, an increase of sinful men, to augment yet the fierce anger of the LORD toward Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "4733",
+      "text": "And, behold, ye are risen up in your fathers' stead, an increase of sinful men, to augment yet the fierce anger of the <span class='nog'>LORD</span> toward Israel.",
+      "plainText": "And, behold, ye are risen up in your fathers' stead, an increase of sinful men, to augment yet the fierce anger of the LORD toward Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "4734",
-      "text" : "For if ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people.",
-      "plainText" : "For if ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "4734",
+      "text": "For if ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people.",
+      "plainText": "For if ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "4735",
-      "text" : "And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones:",
-      "plainText" : "And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "4735",
+      "text": "And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones:",
+      "plainText": "And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "4736",
-      "text" : "But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land.",
-      "plainText" : "But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "4736",
+      "text": "But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land.",
+      "plainText": "But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "4737",
-      "text" : "We will not return unto our houses, until the children of Israel have inherited every man his inheritance.",
-      "plainText" : "We will not return unto our houses, until the children of Israel have inherited every man his inheritance."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "4737",
+      "text": "We will not return unto our houses, until the children of Israel have inherited every man his inheritance.",
+      "plainText": "We will not return unto our houses, until the children of Israel have inherited every man his inheritance."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "4738",
-      "text" : "For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward.",
-      "plainText" : "For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "4738",
+      "text": "For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward.",
+      "plainText": "For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "4739",
-      "text" : "And Moses said unto them, If ye will do this thing, if ye will go armed before the <span class='nog'>LORD<\/span> to war,",
-      "plainText" : "And Moses said unto them, If ye will do this thing, if ye will go armed before the LORD to war,"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "4739",
+      "text": "And Moses said unto them, If ye will do this thing, if ye will go armed before the <span class='nog'>LORD</span> to war,",
+      "plainText": "And Moses said unto them, If ye will do this thing, if ye will go armed before the LORD to war,"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "4740",
-      "text" : "And will go all of you armed over Jordan before the <span class='nog'>LORD<\/span>, until he hath driven out his enemies from before him,",
-      "plainText" : "And will go all of you armed over Jordan before the LORD, until he hath driven out his enemies from before him,"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "4740",
+      "text": "And will go all of you armed over Jordan before the <span class='nog'>LORD</span>, until he hath driven out his enemies from before him,",
+      "plainText": "And will go all of you armed over Jordan before the LORD, until he hath driven out his enemies from before him,"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "4741",
-      "text" : "And the land be subdued before the <span class='nog'>LORD<\/span>: then afterward ye shall return, and be guiltless before the <span class='nog'>LORD<\/span>, and before Israel; and this land shall be your possession before the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "4741",
+      "text": "And the land be subdued before the <span class='nog'>LORD</span>: then afterward ye shall return, and be guiltless before the <span class='nog'>LORD</span>, and before Israel; and this land shall be your possession before the <span class='nog'>LORD</span>.",
+      "plainText": "And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "4742",
-      "text" : "But if ye will not do so, behold, ye have sinned against the <span class='nog'>LORD<\/span>: and be sure your sin will find you out.",
-      "plainText" : "But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "4742",
+      "text": "But if ye will not do so, behold, ye have sinned against the <span class='nog'>LORD</span>: and be sure your sin will find you out.",
+      "plainText": "But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "4743",
-      "text" : "Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth.",
-      "plainText" : "Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "4743",
+      "text": "Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth.",
+      "plainText": "Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "4744",
-      "text" : "And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth.",
-      "plainText" : "And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "4744",
+      "text": "And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth.",
+      "plainText": "And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "4745",
-      "text" : "Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead:",
-      "plainText" : "Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead:"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "4745",
+      "text": "Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead:",
+      "plainText": "Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead:"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "4746",
-      "text" : "But thy servants will pass over, every man armed for war, before the <span class='nog'>LORD<\/span> to battle, as my lord saith.",
-      "plainText" : "But thy servants will pass over, every man armed for war, before the LORD to battle, as my lord saith."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "4746",
+      "text": "But thy servants will pass over, every man armed for war, before the <span class='nog'>LORD</span> to battle, as my lord saith.",
+      "plainText": "But thy servants will pass over, every man armed for war, before the LORD to battle, as my lord saith."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "4747",
-      "text" : "So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:",
-      "plainText" : "So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:"
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "4747",
+      "text": "So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:",
+      "plainText": "So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:"
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "4748",
-      "text" : "And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the <span class='nog'>LORD<\/span>, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession:",
-      "plainText" : "And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the LORD, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession:"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "4748",
+      "text": "And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the <span class='nog'>LORD</span>, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession:",
+      "plainText": "And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the LORD, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession:"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "4749",
-      "text" : "But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan.",
-      "plainText" : "But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "4749",
+      "text": "But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan.",
+      "plainText": "But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "4750",
-      "text" : "And the children of Gad and the children of Reuben answered, saying, As the <span class='nog'>LORD<\/span> hath said unto thy servants, so will we do.",
-      "plainText" : "And the children of Gad and the children of Reuben answered, saying, As the LORD hath said unto thy servants, so will we do."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "4750",
+      "text": "And the children of Gad and the children of Reuben answered, saying, As the <span class='nog'>LORD</span> hath said unto thy servants, so will we do.",
+      "plainText": "And the children of Gad and the children of Reuben answered, saying, As the LORD hath said unto thy servants, so will we do."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "4751",
-      "text" : "We will pass over armed before the <span class='nog'>LORD<\/span> into the land of Canaan, that the possession of our inheritance on this side Jordan <span class='extra'>may be<\/span> ours.",
-      "plainText" : "We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan may be ours."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "4751",
+      "text": "We will pass over armed before the <span class='nog'>LORD</span> into the land of Canaan, that the possession of our inheritance on this side Jordan <span class='extra'>may be</span> ours.",
+      "plainText": "We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan may be ours."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "4752",
-      "text" : "And Moses gave unto them, <span class='extra'>even<\/span> to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, <span class='extra'>even<\/span> the cities of the country round about.",
-      "plainText" : "And Moses gave unto them, even to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, even the cities of the country round about."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "4752",
+      "text": "And Moses gave unto them, <span class='extra'>even</span> to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, <span class='extra'>even</span> the cities of the country round about.",
+      "plainText": "And Moses gave unto them, even to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, even the cities of the country round about."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "4753",
-      "text" : "And the children of Gad built Dibon, and Ataroth, and Aroer,",
-      "plainText" : "And the children of Gad built Dibon, and Ataroth, and Aroer,"
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "4753",
+      "text": "And the children of Gad built Dibon, and Ataroth, and Aroer,",
+      "plainText": "And the children of Gad built Dibon, and Ataroth, and Aroer,"
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "4754",
-      "text" : "And Atroth, Shophan, and Jaazer, and Jogbehah,",
-      "plainText" : "And Atroth, Shophan, and Jaazer, and Jogbehah,"
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "4754",
+      "text": "And Atroth, Shophan, and Jaazer, and Jogbehah,",
+      "plainText": "And Atroth, Shophan, and Jaazer, and Jogbehah,"
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "4755",
-      "text" : "And Beth-nimrah, and Beth-haran, fenced cities: and folds for sheep.",
-      "plainText" : "And Beth-nimrah, and Beth-haran, fenced cities: and folds for sheep."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "4755",
+      "text": "And Beth-nimrah, and Beth-haran, fenced cities: and folds for sheep.",
+      "plainText": "And Beth-nimrah, and Beth-haran, fenced cities: and folds for sheep."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "4756",
-      "text" : "And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim,",
-      "plainText" : "And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim,"
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "4756",
+      "text": "And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim,",
+      "plainText": "And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim,"
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "4757",
-      "text" : "And Nebo, and Baal-meon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded.",
-      "plainText" : "And Nebo, and Baal-meon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "4757",
+      "text": "And Nebo, and Baal-meon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded.",
+      "plainText": "And Nebo, and Baal-meon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "4758",
-      "text" : "And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which <span class='extra'>was<\/span> in it.",
-      "plainText" : "And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which was in it."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "4758",
+      "text": "And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which <span class='extra'>was</span> in it.",
+      "plainText": "And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which was in it."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "4759",
-      "text" : "And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein.",
-      "plainText" : "And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "4759",
+      "text": "And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein.",
+      "plainText": "And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "4760",
-      "text" : "And Jair the son of Manasseh went and took the small towns thereof, and called them Havoth-jair.",
-      "plainText" : "And Jair the son of Manasseh went and took the small towns thereof, and called them Havoth-jair."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "4760",
+      "text": "And Jair the son of Manasseh went and took the small towns thereof, and called them Havoth-jair.",
+      "plainText": "And Jair the son of Manasseh went and took the small towns thereof, and called them Havoth-jair."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "4761",
-      "text" : "And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name.",
-      "plainText" : "And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name."
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "4761",
+      "text": "And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name.",
+      "plainText": "And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name."
     }
   ]
 }
-
-

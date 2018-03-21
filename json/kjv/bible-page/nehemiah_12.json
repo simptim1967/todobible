@@ -1,451 +1,405 @@
 {
   "book": {
-    "number" : "16",
-    "filenamePrefix" : "nehemiah",
-    "bookPage" : "nehemiah.html",
-    "title" : "Nehemiah",
-    "chapterCount" : "13",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "esther_1.html",
-    "nextTitle" : "Esther",
-    "prevBook" : "ezra_1.html",
-    "prevTitle" : "Ezra"
+    "number": "16",
+    "filenamePrefix": "nehemiah",
+    "bookPage": "nehemiah.html",
+    "title": "Nehemiah",
+    "chapterCount": "13",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "esther_1.html",
+    "nextTitle": "Esther",
+    "prevBook": "ezra_1.html",
+    "prevTitle": "Ezra",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "12",
-    "verseCount" : "47",
-    "nextChapter" : "nehemiah_13.html",
-    "nextTitle" : "Nehemiah 13",
-    "prevChapter" : "nehemiah_11.html",
-    "prevTitle" : "Nehemiah 11",
-    "filename" : "nehemiah_12.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "12",
+    "verseCount": "47",
+    "nextChapter": "nehemiah_13.html",
+    "nextTitle": "Nehemiah 13",
+    "prevChapter": "nehemiah_11.html",
+    "prevTitle": "Nehemiah 11",
+    "filename": "nehemiah_12.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "12626",
-      "text" : "Now these <span class='extra'>are<\/span> the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,",
-      "plainText" : "Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "12626",
+      "text": "Now these <span class='extra'>are</span> the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,",
+      "plainText": "Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "12627",
-      "text" : "Amariah, Malluch, Hattush,",
-      "plainText" : "Amariah, Malluch, Hattush,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "12627",
+      "text": "Amariah, Malluch, Hattush,",
+      "plainText": "Amariah, Malluch, Hattush,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "12628",
-      "text" : "Shechaniah, Rehum, Meremoth,",
-      "plainText" : "Shechaniah, Rehum, Meremoth,"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "12628",
+      "text": "Shechaniah, Rehum, Meremoth,",
+      "plainText": "Shechaniah, Rehum, Meremoth,"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "12629",
-      "text" : "Iddo, Ginnetho, Abijah,",
-      "plainText" : "Iddo, Ginnetho, Abijah,"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "12629",
+      "text": "Iddo, Ginnetho, Abijah,",
+      "plainText": "Iddo, Ginnetho, Abijah,"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "12630",
-      "text" : "Miamin, Maadiah, Bilgah,",
-      "plainText" : "Miamin, Maadiah, Bilgah,"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "12630",
+      "text": "Miamin, Maadiah, Bilgah,",
+      "plainText": "Miamin, Maadiah, Bilgah,"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "12631",
-      "text" : "Shemaiah, and Joiarib, Jedaiah,",
-      "plainText" : "Shemaiah, and Joiarib, Jedaiah,"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "12631",
+      "text": "Shemaiah, and Joiarib, Jedaiah,",
+      "plainText": "Shemaiah, and Joiarib, Jedaiah,"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "12632",
-      "text" : "Sallu, Amok, Hilkiah, Jedaiah. These <span class='extra'>were<\/span> the chief of the priests and of their brethren in the days of Jeshua.",
-      "plainText" : "Sallu, Amok, Hilkiah, Jedaiah. These were the chief of the priests and of their brethren in the days of Jeshua."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "12632",
+      "text": "Sallu, Amok, Hilkiah, Jedaiah. These <span class='extra'>were</span> the chief of the priests and of their brethren in the days of Jeshua.",
+      "plainText": "Sallu, Amok, Hilkiah, Jedaiah. These were the chief of the priests and of their brethren in the days of Jeshua."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "12633",
-      "text" : "Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, <span class='extra'>and<\/span> Mattaniah, <span class='extra'>which was<\/span> over the thanksgiving, he and his brethren.",
-      "plainText" : "Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, which was over the thanksgiving, he and his brethren."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "12633",
+      "text": "Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, <span class='extra'>and</span> Mattaniah, <span class='extra'>which was</span> over the thanksgiving, he and his brethren.",
+      "plainText": "Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, which was over the thanksgiving, he and his brethren."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "12634",
-      "text" : "Also Bakbukiah and Unni, their brethren, <span class='extra'>were<\/span> over against them in the watches.",
-      "plainText" : "Also Bakbukiah and Unni, their brethren, were over against them in the watches."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "12634",
+      "text": "Also Bakbukiah and Unni, their brethren, <span class='extra'>were</span> over against them in the watches.",
+      "plainText": "Also Bakbukiah and Unni, their brethren, were over against them in the watches."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "12635",
-      "text" : "And Jeshua begat Joiakim, Joiakim also begat Eliashib, and Eliashib begat Joiada,",
-      "plainText" : "And Jeshua begat Joiakim, Joiakim also begat Eliashib, and Eliashib begat Joiada,"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "12635",
+      "text": "And Jeshua begat Joiakim, Joiakim also begat Eliashib, and Eliashib begat Joiada,",
+      "plainText": "And Jeshua begat Joiakim, Joiakim also begat Eliashib, and Eliashib begat Joiada,"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "12636",
-      "text" : "And Joiada begat Jonathan, and Jonathan begat Jaddua.",
-      "plainText" : "And Joiada begat Jonathan, and Jonathan begat Jaddua."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "12636",
+      "text": "And Joiada begat Jonathan, and Jonathan begat Jaddua.",
+      "plainText": "And Joiada begat Jonathan, and Jonathan begat Jaddua."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "12637",
-      "text" : "And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;",
-      "plainText" : "And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "12637",
+      "text": "And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;",
+      "plainText": "And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "12638",
-      "text" : "Of Ezra, Meshullam; of Amariah, Jehohanan;",
-      "plainText" : "Of Ezra, Meshullam; of Amariah, Jehohanan;"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "12638",
+      "text": "Of Ezra, Meshullam; of Amariah, Jehohanan;",
+      "plainText": "Of Ezra, Meshullam; of Amariah, Jehohanan;"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "12639",
-      "text" : "Of Melicu, Jonathan; of Shebaniah, Joseph;",
-      "plainText" : "Of Melicu, Jonathan; of Shebaniah, Joseph;"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "12639",
+      "text": "Of Melicu, Jonathan; of Shebaniah, Joseph;",
+      "plainText": "Of Melicu, Jonathan; of Shebaniah, Joseph;"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "12640",
-      "text" : "Of Harim, Adna; of Meraioth, Helkai;",
-      "plainText" : "Of Harim, Adna; of Meraioth, Helkai;"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "12640",
+      "text": "Of Harim, Adna; of Meraioth, Helkai;",
+      "plainText": "Of Harim, Adna; of Meraioth, Helkai;"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "12641",
-      "text" : "Of Iddo, Zechariah; of Ginnethon, Meshullam;",
-      "plainText" : "Of Iddo, Zechariah; of Ginnethon, Meshullam;"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "12641",
+      "text": "Of Iddo, Zechariah; of Ginnethon, Meshullam;",
+      "plainText": "Of Iddo, Zechariah; of Ginnethon, Meshullam;"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "12642",
-      "text" : "Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;",
-      "plainText" : "Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "12642",
+      "text": "Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;",
+      "plainText": "Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "12643",
-      "text" : "Of Bilgah, Shammua; of Shemaiah, Jehonathan;",
-      "plainText" : "Of Bilgah, Shammua; of Shemaiah, Jehonathan;"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "12643",
+      "text": "Of Bilgah, Shammua; of Shemaiah, Jehonathan;",
+      "plainText": "Of Bilgah, Shammua; of Shemaiah, Jehonathan;"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "12644",
-      "text" : "And of Joiarib, Mattenai; of Jedaiah, Uzzi;",
-      "plainText" : "And of Joiarib, Mattenai; of Jedaiah, Uzzi;"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "12644",
+      "text": "And of Joiarib, Mattenai; of Jedaiah, Uzzi;",
+      "plainText": "And of Joiarib, Mattenai; of Jedaiah, Uzzi;"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "12645",
-      "text" : "Of Sallai, Kallai; of Amok, Eber;",
-      "plainText" : "Of Sallai, Kallai; of Amok, Eber;"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "12645",
+      "text": "Of Sallai, Kallai; of Amok, Eber;",
+      "plainText": "Of Sallai, Kallai; of Amok, Eber;"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "12646",
-      "text" : "Of Hilkiah, Hashabiah; of Jedaiah, Nethaneel.",
-      "plainText" : "Of Hilkiah, Hashabiah; of Jedaiah, Nethaneel."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "12646",
+      "text": "Of Hilkiah, Hashabiah; of Jedaiah, Nethaneel.",
+      "plainText": "Of Hilkiah, Hashabiah; of Jedaiah, Nethaneel."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "12647",
-      "text" : "The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, <span class='extra'>were<\/span> recorded chief of the fathers: also the priests, to the reign of Darius the Persian.",
-      "plainText" : "The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, were recorded chief of the fathers: also the priests, to the reign of Darius the Persian."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "12647",
+      "text": "The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, <span class='extra'>were</span> recorded chief of the fathers: also the priests, to the reign of Darius the Persian.",
+      "plainText": "The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, were recorded chief of the fathers: also the priests, to the reign of Darius the Persian."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "12648",
-      "text" : "The sons of Levi, the chief of the fathers, <span class='extra'>were<\/span> written in the book of the chronicles, even until the days of Johanan the son of Eliashib.",
-      "plainText" : "The sons of Levi, the chief of the fathers, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "12648",
+      "text": "The sons of Levi, the chief of the fathers, <span class='extra'>were</span> written in the book of the chronicles, even until the days of Johanan the son of Eliashib.",
+      "plainText": "The sons of Levi, the chief of the fathers, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "12649",
-      "text" : "And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise <span class='extra'>and<\/span> to give thanks, according to the commandment of David the man of God, ward over against ward.",
-      "plainText" : "And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and to give thanks, according to the commandment of David the man of God, ward over against ward."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "12649",
+      "text": "And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise <span class='extra'>and</span> to give thanks, according to the commandment of David the man of God, ward over against ward.",
+      "plainText": "And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and to give thanks, according to the commandment of David the man of God, ward over against ward."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "12650",
-      "text" : "Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, <span class='extra'>were<\/span> porters keeping the ward at the thresholds of the gates.",
-      "plainText" : "Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were porters keeping the ward at the thresholds of the gates."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "12650",
+      "text": "Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, <span class='extra'>were</span> porters keeping the ward at the thresholds of the gates.",
+      "plainText": "Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were porters keeping the ward at the thresholds of the gates."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "12651",
-      "text" : "These <span class='extra'>were<\/span> in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.",
-      "plainText" : "These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "12651",
+      "text": "These <span class='extra'>were</span> in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.",
+      "plainText": "These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "12652",
-      "text" : "And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, <span class='extra'>with<\/span> cymbals, psalteries, and with harps.",
-      "plainText" : "And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "12652",
+      "text": "And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, <span class='extra'>with</span> cymbals, psalteries, and with harps.",
+      "plainText": "And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "12653",
-      "text" : "And the sons of the singers gathered themselves together, both out of the plain country round about Jerusalem, and from the villages of Netophathi;",
-      "plainText" : "And the sons of the singers gathered themselves together, both out of the plain country round about Jerusalem, and from the villages of Netophathi;"
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "12653",
+      "text": "And the sons of the singers gathered themselves together, both out of the plain country round about Jerusalem, and from the villages of Netophathi;",
+      "plainText": "And the sons of the singers gathered themselves together, both out of the plain country round about Jerusalem, and from the villages of Netophathi;"
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "12654",
-      "text" : "Also from the house of Gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem.",
-      "plainText" : "Also from the house of Gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "12654",
+      "text": "Also from the house of Gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem.",
+      "plainText": "Also from the house of Gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "12655",
-      "text" : "And the priests and the Levites purified themselves, and purified the people, and the gates, and the wall.",
-      "plainText" : "And the priests and the Levites purified themselves, and purified the people, and the gates, and the wall."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "12655",
+      "text": "And the priests and the Levites purified themselves, and purified the people, and the gates, and the wall.",
+      "plainText": "And the priests and the Levites purified themselves, and purified the people, and the gates, and the wall."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "12656",
-      "text" : "Then I brought up the princes of Judah upon the wall, and appointed two great <span class='extra'>companies of them that gave<\/span> thanks, <span class='extra'>whereof one<\/span> went on the right hand upon the wall toward the dung gate:",
-      "plainText" : "Then I brought up the princes of Judah upon the wall, and appointed two great companies of them that gave thanks, whereof one went on the right hand upon the wall toward the dung gate:"
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "12656",
+      "text": "Then I brought up the princes of Judah upon the wall, and appointed two great <span class='extra'>companies of them that gave</span> thanks, <span class='extra'>whereof one</span> went on the right hand upon the wall toward the dung gate:",
+      "plainText": "Then I brought up the princes of Judah upon the wall, and appointed two great companies of them that gave thanks, whereof one went on the right hand upon the wall toward the dung gate:"
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "12657",
-      "text" : "And after them went Hoshaiah, and half of the princes of Judah,",
-      "plainText" : "And after them went Hoshaiah, and half of the princes of Judah,"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "12657",
+      "text": "And after them went Hoshaiah, and half of the princes of Judah,",
+      "plainText": "And after them went Hoshaiah, and half of the princes of Judah,"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "12658",
-      "text" : "And Azariah, Ezra, and Meshullam,",
-      "plainText" : "And Azariah, Ezra, and Meshullam,"
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "12658",
+      "text": "And Azariah, Ezra, and Meshullam,",
+      "plainText": "And Azariah, Ezra, and Meshullam,"
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "12659",
-      "text" : "Judah, and Benjamin, and Shemaiah, and Jeremiah,",
-      "plainText" : "Judah, and Benjamin, and Shemaiah, and Jeremiah,"
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "12659",
+      "text": "Judah, and Benjamin, and Shemaiah, and Jeremiah,",
+      "plainText": "Judah, and Benjamin, and Shemaiah, and Jeremiah,"
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "12660",
-      "text" : "And <span class='extra'>certain<\/span> of the priests' sons with trumpets; <span class='extra'>namely<\/span>, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:",
-      "plainText" : "And certain of the priests' sons with trumpets; namely, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:"
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "12660",
+      "text": "And <span class='extra'>certain</span> of the priests' sons with trumpets; <span class='extra'>namely</span>, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:",
+      "plainText": "And certain of the priests' sons with trumpets; namely, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:"
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "12661",
-      "text" : "And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them.",
-      "plainText" : "And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "12661",
+      "text": "And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them.",
+      "plainText": "And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "12662",
-      "text" : "And at the fountain gate, which was over against them, they went up by the stairs of the city of David, at the going up of the wall, above the house of David, even unto the water gate eastward.",
-      "plainText" : "And at the fountain gate, which was over against them, they went up by the stairs of the city of David, at the going up of the wall, above the house of David, even unto the water gate eastward."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "12662",
+      "text": "And at the fountain gate, which was over against them, they went up by the stairs of the city of David, at the going up of the wall, above the house of David, even unto the water gate eastward.",
+      "plainText": "And at the fountain gate, which was over against them, they went up by the stairs of the city of David, at the going up of the wall, above the house of David, even unto the water gate eastward."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "12663",
-      "text" : "And the other <span class='extra'>company of them that gave<\/span> thanks went over against <span class='extra'>them<\/span>, and I after them, and the half of the people upon the wall, from beyond the tower of the furnaces even unto the broad wall;",
-      "plainText" : "And the other company of them that gave thanks went over against them, and I after them, and the half of the people upon the wall, from beyond the tower of the furnaces even unto the broad wall;"
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "12663",
+      "text": "And the other <span class='extra'>company of them that gave</span> thanks went over against <span class='extra'>them</span>, and I after them, and the half of the people upon the wall, from beyond the tower of the furnaces even unto the broad wall;",
+      "plainText": "And the other company of them that gave thanks went over against them, and I after them, and the half of the people upon the wall, from beyond the tower of the furnaces even unto the broad wall;"
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "12664",
-      "text" : "And from above the gate of Ephraim, and above the old gate, and above the fish gate, and the tower of Hananeel, and the tower of Meah, even unto the sheep gate: and they stood still in the prison gate.",
-      "plainText" : "And from above the gate of Ephraim, and above the old gate, and above the fish gate, and the tower of Hananeel, and the tower of Meah, even unto the sheep gate: and they stood still in the prison gate."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "12664",
+      "text": "And from above the gate of Ephraim, and above the old gate, and above the fish gate, and the tower of Hananeel, and the tower of Meah, even unto the sheep gate: and they stood still in the prison gate.",
+      "plainText": "And from above the gate of Ephraim, and above the old gate, and above the fish gate, and the tower of Hananeel, and the tower of Meah, even unto the sheep gate: and they stood still in the prison gate."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "12665",
-      "text" : "So stood the two <span class='extra'>companies of them that gave<\/span> thanks in the house of God, and I, and the half of the rulers with me:",
-      "plainText" : "So stood the two companies of them that gave thanks in the house of God, and I, and the half of the rulers with me:"
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "12665",
+      "text": "So stood the two <span class='extra'>companies of them that gave</span> thanks in the house of God, and I, and the half of the rulers with me:",
+      "plainText": "So stood the two companies of them that gave thanks in the house of God, and I, and the half of the rulers with me:"
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "12666",
-      "text" : "And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, <span class='extra'>and<\/span> Hananiah, with trumpets;",
-      "plainText" : "And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, and Hananiah, with trumpets;"
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "12666",
+      "text": "And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, <span class='extra'>and</span> Hananiah, with trumpets;",
+      "plainText": "And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, and Hananiah, with trumpets;"
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "12667",
-      "text" : "And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah <span class='extra'>their<\/span> overseer.",
-      "plainText" : "And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer."
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "12667",
+      "text": "And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah <span class='extra'>their</span> overseer.",
+      "plainText": "And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer."
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "12668",
-      "text" : "Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off.",
-      "plainText" : "Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "12668",
+      "text": "Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off.",
+      "plainText": "Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "12669",
-      "text" : "And at that time were some appointed over the chambers for the treasures, for the offerings, for the firstfruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited.",
-      "plainText" : "And at that time were some appointed over the chambers for the treasures, for the offerings, for the firstfruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "12669",
+      "text": "And at that time were some appointed over the chambers for the treasures, for the offerings, for the firstfruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited.",
+      "plainText": "And at that time were some appointed over the chambers for the treasures, for the offerings, for the firstfruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "12670",
-      "text" : "And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, <span class='extra'>and<\/span> of Solomon his son.",
-      "plainText" : "And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, and of Solomon his son."
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "12670",
+      "text": "And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, <span class='extra'>and</span> of Solomon his son.",
+      "plainText": "And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, and of Solomon his son."
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "12671",
-      "text" : "For in the days of David and Asaph of old <span class='extra'>there were<\/span> chief of the singers, and songs of praise and thanksgiving unto God.",
-      "plainText" : "For in the days of David and Asaph of old there were chief of the singers, and songs of praise and thanksgiving unto God."
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "12671",
+      "text": "For in the days of David and Asaph of old <span class='extra'>there were</span> chief of the singers, and songs of praise and thanksgiving unto God.",
+      "plainText": "For in the days of David and Asaph of old there were chief of the singers, and songs of praise and thanksgiving unto God."
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "12672",
-      "text" : "And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified <span class='extra'>holy things<\/span> unto the Levites; and the Levites sanctified <span class='extra'>them<\/span> unto the children of Aaron.",
-      "plainText" : "And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified holy things unto the Levites; and the Levites sanctified them unto the children of Aaron."
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "12672",
+      "text": "And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified <span class='extra'>holy things</span> unto the Levites; and the Levites sanctified <span class='extra'>them</span> unto the children of Aaron.",
+      "plainText": "And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified holy things unto the Levites; and the Levites sanctified them unto the children of Aaron."
     }
   ]
 }
-

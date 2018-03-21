@@ -1,307 +1,277 @@
 {
   "book": {
-    "number" : "1",
-    "filenamePrefix" : "genesis",
-    "bookPage" : "genesis.html",
-    "title" : "Genesis",
-    "chapterCount" : "50",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "exodus_1.html",
-    "nextTitle" : "Exodus",
-    "prevBook" : "revelation_1.html",
-    "prevTitle" : "Revelation"
+    "number": "1",
+    "filenamePrefix": "genesis",
+    "bookPage": "genesis.html",
+    "title": "Genesis",
+    "chapterCount": "50",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "exodus_1.html",
+    "nextTitle": "Exodus",
+    "prevBook": "revelation_1.html",
+    "prevTitle": "Revelation",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "47",
-    "verseCount" : "31",
-    "nextChapter" : "genesis_48.html",
-    "nextTitle" : "Genesis 48",
-    "prevChapter" : "genesis_46.html",
-    "prevTitle" : "Genesis 46",
-    "filename" : "genesis_47.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "47",
+    "verseCount": "31",
+    "nextChapter": "genesis_48.html",
+    "nextTitle": "Genesis 48",
+    "prevChapter": "genesis_46.html",
+    "prevTitle": "Genesis 46",
+    "filename": "genesis_47.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "1422",
-      "text" : "Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they <span class='extra'>are<\/span> in the land of Goshen.",
-      "plainText" : "Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "1422",
+      "text": "Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they <span class='extra'>are</span> in the land of Goshen.",
+      "plainText": "Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "1423",
-      "text" : "And he took some of his brethren, <span class='extra'>even<\/span> five men, and presented them unto Pharaoh.",
-      "plainText" : "And he took some of his brethren, even five men, and presented them unto Pharaoh."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "1423",
+      "text": "And he took some of his brethren, <span class='extra'>even</span> five men, and presented them unto Pharaoh.",
+      "plainText": "And he took some of his brethren, even five men, and presented them unto Pharaoh."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "1424",
-      "text" : "And Pharaoh said unto his brethren, What <span class='extra'>is<\/span> your occupation? And they said unto Pharaoh, Thy servants <span class='extra'>are<\/span> shepherds, both we, <span class='extra'>and<\/span> also our fathers.",
-      "plainText" : "And Pharaoh said unto his brethren, What is your occupation? And they said unto Pharaoh, Thy servants are shepherds, both we, and also our fathers."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "1424",
+      "text": "And Pharaoh said unto his brethren, What <span class='extra'>is</span> your occupation? And they said unto Pharaoh, Thy servants <span class='extra'>are</span> shepherds, both we, <span class='extra'>and</span> also our fathers.",
+      "plainText": "And Pharaoh said unto his brethren, What is your occupation? And they said unto Pharaoh, Thy servants are shepherds, both we, and also our fathers."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "1425",
-      "text" : "They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine <span class='extra'>is<\/span> sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen.",
-      "plainText" : "They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine is sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "1425",
+      "text": "They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine <span class='extra'>is</span> sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen.",
+      "plainText": "They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine is sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "1426",
-      "text" : "And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:",
-      "plainText" : "And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "1426",
+      "text": "And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:",
+      "plainText": "And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "1427",
-      "text" : "The land of Egypt <span class='extra'>is<\/span> before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest <span class='extra'>any<\/span> men of activity among them, then make them rulers over my cattle.",
-      "plainText" : "The land of Egypt is before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest any men of activity among them, then make them rulers over my cattle."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "1427",
+      "text": "The land of Egypt <span class='extra'>is</span> before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest <span class='extra'>any</span> men of activity among them, then make them rulers over my cattle.",
+      "plainText": "The land of Egypt is before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest any men of activity among them, then make them rulers over my cattle."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "1428",
-      "text" : "And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh.",
-      "plainText" : "And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "1428",
+      "text": "And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh.",
+      "plainText": "And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "1429",
-      "text" : "And Pharaoh said unto Jacob, How old <span class='extra'>art<\/span> thou?",
-      "plainText" : "And Pharaoh said unto Jacob, How old art thou?"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "1429",
+      "text": "And Pharaoh said unto Jacob, How old <span class='extra'>art</span> thou?",
+      "plainText": "And Pharaoh said unto Jacob, How old art thou?"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "1430",
-      "text" : "And Jacob said unto Pharaoh, The days of the years of my pilgrimage <span class='extra'>are<\/span> an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage.",
-      "plainText" : "And Jacob said unto Pharaoh, The days of the years of my pilgrimage are an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "1430",
+      "text": "And Jacob said unto Pharaoh, The days of the years of my pilgrimage <span class='extra'>are</span> an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage.",
+      "plainText": "And Jacob said unto Pharaoh, The days of the years of my pilgrimage are an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "1431",
-      "text" : "And Jacob blessed Pharaoh, and went out from before Pharaoh.",
-      "plainText" : "And Jacob blessed Pharaoh, and went out from before Pharaoh."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "1431",
+      "text": "And Jacob blessed Pharaoh, and went out from before Pharaoh.",
+      "plainText": "And Jacob blessed Pharaoh, and went out from before Pharaoh."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "1432",
-      "text" : "And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.",
-      "plainText" : "And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "1432",
+      "text": "And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.",
+      "plainText": "And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "1433",
-      "text" : "And Joseph nourished his father, and his brethren, and all his father's household, with bread, according to <span class='extra'>their<\/span> families.",
-      "plainText" : "And Joseph nourished his father, and his brethren, and all his father's household, with bread, according to their families."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "1433",
+      "text": "And Joseph nourished his father, and his brethren, and all his father's household, with bread, according to <span class='extra'>their</span> families.",
+      "plainText": "And Joseph nourished his father, and his brethren, and all his father's household, with bread, according to their families."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "1434",
-      "text" : "And <span class='extra'>there was<\/span> no bread in all the land; for the famine <span class='extra'>was<\/span> very sore, so that the land of Egypt and <span class='extra'>all<\/span> the land of Canaan fainted by reason of the famine.",
-      "plainText" : "And there was no bread in all the land; for the famine was very sore, so that the land of Egypt and all the land of Canaan fainted by reason of the famine."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "1434",
+      "text": "And <span class='extra'>there was</span> no bread in all the land; for the famine <span class='extra'>was</span> very sore, so that the land of Egypt and <span class='extra'>all</span> the land of Canaan fainted by reason of the famine.",
+      "plainText": "And there was no bread in all the land; for the famine was very sore, so that the land of Egypt and all the land of Canaan fainted by reason of the famine."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "1435",
-      "text" : "And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh's house.",
-      "plainText" : "And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh's house."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "1435",
+      "text": "And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh's house.",
+      "plainText": "And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh's house."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "1436",
-      "text" : "And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth.",
-      "plainText" : "And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "1436",
+      "text": "And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth.",
+      "plainText": "And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "1437",
-      "text" : "And Joseph said, Give your cattle; and I will give you for your cattle, if money fail.",
-      "plainText" : "And Joseph said, Give your cattle; and I will give you for your cattle, if money fail."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "1437",
+      "text": "And Joseph said, Give your cattle; and I will give you for your cattle, if money fail.",
+      "plainText": "And Joseph said, Give your cattle; and I will give you for your cattle, if money fail."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "1438",
-      "text" : "And they brought their cattle unto Joseph: and Joseph gave them bread <span class='extra'>in exchange<\/span> for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year.",
-      "plainText" : "And they brought their cattle unto Joseph: and Joseph gave them bread in exchange for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "1438",
+      "text": "And they brought their cattle unto Joseph: and Joseph gave them bread <span class='extra'>in exchange</span> for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year.",
+      "plainText": "And they brought their cattle unto Joseph: and Joseph gave them bread in exchange for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "1439",
-      "text" : "When that year was ended, they came unto him the second year, and said unto him, We will not hide <span class='extra'>it<\/span> from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:",
-      "plainText" : "When that year was ended, they came unto him the second year, and said unto him, We will not hide it from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "1439",
+      "text": "When that year was ended, they came unto him the second year, and said unto him, We will not hide <span class='extra'>it</span> from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:",
+      "plainText": "When that year was ended, they came unto him the second year, and said unto him, We will not hide it from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "1440",
-      "text" : "Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give <span class='extra'>us<\/span> seed, that we may live, and not die, that the land be not desolate.",
-      "plainText" : "Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give us seed, that we may live, and not die, that the land be not desolate."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "1440",
+      "text": "Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give <span class='extra'>us</span> seed, that we may live, and not die, that the land be not desolate.",
+      "plainText": "Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give us seed, that we may live, and not die, that the land be not desolate."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "1441",
-      "text" : "And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh's.",
-      "plainText" : "And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh's."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "1441",
+      "text": "And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh's.",
+      "plainText": "And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh's."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "1442",
-      "text" : "And as for the people, he removed them to cities from <span class='extra'>one<\/span> end of the borders of Egypt even to the <span class='extra'>other<\/span> end thereof.",
-      "plainText" : "And as for the people, he removed them to cities from one end of the borders of Egypt even to the other end thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "1442",
+      "text": "And as for the people, he removed them to cities from <span class='extra'>one</span> end of the borders of Egypt even to the <span class='extra'>other</span> end thereof.",
+      "plainText": "And as for the people, he removed them to cities from one end of the borders of Egypt even to the other end thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "1443",
-      "text" : "Only the land of the priests bought he not; for the priests had a portion <span class='extra'>assigned them<\/span> of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands.",
-      "plainText" : "Only the land of the priests bought he not; for the priests had a portion assigned them of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "1443",
+      "text": "Only the land of the priests bought he not; for the priests had a portion <span class='extra'>assigned them</span> of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands.",
+      "plainText": "Only the land of the priests bought he not; for the priests had a portion assigned them of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "1444",
-      "text" : "Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, <span class='extra'>here is<\/span> seed for you, and ye shall sow the land.",
-      "plainText" : "Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, here is seed for you, and ye shall sow the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "1444",
+      "text": "Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, <span class='extra'>here is</span> seed for you, and ye shall sow the land.",
+      "plainText": "Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, here is seed for you, and ye shall sow the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "1445",
-      "text" : "And it shall come to pass in the increase, that ye shall give the fifth <span class='extra'>part<\/span> unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones.",
-      "plainText" : "And it shall come to pass in the increase, that ye shall give the fifth part unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "1445",
+      "text": "And it shall come to pass in the increase, that ye shall give the fifth <span class='extra'>part</span> unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones.",
+      "plainText": "And it shall come to pass in the increase, that ye shall give the fifth part unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "1446",
-      "text" : "And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh's servants.",
-      "plainText" : "And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh's servants."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "1446",
+      "text": "And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh's servants.",
+      "plainText": "And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh's servants."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "1447",
-      "text" : "And Joseph made it a law over the land of Egypt unto this day, <span class='extra'>that<\/span> Pharaoh should have the fifth <span class='extra'>part<\/span>; except the land of the priests only, <span class='extra'>which<\/span> became not Pharaoh's.",
-      "plainText" : "And Joseph made it a law over the land of Egypt unto this day, that Pharaoh should have the fifth part; except the land of the priests only, which became not Pharaoh's."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "1447",
+      "text": "And Joseph made it a law over the land of Egypt unto this day, <span class='extra'>that</span> Pharaoh should have the fifth <span class='extra'>part</span>; except the land of the priests only, <span class='extra'>which</span> became not Pharaoh's.",
+      "plainText": "And Joseph made it a law over the land of Egypt unto this day, that Pharaoh should have the fifth part; except the land of the priests only, which became not Pharaoh's."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "1448",
-      "text" : "And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly.",
-      "plainText" : "And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "1448",
+      "text": "And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly.",
+      "plainText": "And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "1449",
-      "text" : "And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years.",
-      "plainText" : "And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "1449",
+      "text": "And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years.",
+      "plainText": "And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "1450",
-      "text" : "And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:",
-      "plainText" : "And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "1450",
+      "text": "And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:",
+      "plainText": "And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "1451",
-      "text" : "But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said.",
-      "plainText" : "But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "1451",
+      "text": "But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said.",
+      "plainText": "But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "1452",
-      "text" : "And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed's head.",
-      "plainText" : "And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed's head."
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "1452",
+      "text": "And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed's head.",
+      "plainText": "And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed's head."
     }
   ]
 }
-

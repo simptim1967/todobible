@@ -1,703 +1,629 @@
 {
   "book": {
-    "number" : "40",
-    "filenamePrefix" : "matthew",
-    "bookPage" : "matthew.html",
-    "title" : "Matthew",
-    "chapterCount" : "28",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "mark_1.html",
-    "nextTitle" : "Mark",
-    "prevBook" : "malachi_1.html",
-    "prevTitle" : "Malachi"
+    "number": "40",
+    "filenamePrefix": "matthew",
+    "bookPage": "matthew.html",
+    "title": "Matthew",
+    "chapterCount": "28",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "mark_1.html",
+    "nextTitle": "Mark",
+    "prevBook": "malachi_1.html",
+    "prevTitle": "Malachi",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "26",
-    "verseCount" : "75",
-    "nextChapter" : "matthew_27.html",
-    "nextTitle" : "Matthew 27",
-    "prevChapter" : "matthew_25.html",
-    "prevTitle" : "Matthew 25",
-    "filename" : "matthew_26.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "26",
+    "verseCount": "75",
+    "nextChapter": "matthew_27.html",
+    "nextTitle": "Matthew 27",
+    "prevChapter": "matthew_25.html",
+    "prevTitle": "Matthew 25",
+    "filename": "matthew_26.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "24056",
-      "text" : "And it came to pass, when Jesus had finished all these sayings, he said unto his disciples,",
-      "plainText" : "And it came to pass, when Jesus had finished all these sayings, he said unto his disciples,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "24057",
-      "text" : "<span class='woc'>Ye know that after two days is <span class='extra'>the feast of<\/span> the passover, and the Son of man is betrayed to be crucified.<\/span>",
-      "plainText" : "Ye know that after two days is the feast of the passover, and the Son of man is betrayed to be crucified."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "24058",
-      "text" : "Then assembled together the chief priests, and the scribes, and the elders of the people, unto the palace of the high priest, who was called Caiaphas,",
-      "plainText" : "Then assembled together the chief priests, and the scribes, and the elders of the people, unto the palace of the high priest, who was called Caiaphas,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "24059",
-      "text" : "And consulted that they might take Jesus by subtilty, and kill <span class='extra'>him<\/span>.",
-      "plainText" : "And consulted that they might take Jesus by subtilty, and kill him."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "24060",
-      "text" : "But they said, Not on the feast <span class='extra'>day<\/span>, lest there be an uproar among the people.",
-      "plainText" : "But they said, Not on the feast day, lest there be an uproar among the people."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "24061",
-      "text" : "Now when Jesus was in Bethany, in the house of Simon the leper,",
-      "plainText" : "Now when Jesus was in Bethany, in the house of Simon the leper,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "24062",
-      "text" : "There came unto him a woman having an alabaster box of very precious ointment, and poured it on his head, as he sat <span class='extra'>at meat<\/span>.",
-      "plainText" : "There came unto him a woman having an alabaster box of very precious ointment, and poured it on his head, as he sat at meat."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "24063",
-      "text" : "But when his disciples saw <span class='extra'>it<\/span>, they had indignation, saying, To what purpose <span class='extra'>is<\/span> this waste?",
-      "plainText" : "But when his disciples saw it, they had indignation, saying, To what purpose is this waste?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "24064",
-      "text" : "For this ointment might have been sold for much, and given to the poor.",
-      "plainText" : "For this ointment might have been sold for much, and given to the poor."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "24065",
-      "text" : "When Jesus understood <span class='extra'>it<\/span>, he said unto them, <span class='woc'>Why trouble ye the woman? for she hath wrought a good work upon me.<\/span>",
-      "plainText" : "When Jesus understood it, he said unto them, Why trouble ye the woman? for she hath wrought a good work upon me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "24066",
-      "text" : "<span class='woc'>For ye have the poor always with you; but me ye have not always.<\/span>",
-      "plainText" : "For ye have the poor always with you; but me ye have not always."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "24067",
-      "text" : "<span class='woc'>For in that she hath poured this ointment on my body, she did <span class='extra'>it<\/span> for my burial.<\/span>",
-      "plainText" : "For in that she hath poured this ointment on my body, she did it for my burial."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "24068",
-      "text" : "<span class='woc'>Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, <span class='extra'>there<\/span> shall also this, that this woman hath done, be told for a memorial of her.<\/span>",
-      "plainText" : "Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, there shall also this, that this woman hath done, be told for a memorial of her."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "24069",
-      "text" : "Then one of the twelve, called Judas Iscariot, went unto the chief priests,",
-      "plainText" : "Then one of the twelve, called Judas Iscariot, went unto the chief priests,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "24070",
-      "text" : "And said <span class='extra'>unto them<\/span>, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver.",
-      "plainText" : "And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "24071",
-      "text" : "And from that time he sought opportunity to betray him.",
-      "plainText" : "And from that time he sought opportunity to betray him."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "24072",
-      "text" : "Now the first <span class='extra'>day<\/span> of the <span class='extra'>feast of<\/span> unleavened bread the disciples came to Jesus, saying unto him, Where wilt thou that we prepare for thee to eat the passover?",
-      "plainText" : "Now the first day of the feast of unleavened bread the disciples came to Jesus, saying unto him, Where wilt thou that we prepare for thee to eat the passover?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "24073",
-      "text" : "And he said, <span class='woc'>Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.<\/span>",
-      "plainText" : "And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "24074",
-      "text" : "And the disciples did as Jesus had appointed them; and they made ready the passover.",
-      "plainText" : "And the disciples did as Jesus had appointed them; and they made ready the passover."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "24075",
-      "text" : "Now when the even was come, he sat down with the twelve.",
-      "plainText" : "Now when the even was come, he sat down with the twelve."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "24076",
-      "text" : "And as they did eat, he said, <span class='woc'>Verily I say unto you, that one of you shall betray me.<\/span>",
-      "plainText" : "And as they did eat, he said, Verily I say unto you, that one of you shall betray me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "24077",
-      "text" : "And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?",
-      "plainText" : "And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "24078",
-      "text" : "And he answered and said, <span class='woc'>He that dippeth <span class='extra'>his<\/span> hand with me in the dish, the same shall betray me.<\/span>",
-      "plainText" : "And he answered and said, He that dippeth his hand with me in the dish, the same shall betray me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "24079",
-      "text" : "<span class='woc'>The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.<\/span>",
-      "plainText" : "The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "24080",
-      "text" : "Then Judas, which betrayed him, answered and said, Master, is it I? He said unto him, <span class='woc'>Thou hast said.<\/span>",
-      "plainText" : "Then Judas, which betrayed him, answered and said, Master, is it I? He said unto him, Thou hast said."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "24081",
-      "text" : "And as they were eating, Jesus took bread, and blessed <span class='extra'>it<\/span>, and brake <span class='extra'>it<\/span>, and gave <span class='extra'>it<\/span> to the disciples, and said, <span class='woc'>Take, eat; this is my body.<\/span>",
-      "plainText" : "And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "24082",
-      "text" : "And he took the cup, and gave thanks, and gave <span class='extra'>it<\/span> to them, saying, <span class='woc'>Drink ye all of it;<\/span>",
-      "plainText" : "And he took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it;"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "24083",
-      "text" : "<span class='woc'>For this is my blood of the new testament, which is shed for many for the remission of sins.<\/span>",
-      "plainText" : "For this is my blood of the new testament, which is shed for many for the remission of sins."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "24084",
-      "text" : "<span class='woc'>But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father's kingdom.<\/span>",
-      "plainText" : "But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father's kingdom."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "24085",
-      "text" : "And when they had sung an hymn, they went out into the mount of Olives.",
-      "plainText" : "And when they had sung an hymn, they went out into the mount of Olives."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "24086",
-      "text" : "Then saith Jesus unto them, <span class='woc'>All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad.<\/span>",
-      "plainText" : "Then saith Jesus unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "24087",
-      "text" : "<span class='woc'>But after I am risen again, I will go before you into Galilee.<\/span>",
-      "plainText" : "But after I am risen again, I will go before you into Galilee."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "24088",
-      "text" : "Peter answered and said unto him, Though all <span class='extra'>men<\/span> shall be offended because of thee, <span class='extra'>yet<\/span> will I never be offended.",
-      "plainText" : "Peter answered and said unto him, Though all men shall be offended because of thee, yet will I never be offended."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "24089",
-      "text" : "Jesus said unto him, <span class='woc'>Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice.<\/span>",
-      "plainText" : "Jesus said unto him, Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "24090",
-      "text" : "Peter said unto him, Though I should die with thee, yet will I not deny thee. Likewise also said all the disciples.",
-      "plainText" : "Peter said unto him, Though I should die with thee, yet will I not deny thee. Likewise also said all the disciples."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "24091",
-      "text" : "Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, <span class='woc'>Sit ye here, while I go and pray yonder.<\/span>",
-      "plainText" : "Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "24092",
-      "text" : "And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy.",
-      "plainText" : "And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "24093",
-      "text" : "Then saith he unto them, <span class='woc'>My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me.<\/span>",
-      "plainText" : "Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "24094",
-      "text" : "And he went a little further, and fell on his face, and prayed, saying, <span class='woc'>O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou <span class='extra'>wilt<\/span>.<\/span>",
-      "plainText" : "And he went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "24095",
-      "text" : "And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, <span class='woc'>What, could ye not watch with me one hour?<\/span>",
-      "plainText" : "And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, What, could ye not watch with me one hour?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "24096",
-      "text" : "<span class='woc'>Watch and pray, that ye enter not into temptation: the spirit indeed <span class='extra'>is<\/span> willing, but the flesh <span class='extra'>is<\/span> weak.<\/span>",
-      "plainText" : "Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "24097",
-      "text" : "He went away again the second time, and prayed, saying, <span class='woc'>O my Father, if this cup may not pass away from me, except I drink it, thy will be done.<\/span>",
-      "plainText" : "He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "24098",
-      "text" : "And he came and found them asleep again: for their eyes were heavy.",
-      "plainText" : "And he came and found them asleep again: for their eyes were heavy."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "24099",
-      "text" : "And he left them, and went away again, and prayed the third time, saying the same words.",
-      "plainText" : "And he left them, and went away again, and prayed the third time, saying the same words."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "24100",
-      "text" : "Then cometh he to his disciples, and saith unto them, <span class='woc'>Sleep on now, and take <span class='extra'>your<\/span> rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.<\/span>",
-      "plainText" : "Then cometh he to his disciples, and saith unto them, Sleep on now, and take your rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "24101",
-      "text" : "<span class='woc'>Rise, let us be going: behold, he is at hand that doth betray me.<\/span>",
-      "plainText" : "Rise, let us be going: behold, he is at hand that doth betray me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "24102",
-      "text" : "And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.",
-      "plainText" : "And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "24103",
-      "text" : "Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that same is he: hold him fast.",
-      "plainText" : "Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that same is he: hold him fast."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "24104",
-      "text" : "And forthwith he came to Jesus, and said, Hail, master; and kissed him.",
-      "plainText" : "And forthwith he came to Jesus, and said, Hail, master; and kissed him."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v50",
-      "number" : "50",
-      "absolute" : "24105",
-      "text" : "And Jesus said unto him, <span class='woc'>Friend, wherefore art thou come?<\/span> Then came they, and laid hands on Jesus, and took him.",
-      "plainText" : "And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v51",
-      "number" : "51",
-      "absolute" : "24106",
-      "text" : "And, behold, one of them which were with Jesus stretched out <span class='extra'>his<\/span> hand, and drew his sword, and struck a servant of the high priest's, and smote off his ear.",
-      "plainText" : "And, behold, one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest's, and smote off his ear."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v52",
-      "number" : "52",
-      "absolute" : "24107",
-      "text" : "Then said Jesus unto him, <span class='woc'>Put up again thy sword into his place: for all they that take the sword shall perish with the sword.<\/span>",
-      "plainText" : "Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v53",
-      "number" : "53",
-      "absolute" : "24108",
-      "text" : "<span class='woc'>Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?<\/span>",
-      "plainText" : "Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v54",
-      "number" : "54",
-      "absolute" : "24109",
-      "text" : "<span class='woc'>But how then shall the scriptures be fulfilled, that thus it must be?<\/span>",
-      "plainText" : "But how then shall the scriptures be fulfilled, that thus it must be?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v55",
-      "number" : "55",
-      "absolute" : "24110",
-      "text" : "In that same hour said Jesus to the multitudes, <span class='woc'>Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me.<\/span>",
-      "plainText" : "In that same hour said Jesus to the multitudes, Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v56",
-      "number" : "56",
-      "absolute" : "24111",
-      "text" : "<span class='woc'>But all this was done, that the scriptures of the prophets might be fulfilled.<\/span> Then all the disciples forsook him, and fled.",
-      "plainText" : "But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v57",
-      "number" : "57",
-      "absolute" : "24112",
-      "text" : "And they that had laid hold on Jesus led <span class='extra'>him<\/span> away to Caiaphas the high priest, where the scribes and the elders were assembled.",
-      "plainText" : "And they that had laid hold on Jesus led him away to Caiaphas the high priest, where the scribes and the elders were assembled."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v58",
-      "number" : "58",
-      "absolute" : "24113",
-      "text" : "But Peter followed him afar off unto the high priest's palace, and went in, and sat with the servants, to see the end.",
-      "plainText" : "But Peter followed him afar off unto the high priest's palace, and went in, and sat with the servants, to see the end."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v59",
-      "number" : "59",
-      "absolute" : "24114",
-      "text" : "Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;",
-      "plainText" : "Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v60",
-      "number" : "60",
-      "absolute" : "24115",
-      "text" : "But found none: yea, though many false witnesses came, <span class='extra'>yet<\/span> found they none. At the last came two false witnesses,",
-      "plainText" : "But found none: yea, though many false witnesses came, yet found they none. At the last came two false witnesses,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v61",
-      "number" : "61",
-      "absolute" : "24116",
-      "text" : "And said, This <span class='extra'>fellow<\/span> said, I am able to destroy the temple of God, and to build it in three days.",
-      "plainText" : "And said, This fellow said, I am able to destroy the temple of God, and to build it in three days."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v62",
-      "number" : "62",
-      "absolute" : "24117",
-      "text" : "And the high priest arose, and said unto him, Answerest thou nothing? what <span class='extra'>is it which<\/span> these witness against thee?",
-      "plainText" : "And the high priest arose, and said unto him, Answerest thou nothing? what is it which these witness against thee?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v63",
-      "number" : "63",
-      "absolute" : "24118",
-      "text" : "But Jesus held his peace. And the high priest answered and said unto him, I adjure thee by the living God, that thou tell us whether thou be the Christ, the Son of God.",
-      "plainText" : "But Jesus held his peace. And the high priest answered and said unto him, I adjure thee by the living God, that thou tell us whether thou be the Christ, the Son of God."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v64",
-      "number" : "64",
-      "absolute" : "24119",
-      "text" : "Jesus saith unto him, <span class='woc'>Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.<\/span>",
-      "plainText" : "Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v65",
-      "number" : "65",
-      "absolute" : "24120",
-      "text" : "Then the high priest rent his clothes, saying, He hath spoken blasphemy; what further need have we of witnesses? behold, now ye have heard his blasphemy.",
-      "plainText" : "Then the high priest rent his clothes, saying, He hath spoken blasphemy; what further need have we of witnesses? behold, now ye have heard his blasphemy."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v66",
-      "number" : "66",
-      "absolute" : "24121",
-      "text" : "What think ye? They answered and said, He is guilty of death.",
-      "plainText" : "What think ye? They answered and said, He is guilty of death."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v67",
-      "number" : "67",
-      "absolute" : "24122",
-      "text" : "Then did they spit in his face, and buffeted him; and others smote <span class='extra'>him<\/span> with the palms of their hands,",
-      "plainText" : "Then did they spit in his face, and buffeted him; and others smote him with the palms of their hands,"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v68",
-      "number" : "68",
-      "absolute" : "24123",
-      "text" : "Saying, Prophesy unto us, thou Christ, Who is he that smote thee?",
-      "plainText" : "Saying, Prophesy unto us, thou Christ, Who is he that smote thee?"
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v69",
-      "number" : "69",
-      "absolute" : "24124",
-      "text" : "Now Peter sat without in the palace: and a damsel came unto him, saying, Thou also wast with Jesus of Galilee.",
-      "plainText" : "Now Peter sat without in the palace: and a damsel came unto him, saying, Thou also wast with Jesus of Galilee."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v70",
-      "number" : "70",
-      "absolute" : "24125",
-      "text" : "But he denied before <span class='extra'>them<\/span> all, saying, I know not what thou sayest.",
-      "plainText" : "But he denied before them all, saying, I know not what thou sayest."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v71",
-      "number" : "71",
-      "absolute" : "24126",
-      "text" : "And when he was gone out into the porch, another <span class='extra'>maid<\/span> saw him, and said unto them that were there, This <span class='extra'>fellow<\/span> was also with Jesus of Nazareth.",
-      "plainText" : "And when he was gone out into the porch, another maid saw him, and said unto them that were there, This fellow was also with Jesus of Nazareth."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v72",
-      "number" : "72",
-      "absolute" : "24127",
-      "text" : "And again he denied with an oath, I do not know the man.",
-      "plainText" : "And again he denied with an oath, I do not know the man."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v73",
-      "number" : "73",
-      "absolute" : "24128",
-      "text" : "And after a while came unto <span class='extra'>him<\/span> they that stood by, and said to Peter, Surely thou also art <span class='extra'>one<\/span> of them; for thy speech bewrayeth thee.",
-      "plainText" : "And after a while came unto him they that stood by, and said to Peter, Surely thou also art one of them; for thy speech bewrayeth thee."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v74",
-      "number" : "74",
-      "absolute" : "24129",
-      "text" : "Then began he to curse and to swear, <span class='extra'>saying<\/span>, I know not the man. And immediately the cock crew.",
-      "plainText" : "Then began he to curse and to swear, saying, I know not the man. And immediately the cock crew."
-    }
-    ,
-    {
-      "type" : "verse",
-      "id" : "v75",
-      "number" : "75",
-      "absolute" : "24130",
-      "text" : "And Peter remembered the word of Jesus, which said unto him, <span class='woc'>Before the cock crow, thou shalt deny me thrice.<\/span> And he went out, and wept bitterly.",
-      "plainText" : "And Peter remembered the word of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly."
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "24056",
+      "text": "And it came to pass, when Jesus had finished all these sayings, he said unto his disciples,",
+      "plainText": "And it came to pass, when Jesus had finished all these sayings, he said unto his disciples,"
+    },
+    {
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "24057",
+      "text": "<span class='woc'>Ye know that after two days is <span class='extra'>the feast of</span> the passover, and the Son of man is betrayed to be crucified.</span>",
+      "plainText": "Ye know that after two days is the feast of the passover, and the Son of man is betrayed to be crucified."
+    },
+    {
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "24058",
+      "text": "Then assembled together the chief priests, and the scribes, and the elders of the people, unto the palace of the high priest, who was called Caiaphas,",
+      "plainText": "Then assembled together the chief priests, and the scribes, and the elders of the people, unto the palace of the high priest, who was called Caiaphas,"
+    },
+    {
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "24059",
+      "text": "And consulted that they might take Jesus by subtilty, and kill <span class='extra'>him</span>.",
+      "plainText": "And consulted that they might take Jesus by subtilty, and kill him."
+    },
+    {
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "24060",
+      "text": "But they said, Not on the feast <span class='extra'>day</span>, lest there be an uproar among the people.",
+      "plainText": "But they said, Not on the feast day, lest there be an uproar among the people."
+    },
+    {
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "24061",
+      "text": "Now when Jesus was in Bethany, in the house of Simon the leper,",
+      "plainText": "Now when Jesus was in Bethany, in the house of Simon the leper,"
+    },
+    {
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "24062",
+      "text": "There came unto him a woman having an alabaster box of very precious ointment, and poured it on his head, as he sat <span class='extra'>at meat</span>.",
+      "plainText": "There came unto him a woman having an alabaster box of very precious ointment, and poured it on his head, as he sat at meat."
+    },
+    {
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "24063",
+      "text": "But when his disciples saw <span class='extra'>it</span>, they had indignation, saying, To what purpose <span class='extra'>is</span> this waste?",
+      "plainText": "But when his disciples saw it, they had indignation, saying, To what purpose is this waste?"
+    },
+    {
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "24064",
+      "text": "For this ointment might have been sold for much, and given to the poor.",
+      "plainText": "For this ointment might have been sold for much, and given to the poor."
+    },
+    {
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "24065",
+      "text": "When Jesus understood <span class='extra'>it</span>, he said unto them, <span class='woc'>Why trouble ye the woman? for she hath wrought a good work upon me.</span>",
+      "plainText": "When Jesus understood it, he said unto them, Why trouble ye the woman? for she hath wrought a good work upon me."
+    },
+    {
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "24066",
+      "text": "<span class='woc'>For ye have the poor always with you; but me ye have not always.</span>",
+      "plainText": "For ye have the poor always with you; but me ye have not always."
+    },
+    {
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "24067",
+      "text": "<span class='woc'>For in that she hath poured this ointment on my body, she did <span class='extra'>it</span> for my burial.</span>",
+      "plainText": "For in that she hath poured this ointment on my body, she did it for my burial."
+    },
+    {
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "24068",
+      "text": "<span class='woc'>Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, <span class='extra'>there</span> shall also this, that this woman hath done, be told for a memorial of her.</span>",
+      "plainText": "Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, there shall also this, that this woman hath done, be told for a memorial of her."
+    },
+    {
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "24069",
+      "text": "Then one of the twelve, called Judas Iscariot, went unto the chief priests,",
+      "plainText": "Then one of the twelve, called Judas Iscariot, went unto the chief priests,"
+    },
+    {
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "24070",
+      "text": "And said <span class='extra'>unto them</span>, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver.",
+      "plainText": "And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver."
+    },
+    {
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "24071",
+      "text": "And from that time he sought opportunity to betray him.",
+      "plainText": "And from that time he sought opportunity to betray him."
+    },
+    {
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "24072",
+      "text": "Now the first <span class='extra'>day</span> of the <span class='extra'>feast of</span> unleavened bread the disciples came to Jesus, saying unto him, Where wilt thou that we prepare for thee to eat the passover?",
+      "plainText": "Now the first day of the feast of unleavened bread the disciples came to Jesus, saying unto him, Where wilt thou that we prepare for thee to eat the passover?"
+    },
+    {
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "24073",
+      "text": "And he said, <span class='woc'>Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.</span>",
+      "plainText": "And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples."
+    },
+    {
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "24074",
+      "text": "And the disciples did as Jesus had appointed them; and they made ready the passover.",
+      "plainText": "And the disciples did as Jesus had appointed them; and they made ready the passover."
+    },
+    {
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "24075",
+      "text": "Now when the even was come, he sat down with the twelve.",
+      "plainText": "Now when the even was come, he sat down with the twelve."
+    },
+    {
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "24076",
+      "text": "And as they did eat, he said, <span class='woc'>Verily I say unto you, that one of you shall betray me.</span>",
+      "plainText": "And as they did eat, he said, Verily I say unto you, that one of you shall betray me."
+    },
+    {
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "24077",
+      "text": "And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?",
+      "plainText": "And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?"
+    },
+    {
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "24078",
+      "text": "And he answered and said, <span class='woc'>He that dippeth <span class='extra'>his</span> hand with me in the dish, the same shall betray me.</span>",
+      "plainText": "And he answered and said, He that dippeth his hand with me in the dish, the same shall betray me."
+    },
+    {
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "24079",
+      "text": "<span class='woc'>The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.</span>",
+      "plainText": "The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born."
+    },
+    {
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "24080",
+      "text": "Then Judas, which betrayed him, answered and said, Master, is it I? He said unto him, <span class='woc'>Thou hast said.</span>",
+      "plainText": "Then Judas, which betrayed him, answered and said, Master, is it I? He said unto him, Thou hast said."
+    },
+    {
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "24081",
+      "text": "And as they were eating, Jesus took bread, and blessed <span class='extra'>it</span>, and brake <span class='extra'>it</span>, and gave <span class='extra'>it</span> to the disciples, and said, <span class='woc'>Take, eat; this is my body.</span>",
+      "plainText": "And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body."
+    },
+    {
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "24082",
+      "text": "And he took the cup, and gave thanks, and gave <span class='extra'>it</span> to them, saying, <span class='woc'>Drink ye all of it;</span>",
+      "plainText": "And he took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it;"
+    },
+    {
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "24083",
+      "text": "<span class='woc'>For this is my blood of the new testament, which is shed for many for the remission of sins.</span>",
+      "plainText": "For this is my blood of the new testament, which is shed for many for the remission of sins."
+    },
+    {
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "24084",
+      "text": "<span class='woc'>But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father's kingdom.</span>",
+      "plainText": "But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father's kingdom."
+    },
+    {
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "24085",
+      "text": "And when they had sung an hymn, they went out into the mount of Olives.",
+      "plainText": "And when they had sung an hymn, they went out into the mount of Olives."
+    },
+    {
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "24086",
+      "text": "Then saith Jesus unto them, <span class='woc'>All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad.</span>",
+      "plainText": "Then saith Jesus unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad."
+    },
+    {
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "24087",
+      "text": "<span class='woc'>But after I am risen again, I will go before you into Galilee.</span>",
+      "plainText": "But after I am risen again, I will go before you into Galilee."
+    },
+    {
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "24088",
+      "text": "Peter answered and said unto him, Though all <span class='extra'>men</span> shall be offended because of thee, <span class='extra'>yet</span> will I never be offended.",
+      "plainText": "Peter answered and said unto him, Though all men shall be offended because of thee, yet will I never be offended."
+    },
+    {
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "24089",
+      "text": "Jesus said unto him, <span class='woc'>Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice.</span>",
+      "plainText": "Jesus said unto him, Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice."
+    },
+    {
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "24090",
+      "text": "Peter said unto him, Though I should die with thee, yet will I not deny thee. Likewise also said all the disciples.",
+      "plainText": "Peter said unto him, Though I should die with thee, yet will I not deny thee. Likewise also said all the disciples."
+    },
+    {
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "24091",
+      "text": "Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, <span class='woc'>Sit ye here, while I go and pray yonder.</span>",
+      "plainText": "Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder."
+    },
+    {
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "24092",
+      "text": "And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy.",
+      "plainText": "And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy."
+    },
+    {
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "24093",
+      "text": "Then saith he unto them, <span class='woc'>My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me.</span>",
+      "plainText": "Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me."
+    },
+    {
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "24094",
+      "text": "And he went a little further, and fell on his face, and prayed, saying, <span class='woc'>O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou <span class='extra'>wilt</span>.</span>",
+      "plainText": "And he went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt."
+    },
+    {
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "24095",
+      "text": "And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, <span class='woc'>What, could ye not watch with me one hour?</span>",
+      "plainText": "And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, What, could ye not watch with me one hour?"
+    },
+    {
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "24096",
+      "text": "<span class='woc'>Watch and pray, that ye enter not into temptation: the spirit indeed <span class='extra'>is</span> willing, but the flesh <span class='extra'>is</span> weak.</span>",
+      "plainText": "Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak."
+    },
+    {
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "24097",
+      "text": "He went away again the second time, and prayed, saying, <span class='woc'>O my Father, if this cup may not pass away from me, except I drink it, thy will be done.</span>",
+      "plainText": "He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done."
+    },
+    {
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "24098",
+      "text": "And he came and found them asleep again: for their eyes were heavy.",
+      "plainText": "And he came and found them asleep again: for their eyes were heavy."
+    },
+    {
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "24099",
+      "text": "And he left them, and went away again, and prayed the third time, saying the same words.",
+      "plainText": "And he left them, and went away again, and prayed the third time, saying the same words."
+    },
+    {
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "24100",
+      "text": "Then cometh he to his disciples, and saith unto them, <span class='woc'>Sleep on now, and take <span class='extra'>your</span> rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.</span>",
+      "plainText": "Then cometh he to his disciples, and saith unto them, Sleep on now, and take your rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners."
+    },
+    {
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "24101",
+      "text": "<span class='woc'>Rise, let us be going: behold, he is at hand that doth betray me.</span>",
+      "plainText": "Rise, let us be going: behold, he is at hand that doth betray me."
+    },
+    {
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "24102",
+      "text": "And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.",
+      "plainText": "And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people."
+    },
+    {
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "24103",
+      "text": "Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that same is he: hold him fast.",
+      "plainText": "Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that same is he: hold him fast."
+    },
+    {
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "24104",
+      "text": "And forthwith he came to Jesus, and said, Hail, master; and kissed him.",
+      "plainText": "And forthwith he came to Jesus, and said, Hail, master; and kissed him."
+    },
+    {
+      "type": "verse",
+      "id": "v50",
+      "number": "50",
+      "absolute": "24105",
+      "text": "And Jesus said unto him, <span class='woc'>Friend, wherefore art thou come?</span> Then came they, and laid hands on Jesus, and took him.",
+      "plainText": "And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him."
+    },
+    {
+      "type": "verse",
+      "id": "v51",
+      "number": "51",
+      "absolute": "24106",
+      "text": "And, behold, one of them which were with Jesus stretched out <span class='extra'>his</span> hand, and drew his sword, and struck a servant of the high priest's, and smote off his ear.",
+      "plainText": "And, behold, one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest's, and smote off his ear."
+    },
+    {
+      "type": "verse",
+      "id": "v52",
+      "number": "52",
+      "absolute": "24107",
+      "text": "Then said Jesus unto him, <span class='woc'>Put up again thy sword into his place: for all they that take the sword shall perish with the sword.</span>",
+      "plainText": "Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword."
+    },
+    {
+      "type": "verse",
+      "id": "v53",
+      "number": "53",
+      "absolute": "24108",
+      "text": "<span class='woc'>Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?</span>",
+      "plainText": "Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?"
+    },
+    {
+      "type": "verse",
+      "id": "v54",
+      "number": "54",
+      "absolute": "24109",
+      "text": "<span class='woc'>But how then shall the scriptures be fulfilled, that thus it must be?</span>",
+      "plainText": "But how then shall the scriptures be fulfilled, that thus it must be?"
+    },
+    {
+      "type": "verse",
+      "id": "v55",
+      "number": "55",
+      "absolute": "24110",
+      "text": "In that same hour said Jesus to the multitudes, <span class='woc'>Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me.</span>",
+      "plainText": "In that same hour said Jesus to the multitudes, Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me."
+    },
+    {
+      "type": "verse",
+      "id": "v56",
+      "number": "56",
+      "absolute": "24111",
+      "text": "<span class='woc'>But all this was done, that the scriptures of the prophets might be fulfilled.</span> Then all the disciples forsook him, and fled.",
+      "plainText": "But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled."
+    },
+    {
+      "type": "verse",
+      "id": "v57",
+      "number": "57",
+      "absolute": "24112",
+      "text": "And they that had laid hold on Jesus led <span class='extra'>him</span> away to Caiaphas the high priest, where the scribes and the elders were assembled.",
+      "plainText": "And they that had laid hold on Jesus led him away to Caiaphas the high priest, where the scribes and the elders were assembled."
+    },
+    {
+      "type": "verse",
+      "id": "v58",
+      "number": "58",
+      "absolute": "24113",
+      "text": "But Peter followed him afar off unto the high priest's palace, and went in, and sat with the servants, to see the end.",
+      "plainText": "But Peter followed him afar off unto the high priest's palace, and went in, and sat with the servants, to see the end."
+    },
+    {
+      "type": "verse",
+      "id": "v59",
+      "number": "59",
+      "absolute": "24114",
+      "text": "Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;",
+      "plainText": "Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;"
+    },
+    {
+      "type": "verse",
+      "id": "v60",
+      "number": "60",
+      "absolute": "24115",
+      "text": "But found none: yea, though many false witnesses came, <span class='extra'>yet</span> found they none. At the last came two false witnesses,",
+      "plainText": "But found none: yea, though many false witnesses came, yet found they none. At the last came two false witnesses,"
+    },
+    {
+      "type": "verse",
+      "id": "v61",
+      "number": "61",
+      "absolute": "24116",
+      "text": "And said, This <span class='extra'>fellow</span> said, I am able to destroy the temple of God, and to build it in three days.",
+      "plainText": "And said, This fellow said, I am able to destroy the temple of God, and to build it in three days."
+    },
+    {
+      "type": "verse",
+      "id": "v62",
+      "number": "62",
+      "absolute": "24117",
+      "text": "And the high priest arose, and said unto him, Answerest thou nothing? what <span class='extra'>is it which</span> these witness against thee?",
+      "plainText": "And the high priest arose, and said unto him, Answerest thou nothing? what is it which these witness against thee?"
+    },
+    {
+      "type": "verse",
+      "id": "v63",
+      "number": "63",
+      "absolute": "24118",
+      "text": "But Jesus held his peace. And the high priest answered and said unto him, I adjure thee by the living God, that thou tell us whether thou be the Christ, the Son of God.",
+      "plainText": "But Jesus held his peace. And the high priest answered and said unto him, I adjure thee by the living God, that thou tell us whether thou be the Christ, the Son of God."
+    },
+    {
+      "type": "verse",
+      "id": "v64",
+      "number": "64",
+      "absolute": "24119",
+      "text": "Jesus saith unto him, <span class='woc'>Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.</span>",
+      "plainText": "Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven."
+    },
+    {
+      "type": "verse",
+      "id": "v65",
+      "number": "65",
+      "absolute": "24120",
+      "text": "Then the high priest rent his clothes, saying, He hath spoken blasphemy; what further need have we of witnesses? behold, now ye have heard his blasphemy.",
+      "plainText": "Then the high priest rent his clothes, saying, He hath spoken blasphemy; what further need have we of witnesses? behold, now ye have heard his blasphemy."
+    },
+    {
+      "type": "verse",
+      "id": "v66",
+      "number": "66",
+      "absolute": "24121",
+      "text": "What think ye? They answered and said, He is guilty of death.",
+      "plainText": "What think ye? They answered and said, He is guilty of death."
+    },
+    {
+      "type": "verse",
+      "id": "v67",
+      "number": "67",
+      "absolute": "24122",
+      "text": "Then did they spit in his face, and buffeted him; and others smote <span class='extra'>him</span> with the palms of their hands,",
+      "plainText": "Then did they spit in his face, and buffeted him; and others smote him with the palms of their hands,"
+    },
+    {
+      "type": "verse",
+      "id": "v68",
+      "number": "68",
+      "absolute": "24123",
+      "text": "Saying, Prophesy unto us, thou Christ, Who is he that smote thee?",
+      "plainText": "Saying, Prophesy unto us, thou Christ, Who is he that smote thee?"
+    },
+    {
+      "type": "verse",
+      "id": "v69",
+      "number": "69",
+      "absolute": "24124",
+      "text": "Now Peter sat without in the palace: and a damsel came unto him, saying, Thou also wast with Jesus of Galilee.",
+      "plainText": "Now Peter sat without in the palace: and a damsel came unto him, saying, Thou also wast with Jesus of Galilee."
+    },
+    {
+      "type": "verse",
+      "id": "v70",
+      "number": "70",
+      "absolute": "24125",
+      "text": "But he denied before <span class='extra'>them</span> all, saying, I know not what thou sayest.",
+      "plainText": "But he denied before them all, saying, I know not what thou sayest."
+    },
+    {
+      "type": "verse",
+      "id": "v71",
+      "number": "71",
+      "absolute": "24126",
+      "text": "And when he was gone out into the porch, another <span class='extra'>maid</span> saw him, and said unto them that were there, This <span class='extra'>fellow</span> was also with Jesus of Nazareth.",
+      "plainText": "And when he was gone out into the porch, another maid saw him, and said unto them that were there, This fellow was also with Jesus of Nazareth."
+    },
+    {
+      "type": "verse",
+      "id": "v72",
+      "number": "72",
+      "absolute": "24127",
+      "text": "And again he denied with an oath, I do not know the man.",
+      "plainText": "And again he denied with an oath, I do not know the man."
+    },
+    {
+      "type": "verse",
+      "id": "v73",
+      "number": "73",
+      "absolute": "24128",
+      "text": "And after a while came unto <span class='extra'>him</span> they that stood by, and said to Peter, Surely thou also art <span class='extra'>one</span> of them; for thy speech bewrayeth thee.",
+      "plainText": "And after a while came unto him they that stood by, and said to Peter, Surely thou also art one of them; for thy speech bewrayeth thee."
+    },
+    {
+      "type": "verse",
+      "id": "v74",
+      "number": "74",
+      "absolute": "24129",
+      "text": "Then began he to curse and to swear, <span class='extra'>saying</span>, I know not the man. And immediately the cock crew.",
+      "plainText": "Then began he to curse and to swear, saying, I know not the man. And immediately the cock crew."
+    },
+    {
+      "type": "verse",
+      "id": "v75",
+      "number": "75",
+      "absolute": "24130",
+      "text": "And Peter remembered the word of Jesus, which said unto him, <span class='woc'>Before the cock crow, thou shalt deny me thrice.</span> And he went out, and wept bitterly.",
+      "plainText": "And Peter remembered the word of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly."
     }
   ]
 }
-

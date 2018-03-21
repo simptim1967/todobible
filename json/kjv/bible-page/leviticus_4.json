@@ -1,344 +1,309 @@
 {
   "book": {
-    "number" : "3",
-    "filenamePrefix" : "leviticus",
-    "bookPage" : "leviticus.html",
-    "title" : "Leviticus",
-    "chapterCount" : "27",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "numbers_1.html",
-    "nextTitle" : "Numbers",
-    "prevBook" : "exodus_1.html",
-    "prevTitle" : "Exodus"
+    "number": "3",
+    "filenamePrefix": "leviticus",
+    "bookPage": "leviticus.html",
+    "title": "Leviticus",
+    "chapterCount": "27",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "numbers_1.html",
+    "nextTitle": "Numbers",
+    "prevBook": "exodus_1.html",
+    "prevTitle": "Exodus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "4",
-    "verseCount" : "35",
-    "nextChapter" : "leviticus_5.html",
-    "nextTitle" : "Leviticus 5",
-    "prevChapter" : "leviticus_3.html",
-    "prevTitle" : "Leviticus 3",
-    "filename" : "leviticus_4.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "4",
+    "verseCount": "35",
+    "nextChapter": "leviticus_5.html",
+    "nextTitle": "Leviticus 5",
+    "prevChapter": "leviticus_3.html",
+    "prevTitle": "Leviticus 3",
+    "filename": "leviticus_4.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "2797",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "2797",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "2798",
-      "text" : "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the <span class='nog'>LORD<\/span> <span class='extra'>concerning things<\/span> which ought not to be done, and shall do against any of them:",
-      "plainText" : "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD concerning things which ought not to be done, and shall do against any of them:"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "2798",
+      "text": "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the <span class='nog'>LORD</span> <span class='extra'>concerning things</span> which ought not to be done, and shall do against any of them:",
+      "plainText": "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD concerning things which ought not to be done, and shall do against any of them:"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "2799",
-      "text" : "If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the <span class='nog'>LORD<\/span> for a sin offering.",
-      "plainText" : "If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the LORD for a sin offering."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "2799",
+      "text": "If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the <span class='nog'>LORD</span> for a sin offering.",
+      "plainText": "If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the LORD for a sin offering."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "2800",
-      "text" : "And he shall bring the bullock unto the door of the tabernacle of the congregation before the <span class='nog'>LORD<\/span>; and shall lay his hand upon the bullock's head, and kill the bullock before the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And he shall bring the bullock unto the door of the tabernacle of the congregation before the LORD; and shall lay his hand upon the bullock's head, and kill the bullock before the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "2800",
+      "text": "And he shall bring the bullock unto the door of the tabernacle of the congregation before the <span class='nog'>LORD</span>; and shall lay his hand upon the bullock's head, and kill the bullock before the <span class='nog'>LORD</span>.",
+      "plainText": "And he shall bring the bullock unto the door of the tabernacle of the congregation before the LORD; and shall lay his hand upon the bullock's head, and kill the bullock before the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "2801",
-      "text" : "And the priest that is anointed shall take of the bullock's blood, and bring it to the tabernacle of the congregation:",
-      "plainText" : "And the priest that is anointed shall take of the bullock's blood, and bring it to the tabernacle of the congregation:"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "2801",
+      "text": "And the priest that is anointed shall take of the bullock's blood, and bring it to the tabernacle of the congregation:",
+      "plainText": "And the priest that is anointed shall take of the bullock's blood, and bring it to the tabernacle of the congregation:"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "2802",
-      "text" : "And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the <span class='nog'>LORD<\/span>, before the vail of the sanctuary.",
-      "plainText" : "And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the LORD, before the vail of the sanctuary."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "2802",
+      "text": "And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the <span class='nog'>LORD</span>, before the vail of the sanctuary.",
+      "plainText": "And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the LORD, before the vail of the sanctuary."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "2803",
-      "text" : "And the priest shall put <span class='extra'>some<\/span> of the blood upon the horns of the altar of sweet incense before the <span class='nog'>LORD<\/span>, which <span class='extra'>is<\/span> in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which <span class='extra'>is at<\/span> the door of the tabernacle of the congregation.",
-      "plainText" : "And the priest shall put some of the blood upon the horns of the altar of sweet incense before the LORD, which is in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "2803",
+      "text": "And the priest shall put <span class='extra'>some</span> of the blood upon the horns of the altar of sweet incense before the <span class='nog'>LORD</span>, which <span class='extra'>is</span> in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which <span class='extra'>is at</span> the door of the tabernacle of the congregation.",
+      "plainText": "And the priest shall put some of the blood upon the horns of the altar of sweet incense before the LORD, which is in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "2804",
-      "text" : "And he shall take off from it all the fat of the bullock for the sin offering; the fat that covereth the inwards, and all the fat that <span class='extra'>is<\/span> upon the inwards,",
-      "plainText" : "And he shall take off from it all the fat of the bullock for the sin offering; the fat that covereth the inwards, and all the fat that is upon the inwards,"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "2804",
+      "text": "And he shall take off from it all the fat of the bullock for the sin offering; the fat that covereth the inwards, and all the fat that <span class='extra'>is</span> upon the inwards,",
+      "plainText": "And he shall take off from it all the fat of the bullock for the sin offering; the fat that covereth the inwards, and all the fat that is upon the inwards,"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "2805",
-      "text" : "And the two kidneys, and the fat that <span class='extra'>is<\/span> upon them, which <span class='extra'>is<\/span> by the flanks, and the caul above the liver, with the kidneys, it shall he take away,",
-      "plainText" : "And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away,"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "2805",
+      "text": "And the two kidneys, and the fat that <span class='extra'>is</span> upon them, which <span class='extra'>is</span> by the flanks, and the caul above the liver, with the kidneys, it shall he take away,",
+      "plainText": "And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away,"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "2806",
-      "text" : "As it was taken off from the bullock of the sacrifice of peace offerings: and the priest shall burn them upon the altar of the burnt offering.",
-      "plainText" : "As it was taken off from the bullock of the sacrifice of peace offerings: and the priest shall burn them upon the altar of the burnt offering."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "2806",
+      "text": "As it was taken off from the bullock of the sacrifice of peace offerings: and the priest shall burn them upon the altar of the burnt offering.",
+      "plainText": "As it was taken off from the bullock of the sacrifice of peace offerings: and the priest shall burn them upon the altar of the burnt offering."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "2807",
-      "text" : "And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,",
-      "plainText" : "And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "2807",
+      "text": "And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,",
+      "plainText": "And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "2808",
-      "text" : "Even the whole bullock shall he carry forth without the camp unto a clean place, where the ashes are poured out, and burn him on the wood with fire: where the ashes are poured out shall he be burnt.",
-      "plainText" : "Even the whole bullock shall he carry forth without the camp unto a clean place, where the ashes are poured out, and burn him on the wood with fire: where the ashes are poured out shall he be burnt."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "2808",
+      "text": "Even the whole bullock shall he carry forth without the camp unto a clean place, where the ashes are poured out, and burn him on the wood with fire: where the ashes are poured out shall he be burnt.",
+      "plainText": "Even the whole bullock shall he carry forth without the camp unto a clean place, where the ashes are poured out, and burn him on the wood with fire: where the ashes are poured out shall he be burnt."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "2809",
-      "text" : "And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done <span class='extra'>somewhat against<\/span> any of the commandments of the <span class='nog'>LORD<\/span> <span class='extra'>concerning things<\/span> which should not be done, and are guilty;",
-      "plainText" : "And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done somewhat against any of the commandments of the LORD concerning things which should not be done, and are guilty;"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "2809",
+      "text": "And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done <span class='extra'>somewhat against</span> any of the commandments of the <span class='nog'>LORD</span> <span class='extra'>concerning things</span> which should not be done, and are guilty;",
+      "plainText": "And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done somewhat against any of the commandments of the LORD concerning things which should not be done, and are guilty;"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "2810",
-      "text" : "When the sin, which they have sinned against it, is known, then the congregation shall offer a young bullock for the sin, and bring him before the tabernacle of the congregation.",
-      "plainText" : "When the sin, which they have sinned against it, is known, then the congregation shall offer a young bullock for the sin, and bring him before the tabernacle of the congregation."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "2810",
+      "text": "When the sin, which they have sinned against it, is known, then the congregation shall offer a young bullock for the sin, and bring him before the tabernacle of the congregation.",
+      "plainText": "When the sin, which they have sinned against it, is known, then the congregation shall offer a young bullock for the sin, and bring him before the tabernacle of the congregation."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "2811",
-      "text" : "And the elders of the congregation shall lay their hands upon the head of the bullock before the <span class='nog'>LORD<\/span>: and the bullock shall be killed before the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And the elders of the congregation shall lay their hands upon the head of the bullock before the LORD: and the bullock shall be killed before the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "2811",
+      "text": "And the elders of the congregation shall lay their hands upon the head of the bullock before the <span class='nog'>LORD</span>: and the bullock shall be killed before the <span class='nog'>LORD</span>.",
+      "plainText": "And the elders of the congregation shall lay their hands upon the head of the bullock before the LORD: and the bullock shall be killed before the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "2812",
-      "text" : "And the priest that is anointed shall bring of the bullock's blood to the tabernacle of the congregation:",
-      "plainText" : "And the priest that is anointed shall bring of the bullock's blood to the tabernacle of the congregation:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "2812",
+      "text": "And the priest that is anointed shall bring of the bullock's blood to the tabernacle of the congregation:",
+      "plainText": "And the priest that is anointed shall bring of the bullock's blood to the tabernacle of the congregation:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "2813",
-      "text" : "And the priest shall dip his finger <span class='extra'>in some<\/span> of the blood, and sprinkle <span class='extra'>it<\/span> seven times before the <span class='nog'>LORD<\/span>, <span class='extra'>even<\/span> before the vail.",
-      "plainText" : "And the priest shall dip his finger in some of the blood, and sprinkle it seven times before the LORD, even before the vail."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "2813",
+      "text": "And the priest shall dip his finger <span class='extra'>in some</span> of the blood, and sprinkle <span class='extra'>it</span> seven times before the <span class='nog'>LORD</span>, <span class='extra'>even</span> before the vail.",
+      "plainText": "And the priest shall dip his finger in some of the blood, and sprinkle it seven times before the LORD, even before the vail."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "2814",
-      "text" : "And he shall put <span class='extra'>some<\/span> of the blood upon the horns of the altar which <span class='extra'>is<\/span> before the <span class='nog'>LORD<\/span>, that <span class='extra'>is<\/span> in the tabernacle of the congregation, and shall pour out all the blood at the bottom of the altar of the burnt offering, which <span class='extra'>is at<\/span> the door of the tabernacle of the congregation.",
-      "plainText" : "And he shall put some of the blood upon the horns of the altar which is before the LORD, that is in the tabernacle of the congregation, and shall pour out all the blood at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "2814",
+      "text": "And he shall put <span class='extra'>some</span> of the blood upon the horns of the altar which <span class='extra'>is</span> before the <span class='nog'>LORD</span>, that <span class='extra'>is</span> in the tabernacle of the congregation, and shall pour out all the blood at the bottom of the altar of the burnt offering, which <span class='extra'>is at</span> the door of the tabernacle of the congregation.",
+      "plainText": "And he shall put some of the blood upon the horns of the altar which is before the LORD, that is in the tabernacle of the congregation, and shall pour out all the blood at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "2815",
-      "text" : "And he shall take all his fat from him, and burn <span class='extra'>it<\/span> upon the altar.",
-      "plainText" : "And he shall take all his fat from him, and burn it upon the altar."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "2815",
+      "text": "And he shall take all his fat from him, and burn <span class='extra'>it</span> upon the altar.",
+      "plainText": "And he shall take all his fat from him, and burn it upon the altar."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "2816",
-      "text" : "And he shall do with the bullock as he did with the bullock for a sin offering, so shall he do with this: and the priest shall make an atonement for them, and it shall be forgiven them.",
-      "plainText" : "And he shall do with the bullock as he did with the bullock for a sin offering, so shall he do with this: and the priest shall make an atonement for them, and it shall be forgiven them."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "2816",
+      "text": "And he shall do with the bullock as he did with the bullock for a sin offering, so shall he do with this: and the priest shall make an atonement for them, and it shall be forgiven them.",
+      "plainText": "And he shall do with the bullock as he did with the bullock for a sin offering, so shall he do with this: and the priest shall make an atonement for them, and it shall be forgiven them."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "2817",
-      "text" : "And he shall carry forth the bullock without the camp, and burn him as he burned the first bullock: it <span class='extra'>is<\/span> a sin offering for the congregation.",
-      "plainText" : "And he shall carry forth the bullock without the camp, and burn him as he burned the first bullock: it is a sin offering for the congregation."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "2817",
+      "text": "And he shall carry forth the bullock without the camp, and burn him as he burned the first bullock: it <span class='extra'>is</span> a sin offering for the congregation.",
+      "plainText": "And he shall carry forth the bullock without the camp, and burn him as he burned the first bullock: it is a sin offering for the congregation."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "2818",
-      "text" : "When a ruler hath sinned, and done <span class='extra'>somewhat<\/span> through ignorance <span class='extra'>against<\/span> any of the commandments of the <span class='nog'>LORD<\/span> his God <span class='extra'>concerning things<\/span> which should not be done, and is guilty;",
-      "plainText" : "When a ruler hath sinned, and done somewhat through ignorance against any of the commandments of the LORD his God concerning things which should not be done, and is guilty;"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "2818",
+      "text": "When a ruler hath sinned, and done <span class='extra'>somewhat</span> through ignorance <span class='extra'>against</span> any of the commandments of the <span class='nog'>LORD</span> his God <span class='extra'>concerning things</span> which should not be done, and is guilty;",
+      "plainText": "When a ruler hath sinned, and done somewhat through ignorance against any of the commandments of the LORD his God concerning things which should not be done, and is guilty;"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "2819",
-      "text" : "Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish:",
-      "plainText" : "Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish:"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "2819",
+      "text": "Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish:",
+      "plainText": "Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish:"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "2820",
-      "text" : "And he shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the <span class='nog'>LORD<\/span>: it <span class='extra'>is<\/span> a sin offering.",
-      "plainText" : "And he shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the LORD: it is a sin offering."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "2820",
+      "text": "And he shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the <span class='nog'>LORD</span>: it <span class='extra'>is</span> a sin offering.",
+      "plainText": "And he shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the LORD: it is a sin offering."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "2821",
-      "text" : "And the priest shall take of the blood of the sin offering with his finger, and put <span class='extra'>it<\/span> upon the horns of the altar of burnt offering, and shall pour out his blood at the bottom of the altar of burnt offering.",
-      "plainText" : "And the priest shall take of the blood of the sin offering with his finger, and put it upon the horns of the altar of burnt offering, and shall pour out his blood at the bottom of the altar of burnt offering."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "2821",
+      "text": "And the priest shall take of the blood of the sin offering with his finger, and put <span class='extra'>it</span> upon the horns of the altar of burnt offering, and shall pour out his blood at the bottom of the altar of burnt offering.",
+      "plainText": "And the priest shall take of the blood of the sin offering with his finger, and put it upon the horns of the altar of burnt offering, and shall pour out his blood at the bottom of the altar of burnt offering."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "2822",
-      "text" : "And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him.",
-      "plainText" : "And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "2822",
+      "text": "And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him.",
+      "plainText": "And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "2823",
-      "text" : "And if any one of the common people sin through ignorance, while he doeth <span class='extra'>somewhat against<\/span> any of the commandments of the <span class='nog'>LORD<\/span> <span class='extra'>concerning things<\/span> which ought not to be done, and be guilty;",
-      "plainText" : "And if any one of the common people sin through ignorance, while he doeth somewhat against any of the commandments of the LORD concerning things which ought not to be done, and be guilty;"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "2823",
+      "text": "And if any one of the common people sin through ignorance, while he doeth <span class='extra'>somewhat against</span> any of the commandments of the <span class='nog'>LORD</span> <span class='extra'>concerning things</span> which ought not to be done, and be guilty;",
+      "plainText": "And if any one of the common people sin through ignorance, while he doeth somewhat against any of the commandments of the LORD concerning things which ought not to be done, and be guilty;"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "2824",
-      "text" : "Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned.",
-      "plainText" : "Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "2824",
+      "text": "Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned.",
+      "plainText": "Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "2825",
-      "text" : "And he shall lay his hand upon the head of the sin offering, and slay the sin offering in the place of the burnt offering.",
-      "plainText" : "And he shall lay his hand upon the head of the sin offering, and slay the sin offering in the place of the burnt offering."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "2825",
+      "text": "And he shall lay his hand upon the head of the sin offering, and slay the sin offering in the place of the burnt offering.",
+      "plainText": "And he shall lay his hand upon the head of the sin offering, and slay the sin offering in the place of the burnt offering."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "2826",
-      "text" : "And the priest shall take of the blood thereof with his finger, and put <span class='extra'>it<\/span> upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar.",
-      "plainText" : "And the priest shall take of the blood thereof with his finger, and put it upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "2826",
+      "text": "And the priest shall take of the blood thereof with his finger, and put <span class='extra'>it</span> upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar.",
+      "plainText": "And the priest shall take of the blood thereof with his finger, and put it upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "2827",
-      "text" : "And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings; and the priest shall burn <span class='extra'>it<\/span> upon the altar for a sweet savour unto the <span class='nog'>LORD<\/span>; and the priest shall make an atonement for him, and it shall be forgiven him.",
-      "plainText" : "And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings; and the priest shall burn it upon the altar for a sweet savour unto the LORD; and the priest shall make an atonement for him, and it shall be forgiven him."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "2827",
+      "text": "And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings; and the priest shall burn <span class='extra'>it</span> upon the altar for a sweet savour unto the <span class='nog'>LORD</span>; and the priest shall make an atonement for him, and it shall be forgiven him.",
+      "plainText": "And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings; and the priest shall burn it upon the altar for a sweet savour unto the LORD; and the priest shall make an atonement for him, and it shall be forgiven him."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "2828",
-      "text" : "And if he bring a lamb for a sin offering, he shall bring it a female without blemish.",
-      "plainText" : "And if he bring a lamb for a sin offering, he shall bring it a female without blemish."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "2828",
+      "text": "And if he bring a lamb for a sin offering, he shall bring it a female without blemish.",
+      "plainText": "And if he bring a lamb for a sin offering, he shall bring it a female without blemish."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "2829",
-      "text" : "And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering.",
-      "plainText" : "And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "2829",
+      "text": "And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering.",
+      "plainText": "And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "2830",
-      "text" : "And the priest shall take of the blood of the sin offering with his finger, and put <span class='extra'>it<\/span> upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar:",
-      "plainText" : "And the priest shall take of the blood of the sin offering with his finger, and put it upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar:"
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "2830",
+      "text": "And the priest shall take of the blood of the sin offering with his finger, and put <span class='extra'>it</span> upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar:",
+      "plainText": "And the priest shall take of the blood of the sin offering with his finger, and put it upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar:"
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "2831",
-      "text" : "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the <span class='nog'>LORD<\/span>: and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him.",
-      "plainText" : "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the LORD: and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him."
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "2831",
+      "text": "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the <span class='nog'>LORD</span>: and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him.",
+      "plainText": "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the LORD: and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him."
     }
   ]
 }
-
-

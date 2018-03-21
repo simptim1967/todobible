@@ -1,370 +1,333 @@
 {
   "book": {
-    "number" : "1",
-    "filenamePrefix" : "genesis",
-    "bookPage" : "genesis.html",
-    "title" : "Genesis",
-    "chapterCount" : "50",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "exodus_1.html",
-    "nextTitle" : "Exodus",
-    "prevBook" : "revelation_1.html",
-    "prevTitle" : "Revelation"
+    "number": "1",
+    "filenamePrefix": "genesis",
+    "bookPage": "genesis.html",
+    "title": "Genesis",
+    "chapterCount": "50",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "exodus_1.html",
+    "nextTitle": "Exodus",
+    "prevBook": "revelation_1.html",
+    "prevTitle": "Revelation",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "42",
-    "verseCount" : "38",
-    "nextChapter" : "genesis_43.html",
-    "nextTitle" : "Genesis 43",
-    "prevChapter" : "genesis_41.html",
-    "prevTitle" : "Genesis 41",
-    "filename" : "genesis_42.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "42",
+    "verseCount": "38",
+    "nextChapter": "genesis_43.html",
+    "nextTitle": "Genesis 43",
+    "prevChapter": "genesis_41.html",
+    "prevTitle": "Genesis 41",
+    "filename": "genesis_42.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "1254",
-      "text" : "Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?",
-      "plainText" : "Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "1254",
+      "text": "Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?",
+      "plainText": "Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "1255",
-      "text" : "And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.",
-      "plainText" : "And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "1255",
+      "text": "And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.",
+      "plainText": "And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "1256",
-      "text" : "And Joseph's ten brethren went down to buy corn in Egypt.",
-      "plainText" : "And Joseph's ten brethren went down to buy corn in Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "1256",
+      "text": "And Joseph's ten brethren went down to buy corn in Egypt.",
+      "plainText": "And Joseph's ten brethren went down to buy corn in Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "1257",
-      "text" : "But Benjamin, Joseph's brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him.",
-      "plainText" : "But Benjamin, Joseph's brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "1257",
+      "text": "But Benjamin, Joseph's brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him.",
+      "plainText": "But Benjamin, Joseph's brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "1258",
-      "text" : "And the sons of Israel came to buy <span class='extra'>corn<\/span> among those that came: for the famine was in the land of Canaan.",
-      "plainText" : "And the sons of Israel came to buy corn among those that came: for the famine was in the land of Canaan."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "1258",
+      "text": "And the sons of Israel came to buy <span class='extra'>corn</span> among those that came: for the famine was in the land of Canaan.",
+      "plainText": "And the sons of Israel came to buy corn among those that came: for the famine was in the land of Canaan."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "1259",
-      "text" : "And Joseph <span class='extra'>was<\/span> the governor over the land, <span class='extra'>and<\/span> he <span class='extra'>it was<\/span> that sold to all the people of the land: and Joseph's brethren came, and bowed down themselves before him <span class='extra'>with<\/span> their faces to the earth.",
-      "plainText" : "And Joseph was the governor over the land, and he it was that sold to all the people of the land: and Joseph's brethren came, and bowed down themselves before him with their faces to the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "1259",
+      "text": "And Joseph <span class='extra'>was</span> the governor over the land, <span class='extra'>and</span> he <span class='extra'>it was</span> that sold to all the people of the land: and Joseph's brethren came, and bowed down themselves before him <span class='extra'>with</span> their faces to the earth.",
+      "plainText": "And Joseph was the governor over the land, and he it was that sold to all the people of the land: and Joseph's brethren came, and bowed down themselves before him with their faces to the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "1260",
-      "text" : "And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food.",
-      "plainText" : "And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "1260",
+      "text": "And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food.",
+      "plainText": "And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "1261",
-      "text" : "And Joseph knew his brethren, but they knew not him.",
-      "plainText" : "And Joseph knew his brethren, but they knew not him."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "1261",
+      "text": "And Joseph knew his brethren, but they knew not him.",
+      "plainText": "And Joseph knew his brethren, but they knew not him."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "1262",
-      "text" : "And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye <span class='extra'>are<\/span> spies; to see the nakedness of the land ye are come.",
-      "plainText" : "And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye are spies; to see the nakedness of the land ye are come."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "1262",
+      "text": "And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye <span class='extra'>are</span> spies; to see the nakedness of the land ye are come.",
+      "plainText": "And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye are spies; to see the nakedness of the land ye are come."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "1263",
-      "text" : "And they said unto him, Nay, my lord, but to buy food are thy servants come.",
-      "plainText" : "And they said unto him, Nay, my lord, but to buy food are thy servants come."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "1263",
+      "text": "And they said unto him, Nay, my lord, but to buy food are thy servants come.",
+      "plainText": "And they said unto him, Nay, my lord, but to buy food are thy servants come."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "1264",
-      "text" : "We <span class='extra'>are<\/span> all one man's sons; we <span class='extra'>are<\/span> true <span class='extra'>men<\/span>, thy servants are no spies.",
-      "plainText" : "We are all one man's sons; we are true men, thy servants are no spies."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "1264",
+      "text": "We <span class='extra'>are</span> all one man's sons; we <span class='extra'>are</span> true <span class='extra'>men</span>, thy servants are no spies.",
+      "plainText": "We are all one man's sons; we are true men, thy servants are no spies."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "1265",
-      "text" : "And he said unto them, Nay, but to see the nakedness of the land ye are come.",
-      "plainText" : "And he said unto them, Nay, but to see the nakedness of the land ye are come."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "1265",
+      "text": "And he said unto them, Nay, but to see the nakedness of the land ye are come.",
+      "plainText": "And he said unto them, Nay, but to see the nakedness of the land ye are come."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "1266",
-      "text" : "And they said, Thy servants <span class='extra'>are<\/span> twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest <span class='extra'>is<\/span> this day with our father, and one <span class='extra'>is<\/span> not.",
-      "plainText" : "And they said, Thy servants are twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest is this day with our father, and one is not."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "1266",
+      "text": "And they said, Thy servants <span class='extra'>are</span> twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest <span class='extra'>is</span> this day with our father, and one <span class='extra'>is</span> not.",
+      "plainText": "And they said, Thy servants are twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest is this day with our father, and one is not."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "1267",
-      "text" : "And Joseph said unto them, That <span class='extra'>is it<\/span> that I spake unto you, saying, Ye <span class='extra'>are<\/span> spies:",
-      "plainText" : "And Joseph said unto them, That is it that I spake unto you, saying, Ye are spies:"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "1267",
+      "text": "And Joseph said unto them, That <span class='extra'>is it</span> that I spake unto you, saying, Ye <span class='extra'>are</span> spies:",
+      "plainText": "And Joseph said unto them, That is it that I spake unto you, saying, Ye are spies:"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "1268",
-      "text" : "Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither.",
-      "plainText" : "Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "1268",
+      "text": "Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither.",
+      "plainText": "Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "1269",
-      "text" : "Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether <span class='extra'>there be any<\/span> truth in you: or else by the life of Pharaoh surely ye <span class='extra'>are<\/span> spies.",
-      "plainText" : "Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether there be any truth in you: or else by the life of Pharaoh surely ye are spies."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "1269",
+      "text": "Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether <span class='extra'>there be any</span> truth in you: or else by the life of Pharaoh surely ye <span class='extra'>are</span> spies.",
+      "plainText": "Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether there be any truth in you: or else by the life of Pharaoh surely ye are spies."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "1270",
-      "text" : "And he put them all together into ward three days.",
-      "plainText" : "And he put them all together into ward three days."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "1270",
+      "text": "And he put them all together into ward three days.",
+      "plainText": "And he put them all together into ward three days."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "1271",
-      "text" : "And Joseph said unto them the third day, This do, and live; <span class='extra'>for<\/span> I fear God:",
-      "plainText" : "And Joseph said unto them the third day, This do, and live; for I fear God:"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "1271",
+      "text": "And Joseph said unto them the third day, This do, and live; <span class='extra'>for</span> I fear God:",
+      "plainText": "And Joseph said unto them the third day, This do, and live; for I fear God:"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "1272",
-      "text" : "If ye <span class='extra'>be<\/span> true <span class='extra'>men<\/span>, let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:",
-      "plainText" : "If ye be true men, let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "1272",
+      "text": "If ye <span class='extra'>be</span> true <span class='extra'>men</span>, let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:",
+      "plainText": "If ye be true men, let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "1273",
-      "text" : "But bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so.",
-      "plainText" : "But bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "1273",
+      "text": "But bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so.",
+      "plainText": "But bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "1274",
-      "text" : "And they said one to another, We <span class='extra'>are<\/span> verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us.",
-      "plainText" : "And they said one to another, We are verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "1274",
+      "text": "And they said one to another, We <span class='extra'>are</span> verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us.",
+      "plainText": "And they said one to another, We are verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "1275",
-      "text" : "And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood is required.",
-      "plainText" : "And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood is required."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "1275",
+      "text": "And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood is required.",
+      "plainText": "And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood is required."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "1276",
-      "text" : "And they knew not that Joseph understood <span class='extra'>them<\/span>; for he spake unto them by an interpreter.",
-      "plainText" : "And they knew not that Joseph understood them; for he spake unto them by an interpreter."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "1276",
+      "text": "And they knew not that Joseph understood <span class='extra'>them</span>; for he spake unto them by an interpreter.",
+      "plainText": "And they knew not that Joseph understood them; for he spake unto them by an interpreter."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "1277",
-      "text" : "And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes.",
-      "plainText" : "And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "1277",
+      "text": "And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes.",
+      "plainText": "And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "1278",
-      "text" : "Then Joseph commanded to fill their sacks with corn, and to restore every man's money into his sack, and to give them provision for the way: and thus did he unto them.",
-      "plainText" : "Then Joseph commanded to fill their sacks with corn, and to restore every man's money into his sack, and to give them provision for the way: and thus did he unto them."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "1278",
+      "text": "Then Joseph commanded to fill their sacks with corn, and to restore every man's money into his sack, and to give them provision for the way: and thus did he unto them.",
+      "plainText": "Then Joseph commanded to fill their sacks with corn, and to restore every man's money into his sack, and to give them provision for the way: and thus did he unto them."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "1279",
-      "text" : "And they laded their asses with the corn, and departed thence.",
-      "plainText" : "And they laded their asses with the corn, and departed thence."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "1279",
+      "text": "And they laded their asses with the corn, and departed thence.",
+      "plainText": "And they laded their asses with the corn, and departed thence."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "1280",
-      "text" : "And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it <span class='extra'>was<\/span> in his sack's mouth.",
-      "plainText" : "And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it was in his sack's mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "1280",
+      "text": "And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it <span class='extra'>was</span> in his sack's mouth.",
+      "plainText": "And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it was in his sack's mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "1281",
-      "text" : "And he said unto his brethren, My money is restored; and, lo, <span class='extra'>it is<\/span> even in my sack: and their heart failed <span class='extra'>them<\/span>, and they were afraid, saying one to another, What <span class='extra'>is<\/span> this <span class='extra'>that<\/span> God hath done unto us?",
-      "plainText" : "And he said unto his brethren, My money is restored; and, lo, it is even in my sack: and their heart failed them, and they were afraid, saying one to another, What is this that God hath done unto us?"
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "1281",
+      "text": "And he said unto his brethren, My money is restored; and, lo, <span class='extra'>it is</span> even in my sack: and their heart failed <span class='extra'>them</span>, and they were afraid, saying one to another, What <span class='extra'>is</span> this <span class='extra'>that</span> God hath done unto us?",
+      "plainText": "And he said unto his brethren, My money is restored; and, lo, it is even in my sack: and their heart failed them, and they were afraid, saying one to another, What is this that God hath done unto us?"
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "1282",
-      "text" : "And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,",
-      "plainText" : "And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "1282",
+      "text": "And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,",
+      "plainText": "And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "1283",
-      "text" : "The man, <span class='extra'>who is<\/span> the lord of the land, spake roughly to us, and took us for spies of the country.",
-      "plainText" : "The man, who is the lord of the land, spake roughly to us, and took us for spies of the country."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "1283",
+      "text": "The man, <span class='extra'>who is</span> the lord of the land, spake roughly to us, and took us for spies of the country.",
+      "plainText": "The man, who is the lord of the land, spake roughly to us, and took us for spies of the country."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "1284",
-      "text" : "And we said unto him, We <span class='extra'>are<\/span> true <span class='extra'>men<\/span>; we are no spies:",
-      "plainText" : "And we said unto him, We are true men; we are no spies:"
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "1284",
+      "text": "And we said unto him, We <span class='extra'>are</span> true <span class='extra'>men</span>; we are no spies:",
+      "plainText": "And we said unto him, We are true men; we are no spies:"
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "1285",
-      "text" : "We <span class='extra'>be<\/span> twelve brethren, sons of our father; one <span class='extra'>is<\/span> not, and the youngest <span class='extra'>is<\/span> this day with our father in the land of Canaan.",
-      "plainText" : "We be twelve brethren, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "1285",
+      "text": "We <span class='extra'>be</span> twelve brethren, sons of our father; one <span class='extra'>is</span> not, and the youngest <span class='extra'>is</span> this day with our father in the land of Canaan.",
+      "plainText": "We be twelve brethren, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "1286",
-      "text" : "And the man, the lord of the country, said unto us, Hereby shall I know that ye <span class='extra'>are<\/span> true <span class='extra'>men<\/span>; leave one of your brethren <span class='extra'>here<\/span> with me, and take <span class='extra'>food for<\/span> the famine of your households, and be gone:",
-      "plainText" : "And the man, the lord of the country, said unto us, Hereby shall I know that ye are true men; leave one of your brethren here with me, and take food for the famine of your households, and be gone:"
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "1286",
+      "text": "And the man, the lord of the country, said unto us, Hereby shall I know that ye <span class='extra'>are</span> true <span class='extra'>men</span>; leave one of your brethren <span class='extra'>here</span> with me, and take <span class='extra'>food for</span> the famine of your households, and be gone:",
+      "plainText": "And the man, the lord of the country, said unto us, Hereby shall I know that ye are true men; leave one of your brethren here with me, and take food for the famine of your households, and be gone:"
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "1287",
-      "text" : "And bring your youngest brother unto me: then shall I know that ye <span class='extra'>are<\/span> no spies, but <span class='extra'>that<\/span> ye <span class='extra'>are<\/span> true <span class='extra'>men: so<\/span> will I deliver you your brother, and ye shall traffick in the land.",
-      "plainText" : "And bring your youngest brother unto me: then shall I know that ye are no spies, but that ye are true men: so will I deliver you your brother, and ye shall traffick in the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "1287",
+      "text": "And bring your youngest brother unto me: then shall I know that ye <span class='extra'>are</span> no spies, but <span class='extra'>that</span> ye <span class='extra'>are</span> true <span class='extra'>men: so</span> will I deliver you your brother, and ye shall traffick in the land.",
+      "plainText": "And bring your youngest brother unto me: then shall I know that ye are no spies, but that ye are true men: so will I deliver you your brother, and ye shall traffick in the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "1288",
-      "text" : "And it came to pass as they emptied their sacks, that, behold, every man's bundle of money <span class='extra'>was<\/span> in his sack: and when <span class='extra'>both<\/span> they and their father saw the bundles of money, they were afraid.",
-      "plainText" : "And it came to pass as they emptied their sacks, that, behold, every man's bundle of money was in his sack: and when both they and their father saw the bundles of money, they were afraid."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "1288",
+      "text": "And it came to pass as they emptied their sacks, that, behold, every man's bundle of money <span class='extra'>was</span> in his sack: and when <span class='extra'>both</span> they and their father saw the bundles of money, they were afraid.",
+      "plainText": "And it came to pass as they emptied their sacks, that, behold, every man's bundle of money was in his sack: and when both they and their father saw the bundles of money, they were afraid."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "1289",
-      "text" : "And Jacob their father said unto them, Me have ye bereaved <span class='extra'>of my children<\/span>: Joseph <span class='extra'>is<\/span> not, and Simeon <span class='extra'>is<\/span> not, and ye will take Benjamin <span class='extra'>away<\/span>: all these things are against me.",
-      "plainText" : "And Jacob their father said unto them, Me have ye bereaved of my children: Joseph is not, and Simeon is not, and ye will take Benjamin away: all these things are against me."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "1289",
+      "text": "And Jacob their father said unto them, Me have ye bereaved <span class='extra'>of my children</span>: Joseph <span class='extra'>is</span> not, and Simeon <span class='extra'>is</span> not, and ye will take Benjamin <span class='extra'>away</span>: all these things are against me.",
+      "plainText": "And Jacob their father said unto them, Me have ye bereaved of my children: Joseph is not, and Simeon is not, and ye will take Benjamin away: all these things are against me."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "1290",
-      "text" : "And Reuben spake unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again.",
-      "plainText" : "And Reuben spake unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "1290",
+      "text": "And Reuben spake unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again.",
+      "plainText": "And Reuben spake unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "1291",
-      "text" : "And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave.",
-      "plainText" : "And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave."
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "1291",
+      "text": "And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave.",
+      "plainText": "And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave."
     }
   ]
 }
-

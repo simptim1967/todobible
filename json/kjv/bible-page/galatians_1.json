@@ -1,244 +1,221 @@
 {
   "book": {
-    "number" : "48",
-    "filenamePrefix" : "galatians",
-    "bookPage" : "galatians.html",
-    "title" : "Galatians",
-    "chapterCount" : "6",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "ephesians_1.html",
-    "nextTitle" : "Ephesians",
-    "prevBook" : "2corinthians_1.html",
-    "prevTitle" : "2 Corinthians"
+    "number": "48",
+    "filenamePrefix": "galatians",
+    "bookPage": "galatians.html",
+    "title": "Galatians",
+    "chapterCount": "6",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "ephesians_1.html",
+    "nextTitle": "Ephesians",
+    "prevBook": "2corinthians_1.html",
+    "prevTitle": "2 Corinthians",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "1",
-    "verseCount" : "24",
-    "nextChapter" : "galatians_2.html",
-    "nextTitle" : "Galatians 2",
-    "prevChapter" : "2corinthians_13.html",
-    "prevTitle" : "2 Corinthians 13",
-    "filename" : "galatians_1.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "1",
+    "verseCount": "24",
+    "nextChapter": "galatians_2.html",
+    "nextTitle": "Galatians 2",
+    "prevChapter": "2corinthians_13.html",
+    "prevTitle": "2 Corinthians 13",
+    "filename": "galatians_1.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "29059",
-      "text" : "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)",
-      "plainText" : "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "29059",
+      "text": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)",
+      "plainText": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "29060",
-      "text" : "And all the brethren which are with me, unto the churches of Galatia:",
-      "plainText" : "And all the brethren which are with me, unto the churches of Galatia:"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "29060",
+      "text": "And all the brethren which are with me, unto the churches of Galatia:",
+      "plainText": "And all the brethren which are with me, unto the churches of Galatia:"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "29061",
-      "text" : "Grace <span class='extra'>be<\/span> to you and peace from God the Father, and <span class='extra'>from<\/span> our Lord Jesus Christ,",
-      "plainText" : "Grace be to you and peace from God the Father, and from our Lord Jesus Christ,"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "29061",
+      "text": "Grace <span class='extra'>be</span> to you and peace from God the Father, and <span class='extra'>from</span> our Lord Jesus Christ,",
+      "plainText": "Grace be to you and peace from God the Father, and from our Lord Jesus Christ,"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "29062",
-      "text" : "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:",
-      "plainText" : "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "29062",
+      "text": "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:",
+      "plainText": "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "29063",
-      "text" : "To whom <span class='extra'>be<\/span> glory for ever and ever. Amen.",
-      "plainText" : "To whom be glory for ever and ever. Amen."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "29063",
+      "text": "To whom <span class='extra'>be</span> glory for ever and ever. Amen.",
+      "plainText": "To whom be glory for ever and ever. Amen."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "29064",
-      "text" : "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:",
-      "plainText" : "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "29064",
+      "text": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:",
+      "plainText": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "29065",
-      "text" : "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.",
-      "plainText" : "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "29065",
+      "text": "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.",
+      "plainText": "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "29066",
-      "text" : "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.",
-      "plainText" : "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "29066",
+      "text": "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.",
+      "plainText": "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "29067",
-      "text" : "As we said before, so say I now again, If any <span class='extra'>man<\/span> preach any other gospel unto you than that ye have received, let him be accursed.",
-      "plainText" : "As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "29067",
+      "text": "As we said before, so say I now again, If any <span class='extra'>man</span> preach any other gospel unto you than that ye have received, let him be accursed.",
+      "plainText": "As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "29068",
-      "text" : "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.",
-      "plainText" : "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "29068",
+      "text": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.",
+      "plainText": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "29069",
-      "text" : "But I certify you, brethren, that the gospel which was preached of me is not after man.",
-      "plainText" : "But I certify you, brethren, that the gospel which was preached of me is not after man."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "29069",
+      "text": "But I certify you, brethren, that the gospel which was preached of me is not after man.",
+      "plainText": "But I certify you, brethren, that the gospel which was preached of me is not after man."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "29070",
-      "text" : "For I neither received it of man, neither was I taught <span class='extra'>it<\/span>, but by the revelation of Jesus Christ.",
-      "plainText" : "For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "29070",
+      "text": "For I neither received it of man, neither was I taught <span class='extra'>it</span>, but by the revelation of Jesus Christ.",
+      "plainText": "For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "29071",
-      "text" : "For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:",
-      "plainText" : "For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "29071",
+      "text": "For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:",
+      "plainText": "For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "29072",
-      "text" : "And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.",
-      "plainText" : "And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "29072",
+      "text": "And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.",
+      "plainText": "And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "29073",
-      "text" : "But when it pleased God, who separated me from my mother's womb, and called <span class='extra'>me<\/span> by his grace,",
-      "plainText" : "But when it pleased God, who separated me from my mother's womb, and called me by his grace,"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "29073",
+      "text": "But when it pleased God, who separated me from my mother's womb, and called <span class='extra'>me</span> by his grace,",
+      "plainText": "But when it pleased God, who separated me from my mother's womb, and called me by his grace,"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "29074",
-      "text" : "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:",
-      "plainText" : "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "29074",
+      "text": "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:",
+      "plainText": "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "29075",
-      "text" : "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.",
-      "plainText" : "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "29075",
+      "text": "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.",
+      "plainText": "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "29076",
-      "text" : "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.",
-      "plainText" : "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "29076",
+      "text": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.",
+      "plainText": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "29077",
-      "text" : "But other of the apostles saw I none, save James the Lord's brother.",
-      "plainText" : "But other of the apostles saw I none, save James the Lord's brother."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "29077",
+      "text": "But other of the apostles saw I none, save James the Lord's brother.",
+      "plainText": "But other of the apostles saw I none, save James the Lord's brother."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "29078",
-      "text" : "Now the things which I write unto you, behold, before God, I lie not.",
-      "plainText" : "Now the things which I write unto you, behold, before God, I lie not."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "29078",
+      "text": "Now the things which I write unto you, behold, before God, I lie not.",
+      "plainText": "Now the things which I write unto you, behold, before God, I lie not."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "29079",
-      "text" : "Afterwards I came into the regions of Syria and Cilicia;",
-      "plainText" : "Afterwards I came into the regions of Syria and Cilicia;"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "29079",
+      "text": "Afterwards I came into the regions of Syria and Cilicia;",
+      "plainText": "Afterwards I came into the regions of Syria and Cilicia;"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "29080",
-      "text" : "And was unknown by face unto the churches of Judaea which were in Christ:",
-      "plainText" : "And was unknown by face unto the churches of Judaea which were in Christ:"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "29080",
+      "text": "And was unknown by face unto the churches of Judaea which were in Christ:",
+      "plainText": "And was unknown by face unto the churches of Judaea which were in Christ:"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "29081",
-      "text" : "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.",
-      "plainText" : "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "29081",
+      "text": "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.",
+      "plainText": "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "29082",
-      "text" : "And they glorified God in me.",
-      "plainText" : "And they glorified God in me."
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "29082",
+      "text": "And they glorified God in me.",
+      "plainText": "And they glorified God in me."
     }
   ]
 }
-

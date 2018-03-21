@@ -1,135 +1,123 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "46",
-    "verseCount" : "11",
-    "nextChapter" : "psalms_47.html",
-    "nextTitle" : "Psalms 47",
-    "prevChapter" : "psalms_45.html",
-    "prevTitle" : "Psalms 45",
-    "filename" : "psalms_46.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "46",
+    "verseCount": "11",
+    "nextChapter": "psalms_47.html",
+    "nextTitle": "Psalms 47",
+    "prevChapter": "psalms_45.html",
+    "prevTitle": "Psalms 45",
+    "filename": "psalms_46.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "To the chief Musician for the sons of Korah, A Song upon Alamoth.",
-      "plainText" : "To the chief Musician for the sons of Korah, A Song upon Alamoth."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "To the chief Musician for the sons of Korah, A Song upon Alamoth.",
+      "plainText": "To the chief Musician for the sons of Korah, A Song upon Alamoth."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14616",
-      "text" : "God <span class='extra'>is<\/span> our refuge and strength, a very present help in trouble.",
-      "plainText" : "God is our refuge and strength, a very present help in trouble."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14616",
+      "text": "God <span class='extra'>is</span> our refuge and strength, a very present help in trouble.",
+      "plainText": "God is our refuge and strength, a very present help in trouble."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14617",
-      "text" : "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;",
-      "plainText" : "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14617",
+      "text": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;",
+      "plainText": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14618",
-      "text" : "<span class='extra'>Though<\/span> the waters thereof roar <span class='extra'>and<\/span> be troubled, <span class='extra'>though<\/span> the mountains shake with the swelling thereof. Selah.",
-      "plainText" : "Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14618",
+      "text": "<span class='extra'>Though</span> the waters thereof roar <span class='extra'>and</span> be troubled, <span class='extra'>though</span> the mountains shake with the swelling thereof. Selah.",
+      "plainText": "Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14619",
-      "text" : "<span class='extra'>There is<\/span> a river, the streams whereof shall make glad the city of God, the holy <span class='extra'>place<\/span> of the tabernacles of the most High.",
-      "plainText" : "There is a river, the streams whereof shall make glad the city of God, the holy place of the tabernacles of the most High."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14619",
+      "text": "<span class='extra'>There is</span> a river, the streams whereof shall make glad the city of God, the holy <span class='extra'>place</span> of the tabernacles of the most High.",
+      "plainText": "There is a river, the streams whereof shall make glad the city of God, the holy place of the tabernacles of the most High."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14620",
-      "text" : "God <span class='extra'>is<\/span> in the midst of her; she shall not be moved: God shall help her, <span class='extra'>and that<\/span> right early.",
-      "plainText" : "God is in the midst of her; she shall not be moved: God shall help her, and that right early."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14620",
+      "text": "God <span class='extra'>is</span> in the midst of her; she shall not be moved: God shall help her, <span class='extra'>and that</span> right early.",
+      "plainText": "God is in the midst of her; she shall not be moved: God shall help her, and that right early."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14621",
-      "text" : "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.",
-      "plainText" : "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14621",
+      "text": "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.",
+      "plainText": "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14622",
-      "text" : "The <span class='nog'>LORD<\/span> of hosts <span class='extra'>is<\/span> with us; the God of Jacob <span class='extra'>is<\/span> our refuge. Selah.",
-      "plainText" : "The LORD of hosts is with us; the God of Jacob is our refuge. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14622",
+      "text": "The <span class='nog'>LORD</span> of hosts <span class='extra'>is</span> with us; the God of Jacob <span class='extra'>is</span> our refuge. Selah.",
+      "plainText": "The LORD of hosts is with us; the God of Jacob is our refuge. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14623",
-      "text" : "Come, behold the works of the <span class='nog'>LORD<\/span>, what desolations he hath made in the earth.",
-      "plainText" : "Come, behold the works of the LORD, what desolations he hath made in the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14623",
+      "text": "Come, behold the works of the <span class='nog'>LORD</span>, what desolations he hath made in the earth.",
+      "plainText": "Come, behold the works of the LORD, what desolations he hath made in the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14624",
-      "text" : "He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.",
-      "plainText" : "He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14624",
+      "text": "He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.",
+      "plainText": "He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "14625",
-      "text" : "Be still, and know that I <span class='extra'>am<\/span> God: I will be exalted among the heathen, I will be exalted in the earth.",
-      "plainText" : "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "14625",
+      "text": "Be still, and know that I <span class='extra'>am</span> God: I will be exalted among the heathen, I will be exalted in the earth.",
+      "plainText": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "14626",
-      "text" : "The <span class='nog'>LORD<\/span> of hosts <span class='extra'>is<\/span> with us; the God of Jacob <span class='extra'>is<\/span> our refuge. Selah.",
-      "plainText" : "The LORD of hosts is with us; the God of Jacob is our refuge. Selah."
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "14626",
+      "text": "The <span class='nog'>LORD</span> of hosts <span class='extra'>is</span> with us; the God of Jacob <span class='extra'>is</span> our refuge. Selah.",
+      "plainText": "The LORD of hosts is with us; the God of Jacob is our refuge. Selah."
     }
   ]
 }
-
-

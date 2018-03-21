@@ -1,163 +1,149 @@
 {
   "book": {
-    "number" : "56",
-    "filenamePrefix" : "titus",
-    "bookPage" : "titus.html",
-    "title" : "Titus",
-    "chapterCount" : "3",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "philemon_1.html",
-    "nextTitle" : "Philemon",
-    "prevBook" : "2timothy_1.html",
-    "prevTitle" : "2 Timothy"
+    "number": "56",
+    "filenamePrefix": "titus",
+    "bookPage": "titus.html",
+    "title": "Titus",
+    "chapterCount": "3",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "philemon_1.html",
+    "nextTitle": "Philemon",
+    "prevBook": "2timothy_1.html",
+    "prevTitle": "2 Timothy",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "3",
-    "verseCount" : "15",
-    "nextChapter" : "philemon_1.html",
-    "nextTitle" : "Philemon 1",
-    "prevChapter" : "titus_2.html",
-    "prevTitle" : "Titus 2",
-    "filename" : "titus_3.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "3",
+    "verseCount": "15",
+    "nextChapter": "philemon_1.html",
+    "nextTitle": "Philemon 1",
+    "prevChapter": "titus_2.html",
+    "prevTitle": "Titus 2",
+    "filename": "titus_3.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "29925",
-      "text" : "Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,",
-      "plainText" : "Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "29925",
+      "text": "Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,",
+      "plainText": "Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "29926",
-      "text" : "To speak evil of no man, to be no brawlers, <span class='extra'>but<\/span> gentle, shewing all meekness unto all men.",
-      "plainText" : "To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "29926",
+      "text": "To speak evil of no man, to be no brawlers, <span class='extra'>but</span> gentle, shewing all meekness unto all men.",
+      "plainText": "To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "29927",
-      "text" : "For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, <span class='extra'>and<\/span> hating one another.",
-      "plainText" : "For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "29927",
+      "text": "For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, <span class='extra'>and</span> hating one another.",
+      "plainText": "For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "29928",
-      "text" : "But after that the kindness and love of God our Saviour toward man appeared,",
-      "plainText" : "But after that the kindness and love of God our Saviour toward man appeared,"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "29928",
+      "text": "But after that the kindness and love of God our Saviour toward man appeared,",
+      "plainText": "But after that the kindness and love of God our Saviour toward man appeared,"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "29929",
-      "text" : "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;",
-      "plainText" : "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "29929",
+      "text": "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;",
+      "plainText": "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "29930",
-      "text" : "Which he shed on us abundantly through Jesus Christ our Saviour;",
-      "plainText" : "Which he shed on us abundantly through Jesus Christ our Saviour;"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "29930",
+      "text": "Which he shed on us abundantly through Jesus Christ our Saviour;",
+      "plainText": "Which he shed on us abundantly through Jesus Christ our Saviour;"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "29931",
-      "text" : "That being justified by his grace, we should be made heirs according to the hope of eternal life.",
-      "plainText" : "That being justified by his grace, we should be made heirs according to the hope of eternal life."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "29931",
+      "text": "That being justified by his grace, we should be made heirs according to the hope of eternal life.",
+      "plainText": "That being justified by his grace, we should be made heirs according to the hope of eternal life."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "29932",
-      "text" : "<span class='extra'>This is<\/span> a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men.",
-      "plainText" : "This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "29932",
+      "text": "<span class='extra'>This is</span> a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men.",
+      "plainText": "This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "29933",
-      "text" : "But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.",
-      "plainText" : "But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "29933",
+      "text": "But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.",
+      "plainText": "But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "29934",
-      "text" : "A man that is an heretick after the first and second admonition reject;",
-      "plainText" : "A man that is an heretick after the first and second admonition reject;"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "29934",
+      "text": "A man that is an heretick after the first and second admonition reject;",
+      "plainText": "A man that is an heretick after the first and second admonition reject;"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "29935",
-      "text" : "Knowing that he that is such is subverted, and sinneth, being condemned of himself.",
-      "plainText" : "Knowing that he that is such is subverted, and sinneth, being condemned of himself."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "29935",
+      "text": "Knowing that he that is such is subverted, and sinneth, being condemned of himself.",
+      "plainText": "Knowing that he that is such is subverted, and sinneth, being condemned of himself."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "29936",
-      "text" : "When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter.",
-      "plainText" : "When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "29936",
+      "text": "When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter.",
+      "plainText": "When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "29937",
-      "text" : "Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them.",
-      "plainText" : "Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "29937",
+      "text": "Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them.",
+      "plainText": "Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "29938",
-      "text" : "And let ours also learn to maintain good works for necessary uses, that they be not unfruitful.",
-      "plainText" : "And let ours also learn to maintain good works for necessary uses, that they be not unfruitful."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "29938",
+      "text": "And let ours also learn to maintain good works for necessary uses, that they be not unfruitful.",
+      "plainText": "And let ours also learn to maintain good works for necessary uses, that they be not unfruitful."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "29939",
-      "text" : "All that are with me salute thee. Greet them that love us in the faith. Grace <span class='extra'>be<\/span> with you all. Amen.",
-      "plainText" : "All that are with me salute thee. Greet them that love us in the faith. Grace be with you all. Amen."
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "29939",
+      "text": "All that are with me salute thee. Greet them that love us in the faith. Grace <span class='extra'>be</span> with you all. Amen.",
+      "plainText": "All that are with me salute thee. Greet them that love us in the faith. Grace be with you all. Amen."
     }
   ]
 }
-

@@ -1,154 +1,139 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "140",
-    "verseCount" : "13",
-    "nextChapter" : "psalms_141.html",
-    "nextTitle" : "Psalms 141",
-    "prevChapter" : "psalms_139.html",
-    "prevTitle" : "Psalms 139",
-    "filename" : "psalms_140.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "140",
+    "verseCount": "13",
+    "nextChapter": "psalms_141.html",
+    "nextTitle": "Psalms 141",
+    "prevChapter": "psalms_139.html",
+    "prevTitle": "Psalms 139",
+    "filename": "psalms_140.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "To the chief Musician, A Psalm of David.",
-      "plainText" : "To the chief Musician, A Psalm of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "To the chief Musician, A Psalm of David.",
+      "plainText": "To the chief Musician, A Psalm of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16265",
-      "text" : "Deliver me, O <span class='nog'>LORD<\/span>, from the evil man: preserve me from the violent man;",
-      "plainText" : "Deliver me, O LORD, from the evil man: preserve me from the violent man;"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16265",
+      "text": "Deliver me, O <span class='nog'>LORD</span>, from the evil man: preserve me from the violent man;",
+      "plainText": "Deliver me, O LORD, from the evil man: preserve me from the violent man;"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16266",
-      "text" : "Which imagine mischiefs in <span class='extra'>their<\/span> heart; continually are they gathered together <span class='extra'>for<\/span> war.",
-      "plainText" : "Which imagine mischiefs in their heart; continually are they gathered together for war."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16266",
+      "text": "Which imagine mischiefs in <span class='extra'>their</span> heart; continually are they gathered together <span class='extra'>for</span> war.",
+      "plainText": "Which imagine mischiefs in their heart; continually are they gathered together for war."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16267",
-      "text" : "They have sharpened their tongues like a serpent; adders' poison <span class='extra'>is<\/span> under their lips. Selah.",
-      "plainText" : "They have sharpened their tongues like a serpent; adders' poison is under their lips. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16267",
+      "text": "They have sharpened their tongues like a serpent; adders' poison <span class='extra'>is</span> under their lips. Selah.",
+      "plainText": "They have sharpened their tongues like a serpent; adders' poison is under their lips. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "16268",
-      "text" : "Keep me, O <span class='nog'>LORD<\/span>, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.",
-      "plainText" : "Keep me, O LORD, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "16268",
+      "text": "Keep me, O <span class='nog'>LORD</span>, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.",
+      "plainText": "Keep me, O LORD, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "16269",
-      "text" : "The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.",
-      "plainText" : "The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "16269",
+      "text": "The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.",
+      "plainText": "The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "16270",
-      "text" : "I said unto the <span class='nog'>LORD<\/span>, Thou <span class='extra'>art<\/span> my God: hear the voice of my supplications, O <span class='nog'>LORD<\/span>.",
-      "plainText" : "I said unto the LORD, Thou art my God: hear the voice of my supplications, O LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "16270",
+      "text": "I said unto the <span class='nog'>LORD</span>, Thou <span class='extra'>art</span> my God: hear the voice of my supplications, O <span class='nog'>LORD</span>.",
+      "plainText": "I said unto the LORD, Thou art my God: hear the voice of my supplications, O LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "16271",
-      "text" : "O <span class='nog'>GOD<\/span> the Lord, the strength of my salvation, thou hast covered my head in the day of battle.",
-      "plainText" : "O GOD the Lord, the strength of my salvation, thou hast covered my head in the day of battle."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "16271",
+      "text": "O <span class='nog'>GOD</span> the Lord, the strength of my salvation, thou hast covered my head in the day of battle.",
+      "plainText": "O GOD the Lord, the strength of my salvation, thou hast covered my head in the day of battle."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "16272",
-      "text" : "Grant not, O <span class='nog'>LORD<\/span>, the desires of the wicked: further not his wicked device; <span class='extra'>lest<\/span> they exalt themselves. Selah.",
-      "plainText" : "Grant not, O LORD, the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "16272",
+      "text": "Grant not, O <span class='nog'>LORD</span>, the desires of the wicked: further not his wicked device; <span class='extra'>lest</span> they exalt themselves. Selah.",
+      "plainText": "Grant not, O LORD, the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "16273",
-      "text" : "<span class='extra'>As for<\/span> the head of those that compass me about, let the mischief of their own lips cover them.",
-      "plainText" : "As for the head of those that compass me about, let the mischief of their own lips cover them."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "16273",
+      "text": "<span class='extra'>As for</span> the head of those that compass me about, let the mischief of their own lips cover them.",
+      "plainText": "As for the head of those that compass me about, let the mischief of their own lips cover them."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "16274",
-      "text" : "Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again.",
-      "plainText" : "Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "16274",
+      "text": "Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again.",
+      "plainText": "Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "16275",
-      "text" : "Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow <span class='extra'>him<\/span>.",
-      "plainText" : "Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow him."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "16275",
+      "text": "Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow <span class='extra'>him</span>.",
+      "plainText": "Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow him."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "16276",
-      "text" : "I know that the <span class='nog'>LORD<\/span> will maintain the cause of the afflicted, <span class='extra'>and<\/span> the right of the poor.",
-      "plainText" : "I know that the LORD will maintain the cause of the afflicted, and the right of the poor."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "16276",
+      "text": "I know that the <span class='nog'>LORD</span> will maintain the cause of the afflicted, <span class='extra'>and</span> the right of the poor.",
+      "plainText": "I know that the LORD will maintain the cause of the afflicted, and the right of the poor."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "16277",
-      "text" : "Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.",
-      "plainText" : "Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence."
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "16277",
+      "text": "Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.",
+      "plainText": "Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence."
     }
   ]
 }
-
-
-

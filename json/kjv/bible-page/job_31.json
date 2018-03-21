@@ -1,388 +1,349 @@
 {
   "book": {
-    "number" : "18",
-    "filenamePrefix" : "job",
-    "bookPage" : "job.html",
-    "title" : "Job",
-    "chapterCount" : "42",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "psalms_1.html",
-    "nextTitle" : "Psalms",
-    "prevBook" : "esther_1.html",
-    "prevTitle" : "Esther"
+    "number": "18",
+    "filenamePrefix": "job",
+    "bookPage": "job.html",
+    "title": "Job",
+    "chapterCount": "42",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "psalms_1.html",
+    "nextTitle": "Psalms",
+    "prevBook": "esther_1.html",
+    "prevTitle": "Esther",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "31",
-    "verseCount" : "40",
-    "nextChapter" : "job_32.html",
-    "nextTitle" : "Job 32",
-    "prevChapter" : "job_30.html",
-    "prevTitle" : "Job 30",
-    "filename" : "job_31.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "31",
+    "verseCount": "40",
+    "nextChapter": "job_32.html",
+    "nextTitle": "Job 32",
+    "prevChapter": "job_30.html",
+    "prevTitle": "Job 30",
+    "filename": "job_31.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "13590",
-      "text" : "I made a covenant with mine eyes; why then should I think upon a maid?",
-      "plainText" : "I made a covenant with mine eyes; why then should I think upon a maid?"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "13590",
+      "text": "I made a covenant with mine eyes; why then should I think upon a maid?",
+      "plainText": "I made a covenant with mine eyes; why then should I think upon a maid?"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "13591",
-      "text" : "For what portion of God <span class='extra'>is there<\/span> from above? and <span class='extra'>what<\/span> inheritance of the Almighty from on high?",
-      "plainText" : "For what portion of God is there from above? and what inheritance of the Almighty from on high?"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "13591",
+      "text": "For what portion of God <span class='extra'>is there</span> from above? and <span class='extra'>what</span> inheritance of the Almighty from on high?",
+      "plainText": "For what portion of God is there from above? and what inheritance of the Almighty from on high?"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "13592",
-      "text" : "<span class='extra'>Is<\/span> not destruction to the wicked? and a strange <span class='extra'>punishment<\/span> to the workers of iniquity?",
-      "plainText" : "Is not destruction to the wicked? and a strange punishment to the workers of iniquity?"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "13592",
+      "text": "<span class='extra'>Is</span> not destruction to the wicked? and a strange <span class='extra'>punishment</span> to the workers of iniquity?",
+      "plainText": "Is not destruction to the wicked? and a strange punishment to the workers of iniquity?"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "13593",
-      "text" : "Doth not he see my ways, and count all my steps?",
-      "plainText" : "Doth not he see my ways, and count all my steps?"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "13593",
+      "text": "Doth not he see my ways, and count all my steps?",
+      "plainText": "Doth not he see my ways, and count all my steps?"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "13594",
-      "text" : "If I have walked with vanity, or if my foot hath hasted to deceit;",
-      "plainText" : "If I have walked with vanity, or if my foot hath hasted to deceit;"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "13594",
+      "text": "If I have walked with vanity, or if my foot hath hasted to deceit;",
+      "plainText": "If I have walked with vanity, or if my foot hath hasted to deceit;"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "13595",
-      "text" : "Let me be weighed in an even balance, that God may know mine integrity.",
-      "plainText" : "Let me be weighed in an even balance, that God may know mine integrity."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "13595",
+      "text": "Let me be weighed in an even balance, that God may know mine integrity.",
+      "plainText": "Let me be weighed in an even balance, that God may know mine integrity."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "13596",
-      "text" : "If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;",
-      "plainText" : "If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "13596",
+      "text": "If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;",
+      "plainText": "If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "13597",
-      "text" : "<span class='extra'>Then<\/span> let me sow, and let another eat; yea, let my offspring be rooted out.",
-      "plainText" : "Then let me sow, and let another eat; yea, let my offspring be rooted out."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "13597",
+      "text": "<span class='extra'>Then</span> let me sow, and let another eat; yea, let my offspring be rooted out.",
+      "plainText": "Then let me sow, and let another eat; yea, let my offspring be rooted out."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "13598",
-      "text" : "If mine heart have been deceived by a woman, or <span class='extra'>if<\/span> I have laid wait at my neighbour's door;",
-      "plainText" : "If mine heart have been deceived by a woman, or if I have laid wait at my neighbour's door;"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "13598",
+      "text": "If mine heart have been deceived by a woman, or <span class='extra'>if</span> I have laid wait at my neighbour's door;",
+      "plainText": "If mine heart have been deceived by a woman, or if I have laid wait at my neighbour's door;"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "13599",
-      "text" : "<span class='extra'>Then<\/span> let my wife grind unto another, and let others bow down upon her.",
-      "plainText" : "Then let my wife grind unto another, and let others bow down upon her."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "13599",
+      "text": "<span class='extra'>Then</span> let my wife grind unto another, and let others bow down upon her.",
+      "plainText": "Then let my wife grind unto another, and let others bow down upon her."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "13600",
-      "text" : "For this <span class='extra'>is<\/span> an heinous crime; yea, it <span class='extra'>is<\/span> an iniquity <span class='extra'>to be punished by<\/span> the judges.",
-      "plainText" : "For this is an heinous crime; yea, it is an iniquity to be punished by the judges."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "13600",
+      "text": "For this <span class='extra'>is</span> an heinous crime; yea, it <span class='extra'>is</span> an iniquity <span class='extra'>to be punished by</span> the judges.",
+      "plainText": "For this is an heinous crime; yea, it is an iniquity to be punished by the judges."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "13601",
-      "text" : "For it <span class='extra'>is<\/span> a fire <span class='extra'>that<\/span> consumeth to destruction, and would root out all mine increase.",
-      "plainText" : "For it is a fire that consumeth to destruction, and would root out all mine increase."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "13601",
+      "text": "For it <span class='extra'>is</span> a fire <span class='extra'>that</span> consumeth to destruction, and would root out all mine increase.",
+      "plainText": "For it is a fire that consumeth to destruction, and would root out all mine increase."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "13602",
-      "text" : "If I did despise the cause of my manservant or of my maidservant, when they contended with me;",
-      "plainText" : "If I did despise the cause of my manservant or of my maidservant, when they contended with me;"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "13602",
+      "text": "If I did despise the cause of my manservant or of my maidservant, when they contended with me;",
+      "plainText": "If I did despise the cause of my manservant or of my maidservant, when they contended with me;"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "13603",
-      "text" : "What then shall I do when God riseth up? and when he visiteth, what shall I answer him?",
-      "plainText" : "What then shall I do when God riseth up? and when he visiteth, what shall I answer him?"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "13603",
+      "text": "What then shall I do when God riseth up? and when he visiteth, what shall I answer him?",
+      "plainText": "What then shall I do when God riseth up? and when he visiteth, what shall I answer him?"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "13604",
-      "text" : "Did not he that made me in the womb make him? and did not one fashion us in the womb?",
-      "plainText" : "Did not he that made me in the womb make him? and did not one fashion us in the womb?"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "13604",
+      "text": "Did not he that made me in the womb make him? and did not one fashion us in the womb?",
+      "plainText": "Did not he that made me in the womb make him? and did not one fashion us in the womb?"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "13605",
-      "text" : "If I have withheld the poor from <span class='extra'>their<\/span> desire, or have caused the eyes of the widow to fail;",
-      "plainText" : "If I have withheld the poor from their desire, or have caused the eyes of the widow to fail;"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "13605",
+      "text": "If I have withheld the poor from <span class='extra'>their</span> desire, or have caused the eyes of the widow to fail;",
+      "plainText": "If I have withheld the poor from their desire, or have caused the eyes of the widow to fail;"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "13606",
-      "text" : "Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;",
-      "plainText" : "Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "13606",
+      "text": "Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;",
+      "plainText": "Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "13607",
-      "text" : "(For from my youth he was brought up with me, as <span class='extra'>with<\/span> a father, and I have guided her from my mother's womb;)",
-      "plainText" : "(For from my youth he was brought up with me, as with a father, and I have guided her from my mother's womb;)"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "13607",
+      "text": "(For from my youth he was brought up with me, as <span class='extra'>with</span> a father, and I have guided her from my mother's womb;)",
+      "plainText": "(For from my youth he was brought up with me, as with a father, and I have guided her from my mother's womb;)"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "13608",
-      "text" : "If I have seen any perish for want of clothing, or any poor without covering;",
-      "plainText" : "If I have seen any perish for want of clothing, or any poor without covering;"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "13608",
+      "text": "If I have seen any perish for want of clothing, or any poor without covering;",
+      "plainText": "If I have seen any perish for want of clothing, or any poor without covering;"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "13609",
-      "text" : "If his loins have not blessed me, and <span class='extra'>if<\/span> he were <span class='extra'>not<\/span> warmed with the fleece of my sheep;",
-      "plainText" : "If his loins have not blessed me, and if he were not warmed with the fleece of my sheep;"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "13609",
+      "text": "If his loins have not blessed me, and <span class='extra'>if</span> he were <span class='extra'>not</span> warmed with the fleece of my sheep;",
+      "plainText": "If his loins have not blessed me, and if he were not warmed with the fleece of my sheep;"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "13610",
-      "text" : "If I have lifted up my hand against the fatherless, when I saw my help in the gate:",
-      "plainText" : "If I have lifted up my hand against the fatherless, when I saw my help in the gate:"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "13610",
+      "text": "If I have lifted up my hand against the fatherless, when I saw my help in the gate:",
+      "plainText": "If I have lifted up my hand against the fatherless, when I saw my help in the gate:"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "13611",
-      "text" : "<span class='extra'>Then<\/span> let mine arm fall from my shoulder blade, and mine arm be broken from the bone.",
-      "plainText" : "Then let mine arm fall from my shoulder blade, and mine arm be broken from the bone."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "13611",
+      "text": "<span class='extra'>Then</span> let mine arm fall from my shoulder blade, and mine arm be broken from the bone.",
+      "plainText": "Then let mine arm fall from my shoulder blade, and mine arm be broken from the bone."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "13612",
-      "text" : "For destruction <span class='extra'>from<\/span> God <span class='extra'>was<\/span> a terror to me, and by reason of his highness I could not endure.",
-      "plainText" : "For destruction from God was a terror to me, and by reason of his highness I could not endure."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "13612",
+      "text": "For destruction <span class='extra'>from</span> God <span class='extra'>was</span> a terror to me, and by reason of his highness I could not endure.",
+      "plainText": "For destruction from God was a terror to me, and by reason of his highness I could not endure."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "13613",
-      "text" : "If I have made gold my hope, or have said to the fine gold, <span class='extra'>Thou art<\/span> my confidence;",
-      "plainText" : "If I have made gold my hope, or have said to the fine gold, Thou art my confidence;"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "13613",
+      "text": "If I have made gold my hope, or have said to the fine gold, <span class='extra'>Thou art</span> my confidence;",
+      "plainText": "If I have made gold my hope, or have said to the fine gold, Thou art my confidence;"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "13614",
-      "text" : "If I rejoiced because my wealth <span class='extra'>was<\/span> great, and because mine hand had gotten much;",
-      "plainText" : "If I rejoiced because my wealth was great, and because mine hand had gotten much;"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "13614",
+      "text": "If I rejoiced because my wealth <span class='extra'>was</span> great, and because mine hand had gotten much;",
+      "plainText": "If I rejoiced because my wealth was great, and because mine hand had gotten much;"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "13615",
-      "text" : "If I beheld the sun when it shined, or the moon walking <span class='extra'>in<\/span> brightness;",
-      "plainText" : "If I beheld the sun when it shined, or the moon walking in brightness;"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "13615",
+      "text": "If I beheld the sun when it shined, or the moon walking <span class='extra'>in</span> brightness;",
+      "plainText": "If I beheld the sun when it shined, or the moon walking in brightness;"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "13616",
-      "text" : "And my heart hath been secretly enticed, or my mouth hath kissed my hand:",
-      "plainText" : "And my heart hath been secretly enticed, or my mouth hath kissed my hand:"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "13616",
+      "text": "And my heart hath been secretly enticed, or my mouth hath kissed my hand:",
+      "plainText": "And my heart hath been secretly enticed, or my mouth hath kissed my hand:"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "13617",
-      "text" : "This also <span class='extra'>were<\/span> an iniquity <span class='extra'>to be punished by<\/span> the judge: for I should have denied the God <span class='extra'>that is<\/span> above.",
-      "plainText" : "This also were an iniquity to be punished by the judge: for I should have denied the God that is above."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "13617",
+      "text": "This also <span class='extra'>were</span> an iniquity <span class='extra'>to be punished by</span> the judge: for I should have denied the God <span class='extra'>that is</span> above.",
+      "plainText": "This also were an iniquity to be punished by the judge: for I should have denied the God that is above."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "13618",
-      "text" : "If I rejoiced at the destruction of him that hated me, or lifted up myself when evil found him:",
-      "plainText" : "If I rejoiced at the destruction of him that hated me, or lifted up myself when evil found him:"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "13618",
+      "text": "If I rejoiced at the destruction of him that hated me, or lifted up myself when evil found him:",
+      "plainText": "If I rejoiced at the destruction of him that hated me, or lifted up myself when evil found him:"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "13619",
-      "text" : "Neither have I suffered my mouth to sin by wishing a curse to his soul.",
-      "plainText" : "Neither have I suffered my mouth to sin by wishing a curse to his soul."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "13619",
+      "text": "Neither have I suffered my mouth to sin by wishing a curse to his soul.",
+      "plainText": "Neither have I suffered my mouth to sin by wishing a curse to his soul."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "13620",
-      "text" : "If the men of my tabernacle said not, Oh that we had of his flesh! we cannot be satisfied.",
-      "plainText" : "If the men of my tabernacle said not, Oh that we had of his flesh! we cannot be satisfied."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "13620",
+      "text": "If the men of my tabernacle said not, Oh that we had of his flesh! we cannot be satisfied.",
+      "plainText": "If the men of my tabernacle said not, Oh that we had of his flesh! we cannot be satisfied."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "13621",
-      "text" : "The stranger did not lodge in the street: <span class='extra'>but<\/span> I opened my doors to the traveller.",
-      "plainText" : "The stranger did not lodge in the street: but I opened my doors to the traveller."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "13621",
+      "text": "The stranger did not lodge in the street: <span class='extra'>but</span> I opened my doors to the traveller.",
+      "plainText": "The stranger did not lodge in the street: but I opened my doors to the traveller."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "13622",
-      "text" : "If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:",
-      "plainText" : "If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:"
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "13622",
+      "text": "If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:",
+      "plainText": "If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:"
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "13623",
-      "text" : "Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, <span class='extra'>and<\/span> went not out of the door?",
-      "plainText" : "Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, and went not out of the door?"
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "13623",
+      "text": "Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, <span class='extra'>and</span> went not out of the door?",
+      "plainText": "Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, and went not out of the door?"
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "13624",
-      "text" : "Oh that one would hear me! behold, my desire <span class='extra'>is, that<\/span> the Almighty would answer me, and <span class='extra'>that<\/span> mine adversary had written a book.",
-      "plainText" : "Oh that one would hear me! behold, my desire is, that the Almighty would answer me, and that mine adversary had written a book."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "13624",
+      "text": "Oh that one would hear me! behold, my desire <span class='extra'>is, that</span> the Almighty would answer me, and <span class='extra'>that</span> mine adversary had written a book.",
+      "plainText": "Oh that one would hear me! behold, my desire is, that the Almighty would answer me, and that mine adversary had written a book."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "13625",
-      "text" : "Surely I would take it upon my shoulder, <span class='extra'>and<\/span> bind it <span class='extra'>as<\/span> a crown to me.",
-      "plainText" : "Surely I would take it upon my shoulder, and bind it as a crown to me."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "13625",
+      "text": "Surely I would take it upon my shoulder, <span class='extra'>and</span> bind it <span class='extra'>as</span> a crown to me.",
+      "plainText": "Surely I would take it upon my shoulder, and bind it as a crown to me."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "13626",
-      "text" : "I would declare unto him the number of my steps; as a prince would I go near unto him.",
-      "plainText" : "I would declare unto him the number of my steps; as a prince would I go near unto him."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "13626",
+      "text": "I would declare unto him the number of my steps; as a prince would I go near unto him.",
+      "plainText": "I would declare unto him the number of my steps; as a prince would I go near unto him."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "13627",
-      "text" : "If my land cry against me, or that the furrows likewise thereof complain;",
-      "plainText" : "If my land cry against me, or that the furrows likewise thereof complain;"
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "13627",
+      "text": "If my land cry against me, or that the furrows likewise thereof complain;",
+      "plainText": "If my land cry against me, or that the furrows likewise thereof complain;"
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "13628",
-      "text" : "If I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:",
-      "plainText" : "If I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:"
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "13628",
+      "text": "If I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:",
+      "plainText": "If I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:"
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "13629",
-      "text" : "Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended.",
-      "plainText" : "Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended."
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "13629",
+      "text": "Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended.",
+      "plainText": "Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended."
     }
   ]
 }
-

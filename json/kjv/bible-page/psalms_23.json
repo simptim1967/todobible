@@ -1,90 +1,83 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "23",
-    "verseCount" : "6",
-    "nextChapter" : "psalms_24.html",
-    "nextTitle" : "Psalms 24",
-    "prevChapter" : "psalms_22.html",
-    "prevTitle" : "Psalms 22",
-    "filename" : "psalms_23.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "23",
+    "verseCount": "6",
+    "nextChapter": "psalms_24.html",
+    "nextTitle": "Psalms 24",
+    "prevChapter": "psalms_22.html",
+    "prevTitle": "Psalms 22",
+    "filename": "psalms_23.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Psalm of David.",
-      "plainText" : "A Psalm of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Psalm of David.",
+      "plainText": "A Psalm of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14237",
-      "text" : "The <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> my shepherd; I shall not want.",
-      "plainText" : "The LORD is my shepherd; I shall not want."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14237",
+      "text": "The <span class='nog'>LORD</span> <span class='extra'>is</span> my shepherd; I shall not want.",
+      "plainText": "The LORD is my shepherd; I shall not want."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14238",
-      "text" : "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
-      "plainText" : "He maketh me to lie down in green pastures: he leadeth me beside the still waters."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14238",
+      "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+      "plainText": "He maketh me to lie down in green pastures: he leadeth me beside the still waters."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14239",
-      "text" : "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.",
-      "plainText" : "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14239",
+      "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.",
+      "plainText": "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14240",
-      "text" : "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou <span class='extra'>art<\/span> with me; thy rod and thy staff they comfort me.",
-      "plainText" : "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14240",
+      "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou <span class='extra'>art</span> with me; thy rod and thy staff they comfort me.",
+      "plainText": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14241",
-      "text" : "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
-      "plainText" : "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14241",
+      "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
+      "plainText": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14242",
-      "text" : "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the <span class='nog'>LORD<\/span> for ever.",
-      "plainText" : "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14242",
+      "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the <span class='nog'>LORD</span> for ever.",
+      "plainText": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."
     }
   ]
 }
-
-

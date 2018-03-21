@@ -1,452 +1,405 @@
 {
   "book": {
-    "number" : "13",
-    "filenamePrefix" : "1chronicles",
-    "bookPage" : "1chronicles.html",
-    "title" : "1 Chronicles",
-    "chapterCount" : "29",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "2chronicles_1.html",
-    "nextTitle" : "2 Chronicles",
-    "prevBook" : "2kings_1.html",
-    "prevTitle" : "2 Kings"
+    "number": "13",
+    "filenamePrefix": "1chronicles",
+    "bookPage": "1chronicles.html",
+    "title": "1 Chronicles",
+    "chapterCount": "29",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "2chronicles_1.html",
+    "nextTitle": "2 Chronicles",
+    "prevBook": "2kings_1.html",
+    "prevTitle": "2 Kings",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "11",
-    "verseCount" : "47",
-    "nextChapter" : "1chronicles_12.html",
-    "nextTitle" : "1 Chronicles 12",
-    "prevChapter" : "1chronicles_10.html",
-    "prevTitle" : "1 Chronicles 10",
-    "filename" : "1chronicles_11.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "11",
+    "verseCount": "47",
+    "nextChapter": "1chronicles_12.html",
+    "nextTitle": "1 Chronicles 12",
+    "prevChapter": "1chronicles_10.html",
+    "prevTitle": "1 Chronicles 10",
+    "filename": "1chronicles_11.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "10675",
-      "text" : "Then all Israel gathered themselves to David unto Hebron, saying, Behold, we <span class='extra'>are<\/span> thy bone and thy flesh.",
-      "plainText" : "Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "10675",
+      "text": "Then all Israel gathered themselves to David unto Hebron, saying, Behold, we <span class='extra'>are</span> thy bone and thy flesh.",
+      "plainText": "Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "10676",
-      "text" : "And moreover in time past, even when Saul was king, thou <span class='extra'>wast<\/span> he that leddest out and broughtest in Israel: and the <span class='nog'>LORD<\/span> thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel.",
-      "plainText" : "And moreover in time past, even when Saul was king, thou wast he that leddest out and broughtest in Israel: and the LORD thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "10676",
+      "text": "And moreover in time past, even when Saul was king, thou <span class='extra'>wast</span> he that leddest out and broughtest in Israel: and the <span class='nog'>LORD</span> thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel.",
+      "plainText": "And moreover in time past, even when Saul was king, thou wast he that leddest out and broughtest in Israel: and the LORD thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "10677",
-      "text" : "Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the <span class='nog'>LORD<\/span>; and they anointed David king over Israel, according to the word of the <span class='nog'>LORD<\/span> by Samuel.",
-      "plainText" : "Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel, according to the word of the LORD by Samuel."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "10677",
+      "text": "Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the <span class='nog'>LORD</span>; and they anointed David king over Israel, according to the word of the <span class='nog'>LORD</span> by Samuel.",
+      "plainText": "Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel, according to the word of the LORD by Samuel."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "10678",
-      "text" : "And David and all Israel went to Jerusalem, which <span class='extra'>is<\/span> Jebus; where the Jebusites <span class='extra'>were<\/span>, the inhabitants of the land.",
-      "plainText" : "And David and all Israel went to Jerusalem, which is Jebus; where the Jebusites were, the inhabitants of the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "10678",
+      "text": "And David and all Israel went to Jerusalem, which <span class='extra'>is</span> Jebus; where the Jebusites <span class='extra'>were</span>, the inhabitants of the land.",
+      "plainText": "And David and all Israel went to Jerusalem, which is Jebus; where the Jebusites were, the inhabitants of the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "10679",
-      "text" : "And the inhabitants of Jebus said to David, Thou shalt not come hither. Nevertheless David took the castle of Zion, which <span class='extra'>is<\/span> the city of David.",
-      "plainText" : "And the inhabitants of Jebus said to David, Thou shalt not come hither. Nevertheless David took the castle of Zion, which is the city of David."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "10679",
+      "text": "And the inhabitants of Jebus said to David, Thou shalt not come hither. Nevertheless David took the castle of Zion, which <span class='extra'>is</span> the city of David.",
+      "plainText": "And the inhabitants of Jebus said to David, Thou shalt not come hither. Nevertheless David took the castle of Zion, which is the city of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "10680",
-      "text" : "And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief.",
-      "plainText" : "And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "10680",
+      "text": "And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief.",
+      "plainText": "And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "10681",
-      "text" : "And David dwelt in the castle; therefore they called it the city of David.",
-      "plainText" : "And David dwelt in the castle; therefore they called it the city of David."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "10681",
+      "text": "And David dwelt in the castle; therefore they called it the city of David.",
+      "plainText": "And David dwelt in the castle; therefore they called it the city of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "10682",
-      "text" : "And he built the city round about, even from Millo round about: and Joab repaired the rest of the city.",
-      "plainText" : "And he built the city round about, even from Millo round about: and Joab repaired the rest of the city."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "10682",
+      "text": "And he built the city round about, even from Millo round about: and Joab repaired the rest of the city.",
+      "plainText": "And he built the city round about, even from Millo round about: and Joab repaired the rest of the city."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "10683",
-      "text" : "So David waxed greater and greater: for the <span class='nog'>LORD<\/span> of hosts <span class='extra'>was<\/span> with him.",
-      "plainText" : "So David waxed greater and greater: for the LORD of hosts was with him."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "10683",
+      "text": "So David waxed greater and greater: for the <span class='nog'>LORD</span> of hosts <span class='extra'>was</span> with him.",
+      "plainText": "So David waxed greater and greater: for the LORD of hosts was with him."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "10684",
-      "text" : "These also <span class='extra'>are<\/span> the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, <span class='extra'>and<\/span> with all Israel, to make him king, according to the word of the <span class='nog'>LORD<\/span> concerning Israel.",
-      "plainText" : "These also are the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, and with all Israel, to make him king, according to the word of the LORD concerning Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "10684",
+      "text": "These also <span class='extra'>are</span> the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, <span class='extra'>and</span> with all Israel, to make him king, according to the word of the <span class='nog'>LORD</span> concerning Israel.",
+      "plainText": "These also are the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, and with all Israel, to make him king, according to the word of the LORD concerning Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "10685",
-      "text" : "And this <span class='extra'>is<\/span> the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain <span class='extra'>by him<\/span> at one time.",
-      "plainText" : "And this is the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "10685",
+      "text": "And this <span class='extra'>is</span> the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain <span class='extra'>by him</span> at one time.",
+      "plainText": "And this is the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "10686",
-      "text" : "And after him <span class='extra'>was<\/span> Eleazar the son of Dodo, the Ahohite, who <span class='extra'>was one<\/span> of the three mighties.",
-      "plainText" : "And after him was Eleazar the son of Dodo, the Ahohite, who was one of the three mighties."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "10686",
+      "text": "And after him <span class='extra'>was</span> Eleazar the son of Dodo, the Ahohite, who <span class='extra'>was one</span> of the three mighties.",
+      "plainText": "And after him was Eleazar the son of Dodo, the Ahohite, who was one of the three mighties."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "10687",
-      "text" : "He was with David at Pas-dammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines.",
-      "plainText" : "He was with David at Pas-dammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "10687",
+      "text": "He was with David at Pas-dammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines.",
+      "plainText": "He was with David at Pas-dammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "10688",
-      "text" : "And they set themselves in the midst of <span class='extra'>that<\/span> parcel, and delivered it, and slew the Philistines; and the <span class='nog'>LORD<\/span> saved <span class='extra'>them<\/span> by a great deliverance.",
-      "plainText" : "And they set themselves in the midst of that parcel, and delivered it, and slew the Philistines; and the LORD saved them by a great deliverance."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "10688",
+      "text": "And they set themselves in the midst of <span class='extra'>that</span> parcel, and delivered it, and slew the Philistines; and the <span class='nog'>LORD</span> saved <span class='extra'>them</span> by a great deliverance.",
+      "plainText": "And they set themselves in the midst of that parcel, and delivered it, and slew the Philistines; and the LORD saved them by a great deliverance."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "10689",
-      "text" : "Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim.",
-      "plainText" : "Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "10689",
+      "text": "Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim.",
+      "plainText": "Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "10690",
-      "text" : "And David <span class='extra'>was<\/span> then in the hold, and the Philistines' garrison <span class='extra'>was<\/span> then at Beth-lehem.",
-      "plainText" : "And David was then in the hold, and the Philistines' garrison was then at Beth-lehem."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "10690",
+      "text": "And David <span class='extra'>was</span> then in the hold, and the Philistines' garrison <span class='extra'>was</span> then at Beth-lehem.",
+      "plainText": "And David was then in the hold, and the Philistines' garrison was then at Beth-lehem."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "10691",
-      "text" : "And David longed, and said, Oh that one would give me drink of the water of the well of Beth-lehem, that <span class='extra'>is<\/span> at the gate!",
-      "plainText" : "And David longed, and said, Oh that one would give me drink of the water of the well of Beth-lehem, that is at the gate!"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "10691",
+      "text": "And David longed, and said, Oh that one would give me drink of the water of the well of Beth-lehem, that <span class='extra'>is</span> at the gate!",
+      "plainText": "And David longed, and said, Oh that one would give me drink of the water of the well of Beth-lehem, that is at the gate!"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "10692",
-      "text" : "And the three brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that <span class='extra'>was<\/span> by the gate, and took <span class='extra'>it<\/span>, and brought <span class='extra'>it<\/span> to David: but David would not drink <span class='extra'>of<\/span> it, but poured it out to the <span class='nog'>LORD<\/span>,",
-      "plainText" : "And the three brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that was by the gate, and took it, and brought it to David: but David would not drink of it, but poured it out to the LORD,"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "10692",
+      "text": "And the three brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that <span class='extra'>was</span> by the gate, and took <span class='extra'>it</span>, and brought <span class='extra'>it</span> to David: but David would not drink <span class='extra'>of</span> it, but poured it out to the <span class='nog'>LORD</span>,",
+      "plainText": "And the three brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that was by the gate, and took it, and brought it to David: but David would not drink of it, but poured it out to the LORD,"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "10693",
-      "text" : "And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with <span class='extra'>the jeopardy of<\/span> their lives they brought it. Therefore he would not drink it. These things did these three mightiest.",
-      "plainText" : "And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with the jeopardy of their lives they brought it. Therefore he would not drink it. These things did these three mightiest."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "10693",
+      "text": "And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with <span class='extra'>the jeopardy of</span> their lives they brought it. Therefore he would not drink it. These things did these three mightiest.",
+      "plainText": "And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with the jeopardy of their lives they brought it. Therefore he would not drink it. These things did these three mightiest."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "10694",
-      "text" : "And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew <span class='extra'>them<\/span>, and had a name among the three.",
-      "plainText" : "And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew them, and had a name among the three."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "10694",
+      "text": "And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew <span class='extra'>them</span>, and had a name among the three.",
+      "plainText": "And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew them, and had a name among the three."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "10695",
-      "text" : "Of the three, he was more honourable than the two; for he was their captain: howbeit he attained not to the <span class='extra'>first<\/span> three.",
-      "plainText" : "Of the three, he was more honourable than the two; for he was their captain: howbeit he attained not to the first three."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "10695",
+      "text": "Of the three, he was more honourable than the two; for he was their captain: howbeit he attained not to the <span class='extra'>first</span> three.",
+      "plainText": "Of the three, he was more honourable than the two; for he was their captain: howbeit he attained not to the first three."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "10696",
-      "text" : "Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day.",
-      "plainText" : "Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "10696",
+      "text": "Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day.",
+      "plainText": "Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "10697",
-      "text" : "And he slew an Egyptian, a man of <span class='extra'>great<\/span> stature, five cubits high; and in the Egyptian's hand <span class='extra'>was<\/span> a spear like a weaver's beam; and he went down to him with a staff, and plucked the spear out of the Egyptian's hand, and slew him with his own spear.",
-      "plainText" : "And he slew an Egyptian, a man of great stature, five cubits high; and in the Egyptian's hand was a spear like a weaver's beam; and he went down to him with a staff, and plucked the spear out of the Egyptian's hand, and slew him with his own spear."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "10697",
+      "text": "And he slew an Egyptian, a man of <span class='extra'>great</span> stature, five cubits high; and in the Egyptian's hand <span class='extra'>was</span> a spear like a weaver's beam; and he went down to him with a staff, and plucked the spear out of the Egyptian's hand, and slew him with his own spear.",
+      "plainText": "And he slew an Egyptian, a man of great stature, five cubits high; and in the Egyptian's hand was a spear like a weaver's beam; and he went down to him with a staff, and plucked the spear out of the Egyptian's hand, and slew him with his own spear."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "10698",
-      "text" : "These <span class='extra'>things<\/span> did Benaiah the son of Jehoiada, and had the name among the three mighties.",
-      "plainText" : "These things did Benaiah the son of Jehoiada, and had the name among the three mighties."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "10698",
+      "text": "These <span class='extra'>things</span> did Benaiah the son of Jehoiada, and had the name among the three mighties.",
+      "plainText": "These things did Benaiah the son of Jehoiada, and had the name among the three mighties."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "10699",
-      "text" : "Behold, he was honourable among the thirty, but attained not to the <span class='extra'>first<\/span> three: and David set him over his guard.",
-      "plainText" : "Behold, he was honourable among the thirty, but attained not to the first three: and David set him over his guard."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "10699",
+      "text": "Behold, he was honourable among the thirty, but attained not to the <span class='extra'>first</span> three: and David set him over his guard.",
+      "plainText": "Behold, he was honourable among the thirty, but attained not to the first three: and David set him over his guard."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "10700",
-      "text" : "Also the valiant men of the armies <span class='extra'>were<\/span>, Asahel the brother of Joab, Elhanan the son of Dodo of Beth-lehem,",
-      "plainText" : "Also the valiant men of the armies were, Asahel the brother of Joab, Elhanan the son of Dodo of Beth-lehem,"
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "10700",
+      "text": "Also the valiant men of the armies <span class='extra'>were</span>, Asahel the brother of Joab, Elhanan the son of Dodo of Beth-lehem,",
+      "plainText": "Also the valiant men of the armies were, Asahel the brother of Joab, Elhanan the son of Dodo of Beth-lehem,"
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "10701",
-      "text" : "Shammoth the Harorite, Helez the Pelonite,",
-      "plainText" : "Shammoth the Harorite, Helez the Pelonite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "10701",
+      "text": "Shammoth the Harorite, Helez the Pelonite,",
+      "plainText": "Shammoth the Harorite, Helez the Pelonite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "10702",
-      "text" : "Ira the son of Ikkesh the Tekoite, Abi-ezer the Antothite,",
-      "plainText" : "Ira the son of Ikkesh the Tekoite, Abi-ezer the Antothite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "10702",
+      "text": "Ira the son of Ikkesh the Tekoite, Abi-ezer the Antothite,",
+      "plainText": "Ira the son of Ikkesh the Tekoite, Abi-ezer the Antothite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "10703",
-      "text" : "Sibbecai the Hushathite, Ilai the Ahohite,",
-      "plainText" : "Sibbecai the Hushathite, Ilai the Ahohite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "10703",
+      "text": "Sibbecai the Hushathite, Ilai the Ahohite,",
+      "plainText": "Sibbecai the Hushathite, Ilai the Ahohite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "10704",
-      "text" : "Maharai the Netophathite, Heled the son of Baanah the Netophathite,",
-      "plainText" : "Maharai the Netophathite, Heled the son of Baanah the Netophathite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "10704",
+      "text": "Maharai the Netophathite, Heled the son of Baanah the Netophathite,",
+      "plainText": "Maharai the Netophathite, Heled the son of Baanah the Netophathite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "10705",
-      "text" : "Ithai the son of Ribai of Gibeah, <span class='extra'>that pertained<\/span> to the children of Benjamin, Benaiah the Pirathonite,",
-      "plainText" : "Ithai the son of Ribai of Gibeah, that pertained to the children of Benjamin, Benaiah the Pirathonite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "10705",
+      "text": "Ithai the son of Ribai of Gibeah, <span class='extra'>that pertained</span> to the children of Benjamin, Benaiah the Pirathonite,",
+      "plainText": "Ithai the son of Ribai of Gibeah, that pertained to the children of Benjamin, Benaiah the Pirathonite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "10706",
-      "text" : "Hurai of the brooks of Gaash, Abiel the Arbathite,",
-      "plainText" : "Hurai of the brooks of Gaash, Abiel the Arbathite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "10706",
+      "text": "Hurai of the brooks of Gaash, Abiel the Arbathite,",
+      "plainText": "Hurai of the brooks of Gaash, Abiel the Arbathite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "10707",
-      "text" : "Azmaveth the Baharumite, Eliahba the Shaalbonite,",
-      "plainText" : "Azmaveth the Baharumite, Eliahba the Shaalbonite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "10707",
+      "text": "Azmaveth the Baharumite, Eliahba the Shaalbonite,",
+      "plainText": "Azmaveth the Baharumite, Eliahba the Shaalbonite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "10708",
-      "text" : "The sons of Hashem the Gizonite, Jonathan the son of Shage the Hararite,",
-      "plainText" : "The sons of Hashem the Gizonite, Jonathan the son of Shage the Hararite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "10708",
+      "text": "The sons of Hashem the Gizonite, Jonathan the son of Shage the Hararite,",
+      "plainText": "The sons of Hashem the Gizonite, Jonathan the son of Shage the Hararite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "10709",
-      "text" : "Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,",
-      "plainText" : "Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,"
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "10709",
+      "text": "Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,",
+      "plainText": "Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,"
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "10710",
-      "text" : "Hepher the Mecherathite, Ahijah the Pelonite,",
-      "plainText" : "Hepher the Mecherathite, Ahijah the Pelonite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "10710",
+      "text": "Hepher the Mecherathite, Ahijah the Pelonite,",
+      "plainText": "Hepher the Mecherathite, Ahijah the Pelonite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "10711",
-      "text" : "Hezro the Carmelite, Naarai the son of Ezbai,",
-      "plainText" : "Hezro the Carmelite, Naarai the son of Ezbai,"
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "10711",
+      "text": "Hezro the Carmelite, Naarai the son of Ezbai,",
+      "plainText": "Hezro the Carmelite, Naarai the son of Ezbai,"
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "10712",
-      "text" : "Joel the brother of Nathan, Mibhar the son of Haggeri,",
-      "plainText" : "Joel the brother of Nathan, Mibhar the son of Haggeri,"
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "10712",
+      "text": "Joel the brother of Nathan, Mibhar the son of Haggeri,",
+      "plainText": "Joel the brother of Nathan, Mibhar the son of Haggeri,"
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "10713",
-      "text" : "Zelek the Ammonite, Naharai the Berothite, the armourbearer of Joab the son of Zeruiah,",
-      "plainText" : "Zelek the Ammonite, Naharai the Berothite, the armourbearer of Joab the son of Zeruiah,"
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "10713",
+      "text": "Zelek the Ammonite, Naharai the Berothite, the armourbearer of Joab the son of Zeruiah,",
+      "plainText": "Zelek the Ammonite, Naharai the Berothite, the armourbearer of Joab the son of Zeruiah,"
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "10714",
-      "text" : "Ira the Ithrite, Gareb the Ithrite,",
-      "plainText" : "Ira the Ithrite, Gareb the Ithrite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "10714",
+      "text": "Ira the Ithrite, Gareb the Ithrite,",
+      "plainText": "Ira the Ithrite, Gareb the Ithrite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "10715",
-      "text" : "Uriah the Hittite, Zabad the son of Ahlai,",
-      "plainText" : "Uriah the Hittite, Zabad the son of Ahlai,"
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "10715",
+      "text": "Uriah the Hittite, Zabad the son of Ahlai,",
+      "plainText": "Uriah the Hittite, Zabad the son of Ahlai,"
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "10716",
-      "text" : "Adina the son of Shiza the Reubenite, a captain of the Reubenites, and thirty with him,",
-      "plainText" : "Adina the son of Shiza the Reubenite, a captain of the Reubenites, and thirty with him,"
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "10716",
+      "text": "Adina the son of Shiza the Reubenite, a captain of the Reubenites, and thirty with him,",
+      "plainText": "Adina the son of Shiza the Reubenite, a captain of the Reubenites, and thirty with him,"
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "10717",
-      "text" : "Hanan the son of Maachah, and Joshaphat the Mithnite,",
-      "plainText" : "Hanan the son of Maachah, and Joshaphat the Mithnite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "10717",
+      "text": "Hanan the son of Maachah, and Joshaphat the Mithnite,",
+      "plainText": "Hanan the son of Maachah, and Joshaphat the Mithnite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "10718",
-      "text" : "Uzzia the Ashterathite, Shama and Jehiel the sons of Hothan the Aroerite,",
-      "plainText" : "Uzzia the Ashterathite, Shama and Jehiel the sons of Hothan the Aroerite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "10718",
+      "text": "Uzzia the Ashterathite, Shama and Jehiel the sons of Hothan the Aroerite,",
+      "plainText": "Uzzia the Ashterathite, Shama and Jehiel the sons of Hothan the Aroerite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "10719",
-      "text" : "Jediael the son of Shimri, and Joha his brother, the Tizite,",
-      "plainText" : "Jediael the son of Shimri, and Joha his brother, the Tizite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "10719",
+      "text": "Jediael the son of Shimri, and Joha his brother, the Tizite,",
+      "plainText": "Jediael the son of Shimri, and Joha his brother, the Tizite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "10720",
-      "text" : "Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,",
-      "plainText" : "Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,"
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "10720",
+      "text": "Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,",
+      "plainText": "Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,"
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "10721",
-      "text" : "Eliel, and Obed, and Jasiel the Mesobaite.",
-      "plainText" : "Eliel, and Obed, and Jasiel the Mesobaite."
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "10721",
+      "text": "Eliel, and Obed, and Jasiel the Mesobaite.",
+      "plainText": "Eliel, and Obed, and Jasiel the Mesobaite."
     }
   ]
 }
-
-

@@ -1,209 +1,189 @@
 {
   "book": {
-    "number" : "12",
-    "filenamePrefix" : "2kings",
-    "bookPage" : "2kings.html",
-    "title" : "2 Kings",
-    "chapterCount" : "25",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "1chronicles_1.html",
-    "nextTitle" : "1 Chronicles",
-    "prevBook" : "1kings_1.html",
-    "prevTitle" : "1 Kings"
+    "number": "12",
+    "filenamePrefix": "2kings",
+    "bookPage": "2kings.html",
+    "title": "2 Kings",
+    "chapterCount": "25",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "1chronicles_1.html",
+    "nextTitle": "1 Chronicles",
+    "prevBook": "1kings_1.html",
+    "prevTitle": "1 Kings",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "24",
-    "verseCount" : "20",
-    "nextChapter" : "2kings_25.html",
-    "nextTitle" : "2 Kings 25",
-    "prevChapter" : "2kings_23.html",
-    "prevTitle" : "2 Kings 23",
-    "filename" : "2kings_24.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "24",
+    "verseCount": "20",
+    "nextChapter": "2kings_25.html",
+    "nextTitle": "2 Kings 25",
+    "prevChapter": "2kings_23.html",
+    "prevTitle": "2 Kings 23",
+    "filename": "2kings_24.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "10204",
-      "text" : "In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him.",
-      "plainText" : "In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "10204",
+      "text": "In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him.",
+      "plainText": "In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "10205",
-      "text" : "And the <span class='nog'>LORD<\/span> sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the <span class='nog'>LORD<\/span>, which he spake by his servants the prophets.",
-      "plainText" : "And the LORD sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the LORD, which he spake by his servants the prophets."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "10205",
+      "text": "And the <span class='nog'>LORD</span> sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the <span class='nog'>LORD</span>, which he spake by his servants the prophets.",
+      "plainText": "And the LORD sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the LORD, which he spake by his servants the prophets."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "10206",
-      "text" : "Surely at the commandment of the <span class='nog'>LORD<\/span> came <span class='extra'>this<\/span> upon Judah, to remove <span class='extra'>them<\/span> out of his sight, for the sins of Manasseh, according to all that he did;",
-      "plainText" : "Surely at the commandment of the LORD came this upon Judah, to remove them out of his sight, for the sins of Manasseh, according to all that he did;"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "10206",
+      "text": "Surely at the commandment of the <span class='nog'>LORD</span> came <span class='extra'>this</span> upon Judah, to remove <span class='extra'>them</span> out of his sight, for the sins of Manasseh, according to all that he did;",
+      "plainText": "Surely at the commandment of the LORD came this upon Judah, to remove them out of his sight, for the sins of Manasseh, according to all that he did;"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "10207",
-      "text" : "And also for the innocent blood that he shed: for he filled Jerusalem with innocent blood; which the <span class='nog'>LORD<\/span> would not pardon.",
-      "plainText" : "And also for the innocent blood that he shed: for he filled Jerusalem with innocent blood; which the LORD would not pardon."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "10207",
+      "text": "And also for the innocent blood that he shed: for he filled Jerusalem with innocent blood; which the <span class='nog'>LORD</span> would not pardon.",
+      "plainText": "And also for the innocent blood that he shed: for he filled Jerusalem with innocent blood; which the LORD would not pardon."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "10208",
-      "text" : "Now the rest of the acts of Jehoiakim, and all that he did, <span class='extra'>are<\/span> they not written in the book of the chronicles of the kings of Judah?",
-      "plainText" : "Now the rest of the acts of Jehoiakim, and all that he did, are they not written in the book of the chronicles of the kings of Judah?"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "10208",
+      "text": "Now the rest of the acts of Jehoiakim, and all that he did, <span class='extra'>are</span> they not written in the book of the chronicles of the kings of Judah?",
+      "plainText": "Now the rest of the acts of Jehoiakim, and all that he did, are they not written in the book of the chronicles of the kings of Judah?"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "10209",
-      "text" : "So Jehoiakim slept with his fathers: and Jehoiachin his son reigned in his stead.",
-      "plainText" : "So Jehoiakim slept with his fathers: and Jehoiachin his son reigned in his stead."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "10209",
+      "text": "So Jehoiakim slept with his fathers: and Jehoiachin his son reigned in his stead.",
+      "plainText": "So Jehoiakim slept with his fathers: and Jehoiachin his son reigned in his stead."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "10210",
-      "text" : "And the king of Egypt came not again any more out of his land: for the king of Babylon had taken from the river of Egypt unto the river Euphrates all that pertained to the king of Egypt.",
-      "plainText" : "And the king of Egypt came not again any more out of his land: for the king of Babylon had taken from the river of Egypt unto the river Euphrates all that pertained to the king of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "10210",
+      "text": "And the king of Egypt came not again any more out of his land: for the king of Babylon had taken from the river of Egypt unto the river Euphrates all that pertained to the king of Egypt.",
+      "plainText": "And the king of Egypt came not again any more out of his land: for the king of Babylon had taken from the river of Egypt unto the river Euphrates all that pertained to the king of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "10211",
-      "text" : "Jehoiachin <span class='extra'>was<\/span> eighteen years old when he began to reign, and he reigned in Jerusalem three months. And his mother's name <span class='extra'>was<\/span> Nehushta, the daughter of Elnathan of Jerusalem.",
-      "plainText" : "Jehoiachin was eighteen years old when he began to reign, and he reigned in Jerusalem three months. And his mother's name was Nehushta, the daughter of Elnathan of Jerusalem."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "10211",
+      "text": "Jehoiachin <span class='extra'>was</span> eighteen years old when he began to reign, and he reigned in Jerusalem three months. And his mother's name <span class='extra'>was</span> Nehushta, the daughter of Elnathan of Jerusalem.",
+      "plainText": "Jehoiachin was eighteen years old when he began to reign, and he reigned in Jerusalem three months. And his mother's name was Nehushta, the daughter of Elnathan of Jerusalem."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "10212",
-      "text" : "And he did <span class='extra'>that which was<\/span> evil in the sight of the <span class='nog'>LORD<\/span>, according to all that his father had done.",
-      "plainText" : "And he did that which was evil in the sight of the LORD, according to all that his father had done."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "10212",
+      "text": "And he did <span class='extra'>that which was</span> evil in the sight of the <span class='nog'>LORD</span>, according to all that his father had done.",
+      "plainText": "And he did that which was evil in the sight of the LORD, according to all that his father had done."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "10213",
-      "text" : "At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged.",
-      "plainText" : "At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "10213",
+      "text": "At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged.",
+      "plainText": "At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "10214",
-      "text" : "And Nebuchadnezzar king of Babylon came against the city, and his servants did besiege it.",
-      "plainText" : "And Nebuchadnezzar king of Babylon came against the city, and his servants did besiege it."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "10214",
+      "text": "And Nebuchadnezzar king of Babylon came against the city, and his servants did besiege it.",
+      "plainText": "And Nebuchadnezzar king of Babylon came against the city, and his servants did besiege it."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "10215",
-      "text" : "And Jehoiachin the king of Judah went out to the king of Babylon, he, and his mother, and his servants, and his princes, and his officers: and the king of Babylon took him in the eighth year of his reign.",
-      "plainText" : "And Jehoiachin the king of Judah went out to the king of Babylon, he, and his mother, and his servants, and his princes, and his officers: and the king of Babylon took him in the eighth year of his reign."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "10215",
+      "text": "And Jehoiachin the king of Judah went out to the king of Babylon, he, and his mother, and his servants, and his princes, and his officers: and the king of Babylon took him in the eighth year of his reign.",
+      "plainText": "And Jehoiachin the king of Judah went out to the king of Babylon, he, and his mother, and his servants, and his princes, and his officers: and the king of Babylon took him in the eighth year of his reign."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "10216",
-      "text" : "And he carried out thence all the treasures of the house of the <span class='nog'>LORD<\/span>, and the treasures of the king's house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the <span class='nog'>LORD<\/span>, as the <span class='nog'>LORD<\/span> had said.",
-      "plainText" : "And he carried out thence all the treasures of the house of the LORD, and the treasures of the king's house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the LORD, as the LORD had said."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "10216",
+      "text": "And he carried out thence all the treasures of the house of the <span class='nog'>LORD</span>, and the treasures of the king's house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the <span class='nog'>LORD</span>, as the <span class='nog'>LORD</span> had said.",
+      "plainText": "And he carried out thence all the treasures of the house of the LORD, and the treasures of the king's house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the LORD, as the LORD had said."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "10217",
-      "text" : "And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, <span class='extra'>even<\/span> ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.",
-      "plainText" : "And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "10217",
+      "text": "And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, <span class='extra'>even</span> ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.",
+      "plainText": "And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "10218",
-      "text" : "And he carried away Jehoiachin to Babylon, and the king's mother, and the king's wives, and his officers, and the mighty of the land, <span class='extra'>those<\/span> carried he into captivity from Jerusalem to Babylon.",
-      "plainText" : "And he carried away Jehoiachin to Babylon, and the king's mother, and the king's wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "10218",
+      "text": "And he carried away Jehoiachin to Babylon, and the king's mother, and the king's wives, and his officers, and the mighty of the land, <span class='extra'>those</span> carried he into captivity from Jerusalem to Babylon.",
+      "plainText": "And he carried away Jehoiachin to Babylon, and the king's mother, and the king's wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "10219",
-      "text" : "And all the men of might, <span class='extra'>even<\/span> seven thousand, and craftsmen and smiths a thousand, all <span class='extra'>that were<\/span> strong <span class='extra'>and<\/span> apt for war, even them the king of Babylon brought captive to Babylon.",
-      "plainText" : "And all the men of might, even seven thousand, and craftsmen and smiths a thousand, all that were strong and apt for war, even them the king of Babylon brought captive to Babylon."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "10219",
+      "text": "And all the men of might, <span class='extra'>even</span> seven thousand, and craftsmen and smiths a thousand, all <span class='extra'>that were</span> strong <span class='extra'>and</span> apt for war, even them the king of Babylon brought captive to Babylon.",
+      "plainText": "And all the men of might, even seven thousand, and craftsmen and smiths a thousand, all that were strong and apt for war, even them the king of Babylon brought captive to Babylon."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "10220",
-      "text" : "And the king of Babylon made Mattaniah his father's brother king in his stead, and changed his name to Zedekiah.",
-      "plainText" : "And the king of Babylon made Mattaniah his father's brother king in his stead, and changed his name to Zedekiah."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "10220",
+      "text": "And the king of Babylon made Mattaniah his father's brother king in his stead, and changed his name to Zedekiah.",
+      "plainText": "And the king of Babylon made Mattaniah his father's brother king in his stead, and changed his name to Zedekiah."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "10221",
-      "text" : "Zedekiah <span class='extra'>was<\/span> twenty and one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name <span class='extra'>was<\/span> Hamutal, the daughter of Jeremiah of Libnah.",
-      "plainText" : "Zedekiah was twenty and one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "10221",
+      "text": "Zedekiah <span class='extra'>was</span> twenty and one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name <span class='extra'>was</span> Hamutal, the daughter of Jeremiah of Libnah.",
+      "plainText": "Zedekiah was twenty and one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "10222",
-      "text" : "And he did <span class='extra'>that which was<\/span> evil in the sight of the <span class='nog'>LORD<\/span>, according to all that Jehoiakim had done.",
-      "plainText" : "And he did that which was evil in the sight of the LORD, according to all that Jehoiakim had done."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "10222",
+      "text": "And he did <span class='extra'>that which was</span> evil in the sight of the <span class='nog'>LORD</span>, according to all that Jehoiakim had done.",
+      "plainText": "And he did that which was evil in the sight of the LORD, according to all that Jehoiakim had done."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "10223",
-      "text" : "For through the anger of the <span class='nog'>LORD<\/span> it came to pass in Jerusalem and Judah, until he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon.",
-      "plainText" : "For through the anger of the LORD it came to pass in Jerusalem and Judah, until he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon."
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "10223",
+      "text": "For through the anger of the <span class='nog'>LORD</span> it came to pass in Jerusalem and Judah, until he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon.",
+      "plainText": "For through the anger of the LORD it came to pass in Jerusalem and Judah, until he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon."
     }
   ]
 }
-
-

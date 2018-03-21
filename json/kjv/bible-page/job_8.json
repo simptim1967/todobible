@@ -1,226 +1,205 @@
 {
   "book": {
-    "number" : "18",
-    "filenamePrefix" : "job",
-    "bookPage" : "job.html",
-    "title" : "Job",
-    "chapterCount" : "42",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "psalms_1.html",
-    "nextTitle" : "Psalms",
-    "prevBook" : "esther_1.html",
-    "prevTitle" : "Esther"
+    "number": "18",
+    "filenamePrefix": "job",
+    "bookPage": "job.html",
+    "title": "Job",
+    "chapterCount": "42",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "psalms_1.html",
+    "nextTitle": "Psalms",
+    "prevBook": "esther_1.html",
+    "prevTitle": "Esther",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "8",
-    "verseCount" : "22",
-    "nextChapter" : "job_9.html",
-    "nextTitle" : "Job 9",
-    "prevChapter" : "job_7.html",
-    "prevTitle" : "Job 7",
-    "filename" : "job_8.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "8",
+    "verseCount": "22",
+    "nextChapter": "job_9.html",
+    "nextTitle": "Job 9",
+    "prevChapter": "job_7.html",
+    "prevTitle": "Job 7",
+    "filename": "job_8.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "13031",
-      "text" : "Then answered Bildad the Shuhite, and said,",
-      "plainText" : "Then answered Bildad the Shuhite, and said,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "13031",
+      "text": "Then answered Bildad the Shuhite, and said,",
+      "plainText": "Then answered Bildad the Shuhite, and said,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "13032",
-      "text" : "How long wilt thou speak these <span class='extra'>things<\/span>? and <span class='extra'>how long shall<\/span> the words of thy mouth <span class='extra'>be like<\/span> a strong wind?",
-      "plainText" : "How long wilt thou speak these things? and how long shall the words of thy mouth be like a strong wind?"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "13032",
+      "text": "How long wilt thou speak these <span class='extra'>things</span>? and <span class='extra'>how long shall</span> the words of thy mouth <span class='extra'>be like</span> a strong wind?",
+      "plainText": "How long wilt thou speak these things? and how long shall the words of thy mouth be like a strong wind?"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "13033",
-      "text" : "Doth God pervert judgment? or doth the Almighty pervert justice?",
-      "plainText" : "Doth God pervert judgment? or doth the Almighty pervert justice?"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "13033",
+      "text": "Doth God pervert judgment? or doth the Almighty pervert justice?",
+      "plainText": "Doth God pervert judgment? or doth the Almighty pervert justice?"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "13034",
-      "text" : "If thy children have sinned against him, and he have cast them away for their transgression;",
-      "plainText" : "If thy children have sinned against him, and he have cast them away for their transgression;"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "13034",
+      "text": "If thy children have sinned against him, and he have cast them away for their transgression;",
+      "plainText": "If thy children have sinned against him, and he have cast them away for their transgression;"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "13035",
-      "text" : "If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;",
-      "plainText" : "If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "13035",
+      "text": "If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;",
+      "plainText": "If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "13036",
-      "text" : "If thou <span class='extra'>wert<\/span> pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous.",
-      "plainText" : "If thou wert pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "13036",
+      "text": "If thou <span class='extra'>wert</span> pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous.",
+      "plainText": "If thou wert pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "13037",
-      "text" : "Though thy beginning was small, yet thy latter end should greatly increase.",
-      "plainText" : "Though thy beginning was small, yet thy latter end should greatly increase."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "13037",
+      "text": "Though thy beginning was small, yet thy latter end should greatly increase.",
+      "plainText": "Though thy beginning was small, yet thy latter end should greatly increase."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "13038",
-      "text" : "For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:",
-      "plainText" : "For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "13038",
+      "text": "For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:",
+      "plainText": "For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "13039",
-      "text" : "(For we <span class='extra'>are but of<\/span> yesterday, and know nothing, because our days upon earth <span class='extra'>are<\/span> a shadow:)",
-      "plainText" : "(For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "13039",
+      "text": "(For we <span class='extra'>are but of</span> yesterday, and know nothing, because our days upon earth <span class='extra'>are</span> a shadow:)",
+      "plainText": "(For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "13040",
-      "text" : "Shall not they teach thee, <span class='extra'>and<\/span> tell thee, and utter words out of their heart?",
-      "plainText" : "Shall not they teach thee, and tell thee, and utter words out of their heart?"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "13040",
+      "text": "Shall not they teach thee, <span class='extra'>and</span> tell thee, and utter words out of their heart?",
+      "plainText": "Shall not they teach thee, and tell thee, and utter words out of their heart?"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "13041",
-      "text" : "Can the rush grow up without mire? can the flag grow without water?",
-      "plainText" : "Can the rush grow up without mire? can the flag grow without water?"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "13041",
+      "text": "Can the rush grow up without mire? can the flag grow without water?",
+      "plainText": "Can the rush grow up without mire? can the flag grow without water?"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "13042",
-      "text" : "Whilst it <span class='extra'>is<\/span> yet in his greenness, <span class='extra'>and<\/span> not cut down, it withereth before any <span class='extra'>other<\/span> herb.",
-      "plainText" : "Whilst it is yet in his greenness, and not cut down, it withereth before any other herb."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "13042",
+      "text": "Whilst it <span class='extra'>is</span> yet in his greenness, <span class='extra'>and</span> not cut down, it withereth before any <span class='extra'>other</span> herb.",
+      "plainText": "Whilst it is yet in his greenness, and not cut down, it withereth before any other herb."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "13043",
-      "text" : "So <span class='extra'>are<\/span> the paths of all that forget God; and the hypocrite's hope shall perish:",
-      "plainText" : "So are the paths of all that forget God; and the hypocrite's hope shall perish:"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "13043",
+      "text": "So <span class='extra'>are</span> the paths of all that forget God; and the hypocrite's hope shall perish:",
+      "plainText": "So are the paths of all that forget God; and the hypocrite's hope shall perish:"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "13044",
-      "text" : "Whose hope shall be cut off, and whose trust <span class='extra'>shall be<\/span> a spider's web.",
-      "plainText" : "Whose hope shall be cut off, and whose trust shall be a spider's web."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "13044",
+      "text": "Whose hope shall be cut off, and whose trust <span class='extra'>shall be</span> a spider's web.",
+      "plainText": "Whose hope shall be cut off, and whose trust shall be a spider's web."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "13045",
-      "text" : "He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure.",
-      "plainText" : "He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "13045",
+      "text": "He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure.",
+      "plainText": "He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "13046",
-      "text" : "He <span class='extra'>is<\/span> green before the sun, and his branch shooteth forth in his garden.",
-      "plainText" : "He is green before the sun, and his branch shooteth forth in his garden."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "13046",
+      "text": "He <span class='extra'>is</span> green before the sun, and his branch shooteth forth in his garden.",
+      "plainText": "He is green before the sun, and his branch shooteth forth in his garden."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "13047",
-      "text" : "His roots are wrapped about the heap, <span class='extra'>and<\/span> seeth the place of stones.",
-      "plainText" : "His roots are wrapped about the heap, and seeth the place of stones."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "13047",
+      "text": "His roots are wrapped about the heap, <span class='extra'>and</span> seeth the place of stones.",
+      "plainText": "His roots are wrapped about the heap, and seeth the place of stones."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "13048",
-      "text" : "If he destroy him from his place, then <span class='extra'>it<\/span> shall deny him, <span class='extra'>saying<\/span>, I have not seen thee.",
-      "plainText" : "If he destroy him from his place, then it shall deny him, saying, I have not seen thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "13048",
+      "text": "If he destroy him from his place, then <span class='extra'>it</span> shall deny him, <span class='extra'>saying</span>, I have not seen thee.",
+      "plainText": "If he destroy him from his place, then it shall deny him, saying, I have not seen thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "13049",
-      "text" : "Behold, this <span class='extra'>is<\/span> the joy of his way, and out of the earth shall others grow.",
-      "plainText" : "Behold, this is the joy of his way, and out of the earth shall others grow."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "13049",
+      "text": "Behold, this <span class='extra'>is</span> the joy of his way, and out of the earth shall others grow.",
+      "plainText": "Behold, this is the joy of his way, and out of the earth shall others grow."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "13050",
-      "text" : "Behold, God will not cast away a perfect <span class='extra'>man<\/span>, neither will he help the evil doers:",
-      "plainText" : "Behold, God will not cast away a perfect man, neither will he help the evil doers:"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "13050",
+      "text": "Behold, God will not cast away a perfect <span class='extra'>man</span>, neither will he help the evil doers:",
+      "plainText": "Behold, God will not cast away a perfect man, neither will he help the evil doers:"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "13051",
-      "text" : "Till he fill thy mouth with laughing, and thy lips with rejoicing.",
-      "plainText" : "Till he fill thy mouth with laughing, and thy lips with rejoicing."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "13051",
+      "text": "Till he fill thy mouth with laughing, and thy lips with rejoicing.",
+      "plainText": "Till he fill thy mouth with laughing, and thy lips with rejoicing."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "13052",
-      "text" : "They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought.",
-      "plainText" : "They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought."
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "13052",
+      "text": "They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought.",
+      "plainText": "They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought."
     }
   ]
 }
-

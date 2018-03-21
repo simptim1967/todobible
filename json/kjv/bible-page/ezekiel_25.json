@@ -1,183 +1,165 @@
 {
   "book": {
-    "number" : "26",
-    "filenamePrefix" : "ezekiel",
-    "bookPage" : "ezekiel.html",
-    "title" : "Ezekiel",
-    "chapterCount" : "48",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "daniel_1.html",
-    "nextTitle" : "Daniel",
-    "prevBook" : "lamentations_1.html",
-    "prevTitle" : "Lamentations"
+    "number": "26",
+    "filenamePrefix": "ezekiel",
+    "bookPage": "ezekiel.html",
+    "title": "Ezekiel",
+    "chapterCount": "48",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "daniel_1.html",
+    "nextTitle": "Daniel",
+    "prevBook": "lamentations_1.html",
+    "prevTitle": "Lamentations",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "25",
-    "verseCount" : "17",
-    "nextChapter" : "ezekiel_26.html",
-    "nextTitle" : "Ezekiel 26",
-    "prevChapter" : "ezekiel_24.html",
-    "prevTitle" : "Ezekiel 24",
-    "filename" : "ezekiel_25.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "25",
+    "verseCount": "17",
+    "nextChapter": "ezekiel_26.html",
+    "nextTitle": "Ezekiel 26",
+    "prevChapter": "ezekiel_24.html",
+    "prevTitle": "Ezekiel 24",
+    "filename": "ezekiel_25.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "21085",
-      "text" : "The word of the <span class='nog'>LORD<\/span> came again unto me, saying,",
-      "plainText" : "The word of the LORD came again unto me, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "21085",
+      "text": "The word of the <span class='nog'>LORD</span> came again unto me, saying,",
+      "plainText": "The word of the LORD came again unto me, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "21086",
-      "text" : "Son of man, set thy face against the Ammonites, and prophesy against them;",
-      "plainText" : "Son of man, set thy face against the Ammonites, and prophesy against them;"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "21086",
+      "text": "Son of man, set thy face against the Ammonites, and prophesy against them;",
+      "plainText": "Son of man, set thy face against the Ammonites, and prophesy against them;"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "21087",
-      "text" : "And say unto the Ammonites, Hear the word of the Lord <span class='nog'>GOD<\/span>; Thus saith the Lord <span class='nog'>GOD<\/span>; Because thou saidst, Aha, against my sanctuary, when it was profaned; and against the land of Israel, when it was desolate; and against the house of Judah, when they went into captivity;",
-      "plainText" : "And say unto the Ammonites, Hear the word of the Lord GOD; Thus saith the Lord GOD; Because thou saidst, Aha, against my sanctuary, when it was profaned; and against the land of Israel, when it was desolate; and against the house of Judah, when they went into captivity;"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "21087",
+      "text": "And say unto the Ammonites, Hear the word of the Lord <span class='nog'>GOD</span>; Thus saith the Lord <span class='nog'>GOD</span>; Because thou saidst, Aha, against my sanctuary, when it was profaned; and against the land of Israel, when it was desolate; and against the house of Judah, when they went into captivity;",
+      "plainText": "And say unto the Ammonites, Hear the word of the Lord GOD; Thus saith the Lord GOD; Because thou saidst, Aha, against my sanctuary, when it was profaned; and against the land of Israel, when it was desolate; and against the house of Judah, when they went into captivity;"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "21088",
-      "text" : "Behold, therefore I will deliver thee to the men of the east for a possession, and they shall set their palaces in thee, and make their dwellings in thee: they shall eat thy fruit, and they shall drink thy milk.",
-      "plainText" : "Behold, therefore I will deliver thee to the men of the east for a possession, and they shall set their palaces in thee, and make their dwellings in thee: they shall eat thy fruit, and they shall drink thy milk."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "21088",
+      "text": "Behold, therefore I will deliver thee to the men of the east for a possession, and they shall set their palaces in thee, and make their dwellings in thee: they shall eat thy fruit, and they shall drink thy milk.",
+      "plainText": "Behold, therefore I will deliver thee to the men of the east for a possession, and they shall set their palaces in thee, and make their dwellings in thee: they shall eat thy fruit, and they shall drink thy milk."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "21089",
-      "text" : "And I will make Rabbah a stable for camels, and the Ammonites a couchingplace for flocks: and ye shall know that I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And I will make Rabbah a stable for camels, and the Ammonites a couchingplace for flocks: and ye shall know that I am the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "21089",
+      "text": "And I will make Rabbah a stable for camels, and the Ammonites a couchingplace for flocks: and ye shall know that I <span class='extra'>am</span> the <span class='nog'>LORD</span>.",
+      "plainText": "And I will make Rabbah a stable for camels, and the Ammonites a couchingplace for flocks: and ye shall know that I am the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "21090",
-      "text" : "For thus saith the Lord <span class='nog'>GOD<\/span>; Because thou hast clapped <span class='extra'>thine<\/span> hands, and stamped with the feet, and rejoiced in heart with all thy despite against the land of Israel;",
-      "plainText" : "For thus saith the Lord GOD; Because thou hast clapped thine hands, and stamped with the feet, and rejoiced in heart with all thy despite against the land of Israel;"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "21090",
+      "text": "For thus saith the Lord <span class='nog'>GOD</span>; Because thou hast clapped <span class='extra'>thine</span> hands, and stamped with the feet, and rejoiced in heart with all thy despite against the land of Israel;",
+      "plainText": "For thus saith the Lord GOD; Because thou hast clapped thine hands, and stamped with the feet, and rejoiced in heart with all thy despite against the land of Israel;"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "21091",
-      "text" : "Behold, therefore I will stretch out mine hand upon thee, and will deliver thee for a spoil to the heathen; and I will cut thee off from the people, and I will cause thee to perish out of the countries: I will destroy thee; and thou shalt know that I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Behold, therefore I will stretch out mine hand upon thee, and will deliver thee for a spoil to the heathen; and I will cut thee off from the people, and I will cause thee to perish out of the countries: I will destroy thee; and thou shalt know that I am the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "21091",
+      "text": "Behold, therefore I will stretch out mine hand upon thee, and will deliver thee for a spoil to the heathen; and I will cut thee off from the people, and I will cause thee to perish out of the countries: I will destroy thee; and thou shalt know that I <span class='extra'>am</span> the <span class='nog'>LORD</span>.",
+      "plainText": "Behold, therefore I will stretch out mine hand upon thee, and will deliver thee for a spoil to the heathen; and I will cut thee off from the people, and I will cause thee to perish out of the countries: I will destroy thee; and thou shalt know that I am the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "21092",
-      "text" : "Thus saith the Lord <span class='nog'>GOD<\/span>; Because that Moab and Seir do say, Behold, the house of Judah <span class='extra'>is<\/span> like unto all the heathen;",
-      "plainText" : "Thus saith the Lord GOD; Because that Moab and Seir do say, Behold, the house of Judah is like unto all the heathen;"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "21092",
+      "text": "Thus saith the Lord <span class='nog'>GOD</span>; Because that Moab and Seir do say, Behold, the house of Judah <span class='extra'>is</span> like unto all the heathen;",
+      "plainText": "Thus saith the Lord GOD; Because that Moab and Seir do say, Behold, the house of Judah is like unto all the heathen;"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "21093",
-      "text" : "Therefore, behold, I will open the side of Moab from the cities, from his cities <span class='extra'>which are<\/span> on his frontiers, the glory of the country, Beth-jeshimoth, Baal-meon, and Kiriathaim,",
-      "plainText" : "Therefore, behold, I will open the side of Moab from the cities, from his cities which are on his frontiers, the glory of the country, Beth-jeshimoth, Baal-meon, and Kiriathaim,"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "21093",
+      "text": "Therefore, behold, I will open the side of Moab from the cities, from his cities <span class='extra'>which are</span> on his frontiers, the glory of the country, Beth-jeshimoth, Baal-meon, and Kiriathaim,",
+      "plainText": "Therefore, behold, I will open the side of Moab from the cities, from his cities which are on his frontiers, the glory of the country, Beth-jeshimoth, Baal-meon, and Kiriathaim,"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "21094",
-      "text" : "Unto the men of the east with the Ammonites, and will give them in possession, that the Ammonites may not be remembered among the nations.",
-      "plainText" : "Unto the men of the east with the Ammonites, and will give them in possession, that the Ammonites may not be remembered among the nations."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "21094",
+      "text": "Unto the men of the east with the Ammonites, and will give them in possession, that the Ammonites may not be remembered among the nations.",
+      "plainText": "Unto the men of the east with the Ammonites, and will give them in possession, that the Ammonites may not be remembered among the nations."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "21095",
-      "text" : "And I will execute judgments upon Moab; and they shall know that I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And I will execute judgments upon Moab; and they shall know that I am the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "21095",
+      "text": "And I will execute judgments upon Moab; and they shall know that I <span class='extra'>am</span> the <span class='nog'>LORD</span>.",
+      "plainText": "And I will execute judgments upon Moab; and they shall know that I am the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "21096",
-      "text" : "Thus saith the Lord <span class='nog'>GOD<\/span>; Because that Edom hath dealt against the house of Judah by taking vengeance, and hath greatly offended, and revenged himself upon them;",
-      "plainText" : "Thus saith the Lord GOD; Because that Edom hath dealt against the house of Judah by taking vengeance, and hath greatly offended, and revenged himself upon them;"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "21096",
+      "text": "Thus saith the Lord <span class='nog'>GOD</span>; Because that Edom hath dealt against the house of Judah by taking vengeance, and hath greatly offended, and revenged himself upon them;",
+      "plainText": "Thus saith the Lord GOD; Because that Edom hath dealt against the house of Judah by taking vengeance, and hath greatly offended, and revenged himself upon them;"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "21097",
-      "text" : "Therefore thus saith the Lord <span class='nog'>GOD<\/span>; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword.",
-      "plainText" : "Therefore thus saith the Lord GOD; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "21097",
+      "text": "Therefore thus saith the Lord <span class='nog'>GOD</span>; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword.",
+      "plainText": "Therefore thus saith the Lord GOD; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "21098",
-      "text" : "And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, saith the Lord <span class='nog'>GOD<\/span>.",
-      "plainText" : "And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, saith the Lord GOD."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "21098",
+      "text": "And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, saith the Lord <span class='nog'>GOD</span>.",
+      "plainText": "And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, saith the Lord GOD."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "21099",
-      "text" : "Thus saith the Lord <span class='nog'>GOD<\/span>; Because the Philistines have dealt by revenge, and have taken vengeance with a despiteful heart, to destroy <span class='extra'>it<\/span> for the old hatred;",
-      "plainText" : "Thus saith the Lord GOD; Because the Philistines have dealt by revenge, and have taken vengeance with a despiteful heart, to destroy it for the old hatred;"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "21099",
+      "text": "Thus saith the Lord <span class='nog'>GOD</span>; Because the Philistines have dealt by revenge, and have taken vengeance with a despiteful heart, to destroy <span class='extra'>it</span> for the old hatred;",
+      "plainText": "Thus saith the Lord GOD; Because the Philistines have dealt by revenge, and have taken vengeance with a despiteful heart, to destroy it for the old hatred;"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "21100",
-      "text" : "Therefore thus saith the Lord <span class='nog'>GOD<\/span>; Behold, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast.",
-      "plainText" : "Therefore thus saith the Lord GOD; Behold, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "21100",
+      "text": "Therefore thus saith the Lord <span class='nog'>GOD</span>; Behold, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast.",
+      "plainText": "Therefore thus saith the Lord GOD; Behold, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "21101",
-      "text" : "And I will execute great vengeance upon them with furious rebukes; and they shall know that I <span class='extra'>am<\/span> the <span class='nog'>LORD<\/span>, when I shall lay my vengeance upon them.",
-      "plainText" : "And I will execute great vengeance upon them with furious rebukes; and they shall know that I am the LORD, when I shall lay my vengeance upon them."
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "21101",
+      "text": "And I will execute great vengeance upon them with furious rebukes; and they shall know that I <span class='extra'>am</span> the <span class='nog'>LORD</span>, when I shall lay my vengeance upon them.",
+      "plainText": "And I will execute great vengeance upon them with furious rebukes; and they shall know that I am the LORD, when I shall lay my vengeance upon them."
     }
   ]
 }
-
-
-

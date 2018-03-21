@@ -1,298 +1,269 @@
 {
   "book": {
-    "number" : "27",
-    "filenamePrefix" : "daniel",
-    "bookPage" : "daniel.html",
-    "title" : "Daniel",
-    "chapterCount" : "12",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "hosea_1.html",
-    "nextTitle" : "Hosea",
-    "prevBook" : "ezekiel_1.html",
-    "prevTitle" : "Ezekiel"
+    "number": "27",
+    "filenamePrefix": "daniel",
+    "bookPage": "daniel.html",
+    "title": "Daniel",
+    "chapterCount": "12",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "hosea_1.html",
+    "nextTitle": "Hosea",
+    "prevBook": "ezekiel_1.html",
+    "prevTitle": "Ezekiel",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "3",
-    "verseCount" : "30",
-    "nextChapter" : "daniel_4.html",
-    "nextTitle" : "Daniel 4",
-    "prevChapter" : "daniel_2.html",
-    "prevTitle" : "Daniel 2",
-    "filename" : "daniel_3.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "3",
+    "verseCount": "30",
+    "nextChapter": "daniel_4.html",
+    "nextTitle": "Daniel 4",
+    "prevChapter": "daniel_2.html",
+    "prevTitle": "Daniel 2",
+    "filename": "daniel_3.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "21809",
-      "text" : "Nebuchadnezzar the king made an image of gold, whose height <span class='extra'>was<\/span> threescore cubits, <span class='extra'>and<\/span> the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon.",
-      "plainText" : "Nebuchadnezzar the king made an image of gold, whose height was threescore cubits, and the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "21809",
+      "text": "Nebuchadnezzar the king made an image of gold, whose height <span class='extra'>was</span> threescore cubits, <span class='extra'>and</span> the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon.",
+      "plainText": "Nebuchadnezzar the king made an image of gold, whose height was threescore cubits, and the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "21810",
-      "text" : "Then Nebuchadnezzar the king sent to gather together the princes, the governors, and the captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up.",
-      "plainText" : "Then Nebuchadnezzar the king sent to gather together the princes, the governors, and the captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "21810",
+      "text": "Then Nebuchadnezzar the king sent to gather together the princes, the governors, and the captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up.",
+      "plainText": "Then Nebuchadnezzar the king sent to gather together the princes, the governors, and the captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "21811",
-      "text" : "Then the princes, the governors, and captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, were gathered together unto the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up.",
-      "plainText" : "Then the princes, the governors, and captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, were gathered together unto the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "21811",
+      "text": "Then the princes, the governors, and captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, were gathered together unto the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up.",
+      "plainText": "Then the princes, the governors, and captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, were gathered together unto the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "21812",
-      "text" : "Then an herald cried aloud, To you it is commanded, O people, nations, and languages,",
-      "plainText" : "Then an herald cried aloud, To you it is commanded, O people, nations, and languages,"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "21812",
+      "text": "Then an herald cried aloud, To you it is commanded, O people, nations, and languages,",
+      "plainText": "Then an herald cried aloud, To you it is commanded, O people, nations, and languages,"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "21813",
-      "text" : "<span class='extra'>That<\/span> at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and worship the golden image that Nebuchadnezzar the king hath set up:",
-      "plainText" : "That at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and worship the golden image that Nebuchadnezzar the king hath set up:"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "21813",
+      "text": "<span class='extra'>That</span> at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and worship the golden image that Nebuchadnezzar the king hath set up:",
+      "plainText": "That at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and worship the golden image that Nebuchadnezzar the king hath set up:"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "21814",
-      "text" : "And whoso falleth not down and worshippeth shall the same hour be cast into the midst of a burning fiery furnace.",
-      "plainText" : "And whoso falleth not down and worshippeth shall the same hour be cast into the midst of a burning fiery furnace."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "21814",
+      "text": "And whoso falleth not down and worshippeth shall the same hour be cast into the midst of a burning fiery furnace.",
+      "plainText": "And whoso falleth not down and worshippeth shall the same hour be cast into the midst of a burning fiery furnace."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "21815",
-      "text" : "Therefore at that time, when all the people heard the sound of the cornet, flute, harp, sackbut, psaltery, and all kinds of musick, all the people, the nations, and the languages, fell down <span class='extra'>and<\/span> worshipped the golden image that Nebuchadnezzar the king had set up.",
-      "plainText" : "Therefore at that time, when all the people heard the sound of the cornet, flute, harp, sackbut, psaltery, and all kinds of musick, all the people, the nations, and the languages, fell down and worshipped the golden image that Nebuchadnezzar the king had set up."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "21815",
+      "text": "Therefore at that time, when all the people heard the sound of the cornet, flute, harp, sackbut, psaltery, and all kinds of musick, all the people, the nations, and the languages, fell down <span class='extra'>and</span> worshipped the golden image that Nebuchadnezzar the king had set up.",
+      "plainText": "Therefore at that time, when all the people heard the sound of the cornet, flute, harp, sackbut, psaltery, and all kinds of musick, all the people, the nations, and the languages, fell down and worshipped the golden image that Nebuchadnezzar the king had set up."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "21816",
-      "text" : "Wherefore at that time certain Chaldeans came near, and accused the Jews.",
-      "plainText" : "Wherefore at that time certain Chaldeans came near, and accused the Jews."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "21816",
+      "text": "Wherefore at that time certain Chaldeans came near, and accused the Jews.",
+      "plainText": "Wherefore at that time certain Chaldeans came near, and accused the Jews."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "21817",
-      "text" : "They spake and said to the king Nebuchadnezzar, O king, live for ever.",
-      "plainText" : "They spake and said to the king Nebuchadnezzar, O king, live for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "21817",
+      "text": "They spake and said to the king Nebuchadnezzar, O king, live for ever.",
+      "plainText": "They spake and said to the king Nebuchadnezzar, O king, live for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "21818",
-      "text" : "Thou, O king, hast made a decree, that every man that shall hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, shall fall down and worship the golden image:",
-      "plainText" : "Thou, O king, hast made a decree, that every man that shall hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, shall fall down and worship the golden image:"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "21818",
+      "text": "Thou, O king, hast made a decree, that every man that shall hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, shall fall down and worship the golden image:",
+      "plainText": "Thou, O king, hast made a decree, that every man that shall hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, shall fall down and worship the golden image:"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "21819",
-      "text" : "And whoso falleth not down and worshippeth, <span class='extra'>that<\/span> he should be cast into the midst of a burning fiery furnace.",
-      "plainText" : "And whoso falleth not down and worshippeth, that he should be cast into the midst of a burning fiery furnace."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "21819",
+      "text": "And whoso falleth not down and worshippeth, <span class='extra'>that</span> he should be cast into the midst of a burning fiery furnace.",
+      "plainText": "And whoso falleth not down and worshippeth, that he should be cast into the midst of a burning fiery furnace."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "21820",
-      "text" : "There are certain Jews whom thou hast set over the affairs of the province of Babylon, Shadrach, Meshach, and Abed-nego; these men, O king, have not regarded thee: they serve not thy gods, nor worship the golden image which thou hast set up.",
-      "plainText" : "There are certain Jews whom thou hast set over the affairs of the province of Babylon, Shadrach, Meshach, and Abed-nego; these men, O king, have not regarded thee: they serve not thy gods, nor worship the golden image which thou hast set up."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "21820",
+      "text": "There are certain Jews whom thou hast set over the affairs of the province of Babylon, Shadrach, Meshach, and Abed-nego; these men, O king, have not regarded thee: they serve not thy gods, nor worship the golden image which thou hast set up.",
+      "plainText": "There are certain Jews whom thou hast set over the affairs of the province of Babylon, Shadrach, Meshach, and Abed-nego; these men, O king, have not regarded thee: they serve not thy gods, nor worship the golden image which thou hast set up."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "21821",
-      "text" : "Then Nebuchadnezzar in <span class='extra'>his<\/span> rage and fury commanded to bring Shadrach, Meshach, and Abed-nego. Then they brought these men before the king.",
-      "plainText" : "Then Nebuchadnezzar in his rage and fury commanded to bring Shadrach, Meshach, and Abed-nego. Then they brought these men before the king."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "21821",
+      "text": "Then Nebuchadnezzar in <span class='extra'>his</span> rage and fury commanded to bring Shadrach, Meshach, and Abed-nego. Then they brought these men before the king.",
+      "plainText": "Then Nebuchadnezzar in his rage and fury commanded to bring Shadrach, Meshach, and Abed-nego. Then they brought these men before the king."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "21822",
-      "text" : "Nebuchadnezzar spake and said unto them, <span class='extra'>Is it<\/span> true, O Shadrach, Meshach, and Abed-nego, do not ye serve my gods, nor worship the golden image which I have set up?",
-      "plainText" : "Nebuchadnezzar spake and said unto them, Is it true, O Shadrach, Meshach, and Abed-nego, do not ye serve my gods, nor worship the golden image which I have set up?"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "21822",
+      "text": "Nebuchadnezzar spake and said unto them, <span class='extra'>Is it</span> true, O Shadrach, Meshach, and Abed-nego, do not ye serve my gods, nor worship the golden image which I have set up?",
+      "plainText": "Nebuchadnezzar spake and said unto them, Is it true, O Shadrach, Meshach, and Abed-nego, do not ye serve my gods, nor worship the golden image which I have set up?"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "21823",
-      "text" : "Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, ye fall down and worship the image which I have made; <span class='extra'>well:<\/span> but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who <span class='extra'>is<\/span> that God that shall deliver you out of my hands?",
-      "plainText" : "Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, ye fall down and worship the image which I have made; well: but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who is that God that shall deliver you out of my hands?"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "21823",
+      "text": "Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, ye fall down and worship the image which I have made; <span class='extra'>well:</span> but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who <span class='extra'>is</span> that God that shall deliver you out of my hands?",
+      "plainText": "Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, ye fall down and worship the image which I have made; well: but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who is that God that shall deliver you out of my hands?"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "21824",
-      "text" : "Shadrach, Meshach, and Abed-nego, answered and said to the king, O Nebuchadnezzar, we <span class='extra'>are<\/span> not careful to answer thee in this matter.",
-      "plainText" : "Shadrach, Meshach, and Abed-nego, answered and said to the king, O Nebuchadnezzar, we are not careful to answer thee in this matter."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "21824",
+      "text": "Shadrach, Meshach, and Abed-nego, answered and said to the king, O Nebuchadnezzar, we <span class='extra'>are</span> not careful to answer thee in this matter.",
+      "plainText": "Shadrach, Meshach, and Abed-nego, answered and said to the king, O Nebuchadnezzar, we are not careful to answer thee in this matter."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "21825",
-      "text" : "If it be <span class='extra'>so<\/span>, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver <span class='extra'>us<\/span> out of thine hand, O king.",
-      "plainText" : "If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "21825",
+      "text": "If it be <span class='extra'>so</span>, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver <span class='extra'>us</span> out of thine hand, O king.",
+      "plainText": "If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "21826",
-      "text" : "But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up.",
-      "plainText" : "But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "21826",
+      "text": "But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up.",
+      "plainText": "But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "21827",
-      "text" : "Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abed-nego: <span class='extra'>therefore<\/span> he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated.",
-      "plainText" : "Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abed-nego: therefore he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "21827",
+      "text": "Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abed-nego: <span class='extra'>therefore</span> he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated.",
+      "plainText": "Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abed-nego: therefore he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "21828",
-      "text" : "And he commanded the most mighty men that <span class='extra'>were<\/span> in his army to bind Shadrach, Meshach, and Abed-nego, <span class='extra'>and<\/span> to cast <span class='extra'>them<\/span> into the burning fiery furnace.",
-      "plainText" : "And he commanded the most mighty men that were in his army to bind Shadrach, Meshach, and Abed-nego, and to cast them into the burning fiery furnace."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "21828",
+      "text": "And he commanded the most mighty men that <span class='extra'>were</span> in his army to bind Shadrach, Meshach, and Abed-nego, <span class='extra'>and</span> to cast <span class='extra'>them</span> into the burning fiery furnace.",
+      "plainText": "And he commanded the most mighty men that were in his army to bind Shadrach, Meshach, and Abed-nego, and to cast them into the burning fiery furnace."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "21829",
-      "text" : "Then these men were bound in their coats, their hosen, and their hats, and their <span class='extra'>other<\/span> garments, and were cast into the midst of the burning fiery furnace.",
-      "plainText" : "Then these men were bound in their coats, their hosen, and their hats, and their other garments, and were cast into the midst of the burning fiery furnace."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "21829",
+      "text": "Then these men were bound in their coats, their hosen, and their hats, and their <span class='extra'>other</span> garments, and were cast into the midst of the burning fiery furnace.",
+      "plainText": "Then these men were bound in their coats, their hosen, and their hats, and their other garments, and were cast into the midst of the burning fiery furnace."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "21830",
-      "text" : "Therefore because the king's commandment was urgent, and the furnace exceeding hot, the flame of the fire slew those men that took up Shadrach, Meshach, and Abed-nego.",
-      "plainText" : "Therefore because the king's commandment was urgent, and the furnace exceeding hot, the flame of the fire slew those men that took up Shadrach, Meshach, and Abed-nego."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "21830",
+      "text": "Therefore because the king's commandment was urgent, and the furnace exceeding hot, the flame of the fire slew those men that took up Shadrach, Meshach, and Abed-nego.",
+      "plainText": "Therefore because the king's commandment was urgent, and the furnace exceeding hot, the flame of the fire slew those men that took up Shadrach, Meshach, and Abed-nego."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "21831",
-      "text" : "And these three men, Shadrach, Meshach, and Abed-nego, fell down bound into the midst of the burning fiery furnace.",
-      "plainText" : "And these three men, Shadrach, Meshach, and Abed-nego, fell down bound into the midst of the burning fiery furnace."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "21831",
+      "text": "And these three men, Shadrach, Meshach, and Abed-nego, fell down bound into the midst of the burning fiery furnace.",
+      "plainText": "And these three men, Shadrach, Meshach, and Abed-nego, fell down bound into the midst of the burning fiery furnace."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "21832",
-      "text" : "Then Nebuchadnezzar the king was astonied, and rose up in haste, <span class='extra'>and<\/span> spake, and said unto his counsellors, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king.",
-      "plainText" : "Then Nebuchadnezzar the king was astonied, and rose up in haste, and spake, and said unto his counsellors, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "21832",
+      "text": "Then Nebuchadnezzar the king was astonied, and rose up in haste, <span class='extra'>and</span> spake, and said unto his counsellors, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king.",
+      "plainText": "Then Nebuchadnezzar the king was astonied, and rose up in haste, and spake, and said unto his counsellors, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "21833",
-      "text" : "He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.",
-      "plainText" : "He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "21833",
+      "text": "He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.",
+      "plainText": "He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "21834",
-      "text" : "Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, <span class='extra'>and<\/span> spake, and said, Shadrach, Meshach, and Abed-nego, ye servants of the most high God, come forth, and come <span class='extra'>hither<\/span>. Then Shadrach, Meshach, and Abed-nego, came forth of the midst of the fire.",
-      "plainText" : "Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, and spake, and said, Shadrach, Meshach, and Abed-nego, ye servants of the most high God, come forth, and come hither. Then Shadrach, Meshach, and Abed-nego, came forth of the midst of the fire."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "21834",
+      "text": "Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, <span class='extra'>and</span> spake, and said, Shadrach, Meshach, and Abed-nego, ye servants of the most high God, come forth, and come <span class='extra'>hither</span>. Then Shadrach, Meshach, and Abed-nego, came forth of the midst of the fire.",
+      "plainText": "Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, and spake, and said, Shadrach, Meshach, and Abed-nego, ye servants of the most high God, come forth, and come hither. Then Shadrach, Meshach, and Abed-nego, came forth of the midst of the fire."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "21835",
-      "text" : "And the princes, governors, and captains, and the king's counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them.",
-      "plainText" : "And the princes, governors, and captains, and the king's counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "21835",
+      "text": "And the princes, governors, and captains, and the king's counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them.",
+      "plainText": "And the princes, governors, and captains, and the king's counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "21836",
-      "text" : "<span class='extra'>Then<\/span> Nebuchadnezzar spake, and said, Blessed <span class='extra'>be<\/span> the God of Shadrach, Meshach, and Abed-nego, who hath sent his angel, and delivered his servants that trusted in him, and have changed the king's word, and yielded their bodies, that they might not serve nor worship any god, except their own God.",
-      "plainText" : "Then Nebuchadnezzar spake, and said, Blessed be the God of Shadrach, Meshach, and Abed-nego, who hath sent his angel, and delivered his servants that trusted in him, and have changed the king's word, and yielded their bodies, that they might not serve nor worship any god, except their own God."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "21836",
+      "text": "<span class='extra'>Then</span> Nebuchadnezzar spake, and said, Blessed <span class='extra'>be</span> the God of Shadrach, Meshach, and Abed-nego, who hath sent his angel, and delivered his servants that trusted in him, and have changed the king's word, and yielded their bodies, that they might not serve nor worship any god, except their own God.",
+      "plainText": "Then Nebuchadnezzar spake, and said, Blessed be the God of Shadrach, Meshach, and Abed-nego, who hath sent his angel, and delivered his servants that trusted in him, and have changed the king's word, and yielded their bodies, that they might not serve nor worship any god, except their own God."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "21837",
-      "text" : "Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abed-nego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort.",
-      "plainText" : "Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abed-nego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "21837",
+      "text": "Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abed-nego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort.",
+      "plainText": "Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abed-nego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "21838",
-      "text" : "Then the king promoted Shadrach, Meshach, and Abed-nego, in the province of Babylon.",
-      "plainText" : "Then the king promoted Shadrach, Meshach, and Abed-nego, in the province of Babylon."
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "21838",
+      "text": "Then the king promoted Shadrach, Meshach, and Abed-nego, in the province of Babylon.",
+      "plainText": "Then the king promoted Shadrach, Meshach, and Abed-nego, in the province of Babylon."
     }
   ]
 }
-

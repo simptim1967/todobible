@@ -1,504 +1,451 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "89",
-    "verseCount" : "52",
-    "nextChapter" : "psalms_90.html",
-    "nextTitle" : "Psalms 90",
-    "prevChapter" : "psalms_88.html",
-    "prevTitle" : "Psalms 88",
-    "filename" : "psalms_89.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "89",
+    "verseCount": "52",
+    "nextChapter": "psalms_90.html",
+    "nextTitle": "Psalms 90",
+    "prevChapter": "psalms_88.html",
+    "prevTitle": "Psalms 88",
+    "filename": "psalms_89.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "Maschil of Ethan the Ezrahite.",
-      "plainText" : "Maschil of Ethan the Ezrahite."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "Maschil of Ethan the Ezrahite.",
+      "plainText": "Maschil of Ethan the Ezrahite."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "15328",
-      "text" : "I will sing of the mercies of the <span class='nog'>LORD<\/span> for ever: with my mouth will I make known thy faithfulness to all generations.",
-      "plainText" : "I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "15328",
+      "text": "I will sing of the mercies of the <span class='nog'>LORD</span> for ever: with my mouth will I make known thy faithfulness to all generations.",
+      "plainText": "I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "15329",
-      "text" : "For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens.",
-      "plainText" : "For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "15329",
+      "text": "For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens.",
+      "plainText": "For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "15330",
-      "text" : "I have made a covenant with my chosen, I have sworn unto David my servant,",
-      "plainText" : "I have made a covenant with my chosen, I have sworn unto David my servant,"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "15330",
+      "text": "I have made a covenant with my chosen, I have sworn unto David my servant,",
+      "plainText": "I have made a covenant with my chosen, I have sworn unto David my servant,"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "15331",
-      "text" : "Thy seed will I establish for ever, and build up thy throne to all generations. Selah.",
-      "plainText" : "Thy seed will I establish for ever, and build up thy throne to all generations. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "15331",
+      "text": "Thy seed will I establish for ever, and build up thy throne to all generations. Selah.",
+      "plainText": "Thy seed will I establish for ever, and build up thy throne to all generations. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "15332",
-      "text" : "And the heavens shall praise thy wonders, O <span class='nog'>LORD<\/span>: thy faithfulness also in the congregation of the saints.",
-      "plainText" : "And the heavens shall praise thy wonders, O LORD: thy faithfulness also in the congregation of the saints."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "15332",
+      "text": "And the heavens shall praise thy wonders, O <span class='nog'>LORD</span>: thy faithfulness also in the congregation of the saints.",
+      "plainText": "And the heavens shall praise thy wonders, O LORD: thy faithfulness also in the congregation of the saints."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "15333",
-      "text" : "For who in the heaven can be compared unto the <span class='nog'>LORD<\/span>? <span class='extra'>who<\/span> among the sons of the mighty can be likened unto the <span class='nog'>LORD<\/span>?",
-      "plainText" : "For who in the heaven can be compared unto the LORD? who among the sons of the mighty can be likened unto the LORD?"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "15333",
+      "text": "For who in the heaven can be compared unto the <span class='nog'>LORD</span>? <span class='extra'>who</span> among the sons of the mighty can be likened unto the <span class='nog'>LORD</span>?",
+      "plainText": "For who in the heaven can be compared unto the LORD? who among the sons of the mighty can be likened unto the LORD?"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "15334",
-      "text" : "God is greatly to be feared in the assembly of the saints, and to be had in reverence of all <span class='extra'>them that are<\/span> about him.",
-      "plainText" : "God is greatly to be feared in the assembly of the saints, and to be had in reverence of all them that are about him."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "15334",
+      "text": "God is greatly to be feared in the assembly of the saints, and to be had in reverence of all <span class='extra'>them that are</span> about him.",
+      "plainText": "God is greatly to be feared in the assembly of the saints, and to be had in reverence of all them that are about him."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "15335",
-      "text" : "O <span class='nog'>LORD<\/span> God of hosts, who <span class='extra'>is<\/span> a strong <span class='nog'>LORD<\/span> like unto thee? or to thy faithfulness round about thee?",
-      "plainText" : "O LORD God of hosts, who is a strong LORD like unto thee? or to thy faithfulness round about thee?"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "15335",
+      "text": "O <span class='nog'>LORD</span> God of hosts, who <span class='extra'>is</span> a strong <span class='nog'>LORD</span> like unto thee? or to thy faithfulness round about thee?",
+      "plainText": "O LORD God of hosts, who is a strong LORD like unto thee? or to thy faithfulness round about thee?"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "15336",
-      "text" : "Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them.",
-      "plainText" : "Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "15336",
+      "text": "Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them.",
+      "plainText": "Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "15337",
-      "text" : "Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thine enemies with thy strong arm.",
-      "plainText" : "Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thine enemies with thy strong arm."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "15337",
+      "text": "Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thine enemies with thy strong arm.",
+      "plainText": "Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thine enemies with thy strong arm."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "15338",
-      "text" : "The heavens <span class='extra'>are<\/span> thine, the earth also <span class='extra'>is<\/span> thine: <span class='extra'>as for<\/span> the world and the fulness thereof, thou hast founded them.",
-      "plainText" : "The heavens are thine, the earth also is thine: as for the world and the fulness thereof, thou hast founded them."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "15338",
+      "text": "The heavens <span class='extra'>are</span> thine, the earth also <span class='extra'>is</span> thine: <span class='extra'>as for</span> the world and the fulness thereof, thou hast founded them.",
+      "plainText": "The heavens are thine, the earth also is thine: as for the world and the fulness thereof, thou hast founded them."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "15339",
-      "text" : "The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name.",
-      "plainText" : "The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "15339",
+      "text": "The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name.",
+      "plainText": "The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "15340",
-      "text" : "Thou hast a mighty arm: strong is thy hand, <span class='extra'>and<\/span> high is thy right hand.",
-      "plainText" : "Thou hast a mighty arm: strong is thy hand, and high is thy right hand."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "15340",
+      "text": "Thou hast a mighty arm: strong is thy hand, <span class='extra'>and</span> high is thy right hand.",
+      "plainText": "Thou hast a mighty arm: strong is thy hand, and high is thy right hand."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "15341",
-      "text" : "Justice and judgment <span class='extra'>are<\/span> the habitation of thy throne: mercy and truth shall go before thy face.",
-      "plainText" : "Justice and judgment are the habitation of thy throne: mercy and truth shall go before thy face."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "15341",
+      "text": "Justice and judgment <span class='extra'>are</span> the habitation of thy throne: mercy and truth shall go before thy face.",
+      "plainText": "Justice and judgment are the habitation of thy throne: mercy and truth shall go before thy face."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "15342",
-      "text" : "Blessed <span class='extra'>is<\/span> the people that know the joyful sound: they shall walk, O <span class='nog'>LORD<\/span>, in the light of thy countenance.",
-      "plainText" : "Blessed is the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "15342",
+      "text": "Blessed <span class='extra'>is</span> the people that know the joyful sound: they shall walk, O <span class='nog'>LORD</span>, in the light of thy countenance.",
+      "plainText": "Blessed is the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "15343",
-      "text" : "In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted.",
-      "plainText" : "In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "15343",
+      "text": "In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted.",
+      "plainText": "In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "15344",
-      "text" : "For thou <span class='extra'>art<\/span> the glory of their strength: and in thy favour our horn shall be exalted.",
-      "plainText" : "For thou art the glory of their strength: and in thy favour our horn shall be exalted."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "15344",
+      "text": "For thou <span class='extra'>art</span> the glory of their strength: and in thy favour our horn shall be exalted.",
+      "plainText": "For thou art the glory of their strength: and in thy favour our horn shall be exalted."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "15345",
-      "text" : "For the <span class='nog'>LORD<\/span> <span class='extra'>is<\/span> our defence; and the Holy One of Israel <span class='extra'>is<\/span> our king.",
-      "plainText" : "For the LORD is our defence; and the Holy One of Israel is our king."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "15345",
+      "text": "For the <span class='nog'>LORD</span> <span class='extra'>is</span> our defence; and the Holy One of Israel <span class='extra'>is</span> our king.",
+      "plainText": "For the LORD is our defence; and the Holy One of Israel is our king."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "15346",
-      "text" : "Then thou spakest in vision to thy holy one, and saidst, I have laid help upon <span class='extra'>one that is<\/span> mighty; I have exalted <span class='extra'>one<\/span> chosen out of the people.",
-      "plainText" : "Then thou spakest in vision to thy holy one, and saidst, I have laid help upon one that is mighty; I have exalted one chosen out of the people."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "15346",
+      "text": "Then thou spakest in vision to thy holy one, and saidst, I have laid help upon <span class='extra'>one that is</span> mighty; I have exalted <span class='extra'>one</span> chosen out of the people.",
+      "plainText": "Then thou spakest in vision to thy holy one, and saidst, I have laid help upon one that is mighty; I have exalted one chosen out of the people."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "15347",
-      "text" : "I have found David my servant; with my holy oil have I anointed him:",
-      "plainText" : "I have found David my servant; with my holy oil have I anointed him:"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "15347",
+      "text": "I have found David my servant; with my holy oil have I anointed him:",
+      "plainText": "I have found David my servant; with my holy oil have I anointed him:"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "15348",
-      "text" : "With whom my hand shall be established: mine arm also shall strengthen him.",
-      "plainText" : "With whom my hand shall be established: mine arm also shall strengthen him."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "15348",
+      "text": "With whom my hand shall be established: mine arm also shall strengthen him.",
+      "plainText": "With whom my hand shall be established: mine arm also shall strengthen him."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "15349",
-      "text" : "The enemy shall not exact upon him; nor the son of wickedness afflict him.",
-      "plainText" : "The enemy shall not exact upon him; nor the son of wickedness afflict him."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "15349",
+      "text": "The enemy shall not exact upon him; nor the son of wickedness afflict him.",
+      "plainText": "The enemy shall not exact upon him; nor the son of wickedness afflict him."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "15350",
-      "text" : "And I will beat down his foes before his face, and plague them that hate him.",
-      "plainText" : "And I will beat down his foes before his face, and plague them that hate him."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "15350",
+      "text": "And I will beat down his foes before his face, and plague them that hate him.",
+      "plainText": "And I will beat down his foes before his face, and plague them that hate him."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "15351",
-      "text" : "But my faithfulness and my mercy <span class='extra'>shall be<\/span> with him: and in my name shall his horn be exalted.",
-      "plainText" : "But my faithfulness and my mercy shall be with him: and in my name shall his horn be exalted."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "15351",
+      "text": "But my faithfulness and my mercy <span class='extra'>shall be</span> with him: and in my name shall his horn be exalted.",
+      "plainText": "But my faithfulness and my mercy shall be with him: and in my name shall his horn be exalted."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "15352",
-      "text" : "I will set his hand also in the sea, and his right hand in the rivers.",
-      "plainText" : "I will set his hand also in the sea, and his right hand in the rivers."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "15352",
+      "text": "I will set his hand also in the sea, and his right hand in the rivers.",
+      "plainText": "I will set his hand also in the sea, and his right hand in the rivers."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "15353",
-      "text" : "He shall cry unto me, Thou <span class='extra'>art<\/span> my father, my God, and the rock of my salvation.",
-      "plainText" : "He shall cry unto me, Thou art my father, my God, and the rock of my salvation."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "15353",
+      "text": "He shall cry unto me, Thou <span class='extra'>art</span> my father, my God, and the rock of my salvation.",
+      "plainText": "He shall cry unto me, Thou art my father, my God, and the rock of my salvation."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "15354",
-      "text" : "Also I will make him <span class='extra'>my<\/span> firstborn, higher than the kings of the earth.",
-      "plainText" : "Also I will make him my firstborn, higher than the kings of the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "15354",
+      "text": "Also I will make him <span class='extra'>my</span> firstborn, higher than the kings of the earth.",
+      "plainText": "Also I will make him my firstborn, higher than the kings of the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "15355",
-      "text" : "My mercy will I keep for him for evermore, and my covenant shall stand fast with him.",
-      "plainText" : "My mercy will I keep for him for evermore, and my covenant shall stand fast with him."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "15355",
+      "text": "My mercy will I keep for him for evermore, and my covenant shall stand fast with him.",
+      "plainText": "My mercy will I keep for him for evermore, and my covenant shall stand fast with him."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "15356",
-      "text" : "His seed also will I make <span class='extra'>to endure<\/span> for ever, and his throne as the days of heaven.",
-      "plainText" : "His seed also will I make to endure for ever, and his throne as the days of heaven."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "15356",
+      "text": "His seed also will I make <span class='extra'>to endure</span> for ever, and his throne as the days of heaven.",
+      "plainText": "His seed also will I make to endure for ever, and his throne as the days of heaven."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "15357",
-      "text" : "If his children forsake my law, and walk not in my judgments;",
-      "plainText" : "If his children forsake my law, and walk not in my judgments;"
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "15357",
+      "text": "If his children forsake my law, and walk not in my judgments;",
+      "plainText": "If his children forsake my law, and walk not in my judgments;"
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "15358",
-      "text" : "If they break my statutes, and keep not my commandments;",
-      "plainText" : "If they break my statutes, and keep not my commandments;"
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "15358",
+      "text": "If they break my statutes, and keep not my commandments;",
+      "plainText": "If they break my statutes, and keep not my commandments;"
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "15359",
-      "text" : "Then will I visit their transgression with the rod, and their iniquity with stripes.",
-      "plainText" : "Then will I visit their transgression with the rod, and their iniquity with stripes."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "15359",
+      "text": "Then will I visit their transgression with the rod, and their iniquity with stripes.",
+      "plainText": "Then will I visit their transgression with the rod, and their iniquity with stripes."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "15360",
-      "text" : "Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail.",
-      "plainText" : "Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "15360",
+      "text": "Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail.",
+      "plainText": "Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "15361",
-      "text" : "My covenant will I not break, nor alter the thing that is gone out of my lips.",
-      "plainText" : "My covenant will I not break, nor alter the thing that is gone out of my lips."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "15361",
+      "text": "My covenant will I not break, nor alter the thing that is gone out of my lips.",
+      "plainText": "My covenant will I not break, nor alter the thing that is gone out of my lips."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "15362",
-      "text" : "Once have I sworn by my holiness that I will not lie unto David.",
-      "plainText" : "Once have I sworn by my holiness that I will not lie unto David."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "15362",
+      "text": "Once have I sworn by my holiness that I will not lie unto David.",
+      "plainText": "Once have I sworn by my holiness that I will not lie unto David."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "15363",
-      "text" : "His seed shall endure for ever, and his throne as the sun before me.",
-      "plainText" : "His seed shall endure for ever, and his throne as the sun before me."
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "15363",
+      "text": "His seed shall endure for ever, and his throne as the sun before me.",
+      "plainText": "His seed shall endure for ever, and his throne as the sun before me."
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "15364",
-      "text" : "It shall be established for ever as the moon, and <span class='extra'>as<\/span> a faithful witness in heaven. Selah.",
-      "plainText" : "It shall be established for ever as the moon, and as a faithful witness in heaven. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "15364",
+      "text": "It shall be established for ever as the moon, and <span class='extra'>as</span> a faithful witness in heaven. Selah.",
+      "plainText": "It shall be established for ever as the moon, and as a faithful witness in heaven. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "15365",
-      "text" : "But thou hast cast off and abhorred, thou hast been wroth with thine anointed.",
-      "plainText" : "But thou hast cast off and abhorred, thou hast been wroth with thine anointed."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "15365",
+      "text": "But thou hast cast off and abhorred, thou hast been wroth with thine anointed.",
+      "plainText": "But thou hast cast off and abhorred, thou hast been wroth with thine anointed."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "15366",
-      "text" : "Thou hast made void the covenant of thy servant: thou hast profaned his crown <span class='extra'>by casting it<\/span> to the ground.",
-      "plainText" : "Thou hast made void the covenant of thy servant: thou hast profaned his crown by casting it to the ground."
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "15366",
+      "text": "Thou hast made void the covenant of thy servant: thou hast profaned his crown <span class='extra'>by casting it</span> to the ground.",
+      "plainText": "Thou hast made void the covenant of thy servant: thou hast profaned his crown by casting it to the ground."
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "15367",
-      "text" : "Thou hast broken down all his hedges; thou hast brought his strong holds to ruin.",
-      "plainText" : "Thou hast broken down all his hedges; thou hast brought his strong holds to ruin."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "15367",
+      "text": "Thou hast broken down all his hedges; thou hast brought his strong holds to ruin.",
+      "plainText": "Thou hast broken down all his hedges; thou hast brought his strong holds to ruin."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "15368",
-      "text" : "All that pass by the way spoil him: he is a reproach to his neighbours.",
-      "plainText" : "All that pass by the way spoil him: he is a reproach to his neighbours."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "15368",
+      "text": "All that pass by the way spoil him: he is a reproach to his neighbours.",
+      "plainText": "All that pass by the way spoil him: he is a reproach to his neighbours."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "15369",
-      "text" : "Thou hast set up the right hand of his adversaries; thou hast made all his enemies to rejoice.",
-      "plainText" : "Thou hast set up the right hand of his adversaries; thou hast made all his enemies to rejoice."
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "15369",
+      "text": "Thou hast set up the right hand of his adversaries; thou hast made all his enemies to rejoice.",
+      "plainText": "Thou hast set up the right hand of his adversaries; thou hast made all his enemies to rejoice."
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "15370",
-      "text" : "Thou hast also turned the edge of his sword, and hast not made him to stand in the battle.",
-      "plainText" : "Thou hast also turned the edge of his sword, and hast not made him to stand in the battle."
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "15370",
+      "text": "Thou hast also turned the edge of his sword, and hast not made him to stand in the battle.",
+      "plainText": "Thou hast also turned the edge of his sword, and hast not made him to stand in the battle."
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "15371",
-      "text" : "Thou hast made his glory to cease, and cast his throne down to the ground.",
-      "plainText" : "Thou hast made his glory to cease, and cast his throne down to the ground."
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "15371",
+      "text": "Thou hast made his glory to cease, and cast his throne down to the ground.",
+      "plainText": "Thou hast made his glory to cease, and cast his throne down to the ground."
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "15372",
-      "text" : "The days of his youth hast thou shortened: thou hast covered him with shame. Selah.",
-      "plainText" : "The days of his youth hast thou shortened: thou hast covered him with shame. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "15372",
+      "text": "The days of his youth hast thou shortened: thou hast covered him with shame. Selah.",
+      "plainText": "The days of his youth hast thou shortened: thou hast covered him with shame. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "15373",
-      "text" : "How long, <span class='nog'>LORD<\/span>? wilt thou hide thyself for ever? shall thy wrath burn like fire?",
-      "plainText" : "How long, LORD? wilt thou hide thyself for ever? shall thy wrath burn like fire?"
-    }
-    ,
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "15373",
+      "text": "How long, <span class='nog'>LORD</span>? wilt thou hide thyself for ever? shall thy wrath burn like fire?",
+      "plainText": "How long, LORD? wilt thou hide thyself for ever? shall thy wrath burn like fire?"
+    },
     {
-      "type" : "verse",
-      "id" : "v47",
-      "number" : "47",
-      "absolute" : "15374",
-      "text" : "Remember how short my time is: wherefore hast thou made all men in vain?",
-      "plainText" : "Remember how short my time is: wherefore hast thou made all men in vain?"
-    }
-    ,
+      "type": "verse",
+      "id": "v47",
+      "number": "47",
+      "absolute": "15374",
+      "text": "Remember how short my time is: wherefore hast thou made all men in vain?",
+      "plainText": "Remember how short my time is: wherefore hast thou made all men in vain?"
+    },
     {
-      "type" : "verse",
-      "id" : "v48",
-      "number" : "48",
-      "absolute" : "15375",
-      "text" : "What man <span class='extra'>is he that<\/span> liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah.",
-      "plainText" : "What man is he that liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v48",
+      "number": "48",
+      "absolute": "15375",
+      "text": "What man <span class='extra'>is he that</span> liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah.",
+      "plainText": "What man is he that liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v49",
-      "number" : "49",
-      "absolute" : "15376",
-      "text" : "Lord, where <span class='extra'>are<\/span> thy former lovingkindnesses, <span class='extra'>which<\/span> thou swarest unto David in thy truth?",
-      "plainText" : "Lord, where are thy former lovingkindnesses, which thou swarest unto David in thy truth?"
-    }
-    ,
+      "type": "verse",
+      "id": "v49",
+      "number": "49",
+      "absolute": "15376",
+      "text": "Lord, where <span class='extra'>are</span> thy former lovingkindnesses, <span class='extra'>which</span> thou swarest unto David in thy truth?",
+      "plainText": "Lord, where are thy former lovingkindnesses, which thou swarest unto David in thy truth?"
+    },
     {
-      "type" : "verse",
-      "id" : "v50",
-      "number" : "50",
-      "absolute" : "15377",
-      "text" : "Remember, Lord, the reproach of thy servants; <span class='extra'>how<\/span> I do bear in my bosom <span class='extra'>the reproach of<\/span> all the mighty people;",
-      "plainText" : "Remember, Lord, the reproach of thy servants; how I do bear in my bosom the reproach of all the mighty people;"
-    }
-    ,
+      "type": "verse",
+      "id": "v50",
+      "number": "50",
+      "absolute": "15377",
+      "text": "Remember, Lord, the reproach of thy servants; <span class='extra'>how</span> I do bear in my bosom <span class='extra'>the reproach of</span> all the mighty people;",
+      "plainText": "Remember, Lord, the reproach of thy servants; how I do bear in my bosom the reproach of all the mighty people;"
+    },
     {
-      "type" : "verse",
-      "id" : "v51",
-      "number" : "51",
-      "absolute" : "15378",
-      "text" : "Wherewith thine enemies have reproached, O <span class='nog'>LORD<\/span>; wherewith they have reproached the footsteps of thine anointed.",
-      "plainText" : "Wherewith thine enemies have reproached, O LORD; wherewith they have reproached the footsteps of thine anointed."
-    }
-    ,
+      "type": "verse",
+      "id": "v51",
+      "number": "51",
+      "absolute": "15378",
+      "text": "Wherewith thine enemies have reproached, O <span class='nog'>LORD</span>; wherewith they have reproached the footsteps of thine anointed.",
+      "plainText": "Wherewith thine enemies have reproached, O LORD; wherewith they have reproached the footsteps of thine anointed."
+    },
     {
-      "type" : "verse",
-      "id" : "v52",
-      "number" : "52",
-      "absolute" : "15379",
-      "text" : "Blessed <span class='extra'>be<\/span> the <span class='nog'>LORD<\/span> for evermore. Amen, and Amen.",
-      "plainText" : "Blessed be the LORD for evermore. Amen, and Amen."
+      "type": "verse",
+      "id": "v52",
+      "number": "52",
+      "absolute": "15379",
+      "text": "Blessed <span class='extra'>be</span> the <span class='nog'>LORD</span> for evermore. Amen, and Amen.",
+      "plainText": "Blessed be the LORD for evermore. Amen, and Amen."
     }
   ]
 }
-
-

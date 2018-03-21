@@ -1,271 +1,245 @@
 {
   "book": {
-    "number" : "59",
-    "filenamePrefix" : "james",
-    "bookPage" : "james.html",
-    "title" : "James",
-    "chapterCount" : "5",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "1peter_1.html",
-    "nextTitle" : "1 Peter",
-    "prevBook" : "hebrews_1.html",
-    "prevTitle" : "Hebrews"
+    "number": "59",
+    "filenamePrefix": "james",
+    "bookPage": "james.html",
+    "title": "James",
+    "chapterCount": "5",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "1peter_1.html",
+    "nextTitle": "1 Peter",
+    "prevBook": "hebrews_1.html",
+    "prevTitle": "Hebrews",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "1",
-    "verseCount" : "27",
-    "nextChapter" : "james_2.html",
-    "nextTitle" : "James 2",
-    "prevChapter" : "hebrews_13.html",
-    "prevTitle" : "Hebrews 13",
-    "filename" : "james_1.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "1",
+    "verseCount": "27",
+    "nextChapter": "james_2.html",
+    "nextTitle": "James 2",
+    "prevChapter": "hebrews_13.html",
+    "prevTitle": "Hebrews 13",
+    "filename": "james_1.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "30268",
-      "text" : "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.",
-      "plainText" : "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "30268",
+      "text": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.",
+      "plainText": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "30269",
-      "text" : "My brethren, count it all joy when ye fall into divers temptations;",
-      "plainText" : "My brethren, count it all joy when ye fall into divers temptations;"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "30269",
+      "text": "My brethren, count it all joy when ye fall into divers temptations;",
+      "plainText": "My brethren, count it all joy when ye fall into divers temptations;"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "30270",
-      "text" : "Knowing <span class='extra'>this<\/span>, that the trying of your faith worketh patience.",
-      "plainText" : "Knowing this, that the trying of your faith worketh patience."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "30270",
+      "text": "Knowing <span class='extra'>this</span>, that the trying of your faith worketh patience.",
+      "plainText": "Knowing this, that the trying of your faith worketh patience."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "30271",
-      "text" : "But let patience have <span class='extra'>her<\/span> perfect work, that ye may be perfect and entire, wanting nothing.",
-      "plainText" : "But let patience have her perfect work, that ye may be perfect and entire, wanting nothing."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "30271",
+      "text": "But let patience have <span class='extra'>her</span> perfect work, that ye may be perfect and entire, wanting nothing.",
+      "plainText": "But let patience have her perfect work, that ye may be perfect and entire, wanting nothing."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "30272",
-      "text" : "If any of you lack wisdom, let him ask of God, that giveth to all <span class='extra'>men<\/span> liberally, and upbraideth not; and it shall be given him.",
-      "plainText" : "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "30272",
+      "text": "If any of you lack wisdom, let him ask of God, that giveth to all <span class='extra'>men</span> liberally, and upbraideth not; and it shall be given him.",
+      "plainText": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "30273",
-      "text" : "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.",
-      "plainText" : "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "30273",
+      "text": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.",
+      "plainText": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "30274",
-      "text" : "For let not that man think that he shall receive any thing of the Lord.",
-      "plainText" : "For let not that man think that he shall receive any thing of the Lord."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "30274",
+      "text": "For let not that man think that he shall receive any thing of the Lord.",
+      "plainText": "For let not that man think that he shall receive any thing of the Lord."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "30275",
-      "text" : "A double minded man <span class='extra'>is<\/span> unstable in all his ways.",
-      "plainText" : "A double minded man is unstable in all his ways."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "30275",
+      "text": "A double minded man <span class='extra'>is</span> unstable in all his ways.",
+      "plainText": "A double minded man is unstable in all his ways."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "30276",
-      "text" : "Let the brother of low degree rejoice in that he is exalted:",
-      "plainText" : "Let the brother of low degree rejoice in that he is exalted:"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "30276",
+      "text": "Let the brother of low degree rejoice in that he is exalted:",
+      "plainText": "Let the brother of low degree rejoice in that he is exalted:"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "30277",
-      "text" : "But the rich, in that he is made low: because as the flower of the grass he shall pass away.",
-      "plainText" : "But the rich, in that he is made low: because as the flower of the grass he shall pass away."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "30277",
+      "text": "But the rich, in that he is made low: because as the flower of the grass he shall pass away.",
+      "plainText": "But the rich, in that he is made low: because as the flower of the grass he shall pass away."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "30278",
-      "text" : "For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways.",
-      "plainText" : "For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "30278",
+      "text": "For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways.",
+      "plainText": "For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "30279",
-      "text" : "Blessed <span class='extra'>is<\/span> the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.",
-      "plainText" : "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "30279",
+      "text": "Blessed <span class='extra'>is</span> the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.",
+      "plainText": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "30280",
-      "text" : "Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:",
-      "plainText" : "Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "30280",
+      "text": "Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:",
+      "plainText": "Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "30281",
-      "text" : "But every man is tempted, when he is drawn away of his own lust, and enticed.",
-      "plainText" : "But every man is tempted, when he is drawn away of his own lust, and enticed."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "30281",
+      "text": "But every man is tempted, when he is drawn away of his own lust, and enticed.",
+      "plainText": "But every man is tempted, when he is drawn away of his own lust, and enticed."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "30282",
-      "text" : "Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.",
-      "plainText" : "Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "30282",
+      "text": "Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.",
+      "plainText": "Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "30283",
-      "text" : "Do not err, my beloved brethren.",
-      "plainText" : "Do not err, my beloved brethren."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "30283",
+      "text": "Do not err, my beloved brethren.",
+      "plainText": "Do not err, my beloved brethren."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "30284",
-      "text" : "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
-      "plainText" : "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "30284",
+      "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
+      "plainText": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "30285",
-      "text" : "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.",
-      "plainText" : "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "30285",
+      "text": "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.",
+      "plainText": "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "30286",
-      "text" : "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:",
-      "plainText" : "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "30286",
+      "text": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:",
+      "plainText": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "30287",
-      "text" : "For the wrath of man worketh not the righteousness of God.",
-      "plainText" : "For the wrath of man worketh not the righteousness of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "30287",
+      "text": "For the wrath of man worketh not the righteousness of God.",
+      "plainText": "For the wrath of man worketh not the righteousness of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "30288",
-      "text" : "Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.",
-      "plainText" : "Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "30288",
+      "text": "Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.",
+      "plainText": "Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "30289",
-      "text" : "But be ye doers of the word, and not hearers only, deceiving your own selves.",
-      "plainText" : "But be ye doers of the word, and not hearers only, deceiving your own selves."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "30289",
+      "text": "But be ye doers of the word, and not hearers only, deceiving your own selves.",
+      "plainText": "But be ye doers of the word, and not hearers only, deceiving your own selves."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "30290",
-      "text" : "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:",
-      "plainText" : "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:"
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "30290",
+      "text": "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:",
+      "plainText": "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:"
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "30291",
-      "text" : "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.",
-      "plainText" : "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "30291",
+      "text": "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.",
+      "plainText": "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "30292",
-      "text" : "But whoso looketh into the perfect law of liberty, and continueth <span class='extra'>therein<\/span>, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.",
-      "plainText" : "But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "30292",
+      "text": "But whoso looketh into the perfect law of liberty, and continueth <span class='extra'>therein</span>, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.",
+      "plainText": "But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "30293",
-      "text" : "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion <span class='extra'>is<\/span> vain.",
-      "plainText" : "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion is vain."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "30293",
+      "text": "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion <span class='extra'>is</span> vain.",
+      "plainText": "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion is vain."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "30294",
-      "text" : "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, <span class='extra'>and<\/span> to keep himself unspotted from the world.",
-      "plainText" : "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world."
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "30294",
+      "text": "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, <span class='extra'>and</span> to keep himself unspotted from the world.",
+      "plainText": "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world."
     }
   ]
 }
-

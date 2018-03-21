@@ -1,127 +1,117 @@
 {
   "book": {
-    "number" : "66",
-    "filenamePrefix" : "revelation",
-    "bookPage" : "revelation.html",
-    "title" : "Revelation",
-    "chapterCount" : "22",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "genesis_1.html",
-    "nextTitle" : "Genesis",
-    "prevBook" : "jude_1.html",
-    "prevTitle" : "Jude"
+    "number": "66",
+    "filenamePrefix": "revelation",
+    "bookPage": "revelation.html",
+    "title": "Revelation",
+    "chapterCount": "22",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "genesis_1.html",
+    "nextTitle": "Genesis",
+    "prevBook": "jude_1.html",
+    "prevTitle": "Jude",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "10",
-    "verseCount" : "11",
-    "nextChapter" : "revelation_11.html",
-    "nextTitle" : "Revelation 11",
-    "prevChapter" : "revelation_9.html",
-    "prevTitle" : "Revelation 9",
-    "filename" : "revelation_10.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "10",
+    "verseCount": "11",
+    "nextChapter": "revelation_11.html",
+    "nextTitle": "Revelation 11",
+    "prevChapter": "revelation_9.html",
+    "prevTitle": "Revelation 9",
+    "filename": "revelation_10.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "30863",
-      "text" : "And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow <span class='extra'>was<\/span> upon his head, and his face <span class='extra'>was<\/span> as it were the sun, and his feet as pillars of fire:",
-      "plainText" : "And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as it were the sun, and his feet as pillars of fire:"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "30863",
+      "text": "And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow <span class='extra'>was</span> upon his head, and his face <span class='extra'>was</span> as it were the sun, and his feet as pillars of fire:",
+      "plainText": "And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as it were the sun, and his feet as pillars of fire:"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "30864",
-      "text" : "And he had in his hand a little book open: and he set his right foot upon the sea, and <span class='extra'>his<\/span> left <span class='extra'>foot<\/span> on the earth,",
-      "plainText" : "And he had in his hand a little book open: and he set his right foot upon the sea, and his left foot on the earth,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "30864",
+      "text": "And he had in his hand a little book open: and he set his right foot upon the sea, and <span class='extra'>his</span> left <span class='extra'>foot</span> on the earth,",
+      "plainText": "And he had in his hand a little book open: and he set his right foot upon the sea, and his left foot on the earth,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "30865",
-      "text" : "And cried with a loud voice, as <span class='extra'>when<\/span> a lion roareth: and when he had cried, seven thunders uttered their voices.",
-      "plainText" : "And cried with a loud voice, as when a lion roareth: and when he had cried, seven thunders uttered their voices."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "30865",
+      "text": "And cried with a loud voice, as <span class='extra'>when</span> a lion roareth: and when he had cried, seven thunders uttered their voices.",
+      "plainText": "And cried with a loud voice, as when a lion roareth: and when he had cried, seven thunders uttered their voices."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "30866",
-      "text" : "And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not.",
-      "plainText" : "And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "30866",
+      "text": "And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not.",
+      "plainText": "And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "30867",
-      "text" : "And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,",
-      "plainText" : "And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,"
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "30867",
+      "text": "And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,",
+      "plainText": "And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,"
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "30868",
-      "text" : "And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:",
-      "plainText" : "And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "30868",
+      "text": "And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:",
+      "plainText": "And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "30869",
-      "text" : "But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets.",
-      "plainText" : "But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "30869",
+      "text": "But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets.",
+      "plainText": "But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "30870",
-      "text" : "And the voice which I heard from heaven spake unto me again, and said, Go <span class='extra'>and<\/span> take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.",
-      "plainText" : "And the voice which I heard from heaven spake unto me again, and said, Go and take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "30870",
+      "text": "And the voice which I heard from heaven spake unto me again, and said, Go <span class='extra'>and</span> take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.",
+      "plainText": "And the voice which I heard from heaven spake unto me again, and said, Go and take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "30871",
-      "text" : "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take <span class='extra'>it<\/span>, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.",
-      "plainText" : "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "30871",
+      "text": "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take <span class='extra'>it</span>, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.",
+      "plainText": "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "30872",
-      "text" : "And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.",
-      "plainText" : "And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "30872",
+      "text": "And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.",
+      "plainText": "And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "30873",
-      "text" : "And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings.",
-      "plainText" : "And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings."
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "30873",
+      "text": "And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings.",
+      "plainText": "And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings."
     }
   ]
 }
-

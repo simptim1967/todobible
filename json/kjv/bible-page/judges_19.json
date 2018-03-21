@@ -1,299 +1,269 @@
 {
   "book": {
-    "number" : "7",
-    "filenamePrefix" : "judges",
-    "bookPage" : "judges.html",
-    "title" : "Judges",
-    "chapterCount" : "21",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "ruth_1.html",
-    "nextTitle" : "Ruth",
-    "prevBook" : "joshua_1.html",
-    "prevTitle" : "Joshua"
+    "number": "7",
+    "filenamePrefix": "judges",
+    "bookPage": "judges.html",
+    "title": "Judges",
+    "chapterCount": "21",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "ruth_1.html",
+    "nextTitle": "Ruth",
+    "prevBook": "joshua_1.html",
+    "prevTitle": "Joshua",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "19",
-    "verseCount" : "30",
-    "nextChapter" : "judges_20.html",
-    "nextTitle" : "Judges 20",
-    "prevChapter" : "judges_18.html",
-    "prevTitle" : "Judges 18",
-    "filename" : "judges_19.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "19",
+    "verseCount": "30",
+    "nextChapter": "judges_20.html",
+    "nextTitle": "Judges 20",
+    "prevChapter": "judges_18.html",
+    "prevTitle": "Judges 18",
+    "filename": "judges_19.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "7026",
-      "text" : "And it came to pass in those days, when <span class='extra'>there was<\/span> no king in Israel, that there was a certain Levite sojourning on the side of mount Ephraim, who took to him a concubine out of Beth-lehem-judah.",
-      "plainText" : "And it came to pass in those days, when there was no king in Israel, that there was a certain Levite sojourning on the side of mount Ephraim, who took to him a concubine out of Beth-lehem-judah."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "7026",
+      "text": "And it came to pass in those days, when <span class='extra'>there was</span> no king in Israel, that there was a certain Levite sojourning on the side of mount Ephraim, who took to him a concubine out of Beth-lehem-judah.",
+      "plainText": "And it came to pass in those days, when there was no king in Israel, that there was a certain Levite sojourning on the side of mount Ephraim, who took to him a concubine out of Beth-lehem-judah."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "7027",
-      "text" : "And his concubine played the whore against him, and went away from him unto her father's house to Beth-lehem-judah, and was there four whole months.",
-      "plainText" : "And his concubine played the whore against him, and went away from him unto her father's house to Beth-lehem-judah, and was there four whole months."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "7027",
+      "text": "And his concubine played the whore against him, and went away from him unto her father's house to Beth-lehem-judah, and was there four whole months.",
+      "plainText": "And his concubine played the whore against him, and went away from him unto her father's house to Beth-lehem-judah, and was there four whole months."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "7028",
-      "text" : "And her husband arose, and went after her, to speak friendly unto her, <span class='extra'>and<\/span> to bring her again, having his servant with him, and a couple of asses: and she brought him into her father's house: and when the father of the damsel saw him, he rejoiced to meet him.",
-      "plainText" : "And her husband arose, and went after her, to speak friendly unto her, and to bring her again, having his servant with him, and a couple of asses: and she brought him into her father's house: and when the father of the damsel saw him, he rejoiced to meet him."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "7028",
+      "text": "And her husband arose, and went after her, to speak friendly unto her, <span class='extra'>and</span> to bring her again, having his servant with him, and a couple of asses: and she brought him into her father's house: and when the father of the damsel saw him, he rejoiced to meet him.",
+      "plainText": "And her husband arose, and went after her, to speak friendly unto her, and to bring her again, having his servant with him, and a couple of asses: and she brought him into her father's house: and when the father of the damsel saw him, he rejoiced to meet him."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "7029",
-      "text" : "And his father in law, the damsel's father, retained him; and he abode with him three days: so they did eat and drink, and lodged there.",
-      "plainText" : "And his father in law, the damsel's father, retained him; and he abode with him three days: so they did eat and drink, and lodged there."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "7029",
+      "text": "And his father in law, the damsel's father, retained him; and he abode with him three days: so they did eat and drink, and lodged there.",
+      "plainText": "And his father in law, the damsel's father, retained him; and he abode with him three days: so they did eat and drink, and lodged there."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "7030",
-      "text" : "And it came to pass on the fourth day, when they arose early in the morning, that he rose up to depart: and the damsel's father said unto his son in law, Comfort thine heart with a morsel of bread, and afterward go your way.",
-      "plainText" : "And it came to pass on the fourth day, when they arose early in the morning, that he rose up to depart: and the damsel's father said unto his son in law, Comfort thine heart with a morsel of bread, and afterward go your way."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "7030",
+      "text": "And it came to pass on the fourth day, when they arose early in the morning, that he rose up to depart: and the damsel's father said unto his son in law, Comfort thine heart with a morsel of bread, and afterward go your way.",
+      "plainText": "And it came to pass on the fourth day, when they arose early in the morning, that he rose up to depart: and the damsel's father said unto his son in law, Comfort thine heart with a morsel of bread, and afterward go your way."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "7031",
-      "text" : "And they sat down, and did eat and drink both of them together: for the damsel's father had said unto the man, Be content, I pray thee, and tarry all night, and let thine heart be merry.",
-      "plainText" : "And they sat down, and did eat and drink both of them together: for the damsel's father had said unto the man, Be content, I pray thee, and tarry all night, and let thine heart be merry."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "7031",
+      "text": "And they sat down, and did eat and drink both of them together: for the damsel's father had said unto the man, Be content, I pray thee, and tarry all night, and let thine heart be merry.",
+      "plainText": "And they sat down, and did eat and drink both of them together: for the damsel's father had said unto the man, Be content, I pray thee, and tarry all night, and let thine heart be merry."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "7032",
-      "text" : "And when the man rose up to depart, his father in law urged him: therefore he lodged there again.",
-      "plainText" : "And when the man rose up to depart, his father in law urged him: therefore he lodged there again."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "7032",
+      "text": "And when the man rose up to depart, his father in law urged him: therefore he lodged there again.",
+      "plainText": "And when the man rose up to depart, his father in law urged him: therefore he lodged there again."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "7033",
-      "text" : "And he arose early in the morning on the fifth day to depart: and the damsel's father said, Comfort thine heart, I pray thee. And they tarried until afternoon, and they did eat both of them.",
-      "plainText" : "And he arose early in the morning on the fifth day to depart: and the damsel's father said, Comfort thine heart, I pray thee. And they tarried until afternoon, and they did eat both of them."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "7033",
+      "text": "And he arose early in the morning on the fifth day to depart: and the damsel's father said, Comfort thine heart, I pray thee. And they tarried until afternoon, and they did eat both of them.",
+      "plainText": "And he arose early in the morning on the fifth day to depart: and the damsel's father said, Comfort thine heart, I pray thee. And they tarried until afternoon, and they did eat both of them."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "7034",
-      "text" : "And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the damsel's father, said unto him, Behold, now the day draweth toward evening, I pray you tarry all night: behold, the day groweth to an end, lodge here, that thine heart may be merry; and to morrow get you early on your way, that thou mayest go home.",
-      "plainText" : "And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the damsel's father, said unto him, Behold, now the day draweth toward evening, I pray you tarry all night: behold, the day groweth to an end, lodge here, that thine heart may be merry; and to morrow get you early on your way, that thou mayest go home."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "7034",
+      "text": "And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the damsel's father, said unto him, Behold, now the day draweth toward evening, I pray you tarry all night: behold, the day groweth to an end, lodge here, that thine heart may be merry; and to morrow get you early on your way, that thou mayest go home.",
+      "plainText": "And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the damsel's father, said unto him, Behold, now the day draweth toward evening, I pray you tarry all night: behold, the day groweth to an end, lodge here, that thine heart may be merry; and to morrow get you early on your way, that thou mayest go home."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "7035",
-      "text" : "But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which <span class='extra'>is<\/span> Jerusalem; and <span class='extra'>there were<\/span> with him two asses saddled, his concubine also <span class='extra'>was<\/span> with him.",
-      "plainText" : "But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which is Jerusalem; and there were with him two asses saddled, his concubine also was with him."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "7035",
+      "text": "But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which <span class='extra'>is</span> Jerusalem; and <span class='extra'>there were</span> with him two asses saddled, his concubine also <span class='extra'>was</span> with him.",
+      "plainText": "But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which is Jerusalem; and there were with him two asses saddled, his concubine also was with him."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "7036",
-      "text" : "<span class='extra'>And<\/span> when they <span class='extra'>were<\/span> by Jebus, the day was far spent; and the servant said unto his master, Come, I pray thee, and let us turn in into this city of the Jebusites, and lodge in it.",
-      "plainText" : "And when they were by Jebus, the day was far spent; and the servant said unto his master, Come, I pray thee, and let us turn in into this city of the Jebusites, and lodge in it."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "7036",
+      "text": "<span class='extra'>And</span> when they <span class='extra'>were</span> by Jebus, the day was far spent; and the servant said unto his master, Come, I pray thee, and let us turn in into this city of the Jebusites, and lodge in it.",
+      "plainText": "And when they were by Jebus, the day was far spent; and the servant said unto his master, Come, I pray thee, and let us turn in into this city of the Jebusites, and lodge in it."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "7037",
-      "text" : "And his master said unto him, We will not turn aside hither into the city of a stranger, that <span class='extra'>is<\/span> not of the children of Israel; we will pass over to Gibeah.",
-      "plainText" : "And his master said unto him, We will not turn aside hither into the city of a stranger, that is not of the children of Israel; we will pass over to Gibeah."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "7037",
+      "text": "And his master said unto him, We will not turn aside hither into the city of a stranger, that <span class='extra'>is</span> not of the children of Israel; we will pass over to Gibeah.",
+      "plainText": "And his master said unto him, We will not turn aside hither into the city of a stranger, that is not of the children of Israel; we will pass over to Gibeah."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "7038",
-      "text" : "And he said unto his servant, Come, and let us draw near to one of these places to lodge all night, in Gibeah, or in Ramah.",
-      "plainText" : "And he said unto his servant, Come, and let us draw near to one of these places to lodge all night, in Gibeah, or in Ramah."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "7038",
+      "text": "And he said unto his servant, Come, and let us draw near to one of these places to lodge all night, in Gibeah, or in Ramah.",
+      "plainText": "And he said unto his servant, Come, and let us draw near to one of these places to lodge all night, in Gibeah, or in Ramah."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "7039",
-      "text" : "And they passed on and went their way; and the sun went down upon them <span class='extra'>when they were<\/span> by Gibeah, which <span class='extra'>belongeth<\/span> to Benjamin.",
-      "plainText" : "And they passed on and went their way; and the sun went down upon them when they were by Gibeah, which belongeth to Benjamin."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "7039",
+      "text": "And they passed on and went their way; and the sun went down upon them <span class='extra'>when they were</span> by Gibeah, which <span class='extra'>belongeth</span> to Benjamin.",
+      "plainText": "And they passed on and went their way; and the sun went down upon them when they were by Gibeah, which belongeth to Benjamin."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "7040",
-      "text" : "And they turned aside thither, to go in <span class='extra'>and<\/span> to lodge in Gibeah: and when he went in, he sat him down in a street of the city: for <span class='extra'>there was<\/span> no man that took them into his house to lodging.",
-      "plainText" : "And they turned aside thither, to go in and to lodge in Gibeah: and when he went in, he sat him down in a street of the city: for there was no man that took them into his house to lodging."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "7040",
+      "text": "And they turned aside thither, to go in <span class='extra'>and</span> to lodge in Gibeah: and when he went in, he sat him down in a street of the city: for <span class='extra'>there was</span> no man that took them into his house to lodging.",
+      "plainText": "And they turned aside thither, to go in and to lodge in Gibeah: and when he went in, he sat him down in a street of the city: for there was no man that took them into his house to lodging."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "7041",
-      "text" : "And, behold, there came an old man from his work out of the field at even, which <span class='extra'>was<\/span> also of mount Ephraim; and he sojourned in Gibeah: but the men of the place <span class='extra'>were<\/span> Benjamites.",
-      "plainText" : "And, behold, there came an old man from his work out of the field at even, which was also of mount Ephraim; and he sojourned in Gibeah: but the men of the place were Benjamites."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "7041",
+      "text": "And, behold, there came an old man from his work out of the field at even, which <span class='extra'>was</span> also of mount Ephraim; and he sojourned in Gibeah: but the men of the place <span class='extra'>were</span> Benjamites.",
+      "plainText": "And, behold, there came an old man from his work out of the field at even, which was also of mount Ephraim; and he sojourned in Gibeah: but the men of the place were Benjamites."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "7042",
-      "text" : "And when he had lifted up his eyes, he saw a wayfaring man in the street of the city: and the old man said, Whither goest thou? and whence comest thou?",
-      "plainText" : "And when he had lifted up his eyes, he saw a wayfaring man in the street of the city: and the old man said, Whither goest thou? and whence comest thou?"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "7042",
+      "text": "And when he had lifted up his eyes, he saw a wayfaring man in the street of the city: and the old man said, Whither goest thou? and whence comest thou?",
+      "plainText": "And when he had lifted up his eyes, he saw a wayfaring man in the street of the city: and the old man said, Whither goest thou? and whence comest thou?"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "7043",
-      "text" : "And he said unto him, We <span class='extra'>are<\/span> passing from Beth-lehem-judah toward the side of mount Ephraim; from thence <span class='extra'>am<\/span> I: and I went to Beth-lehem-judah, but I <span class='extra'>am now<\/span> going to the house of the <span class='nog'>LORD<\/span>; and there <span class='extra'>is<\/span> no man that receiveth me to house.",
-      "plainText" : "And he said unto him, We are passing from Beth-lehem-judah toward the side of mount Ephraim; from thence am I: and I went to Beth-lehem-judah, but I am now going to the house of the LORD; and there is no man that receiveth me to house."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "7043",
+      "text": "And he said unto him, We <span class='extra'>are</span> passing from Beth-lehem-judah toward the side of mount Ephraim; from thence <span class='extra'>am</span> I: and I went to Beth-lehem-judah, but I <span class='extra'>am now</span> going to the house of the <span class='nog'>LORD</span>; and there <span class='extra'>is</span> no man that receiveth me to house.",
+      "plainText": "And he said unto him, We are passing from Beth-lehem-judah toward the side of mount Ephraim; from thence am I: and I went to Beth-lehem-judah, but I am now going to the house of the LORD; and there is no man that receiveth me to house."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "7044",
-      "text" : "Yet there is both straw and provender for our asses; and there is bread and wine also for me, and for thy handmaid, and for the young man <span class='extra'>which is<\/span> with thy servants: <span class='extra'>there is<\/span> no want of any thing.",
-      "plainText" : "Yet there is both straw and provender for our asses; and there is bread and wine also for me, and for thy handmaid, and for the young man which is with thy servants: there is no want of any thing."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "7044",
+      "text": "Yet there is both straw and provender for our asses; and there is bread and wine also for me, and for thy handmaid, and for the young man <span class='extra'>which is</span> with thy servants: <span class='extra'>there is</span> no want of any thing.",
+      "plainText": "Yet there is both straw and provender for our asses; and there is bread and wine also for me, and for thy handmaid, and for the young man which is with thy servants: there is no want of any thing."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "7045",
-      "text" : "And the old man said, Peace <span class='extra'>be<\/span> with thee; howsoever <span class='extra'>let<\/span> all thy wants <span class='extra'>lie<\/span> upon me; only lodge not in the street.",
-      "plainText" : "And the old man said, Peace be with thee; howsoever let all thy wants lie upon me; only lodge not in the street."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "7045",
+      "text": "And the old man said, Peace <span class='extra'>be</span> with thee; howsoever <span class='extra'>let</span> all thy wants <span class='extra'>lie</span> upon me; only lodge not in the street.",
+      "plainText": "And the old man said, Peace be with thee; howsoever let all thy wants lie upon me; only lodge not in the street."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "7046",
-      "text" : "So he brought him into his house, and gave provender unto the asses: and they washed their feet, and did eat and drink.",
-      "plainText" : "So he brought him into his house, and gave provender unto the asses: and they washed their feet, and did eat and drink."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "7046",
+      "text": "So he brought him into his house, and gave provender unto the asses: and they washed their feet, and did eat and drink.",
+      "plainText": "So he brought him into his house, and gave provender unto the asses: and they washed their feet, and did eat and drink."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "7047",
-      "text" : "<span class='extra'>Now<\/span> as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, <span class='extra'>and<\/span> beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him.",
-      "plainText" : "Now as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, and beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "7047",
+      "text": "<span class='extra'>Now</span> as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, <span class='extra'>and</span> beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him.",
+      "plainText": "Now as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, and beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "7048",
-      "text" : "And the man, the master of the house, went out unto them, and said unto them, Nay, my brethren, <span class='extra'>nay<\/span>, I pray you, do not <span class='extra'>so<\/span> wickedly; seeing that this man is come into mine house, do not this folly.",
-      "plainText" : "And the man, the master of the house, went out unto them, and said unto them, Nay, my brethren, nay, I pray you, do not so wickedly; seeing that this man is come into mine house, do not this folly."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "7048",
+      "text": "And the man, the master of the house, went out unto them, and said unto them, Nay, my brethren, <span class='extra'>nay</span>, I pray you, do not <span class='extra'>so</span> wickedly; seeing that this man is come into mine house, do not this folly.",
+      "plainText": "And the man, the master of the house, went out unto them, and said unto them, Nay, my brethren, nay, I pray you, do not so wickedly; seeing that this man is come into mine house, do not this folly."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "7049",
-      "text" : "Behold, <span class='extra'>here is<\/span> my daughter a maiden, and his concubine; them I will bring out now, and humble ye them, and do with them what seemeth good unto you: but unto this man do not so vile a thing.",
-      "plainText" : "Behold, here is my daughter a maiden, and his concubine; them I will bring out now, and humble ye them, and do with them what seemeth good unto you: but unto this man do not so vile a thing."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "7049",
+      "text": "Behold, <span class='extra'>here is</span> my daughter a maiden, and his concubine; them I will bring out now, and humble ye them, and do with them what seemeth good unto you: but unto this man do not so vile a thing.",
+      "plainText": "Behold, here is my daughter a maiden, and his concubine; them I will bring out now, and humble ye them, and do with them what seemeth good unto you: but unto this man do not so vile a thing."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "7050",
-      "text" : "But the men would not hearken to him: so the man took his concubine, and brought her forth unto them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go.",
-      "plainText" : "But the men would not hearken to him: so the man took his concubine, and brought her forth unto them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "7050",
+      "text": "But the men would not hearken to him: so the man took his concubine, and brought her forth unto them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go.",
+      "plainText": "But the men would not hearken to him: so the man took his concubine, and brought her forth unto them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "7051",
-      "text" : "Then came the woman in the dawning of the day, and fell down at the door of the man's house where her lord <span class='extra'>was<\/span>, till it was light.",
-      "plainText" : "Then came the woman in the dawning of the day, and fell down at the door of the man's house where her lord was, till it was light."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "7051",
+      "text": "Then came the woman in the dawning of the day, and fell down at the door of the man's house where her lord <span class='extra'>was</span>, till it was light.",
+      "plainText": "Then came the woman in the dawning of the day, and fell down at the door of the man's house where her lord was, till it was light."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "7052",
-      "text" : "And her lord rose up in the morning, and opened the doors of the house, and went out to go his way: and, behold, the woman his concubine was fallen down <span class='extra'>at<\/span> the door of the house, and her hands <span class='extra'>were<\/span> upon the threshold.",
-      "plainText" : "And her lord rose up in the morning, and opened the doors of the house, and went out to go his way: and, behold, the woman his concubine was fallen down at the door of the house, and her hands were upon the threshold."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "7052",
+      "text": "And her lord rose up in the morning, and opened the doors of the house, and went out to go his way: and, behold, the woman his concubine was fallen down <span class='extra'>at</span> the door of the house, and her hands <span class='extra'>were</span> upon the threshold.",
+      "plainText": "And her lord rose up in the morning, and opened the doors of the house, and went out to go his way: and, behold, the woman his concubine was fallen down at the door of the house, and her hands were upon the threshold."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "7053",
-      "text" : "And he said unto her, Up, and let us be going. But none answered. Then the man took her <span class='extra'>up<\/span> upon an ass, and the man rose up, and gat him unto his place.",
-      "plainText" : "And he said unto her, Up, and let us be going. But none answered. Then the man took her up upon an ass, and the man rose up, and gat him unto his place."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "7053",
+      "text": "And he said unto her, Up, and let us be going. But none answered. Then the man took her <span class='extra'>up</span> upon an ass, and the man rose up, and gat him unto his place.",
+      "plainText": "And he said unto her, Up, and let us be going. But none answered. Then the man took her up upon an ass, and the man rose up, and gat him unto his place."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "7054",
-      "text" : "And when he was come into his house, he took a knife, and laid hold on his concubine, and divided her, <span class='extra'>together<\/span> with her bones, into twelve pieces, and sent her into all the coasts of Israel.",
-      "plainText" : "And when he was come into his house, he took a knife, and laid hold on his concubine, and divided her, together with her bones, into twelve pieces, and sent her into all the coasts of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "7054",
+      "text": "And when he was come into his house, he took a knife, and laid hold on his concubine, and divided her, <span class='extra'>together</span> with her bones, into twelve pieces, and sent her into all the coasts of Israel.",
+      "plainText": "And when he was come into his house, he took a knife, and laid hold on his concubine, and divided her, together with her bones, into twelve pieces, and sent her into all the coasts of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "7055",
-      "text" : "And it was so, that all that saw it said, There was no such deed done nor seen from the day that the children of Israel came up out of the land of Egypt unto this day: consider of it, take advice, and speak <span class='extra'>your minds<\/span>.",
-      "plainText" : "And it was so, that all that saw it said, There was no such deed done nor seen from the day that the children of Israel came up out of the land of Egypt unto this day: consider of it, take advice, and speak your minds."
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "7055",
+      "text": "And it was so, that all that saw it said, There was no such deed done nor seen from the day that the children of Israel came up out of the land of Egypt unto this day: consider of it, take advice, and speak <span class='extra'>your minds</span>.",
+      "plainText": "And it was so, that all that saw it said, There was no such deed done nor seen from the day that the children of Israel came up out of the land of Egypt unto this day: consider of it, take advice, and speak your minds."
     }
   ]
 }
-
-

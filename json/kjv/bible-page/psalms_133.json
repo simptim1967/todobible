@@ -1,63 +1,59 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "133",
-    "verseCount" : "3",
-    "nextChapter" : "psalms_134.html",
-    "nextTitle" : "Psalms 134",
-    "prevChapter" : "psalms_132.html",
-    "prevTitle" : "Psalms 132",
-    "filename" : "psalms_133.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "133",
+    "verseCount": "3",
+    "nextChapter": "psalms_134.html",
+    "nextTitle": "Psalms 134",
+    "prevChapter": "psalms_132.html",
+    "prevTitle": "Psalms 132",
+    "filename": "psalms_133.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Song of degrees of David.",
-      "plainText" : "A Song of degrees of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Song of degrees of David.",
+      "plainText": "A Song of degrees of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16171",
-      "text" : "Behold, how good and how pleasant <span class='extra'>it is<\/span> for brethren to dwell together in unity!",
-      "plainText" : "Behold, how good and how pleasant it is for brethren to dwell together in unity!"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16171",
+      "text": "Behold, how good and how pleasant <span class='extra'>it is</span> for brethren to dwell together in unity!",
+      "plainText": "Behold, how good and how pleasant it is for brethren to dwell together in unity!"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16172",
-      "text" : "<span class='extra'>It is<\/span> like the precious ointment upon the head, that ran down upon the beard, <span class='extra'>even<\/span> Aaron's beard: that went down to the skirts of his garments;",
-      "plainText" : "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments;"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16172",
+      "text": "<span class='extra'>It is</span> like the precious ointment upon the head, that ran down upon the beard, <span class='extra'>even</span> Aaron's beard: that went down to the skirts of his garments;",
+      "plainText": "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments;"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16173",
-      "text" : "As the dew of Hermon, <span class='extra'>and as the dew<\/span> that descended upon the mountains of Zion: for there the <span class='nog'>LORD<\/span> commanded the blessing, <span class='extra'>even<\/span> life for evermore.",
-      "plainText" : "As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the LORD commanded the blessing, even life for evermore."
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16173",
+      "text": "As the dew of Hermon, <span class='extra'>and as the dew</span> that descended upon the mountains of Zion: for there the <span class='nog'>LORD</span> commanded the blessing, <span class='extra'>even</span> life for evermore.",
+      "plainText": "As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the LORD commanded the blessing, even life for evermore."
     }
   ]
 }
-
-

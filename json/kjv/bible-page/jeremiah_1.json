@@ -1,201 +1,181 @@
 {
   "book": {
-    "number" : "24",
-    "filenamePrefix" : "jeremiah",
-    "bookPage" : "jeremiah.html",
-    "title" : "Jeremiah",
-    "chapterCount" : "52",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "lamentations_1.html",
-    "nextTitle" : "Lamentations",
-    "prevBook" : "isaiah_1.html",
-    "prevTitle" : "Isaiah"
+    "number": "24",
+    "filenamePrefix": "jeremiah",
+    "bookPage": "jeremiah.html",
+    "title": "Jeremiah",
+    "chapterCount": "52",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "lamentations_1.html",
+    "nextTitle": "Lamentations",
+    "prevBook": "isaiah_1.html",
+    "prevTitle": "Isaiah",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "1",
-    "verseCount" : "19",
-    "nextChapter" : "jeremiah_2.html",
-    "nextTitle" : "Jeremiah 2",
-    "prevChapter" : "isaiah_66.html",
-    "prevTitle" : "Isaiah 66",
-    "filename" : "jeremiah_1.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "1",
+    "verseCount": "19",
+    "nextChapter": "jeremiah_2.html",
+    "nextTitle": "Jeremiah 2",
+    "prevChapter": "isaiah_66.html",
+    "prevTitle": "Isaiah 66",
+    "filename": "jeremiah_1.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "18948",
-      "text" : "The words of Jeremiah the son of Hilkiah, of the priests that <span class='extra'>were<\/span> in Anathoth in the land of Benjamin:",
-      "plainText" : "The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "18948",
+      "text": "The words of Jeremiah the son of Hilkiah, of the priests that <span class='extra'>were</span> in Anathoth in the land of Benjamin:",
+      "plainText": "The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "18949",
-      "text" : "To whom the word of the <span class='nog'>LORD<\/span> came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign.",
-      "plainText" : "To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "18949",
+      "text": "To whom the word of the <span class='nog'>LORD</span> came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign.",
+      "plainText": "To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "18950",
-      "text" : "It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month.",
-      "plainText" : "It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "18950",
+      "text": "It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month.",
+      "plainText": "It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "18951",
-      "text" : "Then the word of the <span class='nog'>LORD<\/span> came unto me, saying,",
-      "plainText" : "Then the word of the LORD came unto me, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "18951",
+      "text": "Then the word of the <span class='nog'>LORD</span> came unto me, saying,",
+      "plainText": "Then the word of the LORD came unto me, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "18952",
-      "text" : "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, <span class='extra'>and<\/span> I ordained thee a prophet unto the nations.",
-      "plainText" : "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "18952",
+      "text": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, <span class='extra'>and</span> I ordained thee a prophet unto the nations.",
+      "plainText": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "18953",
-      "text" : "Then said I, Ah, Lord <span class='nog'>GOD<\/span>! behold, I cannot speak: for I <span class='extra'>am<\/span> a child.",
-      "plainText" : "Then said I, Ah, Lord GOD! behold, I cannot speak: for I am a child."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "18953",
+      "text": "Then said I, Ah, Lord <span class='nog'>GOD</span>! behold, I cannot speak: for I <span class='extra'>am</span> a child.",
+      "plainText": "Then said I, Ah, Lord GOD! behold, I cannot speak: for I am a child."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "18954",
-      "text" : "But the <span class='nog'>LORD<\/span> said unto me, Say not, I <span class='extra'>am<\/span> a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak.",
-      "plainText" : "But the LORD said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "18954",
+      "text": "But the <span class='nog'>LORD</span> said unto me, Say not, I <span class='extra'>am</span> a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak.",
+      "plainText": "But the LORD said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "18955",
-      "text" : "Be not afraid of their faces: for I <span class='extra'>am<\/span> with thee to deliver thee, saith the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Be not afraid of their faces: for I am with thee to deliver thee, saith the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "18955",
+      "text": "Be not afraid of their faces: for I <span class='extra'>am</span> with thee to deliver thee, saith the <span class='nog'>LORD</span>.",
+      "plainText": "Be not afraid of their faces: for I am with thee to deliver thee, saith the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "18956",
-      "text" : "Then the <span class='nog'>LORD<\/span> put forth his hand, and touched my mouth. And the <span class='nog'>LORD<\/span> said unto me, Behold, I have put my words in thy mouth.",
-      "plainText" : "Then the LORD put forth his hand, and touched my mouth. And the LORD said unto me, Behold, I have put my words in thy mouth."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "18956",
+      "text": "Then the <span class='nog'>LORD</span> put forth his hand, and touched my mouth. And the <span class='nog'>LORD</span> said unto me, Behold, I have put my words in thy mouth.",
+      "plainText": "Then the LORD put forth his hand, and touched my mouth. And the LORD said unto me, Behold, I have put my words in thy mouth."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "18957",
-      "text" : "See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant.",
-      "plainText" : "See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "18957",
+      "text": "See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant.",
+      "plainText": "See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "18958",
-      "text" : "Moreover the word of the <span class='nog'>LORD<\/span> came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree.",
-      "plainText" : "Moreover the word of the LORD came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "18958",
+      "text": "Moreover the word of the <span class='nog'>LORD</span> came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree.",
+      "plainText": "Moreover the word of the LORD came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "18959",
-      "text" : "Then said the <span class='nog'>LORD<\/span> unto me, Thou hast well seen: for I will hasten my word to perform it.",
-      "plainText" : "Then said the LORD unto me, Thou hast well seen: for I will hasten my word to perform it."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "18959",
+      "text": "Then said the <span class='nog'>LORD</span> unto me, Thou hast well seen: for I will hasten my word to perform it.",
+      "plainText": "Then said the LORD unto me, Thou hast well seen: for I will hasten my word to perform it."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "18960",
-      "text" : "And the word of the <span class='nog'>LORD<\/span> came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof <span class='extra'>is<\/span> toward the north.",
-      "plainText" : "And the word of the LORD came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof is toward the north."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "18960",
+      "text": "And the word of the <span class='nog'>LORD</span> came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof <span class='extra'>is</span> toward the north.",
+      "plainText": "And the word of the LORD came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof is toward the north."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "18961",
-      "text" : "Then the <span class='nog'>LORD<\/span> said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land.",
-      "plainText" : "Then the LORD said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "18961",
+      "text": "Then the <span class='nog'>LORD</span> said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land.",
+      "plainText": "Then the LORD said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "18962",
-      "text" : "For, lo, I will call all the families of the kingdoms of the north, saith the <span class='nog'>LORD<\/span>; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah.",
-      "plainText" : "For, lo, I will call all the families of the kingdoms of the north, saith the LORD; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "18962",
+      "text": "For, lo, I will call all the families of the kingdoms of the north, saith the <span class='nog'>LORD</span>; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah.",
+      "plainText": "For, lo, I will call all the families of the kingdoms of the north, saith the LORD; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "18963",
-      "text" : "And I will utter my judgments against them touching all their wickedness, who have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands.",
-      "plainText" : "And I will utter my judgments against them touching all their wickedness, who have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "18963",
+      "text": "And I will utter my judgments against them touching all their wickedness, who have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands.",
+      "plainText": "And I will utter my judgments against them touching all their wickedness, who have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "18964",
-      "text" : "Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee: be not dismayed at their faces, lest I confound thee before them.",
-      "plainText" : "Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee: be not dismayed at their faces, lest I confound thee before them."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "18964",
+      "text": "Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee: be not dismayed at their faces, lest I confound thee before them.",
+      "plainText": "Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee: be not dismayed at their faces, lest I confound thee before them."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "18965",
-      "text" : "For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land.",
-      "plainText" : "For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "18965",
+      "text": "For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land.",
+      "plainText": "For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "18966",
-      "text" : "And they shall fight against thee; but they shall not prevail against thee; for I <span class='extra'>am<\/span> with thee, saith the <span class='nog'>LORD<\/span>, to deliver thee.",
-      "plainText" : "And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the LORD, to deliver thee."
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "18966",
+      "text": "And they shall fight against thee; but they shall not prevail against thee; for I <span class='extra'>am</span> with thee, saith the <span class='nog'>LORD</span>, to deliver thee.",
+      "plainText": "And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the LORD, to deliver thee."
     }
   ]
 }
-
-
-

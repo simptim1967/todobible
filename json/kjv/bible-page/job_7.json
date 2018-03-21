@@ -1,217 +1,197 @@
 {
   "book": {
-    "number" : "18",
-    "filenamePrefix" : "job",
-    "bookPage" : "job.html",
-    "title" : "Job",
-    "chapterCount" : "42",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "psalms_1.html",
-    "nextTitle" : "Psalms",
-    "prevBook" : "esther_1.html",
-    "prevTitle" : "Esther"
+    "number": "18",
+    "filenamePrefix": "job",
+    "bookPage": "job.html",
+    "title": "Job",
+    "chapterCount": "42",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "psalms_1.html",
+    "nextTitle": "Psalms",
+    "prevBook": "esther_1.html",
+    "prevTitle": "Esther",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "7",
-    "verseCount" : "21",
-    "nextChapter" : "job_8.html",
-    "nextTitle" : "Job 8",
-    "prevChapter" : "job_6.html",
-    "prevTitle" : "Job 6",
-    "filename" : "job_7.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "7",
+    "verseCount": "21",
+    "nextChapter": "job_8.html",
+    "nextTitle": "Job 8",
+    "prevChapter": "job_6.html",
+    "prevTitle": "Job 6",
+    "filename": "job_7.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "13010",
-      "text" : "<span class='extra'>Is there<\/span> not an appointed time to man upon earth? <span class='extra'>are not<\/span> his days also like the days of an hireling?",
-      "plainText" : "Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "13010",
+      "text": "<span class='extra'>Is there</span> not an appointed time to man upon earth? <span class='extra'>are not</span> his days also like the days of an hireling?",
+      "plainText": "Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "13011",
-      "text" : "As a servant earnestly desireth the shadow, and as an hireling looketh for <span class='extra'>the reward of<\/span> his work:",
-      "plainText" : "As a servant earnestly desireth the shadow, and as an hireling looketh for the reward of his work:"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "13011",
+      "text": "As a servant earnestly desireth the shadow, and as an hireling looketh for <span class='extra'>the reward of</span> his work:",
+      "plainText": "As a servant earnestly desireth the shadow, and as an hireling looketh for the reward of his work:"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "13012",
-      "text" : "So am I made to possess months of vanity, and wearisome nights are appointed to me.",
-      "plainText" : "So am I made to possess months of vanity, and wearisome nights are appointed to me."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "13012",
+      "text": "So am I made to possess months of vanity, and wearisome nights are appointed to me.",
+      "plainText": "So am I made to possess months of vanity, and wearisome nights are appointed to me."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "13013",
-      "text" : "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day.",
-      "plainText" : "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "13013",
+      "text": "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day.",
+      "plainText": "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "13014",
-      "text" : "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome.",
-      "plainText" : "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "13014",
+      "text": "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome.",
+      "plainText": "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "13015",
-      "text" : "My days are swifter than a weaver's shuttle, and are spent without hope.",
-      "plainText" : "My days are swifter than a weaver's shuttle, and are spent without hope."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "13015",
+      "text": "My days are swifter than a weaver's shuttle, and are spent without hope.",
+      "plainText": "My days are swifter than a weaver's shuttle, and are spent without hope."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "13016",
-      "text" : "O remember that my life <span class='extra'>is<\/span> wind: mine eye shall no more see good.",
-      "plainText" : "O remember that my life is wind: mine eye shall no more see good."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "13016",
+      "text": "O remember that my life <span class='extra'>is</span> wind: mine eye shall no more see good.",
+      "plainText": "O remember that my life is wind: mine eye shall no more see good."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "13017",
-      "text" : "The eye of him that hath seen me shall see me no <span class='extra'>more<\/span>: thine eyes <span class='extra'>are<\/span> upon me, and I <span class='extra'>am<\/span> not.",
-      "plainText" : "The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "13017",
+      "text": "The eye of him that hath seen me shall see me no <span class='extra'>more</span>: thine eyes <span class='extra'>are</span> upon me, and I <span class='extra'>am</span> not.",
+      "plainText": "The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "13018",
-      "text" : "<span class='extra'>As<\/span> the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no <span class='extra'>more<\/span>.",
-      "plainText" : "As the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no more."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "13018",
+      "text": "<span class='extra'>As</span> the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no <span class='extra'>more</span>.",
+      "plainText": "As the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no more."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "13019",
-      "text" : "He shall return no more to his house, neither shall his place know him any more.",
-      "plainText" : "He shall return no more to his house, neither shall his place know him any more."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "13019",
+      "text": "He shall return no more to his house, neither shall his place know him any more.",
+      "plainText": "He shall return no more to his house, neither shall his place know him any more."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "13020",
-      "text" : "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.",
-      "plainText" : "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "13020",
+      "text": "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.",
+      "plainText": "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "13021",
-      "text" : "<span class='extra'>Am<\/span> I a sea, or a whale, that thou settest a watch over me?",
-      "plainText" : "Am I a sea, or a whale, that thou settest a watch over me?"
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "13021",
+      "text": "<span class='extra'>Am</span> I a sea, or a whale, that thou settest a watch over me?",
+      "plainText": "Am I a sea, or a whale, that thou settest a watch over me?"
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "13022",
-      "text" : "When I say, My bed shall comfort me, my couch shall ease my complaint;",
-      "plainText" : "When I say, My bed shall comfort me, my couch shall ease my complaint;"
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "13022",
+      "text": "When I say, My bed shall comfort me, my couch shall ease my complaint;",
+      "plainText": "When I say, My bed shall comfort me, my couch shall ease my complaint;"
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "13023",
-      "text" : "Then thou scarest me with dreams, and terrifiest me through visions:",
-      "plainText" : "Then thou scarest me with dreams, and terrifiest me through visions:"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "13023",
+      "text": "Then thou scarest me with dreams, and terrifiest me through visions:",
+      "plainText": "Then thou scarest me with dreams, and terrifiest me through visions:"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "13024",
-      "text" : "So that my soul chooseth strangling, <span class='extra'>and<\/span> death rather than my life.",
-      "plainText" : "So that my soul chooseth strangling, and death rather than my life."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "13024",
+      "text": "So that my soul chooseth strangling, <span class='extra'>and</span> death rather than my life.",
+      "plainText": "So that my soul chooseth strangling, and death rather than my life."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "13025",
-      "text" : "I loathe <span class='extra'>it<\/span>; I would not live alway: let me alone; for my days <span class='extra'>are<\/span> vanity.",
-      "plainText" : "I loathe it; I would not live alway: let me alone; for my days are vanity."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "13025",
+      "text": "I loathe <span class='extra'>it</span>; I would not live alway: let me alone; for my days <span class='extra'>are</span> vanity.",
+      "plainText": "I loathe it; I would not live alway: let me alone; for my days are vanity."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "13026",
-      "text" : "What <span class='extra'>is<\/span> man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?",
-      "plainText" : "What is man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "13026",
+      "text": "What <span class='extra'>is</span> man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?",
+      "plainText": "What is man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "13027",
-      "text" : "And <span class='extra'>that<\/span> thou shouldest visit him every morning, <span class='extra'>and<\/span> try him every moment?",
-      "plainText" : "And that thou shouldest visit him every morning, and try him every moment?"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "13027",
+      "text": "And <span class='extra'>that</span> thou shouldest visit him every morning, <span class='extra'>and</span> try him every moment?",
+      "plainText": "And that thou shouldest visit him every morning, and try him every moment?"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "13028",
-      "text" : "How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?",
-      "plainText" : "How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "13028",
+      "text": "How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?",
+      "plainText": "How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "13029",
-      "text" : "I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?",
-      "plainText" : "I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "13029",
+      "text": "I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?",
+      "plainText": "I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "13030",
-      "text" : "And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I <span class='extra'>shall<\/span> not <span class='extra'>be<\/span>.",
-      "plainText" : "And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I shall not be."
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "13030",
+      "text": "And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I <span class='extra'>shall</span> not <span class='extra'>be</span>.",
+      "plainText": "And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I shall not be."
     }
   ]
 }
-

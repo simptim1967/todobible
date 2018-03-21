@@ -1,272 +1,245 @@
 {
   "book": {
-    "number" : "24",
-    "filenamePrefix" : "jeremiah",
-    "bookPage" : "jeremiah.html",
-    "title" : "Jeremiah",
-    "chapterCount" : "52",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "lamentations_1.html",
-    "nextTitle" : "Lamentations",
-    "prevBook" : "isaiah_1.html",
-    "prevTitle" : "Isaiah"
+    "number": "24",
+    "filenamePrefix": "jeremiah",
+    "bookPage": "jeremiah.html",
+    "title": "Jeremiah",
+    "chapterCount": "52",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "lamentations_1.html",
+    "nextTitle": "Lamentations",
+    "prevBook": "isaiah_1.html",
+    "prevTitle": "Isaiah",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "17",
-    "verseCount" : "27",
-    "nextChapter" : "jeremiah_18.html",
-    "nextTitle" : "Jeremiah 18",
-    "prevChapter" : "jeremiah_16.html",
-    "prevTitle" : "Jeremiah 16",
-    "filename" : "jeremiah_17.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "17",
+    "verseCount": "27",
+    "nextChapter": "jeremiah_18.html",
+    "nextTitle": "Jeremiah 18",
+    "prevChapter": "jeremiah_16.html",
+    "prevTitle": "Jeremiah 16",
+    "filename": "jeremiah_17.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "19359",
-      "text" : "The sin of Judah <span class='extra'>is<\/span> written with a pen of iron, <span class='extra'>and<\/span> with the point of a diamond: <span class='extra'>it is<\/span> graven upon the table of their heart, and upon the horns of your altars;",
-      "plainText" : "The sin of Judah is written with a pen of iron, and with the point of a diamond: it is graven upon the table of their heart, and upon the horns of your altars;"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "19359",
+      "text": "The sin of Judah <span class='extra'>is</span> written with a pen of iron, <span class='extra'>and</span> with the point of a diamond: <span class='extra'>it is</span> graven upon the table of their heart, and upon the horns of your altars;",
+      "plainText": "The sin of Judah is written with a pen of iron, and with the point of a diamond: it is graven upon the table of their heart, and upon the horns of your altars;"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "19360",
-      "text" : "Whilst their children remember their altars and their groves by the green trees upon the high hills.",
-      "plainText" : "Whilst their children remember their altars and their groves by the green trees upon the high hills."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "19360",
+      "text": "Whilst their children remember their altars and their groves by the green trees upon the high hills.",
+      "plainText": "Whilst their children remember their altars and their groves by the green trees upon the high hills."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "19361",
-      "text" : "O my mountain in the field, I will give thy substance <span class='extra'>and<\/span> all thy treasures to the spoil, <span class='extra'>and<\/span> thy high places for sin, throughout all thy borders.",
-      "plainText" : "O my mountain in the field, I will give thy substance and all thy treasures to the spoil, and thy high places for sin, throughout all thy borders."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "19361",
+      "text": "O my mountain in the field, I will give thy substance <span class='extra'>and</span> all thy treasures to the spoil, <span class='extra'>and</span> thy high places for sin, throughout all thy borders.",
+      "plainText": "O my mountain in the field, I will give thy substance and all thy treasures to the spoil, and thy high places for sin, throughout all thy borders."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "19362",
-      "text" : "And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, <span class='extra'>which<\/span> shall burn for ever.",
-      "plainText" : "And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "19362",
+      "text": "And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, <span class='extra'>which</span> shall burn for ever.",
+      "plainText": "And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "19363",
-      "text" : "Thus saith the <span class='nog'>LORD<\/span>; Cursed <span class='extra'>be<\/span> the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Thus saith the LORD; Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "19363",
+      "text": "Thus saith the <span class='nog'>LORD</span>; Cursed <span class='extra'>be</span> the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the <span class='nog'>LORD</span>.",
+      "plainText": "Thus saith the LORD; Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "19364",
-      "text" : "For he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places in the wilderness, <span class='extra'>in<\/span> a salt land and not inhabited.",
-      "plainText" : "For he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places in the wilderness, in a salt land and not inhabited."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "19364",
+      "text": "For he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places in the wilderness, <span class='extra'>in</span> a salt land and not inhabited.",
+      "plainText": "For he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places in the wilderness, in a salt land and not inhabited."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "19365",
-      "text" : "Blessed <span class='extra'>is<\/span> the man that trusteth in the <span class='nog'>LORD<\/span>, and whose hope the <span class='nog'>LORD<\/span> is.",
-      "plainText" : "Blessed is the man that trusteth in the LORD, and whose hope the LORD is."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "19365",
+      "text": "Blessed <span class='extra'>is</span> the man that trusteth in the <span class='nog'>LORD</span>, and whose hope the <span class='nog'>LORD</span> is.",
+      "plainText": "Blessed is the man that trusteth in the LORD, and whose hope the LORD is."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "19366",
-      "text" : "For he shall be as a tree planted by the waters, and <span class='extra'>that<\/span> spreadeth out her roots by the river, and shall not see when heat cometh, but her leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit.",
-      "plainText" : "For he shall be as a tree planted by the waters, and that spreadeth out her roots by the river, and shall not see when heat cometh, but her leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "19366",
+      "text": "For he shall be as a tree planted by the waters, and <span class='extra'>that</span> spreadeth out her roots by the river, and shall not see when heat cometh, but her leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit.",
+      "plainText": "For he shall be as a tree planted by the waters, and that spreadeth out her roots by the river, and shall not see when heat cometh, but her leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "19367",
-      "text" : "The heart <span class='extra'>is<\/span> deceitful above all <span class='extra'>things<\/span>, and desperately wicked: who can know it?",
-      "plainText" : "The heart is deceitful above all things, and desperately wicked: who can know it?"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "19367",
+      "text": "The heart <span class='extra'>is</span> deceitful above all <span class='extra'>things</span>, and desperately wicked: who can know it?",
+      "plainText": "The heart is deceitful above all things, and desperately wicked: who can know it?"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "19368",
-      "text" : "I the <span class='nog'>LORD<\/span> search the heart, <span class='extra'>I<\/span> try the reins, even to give every man according to his ways, <span class='extra'>and<\/span> according to the fruit of his doings.",
-      "plainText" : "I the LORD search the heart, I try the reins, even to give every man according to his ways, and according to the fruit of his doings."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "19368",
+      "text": "I the <span class='nog'>LORD</span> search the heart, <span class='extra'>I</span> try the reins, even to give every man according to his ways, <span class='extra'>and</span> according to the fruit of his doings.",
+      "plainText": "I the LORD search the heart, I try the reins, even to give every man according to his ways, and according to the fruit of his doings."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "19369",
-      "text" : "<span class='extra'>As<\/span> the partridge sitteth <span class='extra'>on eggs<\/span>, and hatcheth <span class='extra'>them<\/span> not; <span class='extra'>so<\/span> he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool.",
-      "plainText" : "As the partridge sitteth on eggs, and hatcheth them not; so he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "19369",
+      "text": "<span class='extra'>As</span> the partridge sitteth <span class='extra'>on eggs</span>, and hatcheth <span class='extra'>them</span> not; <span class='extra'>so</span> he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool.",
+      "plainText": "As the partridge sitteth on eggs, and hatcheth them not; so he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "19370",
-      "text" : "A glorious high throne from the beginning <span class='extra'>is<\/span> the place of our sanctuary.",
-      "plainText" : "A glorious high throne from the beginning is the place of our sanctuary."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "19370",
+      "text": "A glorious high throne from the beginning <span class='extra'>is</span> the place of our sanctuary.",
+      "plainText": "A glorious high throne from the beginning is the place of our sanctuary."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "19371",
-      "text" : "O <span class='nog'>LORD<\/span>, the hope of Israel, all that forsake thee shall be ashamed, <span class='extra'>and<\/span> they that depart from me shall be written in the earth, because they have forsaken the <span class='nog'>LORD<\/span>, the fountain of living waters.",
-      "plainText" : "O LORD, the hope of Israel, all that forsake thee shall be ashamed, and they that depart from me shall be written in the earth, because they have forsaken the LORD, the fountain of living waters."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "19371",
+      "text": "O <span class='nog'>LORD</span>, the hope of Israel, all that forsake thee shall be ashamed, <span class='extra'>and</span> they that depart from me shall be written in the earth, because they have forsaken the <span class='nog'>LORD</span>, the fountain of living waters.",
+      "plainText": "O LORD, the hope of Israel, all that forsake thee shall be ashamed, and they that depart from me shall be written in the earth, because they have forsaken the LORD, the fountain of living waters."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "19372",
-      "text" : "Heal me, O <span class='nog'>LORD<\/span>, and I shall be healed; save me, and I shall be saved: for thou <span class='extra'>art<\/span> my praise.",
-      "plainText" : "Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for thou art my praise."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "19372",
+      "text": "Heal me, O <span class='nog'>LORD</span>, and I shall be healed; save me, and I shall be saved: for thou <span class='extra'>art</span> my praise.",
+      "plainText": "Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for thou art my praise."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "19373",
-      "text" : "Behold, they say unto me, Where <span class='extra'>is<\/span> the word of the <span class='nog'>LORD<\/span>? let it come now.",
-      "plainText" : "Behold, they say unto me, Where is the word of the LORD? let it come now."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "19373",
+      "text": "Behold, they say unto me, Where <span class='extra'>is</span> the word of the <span class='nog'>LORD</span>? let it come now.",
+      "plainText": "Behold, they say unto me, Where is the word of the LORD? let it come now."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "19374",
-      "text" : "As for me, I have not hastened from <span class='extra'>being<\/span> a pastor to follow thee: neither have I desired the woeful day; thou knowest: that which came out of my lips was <span class='extra'>right<\/span> before thee.",
-      "plainText" : "As for me, I have not hastened from being a pastor to follow thee: neither have I desired the woeful day; thou knowest: that which came out of my lips was right before thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "19374",
+      "text": "As for me, I have not hastened from <span class='extra'>being</span> a pastor to follow thee: neither have I desired the woeful day; thou knowest: that which came out of my lips was <span class='extra'>right</span> before thee.",
+      "plainText": "As for me, I have not hastened from being a pastor to follow thee: neither have I desired the woeful day; thou knowest: that which came out of my lips was right before thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "19375",
-      "text" : "Be not a terror unto me: thou <span class='extra'>art<\/span> my hope in the day of evil.",
-      "plainText" : "Be not a terror unto me: thou art my hope in the day of evil."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "19375",
+      "text": "Be not a terror unto me: thou <span class='extra'>art</span> my hope in the day of evil.",
+      "plainText": "Be not a terror unto me: thou art my hope in the day of evil."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "19376",
-      "text" : "Let them be confounded that persecute me, but let not me be confounded: let them be dismayed, but let not me be dismayed: bring upon them the day of evil, and destroy them with double destruction.",
-      "plainText" : "Let them be confounded that persecute me, but let not me be confounded: let them be dismayed, but let not me be dismayed: bring upon them the day of evil, and destroy them with double destruction."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "19376",
+      "text": "Let them be confounded that persecute me, but let not me be confounded: let them be dismayed, but let not me be dismayed: bring upon them the day of evil, and destroy them with double destruction.",
+      "plainText": "Let them be confounded that persecute me, but let not me be confounded: let them be dismayed, but let not me be dismayed: bring upon them the day of evil, and destroy them with double destruction."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "19377",
-      "text" : "Thus said the <span class='nog'>LORD<\/span> unto me; Go and stand in the gate of the children of the people, whereby the kings of Judah come in, and by the which they go out, and in all the gates of Jerusalem;",
-      "plainText" : "Thus said the LORD unto me; Go and stand in the gate of the children of the people, whereby the kings of Judah come in, and by the which they go out, and in all the gates of Jerusalem;"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "19377",
+      "text": "Thus said the <span class='nog'>LORD</span> unto me; Go and stand in the gate of the children of the people, whereby the kings of Judah come in, and by the which they go out, and in all the gates of Jerusalem;",
+      "plainText": "Thus said the LORD unto me; Go and stand in the gate of the children of the people, whereby the kings of Judah come in, and by the which they go out, and in all the gates of Jerusalem;"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "19378",
-      "text" : "And say unto them, Hear ye the word of the <span class='nog'>LORD<\/span>, ye kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates:",
-      "plainText" : "And say unto them, Hear ye the word of the LORD, ye kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates:"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "19378",
+      "text": "And say unto them, Hear ye the word of the <span class='nog'>LORD</span>, ye kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates:",
+      "plainText": "And say unto them, Hear ye the word of the LORD, ye kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates:"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "19379",
-      "text" : "Thus saith the <span class='nog'>LORD<\/span>; Take heed to yourselves, and bear no burden on the sabbath day, nor bring <span class='extra'>it<\/span> in by the gates of Jerusalem;",
-      "plainText" : "Thus saith the LORD; Take heed to yourselves, and bear no burden on the sabbath day, nor bring it in by the gates of Jerusalem;"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "19379",
+      "text": "Thus saith the <span class='nog'>LORD</span>; Take heed to yourselves, and bear no burden on the sabbath day, nor bring <span class='extra'>it</span> in by the gates of Jerusalem;",
+      "plainText": "Thus saith the LORD; Take heed to yourselves, and bear no burden on the sabbath day, nor bring it in by the gates of Jerusalem;"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "19380",
-      "text" : "Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers.",
-      "plainText" : "Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "19380",
+      "text": "Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers.",
+      "plainText": "Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "19381",
-      "text" : "But they obeyed not, neither inclined their ear, but made their neck stiff, that they might not hear, nor receive instruction.",
-      "plainText" : "But they obeyed not, neither inclined their ear, but made their neck stiff, that they might not hear, nor receive instruction."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "19381",
+      "text": "But they obeyed not, neither inclined their ear, but made their neck stiff, that they might not hear, nor receive instruction.",
+      "plainText": "But they obeyed not, neither inclined their ear, but made their neck stiff, that they might not hear, nor receive instruction."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "19382",
-      "text" : "And it shall come to pass, if ye diligently hearken unto me, saith the <span class='nog'>LORD<\/span>, to bring in no burden through the gates of this city on the sabbath day, but hallow the sabbath day, to do no work therein;",
-      "plainText" : "And it shall come to pass, if ye diligently hearken unto me, saith the LORD, to bring in no burden through the gates of this city on the sabbath day, but hallow the sabbath day, to do no work therein;"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "19382",
+      "text": "And it shall come to pass, if ye diligently hearken unto me, saith the <span class='nog'>LORD</span>, to bring in no burden through the gates of this city on the sabbath day, but hallow the sabbath day, to do no work therein;",
+      "plainText": "And it shall come to pass, if ye diligently hearken unto me, saith the LORD, to bring in no burden through the gates of this city on the sabbath day, but hallow the sabbath day, to do no work therein;"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "19383",
-      "text" : "Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever.",
-      "plainText" : "Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "19383",
+      "text": "Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever.",
+      "plainText": "Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "19384",
-      "text" : "And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "19384",
+      "text": "And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the <span class='nog'>LORD</span>.",
+      "plainText": "And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "19385",
-      "text" : "But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched.",
-      "plainText" : "But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched."
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "19385",
+      "text": "But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched.",
+      "plainText": "But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched."
     }
   ]
 }
-
-

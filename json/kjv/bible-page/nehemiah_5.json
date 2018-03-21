@@ -1,200 +1,181 @@
 {
   "book": {
-    "number" : "16",
-    "filenamePrefix" : "nehemiah",
-    "bookPage" : "nehemiah.html",
-    "title" : "Nehemiah",
-    "chapterCount" : "13",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "esther_1.html",
-    "nextTitle" : "Esther",
-    "prevBook" : "ezra_1.html",
-    "prevTitle" : "Ezra"
+    "number": "16",
+    "filenamePrefix": "nehemiah",
+    "bookPage": "nehemiah.html",
+    "title": "Nehemiah",
+    "chapterCount": "13",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "esther_1.html",
+    "nextTitle": "Esther",
+    "prevBook": "ezra_1.html",
+    "prevTitle": "Ezra",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "5",
-    "verseCount" : "19",
-    "nextChapter" : "nehemiah_6.html",
-    "nextTitle" : "Nehemiah 6",
-    "prevChapter" : "nehemiah_4.html",
-    "prevTitle" : "Nehemiah 4",
-    "filename" : "nehemiah_5.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "5",
+    "verseCount": "19",
+    "nextChapter": "nehemiah_6.html",
+    "nextTitle": "Nehemiah 6",
+    "prevChapter": "nehemiah_4.html",
+    "prevTitle": "Nehemiah 4",
+    "filename": "nehemiah_5.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "12384",
-      "text" : "And there was a great cry of the people and of their wives against their brethren the Jews.",
-      "plainText" : "And there was a great cry of the people and of their wives against their brethren the Jews."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "12384",
+      "text": "And there was a great cry of the people and of their wives against their brethren the Jews.",
+      "plainText": "And there was a great cry of the people and of their wives against their brethren the Jews."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "12385",
-      "text" : "For there were that said, We, our sons, and our daughters, <span class='extra'>are<\/span> many: therefore we take up corn <span class='extra'>for them<\/span>, that we may eat, and live.",
-      "plainText" : "For there were that said, We, our sons, and our daughters, are many: therefore we take up corn for them, that we may eat, and live."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "12385",
+      "text": "For there were that said, We, our sons, and our daughters, <span class='extra'>are</span> many: therefore we take up corn <span class='extra'>for them</span>, that we may eat, and live.",
+      "plainText": "For there were that said, We, our sons, and our daughters, are many: therefore we take up corn for them, that we may eat, and live."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "12386",
-      "text" : "<span class='extra'>Some<\/span> also there were that said, We have mortgaged our lands, vineyards, and houses, that we might buy corn, because of the dearth.",
-      "plainText" : "Some also there were that said, We have mortgaged our lands, vineyards, and houses, that we might buy corn, because of the dearth."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "12386",
+      "text": "<span class='extra'>Some</span> also there were that said, We have mortgaged our lands, vineyards, and houses, that we might buy corn, because of the dearth.",
+      "plainText": "Some also there were that said, We have mortgaged our lands, vineyards, and houses, that we might buy corn, because of the dearth."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "12387",
-      "text" : "There were also that said, We have borrowed money for the king's tribute, <span class='extra'>and that upon<\/span> our lands and vineyards.",
-      "plainText" : "There were also that said, We have borrowed money for the king's tribute, and that upon our lands and vineyards."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "12387",
+      "text": "There were also that said, We have borrowed money for the king's tribute, <span class='extra'>and that upon</span> our lands and vineyards.",
+      "plainText": "There were also that said, We have borrowed money for the king's tribute, and that upon our lands and vineyards."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "12388",
-      "text" : "Yet now our flesh <span class='extra'>is<\/span> as the flesh of our brethren, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and <span class='extra'>some<\/span> of our daughters are brought unto bondage <span class='extra'>already<\/span>: neither <span class='extra'>is it<\/span> in our power <span class='extra'>to redeem them<\/span>; for other men have our lands and vineyards.",
-      "plainText" : "Yet now our flesh is as the flesh of our brethren, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and some of our daughters are brought unto bondage already: neither is it in our power to redeem them; for other men have our lands and vineyards."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "12388",
+      "text": "Yet now our flesh <span class='extra'>is</span> as the flesh of our brethren, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and <span class='extra'>some</span> of our daughters are brought unto bondage <span class='extra'>already</span>: neither <span class='extra'>is it</span> in our power <span class='extra'>to redeem them</span>; for other men have our lands and vineyards.",
+      "plainText": "Yet now our flesh is as the flesh of our brethren, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and some of our daughters are brought unto bondage already: neither is it in our power to redeem them; for other men have our lands and vineyards."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "12389",
-      "text" : "And I was very angry when I heard their cry and these words.",
-      "plainText" : "And I was very angry when I heard their cry and these words."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "12389",
+      "text": "And I was very angry when I heard their cry and these words.",
+      "plainText": "And I was very angry when I heard their cry and these words."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "12390",
-      "text" : "Then I consulted with myself, and I rebuked the nobles, and the rulers, and said unto them, Ye exact usury, every one of his brother. And I set a great assembly against them.",
-      "plainText" : "Then I consulted with myself, and I rebuked the nobles, and the rulers, and said unto them, Ye exact usury, every one of his brother. And I set a great assembly against them."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "12390",
+      "text": "Then I consulted with myself, and I rebuked the nobles, and the rulers, and said unto them, Ye exact usury, every one of his brother. And I set a great assembly against them.",
+      "plainText": "Then I consulted with myself, and I rebuked the nobles, and the rulers, and said unto them, Ye exact usury, every one of his brother. And I set a great assembly against them."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "12391",
-      "text" : "And I said unto them, We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will ye even sell your brethren? or shall they be sold unto us? Then held they their peace, and found nothing <span class='extra'>to answer<\/span>.",
-      "plainText" : "And I said unto them, We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will ye even sell your brethren? or shall they be sold unto us? Then held they their peace, and found nothing to answer."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "12391",
+      "text": "And I said unto them, We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will ye even sell your brethren? or shall they be sold unto us? Then held they their peace, and found nothing <span class='extra'>to answer</span>.",
+      "plainText": "And I said unto them, We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will ye even sell your brethren? or shall they be sold unto us? Then held they their peace, and found nothing to answer."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "12392",
-      "text" : "Also I said, It <span class='extra'>is<\/span> not good that ye do: ought ye not to walk in the fear of our God because of the reproach of the heathen our enemies?",
-      "plainText" : "Also I said, It is not good that ye do: ought ye not to walk in the fear of our God because of the reproach of the heathen our enemies?"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "12392",
+      "text": "Also I said, It <span class='extra'>is</span> not good that ye do: ought ye not to walk in the fear of our God because of the reproach of the heathen our enemies?",
+      "plainText": "Also I said, It is not good that ye do: ought ye not to walk in the fear of our God because of the reproach of the heathen our enemies?"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "12393",
-      "text" : "I likewise, <span class='extra'>and<\/span> my brethren, and my servants, might exact of them money and corn: I pray you, let us leave off this usury.",
-      "plainText" : "I likewise, and my brethren, and my servants, might exact of them money and corn: I pray you, let us leave off this usury."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "12393",
+      "text": "I likewise, <span class='extra'>and</span> my brethren, and my servants, might exact of them money and corn: I pray you, let us leave off this usury.",
+      "plainText": "I likewise, and my brethren, and my servants, might exact of them money and corn: I pray you, let us leave off this usury."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "12394",
-      "text" : "Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth <span class='extra'>part<\/span> of the money, and of the corn, the wine, and the oil, that ye exact of them.",
-      "plainText" : "Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the corn, the wine, and the oil, that ye exact of them."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "12394",
+      "text": "Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth <span class='extra'>part</span> of the money, and of the corn, the wine, and the oil, that ye exact of them.",
+      "plainText": "Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the corn, the wine, and the oil, that ye exact of them."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "12395",
-      "text" : "Then said they, We will restore <span class='extra'>them<\/span>, and will require nothing of them; so will we do as thou sayest. Then I called the priests, and took an oath of them, that they should do according to this promise.",
-      "plainText" : "Then said they, We will restore them, and will require nothing of them; so will we do as thou sayest. Then I called the priests, and took an oath of them, that they should do according to this promise."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "12395",
+      "text": "Then said they, We will restore <span class='extra'>them</span>, and will require nothing of them; so will we do as thou sayest. Then I called the priests, and took an oath of them, that they should do according to this promise.",
+      "plainText": "Then said they, We will restore them, and will require nothing of them; so will we do as thou sayest. Then I called the priests, and took an oath of them, that they should do according to this promise."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "12396",
-      "text" : "Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performeth not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the <span class='nog'>LORD<\/span>. And the people did according to this promise.",
-      "plainText" : "Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performeth not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the LORD. And the people did according to this promise."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "12396",
+      "text": "Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performeth not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the <span class='nog'>LORD</span>. And the people did according to this promise.",
+      "plainText": "Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performeth not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the LORD. And the people did according to this promise."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "12397",
-      "text" : "Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, <span class='extra'>that is<\/span>, twelve years, I and my brethren have not eaten the bread of the governor.",
-      "plainText" : "Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, that is, twelve years, I and my brethren have not eaten the bread of the governor."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "12397",
+      "text": "Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, <span class='extra'>that is</span>, twelve years, I and my brethren have not eaten the bread of the governor.",
+      "plainText": "Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, that is, twelve years, I and my brethren have not eaten the bread of the governor."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "12398",
-      "text" : "But the former governors that <span class='extra'>had been<\/span> before me were chargeable unto the people, and had taken of them bread and wine, beside forty shekels of silver; yea, even their servants bare rule over the people: but so did not I, because of the fear of God.",
-      "plainText" : "But the former governors that had been before me were chargeable unto the people, and had taken of them bread and wine, beside forty shekels of silver; yea, even their servants bare rule over the people: but so did not I, because of the fear of God."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "12398",
+      "text": "But the former governors that <span class='extra'>had been</span> before me were chargeable unto the people, and had taken of them bread and wine, beside forty shekels of silver; yea, even their servants bare rule over the people: but so did not I, because of the fear of God.",
+      "plainText": "But the former governors that had been before me were chargeable unto the people, and had taken of them bread and wine, beside forty shekels of silver; yea, even their servants bare rule over the people: but so did not I, because of the fear of God."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "12399",
-      "text" : "Yea, also I continued in the work of this wall, neither bought we any land: and all my servants <span class='extra'>were<\/span> gathered thither unto the work.",
-      "plainText" : "Yea, also I continued in the work of this wall, neither bought we any land: and all my servants were gathered thither unto the work."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "12399",
+      "text": "Yea, also I continued in the work of this wall, neither bought we any land: and all my servants <span class='extra'>were</span> gathered thither unto the work.",
+      "plainText": "Yea, also I continued in the work of this wall, neither bought we any land: and all my servants were gathered thither unto the work."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "12400",
-      "text" : "Moreover <span class='extra'>there were<\/span> at my table an hundred and fifty of the Jews and rulers, beside those that came unto us from among the heathen that <span class='extra'>are<\/span> about us.",
-      "plainText" : "Moreover there were at my table an hundred and fifty of the Jews and rulers, beside those that came unto us from among the heathen that are about us."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "12400",
+      "text": "Moreover <span class='extra'>there were</span> at my table an hundred and fifty of the Jews and rulers, beside those that came unto us from among the heathen that <span class='extra'>are</span> about us.",
+      "plainText": "Moreover there were at my table an hundred and fifty of the Jews and rulers, beside those that came unto us from among the heathen that are about us."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "12401",
-      "text" : "Now <span class='extra'>that<\/span> which was prepared <span class='extra'>for me<\/span> daily <span class='extra'>was<\/span> one ox <span class='extra'>and<\/span> six choice sheep; also fowls were prepared for me, and once in ten days store of all sorts of wine: yet for all this required not I the bread of the governor, because the bondage was heavy upon this people.",
-      "plainText" : "Now that which was prepared for me daily was one ox and six choice sheep; also fowls were prepared for me, and once in ten days store of all sorts of wine: yet for all this required not I the bread of the governor, because the bondage was heavy upon this people."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "12401",
+      "text": "Now <span class='extra'>that</span> which was prepared <span class='extra'>for me</span> daily <span class='extra'>was</span> one ox <span class='extra'>and</span> six choice sheep; also fowls were prepared for me, and once in ten days store of all sorts of wine: yet for all this required not I the bread of the governor, because the bondage was heavy upon this people.",
+      "plainText": "Now that which was prepared for me daily was one ox and six choice sheep; also fowls were prepared for me, and once in ten days store of all sorts of wine: yet for all this required not I the bread of the governor, because the bondage was heavy upon this people."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "12402",
-      "text" : "Think upon me, my God, for good, <span class='extra'>according<\/span> to all that I have done for this people.",
-      "plainText" : "Think upon me, my God, for good, according to all that I have done for this people."
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "12402",
+      "text": "Think upon me, my God, for good, <span class='extra'>according</span> to all that I have done for this people.",
+      "plainText": "Think upon me, my God, for good, according to all that I have done for this people."
     }
   ]
 }
-
-

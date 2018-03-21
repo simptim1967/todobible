@@ -1,153 +1,139 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "56",
-    "verseCount" : "13",
-    "nextChapter" : "psalms_57.html",
-    "nextTitle" : "Psalms 57",
-    "prevChapter" : "psalms_55.html",
-    "prevTitle" : "Psalms 55",
-    "filename" : "psalms_56.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "56",
+    "verseCount": "13",
+    "nextChapter": "psalms_57.html",
+    "nextTitle": "Psalms 57",
+    "prevChapter": "psalms_55.html",
+    "prevTitle": "Psalms 55",
+    "filename": "psalms_56.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "To the chief Musician upon Jonath-elem-rechokim, Michtam of David, when the Philistines took him in Gath.",
-      "plainText" : "To the chief Musician upon Jonath-elem-rechokim, Michtam of David, when the Philistines took him in Gath."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "To the chief Musician upon Jonath-elem-rechokim, Michtam of David, when the Philistines took him in Gath.",
+      "plainText": "To the chief Musician upon Jonath-elem-rechokim, Michtam of David, when the Philistines took him in Gath."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14757",
-      "text" : "Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.",
-      "plainText" : "Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14757",
+      "text": "Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.",
+      "plainText": "Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14758",
-      "text" : "Mine enemies would daily swallow <span class='extra'>me<\/span> up: for <span class='extra'>they be<\/span> many that fight against me, O thou most High.",
-      "plainText" : "Mine enemies would daily swallow me up: for they be many that fight against me, O thou most High."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14758",
+      "text": "Mine enemies would daily swallow <span class='extra'>me</span> up: for <span class='extra'>they be</span> many that fight against me, O thou most High.",
+      "plainText": "Mine enemies would daily swallow me up: for they be many that fight against me, O thou most High."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14759",
-      "text" : "What time I am afraid, I will trust in thee.",
-      "plainText" : "What time I am afraid, I will trust in thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14759",
+      "text": "What time I am afraid, I will trust in thee.",
+      "plainText": "What time I am afraid, I will trust in thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14760",
-      "text" : "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.",
-      "plainText" : "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14760",
+      "text": "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.",
+      "plainText": "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14761",
-      "text" : "Every day they wrest my words: all their thoughts <span class='extra'>are<\/span> against me for evil.",
-      "plainText" : "Every day they wrest my words: all their thoughts are against me for evil."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14761",
+      "text": "Every day they wrest my words: all their thoughts <span class='extra'>are</span> against me for evil.",
+      "plainText": "Every day they wrest my words: all their thoughts are against me for evil."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14762",
-      "text" : "They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul.",
-      "plainText" : "They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14762",
+      "text": "They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul.",
+      "plainText": "They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14763",
-      "text" : "Shall they escape by iniquity? in <span class='extra'>thine<\/span> anger cast down the people, O God.",
-      "plainText" : "Shall they escape by iniquity? in thine anger cast down the people, O God."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14763",
+      "text": "Shall they escape by iniquity? in <span class='extra'>thine</span> anger cast down the people, O God.",
+      "plainText": "Shall they escape by iniquity? in thine anger cast down the people, O God."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14764",
-      "text" : "Thou tellest my wanderings: put thou my tears into thy bottle: <span class='extra'>are they<\/span> not in thy book?",
-      "plainText" : "Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14764",
+      "text": "Thou tellest my wanderings: put thou my tears into thy bottle: <span class='extra'>are they</span> not in thy book?",
+      "plainText": "Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14765",
-      "text" : "When I cry <span class='extra'>unto thee<\/span>, then shall mine enemies turn back: this I know; for God <span class='extra'>is<\/span> for me.",
-      "plainText" : "When I cry unto thee, then shall mine enemies turn back: this I know; for God is for me."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14765",
+      "text": "When I cry <span class='extra'>unto thee</span>, then shall mine enemies turn back: this I know; for God <span class='extra'>is</span> for me.",
+      "plainText": "When I cry unto thee, then shall mine enemies turn back: this I know; for God is for me."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "14766",
-      "text" : "In God will I praise <span class='extra'>his<\/span> word: in the <span class='nog'>LORD<\/span> will I praise <span class='extra'>his<\/span> word.",
-      "plainText" : "In God will I praise his word: in the LORD will I praise his word."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "14766",
+      "text": "In God will I praise <span class='extra'>his</span> word: in the <span class='nog'>LORD</span> will I praise <span class='extra'>his</span> word.",
+      "plainText": "In God will I praise his word: in the LORD will I praise his word."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "14767",
-      "text" : "In God have I put my trust: I will not be afraid what man can do unto me.",
-      "plainText" : "In God have I put my trust: I will not be afraid what man can do unto me."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "14767",
+      "text": "In God have I put my trust: I will not be afraid what man can do unto me.",
+      "plainText": "In God have I put my trust: I will not be afraid what man can do unto me."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "14768",
-      "text" : "Thy vows <span class='extra'>are<\/span> upon me, O God: I will render praises unto thee.",
-      "plainText" : "Thy vows are upon me, O God: I will render praises unto thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "14768",
+      "text": "Thy vows <span class='extra'>are</span> upon me, O God: I will render praises unto thee.",
+      "plainText": "Thy vows are upon me, O God: I will render praises unto thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "14769",
-      "text" : "For thou hast delivered my soul from death: <span class='extra'>wilt<\/span> not <span class='extra'>thou deliver<\/span> my feet from falling, that I may walk before God in the light of the living?",
-      "plainText" : "For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living?"
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "14769",
+      "text": "For thou hast delivered my soul from death: <span class='extra'>wilt</span> not <span class='extra'>thou deliver</span> my feet from falling, that I may walk before God in the light of the living?",
+      "plainText": "For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living?"
     }
   ]
 }
-
-

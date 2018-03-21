@@ -16,6 +16,10 @@ html(lang='en-GB')
     link(href='../css/bootstrap.min.css', rel='stylesheet')
     link(href='../css/common_page.css', rel='stylesheet')
     link(href='../css/kjv_page.css', rel='stylesheet')
+    - if (page.book.interlinear === true)
+    - {
+      link(href='../css/interlinear.css', rel='stylesheet')
+    - }
   body
     //-Bible page menu is customised for navigation from the current chapter to the next/previous and for the current bible book 
     .navbar-wrapper
@@ -130,9 +134,22 @@ html(lang='en-GB')
                 - }
                 b #{page.items[i].number} 
                 | !{text}
+                - if (page.book.interlinear === true) {
+                  //-Show interlinear open button
+                  - var fragid = page.book.number + "_" + page.chapter.number + "_" + vno;
+                  img.inter-open(id="v" + vno + "io", src="../images/dot-dot-dot.svg", alt="Show verse " + vno + " interlinear", title="Show verse " + vno + " interlinear", data=fragid)
+                - }
+              - if (page.book.interlinear === true)
+                - {
+                  .interlinear.inter-hide(id="v" + vno + "il")
+                    .inter-title
+                      | Loading interlinear ...
+                - }
               - if (page.todo[vno-1].length > 0) {
               //-Output todo list items for this verse
-              .verse-todo-list.tl-btn-hide(id=id="v" + vno + "tl")
+              .verse-todo-list.tl-btn-hide(id="v" + vno + "tl")
+                .verse-todo-list-title
+                  | Verse #{vno} ToDo Items
                 - var tl = page.todo[vno-1];
                 - for (var tdi = 0; tdi < page.todo[vno-1].length; tdi++) {
                   - var todo = tl[tdi];
@@ -165,7 +182,7 @@ html(lang='en-GB')
                       default
                         span.badge.itemtodo #{todo.type}
                     |  !{todo.todoItem}
-                    //-High the range of verses that relate to this todo item
+                    //-List the range of verses that relate to this todo item
                     - if (todo.verseStart != todo.verseEnd) {
                       span  [v#{todo.verseRange}]
                     - }
@@ -205,7 +222,7 @@ html(lang='en-GB')
               form
                 label(for='vref') Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:
                 fieldset
-                  input#vref(type='text', maxlength='25')
+                  input#vref(type='text', maxlength='25', spellcheck=false)
                   button#gotoverse.btn-md.btn-primary(type='submit', onclick='GoToVerse(); return false') Go
                 label(for='vindex') Alternatively you can visit:
                 br
@@ -245,3 +262,11 @@ html(lang='en-GB')
     script(type='text/javascript', src='../script/jquery.scrollTo.js')
     script(type="text/javascript", src='../script/bootstrap.min.js')
     script(type='text/javascript', src='../script/highlight-verses.js')
+    - if (page.book.interlinear === true)
+    - {
+      script(type='text/javascript', src='../script/interlinear.js')
+    - }
+    - if (page.book.tooltipwords === true)
+    - {
+      script(type='text/javascript', src='../script/ttw.js')
+    - }

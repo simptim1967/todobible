@@ -1,443 +1,397 @@
 {
   "book": {
-    "number" : "1",
-    "filenamePrefix" : "genesis",
-    "bookPage" : "genesis.html",
-    "title" : "Genesis",
-    "chapterCount" : "50",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "exodus_1.html",
-    "nextTitle" : "Exodus",
-    "prevBook" : "revelation_1.html",
-    "prevTitle" : "Revelation"
+    "number": "1",
+    "filenamePrefix": "genesis",
+    "bookPage": "genesis.html",
+    "title": "Genesis",
+    "chapterCount": "50",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "exodus_1.html",
+    "nextTitle": "Exodus",
+    "prevBook": "revelation_1.html",
+    "prevTitle": "Revelation",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "27",
-    "verseCount" : "46",
-    "nextChapter" : "genesis_28.html",
-    "nextTitle" : "Genesis 28",
-    "prevChapter" : "genesis_26.html",
-    "prevTitle" : "Genesis 26",
-    "filename" : "genesis_27.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "27",
+    "verseCount": "46",
+    "nextChapter": "genesis_28.html",
+    "nextTitle": "Genesis 28",
+    "prevChapter": "genesis_26.html",
+    "prevTitle": "Genesis 26",
+    "filename": "genesis_27.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "729",
-      "text" : "And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, <span class='extra'>here am<\/span> I.",
-      "plainText" : "And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "729",
+      "text": "And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, <span class='extra'>here am</span> I.",
+      "plainText": "And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "730",
-      "text" : "And he said, Behold now, I am old, I know not the day of my death:",
-      "plainText" : "And he said, Behold now, I am old, I know not the day of my death:"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "730",
+      "text": "And he said, Behold now, I am old, I know not the day of my death:",
+      "plainText": "And he said, Behold now, I am old, I know not the day of my death:"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "731",
-      "text" : "Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me <span class='extra'>some<\/span> venison;",
-      "plainText" : "Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me some venison;"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "731",
+      "text": "Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me <span class='extra'>some</span> venison;",
+      "plainText": "Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me some venison;"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "732",
-      "text" : "And make me savoury meat, such as I love, and bring <span class='extra'>it<\/span> to me, that I may eat; that my soul may bless thee before I die.",
-      "plainText" : "And make me savoury meat, such as I love, and bring it to me, that I may eat; that my soul may bless thee before I die."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "732",
+      "text": "And make me savoury meat, such as I love, and bring <span class='extra'>it</span> to me, that I may eat; that my soul may bless thee before I die.",
+      "plainText": "And make me savoury meat, such as I love, and bring it to me, that I may eat; that my soul may bless thee before I die."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "733",
-      "text" : "And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt <span class='extra'>for<\/span> venison, <span class='extra'>and<\/span> to bring <span class='extra'>it<\/span>.",
-      "plainText" : "And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt for venison, and to bring it."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "733",
+      "text": "And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt <span class='extra'>for</span> venison, <span class='extra'>and</span> to bring <span class='extra'>it</span>.",
+      "plainText": "And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt for venison, and to bring it."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "734",
-      "text" : "And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying,",
-      "plainText" : "And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "734",
+      "text": "And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying,",
+      "plainText": "And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "735",
-      "text" : "Bring me venison, and make me savoury meat, that I may eat, and bless thee before the <span class='nog'>LORD<\/span> before my death.",
-      "plainText" : "Bring me venison, and make me savoury meat, that I may eat, and bless thee before the LORD before my death."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "735",
+      "text": "Bring me venison, and make me savoury meat, that I may eat, and bless thee before the <span class='nog'>LORD</span> before my death.",
+      "plainText": "Bring me venison, and make me savoury meat, that I may eat, and bless thee before the LORD before my death."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "736",
-      "text" : "Now therefore, my son, obey my voice according to that which I command thee.",
-      "plainText" : "Now therefore, my son, obey my voice according to that which I command thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "736",
+      "text": "Now therefore, my son, obey my voice according to that which I command thee.",
+      "plainText": "Now therefore, my son, obey my voice according to that which I command thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "737",
-      "text" : "Go now to the flock, and fetch me from thence two good kids of the goats; and I will make them savoury meat for thy father, such as he loveth:",
-      "plainText" : "Go now to the flock, and fetch me from thence two good kids of the goats; and I will make them savoury meat for thy father, such as he loveth:"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "737",
+      "text": "Go now to the flock, and fetch me from thence two good kids of the goats; and I will make them savoury meat for thy father, such as he loveth:",
+      "plainText": "Go now to the flock, and fetch me from thence two good kids of the goats; and I will make them savoury meat for thy father, such as he loveth:"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "738",
-      "text" : "And thou shalt bring <span class='extra'>it<\/span> to thy father, that he may eat, and that he may bless thee before his death.",
-      "plainText" : "And thou shalt bring it to thy father, that he may eat, and that he may bless thee before his death."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "738",
+      "text": "And thou shalt bring <span class='extra'>it</span> to thy father, that he may eat, and that he may bless thee before his death.",
+      "plainText": "And thou shalt bring it to thy father, that he may eat, and that he may bless thee before his death."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "739",
-      "text" : "And Jacob said to Rebekah his mother, Behold, Esau my brother <span class='extra'>is<\/span> a hairy man, and I <span class='extra'>am<\/span> a smooth man:",
-      "plainText" : "And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man:"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "739",
+      "text": "And Jacob said to Rebekah his mother, Behold, Esau my brother <span class='extra'>is</span> a hairy man, and I <span class='extra'>am</span> a smooth man:",
+      "plainText": "And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man:"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "740",
-      "text" : "My father peradventure will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing.",
-      "plainText" : "My father peradventure will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "740",
+      "text": "My father peradventure will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing.",
+      "plainText": "My father peradventure will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "741",
-      "text" : "And his mother said unto him, Upon me <span class='extra'>be<\/span> thy curse, my son: only obey my voice, and go fetch me <span class='extra'>them<\/span>.",
-      "plainText" : "And his mother said unto him, Upon me be thy curse, my son: only obey my voice, and go fetch me them."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "741",
+      "text": "And his mother said unto him, Upon me <span class='extra'>be</span> thy curse, my son: only obey my voice, and go fetch me <span class='extra'>them</span>.",
+      "plainText": "And his mother said unto him, Upon me be thy curse, my son: only obey my voice, and go fetch me them."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "742",
-      "text" : "And he went, and fetched, and brought <span class='extra'>them<\/span> to his mother: and his mother made savoury meat, such as his father loved.",
-      "plainText" : "And he went, and fetched, and brought them to his mother: and his mother made savoury meat, such as his father loved."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "742",
+      "text": "And he went, and fetched, and brought <span class='extra'>them</span> to his mother: and his mother made savoury meat, such as his father loved.",
+      "plainText": "And he went, and fetched, and brought them to his mother: and his mother made savoury meat, such as his father loved."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "743",
-      "text" : "And Rebekah took goodly raiment of her eldest son Esau, which <span class='extra'>were<\/span> with her in the house, and put them upon Jacob her younger son:",
-      "plainText" : "And Rebekah took goodly raiment of her eldest son Esau, which were with her in the house, and put them upon Jacob her younger son:"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "743",
+      "text": "And Rebekah took goodly raiment of her eldest son Esau, which <span class='extra'>were</span> with her in the house, and put them upon Jacob her younger son:",
+      "plainText": "And Rebekah took goodly raiment of her eldest son Esau, which were with her in the house, and put them upon Jacob her younger son:"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "744",
-      "text" : "And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:",
-      "plainText" : "And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "744",
+      "text": "And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:",
+      "plainText": "And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "745",
-      "text" : "And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob.",
-      "plainText" : "And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "745",
+      "text": "And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob.",
+      "plainText": "And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "746",
-      "text" : "And he came unto his father, and said, My father: and he said, Here <span class='extra'>am<\/span> I; who <span class='extra'>art<\/span> thou, my son?",
-      "plainText" : "And he came unto his father, and said, My father: and he said, Here am I; who art thou, my son?"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "746",
+      "text": "And he came unto his father, and said, My father: and he said, Here <span class='extra'>am</span> I; who <span class='extra'>art</span> thou, my son?",
+      "plainText": "And he came unto his father, and said, My father: and he said, Here am I; who art thou, my son?"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "747",
-      "text" : "And Jacob said unto his father, I <span class='extra'>am<\/span> Esau thy firstborn; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me.",
-      "plainText" : "And Jacob said unto his father, I am Esau thy firstborn; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "747",
+      "text": "And Jacob said unto his father, I <span class='extra'>am</span> Esau thy firstborn; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me.",
+      "plainText": "And Jacob said unto his father, I am Esau thy firstborn; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "748",
-      "text" : "And Isaac said unto his son, How <span class='extra'>is it<\/span> that thou hast found <span class='extra'>it<\/span> so quickly, my son? And he said, Because the <span class='nog'>LORD<\/span> thy God brought <span class='extra'>it<\/span> to me.",
-      "plainText" : "And Isaac said unto his son, How is it that thou hast found it so quickly, my son? And he said, Because the LORD thy God brought it to me."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "748",
+      "text": "And Isaac said unto his son, How <span class='extra'>is it</span> that thou hast found <span class='extra'>it</span> so quickly, my son? And he said, Because the <span class='nog'>LORD</span> thy God brought <span class='extra'>it</span> to me.",
+      "plainText": "And Isaac said unto his son, How is it that thou hast found it so quickly, my son? And he said, Because the LORD thy God brought it to me."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "749",
-      "text" : "And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou <span class='extra'>be<\/span> my very son Esau or not.",
-      "plainText" : "And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou be my very son Esau or not."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "749",
+      "text": "And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou <span class='extra'>be</span> my very son Esau or not.",
+      "plainText": "And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou be my very son Esau or not."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "750",
-      "text" : "And Jacob went near unto Isaac his father; and he felt him, and said, The voice <span class='extra'>is<\/span> Jacob's voice, but the hands <span class='extra'>are<\/span> the hands of Esau.",
-      "plainText" : "And Jacob went near unto Isaac his father; and he felt him, and said, The voice is Jacob's voice, but the hands are the hands of Esau."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "750",
+      "text": "And Jacob went near unto Isaac his father; and he felt him, and said, The voice <span class='extra'>is</span> Jacob's voice, but the hands <span class='extra'>are</span> the hands of Esau.",
+      "plainText": "And Jacob went near unto Isaac his father; and he felt him, and said, The voice is Jacob's voice, but the hands are the hands of Esau."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "751",
-      "text" : "And he discerned him not, because his hands were hairy, as his brother Esau's hands: so he blessed him.",
-      "plainText" : "And he discerned him not, because his hands were hairy, as his brother Esau's hands: so he blessed him."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "751",
+      "text": "And he discerned him not, because his hands were hairy, as his brother Esau's hands: so he blessed him.",
+      "plainText": "And he discerned him not, because his hands were hairy, as his brother Esau's hands: so he blessed him."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "752",
-      "text" : "And he said, <span class='extra'>Art<\/span> thou my very son Esau? And he said, I <span class='extra'>am<\/span>.",
-      "plainText" : "And he said, Art thou my very son Esau? And he said, I am."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "752",
+      "text": "And he said, <span class='extra'>Art</span> thou my very son Esau? And he said, I <span class='extra'>am</span>.",
+      "plainText": "And he said, Art thou my very son Esau? And he said, I am."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "753",
-      "text" : "And he said, Bring <span class='extra'>it<\/span> near to me, and I will eat of my son's venison, that my soul may bless thee. And he brought <span class='extra'>it<\/span> near to him, and he did eat: and he brought him wine, and he drank.",
-      "plainText" : "And he said, Bring it near to me, and I will eat of my son's venison, that my soul may bless thee. And he brought it near to him, and he did eat: and he brought him wine, and he drank."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "753",
+      "text": "And he said, Bring <span class='extra'>it</span> near to me, and I will eat of my son's venison, that my soul may bless thee. And he brought <span class='extra'>it</span> near to him, and he did eat: and he brought him wine, and he drank.",
+      "plainText": "And he said, Bring it near to me, and I will eat of my son's venison, that my soul may bless thee. And he brought it near to him, and he did eat: and he brought him wine, and he drank."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "754",
-      "text" : "And his father Isaac said unto him, Come near now, and kiss me, my son.",
-      "plainText" : "And his father Isaac said unto him, Come near now, and kiss me, my son."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "754",
+      "text": "And his father Isaac said unto him, Come near now, and kiss me, my son.",
+      "plainText": "And his father Isaac said unto him, Come near now, and kiss me, my son."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "755",
-      "text" : "And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son <span class='extra'>is<\/span> as the smell of a field which the <span class='nog'>LORD<\/span> hath blessed:",
-      "plainText" : "And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son is as the smell of a field which the LORD hath blessed:"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "755",
+      "text": "And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son <span class='extra'>is</span> as the smell of a field which the <span class='nog'>LORD</span> hath blessed:",
+      "plainText": "And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son is as the smell of a field which the LORD hath blessed:"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "756",
-      "text" : "Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:",
-      "plainText" : "Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:"
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "756",
+      "text": "Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:",
+      "plainText": "Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:"
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "757",
-      "text" : "Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother's sons bow down to thee: cursed <span class='extra'>be<\/span> every one that curseth thee, and blessed <span class='extra'>be<\/span> he that blesseth thee.",
-      "plainText" : "Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother's sons bow down to thee: cursed be every one that curseth thee, and blessed be he that blesseth thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "757",
+      "text": "Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother's sons bow down to thee: cursed <span class='extra'>be</span> every one that curseth thee, and blessed <span class='extra'>be</span> he that blesseth thee.",
+      "plainText": "Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother's sons bow down to thee: cursed be every one that curseth thee, and blessed be he that blesseth thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "758",
-      "text" : "And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.",
-      "plainText" : "And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "758",
+      "text": "And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.",
+      "plainText": "And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "759",
-      "text" : "And he also had made savoury meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son's venison, that thy soul may bless me.",
-      "plainText" : "And he also had made savoury meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son's venison, that thy soul may bless me."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "759",
+      "text": "And he also had made savoury meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son's venison, that thy soul may bless me.",
+      "plainText": "And he also had made savoury meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son's venison, that thy soul may bless me."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "760",
-      "text" : "And Isaac his father said unto him, Who <span class='extra'>art<\/span> thou? And he said, I <span class='extra'>am<\/span> thy son, thy firstborn Esau.",
-      "plainText" : "And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy firstborn Esau."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "760",
+      "text": "And Isaac his father said unto him, Who <span class='extra'>art</span> thou? And he said, I <span class='extra'>am</span> thy son, thy firstborn Esau.",
+      "plainText": "And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy firstborn Esau."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "761",
-      "text" : "And Isaac trembled very exceedingly, and said, Who? where <span class='extra'>is<\/span> he that hath taken venison, and brought <span class='extra'>it<\/span> me, and I have eaten of all before thou camest, and have blessed him? yea, <span class='extra'>and<\/span> he shall be blessed.",
-      "plainText" : "And Isaac trembled very exceedingly, and said, Who? where is he that hath taken venison, and brought it me, and I have eaten of all before thou camest, and have blessed him? yea, and he shall be blessed."
-    }
-    ,
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "761",
+      "text": "And Isaac trembled very exceedingly, and said, Who? where <span class='extra'>is</span> he that hath taken venison, and brought <span class='extra'>it</span> me, and I have eaten of all before thou camest, and have blessed him? yea, <span class='extra'>and</span> he shall be blessed.",
+      "plainText": "And Isaac trembled very exceedingly, and said, Who? where is he that hath taken venison, and brought it me, and I have eaten of all before thou camest, and have blessed him? yea, and he shall be blessed."
+    },
     {
-      "type" : "verse",
-      "id" : "v34",
-      "number" : "34",
-      "absolute" : "762",
-      "text" : "And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, <span class='extra'>even<\/span> me also, O my father.",
-      "plainText" : "And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, even me also, O my father."
-    }
-    ,
+      "type": "verse",
+      "id": "v34",
+      "number": "34",
+      "absolute": "762",
+      "text": "And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, <span class='extra'>even</span> me also, O my father.",
+      "plainText": "And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, even me also, O my father."
+    },
     {
-      "type" : "verse",
-      "id" : "v35",
-      "number" : "35",
-      "absolute" : "763",
-      "text" : "And he said, Thy brother came with subtilty, and hath taken away thy blessing.",
-      "plainText" : "And he said, Thy brother came with subtilty, and hath taken away thy blessing."
-    }
-    ,
+      "type": "verse",
+      "id": "v35",
+      "number": "35",
+      "absolute": "763",
+      "text": "And he said, Thy brother came with subtilty, and hath taken away thy blessing.",
+      "plainText": "And he said, Thy brother came with subtilty, and hath taken away thy blessing."
+    },
     {
-      "type" : "verse",
-      "id" : "v36",
-      "number" : "36",
-      "absolute" : "764",
-      "text" : "And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?",
-      "plainText" : "And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?"
-    }
-    ,
+      "type": "verse",
+      "id": "v36",
+      "number": "36",
+      "absolute": "764",
+      "text": "And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?",
+      "plainText": "And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?"
+    },
     {
-      "type" : "verse",
-      "id" : "v37",
-      "number" : "37",
-      "absolute" : "765",
-      "text" : "And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son?",
-      "plainText" : "And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son?"
-    }
-    ,
+      "type": "verse",
+      "id": "v37",
+      "number": "37",
+      "absolute": "765",
+      "text": "And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son?",
+      "plainText": "And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son?"
+    },
     {
-      "type" : "verse",
-      "id" : "v38",
-      "number" : "38",
-      "absolute" : "766",
-      "text" : "And Esau said unto his father, Hast thou but one blessing, my father? bless me, <span class='extra'>even<\/span> me also, O my father. And Esau lifted up his voice, and wept.",
-      "plainText" : "And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept."
-    }
-    ,
+      "type": "verse",
+      "id": "v38",
+      "number": "38",
+      "absolute": "766",
+      "text": "And Esau said unto his father, Hast thou but one blessing, my father? bless me, <span class='extra'>even</span> me also, O my father. And Esau lifted up his voice, and wept.",
+      "plainText": "And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept."
+    },
     {
-      "type" : "verse",
-      "id" : "v39",
-      "number" : "39",
-      "absolute" : "767",
-      "text" : "And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above;",
-      "plainText" : "And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above;"
-    }
-    ,
+      "type": "verse",
+      "id": "v39",
+      "number": "39",
+      "absolute": "767",
+      "text": "And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above;",
+      "plainText": "And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above;"
+    },
     {
-      "type" : "verse",
-      "id" : "v40",
-      "number" : "40",
-      "absolute" : "768",
-      "text" : "And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck.",
-      "plainText" : "And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck."
-    }
-    ,
+      "type": "verse",
+      "id": "v40",
+      "number": "40",
+      "absolute": "768",
+      "text": "And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck.",
+      "plainText": "And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck."
+    },
     {
-      "type" : "verse",
-      "id" : "v41",
-      "number" : "41",
-      "absolute" : "769",
-      "text" : "And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.",
-      "plainText" : "And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob."
-    }
-    ,
+      "type": "verse",
+      "id": "v41",
+      "number": "41",
+      "absolute": "769",
+      "text": "And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.",
+      "plainText": "And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob."
+    },
     {
-      "type" : "verse",
-      "id" : "v42",
-      "number" : "42",
-      "absolute" : "770",
-      "text" : "And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, <span class='extra'>purposing<\/span> to kill thee.",
-      "plainText" : "And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, purposing to kill thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v42",
+      "number": "42",
+      "absolute": "770",
+      "text": "And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, <span class='extra'>purposing</span> to kill thee.",
+      "plainText": "And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, purposing to kill thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v43",
-      "number" : "43",
-      "absolute" : "771",
-      "text" : "Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother to Haran;",
-      "plainText" : "Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother to Haran;"
-    }
-    ,
+      "type": "verse",
+      "id": "v43",
+      "number": "43",
+      "absolute": "771",
+      "text": "Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother to Haran;",
+      "plainText": "Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother to Haran;"
+    },
     {
-      "type" : "verse",
-      "id" : "v44",
-      "number" : "44",
-      "absolute" : "772",
-      "text" : "And tarry with him a few days, until thy brother's fury turn away;",
-      "plainText" : "And tarry with him a few days, until thy brother's fury turn away;"
-    }
-    ,
+      "type": "verse",
+      "id": "v44",
+      "number": "44",
+      "absolute": "772",
+      "text": "And tarry with him a few days, until thy brother's fury turn away;",
+      "plainText": "And tarry with him a few days, until thy brother's fury turn away;"
+    },
     {
-      "type" : "verse",
-      "id" : "v45",
-      "number" : "45",
-      "absolute" : "773",
-      "text" : "Until thy brother's anger turn away from thee, and he forget <span class='extra'>that<\/span> which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?",
-      "plainText" : "Until thy brother's anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?"
-    }
-    ,
+      "type": "verse",
+      "id": "v45",
+      "number": "45",
+      "absolute": "773",
+      "text": "Until thy brother's anger turn away from thee, and he forget <span class='extra'>that</span> which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?",
+      "plainText": "Until thy brother's anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?"
+    },
     {
-      "type" : "verse",
-      "id" : "v46",
-      "number" : "46",
-      "absolute" : "774",
-      "text" : "And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these <span class='extra'>which are<\/span> of the daughters of the land, what good shall my life do me?",
-      "plainText" : "And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me?"
+      "type": "verse",
+      "id": "v46",
+      "number": "46",
+      "absolute": "774",
+      "text": "And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these <span class='extra'>which are</span> of the daughters of the land, what good shall my life do me?",
+      "plainText": "And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me?"
     }
   ]
 }
-
-

@@ -1,81 +1,75 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "15",
-    "verseCount" : "5",
-    "nextChapter" : "psalms_16.html",
-    "nextTitle" : "Psalms 16",
-    "prevChapter" : "psalms_14.html",
-    "prevTitle" : "Psalms 14",
-    "filename" : "psalms_15.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "15",
+    "verseCount": "5",
+    "nextChapter": "psalms_16.html",
+    "nextTitle": "Psalms 16",
+    "prevChapter": "psalms_14.html",
+    "prevTitle": "Psalms 14",
+    "filename": "psalms_15.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Psalm of David.",
-      "plainText" : "A Psalm of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Psalm of David.",
+      "plainText": "A Psalm of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14089",
-      "text" : "<span class='nog'>LORD<\/span>, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
-      "plainText" : "LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14089",
+      "text": "<span class='nog'>LORD</span>, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+      "plainText": "LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14090",
-      "text" : "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
-      "plainText" : "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14090",
+      "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
+      "plainText": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14091",
-      "text" : "<span class='extra'>He that<\/span> backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
-      "plainText" : "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14091",
+      "text": "<span class='extra'>He that</span> backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
+      "plainText": "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14092",
-      "text" : "In whose eyes a vile person is contemned; but he honoureth them that fear the <span class='nog'>LORD<\/span>. <span class='extra'>He that<\/span> sweareth to <span class='extra'>his own<\/span> hurt, and changeth not.",
-      "plainText" : "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. He that sweareth to his own hurt, and changeth not."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14092",
+      "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the <span class='nog'>LORD</span>. <span class='extra'>He that</span> sweareth to <span class='extra'>his own</span> hurt, and changeth not.",
+      "plainText": "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. He that sweareth to his own hurt, and changeth not."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14093",
-      "text" : "<span class='extra'>He that<\/span> putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these <span class='extra'>things<\/span> shall never be moved.",
-      "plainText" : "He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved."
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14093",
+      "text": "<span class='extra'>He that</span> putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these <span class='extra'>things</span> shall never be moved.",
+      "plainText": "He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved."
     }
   ]
 }
-
-

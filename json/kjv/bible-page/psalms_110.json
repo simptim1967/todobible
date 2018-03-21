@@ -1,99 +1,91 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "110",
-    "verseCount" : "7",
-    "nextChapter" : "psalms_111.html",
-    "nextTitle" : "Psalms 111",
-    "prevChapter" : "psalms_109.html",
-    "prevTitle" : "Psalms 109",
-    "filename" : "psalms_110.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "110",
+    "verseCount": "7",
+    "nextChapter": "psalms_111.html",
+    "nextTitle": "Psalms 111",
+    "prevChapter": "psalms_109.html",
+    "prevTitle": "Psalms 109",
+    "filename": "psalms_110.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Psalm of David.",
-      "plainText" : "A Psalm of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Psalm of David.",
+      "plainText": "A Psalm of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "15788",
-      "text" : "The <span class='nog'>LORD<\/span> said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
-      "plainText" : "The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "15788",
+      "text": "The <span class='nog'>LORD</span> said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+      "plainText": "The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "15789",
-      "text" : "The <span class='nog'>LORD<\/span> shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
-      "plainText" : "The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "15789",
+      "text": "The <span class='nog'>LORD</span> shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+      "plainText": "The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "15790",
-      "text" : "Thy people <span class='extra'>shall be<\/span> willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.",
-      "plainText" : "Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "15790",
+      "text": "Thy people <span class='extra'>shall be</span> willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.",
+      "plainText": "Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "15791",
-      "text" : "The <span class='nog'>LORD<\/span> hath sworn, and will not repent, Thou <span class='extra'>art<\/span> a priest for ever after the order of Melchizedek.",
-      "plainText" : "The LORD hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "15791",
+      "text": "The <span class='nog'>LORD</span> hath sworn, and will not repent, Thou <span class='extra'>art</span> a priest for ever after the order of Melchizedek.",
+      "plainText": "The LORD hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "15792",
-      "text" : "The Lord at thy right hand shall strike through kings in the day of his wrath.",
-      "plainText" : "The Lord at thy right hand shall strike through kings in the day of his wrath."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "15792",
+      "text": "The Lord at thy right hand shall strike through kings in the day of his wrath.",
+      "plainText": "The Lord at thy right hand shall strike through kings in the day of his wrath."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "15793",
-      "text" : "He shall judge among the heathen, he shall fill <span class='extra'>the places<\/span> with the dead bodies; he shall wound the heads over many countries.",
-      "plainText" : "He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "15793",
+      "text": "He shall judge among the heathen, he shall fill <span class='extra'>the places</span> with the dead bodies; he shall wound the heads over many countries.",
+      "plainText": "He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "15794",
-      "text" : "He shall drink of the brook in the way: therefore shall he lift up the head.",
-      "plainText" : "He shall drink of the brook in the way: therefore shall he lift up the head."
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "15794",
+      "text": "He shall drink of the brook in the way: therefore shall he lift up the head.",
+      "plainText": "He shall drink of the brook in the way: therefore shall he lift up the head."
     }
   ]
 }
-
-

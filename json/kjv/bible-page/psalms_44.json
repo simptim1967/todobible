@@ -1,269 +1,243 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "44",
-    "verseCount" : "26",
-    "nextChapter" : "psalms_45.html",
-    "nextTitle" : "Psalms 45",
-    "prevChapter" : "psalms_43.html",
-    "prevTitle" : "Psalms 43",
-    "filename" : "psalms_44.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "44",
+    "verseCount": "26",
+    "nextChapter": "psalms_45.html",
+    "nextTitle": "Psalms 45",
+    "prevChapter": "psalms_43.html",
+    "prevTitle": "Psalms 43",
+    "filename": "psalms_44.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "To the chief Musician for the sons of Korah, Maschil.",
-      "plainText" : "To the chief Musician for the sons of Korah, Maschil."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "To the chief Musician for the sons of Korah, Maschil.",
+      "plainText": "To the chief Musician for the sons of Korah, Maschil."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "14573",
-      "text" : "We have heard with our ears, O God, our fathers have told us, <span class='extra'>what<\/span> work thou didst in their days, in the times of old.",
-      "plainText" : "We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "14573",
+      "text": "We have heard with our ears, O God, our fathers have told us, <span class='extra'>what</span> work thou didst in their days, in the times of old.",
+      "plainText": "We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "14574",
-      "text" : "<span class='extra'>How<\/span> thou didst drive out the heathen with thy hand, and plantedst them; <span class='extra'>how<\/span> thou didst afflict the people, and cast them out.",
-      "plainText" : "How thou didst drive out the heathen with thy hand, and plantedst them; how thou didst afflict the people, and cast them out."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "14574",
+      "text": "<span class='extra'>How</span> thou didst drive out the heathen with thy hand, and plantedst them; <span class='extra'>how</span> thou didst afflict the people, and cast them out.",
+      "plainText": "How thou didst drive out the heathen with thy hand, and plantedst them; how thou didst afflict the people, and cast them out."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "14575",
-      "text" : "For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them.",
-      "plainText" : "For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "14575",
+      "text": "For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them.",
+      "plainText": "For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "14576",
-      "text" : "Thou art my King, O God: command deliverances for Jacob.",
-      "plainText" : "Thou art my King, O God: command deliverances for Jacob."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "14576",
+      "text": "Thou art my King, O God: command deliverances for Jacob.",
+      "plainText": "Thou art my King, O God: command deliverances for Jacob."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "14577",
-      "text" : "Through thee will we push down our enemies: through thy name will we tread them under that rise up against us.",
-      "plainText" : "Through thee will we push down our enemies: through thy name will we tread them under that rise up against us."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "14577",
+      "text": "Through thee will we push down our enemies: through thy name will we tread them under that rise up against us.",
+      "plainText": "Through thee will we push down our enemies: through thy name will we tread them under that rise up against us."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "14578",
-      "text" : "For I will not trust in my bow, neither shall my sword save me.",
-      "plainText" : "For I will not trust in my bow, neither shall my sword save me."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "14578",
+      "text": "For I will not trust in my bow, neither shall my sword save me.",
+      "plainText": "For I will not trust in my bow, neither shall my sword save me."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "14579",
-      "text" : "But thou hast saved us from our enemies, and hast put them to shame that hated us.",
-      "plainText" : "But thou hast saved us from our enemies, and hast put them to shame that hated us."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "14579",
+      "text": "But thou hast saved us from our enemies, and hast put them to shame that hated us.",
+      "plainText": "But thou hast saved us from our enemies, and hast put them to shame that hated us."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "14580",
-      "text" : "In God we boast all the day long, and praise thy name for ever. Selah.",
-      "plainText" : "In God we boast all the day long, and praise thy name for ever. Selah."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "14580",
+      "text": "In God we boast all the day long, and praise thy name for ever. Selah.",
+      "plainText": "In God we boast all the day long, and praise thy name for ever. Selah."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "14581",
-      "text" : "But thou hast cast off, and put us to shame; and goest not forth with our armies.",
-      "plainText" : "But thou hast cast off, and put us to shame; and goest not forth with our armies."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "14581",
+      "text": "But thou hast cast off, and put us to shame; and goest not forth with our armies.",
+      "plainText": "But thou hast cast off, and put us to shame; and goest not forth with our armies."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "14582",
-      "text" : "Thou makest us to turn back from the enemy: and they which hate us spoil for themselves.",
-      "plainText" : "Thou makest us to turn back from the enemy: and they which hate us spoil for themselves."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "14582",
+      "text": "Thou makest us to turn back from the enemy: and they which hate us spoil for themselves.",
+      "plainText": "Thou makest us to turn back from the enemy: and they which hate us spoil for themselves."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "14583",
-      "text" : "Thou hast given us like sheep <span class='extra'>appointed<\/span> for meat; and hast scattered us among the heathen.",
-      "plainText" : "Thou hast given us like sheep appointed for meat; and hast scattered us among the heathen."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "14583",
+      "text": "Thou hast given us like sheep <span class='extra'>appointed</span> for meat; and hast scattered us among the heathen.",
+      "plainText": "Thou hast given us like sheep appointed for meat; and hast scattered us among the heathen."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "14584",
-      "text" : "Thou sellest thy people for nought, and dost not increase <span class='extra'>thy wealth<\/span> by their price.",
-      "plainText" : "Thou sellest thy people for nought, and dost not increase thy wealth by their price."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "14584",
+      "text": "Thou sellest thy people for nought, and dost not increase <span class='extra'>thy wealth</span> by their price.",
+      "plainText": "Thou sellest thy people for nought, and dost not increase thy wealth by their price."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "14585",
-      "text" : "Thou makest us a reproach to our neighbours, a scorn and a derision to them that are round about us.",
-      "plainText" : "Thou makest us a reproach to our neighbours, a scorn and a derision to them that are round about us."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "14585",
+      "text": "Thou makest us a reproach to our neighbours, a scorn and a derision to them that are round about us.",
+      "plainText": "Thou makest us a reproach to our neighbours, a scorn and a derision to them that are round about us."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "14586",
-      "text" : "Thou makest us a byword among the heathen, a shaking of the head among the people.",
-      "plainText" : "Thou makest us a byword among the heathen, a shaking of the head among the people."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "14586",
+      "text": "Thou makest us a byword among the heathen, a shaking of the head among the people.",
+      "plainText": "Thou makest us a byword among the heathen, a shaking of the head among the people."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "14587",
-      "text" : "My confusion <span class='extra'>is<\/span> continually before me, and the shame of my face hath covered me,",
-      "plainText" : "My confusion is continually before me, and the shame of my face hath covered me,"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "14587",
+      "text": "My confusion <span class='extra'>is</span> continually before me, and the shame of my face hath covered me,",
+      "plainText": "My confusion is continually before me, and the shame of my face hath covered me,"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "14588",
-      "text" : "For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.",
-      "plainText" : "For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "14588",
+      "text": "For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.",
+      "plainText": "For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "14589",
-      "text" : "All this is come upon us; yet have we not forgotten thee, neither have we dealt falsely in thy covenant.",
-      "plainText" : "All this is come upon us; yet have we not forgotten thee, neither have we dealt falsely in thy covenant."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "14589",
+      "text": "All this is come upon us; yet have we not forgotten thee, neither have we dealt falsely in thy covenant.",
+      "plainText": "All this is come upon us; yet have we not forgotten thee, neither have we dealt falsely in thy covenant."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "14590",
-      "text" : "Our heart is not turned back, neither have our steps declined from thy way;",
-      "plainText" : "Our heart is not turned back, neither have our steps declined from thy way;"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "14590",
+      "text": "Our heart is not turned back, neither have our steps declined from thy way;",
+      "plainText": "Our heart is not turned back, neither have our steps declined from thy way;"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "14591",
-      "text" : "Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.",
-      "plainText" : "Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "14591",
+      "text": "Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.",
+      "plainText": "Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "14592",
-      "text" : "If we have forgotten the name of our God, or stretched out our hands to a strange god;",
-      "plainText" : "If we have forgotten the name of our God, or stretched out our hands to a strange god;"
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "14592",
+      "text": "If we have forgotten the name of our God, or stretched out our hands to a strange god;",
+      "plainText": "If we have forgotten the name of our God, or stretched out our hands to a strange god;"
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "14593",
-      "text" : "Shall not God search this out? for he knoweth the secrets of the heart.",
-      "plainText" : "Shall not God search this out? for he knoweth the secrets of the heart."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "14593",
+      "text": "Shall not God search this out? for he knoweth the secrets of the heart.",
+      "plainText": "Shall not God search this out? for he knoweth the secrets of the heart."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "14594",
-      "text" : "Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter.",
-      "plainText" : "Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "14594",
+      "text": "Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter.",
+      "plainText": "Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "14595",
-      "text" : "Awake, why sleepest thou, O Lord? arise, cast <span class='extra'>us<\/span> not off for ever.",
-      "plainText" : "Awake, why sleepest thou, O Lord? arise, cast us not off for ever."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "14595",
+      "text": "Awake, why sleepest thou, O Lord? arise, cast <span class='extra'>us</span> not off for ever.",
+      "plainText": "Awake, why sleepest thou, O Lord? arise, cast us not off for ever."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "14596",
-      "text" : "Wherefore hidest thou thy face, <span class='extra'>and<\/span> forgettest our affliction and our oppression?",
-      "plainText" : "Wherefore hidest thou thy face, and forgettest our affliction and our oppression?"
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "14596",
+      "text": "Wherefore hidest thou thy face, <span class='extra'>and</span> forgettest our affliction and our oppression?",
+      "plainText": "Wherefore hidest thou thy face, and forgettest our affliction and our oppression?"
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "14597",
-      "text" : "For our soul is bowed down to the dust: our belly cleaveth unto the earth.",
-      "plainText" : "For our soul is bowed down to the dust: our belly cleaveth unto the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "14597",
+      "text": "For our soul is bowed down to the dust: our belly cleaveth unto the earth.",
+      "plainText": "For our soul is bowed down to the dust: our belly cleaveth unto the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "14598",
-      "text" : "Arise for our help, and redeem us for thy mercies' sake.",
-      "plainText" : "Arise for our help, and redeem us for thy mercies' sake."
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "14598",
+      "text": "Arise for our help, and redeem us for thy mercies' sake.",
+      "plainText": "Arise for our help, and redeem us for thy mercies' sake."
     }
   ]
 }
-

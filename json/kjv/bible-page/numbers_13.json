@@ -1,326 +1,293 @@
 {
   "book": {
-    "number" : "4",
-    "filenamePrefix" : "numbers",
-    "bookPage" : "numbers.html",
-    "title" : "Numbers",
-    "chapterCount" : "36",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "deuteronomy_1.html",
-    "nextTitle" : "Deuteronomy",
-    "prevBook" : "leviticus_1.html",
-    "prevTitle" : "Leviticus"
+    "number": "4",
+    "filenamePrefix": "numbers",
+    "bookPage": "numbers.html",
+    "title": "Numbers",
+    "chapterCount": "36",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "deuteronomy_1.html",
+    "nextTitle": "Deuteronomy",
+    "prevBook": "leviticus_1.html",
+    "prevTitle": "Leviticus",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "13",
-    "verseCount" : "33",
-    "nextChapter" : "numbers_14.html",
-    "nextTitle" : "Numbers 14",
-    "prevChapter" : "numbers_12.html",
-    "prevTitle" : "Numbers 12",
-    "filename" : "numbers_13.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "13",
+    "verseCount": "33",
+    "nextChapter": "numbers_14.html",
+    "nextTitle": "Numbers 14",
+    "prevChapter": "numbers_12.html",
+    "prevTitle": "Numbers 12",
+    "filename": "numbers_13.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "4077",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "4077",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "4078",
-      "text" : "Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them.",
-      "plainText" : "Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "4078",
+      "text": "Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them.",
+      "plainText": "Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "4079",
-      "text" : "And Moses by the commandment of the <span class='nog'>LORD<\/span> sent them from the wilderness of Paran: all those men <span class='extra'>were<\/span> heads of the children of Israel.",
-      "plainText" : "And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men were heads of the children of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "4079",
+      "text": "And Moses by the commandment of the <span class='nog'>LORD</span> sent them from the wilderness of Paran: all those men <span class='extra'>were</span> heads of the children of Israel.",
+      "plainText": "And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men were heads of the children of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "4080",
-      "text" : "And these <span class='extra'>were<\/span> their names: of the tribe of Reuben, Shammua the son of Zaccur.",
-      "plainText" : "And these were their names: of the tribe of Reuben, Shammua the son of Zaccur."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "4080",
+      "text": "And these <span class='extra'>were</span> their names: of the tribe of Reuben, Shammua the son of Zaccur.",
+      "plainText": "And these were their names: of the tribe of Reuben, Shammua the son of Zaccur."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "4081",
-      "text" : "Of the tribe of Simeon, Shaphat the son of Hori.",
-      "plainText" : "Of the tribe of Simeon, Shaphat the son of Hori."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "4081",
+      "text": "Of the tribe of Simeon, Shaphat the son of Hori.",
+      "plainText": "Of the tribe of Simeon, Shaphat the son of Hori."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "4082",
-      "text" : "Of the tribe of Judah, Caleb the son of Jephunneh.",
-      "plainText" : "Of the tribe of Judah, Caleb the son of Jephunneh."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "4082",
+      "text": "Of the tribe of Judah, Caleb the son of Jephunneh.",
+      "plainText": "Of the tribe of Judah, Caleb the son of Jephunneh."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "4083",
-      "text" : "Of the tribe of Issachar, Igal the son of Joseph.",
-      "plainText" : "Of the tribe of Issachar, Igal the son of Joseph."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "4083",
+      "text": "Of the tribe of Issachar, Igal the son of Joseph.",
+      "plainText": "Of the tribe of Issachar, Igal the son of Joseph."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "4084",
-      "text" : "Of the tribe of Ephraim, Oshea the son of Nun.",
-      "plainText" : "Of the tribe of Ephraim, Oshea the son of Nun."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "4084",
+      "text": "Of the tribe of Ephraim, Oshea the son of Nun.",
+      "plainText": "Of the tribe of Ephraim, Oshea the son of Nun."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "4085",
-      "text" : "Of the tribe of Benjamin, Palti the son of Raphu.",
-      "plainText" : "Of the tribe of Benjamin, Palti the son of Raphu."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "4085",
+      "text": "Of the tribe of Benjamin, Palti the son of Raphu.",
+      "plainText": "Of the tribe of Benjamin, Palti the son of Raphu."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "4086",
-      "text" : "Of the tribe of Zebulun, Gaddiel the son of Sodi.",
-      "plainText" : "Of the tribe of Zebulun, Gaddiel the son of Sodi."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "4086",
+      "text": "Of the tribe of Zebulun, Gaddiel the son of Sodi.",
+      "plainText": "Of the tribe of Zebulun, Gaddiel the son of Sodi."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "4087",
-      "text" : "Of the tribe of Joseph, <span class='extra'>namely<\/span>, of the tribe of Manasseh, Gaddi the son of Susi.",
-      "plainText" : "Of the tribe of Joseph, namely, of the tribe of Manasseh, Gaddi the son of Susi."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "4087",
+      "text": "Of the tribe of Joseph, <span class='extra'>namely</span>, of the tribe of Manasseh, Gaddi the son of Susi.",
+      "plainText": "Of the tribe of Joseph, namely, of the tribe of Manasseh, Gaddi the son of Susi."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "4088",
-      "text" : "Of the tribe of Dan, Ammiel the son of Gemalli.",
-      "plainText" : "Of the tribe of Dan, Ammiel the son of Gemalli."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "4088",
+      "text": "Of the tribe of Dan, Ammiel the son of Gemalli.",
+      "plainText": "Of the tribe of Dan, Ammiel the son of Gemalli."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "4089",
-      "text" : "Of the tribe of Asher, Sethur the son of Michael.",
-      "plainText" : "Of the tribe of Asher, Sethur the son of Michael."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "4089",
+      "text": "Of the tribe of Asher, Sethur the son of Michael.",
+      "plainText": "Of the tribe of Asher, Sethur the son of Michael."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "4090",
-      "text" : "Of the tribe of Naphtali, Nahbi the son of Vophsi.",
-      "plainText" : "Of the tribe of Naphtali, Nahbi the son of Vophsi."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "4090",
+      "text": "Of the tribe of Naphtali, Nahbi the son of Vophsi.",
+      "plainText": "Of the tribe of Naphtali, Nahbi the son of Vophsi."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "4091",
-      "text" : "Of the tribe of Gad, Geuel the son of Machi.",
-      "plainText" : "Of the tribe of Gad, Geuel the son of Machi."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "4091",
+      "text": "Of the tribe of Gad, Geuel the son of Machi.",
+      "plainText": "Of the tribe of Gad, Geuel the son of Machi."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "4092",
-      "text" : "These <span class='extra'>are<\/span> the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua.",
-      "plainText" : "These are the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "4092",
+      "text": "These <span class='extra'>are</span> the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua.",
+      "plainText": "These are the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "4093",
-      "text" : "And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this <span class='extra'>way<\/span> southward, and go up into the mountain:",
-      "plainText" : "And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this way southward, and go up into the mountain:"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "4093",
+      "text": "And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this <span class='extra'>way</span> southward, and go up into the mountain:",
+      "plainText": "And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this way southward, and go up into the mountain:"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "4094",
-      "text" : "And see the land, what it <span class='extra'>is<\/span>; and the people that dwelleth therein, whether they <span class='extra'>be<\/span> strong or weak, few or many;",
-      "plainText" : "And see the land, what it is; and the people that dwelleth therein, whether they be strong or weak, few or many;"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "4094",
+      "text": "And see the land, what it <span class='extra'>is</span>; and the people that dwelleth therein, whether they <span class='extra'>be</span> strong or weak, few or many;",
+      "plainText": "And see the land, what it is; and the people that dwelleth therein, whether they be strong or weak, few or many;"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "4095",
-      "text" : "And what the land <span class='extra'>is<\/span> that they dwell in, whether it <span class='extra'>be<\/span> good or bad; and what cities <span class='extra'>they be<\/span> that they dwell in, whether in tents, or in strong holds;",
-      "plainText" : "And what the land is that they dwell in, whether it be good or bad; and what cities they be that they dwell in, whether in tents, or in strong holds;"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "4095",
+      "text": "And what the land <span class='extra'>is</span> that they dwell in, whether it <span class='extra'>be</span> good or bad; and what cities <span class='extra'>they be</span> that they dwell in, whether in tents, or in strong holds;",
+      "plainText": "And what the land is that they dwell in, whether it be good or bad; and what cities they be that they dwell in, whether in tents, or in strong holds;"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "4096",
-      "text" : "And what the land <span class='extra'>is<\/span>, whether it <span class='extra'>be<\/span> fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time <span class='extra'>was<\/span> the time of the firstripe grapes.",
-      "plainText" : "And what the land is, whether it be fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time was the time of the firstripe grapes."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "4096",
+      "text": "And what the land <span class='extra'>is</span>, whether it <span class='extra'>be</span> fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time <span class='extra'>was</span> the time of the firstripe grapes.",
+      "plainText": "And what the land is, whether it be fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time was the time of the firstripe grapes."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "4097",
-      "text" : "So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath.",
-      "plainText" : "So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "4097",
+      "text": "So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath.",
+      "plainText": "So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "4098",
-      "text" : "And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, <span class='extra'>were<\/span>. (Now Hebron was built seven years before Zoan in Egypt.)",
-      "plainText" : "And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)"
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "4098",
+      "text": "And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, <span class='extra'>were</span>. (Now Hebron was built seven years before Zoan in Egypt.)",
+      "plainText": "And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)"
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "4099",
-      "text" : "And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and <span class='extra'>they brought<\/span> of the pomegranates, and of the figs.",
-      "plainText" : "And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "4099",
+      "text": "And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and <span class='extra'>they brought</span> of the pomegranates, and of the figs.",
+      "plainText": "And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "4100",
-      "text" : "The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.",
-      "plainText" : "The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "4100",
+      "text": "The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.",
+      "plainText": "The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "4101",
-      "text" : "And they returned from searching of the land after forty days.",
-      "plainText" : "And they returned from searching of the land after forty days."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "4101",
+      "text": "And they returned from searching of the land after forty days.",
+      "plainText": "And they returned from searching of the land after forty days."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "4102",
-      "text" : "And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land.",
-      "plainText" : "And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "4102",
+      "text": "And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land.",
+      "plainText": "And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "4103",
-      "text" : "And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this <span class='extra'>is<\/span> the fruit of it.",
-      "plainText" : "And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this is the fruit of it."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "4103",
+      "text": "And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this <span class='extra'>is</span> the fruit of it.",
+      "plainText": "And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this is the fruit of it."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "4104",
-      "text" : "Nevertheless the people <span class='extra'>be<\/span> strong that dwell in the land, and the cities <span class='extra'>are<\/span> walled, <span class='extra'>and<\/span> very great: and moreover we saw the children of Anak there.",
-      "plainText" : "Nevertheless the people be strong that dwell in the land, and the cities are walled, and very great: and moreover we saw the children of Anak there."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "4104",
+      "text": "Nevertheless the people <span class='extra'>be</span> strong that dwell in the land, and the cities <span class='extra'>are</span> walled, <span class='extra'>and</span> very great: and moreover we saw the children of Anak there.",
+      "plainText": "Nevertheless the people be strong that dwell in the land, and the cities are walled, and very great: and moreover we saw the children of Anak there."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "4105",
-      "text" : "The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan.",
-      "plainText" : "The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "4105",
+      "text": "The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan.",
+      "plainText": "The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "4106",
-      "text" : "And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.",
-      "plainText" : "And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "4106",
+      "text": "And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.",
+      "plainText": "And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "4107",
-      "text" : "But the men that went up with him said, We be not able to go up against the people; for they <span class='extra'>are<\/span> stronger than we.",
-      "plainText" : "But the men that went up with him said, We be not able to go up against the people; for they are stronger than we."
-    }
-    ,
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "4107",
+      "text": "But the men that went up with him said, We be not able to go up against the people; for they <span class='extra'>are</span> stronger than we.",
+      "plainText": "But the men that went up with him said, We be not able to go up against the people; for they are stronger than we."
+    },
     {
-      "type" : "verse",
-      "id" : "v32",
-      "number" : "32",
-      "absolute" : "4108",
-      "text" : "And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, <span class='extra'>is<\/span> a land that eateth up the inhabitants thereof; and all the people that we saw in it <span class='extra'>are<\/span> men of a great stature.",
-      "plainText" : "And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, is a land that eateth up the inhabitants thereof; and all the people that we saw in it are men of a great stature."
-    }
-    ,
+      "type": "verse",
+      "id": "v32",
+      "number": "32",
+      "absolute": "4108",
+      "text": "And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, <span class='extra'>is</span> a land that eateth up the inhabitants thereof; and all the people that we saw in it <span class='extra'>are</span> men of a great stature.",
+      "plainText": "And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, is a land that eateth up the inhabitants thereof; and all the people that we saw in it are men of a great stature."
+    },
     {
-      "type" : "verse",
-      "id" : "v33",
-      "number" : "33",
-      "absolute" : "4109",
-      "text" : "And there we saw the giants, the sons of Anak, <span class='extra'>which come<\/span> of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.",
-      "plainText" : "And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight."
+      "type": "verse",
+      "id": "v33",
+      "number": "33",
+      "absolute": "4109",
+      "text": "And there we saw the giants, the sons of Anak, <span class='extra'>which come</span> of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.",
+      "plainText": "And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight."
     }
   ]
 }
-
-

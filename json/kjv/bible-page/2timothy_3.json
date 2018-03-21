@@ -1,181 +1,165 @@
 {
   "book": {
-    "number" : "55",
-    "filenamePrefix" : "2timothy",
-    "bookPage" : "2timothy.html",
-    "title" : "2 Timothy",
-    "chapterCount" : "4",
-    "testament" : "new",
-    "nt" : "true",
-    "ot" : "false",
-    "nextBook" : "titus_1.html",
-    "nextTitle" : "Titus",
-    "prevBook" : "1timothy_1.html",
-    "prevTitle" : "1 Timothy"
+    "number": "55",
+    "filenamePrefix": "2timothy",
+    "bookPage": "2timothy.html",
+    "title": "2 Timothy",
+    "chapterCount": "4",
+    "testament": "new",
+    "nt": "true",
+    "ot": "false",
+    "nextBook": "titus_1.html",
+    "nextTitle": "Titus",
+    "prevBook": "1timothy_1.html",
+    "prevTitle": "1 Timothy",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "3",
-    "verseCount" : "17",
-    "nextChapter" : "2timothy_4.html",
-    "nextTitle" : "2 Timothy 4",
-    "prevChapter" : "2timothy_2.html",
-    "prevTitle" : "2 Timothy 2",
-    "filename" : "2timothy_3.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "3",
+    "verseCount": "17",
+    "nextChapter": "2timothy_4.html",
+    "nextTitle": "2 Timothy 4",
+    "prevChapter": "2timothy_2.html",
+    "prevTitle": "2 Timothy 2",
+    "filename": "2timothy_3.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "29855",
-      "text" : "This know also, that in the last days perilous times shall come.",
-      "plainText" : "This know also, that in the last days perilous times shall come."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "29855",
+      "text": "This know also, that in the last days perilous times shall come.",
+      "plainText": "This know also, that in the last days perilous times shall come."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "29856",
-      "text" : "For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,",
-      "plainText" : "For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "29856",
+      "text": "For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,",
+      "plainText": "For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "29857",
-      "text" : "Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,",
-      "plainText" : "Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,"
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "29857",
+      "text": "Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,",
+      "plainText": "Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,"
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "29858",
-      "text" : "Traitors, heady, highminded, lovers of pleasures more than lovers of God;",
-      "plainText" : "Traitors, heady, highminded, lovers of pleasures more than lovers of God;"
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "29858",
+      "text": "Traitors, heady, highminded, lovers of pleasures more than lovers of God;",
+      "plainText": "Traitors, heady, highminded, lovers of pleasures more than lovers of God;"
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "29859",
-      "text" : "Having a form of godliness, but denying the power thereof: from such turn away.",
-      "plainText" : "Having a form of godliness, but denying the power thereof: from such turn away."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "29859",
+      "text": "Having a form of godliness, but denying the power thereof: from such turn away.",
+      "plainText": "Having a form of godliness, but denying the power thereof: from such turn away."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "29860",
-      "text" : "For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,",
-      "plainText" : "For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "29860",
+      "text": "For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,",
+      "plainText": "For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "29861",
-      "text" : "Ever learning, and never able to come to the knowledge of the truth.",
-      "plainText" : "Ever learning, and never able to come to the knowledge of the truth."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "29861",
+      "text": "Ever learning, and never able to come to the knowledge of the truth.",
+      "plainText": "Ever learning, and never able to come to the knowledge of the truth."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "29862",
-      "text" : "Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.",
-      "plainText" : "Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "29862",
+      "text": "Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.",
+      "plainText": "Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "29863",
-      "text" : "But they shall proceed no further: for their folly shall be manifest unto all <span class='extra'>men<\/span>, as theirs also was.",
-      "plainText" : "But they shall proceed no further: for their folly shall be manifest unto all men, as theirs also was."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "29863",
+      "text": "But they shall proceed no further: for their folly shall be manifest unto all <span class='extra'>men</span>, as theirs also was.",
+      "plainText": "But they shall proceed no further: for their folly shall be manifest unto all men, as theirs also was."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "29864",
-      "text" : "But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,",
-      "plainText" : "But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "29864",
+      "text": "But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,",
+      "plainText": "But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "29865",
-      "text" : "Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of <span class='extra'>them<\/span> all the Lord delivered me.",
-      "plainText" : "Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "29865",
+      "text": "Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of <span class='extra'>them</span> all the Lord delivered me.",
+      "plainText": "Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "29866",
-      "text" : "Yea, and all that will live godly in Christ Jesus shall suffer persecution.",
-      "plainText" : "Yea, and all that will live godly in Christ Jesus shall suffer persecution."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "29866",
+      "text": "Yea, and all that will live godly in Christ Jesus shall suffer persecution.",
+      "plainText": "Yea, and all that will live godly in Christ Jesus shall suffer persecution."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "29867",
-      "text" : "But evil men and seducers shall wax worse and worse, deceiving, and being deceived.",
-      "plainText" : "But evil men and seducers shall wax worse and worse, deceiving, and being deceived."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "29867",
+      "text": "But evil men and seducers shall wax worse and worse, deceiving, and being deceived.",
+      "plainText": "But evil men and seducers shall wax worse and worse, deceiving, and being deceived."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "29868",
-      "text" : "But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned <span class='extra'>them<\/span>;",
-      "plainText" : "But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned them;"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "29868",
+      "text": "But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned <span class='extra'>them</span>;",
+      "plainText": "But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned them;"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "29869",
-      "text" : "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.",
-      "plainText" : "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "29869",
+      "text": "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.",
+      "plainText": "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "29870",
-      "text" : "All scripture <span class='extra'>is<\/span> given by inspiration of God, and <span class='extra'>is<\/span> profitable for doctrine, for reproof, for correction, for instruction in righteousness:",
-      "plainText" : "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "29870",
+      "text": "All scripture <span class='extra'>is</span> given by inspiration of God, and <span class='extra'>is</span> profitable for doctrine, for reproof, for correction, for instruction in righteousness:",
+      "plainText": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "29871",
-      "text" : "That the man of God may be perfect, throughly furnished unto all good works.",
-      "plainText" : "That the man of God may be perfect, throughly furnished unto all good works."
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "29871",
+      "text": "That the man of God may be perfect, throughly furnished unto all good works.",
+      "plainText": "That the man of God may be perfect, throughly furnished unto all good works."
     }
   ]
 }
-

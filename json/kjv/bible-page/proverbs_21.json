@@ -1,308 +1,277 @@
 {
   "book": {
-    "number" : "20",
-    "filenamePrefix" : "proverbs",
-    "bookPage" : "proverbs.html",
-    "title" : "Proverbs",
-    "chapterCount" : "31",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "ecclesiastes_1.html",
-    "nextTitle" : "Ecclesiastes",
-    "prevBook" : "psalms_1.html",
-    "prevTitle" : "Psalms"
+    "number": "20",
+    "filenamePrefix": "proverbs",
+    "bookPage": "proverbs.html",
+    "title": "Proverbs",
+    "chapterCount": "31",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "ecclesiastes_1.html",
+    "nextTitle": "Ecclesiastes",
+    "prevBook": "psalms_1.html",
+    "prevTitle": "Psalms",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "21",
-    "verseCount" : "31",
-    "nextChapter" : "proverbs_22.html",
-    "nextTitle" : "Proverbs 22",
-    "prevChapter" : "proverbs_20.html",
-    "prevTitle" : "Proverbs 20",
-    "filename" : "proverbs_21.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "21",
+    "verseCount": "31",
+    "nextChapter": "proverbs_22.html",
+    "nextTitle": "Proverbs 22",
+    "prevChapter": "proverbs_20.html",
+    "prevTitle": "Proverbs 20",
+    "filename": "proverbs_21.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16986",
-      "text" : "The king's heart <span class='extra'>is<\/span> in the hand of the <span class='nog'>LORD<\/span>, <span class='extra'>as<\/span> the rivers of water: he turneth it whithersoever he will.",
-      "plainText" : "The king's heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16986",
+      "text": "The king's heart <span class='extra'>is</span> in the hand of the <span class='nog'>LORD</span>, <span class='extra'>as</span> the rivers of water: he turneth it whithersoever he will.",
+      "plainText": "The king's heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16987",
-      "text" : "Every way of a man <span class='extra'>is<\/span> right in his own eyes: but the <span class='nog'>LORD<\/span> pondereth the hearts.",
-      "plainText" : "Every way of a man is right in his own eyes: but the LORD pondereth the hearts."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16987",
+      "text": "Every way of a man <span class='extra'>is</span> right in his own eyes: but the <span class='nog'>LORD</span> pondereth the hearts.",
+      "plainText": "Every way of a man is right in his own eyes: but the LORD pondereth the hearts."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16988",
-      "text" : "To do justice and judgment <span class='extra'>is<\/span> more acceptable to the <span class='nog'>LORD<\/span> than sacrifice.",
-      "plainText" : "To do justice and judgment is more acceptable to the LORD than sacrifice."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16988",
+      "text": "To do justice and judgment <span class='extra'>is</span> more acceptable to the <span class='nog'>LORD</span> than sacrifice.",
+      "plainText": "To do justice and judgment is more acceptable to the LORD than sacrifice."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "16989",
-      "text" : "An high look, and a proud heart, <span class='extra'>and<\/span> the plowing of the wicked, <span class='extra'>is<\/span> sin.",
-      "plainText" : "An high look, and a proud heart, and the plowing of the wicked, is sin."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "16989",
+      "text": "An high look, and a proud heart, <span class='extra'>and</span> the plowing of the wicked, <span class='extra'>is</span> sin.",
+      "plainText": "An high look, and a proud heart, and the plowing of the wicked, is sin."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "16990",
-      "text" : "The thoughts of the diligent <span class='extra'>tend<\/span> only to plenteousness; but of every one <span class='extra'>that is<\/span> hasty only to want.",
-      "plainText" : "The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "16990",
+      "text": "The thoughts of the diligent <span class='extra'>tend</span> only to plenteousness; but of every one <span class='extra'>that is</span> hasty only to want.",
+      "plainText": "The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "16991",
-      "text" : "The getting of treasures by a lying tongue <span class='extra'>is<\/span> a vanity tossed to and fro of them that seek death.",
-      "plainText" : "The getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "16991",
+      "text": "The getting of treasures by a lying tongue <span class='extra'>is</span> a vanity tossed to and fro of them that seek death.",
+      "plainText": "The getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "16992",
-      "text" : "The robbery of the wicked shall destroy them; because they refuse to do judgment.",
-      "plainText" : "The robbery of the wicked shall destroy them; because they refuse to do judgment."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "16992",
+      "text": "The robbery of the wicked shall destroy them; because they refuse to do judgment.",
+      "plainText": "The robbery of the wicked shall destroy them; because they refuse to do judgment."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "16993",
-      "text" : "The way of man <span class='extra'>is<\/span> froward and strange: but <span class='extra'>as for<\/span> the pure, his work <span class='extra'>is<\/span> right.",
-      "plainText" : "The way of man is froward and strange: but as for the pure, his work is right."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "16993",
+      "text": "The way of man <span class='extra'>is</span> froward and strange: but <span class='extra'>as for</span> the pure, his work <span class='extra'>is</span> right.",
+      "plainText": "The way of man is froward and strange: but as for the pure, his work is right."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "16994",
-      "text" : "<span class='extra'>It is<\/span> better to dwell in a corner of the housetop, than with a brawling woman in a wide house.",
-      "plainText" : "It is better to dwell in a corner of the housetop, than with a brawling woman in a wide house."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "16994",
+      "text": "<span class='extra'>It is</span> better to dwell in a corner of the housetop, than with a brawling woman in a wide house.",
+      "plainText": "It is better to dwell in a corner of the housetop, than with a brawling woman in a wide house."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "16995",
-      "text" : "The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.",
-      "plainText" : "The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "16995",
+      "text": "The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.",
+      "plainText": "The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "16996",
-      "text" : "When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.",
-      "plainText" : "When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "16996",
+      "text": "When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.",
+      "plainText": "When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "16997",
-      "text" : "The righteous <span class='extra'>man<\/span> wisely considereth the house of the wicked: <span class='extra'>but God<\/span> overthroweth the wicked for <span class='extra'>their<\/span> wickedness.",
-      "plainText" : "The righteous man wisely considereth the house of the wicked: but God overthroweth the wicked for their wickedness."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "16997",
+      "text": "The righteous <span class='extra'>man</span> wisely considereth the house of the wicked: <span class='extra'>but God</span> overthroweth the wicked for <span class='extra'>their</span> wickedness.",
+      "plainText": "The righteous man wisely considereth the house of the wicked: but God overthroweth the wicked for their wickedness."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "16998",
-      "text" : "Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.",
-      "plainText" : "Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "16998",
+      "text": "Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.",
+      "plainText": "Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "16999",
-      "text" : "A gift in secret pacifieth anger: and a reward in the bosom strong wrath.",
-      "plainText" : "A gift in secret pacifieth anger: and a reward in the bosom strong wrath."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "16999",
+      "text": "A gift in secret pacifieth anger: and a reward in the bosom strong wrath.",
+      "plainText": "A gift in secret pacifieth anger: and a reward in the bosom strong wrath."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "17000",
-      "text" : "<span class='extra'>It is<\/span> joy to the just to do judgment: but destruction <span class='extra'>shall be<\/span> to the workers of iniquity.",
-      "plainText" : "It is joy to the just to do judgment: but destruction shall be to the workers of iniquity."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "17000",
+      "text": "<span class='extra'>It is</span> joy to the just to do judgment: but destruction <span class='extra'>shall be</span> to the workers of iniquity.",
+      "plainText": "It is joy to the just to do judgment: but destruction shall be to the workers of iniquity."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "17001",
-      "text" : "The man that wandereth out of the way of understanding shall remain in the congregation of the dead.",
-      "plainText" : "The man that wandereth out of the way of understanding shall remain in the congregation of the dead."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "17001",
+      "text": "The man that wandereth out of the way of understanding shall remain in the congregation of the dead.",
+      "plainText": "The man that wandereth out of the way of understanding shall remain in the congregation of the dead."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "17002",
-      "text" : "He that loveth pleasure <span class='extra'>shall be<\/span> a poor man: he that loveth wine and oil shall not be rich.",
-      "plainText" : "He that loveth pleasure shall be a poor man: he that loveth wine and oil shall not be rich."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "17002",
+      "text": "He that loveth pleasure <span class='extra'>shall be</span> a poor man: he that loveth wine and oil shall not be rich.",
+      "plainText": "He that loveth pleasure shall be a poor man: he that loveth wine and oil shall not be rich."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "17003",
-      "text" : "The wicked <span class='extra'>shall be<\/span> a ransom for the righteous, and the transgressor for the upright.",
-      "plainText" : "The wicked shall be a ransom for the righteous, and the transgressor for the upright."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "17003",
+      "text": "The wicked <span class='extra'>shall be</span> a ransom for the righteous, and the transgressor for the upright.",
+      "plainText": "The wicked shall be a ransom for the righteous, and the transgressor for the upright."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "17004",
-      "text" : "<span class='extra'>It is<\/span> better to dwell in the wilderness, than with a contentious and an angry woman.",
-      "plainText" : "It is better to dwell in the wilderness, than with a contentious and an angry woman."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "17004",
+      "text": "<span class='extra'>It is</span> better to dwell in the wilderness, than with a contentious and an angry woman.",
+      "plainText": "It is better to dwell in the wilderness, than with a contentious and an angry woman."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "17005",
-      "text" : "<span class='extra'>There is<\/span> treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.",
-      "plainText" : "There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "17005",
+      "text": "<span class='extra'>There is</span> treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.",
+      "plainText": "There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "17006",
-      "text" : "He that followeth after righteousness and mercy findeth life, righteousness, and honour.",
-      "plainText" : "He that followeth after righteousness and mercy findeth life, righteousness, and honour."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "17006",
+      "text": "He that followeth after righteousness and mercy findeth life, righteousness, and honour.",
+      "plainText": "He that followeth after righteousness and mercy findeth life, righteousness, and honour."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "17007",
-      "text" : "A wise <span class='extra'>man<\/span> scaleth the city of the mighty, and casteth down the strength of the confidence thereof.",
-      "plainText" : "A wise man scaleth the city of the mighty, and casteth down the strength of the confidence thereof."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "17007",
+      "text": "A wise <span class='extra'>man</span> scaleth the city of the mighty, and casteth down the strength of the confidence thereof.",
+      "plainText": "A wise man scaleth the city of the mighty, and casteth down the strength of the confidence thereof."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "17008",
-      "text" : "Whoso keepeth his mouth and his tongue keepeth his soul from troubles.",
-      "plainText" : "Whoso keepeth his mouth and his tongue keepeth his soul from troubles."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "17008",
+      "text": "Whoso keepeth his mouth and his tongue keepeth his soul from troubles.",
+      "plainText": "Whoso keepeth his mouth and his tongue keepeth his soul from troubles."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "17009",
-      "text" : "Proud <span class='extra'>and<\/span> haughty scorner <span class='extra'>is<\/span> his name, who dealeth in proud wrath.",
-      "plainText" : "Proud and haughty scorner is his name, who dealeth in proud wrath."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "17009",
+      "text": "Proud <span class='extra'>and</span> haughty scorner <span class='extra'>is</span> his name, who dealeth in proud wrath.",
+      "plainText": "Proud and haughty scorner is his name, who dealeth in proud wrath."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "17010",
-      "text" : "The desire of the slothful killeth him; for his hands refuse to labour.",
-      "plainText" : "The desire of the slothful killeth him; for his hands refuse to labour."
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "17010",
+      "text": "The desire of the slothful killeth him; for his hands refuse to labour.",
+      "plainText": "The desire of the slothful killeth him; for his hands refuse to labour."
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "17011",
-      "text" : "He coveteth greedily all the day long: but the righteous giveth and spareth not.",
-      "plainText" : "He coveteth greedily all the day long: but the righteous giveth and spareth not."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "17011",
+      "text": "He coveteth greedily all the day long: but the righteous giveth and spareth not.",
+      "plainText": "He coveteth greedily all the day long: but the righteous giveth and spareth not."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "17012",
-      "text" : "The sacrifice of the wicked <span class='extra'>is<\/span> abomination: how much more, <span class='extra'>when<\/span> he bringeth it with a wicked mind?",
-      "plainText" : "The sacrifice of the wicked is abomination: how much more, when he bringeth it with a wicked mind?"
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "17012",
+      "text": "The sacrifice of the wicked <span class='extra'>is</span> abomination: how much more, <span class='extra'>when</span> he bringeth it with a wicked mind?",
+      "plainText": "The sacrifice of the wicked is abomination: how much more, when he bringeth it with a wicked mind?"
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "17013",
-      "text" : "A false witness shall perish: but the man that heareth speaketh constantly.",
-      "plainText" : "A false witness shall perish: but the man that heareth speaketh constantly."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "17013",
+      "text": "A false witness shall perish: but the man that heareth speaketh constantly.",
+      "plainText": "A false witness shall perish: but the man that heareth speaketh constantly."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "17014",
-      "text" : "A wicked man hardeneth his face: but <span class='extra'>as for<\/span> the upright, he directeth his way.",
-      "plainText" : "A wicked man hardeneth his face: but as for the upright, he directeth his way."
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "17014",
+      "text": "A wicked man hardeneth his face: but <span class='extra'>as for</span> the upright, he directeth his way.",
+      "plainText": "A wicked man hardeneth his face: but as for the upright, he directeth his way."
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "17015",
-      "text" : "<span class='extra'>There is<\/span> no wisdom nor understanding nor counsel against the <span class='nog'>LORD<\/span>.",
-      "plainText" : "There is no wisdom nor understanding nor counsel against the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "17015",
+      "text": "<span class='extra'>There is</span> no wisdom nor understanding nor counsel against the <span class='nog'>LORD</span>.",
+      "plainText": "There is no wisdom nor understanding nor counsel against the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "17016",
-      "text" : "The horse <span class='extra'>is<\/span> prepared against the day of battle: but safety <span class='extra'>is<\/span> of the <span class='nog'>LORD<\/span>.",
-      "plainText" : "The horse is prepared against the day of battle: but safety is of the LORD."
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "17016",
+      "text": "The horse <span class='extra'>is</span> prepared against the day of battle: but safety <span class='extra'>is</span> of the <span class='nog'>LORD</span>.",
+      "plainText": "The horse is prepared against the day of battle: but safety is of the LORD."
     }
   ]
 }
-
-

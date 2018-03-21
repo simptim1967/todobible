@@ -1,228 +1,205 @@
 {
   "book": {
-    "number" : "24",
-    "filenamePrefix" : "jeremiah",
-    "bookPage" : "jeremiah.html",
-    "title" : "Jeremiah",
-    "chapterCount" : "52",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "lamentations_1.html",
-    "nextTitle" : "Lamentations",
-    "prevBook" : "isaiah_1.html",
-    "prevTitle" : "Isaiah"
+    "number": "24",
+    "filenamePrefix": "jeremiah",
+    "bookPage": "jeremiah.html",
+    "title": "Jeremiah",
+    "chapterCount": "52",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "lamentations_1.html",
+    "nextTitle": "Lamentations",
+    "prevBook": "isaiah_1.html",
+    "prevTitle": "Isaiah",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "14",
-    "verseCount" : "22",
-    "nextChapter" : "jeremiah_15.html",
-    "nextTitle" : "Jeremiah 15",
-    "prevChapter" : "jeremiah_13.html",
-    "prevTitle" : "Jeremiah 13",
-    "filename" : "jeremiah_14.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "14",
+    "verseCount": "22",
+    "nextChapter": "jeremiah_15.html",
+    "nextTitle": "Jeremiah 15",
+    "prevChapter": "jeremiah_13.html",
+    "prevTitle": "Jeremiah 13",
+    "filename": "jeremiah_14.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "19295",
-      "text" : "The word of the <span class='nog'>LORD<\/span> that came to Jeremiah concerning the dearth.",
-      "plainText" : "The word of the LORD that came to Jeremiah concerning the dearth."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "19295",
+      "text": "The word of the <span class='nog'>LORD</span> that came to Jeremiah concerning the dearth.",
+      "plainText": "The word of the LORD that came to Jeremiah concerning the dearth."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "19296",
-      "text" : "Judah mourneth, and the gates thereof languish; they are black unto the ground; and the cry of Jerusalem is gone up.",
-      "plainText" : "Judah mourneth, and the gates thereof languish; they are black unto the ground; and the cry of Jerusalem is gone up."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "19296",
+      "text": "Judah mourneth, and the gates thereof languish; they are black unto the ground; and the cry of Jerusalem is gone up.",
+      "plainText": "Judah mourneth, and the gates thereof languish; they are black unto the ground; and the cry of Jerusalem is gone up."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "19297",
-      "text" : "And their nobles have sent their little ones to the waters: they came to the pits, <span class='extra'>and<\/span> found no water; they returned with their vessels empty; they were ashamed and confounded, and covered their heads.",
-      "plainText" : "And their nobles have sent their little ones to the waters: they came to the pits, and found no water; they returned with their vessels empty; they were ashamed and confounded, and covered their heads."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "19297",
+      "text": "And their nobles have sent their little ones to the waters: they came to the pits, <span class='extra'>and</span> found no water; they returned with their vessels empty; they were ashamed and confounded, and covered their heads.",
+      "plainText": "And their nobles have sent their little ones to the waters: they came to the pits, and found no water; they returned with their vessels empty; they were ashamed and confounded, and covered their heads."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "19298",
-      "text" : "Because the ground is chapt, for there was no rain in the earth, the plowmen were ashamed, they covered their heads.",
-      "plainText" : "Because the ground is chapt, for there was no rain in the earth, the plowmen were ashamed, they covered their heads."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "19298",
+      "text": "Because the ground is chapt, for there was no rain in the earth, the plowmen were ashamed, they covered their heads.",
+      "plainText": "Because the ground is chapt, for there was no rain in the earth, the plowmen were ashamed, they covered their heads."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "19299",
-      "text" : "Yea, the hind also calved in the field, and forsook <span class='extra'>it<\/span>, because there was no grass.",
-      "plainText" : "Yea, the hind also calved in the field, and forsook it, because there was no grass."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "19299",
+      "text": "Yea, the hind also calved in the field, and forsook <span class='extra'>it</span>, because there was no grass.",
+      "plainText": "Yea, the hind also calved in the field, and forsook it, because there was no grass."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "19300",
-      "text" : "And the wild asses did stand in the high places, they snuffed up the wind like dragons; their eyes did fail, because <span class='extra'>there was<\/span> no grass.",
-      "plainText" : "And the wild asses did stand in the high places, they snuffed up the wind like dragons; their eyes did fail, because there was no grass."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "19300",
+      "text": "And the wild asses did stand in the high places, they snuffed up the wind like dragons; their eyes did fail, because <span class='extra'>there was</span> no grass.",
+      "plainText": "And the wild asses did stand in the high places, they snuffed up the wind like dragons; their eyes did fail, because there was no grass."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "19301",
-      "text" : "O <span class='nog'>LORD<\/span>, though our iniquities testify against us, do thou <span class='extra'>it<\/span> for thy name's sake: for our backslidings are many; we have sinned against thee.",
-      "plainText" : "O LORD, though our iniquities testify against us, do thou it for thy name's sake: for our backslidings are many; we have sinned against thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "19301",
+      "text": "O <span class='nog'>LORD</span>, though our iniquities testify against us, do thou <span class='extra'>it</span> for thy name's sake: for our backslidings are many; we have sinned against thee.",
+      "plainText": "O LORD, though our iniquities testify against us, do thou it for thy name's sake: for our backslidings are many; we have sinned against thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "19302",
-      "text" : "O the hope of Israel, the saviour thereof in time of trouble, why shouldest thou be as a stranger in the land, and as a wayfaring man <span class='extra'>that<\/span> turneth aside to tarry for a night?",
-      "plainText" : "O the hope of Israel, the saviour thereof in time of trouble, why shouldest thou be as a stranger in the land, and as a wayfaring man that turneth aside to tarry for a night?"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "19302",
+      "text": "O the hope of Israel, the saviour thereof in time of trouble, why shouldest thou be as a stranger in the land, and as a wayfaring man <span class='extra'>that</span> turneth aside to tarry for a night?",
+      "plainText": "O the hope of Israel, the saviour thereof in time of trouble, why shouldest thou be as a stranger in the land, and as a wayfaring man that turneth aside to tarry for a night?"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "19303",
-      "text" : "Why shouldest thou be as a man astonied, as a mighty man <span class='extra'>that<\/span> cannot save? yet thou, O <span class='nog'>LORD<\/span>, <span class='extra'>art<\/span> in the midst of us, and we are called by thy name; leave us not.",
-      "plainText" : "Why shouldest thou be as a man astonied, as a mighty man that cannot save? yet thou, O LORD, art in the midst of us, and we are called by thy name; leave us not."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "19303",
+      "text": "Why shouldest thou be as a man astonied, as a mighty man <span class='extra'>that</span> cannot save? yet thou, O <span class='nog'>LORD</span>, <span class='extra'>art</span> in the midst of us, and we are called by thy name; leave us not.",
+      "plainText": "Why shouldest thou be as a man astonied, as a mighty man that cannot save? yet thou, O LORD, art in the midst of us, and we are called by thy name; leave us not."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "19304",
-      "text" : "Thus saith the <span class='nog'>LORD<\/span> unto this people, Thus have they loved to wander, they have not refrained their feet, therefore the <span class='nog'>LORD<\/span> doth not accept them; he will now remember their iniquity, and visit their sins.",
-      "plainText" : "Thus saith the LORD unto this people, Thus have they loved to wander, they have not refrained their feet, therefore the LORD doth not accept them; he will now remember their iniquity, and visit their sins."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "19304",
+      "text": "Thus saith the <span class='nog'>LORD</span> unto this people, Thus have they loved to wander, they have not refrained their feet, therefore the <span class='nog'>LORD</span> doth not accept them; he will now remember their iniquity, and visit their sins.",
+      "plainText": "Thus saith the LORD unto this people, Thus have they loved to wander, they have not refrained their feet, therefore the LORD doth not accept them; he will now remember their iniquity, and visit their sins."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "19305",
-      "text" : "Then said the <span class='nog'>LORD<\/span> unto me, Pray not for this people for <span class='extra'>their<\/span> good.",
-      "plainText" : "Then said the LORD unto me, Pray not for this people for their good."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "19305",
+      "text": "Then said the <span class='nog'>LORD</span> unto me, Pray not for this people for <span class='extra'>their</span> good.",
+      "plainText": "Then said the LORD unto me, Pray not for this people for their good."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "19306",
-      "text" : "When they fast, I will not hear their cry; and when they offer burnt offering and an oblation, I will not accept them: but I will consume them by the sword, and by the famine, and by the pestilence.",
-      "plainText" : "When they fast, I will not hear their cry; and when they offer burnt offering and an oblation, I will not accept them: but I will consume them by the sword, and by the famine, and by the pestilence."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "19306",
+      "text": "When they fast, I will not hear their cry; and when they offer burnt offering and an oblation, I will not accept them: but I will consume them by the sword, and by the famine, and by the pestilence.",
+      "plainText": "When they fast, I will not hear their cry; and when they offer burnt offering and an oblation, I will not accept them: but I will consume them by the sword, and by the famine, and by the pestilence."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "19307",
-      "text" : "Then said I, Ah, Lord <span class='nog'>GOD<\/span>! behold, the prophets say unto them, Ye shall not see the sword, neither shall ye have famine; but I will give you assured peace in this place.",
-      "plainText" : "Then said I, Ah, Lord GOD! behold, the prophets say unto them, Ye shall not see the sword, neither shall ye have famine; but I will give you assured peace in this place."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "19307",
+      "text": "Then said I, Ah, Lord <span class='nog'>GOD</span>! behold, the prophets say unto them, Ye shall not see the sword, neither shall ye have famine; but I will give you assured peace in this place.",
+      "plainText": "Then said I, Ah, Lord GOD! behold, the prophets say unto them, Ye shall not see the sword, neither shall ye have famine; but I will give you assured peace in this place."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "19308",
-      "text" : "Then the <span class='nog'>LORD<\/span> said unto me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spake unto them: they prophesy unto you a false vision and divination, and a thing of nought, and the deceit of their heart.",
-      "plainText" : "Then the LORD said unto me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spake unto them: they prophesy unto you a false vision and divination, and a thing of nought, and the deceit of their heart."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "19308",
+      "text": "Then the <span class='nog'>LORD</span> said unto me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spake unto them: they prophesy unto you a false vision and divination, and a thing of nought, and the deceit of their heart.",
+      "plainText": "Then the LORD said unto me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spake unto them: they prophesy unto you a false vision and divination, and a thing of nought, and the deceit of their heart."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "19309",
-      "text" : "Therefore thus saith the <span class='nog'>LORD<\/span> concerning the prophets that prophesy in my name, and I sent them not, yet they say, Sword and famine shall not be in this land; By sword and famine shall those prophets be consumed.",
-      "plainText" : "Therefore thus saith the LORD concerning the prophets that prophesy in my name, and I sent them not, yet they say, Sword and famine shall not be in this land; By sword and famine shall those prophets be consumed."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "19309",
+      "text": "Therefore thus saith the <span class='nog'>LORD</span> concerning the prophets that prophesy in my name, and I sent them not, yet they say, Sword and famine shall not be in this land; By sword and famine shall those prophets be consumed.",
+      "plainText": "Therefore thus saith the LORD concerning the prophets that prophesy in my name, and I sent them not, yet they say, Sword and famine shall not be in this land; By sword and famine shall those prophets be consumed."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "19310",
-      "text" : "And the people to whom they prophesy shall be cast out in the streets of Jerusalem because of the famine and the sword; and they shall have none to bury them, them, their wives, nor their sons, nor their daughters: for I will pour their wickedness upon them.",
-      "plainText" : "And the people to whom they prophesy shall be cast out in the streets of Jerusalem because of the famine and the sword; and they shall have none to bury them, them, their wives, nor their sons, nor their daughters: for I will pour their wickedness upon them."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "19310",
+      "text": "And the people to whom they prophesy shall be cast out in the streets of Jerusalem because of the famine and the sword; and they shall have none to bury them, them, their wives, nor their sons, nor their daughters: for I will pour their wickedness upon them.",
+      "plainText": "And the people to whom they prophesy shall be cast out in the streets of Jerusalem because of the famine and the sword; and they shall have none to bury them, them, their wives, nor their sons, nor their daughters: for I will pour their wickedness upon them."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "19311",
-      "text" : "Therefore thou shalt say this word unto them; Let mine eyes run down with tears night and day, and let them not cease: for the virgin daughter of my people is broken with a great breach, with a very grievous blow.",
-      "plainText" : "Therefore thou shalt say this word unto them; Let mine eyes run down with tears night and day, and let them not cease: for the virgin daughter of my people is broken with a great breach, with a very grievous blow."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "19311",
+      "text": "Therefore thou shalt say this word unto them; Let mine eyes run down with tears night and day, and let them not cease: for the virgin daughter of my people is broken with a great breach, with a very grievous blow.",
+      "plainText": "Therefore thou shalt say this word unto them; Let mine eyes run down with tears night and day, and let them not cease: for the virgin daughter of my people is broken with a great breach, with a very grievous blow."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "19312",
-      "text" : "If I go forth into the field, then behold the slain with the sword! and if I enter into the city, then behold them that are sick with famine! yea, both the prophet and the priest go about into a land that they know not.",
-      "plainText" : "If I go forth into the field, then behold the slain with the sword! and if I enter into the city, then behold them that are sick with famine! yea, both the prophet and the priest go about into a land that they know not."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "19312",
+      "text": "If I go forth into the field, then behold the slain with the sword! and if I enter into the city, then behold them that are sick with famine! yea, both the prophet and the priest go about into a land that they know not.",
+      "plainText": "If I go forth into the field, then behold the slain with the sword! and if I enter into the city, then behold them that are sick with famine! yea, both the prophet and the priest go about into a land that they know not."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "19313",
-      "text" : "Hast thou utterly rejected Judah? hath thy soul lothed Zion? why hast thou smitten us, and <span class='extra'>there is<\/span> no healing for us? we looked for peace, and <span class='extra'>there is<\/span> no good; and for the time of healing, and behold trouble!",
-      "plainText" : "Hast thou utterly rejected Judah? hath thy soul lothed Zion? why hast thou smitten us, and there is no healing for us? we looked for peace, and there is no good; and for the time of healing, and behold trouble!"
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "19313",
+      "text": "Hast thou utterly rejected Judah? hath thy soul lothed Zion? why hast thou smitten us, and <span class='extra'>there is</span> no healing for us? we looked for peace, and <span class='extra'>there is</span> no good; and for the time of healing, and behold trouble!",
+      "plainText": "Hast thou utterly rejected Judah? hath thy soul lothed Zion? why hast thou smitten us, and there is no healing for us? we looked for peace, and there is no good; and for the time of healing, and behold trouble!"
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "19314",
-      "text" : "We acknowledge, O <span class='nog'>LORD<\/span>, our wickedness, <span class='extra'>and<\/span> the iniquity of our fathers: for we have sinned against thee.",
-      "plainText" : "We acknowledge, O LORD, our wickedness, and the iniquity of our fathers: for we have sinned against thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "19314",
+      "text": "We acknowledge, O <span class='nog'>LORD</span>, our wickedness, <span class='extra'>and</span> the iniquity of our fathers: for we have sinned against thee.",
+      "plainText": "We acknowledge, O LORD, our wickedness, and the iniquity of our fathers: for we have sinned against thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "19315",
-      "text" : "Do not abhor <span class='extra'>us<\/span>, for thy name's sake, do not disgrace the throne of thy glory: remember, break not thy covenant with us.",
-      "plainText" : "Do not abhor us, for thy name's sake, do not disgrace the throne of thy glory: remember, break not thy covenant with us."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "19315",
+      "text": "Do not abhor <span class='extra'>us</span>, for thy name's sake, do not disgrace the throne of thy glory: remember, break not thy covenant with us.",
+      "plainText": "Do not abhor us, for thy name's sake, do not disgrace the throne of thy glory: remember, break not thy covenant with us."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "19316",
-      "text" : "Are there <span class='extra'>any<\/span> among the vanities of the Gentiles that can cause rain? or can the heavens give showers? <span class='extra'>art<\/span> not thou he, O <span class='nog'>LORD<\/span> our God? therefore we will wait upon thee: for thou hast made all these <span class='extra'>things<\/span>.",
-      "plainText" : "Are there any among the vanities of the Gentiles that can cause rain? or can the heavens give showers? art not thou he, O LORD our God? therefore we will wait upon thee: for thou hast made all these things."
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "19316",
+      "text": "Are there <span class='extra'>any</span> among the vanities of the Gentiles that can cause rain? or can the heavens give showers? <span class='extra'>art</span> not thou he, O <span class='nog'>LORD</span> our God? therefore we will wait upon thee: for thou hast made all these <span class='extra'>things</span>.",
+      "plainText": "Are there any among the vanities of the Gentiles that can cause rain? or can the heavens give showers? art not thou he, O LORD our God? therefore we will wait upon thee: for thou hast made all these things."
     }
   ]
 }
-
-
-

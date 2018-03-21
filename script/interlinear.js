@@ -3,6 +3,8 @@
 $(".inter-open").on("click", function () {
   // Get verse id of clicked ... button
   var v = $(this).parent().attr("id");
+  var data = $(this).attr("data");
+  var dir = "../inter/" + data.replace(/_/g, "/");
   
   // Hide ... inter-open button
 	$("#" + v + "io").addClass("inter-hide");
@@ -11,13 +13,15 @@ $(".inter-open").on("click", function () {
 	$("#" + v + "il").removeClass("inter-hide");
   
   // Attempt to load inter page fragment
-  $("#" + v + "il").load("test_fragment_" + v + ".html", function (responseTxt, statusTxt, xhr) {
+  $("#" + v + "il").load(dir + ".html", function (responseTxt, statusTxt, xhr) {
     if (statusTxt == "success") {
       //alert("External content loaded successfully!");
       $("#" + v +"ic").on("click",CloseInterlinear);
     } else {
-      if (statusTxt == "error")
+      if (statusTxt == "error") {
         alert("Error: " + xhr.status + ": " + xhr.statusText);
+        //todo: tidy up screen
+      }
     }
   });
 });

@@ -1,227 +1,205 @@
 {
   "book": {
-    "number" : "1",
-    "filenamePrefix" : "genesis",
-    "bookPage" : "genesis.html",
-    "title" : "Genesis",
-    "chapterCount" : "50",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "exodus_1.html",
-    "nextTitle" : "Exodus",
-    "prevBook" : "revelation_1.html",
-    "prevTitle" : "Revelation"
+    "number": "1",
+    "filenamePrefix": "genesis",
+    "bookPage": "genesis.html",
+    "title": "Genesis",
+    "chapterCount": "50",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "exodus_1.html",
+    "nextTitle": "Exodus",
+    "prevBook": "revelation_1.html",
+    "prevTitle": "Revelation",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "8",
-    "verseCount" : "22",
-    "nextChapter" : "genesis_9.html",
-    "nextTitle" : "Genesis 9",
-    "prevChapter" : "genesis_7.html",
-    "prevTitle" : "Genesis 7",
-    "filename" : "genesis_8.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "8",
+    "verseCount": "22",
+    "nextChapter": "genesis_9.html",
+    "nextTitle": "Genesis 9",
+    "prevChapter": "genesis_7.html",
+    "prevTitle": "Genesis 7",
+    "filename": "genesis_8.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "185",
-      "text" : "And God remembered Noah, and every living thing, and all the cattle that <span class='extra'>was<\/span> with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;",
-      "plainText" : "And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "185",
+      "text": "And God remembered Noah, and every living thing, and all the cattle that <span class='extra'>was</span> with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;",
+      "plainText": "And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "186",
-      "text" : "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;",
-      "plainText" : "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;"
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "186",
+      "text": "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;",
+      "plainText": "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;"
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "187",
-      "text" : "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated.",
-      "plainText" : "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "187",
+      "text": "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated.",
+      "plainText": "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "188",
-      "text" : "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.",
-      "plainText" : "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "188",
+      "text": "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.",
+      "plainText": "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "189",
-      "text" : "And the waters decreased continually until the tenth month: in the tenth <span class='extra'>month<\/span>, on the first <span class='extra'>day<\/span> of the month, were the tops of the mountains seen.",
-      "plainText" : "And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "189",
+      "text": "And the waters decreased continually until the tenth month: in the tenth <span class='extra'>month</span>, on the first <span class='extra'>day</span> of the month, were the tops of the mountains seen.",
+      "plainText": "And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "190",
-      "text" : "And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:",
-      "plainText" : "And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:"
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "190",
+      "text": "And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:",
+      "plainText": "And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:"
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "191",
-      "text" : "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth.",
-      "plainText" : "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "191",
+      "text": "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth.",
+      "plainText": "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "192",
-      "text" : "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;",
-      "plainText" : "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "192",
+      "text": "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;",
+      "plainText": "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "193",
-      "text" : "But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters <span class='extra'>were<\/span> on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark.",
-      "plainText" : "But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters were on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "193",
+      "text": "But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters <span class='extra'>were</span> on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark.",
+      "plainText": "But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters were on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "194",
-      "text" : "And he stayed yet other seven days; and again he sent forth the dove out of the ark;",
-      "plainText" : "And he stayed yet other seven days; and again he sent forth the dove out of the ark;"
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "194",
+      "text": "And he stayed yet other seven days; and again he sent forth the dove out of the ark;",
+      "plainText": "And he stayed yet other seven days; and again he sent forth the dove out of the ark;"
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "195",
-      "text" : "And the dove came in to him in the evening; and, lo, in her mouth <span class='extra'>was<\/span> an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth.",
-      "plainText" : "And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "195",
+      "text": "And the dove came in to him in the evening; and, lo, in her mouth <span class='extra'>was</span> an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth.",
+      "plainText": "And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "196",
-      "text" : "And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more.",
-      "plainText" : "And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "196",
+      "text": "And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more.",
+      "plainText": "And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "197",
-      "text" : "And it came to pass in the six hundredth and first year, in the first <span class='extra'>month<\/span>, the first <span class='extra'>day<\/span> of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry.",
-      "plainText" : "And it came to pass in the six hundredth and first year, in the first month, the first day of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "197",
+      "text": "And it came to pass in the six hundredth and first year, in the first <span class='extra'>month</span>, the first <span class='extra'>day</span> of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry.",
+      "plainText": "And it came to pass in the six hundredth and first year, in the first month, the first day of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "198",
-      "text" : "And in the second month, on the seven and twentieth day of the month, was the earth dried.",
-      "plainText" : "And in the second month, on the seven and twentieth day of the month, was the earth dried."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "198",
+      "text": "And in the second month, on the seven and twentieth day of the month, was the earth dried.",
+      "plainText": "And in the second month, on the seven and twentieth day of the month, was the earth dried."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "199",
-      "text" : "And God spake unto Noah, saying,",
-      "plainText" : "And God spake unto Noah, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "199",
+      "text": "And God spake unto Noah, saying,",
+      "plainText": "And God spake unto Noah, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "200",
-      "text" : "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons' wives with thee.",
-      "plainText" : "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons' wives with thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "200",
+      "text": "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons' wives with thee.",
+      "plainText": "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons' wives with thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "201",
-      "text" : "Bring forth with thee every living thing that <span class='extra'>is<\/span> with thee, of all flesh, <span class='extra'>both<\/span> of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth.",
-      "plainText" : "Bring forth with thee every living thing that is with thee, of all flesh, both of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "201",
+      "text": "Bring forth with thee every living thing that <span class='extra'>is</span> with thee, of all flesh, <span class='extra'>both</span> of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth.",
+      "plainText": "Bring forth with thee every living thing that is with thee, of all flesh, both of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "202",
-      "text" : "And Noah went forth, and his sons, and his wife, and his sons' wives with him:",
-      "plainText" : "And Noah went forth, and his sons, and his wife, and his sons' wives with him:"
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "202",
+      "text": "And Noah went forth, and his sons, and his wife, and his sons' wives with him:",
+      "plainText": "And Noah went forth, and his sons, and his wife, and his sons' wives with him:"
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "203",
-      "text" : "Every beast, every creeping thing, and every fowl, <span class='extra'>and<\/span> whatsoever creepeth upon the earth, after their kinds, went forth out of the ark.",
-      "plainText" : "Every beast, every creeping thing, and every fowl, and whatsoever creepeth upon the earth, after their kinds, went forth out of the ark."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "203",
+      "text": "Every beast, every creeping thing, and every fowl, <span class='extra'>and</span> whatsoever creepeth upon the earth, after their kinds, went forth out of the ark.",
+      "plainText": "Every beast, every creeping thing, and every fowl, and whatsoever creepeth upon the earth, after their kinds, went forth out of the ark."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "204",
-      "text" : "And Noah builded an altar unto the <span class='nog'>LORD<\/span>; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.",
-      "plainText" : "And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "204",
+      "text": "And Noah builded an altar unto the <span class='nog'>LORD</span>; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.",
+      "plainText": "And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "205",
-      "text" : "And the <span class='nog'>LORD<\/span> smelled a sweet savour; and the <span class='nog'>LORD<\/span> said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart <span class='extra'>is<\/span> evil from his youth; neither will I again smite any more every thing living, as I have done.",
-      "plainText" : "And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart is evil from his youth; neither will I again smite any more every thing living, as I have done."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "205",
+      "text": "And the <span class='nog'>LORD</span> smelled a sweet savour; and the <span class='nog'>LORD</span> said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart <span class='extra'>is</span> evil from his youth; neither will I again smite any more every thing living, as I have done.",
+      "plainText": "And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart is evil from his youth; neither will I again smite any more every thing living, as I have done."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "206",
-      "text" : "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.",
-      "plainText" : "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease."
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "206",
+      "text": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.",
+      "plainText": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease."
     }
   ]
 }
-
-

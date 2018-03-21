@@ -1,127 +1,115 @@
 {
   "book": {
-    "number" : "19",
-    "filenamePrefix" : "psalms",
-    "bookPage" : "psalms.html",
-    "title" : "Psalms",
-    "chapterCount" : "150",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "proverbs_1.html",
-    "nextTitle" : "Proverbs",
-    "prevBook" : "job_1.html",
-    "prevTitle" : "Job"
+    "number": "19",
+    "filenamePrefix": "psalms",
+    "bookPage": "psalms.html",
+    "title": "Psalms",
+    "chapterCount": "150",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "proverbs_1.html",
+    "nextTitle": "Proverbs",
+    "prevBook": "job_1.html",
+    "prevTitle": "Job",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "141",
-    "verseCount" : "10",
-    "nextChapter" : "psalms_142.html",
-    "nextTitle" : "Psalms 142",
-    "prevChapter" : "psalms_140.html",
-    "prevTitle" : "Psalms 140",
-    "filename" : "psalms_141.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "141",
+    "verseCount": "10",
+    "nextChapter": "psalms_142.html",
+    "nextTitle": "Psalms 142",
+    "prevChapter": "psalms_140.html",
+    "prevTitle": "Psalms 140",
+    "filename": "psalms_141.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "caption",
-      "id" : "c0",
-      "text" : "A Psalm of David.",
-      "plainText" : "A Psalm of David."
-    }
-    ,
+      "type": "caption",
+      "id": "c0",
+      "text": "A Psalm of David.",
+      "plainText": "A Psalm of David."
+    },
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "16278",
-      "text" : "<span class='nog'>LORD<\/span>, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.",
-      "plainText" : "LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "16278",
+      "text": "<span class='nog'>LORD</span>, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.",
+      "plainText": "LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "16279",
-      "text" : "Let my prayer be set forth before thee <span class='extra'>as<\/span> incense; <span class='extra'>and<\/span> the lifting up of my hands <span class='extra'>as<\/span> the evening sacrifice.",
-      "plainText" : "Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "16279",
+      "text": "Let my prayer be set forth before thee <span class='extra'>as</span> incense; <span class='extra'>and</span> the lifting up of my hands <span class='extra'>as</span> the evening sacrifice.",
+      "plainText": "Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "16280",
-      "text" : "Set a watch, O <span class='nog'>LORD<\/span>, before my mouth; keep the door of my lips.",
-      "plainText" : "Set a watch, O LORD, before my mouth; keep the door of my lips."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "16280",
+      "text": "Set a watch, O <span class='nog'>LORD</span>, before my mouth; keep the door of my lips.",
+      "plainText": "Set a watch, O LORD, before my mouth; keep the door of my lips."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "16281",
-      "text" : "Incline not my heart to <span class='extra'>any<\/span> evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties.",
-      "plainText" : "Incline not my heart to any evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "16281",
+      "text": "Incline not my heart to <span class='extra'>any</span> evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties.",
+      "plainText": "Incline not my heart to any evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "16282",
-      "text" : "Let the righteous smite me; <span class='extra'>it shall be<\/span> a kindness: and let him reprove me; <span class='extra'>it shall be<\/span> an excellent oil, <span class='extra'>which<\/span> shall not break my head: for yet my prayer also <span class='extra'>shall be<\/span> in their calamities.",
-      "plainText" : "Let the righteous smite me; it shall be a kindness: and let him reprove me; it shall be an excellent oil, which shall not break my head: for yet my prayer also shall be in their calamities."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "16282",
+      "text": "Let the righteous smite me; <span class='extra'>it shall be</span> a kindness: and let him reprove me; <span class='extra'>it shall be</span> an excellent oil, <span class='extra'>which</span> shall not break my head: for yet my prayer also <span class='extra'>shall be</span> in their calamities.",
+      "plainText": "Let the righteous smite me; it shall be a kindness: and let him reprove me; it shall be an excellent oil, which shall not break my head: for yet my prayer also shall be in their calamities."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "16283",
-      "text" : "When their judges are overthrown in stony places, they shall hear my words; for they are sweet.",
-      "plainText" : "When their judges are overthrown in stony places, they shall hear my words; for they are sweet."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "16283",
+      "text": "When their judges are overthrown in stony places, they shall hear my words; for they are sweet.",
+      "plainText": "When their judges are overthrown in stony places, they shall hear my words; for they are sweet."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "16284",
-      "text" : "Our bones are scattered at the grave's mouth, as when one cutteth and cleaveth <span class='extra'>wood<\/span> upon the earth.",
-      "plainText" : "Our bones are scattered at the grave's mouth, as when one cutteth and cleaveth wood upon the earth."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "16284",
+      "text": "Our bones are scattered at the grave's mouth, as when one cutteth and cleaveth <span class='extra'>wood</span> upon the earth.",
+      "plainText": "Our bones are scattered at the grave's mouth, as when one cutteth and cleaveth wood upon the earth."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "16285",
-      "text" : "But mine eyes <span class='extra'>are<\/span> unto thee, O <span class='nog'>GOD<\/span> the Lord: in thee is my trust; leave not my soul destitute.",
-      "plainText" : "But mine eyes are unto thee, O GOD the Lord: in thee is my trust; leave not my soul destitute."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "16285",
+      "text": "But mine eyes <span class='extra'>are</span> unto thee, O <span class='nog'>GOD</span> the Lord: in thee is my trust; leave not my soul destitute.",
+      "plainText": "But mine eyes are unto thee, O GOD the Lord: in thee is my trust; leave not my soul destitute."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "16286",
-      "text" : "Keep me from the snares <span class='extra'>which<\/span> they have laid for me, and the gins of the workers of iniquity.",
-      "plainText" : "Keep me from the snares which they have laid for me, and the gins of the workers of iniquity."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "16286",
+      "text": "Keep me from the snares <span class='extra'>which</span> they have laid for me, and the gins of the workers of iniquity.",
+      "plainText": "Keep me from the snares which they have laid for me, and the gins of the workers of iniquity."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "16287",
-      "text" : "Let the wicked fall into their own nets, whilst that I withal escape.",
-      "plainText" : "Let the wicked fall into their own nets, whilst that I withal escape."
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "16287",
+      "text": "Let the wicked fall into their own nets, whilst that I withal escape.",
+      "plainText": "Let the wicked fall into their own nets, whilst that I withal escape."
     }
   ]
 }
-
-
-

@@ -1,182 +1,165 @@
 {
   "book": {
-    "number" : "13",
-    "filenamePrefix" : "1chronicles",
-    "bookPage" : "1chronicles.html",
-    "title" : "1 Chronicles",
-    "chapterCount" : "29",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "2chronicles_1.html",
-    "nextTitle" : "2 Chronicles",
-    "prevBook" : "2kings_1.html",
-    "prevTitle" : "2 Kings"
+    "number": "13",
+    "filenamePrefix": "1chronicles",
+    "bookPage": "1chronicles.html",
+    "title": "1 Chronicles",
+    "chapterCount": "29",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "2chronicles_1.html",
+    "nextTitle": "2 Chronicles",
+    "prevBook": "2kings_1.html",
+    "prevTitle": "2 Kings",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "18",
-    "verseCount" : "17",
-    "nextChapter" : "1chronicles_19.html",
-    "nextTitle" : "1 Chronicles 19",
-    "prevChapter" : "1chronicles_17.html",
-    "prevTitle" : "1 Chronicles 17",
-    "filename" : "1chronicles_18.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "18",
+    "verseCount": "17",
+    "nextChapter": "1chronicles_19.html",
+    "nextTitle": "1 Chronicles 19",
+    "prevChapter": "1chronicles_17.html",
+    "prevTitle": "1 Chronicles 17",
+    "filename": "1chronicles_18.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "10892",
-      "text" : "Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines.",
-      "plainText" : "Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "10892",
+      "text": "Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines.",
+      "plainText": "Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "10893",
-      "text" : "And he smote Moab; and the Moabites became David's servants, <span class='extra'>and<\/span> brought gifts.",
-      "plainText" : "And he smote Moab; and the Moabites became David's servants, and brought gifts."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "10893",
+      "text": "And he smote Moab; and the Moabites became David's servants, <span class='extra'>and</span> brought gifts.",
+      "plainText": "And he smote Moab; and the Moabites became David's servants, and brought gifts."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "10894",
-      "text" : "And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates.",
-      "plainText" : "And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "10894",
+      "text": "And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates.",
+      "plainText": "And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "10895",
-      "text" : "And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: David also houghed all the chariot <span class='extra'>horses<\/span>, but reserved of them an hundred chariots.",
-      "plainText" : "And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: David also houghed all the chariot horses, but reserved of them an hundred chariots."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "10895",
+      "text": "And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: David also houghed all the chariot <span class='extra'>horses</span>, but reserved of them an hundred chariots.",
+      "plainText": "And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: David also houghed all the chariot horses, but reserved of them an hundred chariots."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "10896",
-      "text" : "And when the Syrians of Damascus came to help Hadarezer king of Zobah, David slew of the Syrians two and twenty thousand men.",
-      "plainText" : "And when the Syrians of Damascus came to help Hadarezer king of Zobah, David slew of the Syrians two and twenty thousand men."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "10896",
+      "text": "And when the Syrians of Damascus came to help Hadarezer king of Zobah, David slew of the Syrians two and twenty thousand men.",
+      "plainText": "And when the Syrians of Damascus came to help Hadarezer king of Zobah, David slew of the Syrians two and twenty thousand men."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "10897",
-      "text" : "Then David put <span class='extra'>garrisons<\/span> in Syriadamascus; and the Syrians became David's servants, <span class='extra'>and<\/span> brought gifts. Thus the <span class='nog'>LORD<\/span> preserved David whithersoever he went.",
-      "plainText" : "Then David put garrisons in Syriadamascus; and the Syrians became David's servants, and brought gifts. Thus the LORD preserved David whithersoever he went."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "10897",
+      "text": "Then David put <span class='extra'>garrisons</span> in Syriadamascus; and the Syrians became David's servants, <span class='extra'>and</span> brought gifts. Thus the <span class='nog'>LORD</span> preserved David whithersoever he went.",
+      "plainText": "Then David put garrisons in Syriadamascus; and the Syrians became David's servants, and brought gifts. Thus the LORD preserved David whithersoever he went."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "10898",
-      "text" : "And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem.",
-      "plainText" : "And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "10898",
+      "text": "And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem.",
+      "plainText": "And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "10899",
-      "text" : "Likewise from Tibhath, and from Chun, cities of Hadarezer, brought David very much brass, wherewith Solomon made the brasen sea, and the pillars, and the vessels of brass.",
-      "plainText" : "Likewise from Tibhath, and from Chun, cities of Hadarezer, brought David very much brass, wherewith Solomon made the brasen sea, and the pillars, and the vessels of brass."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "10899",
+      "text": "Likewise from Tibhath, and from Chun, cities of Hadarezer, brought David very much brass, wherewith Solomon made the brasen sea, and the pillars, and the vessels of brass.",
+      "plainText": "Likewise from Tibhath, and from Chun, cities of Hadarezer, brought David very much brass, wherewith Solomon made the brasen sea, and the pillars, and the vessels of brass."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "10900",
-      "text" : "Now when Tou king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah;",
-      "plainText" : "Now when Tou king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah;"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "10900",
+      "text": "Now when Tou king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah;",
+      "plainText": "Now when Tou king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah;"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "10901",
-      "text" : "He sent Hadoram his son to king David, to enquire of his welfare, and to congratulate him, because he had fought against Hadarezer, and smitten him; (for Hadarezer had war with Tou;) and <span class='extra'>with him<\/span> all manner of vessels of gold and silver and brass.",
-      "plainText" : "He sent Hadoram his son to king David, to enquire of his welfare, and to congratulate him, because he had fought against Hadarezer, and smitten him; (for Hadarezer had war with Tou;) and with him all manner of vessels of gold and silver and brass."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "10901",
+      "text": "He sent Hadoram his son to king David, to enquire of his welfare, and to congratulate him, because he had fought against Hadarezer, and smitten him; (for Hadarezer had war with Tou;) and <span class='extra'>with him</span> all manner of vessels of gold and silver and brass.",
+      "plainText": "He sent Hadoram his son to king David, to enquire of his welfare, and to congratulate him, because he had fought against Hadarezer, and smitten him; (for Hadarezer had war with Tou;) and with him all manner of vessels of gold and silver and brass."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "10902",
-      "text" : "Them also king David dedicated unto the <span class='nog'>LORD<\/span>, with the silver and the gold that he brought from all <span class='extra'>these<\/span> nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek.",
-      "plainText" : "Them also king David dedicated unto the LORD, with the silver and the gold that he brought from all these nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "10902",
+      "text": "Them also king David dedicated unto the <span class='nog'>LORD</span>, with the silver and the gold that he brought from all <span class='extra'>these</span> nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek.",
+      "plainText": "Them also king David dedicated unto the LORD, with the silver and the gold that he brought from all these nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "10903",
-      "text" : "Moreover Abishai the son of Zeruiah slew of the Edomites in the valley of salt eighteen thousand.",
-      "plainText" : "Moreover Abishai the son of Zeruiah slew of the Edomites in the valley of salt eighteen thousand."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "10903",
+      "text": "Moreover Abishai the son of Zeruiah slew of the Edomites in the valley of salt eighteen thousand.",
+      "plainText": "Moreover Abishai the son of Zeruiah slew of the Edomites in the valley of salt eighteen thousand."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "10904",
-      "text" : "And he put garrisons in Edom; and all the Edomites became David's servants. Thus the <span class='nog'>LORD<\/span> preserved David whithersoever he went.",
-      "plainText" : "And he put garrisons in Edom; and all the Edomites became David's servants. Thus the LORD preserved David whithersoever he went."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "10904",
+      "text": "And he put garrisons in Edom; and all the Edomites became David's servants. Thus the <span class='nog'>LORD</span> preserved David whithersoever he went.",
+      "plainText": "And he put garrisons in Edom; and all the Edomites became David's servants. Thus the LORD preserved David whithersoever he went."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "10905",
-      "text" : "So David reigned over all Israel, and executed judgment and justice among all his people.",
-      "plainText" : "So David reigned over all Israel, and executed judgment and justice among all his people."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "10905",
+      "text": "So David reigned over all Israel, and executed judgment and justice among all his people.",
+      "plainText": "So David reigned over all Israel, and executed judgment and justice among all his people."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "10906",
-      "text" : "And Joab the son of Zeruiah <span class='extra'>was<\/span> over the host; and Jehoshaphat the son of Ahilud, recorder.",
-      "plainText" : "And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud, recorder."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "10906",
+      "text": "And Joab the son of Zeruiah <span class='extra'>was</span> over the host; and Jehoshaphat the son of Ahilud, recorder.",
+      "plainText": "And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud, recorder."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "10907",
-      "text" : "And Zadok the son of Ahitub, and Abimelech the son of Abiathar, <span class='extra'>were<\/span> the priests; and Shavsha was scribe;",
-      "plainText" : "And Zadok the son of Ahitub, and Abimelech the son of Abiathar, were the priests; and Shavsha was scribe;"
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "10907",
+      "text": "And Zadok the son of Ahitub, and Abimelech the son of Abiathar, <span class='extra'>were</span> the priests; and Shavsha was scribe;",
+      "plainText": "And Zadok the son of Ahitub, and Abimelech the son of Abiathar, were the priests; and Shavsha was scribe;"
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "10908",
-      "text" : "And Benaiah the son of Jehoiada <span class='extra'>was<\/span> over the Cherethites and the Pelethites; and the sons of David <span class='extra'>were<\/span> chief about the king.",
-      "plainText" : "And Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief about the king."
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "10908",
+      "text": "And Benaiah the son of Jehoiada <span class='extra'>was</span> over the Cherethites and the Pelethites; and the sons of David <span class='extra'>were</span> chief about the king.",
+      "plainText": "And Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief about the king."
     }
   ]
 }
-
-

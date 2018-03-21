@@ -1,227 +1,205 @@
 {
   "book": {
-    "number" : "2",
-    "filenamePrefix" : "exodus",
-    "bookPage" : "exodus.html",
-    "title" : "Exodus",
-    "chapterCount" : "40",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "leviticus_1.html",
-    "nextTitle" : "Leviticus",
-    "prevBook" : "genesis_1.html",
-    "prevTitle" : "Genesis"
+    "number": "2",
+    "filenamePrefix": "exodus",
+    "bookPage": "exodus.html",
+    "title": "Exodus",
+    "chapterCount": "40",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "leviticus_1.html",
+    "nextTitle": "Leviticus",
+    "prevBook": "genesis_1.html",
+    "prevTitle": "Genesis",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "13",
-    "verseCount" : "22",
-    "nextChapter" : "exodus_14.html",
-    "nextTitle" : "Exodus 14",
-    "prevChapter" : "exodus_12.html",
-    "prevTitle" : "Exodus 12",
-    "filename" : "exodus_13.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "13",
+    "verseCount": "22",
+    "nextChapter": "exodus_14.html",
+    "nextTitle": "Exodus 14",
+    "prevChapter": "exodus_12.html",
+    "prevTitle": "Exodus 12",
+    "filename": "exodus_13.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "1869",
-      "text" : "And the <span class='nog'>LORD<\/span> spake unto Moses, saying,",
-      "plainText" : "And the LORD spake unto Moses, saying,"
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "1869",
+      "text": "And the <span class='nog'>LORD</span> spake unto Moses, saying,",
+      "plainText": "And the LORD spake unto Moses, saying,"
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "1870",
-      "text" : "Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, <span class='extra'>both<\/span> of man and of beast: it <span class='extra'>is<\/span> mine.",
-      "plainText" : "Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, both of man and of beast: it is mine."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "1870",
+      "text": "Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, <span class='extra'>both</span> of man and of beast: it <span class='extra'>is</span> mine.",
+      "plainText": "Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, both of man and of beast: it is mine."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "1871",
-      "text" : "And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the <span class='nog'>LORD<\/span> brought you out from this <span class='extra'>place<\/span>: there shall no leavened bread be eaten.",
-      "plainText" : "And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the LORD brought you out from this place: there shall no leavened bread be eaten."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "1871",
+      "text": "And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the <span class='nog'>LORD</span> brought you out from this <span class='extra'>place</span>: there shall no leavened bread be eaten.",
+      "plainText": "And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the LORD brought you out from this place: there shall no leavened bread be eaten."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "1872",
-      "text" : "This day came ye out in the month Abib.",
-      "plainText" : "This day came ye out in the month Abib."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "1872",
+      "text": "This day came ye out in the month Abib.",
+      "plainText": "This day came ye out in the month Abib."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "1873",
-      "text" : "And it shall be when the <span class='nog'>LORD<\/span> shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month.",
-      "plainText" : "And it shall be when the LORD shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "1873",
+      "text": "And it shall be when the <span class='nog'>LORD</span> shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month.",
+      "plainText": "And it shall be when the LORD shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "1874",
-      "text" : "Seven days thou shalt eat unleavened bread, and in the seventh day <span class='extra'>shall be<\/span> a feast to the <span class='nog'>LORD<\/span>.",
-      "plainText" : "Seven days thou shalt eat unleavened bread, and in the seventh day shall be a feast to the LORD."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "1874",
+      "text": "Seven days thou shalt eat unleavened bread, and in the seventh day <span class='extra'>shall be</span> a feast to the <span class='nog'>LORD</span>.",
+      "plainText": "Seven days thou shalt eat unleavened bread, and in the seventh day shall be a feast to the LORD."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "1875",
-      "text" : "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters.",
-      "plainText" : "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters."
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "1875",
+      "text": "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters.",
+      "plainText": "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters."
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "1876",
-      "text" : "And thou shalt shew thy son in that day, saying, <span class='extra'>This is done<\/span> because of that <span class='extra'>which<\/span> the <span class='nog'>LORD<\/span> did unto me when I came forth out of Egypt.",
-      "plainText" : "And thou shalt shew thy son in that day, saying, This is done because of that which the LORD did unto me when I came forth out of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "1876",
+      "text": "And thou shalt shew thy son in that day, saying, <span class='extra'>This is done</span> because of that <span class='extra'>which</span> the <span class='nog'>LORD</span> did unto me when I came forth out of Egypt.",
+      "plainText": "And thou shalt shew thy son in that day, saying, This is done because of that which the LORD did unto me when I came forth out of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "1877",
-      "text" : "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that the <span class='nog'>LORD<\/span>'s law may be in thy mouth: for with a strong hand hath the <span class='nog'>LORD<\/span> brought thee out of Egypt.",
-      "plainText" : "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that the LORD's law may be in thy mouth: for with a strong hand hath the LORD brought thee out of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "1877",
+      "text": "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that the <span class='nog'>LORD</span>'s law may be in thy mouth: for with a strong hand hath the <span class='nog'>LORD</span> brought thee out of Egypt.",
+      "plainText": "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that the LORD's law may be in thy mouth: for with a strong hand hath the LORD brought thee out of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "1878",
-      "text" : "Thou shalt therefore keep this ordinance in his season from year to year.",
-      "plainText" : "Thou shalt therefore keep this ordinance in his season from year to year."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "1878",
+      "text": "Thou shalt therefore keep this ordinance in his season from year to year.",
+      "plainText": "Thou shalt therefore keep this ordinance in his season from year to year."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "1879",
-      "text" : "And it shall be when the <span class='nog'>LORD<\/span> shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,",
-      "plainText" : "And it shall be when the LORD shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,"
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "1879",
+      "text": "And it shall be when the <span class='nog'>LORD</span> shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,",
+      "plainText": "And it shall be when the LORD shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,"
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "1880",
-      "text" : "That thou shalt set apart unto the <span class='nog'>LORD<\/span> all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males <span class='extra'>shall be<\/span> the <span class='nog'>LORD<\/span>'s.",
-      "plainText" : "That thou shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males shall be the LORD's."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "1880",
+      "text": "That thou shalt set apart unto the <span class='nog'>LORD</span> all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males <span class='extra'>shall be</span> the <span class='nog'>LORD</span>'s.",
+      "plainText": "That thou shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males shall be the LORD's."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "1881",
-      "text" : "And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem.",
-      "plainText" : "And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "1881",
+      "text": "And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem.",
+      "plainText": "And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "1882",
-      "text" : "And it shall be when thy son asketh thee in time to come, saying, What <span class='extra'>is<\/span> this? that thou shalt say unto him, By strength of hand the <span class='nog'>LORD<\/span> brought us out from Egypt, from the house of bondage:",
-      "plainText" : "And it shall be when thy son asketh thee in time to come, saying, What is this? that thou shalt say unto him, By strength of hand the LORD brought us out from Egypt, from the house of bondage:"
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "1882",
+      "text": "And it shall be when thy son asketh thee in time to come, saying, What <span class='extra'>is</span> this? that thou shalt say unto him, By strength of hand the <span class='nog'>LORD</span> brought us out from Egypt, from the house of bondage:",
+      "plainText": "And it shall be when thy son asketh thee in time to come, saying, What is this? that thou shalt say unto him, By strength of hand the LORD brought us out from Egypt, from the house of bondage:"
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "1883",
-      "text" : "And it came to pass, when Pharaoh would hardly let us go, that the <span class='nog'>LORD<\/span> slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the <span class='nog'>LORD<\/span> all that openeth the matrix, being males; but all the firstborn of my children I redeem.",
-      "plainText" : "And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that openeth the matrix, being males; but all the firstborn of my children I redeem."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "1883",
+      "text": "And it came to pass, when Pharaoh would hardly let us go, that the <span class='nog'>LORD</span> slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the <span class='nog'>LORD</span> all that openeth the matrix, being males; but all the firstborn of my children I redeem.",
+      "plainText": "And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that openeth the matrix, being males; but all the firstborn of my children I redeem."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "1884",
-      "text" : "And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the <span class='nog'>LORD<\/span> brought us forth out of Egypt.",
-      "plainText" : "And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the LORD brought us forth out of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "1884",
+      "text": "And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the <span class='nog'>LORD</span> brought us forth out of Egypt.",
+      "plainText": "And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the LORD brought us forth out of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "1885",
-      "text" : "And it came to pass, when Pharaoh had let the people go, that God led them not <span class='extra'>through<\/span> the way of the land of the Philistines, although that <span class='extra'>was<\/span> near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:",
-      "plainText" : "And it came to pass, when Pharaoh had let the people go, that God led them not through the way of the land of the Philistines, although that was near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "1885",
+      "text": "And it came to pass, when Pharaoh had let the people go, that God led them not <span class='extra'>through</span> the way of the land of the Philistines, although that <span class='extra'>was</span> near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:",
+      "plainText": "And it came to pass, when Pharaoh had let the people go, that God led them not through the way of the land of the Philistines, although that was near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "1886",
-      "text" : "But God led the people about, <span class='extra'>through<\/span> the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.",
-      "plainText" : "But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "1886",
+      "text": "But God led the people about, <span class='extra'>through</span> the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.",
+      "plainText": "But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "1887",
-      "text" : "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.",
-      "plainText" : "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "1887",
+      "text": "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.",
+      "plainText": "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "1888",
-      "text" : "And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.",
-      "plainText" : "And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "1888",
+      "text": "And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.",
+      "plainText": "And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "1889",
-      "text" : "And the <span class='nog'>LORD<\/span> went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:",
-      "plainText" : "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:"
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "1889",
+      "text": "And the <span class='nog'>LORD</span> went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:",
+      "plainText": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:"
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "1890",
-      "text" : "He took not away the pillar of the cloud by day, nor the pillar of fire by night, <span class='extra'>from<\/span> before the people.",
-      "plainText" : "He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people."
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "1890",
+      "text": "He took not away the pillar of the cloud by day, nor the pillar of fire by night, <span class='extra'>from</span> before the people.",
+      "plainText": "He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people."
     }
   ]
 }
-
-

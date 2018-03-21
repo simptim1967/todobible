@@ -1,308 +1,277 @@
 {
   "book": {
-    "number" : "11",
-    "filenamePrefix" : "1kings",
-    "bookPage" : "1kings.html",
-    "title" : "1 Kings",
-    "chapterCount" : "22",
-    "testament" : "old",
-    "nt" : "false",
-    "ot" : "true",
-    "nextBook" : "2kings_1.html",
-    "nextTitle" : "2 Kings",
-    "prevBook" : "2samuel_1.html",
-    "prevTitle" : "2 Samuel"
+    "number": "11",
+    "filenamePrefix": "1kings",
+    "bookPage": "1kings.html",
+    "title": "1 Kings",
+    "chapterCount": "22",
+    "testament": "old",
+    "nt": "false",
+    "ot": "true",
+    "nextBook": "2kings_1.html",
+    "nextTitle": "2 Kings",
+    "prevBook": "2samuel_1.html",
+    "prevTitle": "2 Samuel",
+    "interlinear": false
   },
   "chapter": {
-    "number" : "14",
-    "verseCount" : "31",
-    "nextChapter" : "1kings_15.html",
-    "nextTitle" : "1 Kings 15",
-    "prevChapter" : "1kings_13.html",
-    "prevTitle" : "1 Kings 13",
-    "filename" : "1kings_14.html",
-    "keywords" : "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
+    "number": "14",
+    "verseCount": "31",
+    "nextChapter": "1kings_15.html",
+    "nextTitle": "1 Kings 15",
+    "prevChapter": "1kings_13.html",
+    "prevTitle": "1 Kings 13",
+    "filename": "1kings_14.html",
+    "keywords": "online king james holy bible, king james bible, bible todo list, words of Jesus, bible index, the authorised version, KJV, KJB, KJAV, AV"
   },
   "items": [
     {
-      "type" : "verse",
-      "id" : "v1",
-      "number" : "1",
-      "absolute" : "9220",
-      "text" : "At that time Abijah the son of Jeroboam fell sick.",
-      "plainText" : "At that time Abijah the son of Jeroboam fell sick."
-    }
-    ,
+      "type": "verse",
+      "id": "v1",
+      "number": "1",
+      "absolute": "9220",
+      "text": "At that time Abijah the son of Jeroboam fell sick.",
+      "plainText": "At that time Abijah the son of Jeroboam fell sick."
+    },
     {
-      "type" : "verse",
-      "id" : "v2",
-      "number" : "2",
-      "absolute" : "9221",
-      "text" : "And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there <span class='extra'>is<\/span> Ahijah the prophet, which told me that <span class='extra'>I should be<\/span> king over this people.",
-      "plainText" : "And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there is Ahijah the prophet, which told me that I should be king over this people."
-    }
-    ,
+      "type": "verse",
+      "id": "v2",
+      "number": "2",
+      "absolute": "9221",
+      "text": "And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there <span class='extra'>is</span> Ahijah the prophet, which told me that <span class='extra'>I should be</span> king over this people.",
+      "plainText": "And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there is Ahijah the prophet, which told me that I should be king over this people."
+    },
     {
-      "type" : "verse",
-      "id" : "v3",
-      "number" : "3",
-      "absolute" : "9222",
-      "text" : "And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child.",
-      "plainText" : "And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child."
-    }
-    ,
+      "type": "verse",
+      "id": "v3",
+      "number": "3",
+      "absolute": "9222",
+      "text": "And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child.",
+      "plainText": "And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child."
+    },
     {
-      "type" : "verse",
-      "id" : "v4",
-      "number" : "4",
-      "absolute" : "9223",
-      "text" : "And Jeroboam's wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age.",
-      "plainText" : "And Jeroboam's wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age."
-    }
-    ,
+      "type": "verse",
+      "id": "v4",
+      "number": "4",
+      "absolute": "9223",
+      "text": "And Jeroboam's wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age.",
+      "plainText": "And Jeroboam's wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age."
+    },
     {
-      "type" : "verse",
-      "id" : "v5",
-      "number" : "5",
-      "absolute" : "9224",
-      "text" : "And the <span class='nog'>LORD<\/span> said unto Ahijah, Behold, the wife of Jeroboam cometh to ask a thing of thee for her son; for he <span class='extra'>is<\/span> sick: thus and thus shalt thou say unto her: for it shall be, when she cometh in, that she shall feign herself <span class='extra'>to be<\/span> another <span class='extra'>woman<\/span>.",
-      "plainText" : "And the LORD said unto Ahijah, Behold, the wife of Jeroboam cometh to ask a thing of thee for her son; for he is sick: thus and thus shalt thou say unto her: for it shall be, when she cometh in, that she shall feign herself to be another woman."
-    }
-    ,
+      "type": "verse",
+      "id": "v5",
+      "number": "5",
+      "absolute": "9224",
+      "text": "And the <span class='nog'>LORD</span> said unto Ahijah, Behold, the wife of Jeroboam cometh to ask a thing of thee for her son; for he <span class='extra'>is</span> sick: thus and thus shalt thou say unto her: for it shall be, when she cometh in, that she shall feign herself <span class='extra'>to be</span> another <span class='extra'>woman</span>.",
+      "plainText": "And the LORD said unto Ahijah, Behold, the wife of Jeroboam cometh to ask a thing of thee for her son; for he is sick: thus and thus shalt thou say unto her: for it shall be, when she cometh in, that she shall feign herself to be another woman."
+    },
     {
-      "type" : "verse",
-      "id" : "v6",
-      "number" : "6",
-      "absolute" : "9225",
-      "text" : "And it was <span class='extra'>so<\/span>, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself <span class='extra'>to be<\/span> another? for I <span class='extra'>am<\/span> sent to thee <span class='extra'>with<\/span> heavy <span class='extra'>tidings<\/span>.",
-      "plainText" : "And it was so, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself to be another? for I am sent to thee with heavy tidings."
-    }
-    ,
+      "type": "verse",
+      "id": "v6",
+      "number": "6",
+      "absolute": "9225",
+      "text": "And it was <span class='extra'>so</span>, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself <span class='extra'>to be</span> another? for I <span class='extra'>am</span> sent to thee <span class='extra'>with</span> heavy <span class='extra'>tidings</span>.",
+      "plainText": "And it was so, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself to be another? for I am sent to thee with heavy tidings."
+    },
     {
-      "type" : "verse",
-      "id" : "v7",
-      "number" : "7",
-      "absolute" : "9226",
-      "text" : "Go, tell Jeroboam, Thus saith the <span class='nog'>LORD<\/span> God of Israel, Forasmuch as I exalted thee from among the people, and made thee prince over my people Israel,",
-      "plainText" : "Go, tell Jeroboam, Thus saith the LORD God of Israel, Forasmuch as I exalted thee from among the people, and made thee prince over my people Israel,"
-    }
-    ,
+      "type": "verse",
+      "id": "v7",
+      "number": "7",
+      "absolute": "9226",
+      "text": "Go, tell Jeroboam, Thus saith the <span class='nog'>LORD</span> God of Israel, Forasmuch as I exalted thee from among the people, and made thee prince over my people Israel,",
+      "plainText": "Go, tell Jeroboam, Thus saith the LORD God of Israel, Forasmuch as I exalted thee from among the people, and made thee prince over my people Israel,"
+    },
     {
-      "type" : "verse",
-      "id" : "v8",
-      "number" : "8",
-      "absolute" : "9227",
-      "text" : "And rent the kingdom away from the house of David, and gave it thee: and <span class='extra'>yet<\/span> thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do <span class='extra'>that<\/span> only <span class='extra'>which was<\/span> right in mine eyes;",
-      "plainText" : "And rent the kingdom away from the house of David, and gave it thee: and yet thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do that only which was right in mine eyes;"
-    }
-    ,
+      "type": "verse",
+      "id": "v8",
+      "number": "8",
+      "absolute": "9227",
+      "text": "And rent the kingdom away from the house of David, and gave it thee: and <span class='extra'>yet</span> thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do <span class='extra'>that</span> only <span class='extra'>which was</span> right in mine eyes;",
+      "plainText": "And rent the kingdom away from the house of David, and gave it thee: and yet thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do that only which was right in mine eyes;"
+    },
     {
-      "type" : "verse",
-      "id" : "v9",
-      "number" : "9",
-      "absolute" : "9228",
-      "text" : "But hast done evil above all that were before thee: for thou hast gone and made thee other gods, and molten images, to provoke me to anger, and hast cast me behind thy back:",
-      "plainText" : "But hast done evil above all that were before thee: for thou hast gone and made thee other gods, and molten images, to provoke me to anger, and hast cast me behind thy back:"
-    }
-    ,
+      "type": "verse",
+      "id": "v9",
+      "number": "9",
+      "absolute": "9228",
+      "text": "But hast done evil above all that were before thee: for thou hast gone and made thee other gods, and molten images, to provoke me to anger, and hast cast me behind thy back:",
+      "plainText": "But hast done evil above all that were before thee: for thou hast gone and made thee other gods, and molten images, to provoke me to anger, and hast cast me behind thy back:"
+    },
     {
-      "type" : "verse",
-      "id" : "v10",
-      "number" : "10",
-      "absolute" : "9229",
-      "text" : "Therefore, behold, I will bring evil upon the house of Jeroboam, and will cut off from Jeroboam him that pisseth against the wall, <span class='extra'>and<\/span> him that is shut up and left in Israel, and will take away the remnant of the house of Jeroboam, as a man taketh away dung, till it be all gone.",
-      "plainText" : "Therefore, behold, I will bring evil upon the house of Jeroboam, and will cut off from Jeroboam him that pisseth against the wall, and him that is shut up and left in Israel, and will take away the remnant of the house of Jeroboam, as a man taketh away dung, till it be all gone."
-    }
-    ,
+      "type": "verse",
+      "id": "v10",
+      "number": "10",
+      "absolute": "9229",
+      "text": "Therefore, behold, I will bring evil upon the house of Jeroboam, and will cut off from Jeroboam him that pisseth against the wall, <span class='extra'>and</span> him that is shut up and left in Israel, and will take away the remnant of the house of Jeroboam, as a man taketh away dung, till it be all gone.",
+      "plainText": "Therefore, behold, I will bring evil upon the house of Jeroboam, and will cut off from Jeroboam him that pisseth against the wall, and him that is shut up and left in Israel, and will take away the remnant of the house of Jeroboam, as a man taketh away dung, till it be all gone."
+    },
     {
-      "type" : "verse",
-      "id" : "v11",
-      "number" : "11",
-      "absolute" : "9230",
-      "text" : "Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the fowls of the air eat: for the <span class='nog'>LORD<\/span> hath spoken <span class='extra'>it<\/span>.",
-      "plainText" : "Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the fowls of the air eat: for the LORD hath spoken it."
-    }
-    ,
+      "type": "verse",
+      "id": "v11",
+      "number": "11",
+      "absolute": "9230",
+      "text": "Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the fowls of the air eat: for the <span class='nog'>LORD</span> hath spoken <span class='extra'>it</span>.",
+      "plainText": "Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the fowls of the air eat: for the LORD hath spoken it."
+    },
     {
-      "type" : "verse",
-      "id" : "v12",
-      "number" : "12",
-      "absolute" : "9231",
-      "text" : "Arise thou therefore, get thee to thine own house: <span class='extra'>and<\/span> when thy feet enter into the city, the child shall die.",
-      "plainText" : "Arise thou therefore, get thee to thine own house: and when thy feet enter into the city, the child shall die."
-    }
-    ,
+      "type": "verse",
+      "id": "v12",
+      "number": "12",
+      "absolute": "9231",
+      "text": "Arise thou therefore, get thee to thine own house: <span class='extra'>and</span> when thy feet enter into the city, the child shall die.",
+      "plainText": "Arise thou therefore, get thee to thine own house: and when thy feet enter into the city, the child shall die."
+    },
     {
-      "type" : "verse",
-      "id" : "v13",
-      "number" : "13",
-      "absolute" : "9232",
-      "text" : "And all Israel shall mourn for him, and bury him: for he only of Jeroboam shall come to the grave, because in him there is found <span class='extra'>some<\/span> good thing toward the <span class='nog'>LORD<\/span> God of Israel in the house of Jeroboam.",
-      "plainText" : "And all Israel shall mourn for him, and bury him: for he only of Jeroboam shall come to the grave, because in him there is found some good thing toward the LORD God of Israel in the house of Jeroboam."
-    }
-    ,
+      "type": "verse",
+      "id": "v13",
+      "number": "13",
+      "absolute": "9232",
+      "text": "And all Israel shall mourn for him, and bury him: for he only of Jeroboam shall come to the grave, because in him there is found <span class='extra'>some</span> good thing toward the <span class='nog'>LORD</span> God of Israel in the house of Jeroboam.",
+      "plainText": "And all Israel shall mourn for him, and bury him: for he only of Jeroboam shall come to the grave, because in him there is found some good thing toward the LORD God of Israel in the house of Jeroboam."
+    },
     {
-      "type" : "verse",
-      "id" : "v14",
-      "number" : "14",
-      "absolute" : "9233",
-      "text" : "Moreover the <span class='nog'>LORD<\/span> shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now.",
-      "plainText" : "Moreover the LORD shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now."
-    }
-    ,
+      "type": "verse",
+      "id": "v14",
+      "number": "14",
+      "absolute": "9233",
+      "text": "Moreover the <span class='nog'>LORD</span> shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now.",
+      "plainText": "Moreover the LORD shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now."
+    },
     {
-      "type" : "verse",
-      "id" : "v15",
-      "number" : "15",
-      "absolute" : "9234",
-      "text" : "For the <span class='nog'>LORD<\/span> shall smite Israel, as a reed is shaken in the water, and he shall root up Israel out of this good land, which he gave to their fathers, and shall scatter them beyond the river, because they have made their groves, provoking the <span class='nog'>LORD<\/span> to anger.",
-      "plainText" : "For the LORD shall smite Israel, as a reed is shaken in the water, and he shall root up Israel out of this good land, which he gave to their fathers, and shall scatter them beyond the river, because they have made their groves, provoking the LORD to anger."
-    }
-    ,
+      "type": "verse",
+      "id": "v15",
+      "number": "15",
+      "absolute": "9234",
+      "text": "For the <span class='nog'>LORD</span> shall smite Israel, as a reed is shaken in the water, and he shall root up Israel out of this good land, which he gave to their fathers, and shall scatter them beyond the river, because they have made their groves, provoking the <span class='nog'>LORD</span> to anger.",
+      "plainText": "For the LORD shall smite Israel, as a reed is shaken in the water, and he shall root up Israel out of this good land, which he gave to their fathers, and shall scatter them beyond the river, because they have made their groves, provoking the LORD to anger."
+    },
     {
-      "type" : "verse",
-      "id" : "v16",
-      "number" : "16",
-      "absolute" : "9235",
-      "text" : "And he shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin.",
-      "plainText" : "And he shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin."
-    }
-    ,
+      "type": "verse",
+      "id": "v16",
+      "number": "16",
+      "absolute": "9235",
+      "text": "And he shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin.",
+      "plainText": "And he shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin."
+    },
     {
-      "type" : "verse",
-      "id" : "v17",
-      "number" : "17",
-      "absolute" : "9236",
-      "text" : "And Jeroboam's wife arose, and departed, and came to Tirzah: <span class='extra'>and<\/span> when she came to the threshold of the door, the child died;",
-      "plainText" : "And Jeroboam's wife arose, and departed, and came to Tirzah: and when she came to the threshold of the door, the child died;"
-    }
-    ,
+      "type": "verse",
+      "id": "v17",
+      "number": "17",
+      "absolute": "9236",
+      "text": "And Jeroboam's wife arose, and departed, and came to Tirzah: <span class='extra'>and</span> when she came to the threshold of the door, the child died;",
+      "plainText": "And Jeroboam's wife arose, and departed, and came to Tirzah: and when she came to the threshold of the door, the child died;"
+    },
     {
-      "type" : "verse",
-      "id" : "v18",
-      "number" : "18",
-      "absolute" : "9237",
-      "text" : "And they buried him; and all Israel mourned for him, according to the word of the <span class='nog'>LORD<\/span>, which he spake by the hand of his servant Ahijah the prophet.",
-      "plainText" : "And they buried him; and all Israel mourned for him, according to the word of the LORD, which he spake by the hand of his servant Ahijah the prophet."
-    }
-    ,
+      "type": "verse",
+      "id": "v18",
+      "number": "18",
+      "absolute": "9237",
+      "text": "And they buried him; and all Israel mourned for him, according to the word of the <span class='nog'>LORD</span>, which he spake by the hand of his servant Ahijah the prophet.",
+      "plainText": "And they buried him; and all Israel mourned for him, according to the word of the LORD, which he spake by the hand of his servant Ahijah the prophet."
+    },
     {
-      "type" : "verse",
-      "id" : "v19",
-      "number" : "19",
-      "absolute" : "9238",
-      "text" : "And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they <span class='extra'>are<\/span> written in the book of the chronicles of the kings of Israel.",
-      "plainText" : "And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v19",
+      "number": "19",
+      "absolute": "9238",
+      "text": "And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they <span class='extra'>are</span> written in the book of the chronicles of the kings of Israel.",
+      "plainText": "And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v20",
-      "number" : "20",
-      "absolute" : "9239",
-      "text" : "And the days which Jeroboam reigned <span class='extra'>were<\/span> two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.",
-      "plainText" : "And the days which Jeroboam reigned were two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead."
-    }
-    ,
+      "type": "verse",
+      "id": "v20",
+      "number": "20",
+      "absolute": "9239",
+      "text": "And the days which Jeroboam reigned <span class='extra'>were</span> two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.",
+      "plainText": "And the days which Jeroboam reigned were two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead."
+    },
     {
-      "type" : "verse",
-      "id" : "v21",
-      "number" : "21",
-      "absolute" : "9240",
-      "text" : "And Rehoboam the son of Solomon reigned in Judah. Rehoboam <span class='extra'>was<\/span> forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the <span class='nog'>LORD<\/span> did choose out of all the tribes of Israel, to put his name there. And his mother's name <span class='extra'>was<\/span> Naamah an Ammonitess.",
-      "plainText" : "And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD did choose out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess."
-    }
-    ,
+      "type": "verse",
+      "id": "v21",
+      "number": "21",
+      "absolute": "9240",
+      "text": "And Rehoboam the son of Solomon reigned in Judah. Rehoboam <span class='extra'>was</span> forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the <span class='nog'>LORD</span> did choose out of all the tribes of Israel, to put his name there. And his mother's name <span class='extra'>was</span> Naamah an Ammonitess.",
+      "plainText": "And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD did choose out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess."
+    },
     {
-      "type" : "verse",
-      "id" : "v22",
-      "number" : "22",
-      "absolute" : "9241",
-      "text" : "And Judah did evil in the sight of the <span class='nog'>LORD<\/span>, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.",
-      "plainText" : "And Judah did evil in the sight of the LORD, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done."
-    }
-    ,
+      "type": "verse",
+      "id": "v22",
+      "number": "22",
+      "absolute": "9241",
+      "text": "And Judah did evil in the sight of the <span class='nog'>LORD</span>, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.",
+      "plainText": "And Judah did evil in the sight of the LORD, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done."
+    },
     {
-      "type" : "verse",
-      "id" : "v23",
-      "number" : "23",
-      "absolute" : "9242",
-      "text" : "For they also built them high places, and images, and groves, on every high hill, and under every green tree.",
-      "plainText" : "For they also built them high places, and images, and groves, on every high hill, and under every green tree."
-    }
-    ,
+      "type": "verse",
+      "id": "v23",
+      "number": "23",
+      "absolute": "9242",
+      "text": "For they also built them high places, and images, and groves, on every high hill, and under every green tree.",
+      "plainText": "For they also built them high places, and images, and groves, on every high hill, and under every green tree."
+    },
     {
-      "type" : "verse",
-      "id" : "v24",
-      "number" : "24",
-      "absolute" : "9243",
-      "text" : "And there were also sodomites in the land: <span class='extra'>and<\/span> they did according to all the abominations of the nations which the <span class='nog'>LORD<\/span> cast out before the children of Israel.",
-      "plainText" : "And there were also sodomites in the land: and they did according to all the abominations of the nations which the LORD cast out before the children of Israel."
-    }
-    ,
+      "type": "verse",
+      "id": "v24",
+      "number": "24",
+      "absolute": "9243",
+      "text": "And there were also sodomites in the land: <span class='extra'>and</span> they did according to all the abominations of the nations which the <span class='nog'>LORD</span> cast out before the children of Israel.",
+      "plainText": "And there were also sodomites in the land: and they did according to all the abominations of the nations which the LORD cast out before the children of Israel."
+    },
     {
-      "type" : "verse",
-      "id" : "v25",
-      "number" : "25",
-      "absolute" : "9244",
-      "text" : "And it came to pass in the fifth year of king Rehoboam, <span class='extra'>that<\/span> Shishak king of Egypt came up against Jerusalem:",
-      "plainText" : "And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:"
-    }
-    ,
+      "type": "verse",
+      "id": "v25",
+      "number": "25",
+      "absolute": "9244",
+      "text": "And it came to pass in the fifth year of king Rehoboam, <span class='extra'>that</span> Shishak king of Egypt came up against Jerusalem:",
+      "plainText": "And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:"
+    },
     {
-      "type" : "verse",
-      "id" : "v26",
-      "number" : "26",
-      "absolute" : "9245",
-      "text" : "And he took away the treasures of the house of the <span class='nog'>LORD<\/span>, and the treasures of the king's house; he even took away all: and he took away all the shields of gold which Solomon had made.",
-      "plainText" : "And he took away the treasures of the house of the LORD, and the treasures of the king's house; he even took away all: and he took away all the shields of gold which Solomon had made."
-    }
-    ,
+      "type": "verse",
+      "id": "v26",
+      "number": "26",
+      "absolute": "9245",
+      "text": "And he took away the treasures of the house of the <span class='nog'>LORD</span>, and the treasures of the king's house; he even took away all: and he took away all the shields of gold which Solomon had made.",
+      "plainText": "And he took away the treasures of the house of the LORD, and the treasures of the king's house; he even took away all: and he took away all the shields of gold which Solomon had made."
+    },
     {
-      "type" : "verse",
-      "id" : "v27",
-      "number" : "27",
-      "absolute" : "9246",
-      "text" : "And king Rehoboam made in their stead brasen shields, and committed <span class='extra'>them<\/span> unto the hands of the chief of the guard, which kept the door of the king's house.",
-      "plainText" : "And king Rehoboam made in their stead brasen shields, and committed them unto the hands of the chief of the guard, which kept the door of the king's house."
-    }
-    ,
+      "type": "verse",
+      "id": "v27",
+      "number": "27",
+      "absolute": "9246",
+      "text": "And king Rehoboam made in their stead brasen shields, and committed <span class='extra'>them</span> unto the hands of the chief of the guard, which kept the door of the king's house.",
+      "plainText": "And king Rehoboam made in their stead brasen shields, and committed them unto the hands of the chief of the guard, which kept the door of the king's house."
+    },
     {
-      "type" : "verse",
-      "id" : "v28",
-      "number" : "28",
-      "absolute" : "9247",
-      "text" : "And it was <span class='extra'>so<\/span>, when the king went into the house of the <span class='nog'>LORD<\/span>, that the guard bare them, and brought them back into the guard chamber.",
-      "plainText" : "And it was so, when the king went into the house of the LORD, that the guard bare them, and brought them back into the guard chamber."
-    }
-    ,
+      "type": "verse",
+      "id": "v28",
+      "number": "28",
+      "absolute": "9247",
+      "text": "And it was <span class='extra'>so</span>, when the king went into the house of the <span class='nog'>LORD</span>, that the guard bare them, and brought them back into the guard chamber.",
+      "plainText": "And it was so, when the king went into the house of the LORD, that the guard bare them, and brought them back into the guard chamber."
+    },
     {
-      "type" : "verse",
-      "id" : "v29",
-      "number" : "29",
-      "absolute" : "9248",
-      "text" : "Now the rest of the acts of Rehoboam, and all that he did, <span class='extra'>are<\/span> they not written in the book of the chronicles of the kings of Judah?",
-      "plainText" : "Now the rest of the acts of Rehoboam, and all that he did, are they not written in the book of the chronicles of the kings of Judah?"
-    }
-    ,
+      "type": "verse",
+      "id": "v29",
+      "number": "29",
+      "absolute": "9248",
+      "text": "Now the rest of the acts of Rehoboam, and all that he did, <span class='extra'>are</span> they not written in the book of the chronicles of the kings of Judah?",
+      "plainText": "Now the rest of the acts of Rehoboam, and all that he did, are they not written in the book of the chronicles of the kings of Judah?"
+    },
     {
-      "type" : "verse",
-      "id" : "v30",
-      "number" : "30",
-      "absolute" : "9249",
-      "text" : "And there was war between Rehoboam and Jeroboam all <span class='extra'>their<\/span> days.",
-      "plainText" : "And there was war between Rehoboam and Jeroboam all their days."
-    }
-    ,
+      "type": "verse",
+      "id": "v30",
+      "number": "30",
+      "absolute": "9249",
+      "text": "And there was war between Rehoboam and Jeroboam all <span class='extra'>their</span> days.",
+      "plainText": "And there was war between Rehoboam and Jeroboam all their days."
+    },
     {
-      "type" : "verse",
-      "id" : "v31",
-      "number" : "31",
-      "absolute" : "9250",
-      "text" : "And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother's name <span class='extra'>was<\/span> Naamah an Ammonitess. And Abijam his son reigned in his stead.",
-      "plainText" : "And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother's name was Naamah an Ammonitess. And Abijam his son reigned in his stead."
+      "type": "verse",
+      "id": "v31",
+      "number": "31",
+      "absolute": "9250",
+      "text": "And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother's name <span class='extra'>was</span> Naamah an Ammonitess. And Abijam his son reigned in his stead.",
+      "plainText": "And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother's name was Naamah an Ammonitess. And Abijam his son reigned in his stead."
     }
   ]
 }
-
-
