@@ -593,6 +593,12 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that there is only one Lord, the Lord Jesus Christ.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 4:5", "link": "ephesians_4.html?goto=5" }
+  ]
+}
+,
 { "type": "F", "todoItem": "Know that those in authority are the ministers of God.", 
   "bibleRefs": [
     { "linkText": "Romans 13:4", "link": "romans_13.html?goto=4" }
@@ -681,7 +687,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that there is only one baptism into Christ.", 
+{ "type": "F", "todoItem": "Know that there is only one baptism, baptism into Christ.", 
   "bibleRefs": [
     { "linkText": "Ephesians 4:5", "link": "ephesians_4.html?goto=5" }
   ]
@@ -887,7 +893,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that your old nature was corrupted by deceitful desires.", 
+{ "type": "F", "todoItem": "Know that your old nature was corrupted by selfish and deceitful desires.", 
   "bibleRefs": [
     { "linkText": "Ephesians 4:22", "link": "ephesians_4.html?goto=22" }
   ]
@@ -5209,7 +5215,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that there is only one Lord and we all share in the same faith in Him.", 
+{ "type": "F", "todoItem": "Know that there is only one true faith, faith in Jesus Christ.", 
   "bibleRefs": [
     { "linkText": "Ephesians 4:5", "link": "ephesians_4.html?goto=5" }
   ]
@@ -6806,7 +6812,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that there is one God.", 
+{ "type": "F", "todoItem": "Know that there is one true God.", 
   "bibleRefs": [
     { "linkText": "Ephesians 4:6", "link": "ephesians_4.html?goto=6" }
   ]
@@ -11789,7 +11795,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that your old nature was corrupted by deceitful desires.", 
+{ "type": "F", "todoItem": "Know that your old nature was corrupted by selfish and deceitful desires.", 
   "bibleRefs": [
     { "linkText": "Ephesians 4:22", "link": "ephesians_4.html?goto=22" }
   ]
@@ -11960,12 +11966,6 @@
 { "type": "T", "todoItem": "Be ready to take the good news of Christ and His peace with you everywhere you go.", 
   "bibleRefs": [
     { "linkText": "Ephesians 6:15", "link": "ephesians_6.html?goto=15" }
-  ]
-}
-,
-{ "type": "PR", "todoItem": "<span class=\"woc\">Come to Jesus and find rest.</span>", 
-  "bibleRefs": [
-    { "linkText": "Matthew 11:28", "link": "matthew_11.html?goto=28" }
   ]
 }
 ,
@@ -13482,6 +13482,16 @@
   "bibleRefs": [
     { "linkText": "Matthew 3:2", "link": "matthew_3.html?goto=2" },
     { "linkText": "Matthew 4:17", "link": "matthew_4.html?goto=17" }
+  ]
+}
+]
+},
+{
+"topic": "Rest",
+"topicId": "rest",
+"items": [{ "type": "PR", "todoItem": "<span class=\"woc\">Come to Jesus and find rest.</span>", 
+  "bibleRefs": [
+    { "linkText": "Matthew 11:28", "link": "matthew_11.html?goto=28" }
   ]
 }
 ]
