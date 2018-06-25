@@ -72,3 +72,13 @@ $(".tl-btn-close").on("click", function () {
 	$(v + "tl").toggleClass("tl-btn-hide");
 });
 
+$(".tl-in-line-btn-close").on("click", function () {
+	// $(this).parent().hide();
+	var tlid = $(this).parent().attr("id");
+	var v = "#" + tlid.substr(0, tlid.length-2);
+	$(v + "o").toggleClass("tl-btn-hide");
+	$(v + "c").toggleClass("tl-btn-hide");
+	// hide todo list
+	$(v + "tl").toggleClass("tl-btn-hide");
+});
+

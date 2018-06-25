@@ -1,6 +1,8 @@
 ToDoBible.org TODO
 ==================
 
+Next LID: 30/04/2018
+
 Release Objectives
 ==================
 Understand the character of God expressed in Ephesians
@@ -9,29 +11,17 @@ Review topics arising from Ephesians
 Wring out every word of Ephesians
 Understand what God has/is/will do
 Highlight (F)acts, (T)odos, (P)romises
-Create visual bible study of Ephesians
 
 Current Feature Release
 =======================
-Visual bible study for Ephesians
+Tooltip words for Ephesians
 
 ToDo
 ====
-- Chapter 2 content, transcript, video
-- Chapter 3 content, transcript, video
-- Chapter 4 content, transcript, video
-- Chapter 5 content, transcript, video
-- Chapter 6 content, transcript, video
-- Intro content, transcript, video
-- Summary content, transcript, video
-Get review feedback for each chapter, intro & summary
-Upload visual bible study onto YouTube
-Update website to include links to visual bible study
 
 In Progress
 ===========
-Complete visual bible study for Ephesians
-- Chapter 1 content
+- Chapter 3 tooltips
 
 Done
 ====
@@ -49,26 +39,22 @@ BUG
 
 Tasks
 =====
-Separate todo list javascript into separate js file
-Separate interlinear javascript into separate js file
-Complete UI prototype for new interlinear functionality
-Create a master KJV text document
-Create a master KJV text document with captions
-Extract the Strong's words/numbers from two different sources
-Compare source KJV text with master text and strong numbers against each source
-Create a master KJV text with strong's document
-Upgrade jQuery to latest production version
+Upgrade jQuery to latest production version or better remove dependency on jQuery altogether
 
-Next Release
+Next Release 
 ============
-Create visual bible study for Ephesians
-Create Greek interlinear
-Consider clicking on a verse (number part? new button?) to highlight/unhighlight it
-Extract English/Greek interlinear and Strong's number word breakdown for each verse in Ephesians
-Show verse breakdown ... (including the Greek and YLT)
-Display Strong number definition as modal dialog on bible page accessed from links on interlinear
-Consider lookup page for viewing Strong number definitions (Greek and Hebrew)
-Create modal dialog showing the Hebrew/Greek interlinear and Strong numbers for a OT/NT verse
+Create visual bible study of Ephesians
+- Chapter 1 content, transcript, video
+- Chapter 2 content, transcript, video
+- Chapter 3 content, transcript, video
+- Chapter 4 content, transcript, video
+- Chapter 5 content, transcript, video
+- Chapter 6 content, transcript, video
+- Intro content, transcript, video
+- Summary content, transcript, video
+Get review feedback for each chapter, intro & summary
+Upload visual bible study onto YouTube
+Update website to include links to visual bible study
 
 ToDo Item Research / Bible Study
 ================================
@@ -87,7 +73,6 @@ Test printing of todo lists and other non-bible pages
 Fix printing issues
 Optimise home page for mobile download (fix jumbotron image sizing - need to restrict minwidth and use alternative low-res image)
 Consider changing images for next/prev chapter to make them bigger for use on mobiles
-Replace images on home page with nicer SVG images
 Make menu bar static ???
 Provide better visual feedback when links are hovered over and when clicked 
 Put radio buttons against todo items
@@ -114,12 +99,6 @@ Create "Navigate Life On Earth" sidebar for article & todo topic links & other l
  - How can I find peace? BEGIN YOUR JOURNEY TO PEACE.
    -> peace with god (peacewithgod.net)
  - format: What does the bible say about: <keyword> ...
-Create links to other Christian websites 
-- lifestylechristianity.com
-- healing, overcoming, 
-- blue letter bible
-- samaritans purse + other Billy Graham banners etc.
-- tear fund 
 Extend Navigate The Bible with bible signpost pages with links to parables, miracles, promises, warnings, facts etc.
 Insert captions into bible pages for parables
 Create Contact Us page (consider using JotForm.com)

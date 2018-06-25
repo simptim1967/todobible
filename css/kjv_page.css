@@ -172,6 +172,18 @@
     width: 20px;
     color: blue;
 }
+
+.tl-in-line-btn-close:hover {
+    cursor: pointer;
+}
+
+.tl-in-line-btn-close {
+    width: 20px;
+    vertical-align: middle;
+    margin-top: 3px;
+    margin-right: 2px;
+}
+
 .tl-btn-hide {
     display: none;
 }

@@ -129,13 +129,15 @@ html(lang='en-GB')
               - var vno = page.items[i].number;
               .verse(id="v" + page.items[i].number)
                 - if (page.todo[vno-1].length > 0) {
+                //-Include open/close drop-down image for todo item list
                 img.tl-btn-open(id="v" + vno + "o", src="../images/down-arrow.svg", alt="Show verse " + vno + " ToDo items", title="Show verse " + vno + " ToDo items")
                 img.tl-btn-close.tl-btn-hide(id="v" + vno + "c", src="../images/up-arrow.svg", alt="Hide verse " + vno + " ToDo items", title="Hide verse " + vno + " ToDo items")
                 - }
+                //-Display bible verse number followed by bible verse text
                 b #{page.items[i].number} 
                 | !{text}
                 - if (page.book.interlinear === true) {
-                  //-Show interlinear open button
+                  //-Show interlinear open button if available for this bible chapter
                   - var fragid = page.book.number + "_" + page.chapter.number + "_" + vno;
                   img.inter-open(id="v" + vno + "io", src="../images/dot-dot-dot.svg", alt="Show verse " + vno + " interlinear", title="Show verse " + vno + " interlinear", data=fragid)
                 - }
@@ -148,6 +150,7 @@ html(lang='en-GB')
               - if (page.todo[vno-1].length > 0) {
               //-Output todo list items for this verse
               .verse-todo-list.tl-btn-hide(id="v" + vno + "tl")
+                img.tl-in-line-btn-close(align="right", src="../images/tl-close-button.svg", alt="Hide verse " + vno + " ToDo items", title="Hide verse " + vno + " ToDo items")
                 .verse-todo-list-title
                   | Verse #{vno} ToDo Items
                 - var tl = page.todo[vno-1];
@@ -186,9 +189,12 @@ html(lang='en-GB')
                     - if (todo.verseStart != todo.verseEnd) {
                       span  [v#{todo.verseRange}]
                     - }
-                - }
-              - }
-            - }
+                - } //- end for each todo item
+                img.tl-in-line-btn-close(align="right", src="../images/tl-close-button.svg", alt="Hide verse " + vno + " ToDo items", title="Hide verse " + vno + " ToDo items")
+                .verse-todo-list-title
+                  | Verse #{vno} ToDo Items
+              - } //- endif verse has todo items
+            - } //- endif bible verse
             - else {
               //-Caption
               p.text-center !{text}
@@ -222,7 +228,7 @@ html(lang='en-GB')
               form
                 label(for='vref') Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:
                 fieldset
-                  input#vref(type='text', maxlength='25', spellcheck=false)
+                  input#vref(type='text', maxlength='25', spellcheck='false')
                   button#gotoverse.btn-md.btn-primary(type='submit', onclick='GoToVerse(); return false') Go
                 label(for='vindex') Alternatively you can visit:
                 br
