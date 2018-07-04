@@ -90,7 +90,7 @@ function GoToVerse() {
     // TODO:
 
     // Construct page name
-    var page = realBookName + "_" + chapter + ".html";
+    var page = "../kjv/" + realBookName + "_" + chapter + ".html";
     if (verse.length != 0 && verse != '1') {
         page += "?goto=" + verse;
     }

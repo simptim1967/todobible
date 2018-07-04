@@ -1,0 +1,133 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    // The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags
+    meta(name='keywords', content='bible todo list, King James holy bible, words of Jesus, commandments of Jesus, bible index, bible to do items')
+    meta(name='description', content="ToDoBible.org resources.")
+    title Resources
+    // Bootstrap
+    link(href='../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../css/common_page.css', rel='stylesheet')
+    link(href='../css/resource_page.css', rel='stylesheet')
+  body(data-spy='scroll', data-target='#myScrollspy')
+    include ../includes/resource_page_menu.pug
+    include ../includes/resource_page_header.pug
+    //
+      Main content
+      ==================================================
+    .container
+      .row
+        .col-md-2.hidden-print.hidden-sm.hidden-xs
+          nav#myScrollspy
+            ul.nav.nav-pills.nav-stacked.affix-top(data-spy='affix', data-offset-top='170')
+              li.active
+                a(href='#resources')
+                  b Resources
+              li
+                a(href='#articles') Articles
+              li
+                a(href='#kjv') King James Bible
+              li
+                a(href='#todo') Bible ToDo Lists
+        // Main content block
+        #resources.col-md-7
+          h1 Resources
+          hr.featurette-divider
+          h2#articles Articles
+          p
+            | The following articles are availble on this website: 
+            ul
+              li 
+                a(href='the-turner-of-the-pages.html') The Turner Of The Pages
+
+          h2#kjv King James Bible
+          p
+            | The King James Bible (also known as The Authorised Version) 
+            | is presented on this website as a faithful translation of God's Word
+            | with the words of Christ highlighted in 
+            span(class='woc') red
+            | .
+          p
+            | My belief is that God's Holy Bible is not just something you read
+            | but something you live, by God's grace, for His glory.
+          p
+            | The Holy Bible is to be read with the heart, not the head and
+            | is best read accompanied by the author, the Holy Spirit. 
+          p
+            | Use the 
+            a(href='../kjv/king_james_bible_index_page.html') Bible Index Page
+            |  to quickly navigate to any chapter of the bible.
+
+          h2#todo Bible ToDo Lists
+          p
+            | The King James Bible presented on this website is annotated with ToDo items which appear
+            | as drop-down lists beneath bible verses when present. They serve as reminders of how 
+            | God's Word teaches us to live as disciples of Jesus.
+          p
+            | In creating the ToDo items I have often spent time in prayer for revelation from the Holy Spirit and
+            | much time studying articles or listening to audio commentaries / sermons as well as analysing  
+            | verse context and looking at the Greek or Hebrew.
+          p
+            | ToDo items are classified into particular types and there is a 
+            a(href='../todo/bible_todo_list_disclaimer.html#key') ToDo Item Key
+            |  explaining the colour coding and letter symbols used
+            | for each ToDo item type.
+          p 
+            | I have sincerely tried to remain faithful at all times to the
+            | text of the Holy Bible and this has been a labour of love. 
+            | For example, the book of 
+            a(href='../kjv/ephesians_1.html') Ephesians
+            |  took me over a year to complete and
+            | I still have many other books and chapters of the Holy Bible 
+            | to study but the timing is entirely in God's hands.
+          p
+            | The ToDo items are also listed separately as full ToDo lists as follows:
+          ul
+            li
+              a(href='../todo/bible_todo_list_ultimate.html') Ultimate Bible ToDo List
+            li
+              a(href='../todo/bible_todo_list.html') Bible ToDo List (By Topic)
+            li
+              a(href='../todo/bible_todo_list_by_bible_book.html') Bible ToDo List (By Bible Book)
+            li
+              a(href='../todo/bible_todo_list_by_a_to_z.html') Bible ToDo List (By A-Z)
+          p
+            | To make finding ToDo items for topics easier there is a 
+            a(href='../todo/bible_todo_topics_index.html') Bible ToDo List Topic Index
+            |  listing topics alphabetically.
+          p 
+            strong Important Note: 
+            | Consideration of all ToDo items and ToDo lists presented on this website should respect the following 
+            a(href='../todo/bible_todo_list_disclaimer.html') disclaimer
+            | .
+  
+        .col-md-3.hidden-print
+          hr.featurette-divider.hidden-md.hidden-lg
+          .biblenavigation.hidden-print
+            h3#goto Navigate The Bible
+            h4 Go To Bible Reference
+            .versenavigation
+              form
+                label(for='vref') Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:
+                fieldset
+                  input#vref(type='text', maxlength='25', spellcheck='false')
+                  button#gotoverse.btn-sm.btn-primary(type='submit', onclick='GoToVerse(); return false') Go
+      // /row
+    // /container
+    footer.footer
+      .container.text-center
+        hr.featurette-divider
+        p
+          | Copyright © 2018 ToDoBible.org. All rights reserved. 
+          a(href='#')
+            small Top of page
+    script(type='text/javascript', src='../script/biblenav.js')
+    //
+      jQuery (necessary for Bootstrap's JavaScript plugins)
+      originally from: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+    script(src='../script/jquery-1.12.4.min.js')
+    // Include all compiled plugins (below), or include individual files as needed
+    script(src='../script/bootstrap.min.js')

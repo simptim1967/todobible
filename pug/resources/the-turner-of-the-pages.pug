@@ -1,0 +1,144 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    // The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags
+    meta(name='keywords', content='bible todo list, King James holy bible, words of Jesus, commandments of Jesus, bible index, bible to do items')
+    meta(name='description', content="ToDoBible.org resources.")
+    title Resources
+    // Bootstrap
+    link(href='../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../css/common_page.css', rel='stylesheet')
+    link(href='../css/resource_page.css', rel='stylesheet')
+  body(data-spy='scroll', data-target='#myScrollspy')
+    include ../includes/resource_page_menu.pug
+    include ../includes/resource_page_header.pug
+    //
+      Main content
+      ==================================================
+    .container
+      .row
+        .col-md-2.hidden-print.hidden-sm.hidden-xs
+          nav#myScrollspy
+            ul.nav.nav-pills.nav-stacked.affix-top(data-spy='affix', data-offset-top='170')
+              li.active
+                a(href='resources.html')
+                  b Resources
+              li
+                a(href='resources.html#articles') Articles
+              li
+                a(href='resources.html#kjv') King James Bible
+              li
+                a(href='resources.html#todo') Bible ToDo Lists
+        // Main content block
+        .col-md-7
+          h1 The Turner Of The Pages
+          hr.featurette-divider
+
+          h2 Introduction
+          p
+            | One Sunday I took the dogs for a walk. As per usual, I was praying as I was walking but I started to have
+            | thoughts and vivid imaginations about God. Those thoughts continued later that day and I felt compelled to 
+            | write them down. 
+          
+          h2 Thoughts inspired by the Holy Spirit
+          p
+            | What can I say about the turner of the pages? He wrote the whole book before time ever started. 
+            | All things in time are known to Him. He turns the pages and His master plan unfolds. He knows the end 
+            | already and He tells it from the beginning to those who will listen.
+          
+          p
+            | He exists outside of time. He is limitless in every dimension, dealing with numbers so infinitely large 
+            | that they defy imagination, yet He is effortlessly able and cares for each unique individual equally as 
+            | much amongst the innumerable. He is truly awesome.
+ 
+          p
+            | He is the turner of the pages. Each page births eternal beings, their mortal stories commencing, others 
+            | unfolding or ending. Whilst all is known to Him, He Himself desires to be known. He authors Himself an 
+            | offering of companionship to those of whom He writes. He is able to converse and participate in the journey. 
+            | He weaves the threads of mortal lives.
+ 
+          p
+            | To know Him is life. He is the author of it. His words are everlasting, words of truth and comfort, filled 
+            | with hope, dispensing joy.  Yet He is ignored, despised, even hated. So often He is left behind by those 
+            | in haste, heading to a place they know not where. But He knows. 
+ 
+          p
+            | False accusation is levelled at Him by those who do not know Him and those who hate Him. So often He is 
+            | blamed but He opens not His mouth. He sees all things. He knows friend from foe, right from wrong, good 
+            | from evil. Light and darkness are alike to Him but there is no darkness in Him at all. It was not Him who 
+            | came to kill, steal and destroy, nor Him who is named the father of lies.
+ 
+          p
+            | He is the defender of the poor, the fatherless, the widow and the stranger. He grasps the wind in His 
+            | fists and sends it where He wills. He sits above the circle of the earth looking down on men like ants.
+ 
+          p
+            | He is the turner of the pages. History unfolds at His command just as the seas obey His boundaries. He is 
+            | kind and gracious. His knowledge is sweet as honey. He paints in dimensions that declare Him: the invisible 
+            | attributes of the Creator, made visible for all to see. All things were made by Him, and for Him.
+ 
+          p
+            | He is the turner of the pages. No one can resist Him. He is all powerful yet gentle and meek. He is more ready 
+            | to forgive than to condemn. His arms are open to receive the lost, celebrating with a heavenly host each child 
+            | returning home. He has the first word and the last. He is the living Word that lives forever. No one can change 
+            | what He has written.  
+ 
+          p
+            | So many threads, unravelling side by side, yet each individual is precious in His sight. He paid the greatest 
+            | ransom that each might know Him, the author of their life, the turner of the pages of their destiny, known 
+            | intimately to Him before the foundations of the earth were ever set in place.
+ 
+          p
+            | If you listen, you can hear the pages turning. The blind have seen Him and the deaf have heard Him. The lost 
+            | have found themselves in Him. The whole earth groans for the awakening of His children. Now is not the time to 
+            | sleep but to wake up and arise from the dead to be with Him forever.
+ 
+          p
+            | Soon the final chapter will be reached, each page now turning faster than the last. The night is far spent. 
+            | And He waits, to greet each of those for whom the journey was not in vain. Those who saw the author, and chose 
+            | to walk with Him as a friend, collaborating in their life’s purpose which He penned.
+ 
+          p
+            | His tears are those of compassion. His arms are open to the needy. He is willing to embrace. Look up and see His face. 
+ 
+          p
+            | He is the turner of the pages, through the ages He has beckoned and soon all things will be reckoned but He
+            | already knows the end. He ever told it from the beginning. 
+ 
+          p
+            | Amen.
+
+          h2 Author
+          p
+            | Tim Simpson, February 2018
+  
+        .col-md-3.hidden-print
+          hr.featurette-divider.hidden-md.hidden-lg
+          .biblenavigation.hidden-print
+            h3#goto Navigate The Bible
+            h4 Go To Bible Reference
+            .versenavigation
+              form
+                label(for='vref') Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:
+                fieldset
+                  input#vref(type='text', maxlength='25', spellcheck='false')
+                  button#gotoverse.btn-sm.btn-primary(type='submit', onclick='GoToVerse(); return false') Go
+      // /row
+    // /container
+    footer.footer
+      .container.text-center
+        hr.featurette-divider
+        p
+          | Copyright © 2018 ToDoBible.org. All rights reserved. 
+          a(href='#')
+            small Top of page
+    script(type='text/javascript', src='../script/biblenav.js')
+    //
+      jQuery (necessary for Bootstrap's JavaScript plugins)
+      originally from: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+    script(src='../script/jquery-1.12.4.min.js')
+    // Include all compiled plugins (below), or include individual files as needed
+    script(src='../script/bootstrap.min.js')
