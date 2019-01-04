@@ -140,7 +140,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that the devil was cast out into the earth and his angels with him.", 
+{ "type": "F", "todoItem": "Know that the devil was cast out into the Earth and his angels with him.", 
   "bibleRefs": [
     { "linkText": "Revelation 12:9", "link": "revelation_12.html?goto=9" }
   ]
@@ -409,7 +409,7 @@
   ]
 }
 ,
-{ "type": "I", "todoItem": "Know that in Christ our sins have been forgiven through the ransom blood of Jesus.", 
+{ "type": "I", "todoItem": "Know that in Christ our sins (past, present and future) have been forgiven through the ransom blood of Jesus.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:7", "link": "ephesians_1.html?goto=7" }
   ]
@@ -421,7 +421,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that Jesus is the propitiation for you and the sins of the whole world.", 
+{ "type": "F", "todoItem": "Know that Jesus is the propitiation for our sins and and also for the sins of the whole world.", 
   "bibleRefs": [
     { "linkText": "1 John 2:2", "link": "1john_2.html?goto=2" }
   ]
@@ -521,19 +521,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that God has put all things under the feet of Jesus.", 
-  "bibleRefs": [
-    { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
-  ]
-}
-,
-{ "type": "F", "todoItem": "Know that God has set Jesus as head over all things to the church.", 
-  "bibleRefs": [
-    { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
-  ]
-}
-,
-{ "type": "C", "todoItem": "Know that God has set Jesus at His own right hand in heaven.", 
+{ "type": "F", "todoItem": "Know that God has set Jesus at His own right hand in heaven.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:20", "link": "ephesians_1.html?goto=20" }
   ]
@@ -545,7 +533,19 @@
   ]
 }
 ,
-{ "type": "C", "todoItem": "Know that Jesus has absolute authority over all things.", 
+{ "type": "F", "todoItem": "Know that God the Father has put all things in subjection to Jesus.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that God the Father has set Jesus as head over all things to the church.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
+  ]
+}
+,
+{ "type": "C", "todoItem": "Know that Jesus has absolute sovereignty and supreme authority over all things.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:20-22", "link": "ephesians_1.html?goto=20-22" }
   ]
@@ -557,13 +557,13 @@
   ]
 }
 ,
-{ "type": "C", "todoItem": "Know that Jesus is set far above every power and name in this world and that which is to come.", 
+{ "type": "C", "todoItem": "Know that Jesus is set far above every power and name that is named, not only in this world but also in that which is to come.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:20-21", "link": "ephesians_1.html?goto=20-21" }
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that just as the head commands the body, so Jesus commands the church.", 
+{ "type": "C", "todoItem": "Know that just as the head commands the body, so Jesus commands the church.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
   ]
@@ -1295,7 +1295,7 @@
 {
 "topic": "Blood Of Jesus",
 "topicId": "blood_of_jesus",
-"items": [{ "type": "I", "todoItem": "Know that in Christ our sins have been forgiven through the ransom blood of Jesus.", 
+"items": [{ "type": "I", "todoItem": "Know that in Christ our sins (past, present and future) have been forgiven through the ransom blood of Jesus.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:7", "link": "ephesians_1.html?goto=7" }
   ]
@@ -1341,7 +1341,13 @@
 {
 "topic": "Body Of Christ",
 "topicId": "body_of_christ",
-"items": [{ "type": "T", "todoItem": "Be kindly affectioned to one another with brotherly love.", 
+"items": [{ "type": "F", "todoItem": "Know that the church (His body) is the fulfilment of Jesus who completes every good work pre-ordained for every believer within the body of Christ.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:23", "link": "ephesians_1.html?goto=23" }
+  ]
+}
+,
+{ "type": "T", "todoItem": "Be kindly affectioned to one another with brotherly love.", 
   "bibleRefs": [
     { "linkText": "Romans 12:10", "link": "romans_12.html?goto=10" }
   ]
@@ -1455,12 +1461,6 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that God has set Jesus as head over all things to the church.", 
-  "bibleRefs": [
-    { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
-  ]
-}
-,
 { "type": "F", "todoItem": "Know that God is building a holy temple in which to dwell through the Holy Spirit using the saints as the individual building blocks.", 
   "bibleRefs": [
     { "linkText": "Ephesians 2:19-22", "link": "ephesians_2.html?goto=19-22" }
@@ -1470,6 +1470,12 @@
 { "type": "I", "todoItem": "Know that God is over all of us, works through all of us and is in all of us as believers.", 
   "bibleRefs": [
     { "linkText": "Ephesians 4:6", "link": "ephesians_4.html?goto=6" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that God the Father has set Jesus as head over all things to the church.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
   ]
 }
 ,
@@ -1557,7 +1563,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that just as the head commands the body, so Jesus commands the church.", 
+{ "type": "C", "todoItem": "Know that just as the head commands the body, so Jesus commands the church.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
   ]
@@ -1605,13 +1611,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that the church is the fulfilment of Jesus who provides everything for every individual within the body of Christ.", 
-  "bibleRefs": [
-    { "linkText": "Ephesians 1:23", "link": "ephesians_1.html?goto=23" }
-  ]
-}
-,
-{ "type": "F", "todoItem": "Know that the church is the living body of Jesus on earth.", 
+{ "type": "F", "todoItem": "Know that the church is the living embodiment of Jesus on Earth.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:22-23", "link": "ephesians_1.html?goto=22-23" }
   ]
@@ -1635,13 +1635,19 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that the risen Jesus ascended back to heaven so that He might complete all of the good works pre-ordained for those in Christ by working in and through His body the church.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 4:10", "link": "ephesians_4.html?goto=10" }
+  ]
+}
+,
 { "type": "F", "todoItem": "Know that the sacrifice of Jesus was so that He might sanctify His church, having cleansed it with the purifying power of God&rsquo;s Word, so that He might present His church to Himself as a glorious church that is holy and unblemished in His sight.", 
   "bibleRefs": [
     { "linkText": "Ephesians 5:25-27", "link": "ephesians_5.html?goto=25-27" }
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that the whole family in heaven and earth is named after Jesus Christ.", 
+{ "type": "F", "todoItem": "Know that the whole family in heaven and Earth is named after Jesus Christ.", 
   "bibleRefs": [
     { "linkText": "Ephesians 3:15", "link": "ephesians_3.html?goto=15" }
   ]
@@ -1743,7 +1749,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Pray that you may know and understand the riches of the glory of His inheritance (the Holy Spirit) in you and in the body of Christ.", 
+{ "type": "T", "todoItem": "Pray that you may know and understand the riches of the glory of His inheritance (the Holy Spirit) in you and in the body of Christ. [<a href=\"../kjv/1corinthians_12.html\">1 Corinthians 12</a>]", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:18", "link": "ephesians_1.html?goto=18" }
   ]
@@ -1817,7 +1823,13 @@
 {
 "topic": "Born Again",
 "topicId": "born_again",
-"items": [{ "type": "I", "todoItem": "Know that God has made you alive who were once spiritually dead in trespasses and sins.", 
+"items": [{ "type": "F", "todoItem": "Know that despite being chosen in Christ before the foundation of the world, believers are not born again until the exact time planned by God for them to hear the gospel of salvation.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:13", "link": "ephesians_1.html?goto=13" }
+  ]
+}
+,
+{ "type": "I", "todoItem": "Know that God has made you alive who were once spiritually dead in trespasses and sins.", 
   "bibleRefs": [
     { "linkText": "Ephesians 2:1", "link": "ephesians_2.html?goto=1" }
   ]
@@ -1838,6 +1850,12 @@
 { "type": "I", "todoItem": "Know that what we are now in Christ is in direct contrast to what we used to be when we were far from God.", 
   "bibleRefs": [
     { "linkText": "Ephesians 2:11-15", "link": "ephesians_2.html?goto=11-15" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that wisdom does not come automatically to believers at time of conversion.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
   ]
 }
 ,
@@ -1895,6 +1913,12 @@
   ]
 }
 ,
+{ "type": "I", "todoItem": "Know that our confident expectation of His calling is eternal life.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:18", "link": "ephesians_1.html?goto=18" }
+  ]
+}
+,
 { "type": "I", "todoItem": "Know that we are each called to our own vocation.", 
   "bibleRefs": [
     { "linkText": "Ephesians 4:1", "link": "ephesians_4.html?goto=1" }
@@ -1919,7 +1943,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Pray that your understanding may be enlightened to know the confident expectation of His calling upon your life.", 
+{ "type": "T", "todoItem": "Pray that your understanding may be enlightened to know the confident expectation of His calling.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:18", "link": "ephesians_1.html?goto=18" }
   ]
@@ -2137,12 +2161,6 @@
 { "type": "C", "todoItem": "Know that God has positioned His Son Jesus Christ at the centre of His plan for all eternity.", 
   "bibleRefs": [
     { "linkText": "Ephesians 3:11", "link": "ephesians_3.html?goto=11" }
-  ]
-}
-,
-{ "type": "C", "todoItem": "Know that God has set Jesus at His own right hand in heaven.", 
-  "bibleRefs": [
-    { "linkText": "Ephesians 1:20", "link": "ephesians_1.html?goto=20" }
   ]
 }
 ,
@@ -2380,7 +2398,7 @@
   ]
 }
 ,
-{ "type": "C", "todoItem": "Know that God may choose even the most unlikely people to fulfil His plan on the earth, including those who directly oppose Him.", 
+{ "type": "C", "todoItem": "Know that God may choose even the most unlikely people to fulfil His plan on the Earth, including those who directly oppose Him.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:1", "link": "ephesians_1.html?goto=1" }
   ]
@@ -2392,7 +2410,13 @@
   ]
 }
 ,
-{ "type": "C", "todoItem": "Know that God often involves people to fulfil His plan on the earth.", 
+{ "type": "C", "todoItem": "Know that God not only wants us to know about Him but also to know Him in person through a first-hand relationship with Him.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
+  ]
+}
+,
+{ "type": "C", "todoItem": "Know that God often involves people to fulfil His plan on the Earth.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:1", "link": "ephesians_1.html?goto=1" }
   ]
@@ -2455,6 +2479,12 @@
 { "type": "C", "todoItem": "Know that God tempts no man.", 
   "bibleRefs": [
     { "linkText": "James 1:13", "link": "james_1.html?goto=13" }
+  ]
+}
+,
+{ "type": "C", "todoItem": "Know that God the Father is the God of the Lord Jesus Christ.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:3", "link": "ephesians_1.html?goto=3" }
   ]
 }
 ,
@@ -2602,6 +2632,12 @@
   ]
 }
 ,
+{ "type": "C", "todoItem": "Know that Jesus can speak from heaven with an audible voice.", 
+  "bibleRefs": [
+    { "linkText": "Acts 9:4-7", "link": "acts_9.html?goto=4-7" }
+  ]
+}
+,
 { "type": "C", "todoItem": "Know that Jesus is Lord.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:2", "link": "ephesians_1.html?goto=2" }
@@ -2620,7 +2656,13 @@
   ]
 }
 ,
-{ "type": "C", "todoItem": "Know that Jesus is set far above every power and name in this world and that which is to come.", 
+{ "type": "C", "todoItem": "Know that Jesus is set at the right hand of God in heaven.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:20", "link": "ephesians_1.html?goto=20" }
+  ]
+}
+,
+{ "type": "C", "todoItem": "Know that Jesus is set far above every power and name that is named, not only in this world but also in that which is to come.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:20-21", "link": "ephesians_1.html?goto=20-21" }
   ]
@@ -2633,6 +2675,12 @@
   ]
 }
 ,
+{ "type": "C", "todoItem": "Know that Jesus relates to the suffering of His followers.", 
+  "bibleRefs": [
+    { "linkText": "Acts 9:4-5", "link": "acts_9.html?goto=4-5" }
+  ]
+}
+,
 { "type": "C", "todoItem": "Know that Jesus wants us to hear Him so that He can teach us the truth.", 
   "bibleRefs": [
     { "linkText": "Ephesians 4:21", "link": "ephesians_4.html?goto=21" }
@@ -2642,6 +2690,12 @@
 { "type": "C", "todoItem": "Know that Jesus was born to be Saviour.", 
   "bibleRefs": [
     { "linkText": "Matthew 1:21", "link": "matthew_1.html?goto=21" }
+  ]
+}
+,
+{ "type": "C", "todoItem": "Know that just as the head commands the body, so Jesus commands the church.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
   ]
 }
 ,
@@ -2829,7 +2883,7 @@
   ]
 }
 ,
-{ "type": "TR", "todoItem": "<span class=\"woc\">Call no man your father upon the earth.</span>", 
+{ "type": "TR", "todoItem": "<span class=\"woc\">Call no man your father upon the Earth.</span>", 
   "bibleRefs": [
     { "linkText": "Matthew 23:9", "link": "matthew_23.html?goto=9" }
   ]
@@ -2867,8 +2921,7 @@
 ,
 { "type": "F", "todoItem": "Know that God is our Father.", 
   "bibleRefs": [
-    { "linkText": "Galatians 1:4", "link": "galatians_1.html?goto=4" },
-    { "linkText": "Ephesians 1:2", "link": "ephesians_1.html?goto=2" }
+    { "linkText": "Galatians 1:4", "link": "galatians_1.html?goto=4" }
   ]
 }
 ,
@@ -2878,9 +2931,9 @@
   ]
 }
 ,
-{ "type": "I", "todoItem": "Know that in Christ we have become children and heirs of God.", 
+{ "type": "I", "todoItem": "Know that in Christ we have become children and heirs of God. [v5-11, <a href=\"../kjv/romans_8.html?goto=15-17\">Romans 8:15-17</a>]", 
   "bibleRefs": [
-    { "linkText": "Ephesians 1:5-11", "link": "ephesians_1.html?goto=5-11" }
+    { "linkText": "Ephesians 1:11", "link": "ephesians_1.html?goto=11" }
   ]
 }
 ,
@@ -2941,6 +2994,12 @@
 { "type": "F", "todoItem": "Know that those that believe in Jesus are the children of Abraham.", 
   "bibleRefs": [
     { "linkText": "Galatians 3:7", "link": "galatians_3.html?goto=7" }
+  ]
+}
+,
+{ "type": "I", "todoItem": "Know that we are children of God.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:2", "link": "ephesians_1.html?goto=2" }
   ]
 }
 ,
@@ -3057,7 +3116,7 @@
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that God will prosper and grant long life on the earth to those who honour their father and mother.", 
+{ "type": "P", "todoItem": "Know that God will prosper and grant long life on the Earth to those who honour their father and mother.", 
   "bibleRefs": [
     { "linkText": "Ephesians 6:2-3", "link": "ephesians_6.html?goto=2-3" }
   ]
@@ -3175,12 +3234,6 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that those not in Christ are not highly favoured or agreeable to God.", 
-  "bibleRefs": [
-    { "linkText": "Ephesians 1:6", "link": "ephesians_1.html?goto=6" }
-  ]
-}
-,
 { "type": "F", "todoItem": "Know that we were all once children of disobedience living to fulfil the desires of the flesh and of the mind.", 
   "bibleRefs": [
     { "linkText": "Ephesians 2:3", "link": "ephesians_2.html?goto=3" }
@@ -3193,7 +3246,7 @@
 "topicId": "chosen",
 "items": [{ "type": "I", "todoItem": "Know that it was by God&rsquo;s grace alone that we were chosen in Christ.", 
   "bibleRefs": [
-    { "linkText": "Ephesians 1:4-6", "link": "ephesians_1.html?goto=4-6" }
+    { "linkText": "Ephesians 1:4", "link": "ephesians_1.html?goto=4" }
   ]
 }
 ,
@@ -3212,6 +3265,12 @@
 { "type": "F", "todoItem": "Know that Paul was chosen by God to be sent out with authority as an ambassador of Jesus Christ.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:1", "link": "ephesians_1.html?goto=1" }
+  ]
+}
+,
+{ "type": "I", "todoItem": "Know that we did not choose God. He chose us.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:4", "link": "ephesians_1.html?goto=4" }
   ]
 }
 ,
@@ -3277,7 +3336,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Know that those who know God keep His commandments.", 
+{ "type": "F", "todoItem": "Know that those who know God keep His commandments.", 
   "bibleRefs": [
     { "linkText": "1 John 2:3", "link": "1john_2.html?goto=3" }
   ]
@@ -3637,7 +3696,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that God made the heavens and the earth.", 
+{ "type": "F", "todoItem": "Know that God made the heavens and the Earth.", 
   "bibleRefs": [
     { "linkText": "Genesis 1:1", "link": "genesis_1.html?goto=1" }
   ]
@@ -3659,7 +3718,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that God made the heavens and the earth.", 
+{ "type": "F", "todoItem": "Know that God made the heavens and the Earth.", 
   "bibleRefs": [
     { "linkText": "Genesis 1:1", "link": "genesis_1.html?goto=1" }
   ]
@@ -3870,6 +3929,12 @@
 { "type": "F", "todoItem": "Know that Jesus came to bring the dead back to life.", 
   "bibleRefs": [
     { "linkText": "Ephesians 2:1-5", "link": "ephesians_2.html?goto=1-5" }
+  ]
+}
+,
+{ "type": "I", "todoItem": "Know that the dead in Christ are in heaven.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:10", "link": "ephesians_1.html?goto=10" }
   ]
 }
 ,
@@ -4297,7 +4362,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that the devil was cast out into the earth and his angels with him.", 
+{ "type": "F", "todoItem": "Know that the devil was cast out into the Earth and his angels with him.", 
   "bibleRefs": [
     { "linkText": "Revelation 12:9", "link": "revelation_12.html?goto=9" }
   ]
@@ -4361,7 +4426,7 @@
   ]
 }
 ,
-{ "type": "TR", "todoItem": "<span class=\"woc\">Be the salt of the earth.</span>", 
+{ "type": "TR", "todoItem": "<span class=\"woc\">Be the salt of the Earth.</span>", 
   "bibleRefs": [
     { "linkText": "Matthew 5:13", "link": "matthew_5.html?goto=13" }
   ]
@@ -4574,7 +4639,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Stop listening to instruction that cause you to err from the words of knowledge.", 
+{ "type": "T", "todoItem": "Stop listening to instruction that causes you to err from the words of knowledge.", 
   "bibleRefs": [
     { "linkText": "Proverbs 19:27", "link": "proverbs_19.html?goto=27" }
   ]
@@ -4680,13 +4745,13 @@
 {
 "topic": "Earth, The",
 "topicId": "earth_the",
-"items": [{ "type": "F", "todoItem": "Know that God made the heavens and the earth.", 
+"items": [{ "type": "F", "todoItem": "Know that God made the heavens and the Earth.", 
   "bibleRefs": [
     { "linkText": "Genesis 1:1", "link": "genesis_1.html?goto=1" }
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that the earth and everything in it belong to the Lord.", 
+{ "type": "F", "todoItem": "Know that the Earth and everything in it belong to the Lord.", 
   "bibleRefs": [
     { "linkText": "Psalms 24:1", "link": "psalms_24.html?goto=1" }
   ]
@@ -4704,13 +4769,19 @@
 ,
 { "type": "I", "todoItem": "Know that it was by God&rsquo;s grace alone that we were chosen in Christ.", 
   "bibleRefs": [
-    { "linkText": "Ephesians 1:4-6", "link": "ephesians_1.html?goto=4-6" }
+    { "linkText": "Ephesians 1:4", "link": "ephesians_1.html?goto=4" }
   ]
 }
 ,
 { "type": "F", "todoItem": "Know that the Lord knows those who are His.", 
   "bibleRefs": [
     { "linkText": "2 Timothy 2:19", "link": "2timothy_2.html?goto=19" }
+  ]
+}
+,
+{ "type": "I", "todoItem": "Know that we did not choose God. He chose us.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:4", "link": "ephesians_1.html?goto=4" }
   ]
 }
 ,
@@ -4870,15 +4941,15 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that Jesus is alive.", 
-  "bibleRefs": [
-    { "linkText": "Ephesians 1:20", "link": "ephesians_1.html?goto=20" }
-  ]
-}
-,
 { "type": "F", "todoItem": "Know that Jesus is eternal.", 
   "bibleRefs": [
     { "linkText": "1 John 1:2", "link": "1john_1.html?goto=2" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that Jesus, who once was dead, is alive.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:20", "link": "ephesians_1.html?goto=20" }
   ]
 }
 ,
@@ -5934,7 +6005,7 @@
   ]
 }
 ,
-{ "type": "TR", "todoItem": "<span class=\"woc\">Forgive others so that your heavenly Father will forgive you.</span>", 
+{ "type": "TR", "todoItem": "<span class=\"woc\">Forgive others.</span>", 
   "bibleRefs": [
     { "linkText": "Matthew 6:14", "link": "matthew_6.html?goto=14" }
   ]
@@ -5988,7 +6059,7 @@
   ]
 }
 ,
-{ "type": "I", "todoItem": "Know that in Christ our sins have been forgiven through the ransom blood of Jesus.", 
+{ "type": "I", "todoItem": "Know that in Christ our sins (past, present and future) have been forgiven through the ransom blood of Jesus.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:7", "link": "ephesians_1.html?goto=7" }
   ]
@@ -6847,7 +6918,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that God made the heavens and the earth.", 
+{ "type": "F", "todoItem": "Know that God made the heavens and the Earth.", 
   "bibleRefs": [
     { "linkText": "Genesis 1:1", "link": "genesis_1.html?goto=1" }
   ]
@@ -6856,6 +6927,30 @@
 { "type": "F", "todoItem": "Know that God stated that the Messiah would be His Son.", 
   "bibleRefs": [
     { "linkText": "2 Samuel 7:14", "link": "2samuel_7.html?goto=14" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that God the Father has exalted the Son far above every name.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:20-21", "link": "ephesians_1.html?goto=20-21" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that God the Father has put all things in subjection to Jesus.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that God the Father has set Jesus as head over all things to the church.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
+  ]
+}
+,
+{ "type": "C", "todoItem": "Know that God the Father is the God of the Lord Jesus Christ.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:3", "link": "ephesians_1.html?goto=3" }
   ]
 }
 ,
@@ -7005,7 +7100,13 @@
 {
 "topic": "Good Works",
 "topicId": "good_works",
-"items": [{ "type": "T", "todoItem": "Bring forth fruit unto God.", 
+"items": [{ "type": "F", "todoItem": "Know that the church (His body) is the fulfilment of Jesus who completes every good work pre-ordained for every believer within the body of Christ.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:23", "link": "ephesians_1.html?goto=23" }
+  ]
+}
+,
+{ "type": "T", "todoItem": "Bring forth fruit unto God.", 
   "bibleRefs": [
     { "linkText": "Romans 7:4", "link": "romans_7.html?goto=4" }
   ]
@@ -7086,6 +7187,12 @@
 { "type": "C", "todoItem": "Know that the Lord rewards all good works.", 
   "bibleRefs": [
     { "linkText": "Ephesians 6:8", "link": "ephesians_6.html?goto=8" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that the risen Jesus ascended back to heaven so that He might complete all of the good works pre-ordained for those in Christ by working in and through His body the church.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 4:10", "link": "ephesians_4.html?goto=10" }
   ]
 }
 ,
@@ -7223,6 +7330,12 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that despite being chosen in Christ before the foundation of the world, believers are not born again until the exact time planned by God for them to hear the gospel of salvation.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:13", "link": "ephesians_1.html?goto=13" }
+  ]
+}
+,
 { "type": "F", "todoItem": "Know that it was God&rsquo;s continual gift of grace that Paul said enabled him to minister the gospel with miraculous power to the Gentiles.", 
   "bibleRefs": [
     { "linkText": "Ephesians 3:7", "link": "ephesians_3.html?goto=7" }
@@ -7253,7 +7366,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that the Word of Truth is the good news of salvation.", 
+{ "type": "F", "todoItem": "Know that the Word of Truth (Jesus) is the good news of salvation.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:13", "link": "ephesians_1.html?goto=13" }
   ]
@@ -7439,7 +7552,13 @@
 ,
 { "type": "I", "todoItem": "Know that it was by God&rsquo;s grace alone that we were chosen in Christ.", 
   "bibleRefs": [
-    { "linkText": "Ephesians 1:4-6", "link": "ephesians_1.html?goto=4-6" }
+    { "linkText": "Ephesians 1:4", "link": "ephesians_1.html?goto=4" }
+  ]
+}
+,
+{ "type": "I", "todoItem": "Know that it was God alone that made us accepted in Christ and not through any works that we performed as we hadn&rsquo;t even been born when God decided!", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:6", "link": "ephesians_1.html?goto=6" }
   ]
 }
 ,
@@ -7509,7 +7628,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that when Jesus ascended up on high he led captivity captive and gave gifts to men.", 
+{ "type": "F", "todoItem": "Know that when the risen Jesus ascended up on high he led captivity captive and gave gifts to men.", 
   "bibleRefs": [
     { "linkText": "Ephesians 4:8", "link": "ephesians_4.html?goto=8" }
   ]
@@ -7735,7 +7854,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Stop listening to instruction that cause you to err from the words of knowledge.", 
+{ "type": "T", "todoItem": "Stop listening to instruction that causes you to err from the words of knowledge.", 
   "bibleRefs": [
     { "linkText": "Proverbs 19:27", "link": "proverbs_19.html?goto=27" }
   ]
@@ -7791,7 +7910,7 @@
   ]
 }
 ,
-{ "type": "C", "todoItem": "Know that God has set Jesus at His own right hand in heaven.", 
+{ "type": "F", "todoItem": "Know that God has set Jesus at His own right hand in heaven.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:20", "link": "ephesians_1.html?goto=20" }
   ]
@@ -7800,6 +7919,12 @@
 { "type": "I", "todoItem": "Know that in Christ, we have been blessed with every spiritual blessing in heaven.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:3", "link": "ephesians_1.html?goto=3" }
+  ]
+}
+,
+{ "type": "C", "todoItem": "Know that Jesus is set at the right hand of God in heaven.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:20", "link": "ephesians_1.html?goto=20" }
   ]
 }
 ,
@@ -7812,6 +7937,12 @@
 { "type": "PR", "todoItem": "<span class=\"woc\">Know that only those that do the will of the Father will enter the kingdom of heaven.</span>", 
   "bibleRefs": [
     { "linkText": "Matthew 7:21", "link": "matthew_7.html?goto=21" }
+  ]
+}
+,
+{ "type": "I", "todoItem": "Know that the dead in Christ are in heaven.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:10", "link": "ephesians_1.html?goto=10" }
   ]
 }
 ,
@@ -8205,7 +8336,7 @@
   ]
 }
 ,
-{ "type": "I", "todoItem": "Know that the Holy Spirit is the down payment (pledge) of our inheritance until the redemption of our earthly body.", 
+{ "type": "I", "todoItem": "Know that the Holy Spirit is the down payment (pledge) of our inheritance until we go to be with the Lord.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:13-14", "link": "ephesians_1.html?goto=13-14" }
   ]
@@ -8550,7 +8681,7 @@
   ]
 }
 ,
-{ "type": "P", "todoItem": "Honour thy father and thy mother that thy days may be long upon the earth.", 
+{ "type": "P", "todoItem": "Honour thy father and thy mother that thy days may be long upon the Earth.", 
   "bibleRefs": [
     { "linkText": "Exodus 20:12", "link": "exodus_20.html?goto=12" }
   ]
@@ -8575,7 +8706,7 @@
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that God will prosper and grant long life on the earth to those who honour their father and mother.", 
+{ "type": "P", "todoItem": "Know that God will prosper and grant long life on the Earth to those who honour their father and mother.", 
   "bibleRefs": [
     { "linkText": "Ephesians 6:2-3", "link": "ephesians_6.html?goto=2-3" }
   ]
@@ -8669,13 +8800,19 @@
   ]
 }
 ,
+{ "type": "I", "todoItem": "Know that our confident expectation of His calling is eternal life.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:18", "link": "ephesians_1.html?goto=18" }
+  ]
+}
+,
 { "type": "P", "todoItem": "Know that the resurrection of Jesus from the dead gives us a living hope.", 
   "bibleRefs": [
     { "linkText": "1 Peter 1:3", "link": "1peter_1.html?goto=3" }
   ]
 }
 ,
-{ "type": "T", "todoItem": "Pray that your understanding may be enlightened to know the confident expectation of His calling upon your life.", 
+{ "type": "T", "todoItem": "Pray that your understanding may be enlightened to know the confident expectation of His calling.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:18", "link": "ephesians_1.html?goto=18" }
   ]
@@ -9103,7 +9240,7 @@
   ]
 }
 ,
-{ "type": "I", "todoItem": "Know that in Christ our sins have been forgiven through the ransom blood of Jesus.", 
+{ "type": "I", "todoItem": "Know that in Christ our sins (past, present and future) have been forgiven through the ransom blood of Jesus.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:7", "link": "ephesians_1.html?goto=7" }
   ]
@@ -9121,9 +9258,9 @@
   ]
 }
 ,
-{ "type": "I", "todoItem": "Know that in Christ we have become children and heirs of God.", 
+{ "type": "I", "todoItem": "Know that in Christ we have become children and heirs of God. [v5-11, <a href=\"../kjv/romans_8.html?goto=15-17\">Romans 8:15-17</a>]", 
   "bibleRefs": [
-    { "linkText": "Ephesians 1:5-11", "link": "ephesians_1.html?goto=5-11" }
+    { "linkText": "Ephesians 1:11", "link": "ephesians_1.html?goto=11" }
   ]
 }
 ,
@@ -9195,7 +9332,13 @@
 ,
 { "type": "I", "todoItem": "Know that it was by God&rsquo;s grace alone that we were chosen in Christ.", 
   "bibleRefs": [
-    { "linkText": "Ephesians 1:4-6", "link": "ephesians_1.html?goto=4-6" }
+    { "linkText": "Ephesians 1:4", "link": "ephesians_1.html?goto=4" }
+  ]
+}
+,
+{ "type": "I", "todoItem": "Know that it was God alone that made us accepted in Christ and not through any works that we performed as we hadn&rsquo;t even been born when God decided!", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:6", "link": "ephesians_1.html?goto=6" }
   ]
 }
 ,
@@ -9214,6 +9357,12 @@
 { "type": "I", "todoItem": "Know that Jesus has reconciled both Jews and Gentiles to God in His body by the cross.", 
   "bibleRefs": [
     { "linkText": "Ephesians 2:16", "link": "ephesians_2.html?goto=16" }
+  ]
+}
+,
+{ "type": "I", "todoItem": "Know that Jesus is our Lord and Saviour.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:3", "link": "ephesians_1.html?goto=3" }
   ]
 }
 ,
@@ -9247,6 +9396,12 @@
   ]
 }
 ,
+{ "type": "I", "todoItem": "Know that our confident expectation of His calling is eternal life.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:18", "link": "ephesians_1.html?goto=18" }
+  ]
+}
+,
 { "type": "I", "todoItem": "Know that our faith has brought us into Christ Jesus.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:1", "link": "ephesians_1.html?goto=1" }
@@ -9256,12 +9411,6 @@
 { "type": "I", "todoItem": "Know that our faith in Christ gives us boldness and direct access to the Father who we may approach at any time with confidence.", 
   "bibleRefs": [
     { "linkText": "Ephesians 3:12", "link": "ephesians_3.html?goto=12" }
-  ]
-}
-,
-{ "type": "I", "todoItem": "Know that our God not only wants us to know about Him but also to know Him in person through a first-hand relationship with Him.", 
-  "bibleRefs": [
-    { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
   ]
 }
 ,
@@ -9313,6 +9462,12 @@
   ]
 }
 ,
+{ "type": "I", "todoItem": "Know that the dead in Christ are in heaven.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:10", "link": "ephesians_1.html?goto=10" }
+  ]
+}
+,
 { "type": "I", "todoItem": "Know that the Holy Spirit bears witness to your spirit that you are a child of God.", 
   "bibleRefs": [
     { "linkText": "Romans 8:16", "link": "romans_8.html?goto=16" }
@@ -9337,7 +9492,7 @@
   ]
 }
 ,
-{ "type": "I", "todoItem": "Know that the Holy Spirit is the down payment (pledge) of our inheritance until the redemption of our earthly body.", 
+{ "type": "I", "todoItem": "Know that the Holy Spirit is the down payment (pledge) of our inheritance until we go to be with the Lord.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:13-14", "link": "ephesians_1.html?goto=13-14" }
   ]
@@ -9403,6 +9558,12 @@
   ]
 }
 ,
+{ "type": "I", "todoItem": "Know that we are children of God.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:2", "link": "ephesians_1.html?goto=2" }
+  ]
+}
+,
 { "type": "I", "todoItem": "Know that we are citizens of heaven.", 
   "bibleRefs": [
     { "linkText": "Philippians 3:20", "link": "philippians_3.html?goto=20" }
@@ -9442,6 +9603,12 @@
 { "type": "I", "todoItem": "Know that we are to no longer live in sin.", 
   "bibleRefs": [
     { "linkText": "Romans 6:2", "link": "romans_6.html?goto=2" }
+  ]
+}
+,
+{ "type": "I", "todoItem": "Know that we did not choose God. He chose us.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:4", "link": "ephesians_1.html?goto=4" }
   ]
 }
 ,
@@ -9852,9 +10019,9 @@
   ]
 }
 ,
-{ "type": "I", "todoItem": "Know that in Christ we have become children and heirs of God.", 
+{ "type": "I", "todoItem": "Know that in Christ we have become children and heirs of God. [v5-11, <a href=\"../kjv/romans_8.html?goto=15-17\">Romans 8:15-17</a>]", 
   "bibleRefs": [
-    { "linkText": "Ephesians 1:5-11", "link": "ephesians_1.html?goto=5-11" }
+    { "linkText": "Ephesians 1:11", "link": "ephesians_1.html?goto=11" }
   ]
 }
 ,
@@ -9864,7 +10031,7 @@
   ]
 }
 ,
-{ "type": "I", "todoItem": "Know that the Holy Spirit is the down payment (pledge) of our inheritance until the redemption of our earthly body.", 
+{ "type": "I", "todoItem": "Know that the Holy Spirit is the down payment (pledge) of our inheritance until we go to be with the Lord.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:13-14", "link": "ephesians_1.html?goto=13-14" }
   ]
@@ -9900,7 +10067,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Pray that you may know and understand the riches of the glory of His inheritance (the Holy Spirit) in you and in the body of Christ.", 
+{ "type": "T", "todoItem": "Pray that you may know and understand the riches of the glory of His inheritance (the Holy Spirit) in you and in the body of Christ. [<a href=\"../kjv/1corinthians_12.html\">1 Corinthians 12</a>]", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:18", "link": "ephesians_1.html?goto=18" }
   ]
@@ -9952,7 +10119,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Stop listening to instruction that cause you to err from the words of knowledge.", 
+{ "type": "T", "todoItem": "Stop listening to instruction that causes you to err from the words of knowledge.", 
   "bibleRefs": [
     { "linkText": "Proverbs 19:27", "link": "proverbs_19.html?goto=27" }
   ]
@@ -10452,6 +10619,12 @@
   ]
 }
 ,
+{ "type": "C", "todoItem": "Know that God not only wants us to know about Him but also to know Him in person through a first-hand relationship with Him.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
+  ]
+}
+,
 { "type": "C", "todoItem": "Know that God shares knowledge of His master plan by revelation.", 
   "bibleRefs": [
     { "linkText": "Ephesians 3:3", "link": "ephesians_3.html?goto=3" }
@@ -10461,12 +10634,6 @@
 { "type": "F", "todoItem": "Know that it is not good to lack knowledge.", 
   "bibleRefs": [
     { "linkText": "Proverbs 19:2", "link": "proverbs_19.html?goto=2" }
-  ]
-}
-,
-{ "type": "I", "todoItem": "Know that our God not only wants us to know about Him but also to know Him in person through a first-hand relationship with Him.", 
-  "bibleRefs": [
-    { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
   ]
 }
 ,
@@ -10512,7 +10679,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Pray that God would give you the spirit of wisdom and revelation in the experiential knowledge of His character and will.", 
+{ "type": "T", "todoItem": "Pray that God may give you the spirit of wisdom and revelation in the experiential knowledge of His character and will.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
   ]
@@ -10536,7 +10703,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Stop listening to instruction that cause you to err from the words of knowledge.", 
+{ "type": "T", "todoItem": "Stop listening to instruction that causes you to err from the words of knowledge.", 
   "bibleRefs": [
     { "linkText": "Proverbs 19:27", "link": "proverbs_19.html?goto=27" }
   ]
@@ -10902,13 +11069,13 @@
 {
 "topic": "Longevity Of Life",
 "topicId": "longevity_of_life",
-"items": [{ "type": "P", "todoItem": "Honour thy father and thy mother that thy days may be long upon the earth.", 
+"items": [{ "type": "P", "todoItem": "Honour thy father and thy mother that thy days may be long upon the Earth.", 
   "bibleRefs": [
     { "linkText": "Exodus 20:12", "link": "exodus_20.html?goto=12" }
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that God will prosper and grant long life on the earth to those who honour their father and mother.", 
+{ "type": "P", "todoItem": "Know that God will prosper and grant long life on the Earth to those who honour their father and mother.", 
   "bibleRefs": [
     { "linkText": "Ephesians 6:2-3", "link": "ephesians_6.html?goto=2-3" }
   ]
@@ -11630,19 +11797,25 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that God the Father has exalted the Son far above every name.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:20-21", "link": "ephesians_1.html?goto=20-21" }
+  ]
+}
+,
 { "type": "F", "todoItem": "Know that Jesus has a more excellent name than the angels.", 
   "bibleRefs": [
     { "linkText": "Hebrews 1:4", "link": "hebrews_1.html?goto=4" }
   ]
 }
 ,
-{ "type": "C", "todoItem": "Know that Jesus is set far above every power and name in this world and that which is to come.", 
+{ "type": "C", "todoItem": "Know that Jesus is set far above every power and name that is named, not only in this world but also in that which is to come.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:20-21", "link": "ephesians_1.html?goto=20-21" }
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that the whole family in heaven and earth is named after Jesus Christ.", 
+{ "type": "F", "todoItem": "Know that the whole family in heaven and Earth is named after Jesus Christ.", 
   "bibleRefs": [
     { "linkText": "Ephesians 3:15", "link": "ephesians_3.html?goto=15" }
   ]
@@ -11786,7 +11959,7 @@
   ]
 }
 ,
-{ "type": "TR", "todoItem": "<span class=\"woc\">Establish God&rsquo;s kingdom and will in the earth.</span>", 
+{ "type": "TR", "todoItem": "<span class=\"woc\">Establish God&rsquo;s kingdom and will in the Earth.</span>", 
   "bibleRefs": [
     { "linkText": "Matthew 6:10", "link": "matthew_6.html?goto=10" }
   ]
@@ -11864,7 +12037,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Know that those who know God keep His commandments.", 
+{ "type": "F", "todoItem": "Know that those who know God keep His commandments.", 
   "bibleRefs": [
     { "linkText": "1 John 2:3", "link": "1john_2.html?goto=3" }
   ]
@@ -12428,6 +12601,18 @@
   ]
 }
 ,
+{ "type": "C", "todoItem": "Know that Jesus relates to the suffering of His followers.", 
+  "bibleRefs": [
+    { "linkText": "Acts 9:4-5", "link": "acts_9.html?goto=4-5" }
+  ]
+}
+,
+{ "type": "FR", "todoItem": "<span class=\"woc\">Know that to persecute the followers of Jesus is to persecute Jesus Himself.</span>", 
+  "bibleRefs": [
+    { "linkText": "Acts 9:4-5", "link": "acts_9.html?goto=4-5" }
+  ]
+}
+,
 { "type": "TR", "todoItem": "<span class=\"woc\">Pray for them which despitefully use you and persecute you.</span>", 
   "bibleRefs": [
     { "linkText": "Matthew 5:44", "link": "matthew_5.html?goto=44" }
@@ -12634,13 +12819,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that God has put all things under the feet of Jesus.", 
-  "bibleRefs": [
-    { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
-  ]
-}
-,
-{ "type": "C", "todoItem": "Know that God has set Jesus at His own right hand in heaven.", 
+{ "type": "F", "todoItem": "Know that God has set Jesus at His own right hand in heaven.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:20", "link": "ephesians_1.html?goto=20" }
   ]
@@ -12655,6 +12834,12 @@
 { "type": "F", "todoItem": "Know that God raised Jesus from the dead.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:20", "link": "ephesians_1.html?goto=20" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that God the Father has put all things in subjection to Jesus.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
   ]
 }
 ,
@@ -13050,7 +13235,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Pray that God would give you the spirit of wisdom and revelation in the experiential knowledge of His character and will.", 
+{ "type": "T", "todoItem": "Pray that God may give you the spirit of wisdom and revelation in the experiential knowledge of His character and will.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
   ]
@@ -13074,13 +13259,13 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Pray that you may know and understand the riches of the glory of His inheritance (the Holy Spirit) in you and in the body of Christ.", 
+{ "type": "T", "todoItem": "Pray that you may know and understand the riches of the glory of His inheritance (the Holy Spirit) in you and in the body of Christ. [<a href=\"../kjv/1corinthians_12.html\">1 Corinthians 12</a>]", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:18", "link": "ephesians_1.html?goto=18" }
   ]
 }
 ,
-{ "type": "T", "todoItem": "Pray that your understanding may be enlightened to know the confident expectation of His calling upon your life.", 
+{ "type": "T", "todoItem": "Pray that your understanding may be enlightened to know the confident expectation of His calling.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:18", "link": "ephesians_1.html?goto=18" }
   ]
@@ -13334,6 +13519,12 @@
   ]
 }
 ,
+{ "type": "T", "todoItem": "Earnestly seek after wisdom.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
+  ]
+}
+,
 { "type": "F", "todoItem": "Know that wisdom is the most important thing.", 
   "bibleRefs": [
     { "linkText": "Proverbs 4:7", "link": "proverbs_4.html?goto=7" }
@@ -13461,7 +13652,7 @@
 {
 "topic": "Prosperity",
 "topicId": "prosperity",
-"items": [{ "type": "P", "todoItem": "Know that God will prosper and grant long life on the earth to those who honour their father and mother.", 
+"items": [{ "type": "P", "todoItem": "Know that God will prosper and grant long life on the Earth to those who honour their father and mother.", 
   "bibleRefs": [
     { "linkText": "Ephesians 6:2-3", "link": "ephesians_6.html?goto=2-3" }
   ]
@@ -13587,7 +13778,7 @@
 {
 "topic": "Rapture, The",
 "topicId": "rapture_the",
-"items": [{ "type": "P", "todoItem": "Know that at the appropriate moment in time (The Rapture), God will gather together all things which are in Christ, both from in heaven and on earth. [<a href=\"../kjv/1thessalonians_4.html?goto=16-17\">1 Thessalonians 4:16-17</a>]", 
+"items": [{ "type": "F", "todoItem": "Know that at the appropriate moment in time (The Rapture), God will gather together all things which are in Christ, both from in heaven and on Earth. [<a href=\"../kjv/1thessalonians_4.html?goto=16-17\">1 Thessalonians 4:16-17</a>]", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:10", "link": "ephesians_1.html?goto=10" }
   ]
@@ -13679,9 +13870,15 @@
   ]
 }
 ,
-{ "type": "I", "todoItem": "Know that the Holy Spirit is the down payment (pledge) of our inheritance until the redemption of our earthly body.", 
+{ "type": "I", "todoItem": "Know that the Holy Spirit is the down payment (pledge) of our inheritance until we go to be with the Lord.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:13-14", "link": "ephesians_1.html?goto=13-14" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that we are not able to redeem ourselves.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:7", "link": "ephesians_1.html?goto=7" }
   ]
 }
 ,
@@ -13711,9 +13908,15 @@
 {
 "topic": "Relationship",
 "topicId": "relationship",
-"items": [{ "type": "I", "todoItem": "Know that our God not only wants us to know about Him but also to know Him in person through a first-hand relationship with Him.", 
+"items": [{ "type": "C", "todoItem": "Know that God not only wants us to know about Him but also to know Him in person through a first-hand relationship with Him.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
+  ]
+}
+,
+{ "type": "C", "todoItem": "Know that God wants to be Father to us.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:5", "link": "ephesians_1.html?goto=5" }
   ]
 }
 ,
@@ -13723,7 +13926,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Pray that God would give you the spirit of wisdom and revelation in the experiential knowledge of His character and will.", 
+{ "type": "T", "todoItem": "Pray that God may give you the spirit of wisdom and revelation in the experiential knowledge of His character and will.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
   ]
@@ -13820,15 +14023,15 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that Jesus is alive.", 
-  "bibleRefs": [
-    { "linkText": "Ephesians 1:20", "link": "ephesians_1.html?goto=20" }
-  ]
-}
-,
 { "type": "F", "todoItem": "Know that Jesus was raised up from the dead by the glory of the Father.", 
   "bibleRefs": [
     { "linkText": "Romans 6:4", "link": "romans_6.html?goto=4" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that Jesus, who once was dead, is alive.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:20", "link": "ephesians_1.html?goto=20" }
   ]
 }
 ,
@@ -13853,6 +14056,12 @@
 { "type": "F", "todoItem": "Know that we were raised with Christ from the dead to walk in newness of life.", 
   "bibleRefs": [
     { "linkText": "Romans 6:5", "link": "romans_6.html?goto=5" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that when the risen Jesus ascended up on high he led captivity captive and gave gifts to men.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 4:8", "link": "ephesians_4.html?goto=8" }
   ]
 }
 ,
@@ -13908,6 +14117,12 @@
   ]
 }
 ,
+{ "type": "C", "todoItem": "Know that God not only wants us to know about Him but also to know Him in person through a first-hand relationship with Him.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
+  ]
+}
+,
 { "type": "C", "todoItem": "Know that God shares knowledge of His master plan by revelation.", 
   "bibleRefs": [
     { "linkText": "Ephesians 3:3", "link": "ephesians_3.html?goto=3" }
@@ -13917,12 +14132,6 @@
 { "type": "C", "todoItem": "Know that God speaks to us to offer us advice and give us revelation.", 
   "bibleRefs": [
     { "linkText": "Matthew 1:20", "link": "matthew_1.html?goto=20" }
-  ]
-}
-,
-{ "type": "I", "todoItem": "Know that our God not only wants us to know about Him but also to know Him in person through a first-hand relationship with Him.", 
-  "bibleRefs": [
-    { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
   ]
 }
 ,
@@ -13938,7 +14147,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Pray that God would give you the spirit of wisdom and revelation in the experiential knowledge of His character and will.", 
+{ "type": "T", "todoItem": "Pray that God may give you the spirit of wisdom and revelation in the experiential knowledge of His character and will.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
   ]
@@ -14308,6 +14517,12 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that despite being chosen in Christ before the foundation of the world, believers are not born again until the exact time planned by God for them to hear the gospel of salvation.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:13", "link": "ephesians_1.html?goto=13" }
+  ]
+}
+,
 { "type": "I", "todoItem": "Know that God has redeeemed you from the hand of the enemy.", 
   "bibleRefs": [
     { "linkText": "Psalms 107:2", "link": "psalms_107.html?goto=2" }
@@ -14326,7 +14541,7 @@
   ]
 }
 ,
-{ "type": "I", "todoItem": "Know that in Christ our sins have been forgiven through the ransom blood of Jesus.", 
+{ "type": "I", "todoItem": "Know that in Christ our sins (past, present and future) have been forgiven through the ransom blood of Jesus.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:7", "link": "ephesians_1.html?goto=7" }
   ]
@@ -14341,6 +14556,12 @@
 { "type": "T", "todoItem": "Know that Jesus gave Himself for our sins.", 
   "bibleRefs": [
     { "linkText": "Galatians 1:4", "link": "galatians_1.html?goto=4" }
+  ]
+}
+,
+{ "type": "I", "todoItem": "Know that Jesus is our Lord and Saviour.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:3", "link": "ephesians_1.html?goto=3" }
   ]
 }
 ,
@@ -14416,7 +14637,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that the Word of Truth is the good news of salvation.", 
+{ "type": "F", "todoItem": "Know that the Word of Truth (Jesus) is the good news of salvation.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:13", "link": "ephesians_1.html?goto=13" }
   ]
@@ -14606,7 +14827,7 @@
   ]
 }
 ,
-{ "type": "I", "todoItem": "Know that the Holy Spirit is the down payment (pledge) of our inheritance until the redemption of our earthly body.", 
+{ "type": "I", "todoItem": "Know that the Holy Spirit is the down payment (pledge) of our inheritance until we go to be with the Lord.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:13-14", "link": "ephesians_1.html?goto=13-14" }
   ]
@@ -14948,7 +15169,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that Jesus is the propitiation for you and the sins of the whole world.", 
+{ "type": "F", "todoItem": "Know that Jesus is the propitiation for our sins and and also for the sins of the whole world.", 
   "bibleRefs": [
     { "linkText": "1 John 2:2", "link": "1john_2.html?goto=2" }
   ]
@@ -15226,6 +15447,24 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that God the Father has exalted the Son far above every name.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:20-21", "link": "ephesians_1.html?goto=20-21" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that God the Father has put all things in subjection to Jesus.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that God the Father has set Jesus as head over all things to the church.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
+  ]
+}
+,
 { "type": "F", "todoItem": "Know that God&rsquo;s master plan is eternal and involved Christ Jesus our Lord from the very beginning.", 
   "bibleRefs": [
     { "linkText": "Ephesians 3:9-11", "link": "ephesians_3.html?goto=9-11" }
@@ -15262,6 +15501,12 @@
   ]
 }
 ,
+{ "type": "C", "todoItem": "Know that Jesus can speak from heaven with an audible voice.", 
+  "bibleRefs": [
+    { "linkText": "Acts 9:4-7", "link": "acts_9.html?goto=4-7" }
+  ]
+}
+,
 { "type": "F", "todoItem": "Know that Jesus Christ is the Son of God.", 
   "bibleRefs": [
     { "linkText": "1 Peter 1:3", "link": "1peter_1.html?goto=3" }
@@ -15274,13 +15519,19 @@
   ]
 }
 ,
+{ "type": "C", "todoItem": "Know that Jesus has absolute sovereignty and supreme authority over all things.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:20-22", "link": "ephesians_1.html?goto=20-22" }
+  ]
+}
+,
 { "type": "F", "todoItem": "Know that Jesus is eternal.", 
   "bibleRefs": [
     { "linkText": "1 John 1:2", "link": "1john_1.html?goto=2" }
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that Jesus is God&rsquo;s only begotten and beloved Son. [<a href=\"../kjv/matthew_3.html?goto=16\">Matthew 3:16</a>]", 
+{ "type": "F", "todoItem": "Know that Jesus is God&rsquo;s only begotten and beloved Son. [<a href=\"../kjv/matthew_3.html?goto=17\">Matthew 3:17</a>]", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:6", "link": "ephesians_1.html?goto=6" }
   ]
@@ -15289,6 +15540,12 @@
 { "type": "C", "todoItem": "Know that Jesus is Lord.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:2", "link": "ephesians_1.html?goto=2" }
+  ]
+}
+,
+{ "type": "I", "todoItem": "Know that Jesus is our Lord and Saviour.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:3", "link": "ephesians_1.html?goto=3" }
   ]
 }
 ,
@@ -15316,6 +15573,12 @@
   ]
 }
 ,
+{ "type": "C", "todoItem": "Know that Jesus is set at the right hand of God in heaven.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:20", "link": "ephesians_1.html?goto=20" }
+  ]
+}
+,
 { "type": "F", "todoItem": "Know that Jesus is the beloved Son of God.", 
   "bibleRefs": [
     { "linkText": "Matthew 3:17", "link": "matthew_3.html?goto=17" }
@@ -15327,6 +15590,12 @@
     { "linkText": "John 1:41", "link": "john_1.html?goto=41" },
     { "linkText": "John 4:26", "link": "john_4.html?goto=26" },
     { "linkText": "Ephesians 1:2", "link": "ephesians_1.html?goto=2" }
+  ]
+}
+,
+{ "type": "FR", "todoItem": "<span class=\"woc\">Know that Jesus wants to sit, eat, drink and talk with us.</span>", 
+  "bibleRefs": [
+    { "linkText": "Revelation 3:20", "link": "revelation_3.html?goto=20" }
   ]
 }
 ,
@@ -15351,6 +15620,12 @@
 { "type": "F", "todoItem": "Know that Jesus was with God from the beginning.", 
   "bibleRefs": [
     { "linkText": "1 John 1:1", "link": "1john_1.html?goto=1" }
+  ]
+}
+,
+{ "type": "C", "todoItem": "Know that just as the head commands the body, so Jesus commands the church.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:22", "link": "ephesians_1.html?goto=22" }
   ]
 }
 ,
@@ -15408,15 +15683,33 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that the risen Jesus ascended back to heaven so that He might complete all of the good works pre-ordained for those in Christ by working in and through His body the church.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 4:10", "link": "ephesians_4.html?goto=10" }
+  ]
+}
+,
 { "type": "FR", "todoItem": "<span class=\"woc\">Know that the Son does nothing of His own will.</span>", 
   "bibleRefs": [
     { "linkText": "John 5:19", "link": "john_5.html?goto=19" }
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that the Son of God had to come down from heaven to Earth (become flesh) in order to complete the will of His Father.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 4:9", "link": "ephesians_4.html?goto=9" }
+  ]
+}
+,
 { "type": "FR", "todoItem": "<span class=\"woc\">Know that the Son only does the things that He sees the Father do.</span>", 
   "bibleRefs": [
     { "linkText": "John 5:19", "link": "john_5.html?goto=19" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that the Word of Truth (Jesus) is the good news of salvation.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:13", "link": "ephesians_1.html?goto=13" }
   ]
 }
 ,
@@ -15432,7 +15725,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that when Jesus ascended up on high he led captivity captive and gave gifts to men.", 
+{ "type": "F", "todoItem": "Know that when the risen Jesus ascended up on high he led captivity captive and gave gifts to men.", 
   "bibleRefs": [
     { "linkText": "Ephesians 4:8", "link": "ephesians_4.html?goto=8" }
   ]
@@ -16044,7 +16337,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that the earth and everything in it belong to the Lord.", 
+{ "type": "F", "todoItem": "Know that the Earth and everything in it belong to the Lord.", 
   "bibleRefs": [
     { "linkText": "Psalms 24:1", "link": "psalms_24.html?goto=1" }
   ]
@@ -16205,6 +16498,12 @@
 { "type": "W", "todoItem": "Expect to suffer for preaching the gospel.", 
   "bibleRefs": [
     { "linkText": "2 Timothy 2:9", "link": "2timothy_2.html?goto=9" }
+  ]
+}
+,
+{ "type": "C", "todoItem": "Know that Jesus relates to the suffering of His followers.", 
+  "bibleRefs": [
+    { "linkText": "Acts 9:4-5", "link": "acts_9.html?goto=4-5" }
   ]
 }
 ,
@@ -16465,7 +16764,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Know that the temptations you experience are common to all men.", 
+{ "type": "F", "todoItem": "Know that the temptations you experience are common to all men.", 
   "bibleRefs": [
     { "linkText": "1 Corinthians 10:13", "link": "1corinthians_10.html?goto=13" }
   ]
@@ -16513,7 +16812,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Use the escape route God always provides when temptation arises.", 
+{ "type": "T", "todoItem": "Use the escape route that God always provides when temptation arises.", 
   "bibleRefs": [
     { "linkText": "1 Corinthians 10:13", "link": "1corinthians_10.html?goto=13" }
   ]
@@ -17139,13 +17438,13 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Pray that you may know and understand the riches of the glory of His inheritance (the Holy Spirit) in you and in the body of Christ.", 
+{ "type": "T", "todoItem": "Pray that you may know and understand the riches of the glory of His inheritance (the Holy Spirit) in you and in the body of Christ. [<a href=\"../kjv/1corinthians_12.html\">1 Corinthians 12</a>]", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:18", "link": "ephesians_1.html?goto=18" }
   ]
 }
 ,
-{ "type": "T", "todoItem": "Pray that your understanding may be enlightened to know the confident expectation of His calling upon your life.", 
+{ "type": "T", "todoItem": "Pray that your understanding may be enlightened to know the confident expectation of His calling.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:18", "link": "ephesians_1.html?goto=18" }
   ]
@@ -17284,6 +17583,12 @@
     { "linkText": "Matthew 1:20", "link": "matthew_1.html?goto=20" }
   ]
 }
+,
+{ "type": "C", "todoItem": "Know that Jesus can speak from heaven with an audible voice.", 
+  "bibleRefs": [
+    { "linkText": "Acts 9:4-7", "link": "acts_9.html?goto=4-7" }
+  ]
+}
 ]
 },
 {
@@ -17413,7 +17718,13 @@
 {
 "topic": "Will Of God",
 "topicId": "will_of_god",
-"items": [{ "type": "T", "todoItem": "Be certain of God&rsquo;s will for your life and put it into action.", 
+"items": [{ "type": "F", "todoItem": "Know that the church (His body) is the fulfilment of Jesus who completes every good work pre-ordained for every believer within the body of Christ.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:23", "link": "ephesians_1.html?goto=23" }
+  ]
+}
+,
+{ "type": "T", "todoItem": "Be certain of God&rsquo;s will for your life and put it into action.", 
   "bibleRefs": [
     { "linkText": "Romans 12:2", "link": "romans_12.html?goto=2" }
   ]
@@ -17431,7 +17742,7 @@
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that at the appropriate moment in time (The Rapture), God will gather together all things which are in Christ, both from in heaven and on earth. [<a href=\"../kjv/1thessalonians_4.html?goto=16-17\">1 Thessalonians 4:16-17</a>]", 
+{ "type": "F", "todoItem": "Know that at the appropriate moment in time (The Rapture), God will gather together all things which are in Christ, both from in heaven and on Earth. [<a href=\"../kjv/1thessalonians_4.html?goto=16-17\">1 Thessalonians 4:16-17</a>]", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:10", "link": "ephesians_1.html?goto=10" }
   ]
@@ -17503,13 +17814,13 @@
   ]
 }
 ,
-{ "type": "C", "todoItem": "Know that God may choose even the most unlikely people to fulfil His plan on the earth, including those who directly oppose Him.", 
+{ "type": "C", "todoItem": "Know that God may choose even the most unlikely people to fulfil His plan on the Earth, including those who directly oppose Him.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:1", "link": "ephesians_1.html?goto=1" }
   ]
 }
 ,
-{ "type": "C", "todoItem": "Know that God often involves people to fulfil His plan on the earth.", 
+{ "type": "C", "todoItem": "Know that God often involves people to fulfil His plan on the Earth.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:1", "link": "ephesians_1.html?goto=1" }
   ]
@@ -17629,6 +17940,12 @@
   ]
 }
 ,
+{ "type": "I", "todoItem": "Know that it was God alone that made us accepted in Christ and not through any works that we performed as we hadn&rsquo;t even been born when God decided!", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:6", "link": "ephesians_1.html?goto=6" }
+  ]
+}
+,
 { "type": "F", "todoItem": "Know that it was God&rsquo;s hidden plan from the very beginning of the world to unite Jews and Gentiles in fellowship in the body of Christ by the gospel.", 
   "bibleRefs": [
     { "linkText": "Ephesians 3:5-9", "link": "ephesians_3.html?goto=5-9" }
@@ -17671,12 +17988,6 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that the church is the fulfilment of Jesus who provides everything for every individual within the body of Christ.", 
-  "bibleRefs": [
-    { "linkText": "Ephesians 1:23", "link": "ephesians_1.html?goto=23" }
-  ]
-}
-,
 { "type": "F", "todoItem": "Know that the Lord knows those who are His.", 
   "bibleRefs": [
     { "linkText": "2 Timothy 2:19", "link": "2timothy_2.html?goto=19" }
@@ -17698,6 +18009,12 @@
 { "type": "FR", "todoItem": "<span class=\"woc\">Know that the Son does nothing of His own will.</span>", 
   "bibleRefs": [
     { "linkText": "John 5:19", "link": "john_5.html?goto=19" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that the Son of God had to come down from heaven to Earth (become flesh) in order to complete the will of His Father.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 4:9", "link": "ephesians_4.html?goto=9" }
   ]
 }
 ,
@@ -17825,6 +18142,12 @@
   ]
 }
 ,
+{ "type": "T", "todoItem": "Earnestly seek after wisdom.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
+  ]
+}
+,
 { "type": "T", "todoItem": "Embrace and exalt wisdom.", 
   "bibleRefs": [
     { "linkText": "Proverbs 4:8", "link": "proverbs_4.html?goto=8" }
@@ -17873,6 +18196,12 @@
   ]
 }
 ,
+{ "type": "C", "todoItem": "Know that God not only wants us to know about Him but also to know Him in person through a first-hand relationship with Him.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
+  ]
+}
+,
 { "type": "C", "todoItem": "Know that God wishes to impart His wisdom to you.", 
   "bibleRefs": [
     { "linkText": "Proverbs 1:23", "link": "proverbs_1.html?goto=23" }
@@ -17888,12 +18217,6 @@
 { "type": "P", "todoItem": "Know that obtaining wisdom and understanding will bring you happiness.", 
   "bibleRefs": [
     { "linkText": "Proverbs 3:13", "link": "proverbs_3.html?goto=13" }
-  ]
-}
-,
-{ "type": "I", "todoItem": "Know that our God not only wants us to know about Him but also to know Him in person through a first-hand relationship with Him.", 
-  "bibleRefs": [
-    { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
   ]
 }
 ,
@@ -17951,6 +18274,12 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that wisdom does not come automatically to believers at time of conversion.", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
+  ]
+}
+,
 { "type": "P", "todoItem": "Know that wisdom is a tree of life, happiness and prosperity to all who obtain and retain her.", 
   "bibleRefs": [
     { "linkText": "Proverbs 3:18", "link": "proverbs_3.html?goto=18" }
@@ -17981,7 +18310,7 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Pray that God would give you the spirit of wisdom and revelation in the experiential knowledge of His character and will.", 
+{ "type": "T", "todoItem": "Pray that God may give you the spirit of wisdom and revelation in the experiential knowledge of His character and will.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
   ]
@@ -17990,6 +18319,12 @@
 { "type": "T", "todoItem": "Recognise the importance and true value of wisdom and understanding which are beyond comparison with anything you could possibly desire.", 
   "bibleRefs": [
     { "linkText": "Proverbs 3:15", "link": "proverbs_3.html?goto=15" }
+  ]
+}
+,
+{ "type": "T", "todoItem": "Remember that wisdom is the principal thing. [<a href=\"../kjv/proverbs_4.html?goto=7\">Proverbs 4:7</a>]", 
+  "bibleRefs": [
+    { "linkText": "Ephesians 1:17", "link": "ephesians_1.html?goto=17" }
   ]
 }
 ,
@@ -18119,7 +18454,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that the Word of Truth is the good news of salvation.", 
+{ "type": "F", "todoItem": "Know that the Word of Truth (Jesus) is the good news of salvation.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:13", "link": "ephesians_1.html?goto=13" }
   ]
@@ -18213,7 +18548,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that Jesus is the propitiation for you and the sins of the whole world.", 
+{ "type": "F", "todoItem": "Know that Jesus is the propitiation for our sins and and also for the sins of the whole world.", 
   "bibleRefs": [
     { "linkText": "1 John 2:2", "link": "1john_2.html?goto=2" }
   ]

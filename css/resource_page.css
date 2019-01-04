@@ -138,3 +138,113 @@ h4 {
     float: right;
 }
 
+.highlightverse {
+    padding: 6px;
+    text-indent: 1.3rem;
+    line-height: 1.3rem;
+    font-size: 1rem;
+    background-color: #fce4ec;
+    /* 
+    color: #707070;
+    font-weight: 200;
+    */
+    color: black;
+    position: relative; 
+    border-right: solid 6px #6a1b9a;
+}
+
+.highlightverse b {
+    color: black;
+}
+
+.verse {
+    position: relative;
+    padding: 6px;
+    text-indent: 1.3rem;
+    line-height: 1.3rem;
+    font-size: 1rem;
+    color: black;
+    background-color: white;
+    margin-bottom: 7px;
+}
+
+.verse b {
+    color: black;
+}
+
+.verse:hover {
+    background-color: lemonchiffon;
+}
+
+/* Verse todo list styling */ 
+
+.tl-btn-open {
+    position: absolute;
+    top: 7px;
+    left: 0px;
+    width: 20px;
+    color: blue;
+}
+
+.tl-btn-open:hover {
+    cursor: pointer;
+}
+
+.tl-btn-close:hover {
+    cursor: pointer;
+}
+
+.tl-btn-close {
+    position: absolute;
+    top: 7px;
+    left: 0px;
+    width: 20px;
+    color: blue;
+}
+
+.tl-in-line-btn-close:hover {
+    cursor: pointer;
+}
+
+.tl-in-line-btn-close {
+    width: 20px;
+    vertical-align: middle;
+    margin-top: 3px;
+    margin-right: 2px;
+}
+
+.tl-btn-hide {
+    display: none;
+}
+.tl-hide {
+    display: none;
+}
+.verse-todo-list {
+    margin-left: 3%;
+    background-color: lavender;
+    border-left: solid 1px purple;
+    border-right: solid 1px purple;
+    border-bottom: solid 1px purple;
+    margin-bottom: 7px;
+}
+.verse-todo-list-title {
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+.verse-todo-item {
+    padding: 3px;
+    border-top: solid 1px purple;
+}
+
+.vlinks {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.btn-primary {
+    margin: 3px;
+}
+
+

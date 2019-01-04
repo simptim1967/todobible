@@ -1,5 +1,12 @@
 # todobible
 
+## 2.2 31/12/2018 Bible Study
+
+Added first bible study on Ephesians 1 - Identity Explained.
+Updated Bible ToDo lists.
+Updated About ToDo Bible News.
+Updated copyright notice to 2019.
+
 ## 2.1 04/07/2018 Resources Menu
 
 Added Resources menu item and page and first article The Turner Of The Pages.
