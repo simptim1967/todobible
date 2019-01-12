@@ -189,7 +189,7 @@ html(lang='en-GB')
                     |  !{todo.todoItem}
                     //-List the range of verses that relate to this todo item
                     - if (todo.verseStart != todo.verseEnd) {
-                      span  [v#{todo.verseRange}]
+                      small  [v#{todo.verseRange}]
                     - }
                 - } //- end for each todo item
                 img.tl-in-line-btn-close(align="right", src="../images/tl-close-button.svg", alt="Hide verse " + vno + " ToDo items", title="Hide verse " + vno + " ToDo items")
