@@ -130,13 +130,7 @@ html(lang='en-GB')
                   button#gotoverse.btn-sm.btn-primary(type='submit', onclick='GoToVerse(); return false') Go
       // /row
     // /container
-    footer.footer
-      .container.text-center
-        hr.featurette-divider
-        p
-          | Copyright © 2019 ToDoBible.org. All rights reserved. 
-          a(href='#')
-            small Top of page
+    include ../includes/page_footer.pug
     script(type='text/javascript', src='../script/biblenav.js')
     //
       jQuery (necessary for Bootstrap's JavaScript plugins)

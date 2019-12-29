@@ -56,6 +56,9 @@ html(lang='en-GB')
             | Other identities revealed include the body of Christ (the church) and the
             | three persons of God (the Holy Trinity): namely God the Father, God the Son and 
             | God the Holy Spirit.
+
+          p
+            | We also learn about the apostle Paul.
           
           p
             | Once we start to understand our new identity 
@@ -153,7 +156,7 @@ html(lang='en-GB')
             |  of Jesus Christ by the 
             span.ttw(;='' data-toggle='tooltip' data-placement='top' title='what one wishes or has determined shall be done, choice, inclination, desire, pleasure') will
             |  of God, to the 
-            span.ttw(;='' data-toggle='tooltip' data-placement='top' title='set apart, most holy, sacred, morally blameless') saints
+            span.ttw(;='' data-toggle='tooltip' data-placement='top' title='set apart, different, most holy, sacred, morally blameless') saints
             |  which are at 
             span.ttw(;='' data-toggle='tooltip' data-placement='top' title='a maritime city of Asia Minor') Ephesus
             | , and to the 
@@ -188,7 +191,7 @@ html(lang='en-GB')
           p
             | The word "saints" in the Greek is "hagios"&nbsp;
             sup G40
-            |  meaning "set apart, most holy, sacred, morally blameless".
+            |  meaning "set apart, different, most holy, sacred, morally blameless".
 
           p
             | It may surprise you to learn that as believers in Christ we are "saints". We have been set apart by God, for God:
@@ -261,7 +264,7 @@ html(lang='en-GB')
 
           p
             | Let us also likewise fully embrace our new identity and purpose in life as we 
-            | discover exactly who we are in Christ. 
+            | discover exactly who we are in Christ and what God's plans are for us. 
 
           a(href='#')
             .text-right
@@ -445,8 +448,10 @@ html(lang='en-GB')
             =")."
           
           p  
-            | In order for Jesus the man to fulfil the law He was obligated to love God and to worship Him. Therefore God the Father is both 
-            | the Father of God the Son and also the God of the Lord Jesus Christ when a man living under the law.
+            | In order for Jesus the man (the Word made flesh) to model relationship with God and fulfil the law as a Jew, He was obligated
+            | to love God and to worship Him. Therefore God the Father is both
+            | the God of the Lord Jesus Christ (when a man living under the law)
+            | and also the Father of the Lord Jesus Christ (God the Son).
             
           .verse-todo-list
             .verse-todo-item
@@ -2244,13 +2249,7 @@ html(lang='en-GB')
                   button#gotoverse.btn-sm.btn-primary(type='submit', onclick='GoToVerse(); return false') Go
       // /row
     // /container
-    footer.footer
-      .container.text-center
-        hr.featurette-divider
-        p
-          | Copyright © 2019 ToDoBible.org. All rights reserved. 
-          a(href='#')
-            small Top of page
+    include ../includes/page_footer.pug
     script(type='text/javascript', src='../script/biblenav.js')
     //
       jQuery (necessary for Bootstrap's JavaScript plugins)

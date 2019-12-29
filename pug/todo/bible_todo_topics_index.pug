@@ -64,12 +64,6 @@ html(lang='en-GB')
       - for (var i=0; i < 26; i++) {
         + MIXIN_LIST_TOPICS(i)
       - }
-    .container
-      hr.featurette-divider
-      footer.footer.text-center
-        p
-          | Copyright © 2019 ToDoBible.org. All rights reserved.
-          a(href='#')
-            small  Top of page
+    include ../includes/page_footer.pug
     script(src='../script/jquery-1.12.4.min.js')
     script(src='../script/bootstrap.min.js')
