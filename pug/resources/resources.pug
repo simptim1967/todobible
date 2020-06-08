@@ -12,7 +12,7 @@ html(lang='en-GB')
     link(href='../css/bootstrap.min.css', rel='stylesheet')
     link(href='../css/common_page.css', rel='stylesheet')
     link(href='../css/resource_page.css', rel='stylesheet')
-  body(data-spy='scroll', data-target='#myScrollspy')
+  body
     include ../includes/resource_page_menu.pug
     include ../includes/resource_page_header.pug
     //
@@ -20,22 +20,8 @@ html(lang='en-GB')
       ==================================================
     .container
       .row
-        .col-md-2.hidden-print.hidden-sm.hidden-xs
-          nav#myScrollspy
-            ul.nav.nav-pills.nav-stacked.affix-top(data-spy='affix', data-offset-top='170')
-              li.active
-                a(href='#resources')
-                  b Resources
-              li
-                a(href='#articles') Articles
-              li
-                a(href='#studies') Bible Studies
-              li
-                a(href='#todo') Bible ToDo Lists
-              li
-                a(href='#kjv') King James Bible
         // Main content block
-        #resources.col-md-7
+        #resources.col-md-8
           h1 Resources
           hr.featurette-divider
           h2#articles Articles
@@ -103,6 +89,10 @@ html(lang='en-GB')
             span(class='woc') red
             | .
           p
+            | Try the 
+            a(href='../kjv/bible_reading_plan.html') Bible Reading Plan
+            |  to read the whole bible in a year.
+          p
             | My belief is that God's Holy Bible is not just something you read
             | but something you live, by God's grace, for His glory.
           p
@@ -113,7 +103,7 @@ html(lang='en-GB')
             a(href='../kjv/king_james_bible_index_page.html') Bible Index Page
             |  to quickly navigate to any chapter of the bible.
 
-        .col-md-3.hidden-print
+        .col-md-4.hidden-print
           hr.featurette-divider.hidden-md.hidden-lg
           .biblenavigation.hidden-print
             h3#goto Navigate The Bible

@@ -12,174 +12,158 @@ html(lang='en-GB')
     link(href='css/bootstrap.min.css', rel='stylesheet')
     link(href='css/common_page.css', rel='stylesheet')
     link(href='css/root_page.css', rel='stylesheet')
-  body(data-spy='scroll', data-target='#myScrollspy')
+  body
     include ./includes/root_page_menu.pug
-    //
-      Header
-      ==================================================
-    .container
-      .headerblock.hidden-sm.hidden-xs
-        .logoverse
-          p
-            | Whether therefore ye eat,
-            br
-            |              or drink, or whatsoever ye do,
-            br
-            |              do all to the glory of God.
-          a(href='kjv/1corinthians_10.html?goto=31') 1 Corinthians 10:31
+    header
+      //
+        Header
+        ==================================================
+      .container
+        .headerblock.hidden-sm.hidden-xs
+          .logoverse
+            p
+              | Whether therefore ye eat,
+              br
+              |              or drink, or whatsoever ye do,
+              br
+              |              do all to the glory of God.
+            a(href='kjv/1corinthians_10.html?goto=31') 1 Corinthians 10:31
+
     //
       Main content
       ==================================================
-    .container
-      .row
-        .col-md-2.hidden-print.hidden-sm.hidden-xs
-          nav#myScrollspy
-            ul.nav.nav-pills.nav-stacked.affix-top(data-spy='affix', data-offset-top='170')
-              li.active
-                a(href='#about')
-                  b About ToDo Bible
-              li
-                a(href='#dedication') Dedication
-              li
-                a(href='#welcome') Welcome
-              li
-                a(href='#mystudy') My Bible Study
-              li
-                a(href='#resources') Resources
-              li
-                a(href='#twitter') Twitter
-              li
-                a(href='#thanks') Thanks
-              li
-                a(href='#workinprogress') Work In Progress
-        // Main content block
-        #about.col-md-7
-          h1 About ToDo Bible
-          hr.featurette-divider
-          h2#dedication Dedication
-          .alert.alert-info.text-center
-            | This website is dedicated to the glory of the Lord Jesus Christ.
-          h2#welcome Welcome
-          img#mugshot.img-thumbnail.img-responsive(src='images/mugshot_tim.jpg', alt='Website Author: Tim Simpson', title='Website Author: Tim Simpson', width='151', height='220')
-          p
-            | Hello, my name is Tim Simpson from Telford, England. Thanks for visiting
-            | ToDoBible.org today.
-          p
-            | This website is all about the practical application of the Holy Bible in daily life. 
-            | It also documents my on-going journey as a disciple of Jesus Christ
-            | studying the Holy Bible.
-          h2#mystudy My Bible Study
-          p
-            | In studying the Holy Bible I desire to:
-          ul
-            li Learn what God has done for us.
-            li Learn how God wishes us to live our lives as Christians and how He empowers us to do so.
-            li Understand the true meaning of God's Word.
-            li Learn more about God's character.
-            li Learn more about the Holy Spirit.
-            li Understand the facts and promises stated in the Holy Bible.
-            li Grow in my relationship with Jesus and be taught by Him to become more like Him.
-            li Understand my true identity in Christ.
-            li Gain wisdom and greater spiritual maturity.
-            li Increase in boldness for the gospel.
-            li Play my part in God's plan for the body of Christ.
-            li Witness the miraculous power of the Holy Spirit 
-              | working in the world as I live each day to fulfil God's plan and purpose for my life.
-            li Share my learning and the good news of the gospel with others.
-            li Live life abundantly as Jesus promised!
+    main
+      .container
+        .row
+          // Main content block
+          #about.col-md-8
+            h1 About ToDoBible.org
+            hr.featurette-divider
 
-          h2#resources Resources
-          p
-            | The following 
-            a(href='resources/resources.html') resources
-            |  are available on this website:
-          ul
-            li Articles
-            li King James Bible
-            li Bible Studies
-            li Bible ToDo Lists
-  
-          h2#twitter Tweets Of Encouragement
-          p
-            img.img-circle(src='images/twitter.svg', width='40', height='40', align='left', alt='Twitter Logo', id='tweet')
-            |             You can 
-            a(href='https://twitter.com/ToDoBible') contact or follow @ToDoBible on Twitter
-            |             to learn about updates to the Bible ToDo List as well as to receive tweets of encouragement.
-            |             Feedback is always most welcome.
-          p
-            | I also occasionally share some of my photographs of God's awesome handywork and links to articles and videos 
-            | I found helpful.
-          h2#thanks Thanks
-          p
-            | My sincere thanks and deep gratitude go the following people and organisations:
-          ul
-            li To the 
-              a(href='http://www.tbsbibles.org', target='_blank') Trinitarian Bible Society
-              |  for providing the electronic text of the King James Bible.
-              |  Every effort was made to programatically verify that the bible text contains no mistakes following the
-              |  repagination and conversion of the text to the HTML format used on this website.
-            li To the 
-              a(href='https://billygraham.org/', target='_blank') Billy Graham Evangelistic Association
-              |  for providing free resources, training and inspirational films to churches.
-            li To  
-              a(href='https://www.samaritanspurse.org/', target='_blank') Samaritan's Purse International Relief
-              |  for taking the love of God and the gospel of hope to people across the globe in times of crisis.
-            li To the 
-              a(href='https://www.blueletterbible.org/', target='_blank') Blue Letter Bible Institute
-              |  for providing such a vast library of excellent free bible study resources and tools which have been 
-              | such a great help to me in my personal bible study for ToDoBible.org.
-            li To Todd White and everyone at  
-              a(href='https://lifestylechristianity.com/', target='_blank') Lifestyle Christianity
-              |  for the awesome encouragement to share Jesus everywhere every day and for the 
-              a(href='https://lifestylechristianity.com/messages/', target='_blank') inspirational documentaries, training videos and testimonies
-              ="."
-            li To Darren Wilson and everyone at  
-              a(href='https://www.wpfilm.com/', target='_blank') WP Films
-              |  for your awesome and provoking films and for the book 
-              a(href='http://store.wpfilm.com/filming-god/', target='_blank') Filming God
-              ="."
-              | I really enjoyed following the behind-the-scenes making of Holy Ghost and seeing the impact the end product had on family, friends
-              | and work colleagues. These are must watch films!
-            li To Curry Blake and everyone at  
-              a(href='http://www.jglm.org/', target='_blank') John G. Lake Ministries
-              |  for the excellent resources including the 
-              a(href='https://john-g-lake-ministries.myshopify.com/collections/divine-healing-technicians', target='_blank') Divine Healing Technician Training Course
-              ="."
-              |  I have witnessed miracles of healing as a result of praying for people and I know it wasn't me that did it! Glory to Jesus! Yay!
-            li To 
-              a(href='https://www.josephprince.org/', target='_blank') Joseph Prince Ministries
-              |  for excellent bible teaching, inspiring testimonies and great books. Preach it Pastor Prince! You have a "good Amen" from me.
-            li To Amir Tsarfati and everyone at   
-              a(href='http://beholdisrael.org/', target='_blank') Behold Israel
-              |  for excellent bible prophecy teaching, DVDs and videos. Really enjoyed the "Days of Ezekiel". Have a list of questions for next time I see you!
-            li To my amazing wife for so many reasons ...
-            li To Jesus for laying down His life to save me when I was dead in sins and for giving me a hope and a purpose for my life.
-              |  I have tasted and seen that the Lord is good!
-          
-          h2#workinprogress Work In Progress
-          p
-            | This website is a work in progress and is continually being updated as I progress and share more
-            | of my learning and revelation of God's Word.
-          p
-            | I sincerely hope and pray that ToDoBible.org blesses and encourages you. 
-          p
-            | Please visit again soon.
-        .col-md-3.hidden-print
-          hr.featurette-divider.hidden-md.hidden-lg
-          .rightsidebar
-            // <rightsidebar>
-            h3 ToDo Bible News
-            h4 1st January, 2019
+            h2#dedication Dedication
+            .alert.alert-info.text-center
+              | This website is dedicated to the glory of the Lord Jesus Christ.
+            
+            h2#welcome Welcome
+            img#mugshot.img-thumbnail.img-responsive(src='images/mugshot_tim.jpg', alt='Website Author: Tim Simpson', title='Website Author: Tim Simpson', width='151', height='220')
             p
-              | Happy new year! 
+              | Hello, my name is Tim Simpson from Telford, England. Thanks for visiting
+              | ToDoBible.org today.
             p
-              | Published first bible study on Ephesians chapter 1 entitled "Identity Explained".  
-            h4 5th July, 2018 
+              | This website is all about the practical application of the Holy Bible in daily life. 
+              | It also documents my on-going journey as a disciple of Jesus Christ.
+
+            h2#mystudy My Bible Study
             p
-              | Published first ToDo Bible article entitled "The Turner Of The Pages".  
-          // </rightsidebar>
-      // /row
-    // /container
+              | In studying the Holy Bible I desire to:
+            ul
+              li Learn what God has done for us.
+              li Learn how God wishes us to live our lives as Christians and how He empowers us to do so.
+              li Understand the true meaning of God's Word.
+              li Learn more about God's character.
+              li Learn more about the Holy Spirit.
+              li Understand the facts and promises stated in the Holy Bible.
+              li Grow in my relationship with Jesus and be taught by Him to become more like Him.
+              li Understand my true identity in Christ.
+              li Gain wisdom and greater spiritual maturity.
+              li Increase in boldness for the gospel.
+              li Play my part in God's plan for the body of Christ.
+              li Witness the miraculous power of the Holy Spirit 
+                | working in the world as I live each day to fulfil God's plan and purpose for my life.
+              li Share my learning and the good news of the gospel with others.
+              li Live life abundantly as Jesus promised!
+
+            h2#resources Resources
+            p
+              | The following resources are available on this website:
+            ul
+              li King James Bible
+              li Bible ToDo Lists
+              li #ChristianDogWalker Blog
+    
+            h2#twitter Tweets Of Encouragement
+            p
+              img.img-circle(src='images/twitter.svg', width='40', height='40', align='left', alt='Twitter Logo', id='tweet')
+              |             You can 
+              a(href='https://twitter.com/ToDoBible') contact or follow @ToDoBible on Twitter
+              |             to learn about updates to the Bible ToDo List as well as to receive tweets of encouragement.
+              |             Feedback is always most welcome.
+            p
+              | I also occasionally share some of my photographs of God's awesome handywork and links to articles and videos 
+              | I found helpful.
+
+            h2#thanks Thanks
+            p
+              | My sincere thanks and on-going deep gratitude go the following people and organisations:
+            ul
+              li To the 
+                a(href='http://www.tbsbibles.org', target='_blank') Trinitarian Bible Society
+                |  for providing the electronic text of the King James Bible.
+                |  Every effort was made to programatically verify that the bible text contains no mistakes following the
+                |  repagination and conversion of the text to the HTML format used on this website.
+              li To the 
+                a(href='https://billygraham.org/', target='_blank') Billy Graham Evangelistic Association
+                |  for providing free resources, training and inspirational films to churches.
+              li To  
+                a(href='https://www.samaritanspurse.org/', target='_blank') Samaritan's Purse International Relief
+                |  for taking the love of God and the gospel of hope to people across the globe in times of crisis.
+              li To the 
+                a(href='https://www.blueletterbible.org/', target='_blank') Blue Letter Bible Institute
+                |  for providing such a vast library of excellent free bible study resources and tools which have been 
+                | such a great help to me in my personal bible study for ToDoBible.org.
+              li To Todd White and everyone at  
+                a(href='https://lifestylechristianity.com/', target='_blank') Lifestyle Christianity
+                |  for the awesome encouragement to share Jesus everywhere every day and for the 
+                a(href='https://lifestylechristianity.com/messages/', target='_blank') inspirational documentaries, training videos and testimonies
+                ="."
+              li To Darren Wilson and everyone at  
+                a(href='https://www.wpfilm.com/', target='_blank') WP Films
+                |  for your awesome and provoking films and for the book 
+                a(href='http://store.wpfilm.com/filming-god/', target='_blank') Filming God
+                ="."
+                | I really enjoyed following the behind-the-scenes making of Holy Ghost and seeing the impact the end product had on family, friends
+                | and work colleagues. These are must watch films!
+              li To Curry Blake and everyone at  
+                a(href='http://www.jglm.org/', target='_blank') John G. Lake Ministries
+                |  for the excellent resources including the 
+                a(href='https://john-g-lake-ministries.myshopify.com/collections/divine-healing-technicians', target='_blank') Divine Healing Technician Training Course
+                ="."
+                |  I have witnessed miracles of healing as a result of praying for people and I know it wasn't me that did it! Glory to Jesus! Yay!
+              li To 
+                a(href='https://www.josephprince.org/', target='_blank') Joseph Prince Ministries
+                |  for excellent bible teaching, inspiring testimonies and great books. Preach it Pastor Prince! You have a "good Amen" from me.
+              li To Amir Tsarfati and everyone at   
+                a(href='http://beholdisrael.org/', target='_blank') Behold Israel
+                |  for excellent bible prophecy teaching, DVDs and videos. Really enjoyed the "Days of Ezekiel". Have a list of questions for next time I see you!
+              li To my amazing wife for so many reasons ...
+              li To Jesus for laying down His life to save me when I was dead in sins and for giving me a hope and a purpose for my life.
+                |  I have tasted and seen that the Lord is good!
+            
+            h2#workinprogress Work In Progress
+            p
+              | This website is a work in progress and is continually being updated as I progress and share more
+              | of my learning journey and revelation of God's Word.
+            p
+              | I sincerely hope and pray that ToDoBible.org blesses and encourages you. 
+            p
+              | Please visit again soon.
+
+          .col-md-4.hidden-print
+            hr.featurette-divider.hidden-md.hidden-lg
+            aside
+              .rightsidebar
+                // <rightsidebar>
+                h3 ToDo Bible News
+                h4 8th June, 2020
+                p
+                  | Published the one year bible reading plan. 
+                h4 1st January, 2020
+                p
+                  | Happy new year! 
+                // </rightsidebar>
+        // /row
+      // /container
+
     include includes/page_footer.pug
     //
       jQuery (necessary for Bootstrap's JavaScript plugins)

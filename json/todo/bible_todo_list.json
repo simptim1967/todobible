@@ -1149,7 +1149,8 @@
 ,
 { "type": "TR", "todoItem": "<span class=\"woc\">Bless them that curse you.</span>", 
   "bibleRefs": [
-    { "linkText": "Matthew 5:44", "link": "matthew_5.html?goto=44" }
+    { "linkText": "Matthew 5:44", "link": "matthew_5.html?goto=44" },
+    { "linkText": "Luke 6:28", "link": "luke_6.html?goto=28" }
   ]
 }
 ,
@@ -1237,7 +1238,7 @@
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that the Lord will bless you with plenty when you honour Him with your wealth and the first fruits of all your increase.", 
+{ "type": "P", "todoItem": "Know that the Lord will bless you with plenty when you honour Him with your offerings and tithes.", 
   "bibleRefs": [
     { "linkText": "Proverbs 3:9-10", "link": "proverbs_3.html?goto=9-10" }
   ]
@@ -1258,6 +1259,12 @@
 { "type": "P", "todoItem": "Know that when you fear the Lord and depart from evil it will bring blessing to your health and well being.", 
   "bibleRefs": [
     { "linkText": "Proverbs 3:7-8", "link": "proverbs_3.html?goto=7-8" }
+  ]
+}
+,
+{ "type": "P", "todoItem": "Know that when you give to the poor the Lord will bless you in all your works and all that you put your hand to.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 15:10", "link": "deuteronomy_15.html?goto=10" }
   ]
 }
 ,
@@ -2025,12 +2032,6 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that when you were in the flesh your members brought forth fruit unto death.", 
-  "bibleRefs": [
-    { "linkText": "Romans 7:5", "link": "romans_7.html?goto=5" }
-  ]
-}
-,
 { "type": "P", "todoItem": "Know that you are not in the flesh if God&rsquo;s Holy Spirit dwells in you.", 
   "bibleRefs": [
     { "linkText": "Romans 8:9", "link": "romans_8.html?goto=9" }
@@ -2050,6 +2051,12 @@
 { "type": "C", "todoItem": "Know that everyone who is proud in heart is an abomination to the Lord.", 
   "bibleRefs": [
     { "linkText": "Proverbs 16:5", "link": "proverbs_16.html?goto=5" }
+  ]
+}
+,
+{ "type": "C", "todoItem": "Know that for a woman to wear a man&rsquo;s clothing or for a man to wear a woman&rsquo;s clothing is an abomination to God.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 22:5", "link": "deuteronomy_22.html?goto=5" }
   ]
 }
 ,
@@ -3372,6 +3379,16 @@
 ]
 },
 {
+"topic": "Clothing",
+"topicId": "clothing",
+"items": [{ "type": "C", "todoItem": "Know that for a woman to wear a man&rsquo;s clothing or for a man to wear a woman&rsquo;s clothing is an abomination to God.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 22:5", "link": "deuteronomy_22.html?goto=5" }
+  ]
+}
+]
+},
+{
 "topic": "Comfort",
 "topicId": "comfort",
 "items": [{ "type": "T", "todoItem": "Share your ministry experiences and be a comfort and an encouragement to others.", 
@@ -3414,7 +3431,7 @@
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that obedience to God&rsquo;s commandments will bring long life and peace to you.", 
+{ "type": "P", "todoItem": "Know that obedience to God&rsquo;s commandments will bring length of days, long life and peace to you.", 
   "bibleRefs": [
     { "linkText": "Proverbs 3:1-2", "link": "proverbs_3.html?goto=1-2" }
   ]
@@ -4088,12 +4105,6 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that when you were in the flesh your members brought forth fruit unto death.", 
-  "bibleRefs": [
-    { "linkText": "Romans 7:5", "link": "romans_7.html?goto=5" }
-  ]
-}
-,
 { "type": "W", "todoItem": "Know that worldly sorrow leads to death.", 
   "bibleRefs": [
     { "linkText": "2 Corinthians 7:10", "link": "2corinthians_7.html?goto=10" }
@@ -4115,12 +4126,6 @@
 { "type": "I", "todoItem": "Know that you are dead to the law and alive unto God.", 
   "bibleRefs": [
     { "linkText": "Galatians 2:19", "link": "galatians_2.html?goto=19" }
-  ]
-}
-,
-{ "type": "I", "todoItem": "Know that you are dead to the law by the body of Christ.", 
-  "bibleRefs": [
-    { "linkText": "Romans 7:4", "link": "romans_7.html?goto=4" }
   ]
 }
 ,
@@ -4256,7 +4261,8 @@
 ,
 { "type": "TR", "todoItem": "<span class=\"woc\">Do to others as you would have them do to you.</span>", 
   "bibleRefs": [
-    { "linkText": "Matthew 7:12", "link": "matthew_7.html?goto=12" }
+    { "linkText": "Matthew 7:12", "link": "matthew_7.html?goto=12" },
+    { "linkText": "Luke 6:31", "link": "luke_6.html?goto=31" }
   ]
 }
 ,
@@ -4314,12 +4320,6 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that when you were in the flesh your members brought forth fruit unto death.", 
-  "bibleRefs": [
-    { "linkText": "Romans 7:5", "link": "romans_7.html?goto=5" }
-  ]
-}
-,
 { "type": "F", "todoItem": "Know that your works demonstrate your faith.", 
   "bibleRefs": [
     { "linkText": "James 2:18", "link": "james_2.html?goto=18" }
@@ -4345,6 +4345,16 @@
 { "type": "C", "todoItem": "Know that God delights in honesty.", 
   "bibleRefs": [
     { "linkText": "Proverbs 11:1", "link": "proverbs_11.html?goto=1" }
+  ]
+}
+]
+},
+{
+"topic": "Deliverance",
+"topicId": "deliverance",
+"items": [{ "type": "P", "todoItem": "Know that righteousness will deliver those from death in the day of wrath.", 
+  "bibleRefs": [
+    { "linkText": "Proverbs 11:4", "link": "proverbs_11.html?goto=4" }
   ]
 }
 ]
@@ -4685,6 +4695,12 @@
   ]
 }
 ,
+{ "type": "T", "todoItem": "Seek not after your own heart and your own eyes.", 
+  "bibleRefs": [
+    { "linkText": "Numbers 15:39", "link": "numbers_15.html?goto=39" }
+  ]
+}
+,
 { "type": "T", "todoItem": "Seek the things that are above where Christ is seated.", 
   "bibleRefs": [
     { "linkText": "Colossians 3:1", "link": "colossians_3.html?goto=1" }
@@ -4859,6 +4875,12 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that God used His wisdom and understanding to construct the earth and the heavens.", 
+  "bibleRefs": [
+    { "linkText": "Proverbs 3:19", "link": "proverbs_3.html?goto=19" }
+  ]
+}
+,
 { "type": "F", "todoItem": "Know that the Earth and everything in it belong to the Lord.", 
   "bibleRefs": [
     { "linkText": "Psalms 24:1", "link": "psalms_24.html?goto=1" }
@@ -4911,13 +4933,20 @@
 "topicId": "enemies",
 "items": [{ "type": "TR", "todoItem": "<span class=\"woc\">Bless them that curse you.</span>", 
   "bibleRefs": [
-    { "linkText": "Matthew 5:44", "link": "matthew_5.html?goto=44" }
+    { "linkText": "Matthew 5:44", "link": "matthew_5.html?goto=44" },
+    { "linkText": "Luke 6:28", "link": "luke_6.html?goto=28" }
   ]
 }
 ,
 { "type": "TR", "todoItem": "<span class=\"woc\">Do good to them that hate you.</span>", 
   "bibleRefs": [
     { "linkText": "Matthew 5:44", "link": "matthew_5.html?goto=44" }
+  ]
+}
+,
+{ "type": "TR", "todoItem": "<span class=\"woc\">Do good to them which hate you.</span>", 
+  "bibleRefs": [
+    { "linkText": "Luke 6:27-35", "link": "luke_6.html?goto=27-35" }
   ]
 }
 ,
@@ -4965,7 +4994,8 @@
 ,
 { "type": "TR", "todoItem": "<span class=\"woc\">Love your enemies.</span>", 
   "bibleRefs": [
-    { "linkText": "Matthew 5:44", "link": "matthew_5.html?goto=44" }
+    { "linkText": "Matthew 5:44", "link": "matthew_5.html?goto=44" },
+    { "linkText": "Luke 6:27-35", "link": "luke_6.html?goto=27-35" }
   ]
 }
 ]
@@ -5821,6 +5851,22 @@
 ]
 },
 {
+"topic": "Famine",
+"topicId": "famine",
+"items": [{ "type": "P", "todoItem": "Know that the Lord will not allow His children to famish.", 
+  "bibleRefs": [
+    { "linkText": "Proverbs 10:3", "link": "proverbs_10.html?goto=3" }
+  ]
+}
+,
+{ "type": "C", "todoItem": "Know that the Lord will not suffer the soul of the righteous to famish.", 
+  "bibleRefs": [
+    { "linkText": "Proverbs 10:3", "link": "proverbs_10.html?goto=3" }
+  ]
+}
+]
+},
+{
 "topic": "Fasting",
 "topicId": "fasting",
 "items": [{ "type": "WR", "todoItem": "<span class=\"woc\">Don&rsquo;t make a big show of fasting.</span>", 
@@ -6291,12 +6337,6 @@
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that you are delivered from the law to serve in newness of life.", 
-  "bibleRefs": [
-    { "linkText": "Romans 7:6", "link": "romans_7.html?goto=6" }
-  ]
-}
-,
 { "type": "PR", "todoItem": "<span class=\"woc\">Know the truth and be made free.</span>", 
   "bibleRefs": [
     { "linkText": "John 8:32", "link": "john_8.html?goto=32" }
@@ -6635,9 +6675,27 @@
   ]
 }
 ,
+{ "type": "T", "todoItem": "Do not allow your heart to be grieved when giving to the poor.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 15:10", "link": "deuteronomy_15.html?goto=10" }
+  ]
+}
+,
 { "type": "WR", "todoItem": "<span class=\"woc\">Don&rsquo;t make a show of giving to the poor and needy.</span>", 
   "bibleRefs": [
     { "linkText": "Matthew 6:1", "link": "matthew_6.html?goto=1" }
+  ]
+}
+,
+{ "type": "T", "todoItem": "Give generously to your brother and to the poor and needy in the land.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 15:11", "link": "deuteronomy_15.html?goto=11" }
+  ]
+}
+,
+{ "type": "TR", "todoItem": "<span class=\"woc\">Give to everyone who asks of you.</span>", 
+  "bibleRefs": [
+    { "linkText": "Luke 6:30", "link": "luke_6.html?goto=30" }
   ]
 }
 ,
@@ -6650,6 +6708,12 @@
 { "type": "TR", "todoItem": "<span class=\"woc\">Give to the poor and needy in secret.</span>", 
   "bibleRefs": [
     { "linkText": "Matthew 6:3-4", "link": "matthew_6.html?goto=3-4" }
+  ]
+}
+,
+{ "type": "W", "todoItem": "Know that failing to give to your poor brother will be counted as sin against you.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 15:9", "link": "deuteronomy_15.html?goto=9" }
   ]
 }
 ,
@@ -6686,6 +6750,12 @@
 { "type": "P", "todoItem": "Know that the Lord will repay to you whatever you give when you take pity on the poor.", 
   "bibleRefs": [
     { "linkText": "Proverbs 19:17", "link": "proverbs_19.html?goto=17" }
+  ]
+}
+,
+{ "type": "P", "todoItem": "Know that when you give to the poor the Lord will bless you in all your works and all that you put your hand to.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 15:10", "link": "deuteronomy_15.html?goto=10" }
   ]
 }
 ,
@@ -6889,6 +6959,12 @@
   ]
 }
 ,
+{ "type": "C", "todoItem": "Know that for a woman to wear a man&rsquo;s clothing or for a man to wear a woman&rsquo;s clothing is an abomination to God.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 22:5", "link": "deuteronomy_22.html?goto=5" }
+  ]
+}
+,
 { "type": "C", "todoItem": "Know that God hates a false witness who speaks lies.", 
   "bibleRefs": [
     { "linkText": "Proverbs 6:19", "link": "proverbs_6.html?goto=19" }
@@ -7059,12 +7135,6 @@
 { "type": "F", "todoItem": "Know that God made the heavens and the Earth.", 
   "bibleRefs": [
     { "linkText": "Genesis 1:1", "link": "genesis_1.html?goto=1" }
-  ]
-}
-,
-{ "type": "F", "todoItem": "Know that God stated that the Messiah would be His Son.", 
-  "bibleRefs": [
-    { "linkText": "2 Samuel 7:14", "link": "2samuel_7.html?goto=14" }
   ]
 }
 ,
@@ -7244,12 +7314,6 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Bring forth fruit unto God.", 
-  "bibleRefs": [
-    { "linkText": "Romans 7:4", "link": "romans_7.html?goto=4" }
-  ]
-}
-,
 { "type": "T", "todoItem": "Continue patiently in well doing.", 
   "bibleRefs": [
     { "linkText": "Romans 2:7", "link": "romans_2.html?goto=7" }
@@ -7259,6 +7323,12 @@
 { "type": "T", "todoItem": "Do good to all men, especially to those in the faith.", 
   "bibleRefs": [
     { "linkText": "Galatians 6:10", "link": "galatians_6.html?goto=10" }
+  ]
+}
+,
+{ "type": "TR", "todoItem": "<span class=\"woc\">Do good to them which hate you.</span>", 
+  "bibleRefs": [
+    { "linkText": "Luke 6:27-35", "link": "luke_6.html?goto=27-35" }
   ]
 }
 ,
@@ -8122,6 +8192,16 @@
 ]
 },
 {
+"topic": "Heavens, The",
+"topicId": "heavens_the",
+"items": [{ "type": "F", "todoItem": "Know that God used His wisdom and understanding to construct the earth and the heavens.", 
+  "bibleRefs": [
+    { "linkText": "Proverbs 3:19", "link": "proverbs_3.html?goto=19" }
+  ]
+}
+]
+},
+{
 "topic": "Hell",
 "topicId": "hell",
 "items": [{ "type": "WR", "todoItem": "<span class=\"woc\">Don&rsquo;t go along the broad way with the many that leads to destruction.</span>", 
@@ -8137,6 +8217,12 @@
 "items": [{ "type": "T", "todoItem": "Be holy in all manner of conduct and conversation.", 
   "bibleRefs": [
     { "linkText": "1 Peter 1:15", "link": "1peter_1.html?goto=15" }
+  ]
+}
+,
+{ "type": "T", "todoItem": "Be holy unto your God.", 
+  "bibleRefs": [
+    { "linkText": "Numbers 15:40", "link": "numbers_15.html?goto=40" }
   ]
 }
 ,
@@ -8904,7 +8990,7 @@
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that the Lord will bless you with plenty when you honour Him with your wealth and the first fruits of all your increase.", 
+{ "type": "P", "todoItem": "Know that the Lord will bless you with plenty when you honour Him with your offerings and tithes.", 
   "bibleRefs": [
     { "linkText": "Proverbs 3:9-10", "link": "proverbs_3.html?goto=9-10" }
   ]
@@ -9936,12 +10022,6 @@
   ]
 }
 ,
-{ "type": "I", "todoItem": "Know that you are dead to the law by the body of Christ.", 
-  "bibleRefs": [
-    { "linkText": "Romans 7:4", "link": "romans_7.html?goto=4" }
-  ]
-}
-,
 { "type": "I", "todoItem": "Know that you are destined to be conformed to the image of Christ.", 
   "bibleRefs": [
     { "linkText": "Romans 8:29", "link": "romans_8.html?goto=29" }
@@ -10531,6 +10611,18 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that riches will not save the wicked in the day of wrath.", 
+  "bibleRefs": [
+    { "linkText": "Proverbs 11:4", "link": "proverbs_11.html?goto=4" }
+  ]
+}
+,
+{ "type": "P", "todoItem": "Know that righteousness will deliver those from death in the day of wrath.", 
+  "bibleRefs": [
+    { "linkText": "Proverbs 11:4", "link": "proverbs_11.html?goto=4" }
+  ]
+}
+,
 { "type": "FR", "todoItem": "<span class=\"woc\">Know that the Father has committed all judgement to His Son Jesus.</span>", 
   "bibleRefs": [
     { "linkText": "John 5:22", "link": "john_5.html?goto=22" }
@@ -10747,7 +10839,13 @@
 {
 "topic": "Kingdom Of God",
 "topicId": "kingdom_of_god",
-"items": [{ "type": "PR", "todoItem": "<span class=\"woc\">Seek first the kingdom of God and His righteousness and all that you need will be provided.</span>", 
+"items": [{ "type": "FR", "todoItem": "<span class=\"woc\">Know that unless you are born again you cannot see the kingdom of God.</span>", 
+  "bibleRefs": [
+    { "linkText": "John 3:3", "link": "john_3.html?goto=3" }
+  ]
+}
+,
+{ "type": "PR", "todoItem": "<span class=\"woc\">Seek first the kingdom of God and His righteousness and all that you need will be provided.</span>", 
   "bibleRefs": [
     { "linkText": "Matthew 6:33", "link": "matthew_6.html?goto=33" }
   ]
@@ -10802,6 +10900,12 @@
 { "type": "I", "todoItem": "Know that God has chosen to make known to us the hidden secret of His master plan.", 
   "bibleRefs": [
     { "linkText": "Ephesians 1:9", "link": "ephesians_1.html?goto=9" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that God knows how to part the sea and how to cause it to rain.", 
+  "bibleRefs": [
+    { "linkText": "Proverbs 3:20", "link": "proverbs_3.html?goto=20" }
   ]
 }
 ,
@@ -11065,18 +11169,6 @@
   ]
 }
 ,
-{ "type": "I", "todoItem": "Know that you are dead to the law by the body of Christ.", 
-  "bibleRefs": [
-    { "linkText": "Romans 7:4", "link": "romans_7.html?goto=4" }
-  ]
-}
-,
-{ "type": "P", "todoItem": "Know that you are delivered from the law to serve in newness of life.", 
-  "bibleRefs": [
-    { "linkText": "Romans 7:6", "link": "romans_7.html?goto=6" }
-  ]
-}
-,
 { "type": "I", "todoItem": "Know that you are not under the law but under grace.", 
   "bibleRefs": [
     { "linkText": "Romans 6:14", "link": "romans_6.html?goto=14" }
@@ -11120,6 +11212,16 @@
 { "type": "W", "todoItem": "Know that he becometh poor that dealeth with a slack hand.", 
   "bibleRefs": [
     { "linkText": "Proverbs 10:4", "link": "proverbs_10.html?goto=4" }
+  ]
+}
+]
+},
+{
+"topic": "Lending",
+"topicId": "lending",
+"items": [{ "type": "TR", "todoItem": "<span class=\"woc\">Lend, hoping for nothing in return.</span>", 
+  "bibleRefs": [
+    { "linkText": "Luke 6:34-35", "link": "luke_6.html?goto=34-35" }
   ]
 }
 ]
@@ -11267,7 +11369,7 @@
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that obedience to God&rsquo;s commandments will bring long life and peace to you.", 
+{ "type": "P", "todoItem": "Know that obedience to God&rsquo;s commandments will bring length of days, long life and peace to you.", 
   "bibleRefs": [
     { "linkText": "Proverbs 3:1-2", "link": "proverbs_3.html?goto=1-2" }
   ]
@@ -11345,8 +11447,7 @@
 ,
 { "type": "TR", "todoItem": "<span class=\"woc\">Do to others as you would have them do to you.</span>", 
   "bibleRefs": [
-    { "linkText": "Matthew 7:12", "link": "matthew_7.html?goto=12" },
-    { "linkText": "Luke 6:31", "link": "luke_6.html?goto=31" }
+    { "linkText": "Matthew 7:12", "link": "matthew_7.html?goto=12" }
   ]
 }
 ,
@@ -11441,12 +11542,6 @@
   ]
 }
 ,
-{ "type": "TR", "todoItem": "<span class=\"woc\">Lend, hoping for nothing in return.</span>", 
-  "bibleRefs": [
-    { "linkText": "Luke 6:35", "link": "luke_6.html?goto=35" }
-  ]
-}
-,
 { "type": "T", "todoItem": "Let us love one another for love is of God.", 
   "bibleRefs": [
     { "linkText": "1 John 4:7", "link": "1john_4.html?goto=7" }
@@ -11509,7 +11604,8 @@
 ,
 { "type": "TR", "todoItem": "<span class=\"woc\">Love your enemies.</span>", 
   "bibleRefs": [
-    { "linkText": "Matthew 5:44", "link": "matthew_5.html?goto=44" }
+    { "linkText": "Matthew 5:44", "link": "matthew_5.html?goto=44" },
+    { "linkText": "Luke 6:27-35", "link": "luke_6.html?goto=27-35" }
   ]
 }
 ,
@@ -11657,10 +11753,15 @@
 {
 "topic": "Mercy",
 "topicId": "mercy",
-"items": [{ "type": "TR", "todoItem": "<span class=\"woc\">Be merciful.</span>", 
+"items": [{ "type": "TR", "todoItem": "<span class=\"woc\">Be merciful, just as your Father is merciful.</span>", 
   "bibleRefs": [
-    { "linkText": "Matthew 5:7", "link": "matthew_5.html?goto=7" },
     { "linkText": "Luke 6:36", "link": "luke_6.html?goto=36" }
+  ]
+}
+,
+{ "type": "TR", "todoItem": "<span class=\"woc\">Be merciful.</span>", 
+  "bibleRefs": [
+    { "linkText": "Matthew 5:7", "link": "matthew_5.html?goto=7" }
   ]
 }
 ,
@@ -11772,18 +11873,6 @@
 { "type": "C", "todoItem": "Know that God decides at what moment in history and to whom revelation of His plan for the Messiah is given.", 
   "bibleRefs": [
     { "linkText": "Ephesians 3:4-5", "link": "ephesians_3.html?goto=4-5" }
-  ]
-}
-,
-{ "type": "F", "todoItem": "Know that God promised that the Messiah would be of the seed of David.", 
-  "bibleRefs": [
-    { "linkText": "2 Samuel 7:12", "link": "2samuel_7.html?goto=12" }
-  ]
-}
-,
-{ "type": "F", "todoItem": "Know that God stated that the Messiah would be His Son.", 
-  "bibleRefs": [
-    { "linkText": "2 Samuel 7:14", "link": "2samuel_7.html?goto=14" }
   ]
 }
 ,
@@ -12065,6 +12154,12 @@
   ]
 }
 ,
+{ "type": "P", "todoItem": "Know that the Lord will not allow His children to famish.", 
+  "bibleRefs": [
+    { "linkText": "Proverbs 10:3", "link": "proverbs_10.html?goto=3" }
+  ]
+}
+,
 { "type": "C", "todoItem": "Know that the Lord will not suffer the soul of the righteous to famish.", 
   "bibleRefs": [
     { "linkText": "Proverbs 10:3", "link": "proverbs_10.html?goto=3" }
@@ -12223,7 +12318,7 @@
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that obedience to God&rsquo;s commandments will bring long life and peace to you.", 
+{ "type": "P", "todoItem": "Know that obedience to God&rsquo;s commandments will bring length of days, long life and peace to you.", 
   "bibleRefs": [
     { "linkText": "Proverbs 3:1-2", "link": "proverbs_3.html?goto=1-2" }
   ]
@@ -12286,6 +12381,12 @@
 { "type": "T", "todoItem": "Pay your taxes.", 
   "bibleRefs": [
     { "linkText": "Romans 13:6", "link": "romans_13.html?goto=6" }
+  ]
+}
+,
+{ "type": "T", "todoItem": "Remember all the commandments of the Lord, and do them.", 
+  "bibleRefs": [
+    { "linkText": "Numbers 15:39", "link": "numbers_15.html?goto=39" }
   ]
 }
 ,
@@ -12663,7 +12764,7 @@
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that obedience to God&rsquo;s commandments will bring long life and peace to you.", 
+{ "type": "P", "todoItem": "Know that obedience to God&rsquo;s commandments will bring length of days, long life and peace to you.", 
   "bibleRefs": [
     { "linkText": "Proverbs 3:1-2", "link": "proverbs_3.html?goto=1-2" }
   ]
@@ -12879,6 +12980,12 @@
   ]
 }
 ,
+{ "type": "T", "todoItem": "Do not allow your heart to be grieved when giving to the poor.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 15:10", "link": "deuteronomy_15.html?goto=10" }
+  ]
+}
+,
 { "type": "W", "todoItem": "Don&rsquo;t ignore the cry of the poor or you too shall cry but not be heard.", 
   "bibleRefs": [
     { "linkText": "Proverbs 21:13", "link": "proverbs_21.html?goto=13" }
@@ -12891,9 +12998,21 @@
   ]
 }
 ,
+{ "type": "T", "todoItem": "Give generously to your brother and to the poor and needy in the land.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 15:11", "link": "deuteronomy_15.html?goto=11" }
+  ]
+}
+,
 { "type": "TR", "todoItem": "<span class=\"woc\">Give to the poor and needy in secret.</span>", 
   "bibleRefs": [
     { "linkText": "Matthew 6:3-4", "link": "matthew_6.html?goto=3-4" }
+  ]
+}
+,
+{ "type": "W", "todoItem": "Know that failing to give to your poor brother will be counted as sin against you.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 15:9", "link": "deuteronomy_15.html?goto=9" }
   ]
 }
 ,
@@ -12918,6 +13037,18 @@
 { "type": "P", "todoItem": "Know that the Lord will repay to you whatever you give when you take pity on the poor.", 
   "bibleRefs": [
     { "linkText": "Proverbs 19:17", "link": "proverbs_19.html?goto=17" }
+  ]
+}
+,
+{ "type": "F", "todoItem": "Know that the poor will never cease out of the land.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 15:11", "link": "deuteronomy_15.html?goto=11" }
+  ]
+}
+,
+{ "type": "P", "todoItem": "Know that when you give to the poor the Lord will bless you in all your works and all that you put your hand to.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 15:10", "link": "deuteronomy_15.html?goto=10" }
   ]
 }
 ,
@@ -12961,7 +13092,7 @@
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that the Lord will bless you with plenty when you honour Him with your wealth and the first fruits of all your increase.", 
+{ "type": "P", "todoItem": "Know that the Lord will bless you with plenty when you honour Him with your offerings and tithes.", 
   "bibleRefs": [
     { "linkText": "Proverbs 3:9-10", "link": "proverbs_3.html?goto=9-10" }
   ]
@@ -13421,6 +13552,12 @@
   ]
 }
 ,
+{ "type": "TR", "todoItem": "<span class=\"woc\">Pray for them which despitefully use you.</span>", 
+  "bibleRefs": [
+    { "linkText": "Luke 6:28", "link": "luke_6.html?goto=28" }
+  ]
+}
+,
 { "type": "T", "todoItem": "Pray for those who minister to you, that they may be given the words to speak boldly to make the gospel known.", 
   "bibleRefs": [
     { "linkText": "Ephesians 6:19", "link": "ephesians_6.html?goto=19" }
@@ -13831,18 +13968,6 @@
   "bibleRefs": [
     { "linkText": "Luke 22:10-13", "link": "luke_22.html?goto=10-13" },
     { "linkText": "Luke 22:61", "link": "luke_22.html?goto=61" }
-  ]
-}
-,
-{ "type": "F", "todoItem": "Know that God promised that the Messiah would be of the seed of David.", 
-  "bibleRefs": [
-    { "linkText": "2 Samuel 7:12", "link": "2samuel_7.html?goto=12" }
-  ]
-}
-,
-{ "type": "F", "todoItem": "Know that God stated that the Messiah would be His Son.", 
-  "bibleRefs": [
-    { "linkText": "2 Samuel 7:14", "link": "2samuel_7.html?goto=14" }
   ]
 }
 ,
@@ -14485,6 +14610,12 @@
   ]
 }
 ,
+{ "type": "P", "todoItem": "Know that when you give to the poor the Lord will bless you in all your works and all that you put your hand to.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 15:10", "link": "deuteronomy_15.html?goto=10" }
+  ]
+}
+,
 { "type": "T", "todoItem": "When in authority, reward all those who do good work impartially, just as the Lord does.", 
   "bibleRefs": [
     { "linkText": "Ephesians 6:8-9", "link": "ephesians_6.html?goto=8-9" }
@@ -14540,6 +14671,12 @@
 { "type": "P", "todoItem": "Know that in the way of righteousness is life and no death.", 
   "bibleRefs": [
     { "linkText": "Proverbs 12:28", "link": "proverbs_12.html?goto=28" }
+  ]
+}
+,
+{ "type": "P", "todoItem": "Know that righteousness will deliver those from death in the day of wrath.", 
+  "bibleRefs": [
+    { "linkText": "Proverbs 11:4", "link": "proverbs_11.html?goto=4" }
   ]
 }
 ,
@@ -15397,6 +15534,12 @@
   ]
 }
 ,
+{ "type": "W", "todoItem": "Know that failing to give to your poor brother will be counted as sin against you.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 15:9", "link": "deuteronomy_15.html?goto=9" }
+  ]
+}
+,
 { "type": "F", "todoItem": "Know that God has already passed His sentence upon the sinner.", 
   "bibleRefs": [
     { "linkText": "Romans 6:23", "link": "romans_6.html?goto=23" }
@@ -15690,12 +15833,6 @@
 { "type": "P", "todoItem": "Know that God sent His Son to redeem those under the law.", 
   "bibleRefs": [
     { "linkText": "Galatians 4:5", "link": "galatians_4.html?goto=5" }
-  ]
-}
-,
-{ "type": "F", "todoItem": "Know that God stated that the Messiah would be His Son.", 
-  "bibleRefs": [
-    { "linkText": "2 Samuel 7:14", "link": "2samuel_7.html?goto=14" }
   ]
 }
 ,
@@ -16713,13 +16850,13 @@
   ]
 }
 ,
-{ "type": "T", "todoItem": "Yield your members as instruments of righteousness to God.", 
+{ "type": "T", "todoItem": "Surrender yourself to God.", 
   "bibleRefs": [
     { "linkText": "Romans 6:13", "link": "romans_6.html?goto=13" }
   ]
 }
 ,
-{ "type": "T", "todoItem": "Yield yourself to God.", 
+{ "type": "T", "todoItem": "Yield your members as instruments of righteousness to God.", 
   "bibleRefs": [
     { "linkText": "Romans 6:13", "link": "romans_6.html?goto=13" }
   ]
@@ -17354,7 +17491,7 @@
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that the Lord will bless you with plenty when you honour Him with your wealth and the first fruits of all your increase.", 
+{ "type": "P", "todoItem": "Know that the Lord will bless you with plenty when you honour Him with your offerings and tithes.", 
   "bibleRefs": [
     { "linkText": "Proverbs 3:9-10", "link": "proverbs_3.html?goto=9-10" }
   ]
@@ -17670,6 +17807,12 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that God used His wisdom and understanding to construct the earth and the heavens.", 
+  "bibleRefs": [
+    { "linkText": "Proverbs 3:19", "link": "proverbs_3.html?goto=19" }
+  ]
+}
+,
 { "type": "P", "todoItem": "Know that obtaining wisdom and understanding will bring you happiness.", 
   "bibleRefs": [
     { "linkText": "Proverbs 3:13", "link": "proverbs_3.html?goto=13" }
@@ -17932,13 +18075,19 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that riches will not save the wicked in the day of wrath.", 
+  "bibleRefs": [
+    { "linkText": "Proverbs 11:4", "link": "proverbs_11.html?goto=4" }
+  ]
+}
+,
 { "type": "P", "todoItem": "Know that the hand of the diligent maketh rich.", 
   "bibleRefs": [
     { "linkText": "Proverbs 10:4", "link": "proverbs_10.html?goto=4" }
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that the Lord will bless you with plenty when you honour Him with your wealth and the first fruits of all your increase.", 
+{ "type": "P", "todoItem": "Know that the Lord will bless you with plenty when you honour Him with your offerings and tithes.", 
   "bibleRefs": [
     { "linkText": "Proverbs 3:9-10", "link": "proverbs_3.html?goto=9-10" }
   ]
@@ -18494,6 +18643,12 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that God used His wisdom and understanding to construct the earth and the heavens.", 
+  "bibleRefs": [
+    { "linkText": "Proverbs 3:19", "link": "proverbs_3.html?goto=19" }
+  ]
+}
+,
 { "type": "P", "todoItem": "Know that God will give His Holy Spirit and make His words known to those who turn to Him when rebuked.", 
   "bibleRefs": [
     { "linkText": "Proverbs 1:23", "link": "proverbs_1.html?goto=23" }
@@ -18919,6 +19074,12 @@
 "items": [{ "type": "TR", "todoItem": "<span class=\"woc\">Behold the fowls of the air and how the Father feeds them.</span>", 
   "bibleRefs": [
     { "linkText": "Matthew 6:26", "link": "matthew_6.html?goto=26" }
+  ]
+}
+,
+{ "type": "P", "todoItem": "Cast your burden upon the Lord and He will sustain you.", 
+  "bibleRefs": [
+    { "linkText": "Psalms 55:22", "link": "psalms_55.html?goto=22" }
   ]
 }
 ,

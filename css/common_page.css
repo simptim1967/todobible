@@ -1,321 +1,334 @@
 /* common.css - Stylesheet to override bootstrap defaults and share styling common to all website pages */
 
 html {
-    /* set font defaults */
-/*    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; */
-    font-size: 18px; 
+  /* set font defaults */
+  /*    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; */
+  font-size: 18px;
 }
 
 body {
-    /* set font defaults */
-/*    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; */
-    font-size: 18px; 
-    /* set default colours */
-    background-color: #d1c4e9; 
-    color: purple;
+  /* set font defaults */
+  /*    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; */
+  font-size: 18px;
+  /* set default colours */
+  background-color: #d1c4e9;
+  color: purple;
 }
 
 /* image header beneath menu */
 
 .headerblock {
-    background-image: url("../images/head.jpg");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin-top: 0px;
-    margin-bottom: 10px;
-    height: 100px;
+  background-image: url("../images/head.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  height: 100px;
 }
 
 .logoverse {
-    width: auto;
-    padding:5px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    text-align: right;
-    text-shadow: 0 0 0.2rem black, 0 0 0.2rem black,0 0 0.2rem black,0 0 0.2rem black;
-    font-weight: bold;
+  width: auto;
+  padding: 5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align: right;
+  text-shadow: 0 0 0.2rem black, 0 0 0.2rem black, 0 0 0.2rem black,
+    0 0 0.2rem black;
+  font-weight: bold;
 }
 
 .logoverse p {
-    font-style: italic;
-    color: violet;
-    font-size: 0.9rem;
-    margin-bottom: 3px;
-    line-height: 1.1rem;
+  font-style: italic;
+  color: violet;
+  font-size: 0.9rem;
+  margin-bottom: 3px;
+  line-height: 1.1rem;
 }
 
 .logoverse a {
-    text-decoration: none;
-    color: violet;
-    font-size: 0.9rem;
+  text-decoration: none;
+  color: violet;
+  font-size: 0.9rem;
 }
 
 .logoverse a:hover {
-    text-decoration: none;
-    color: violet;
+  text-decoration: none;
+  color: violet;
 }
 
 .woc {
-    /* style for words of Christ */
-    color:red;
+  /* style for words of Christ */
+  color: red;
 }
 
 .nog {
-    /* style for name of God */
-    font-variant: small-caps;
+  /* style for name of God */
+  font-variant: small-caps;
 }
 
 .extra {
-    /* style for extra words added in English for clarity */
-    font-style: italic;
-    color: blue;
+  /* style for extra words added in English for clarity */
+  font-style: italic;
+  color: lightslategrey;
 }
 
 .woc .extra {
-    color:#ef9a9a;
+  color: #ef9a9a;
 }
 
 .panel {
-    margin-bottom: 1px;
+  margin-bottom: 1px;
 }
-.panel-heading  {
-    padding-top: 2px;
-    padding-bottom: 2px;
-    font-size: 1.3rem;
+.panel-heading {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-size: 1.3rem;
 }
 .panel-heading a {
-    display: block;
+  display: block;
 }
 .jumbotron {
-    background-image: url(../images/home.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin-bottom: 10px;
-    color: white;
-    text-shadow: 0 0 0.3em black, 0 0 0.3em black, 0 0 0.3em black, 0 0 0.3em black;
+  background-image: url(../images/home2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 10px;
+  color: white;
+  text-shadow: 0 0 0.3em black, 0 0 0.3em black, 0 0 0.3em black,
+    0 0 0.3em black;
 }
 
 h1 {
-    margin-top: 10px;
-    color: purple;
+  margin-top: 10px;
+  color: purple;
 }
 
 h2 {
-    color: purple;
+  color: purple;
 }
 
 p {
-    font-size: 1rem;
+  font-size: 1rem;
 }
 
 .img-thumbnail {
-    border-color: purple; 
+  border-color: purple;
 }
 
 .featurette-divider {
-    border-color: purple;
-    margin-top: 10px;
-    margin-bottom: 10px;
+  border-color: purple;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 /* navbar */
 .navbar {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .navbar-default {
-    background-color: #6a1b9a; 
-    border-color: #6a1b9a; 
-    margin-bottom: 10px;
+  background-color: #6a1b9a;
+  border-color: #6a1b9a;
+  margin-bottom: 10px;
 }
 
 /* title */
 .navbar-default .navbar-brand {
-    color: white; 
+  color: white;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-    color: white; 
+  color: white;
 }
 
 /* link */
 .navbar-default .navbar-nav > li > a {
-    color: white; /* #777; */
+  color: white; /* #777; */
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: lightskyblue; /* #333; */
+  color: lightskyblue; /* #333; */
 }
 
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-    color: white; 
-    background-color: #6a1b9a; 
+  color: white;
+  background-color: #6a1b9a;
 }
 
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-    color: #6a1b9a; 
-    background-color: #D5D5D5;
+  color: #6a1b9a;
+  background-color: #d5d5d5;
 }
 
 /* caret initial color */
 .navbar-default .navbar-nav > .dropdown > a .caret {
-    border-top-color: white; 
-    border-bottom-color: white; 
+  border-top-color: white;
+  border-bottom-color: white;
 }
 
 /* caret color to use when hover/focus on navbar drop-down option */
 .navbar-default .navbar-nav > .dropdown > a:hover .caret,
 .navbar-default .navbar-nav > .dropdown > a:focus .caret {
-    border-top-color: lightskyblue;
-    border-bottom-color: lightskyblue;
+  border-top-color: lightskyblue;
+  border-bottom-color: lightskyblue;
 }
 
 /* color to use when open navbar drop-down option */
 .navbar-default .navbar-nav > .open > a .caret,
 .navbar-default .navbar-nav > .open > a:hover .caret,
 .navbar-default .navbar-nav > .open > a:focus .caret {
-    border-top-color: #6a1b9a; /* purple; */
-    border-bottom-color: #6a1b9a; /* purple; */
+  border-top-color: #6a1b9a; /* purple; */
+  border-bottom-color: #6a1b9a; /* purple; */
 }
 
 /* mobile version - hamburger menu button */
 .navbar-default .navbar-toggle {
-    border-color: white;
+  border-color: white;
 }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: lightskyblue;
+  background-color: lightskyblue;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: white; 
+  background-color: white;
 }
 
 .dropdown-menu {
-    font-size: 0.9rem;
+  font-size: 0.9rem;
 }
 
 @media (max-width: 767px) {
-    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-        color: white; /* #777;*/
-    }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: white; /* #777;*/
+  }
 
-    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
-    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-        background-color: lightskyblue; 
-    }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    background-color: lightskyblue;
+  }
 }
 
 .dropdown-menu > li > a:hover {
-    background-color: lightskyblue;
+  background-color: lightskyblue;
 }
 
 .itemfact {
-    background-color: cornflowerblue;
-    color: purple;
-    /* used monospaced font size for A-Z link buttons */
-    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-    font-size: 1rem;
+  background-color: cornflowerblue;
+  color: purple;
+  /* used monospaced font size for A-Z link buttons */
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter",
+    "Lucida Typewriter", monospace;
+  font-size: 1rem;
 }
 .itemcog {
-    background-color: gray;
-    color: purple;
-    /* used monospaced font size for A-Z link buttons */
-    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-    font-size: 1rem;
+  background-color: gray;
+  color: purple;
+  /* used monospaced font size for A-Z link buttons */
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter",
+    "Lucida Typewriter", monospace;
+  font-size: 1rem;
 }
 .itemiic {
-    background-color: green;
-    color: white;
-    /* used monospaced font size for A-Z link buttons */
-    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-    font-size: 1rem;
+  background-color: green;
+  color: white;
+  /* used monospaced font size for A-Z link buttons */
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter",
+    "Lucida Typewriter", monospace;
+  font-size: 1rem;
 }
 .itempromise {
-    background-color: gold;
-    color: purple;
-    /* used monospaced font size for A-Z link buttons */
-    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-    font-size: 1rem;
+  background-color: gold;
+  color: purple;
+  /* used monospaced font size for A-Z link buttons */
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter",
+    "Lucida Typewriter", monospace;
+  font-size: 1rem;
 }
 .itemtodo {
-    background-color: purple;
-    color: white;
-    /* used monospaced font size for A-Z link buttons */
-    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-    font-size: 1rem;
-    font-weight: normal;
+  background-color: purple;
+  color: white;
+  /* used monospaced font size for A-Z link buttons */
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter",
+    "Lucida Typewriter", monospace;
+  font-size: 1rem;
+  font-weight: normal;
 }
 .itemwarn {
-    background-color: coral;
-    color: purple;
-    /* used monospaced font size for A-Z link buttons */
-    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-    font-size: 1rem;
+  background-color: coral;
+  color: purple;
+  /* used monospaced font size for A-Z link buttons */
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter",
+    "Lucida Typewriter", monospace;
+  font-size: 1rem;
 }
 .itemtodowoc {
-    background-color: #d32f2f;
-    color: white;
-    /* used monospaced font size for A-Z link buttons */
-    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-    font-size: 1rem;
-    font-weight: normal;
+  background-color: #d32f2f;
+  color: white;
+  /* used monospaced font size for A-Z link buttons */
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter",
+    "Lucida Typewriter", monospace;
+  font-size: 1rem;
+  font-weight: normal;
 }
 .quoteverse {
-    display:block;
-    width: 70%;
-    background-color: white;
-    color: black;
-    border-left: solid 3px purple;
-    margin: 10px auto;
-    padding: 5px;
-    font-size: 0.9rem;
-    text-indent: 0.8rem;
+  display: block;
+  width: 70%;
+  background-color: white;
+  color: black;
+  border-left: solid 3px purple;
+  margin: 10px auto;
+  padding: 5px;
+  font-size: 0.9rem;
+  text-indent: 0.8rem;
 }
 
 .quoteverse p {
-    font-size: 0.9rem;
-    padding-left: 5px;
+  font-size: 0.9rem;
+  padding-left: 5px;
 }
 
 .quoteverse a {
-    display: block;
-    text-align: center;
+  display: block;
+  text-align: center;
 }
 
 .quoteverse i {
-    color: blue;
+  color: blue;
 }
 
-.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
-    padding: 3px;
-    line-height: 1.4285;
-    vertical-align: top;
-    border-top: 1px solid #ddd;
+.table > tbody > tr > td,
+.table > tbody > tr > th,
+.table > tfoot > tr > td,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > thead > tr > th {
+  padding: 3px;
+  line-height: 1.4285;
+  vertical-align: top;
+  border-top: 1px solid #ddd;
 }
 .table {
-    width: 100%;
-    max-width: 100%;
-    margin-bottom: 3px;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 3px;
 }
 
 .tooltip {
-    text-indent: 0; 
+  text-indent: 0;
 }
 
 .ttw {
-    /* style for tooltip word explanations */
-    border-bottom-style: dotted; 
-    border-bottom-width: 2px; 
-    border-bottom-color:purple
+  /* style for tooltip word explanations */
+  border-bottom-style: dotted;
+  border-bottom-width: 2px;
+  border-bottom-color: purple;
 }
-

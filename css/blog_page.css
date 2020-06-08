@@ -1,4 +1,4 @@
-/* resource_page.css */
+/* blog_page.css */
 
 .hashtag {
   background-color: cornflowerblue;
@@ -6,6 +6,27 @@
   font-family: "Courier New", Courier, "Lucida Sans Typewriter",
     "Lucida Typewriter", monospace;
   font-size: 1rem;
+}
+
+.blog-day {
+  color: purple;
+  background-color: lightgray;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
+.blog-year {
+  color: purple;
+  background-color: lightgray;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
+.blog-month {
+  color: steelblue;
+  background-color: lightgray;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  padding-left: 2px;
+  padding-right: 2px;
 }
 
 /* Bible navigation */
@@ -117,13 +138,7 @@ h4 {
   margin-bottom: 2px;
 }
 
-#mugshot {
-  margin-left: 5px;
-  margin-bottom: 3px;
-  float: right;
-}
-
-#tweet {
+.mugshot {
   margin-left: 5px;
   margin-bottom: 3px;
   float: right;
@@ -238,6 +253,23 @@ h4 {
   margin: 3px;
 }
 
-.panel-content {
-  background-color: #d1c4e9;
+.panel {
+  margin-bottom: 5px;
+}
+.panel-body {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  /*
+  margin-bottom: 3px;
+  */
+}
+.firstcharacter {
+  color: purple;
+  float: left;
+  font-family: Georgia;
+  font-size: 95px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
 }

@@ -3,6 +3,7 @@ echo Copying script files ...
 del ..\live\script\*.js
 
 copy .\script\biblenav.js ..\live\script
+copy .\script\reading-plan.js ..\live\script
 copy .\script\bootstrap.min.js ..\live\script
 copy .\script\highlight-verses.js ..\live\script
 copy .\script\interlinear.js ..\live\script

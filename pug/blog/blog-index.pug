@@ -1,0 +1,102 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    // The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags
+    meta(name='keywords', content='bible todo list, King James holy bible, words of Jesus, commandments of Jesus, bible index, bible to do items')
+    meta(name='description', content="An index of blog articles published on this website.")
+    title Blog Index
+    // Bootstrap
+    link(href='../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../css/common_page.css', rel='stylesheet')
+    link(href='../css/blog_page.css', rel='stylesheet')
+  body
+    mixin BLOG_DATE(day,month,year)
+      span.text-center
+        span.blog-day
+          | &nbsp;#{day}&nbsp;
+        span.blog-month
+          | &nbsp;#{month}&nbsp;
+        span.blog-year
+          | &nbsp;#{year}&nbsp;
+        | &nbsp;
+    include ../includes/root_page_menu.pug
+    include ../includes/resource_page_header.pug
+    main
+      //
+        Main content
+        ==================================================
+      .container
+        .row
+          .col-md-8
+            h1 Blog Index
+            hr.featurette-divider
+
+            p
+              | Through this blog I hope to give you a flavour of my Christian lifestyle.
+              | I hope that you will find it informative and helpful as I share my journey
+              | and pray that it will be a blessing to you.
+
+            p.text-right
+              b Tim Simpson
+              br 
+              span.badge.hashtag #ChristianDogWalker
+
+            h2 2020
+
+            .panel.panel-default
+              .panel-heading
+                a(href="/blog/2020/01-walking-and-talking-with-god.html", title="Walking And Talking With God") Walking And Talking With God
+              .panel-body
+                div
+                  | Dog walking is not so much a necessity for our dogs as an excuse for me to take pleasure in God's creation and to pray.
+                  br
+                  +BLOG_DATE("07","JUN","2020")
+
+            h2 2019
+
+            .panel.panel-default
+              .panel-heading
+                a(href="/resources/bible-study-ephesians-1.html", title="Walking And Talking With God") Bible Study: Identity Explained
+              .panel-body
+                div
+                  | In this bible study of Ephesians 1 a number of identities are revealed and explained, including that of
+                  | our own new identity in Christ as believers.
+                  br
+                  +BLOG_DATE("04","JAN","2019")
+
+            h2 2018
+
+            .panel.panel-default
+              .panel-heading
+                a(href="/resources/the-turner-of-the-pages.html", title="The Turner Of The Pages") The Turner Of The Pages
+              .panel-body
+                div
+                  | I was praying as I was walking when I started to have
+                  | vivid thoughts about God. Here's what God had me thinking ...
+                  br
+                  +BLOG_DATE("27","FEB","2018")
+
+          .col-md-4.hidden-print
+            hr.featurette-divider.hidden-md.hidden-lg
+            .biblenavigation.hidden-print
+              h3#goto Navigate The Bible
+              h4 Go To Bible Reference
+              .versenavigation
+                form
+                  label(for='vref') Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:
+                  fieldset
+                    input#vref(type='text', maxlength='25', spellcheck='false')
+                    button#gotoverse.btn-md.btn-primary(type='submit', onclick='GoToVerse(); return false') Go
+        // /row
+      // /container
+    include ../includes/page_footer.pug
+    script(type='text/javascript', src='../script/biblenav.js')
+    //
+      jQuery (necessary for Bootstrap's JavaScript plugins)
+      originally from: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+    script(src='../script/jquery-1.12.4.min.js')
+    // Include all compiled plugins (below), or include individual files as needed
+    script(src='../script/bootstrap.min.js')

@@ -48,6 +48,8 @@ html(lang='en-GB')
                     li
                       a(href='genesis_1.html') Start Reading The Bible
                     li
+                      a(href='bible_reading_plan.html') One Year Reading Plan
+                    li
                       a(href='king_james_bible_index_page.html') Bible Index Page
                     li.divider(role='separator')
                     li
@@ -66,6 +68,8 @@ html(lang='en-GB')
                     li.divider(role='separator')
                     li
                       a(href='#vref') Go To Bible Reference ...
+                    li
+                      a(href='#today') Daily Reading Plan ...
                 li.dropdown
                   a.dropdown-toggle(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
                     | ToDo 
@@ -88,7 +92,7 @@ html(lang='en-GB')
                     li
                       a(href='../todo/bible_todo_topics_index.html') Bible ToDo List Topic Index
                 li
-                  a(href='../resources/resources.html') Resources
+                  a(href='../blog/blog-index.html') Blog
                 li
                   a(href='../about_todo_bible.html') About
     include ../includes/bible_page_header.pug
@@ -217,6 +221,17 @@ html(lang='en-GB')
                   //-Link to next chapter
                   a(href=page.chapter.nextChapter)
                     img(src='../images/next_button.svg', width='24', alt=altNext, title=altNext)
+          // Daily Bible Reading Plan
+          br
+          .dailyplannavigation.hidden-print
+            h3 Daily Reading Plan
+            h4
+              span#today
+                | month dd, yyyy
+              | &nbsp;
+              button#reading-today.btn-md.btn-primary(type='submit', onclick='ShowReadingPlanForToday(); return false') Today
+            table.dailynavigation#reading-plan
+
         .col-md-4.hidden-print
           .hidden-md.hidden-lg.text-center
             hr.featurette-divider
@@ -262,6 +277,7 @@ html(lang='en-GB')
     include ../includes/page_footer.pug
 
     script(type='text/javascript', src='../script/biblenav.js')
+    script(type='text/javascript', src='../script/reading-plan.js')
     script(type="text/javascript", src='../script/jquery-1.12.4.min.js')
     script(type='text/javascript', src='../script/jquery.scrollTo.js')
     script(type="text/javascript", src='../script/bootstrap.min.js')

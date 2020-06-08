@@ -14,60 +14,56 @@ html(lang='en-GB')
     link(href='css/common_page.css', rel='stylesheet')
   body
     include ./includes/root_page_menu.pug
-    //
-      Primary marketing message or call to action
-      ==================================================
-    .container
-      .jumbotron.text-center
-        h1 Be encouraged.
-        p God has a plan and purpose for your life!
-        p Read the bible to discover your true identity 
-          | and learn who you were created to be.
-        //p
-          //a.btn.btn-warning.btn-lg(href='kjv/jeremiah_29.html?goto=11', role='button') Jeremiah 29:11 »
-    //
-      Main content features
-      ==================================================
-    .container.text-center
-      // Three columns of text below the jumbotron / carousel
-      .row
-        .col-sm-4
-          img(src='images/checklist.svg', width='178', height='178', alt='Bible ToDo List', title='Bible ToDo List')
-          h2 Bible ToDo List
+
+    main
+      //
+        Primary marketing message or call to action
+        ==================================================
+      .container
+        .jumbotron.text-center
+          h1 Be Encouraged
           p
-            | A 
-            a(href='todo/bible_todo_list.html') Bible ToDo List
-            |  reminding us what God's Word teaches us to do because we love Jesus.
-            | See the 
-            a(href='todo/bible_todo_list_ultimate.html') Ultimate Bible ToDo List
-            |  recommended by Jesus.
+            | God has a plan and purpose for your life!
           p
-            a.btn.btn-lg.btn-primary(href='todo/bible_todo_list_ultimate.html', role='button') Ultimate Bible ToDo List »
-          hr.featurette-divider.hidden-sm.hidden-md.hidden-lg
-        // /.col-sm-4
-        .col-sm-4
-          img(src='images/bible.svg', width='178', height='178', alt='King James Bible', title='King James Bible')
-          h2 Read The Bible
-          p
-            | Read the King James Bible with the words of Jesus highlighted in 
-            span(class='woc') red
-            | . Use the 
-            a(href='kjv/king_james_bible_index_page.html') Bible Index Page
-            |  to quickly navigate to any chapter of the bible.
-          p
-            a.btn.btn-lg.btn-primary(href='kjv/genesis_1.html', role='button') Start Reading The Bible »
-          hr.featurette-divider.hidden-sm.hidden-md.hidden-lg
-        // /.col-sm-4
-        .col-sm-4
-          img(src='images/twitter.svg', width='178', height='178', alt='Twitter Logo', title='Twitter Logo')
-          h2 Follow @ToDoBible
-          p
-            | You can contact or follow @ToDoBible on Twitter
-            | to learn about updates to the Bible ToDo List as well as to receive tweets of encouragement.
-          p
-            a.btn.btn-lg.btn-primary(href='https://twitter.com/ToDoBible', role='button', target="_blank") View @ToDoBible »
-        // /.col-sm-4
-      // /.row
+            | Read the bible to discover your true identity 
+            | and learn who you were created to be.
+        hr.featurette-divider
+        //
+          Main content features
+          ==================================================
+      .container.text-center
+        // Three columns of text below the jumbotron / carousel
+        .row
+          .col-sm-4
+            img(src='images/bible.svg', width='178', height='178', alt='King James Bible', title='King James Bible')
+            h2 Read The Bible
+            p
+              | Read the King James Bible with the words of Jesus highlighted in 
+              span(class='woc') red
+              | .
+            p
+              a.btn.btn-lg.btn-primary(href='kjv/genesis_1.html', role='button') Start Reading The Bible »
+            hr.featurette-divider.hidden-sm.hidden-md.hidden-lg
+          // /.col-sm-4
+          .col-sm-4
+            img(src='images/checklist.svg', width='178', height='178', alt='Bible ToDo List', title='Bible ToDo List')
+            h2 Bible ToDo List
+            p
+              | What God's Word teaches us to do as followers of Jesus.
+            p
+              a.btn.btn-lg.btn-primary(href='todo/bible_todo_list.html', role='button') Bible ToDo List »
+            hr.featurette-divider.hidden-sm.hidden-md.hidden-lg
+          // /.col-sm-4
+          .col-sm-4
+            img(src='images/blogging.svg', width='178', height='178', alt='Blog', title='Blog')
+            h2 Blog
+            p
+              | Living the Christian life with passion and purpose. Follow my journey.
+            p
+              a.btn.btn-lg.btn-primary(href='blog/blog-index.html', role='button') Blog Index »
+          // /.col-sm-4
+        // /.row
+
     include includes/page_footer.pug
     //
       jQuery (necessary for Bootstrap's JavaScript plugins)

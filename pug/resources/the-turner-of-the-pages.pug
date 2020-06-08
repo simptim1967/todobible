@@ -11,31 +11,17 @@ html(lang='en-GB')
     // Bootstrap
     link(href='../css/bootstrap.min.css', rel='stylesheet')
     link(href='../css/common_page.css', rel='stylesheet')
-    link(href='../css/resource_page.css', rel='stylesheet')
-  body(data-spy='scroll', data-target='#myScrollspy')
-    include ../includes/resource_page_menu.pug
+    link(href='../css/blog_page.css', rel='stylesheet')
+  body
+    include ../includes/root_page_menu.pug
     include ../includes/resource_page_header.pug
     //
       Main content
       ==================================================
     .container
       .row
-        .col-md-2.hidden-print.hidden-sm.hidden-xs
-          nav#myScrollspy
-            ul.nav.nav-pills.nav-stacked.affix-top(data-spy='affix', data-offset-top='170')
-              li.active
-                a(href='resources.html')
-                  b Resources
-              li
-                a(href='resources.html#articles') Articles
-              li
-                a(href='resources.html#studies') Bible Studies
-              li
-                a(href='resources.html#todo') Bible ToDo Lists
-              li
-                a(href='resources.html#kjv') King James Bible
         // Main content block
-        .col-md-7
+        .col-md-8
           h1 The Turner Of The Pages
           hr.featurette-divider
 
@@ -43,7 +29,7 @@ html(lang='en-GB')
           p
             | One Sunday I took our dogs for a walk. As per usual, I was praying as I was walking when I started to have
             | vivid thoughts and imaginations about God. The thoughts continued later that day and I was compelled to 
-            | write them down. Hence this article was born, albeit initially as an email to a friend.
+            | write them down. So here's what God had me thinking ...
           
           h2 Thoughts inspired by the Holy Spirit
           p
@@ -113,11 +99,14 @@ html(lang='en-GB')
           p
             | Amen.
 
-          h2 Author
-          p
-            | Tim Simpson, February 2018
+          p.text-right
+            | Tim Simpson
+            br
+            | 27th February, 2018
+            br 
+            span.badge.hashtag #ChristianDogWalker
   
-        .col-md-3.hidden-print
+        .col-md-4.hidden-print
           hr.featurette-divider.hidden-md.hidden-lg
           .biblenavigation.hidden-print
             h3#goto Navigate The Bible
@@ -127,7 +116,7 @@ html(lang='en-GB')
                 label(for='vref') Enter a bible reference (e.g. 'John 3:16' or 'Ps 23') to go to:
                 fieldset
                   input#vref(type='text', maxlength='25', spellcheck='false')
-                  button#gotoverse.btn-sm.btn-primary(type='submit', onclick='GoToVerse(); return false') Go
+                  button#gotoverse.btn-md.btn-primary(type='submit', onclick='GoToVerse(); return false') Go
       // /row
     // /container
     include ../includes/page_footer.pug

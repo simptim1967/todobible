@@ -12,30 +12,16 @@ html(lang='en-GB')
     link(href='../css/bootstrap.min.css', rel='stylesheet')
     link(href='../css/common_page.css', rel='stylesheet')
     link(href='../css/resource_page.css', rel='stylesheet')
-  body(data-spy='scroll', data-target='#myScrollspy')
-    include ../includes/resource_page_menu.pug
+  body
+    include ../includes/root_page_menu.pug
     include ../includes/resource_page_header.pug
     //
       Main content
       ==================================================
     .container
       .row
-        .col-md-2.hidden-print.hidden-sm.hidden-xs
-          nav#myScrollspy
-            ul.nav.nav-pills.nav-stacked.affix-top(data-spy='affix', data-offset-top='170')
-              li.active
-                a(href='resources.html')
-                  b Resources
-              li
-                a(href='resources.html#articles') Articles
-              li
-                a(href='resources.html#studies') Bible Studies
-              li
-                a(href='resources.html#todo') Bible ToDo Lists
-              li
-                a(href='resources.html#kjv') King James Bible
         // Main content block
-        .col-md-7
+        .col-md-8
           h1 Ephesians Chapter 1: Identity Explained
           hr.featurette-divider
 
@@ -2232,11 +2218,14 @@ html(lang='en-GB')
             .text-right
               small Top of page
 
-          h2 Author
-          p
-            | Tim Simpson, December 2018
+          p.text-right
+            | Tim Simpson
+            br
+            | 4th January, 2019
+            br 
+            span.badge.hashtag #ChristianDogWalker
 
-        .col-md-3.hidden-print
+        .col-md-4.hidden-print
           hr.featurette-divider.hidden-md.hidden-lg
           .biblenavigation.hidden-print
             h3#goto Navigate The Bible

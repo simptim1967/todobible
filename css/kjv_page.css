@@ -1,260 +1,342 @@
 /* biblepage.css */
 
 .col-md-4 {
-    padding-left: 0px;
+  padding-left: 0px;
 }
 @media (max-width: 991px) {
-    .col-md-4 {
-        padding-left: 15px;
-    }
+  .col-md-4 {
+    padding-left: 15px;
+  }
 }
 
 /* Bible navigation */
 .biblenavigation {
-    background-color: #64091D; /* wine red */
-    margin-top: 0px;
-    padding-top: 5px;
-    padding-bottom: 7px;
-    padding-left: 15px;
-    padding-right: 15px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
+  background-color: #64091d; /* wine red */
+  margin-top: 0px;
+  padding-top: 5px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
 }
 
 /* Go To Bible reference */
 
 .versenavigation {
-    border: solid #b388ff 1px;
-    padding: 10px;
+  border: solid #b388ff 1px;
+  padding: 10px;
 }
 
 .versenavigation label {
-    color: #b388ff;
-    font-size: 1em;
+  color: #b388ff;
+  font-size: 1em;
 }
 
 .versenavigation form a {
-    border: solid 1px silver;
-    background-color: purple; 
-    padding: 5px;
+  border: solid 1px silver;
+  background-color: purple;
+  padding: 5px;
 }
 
 #vref {
-    border: solid 1px silver;
-    background-color: #E0B4DC;
-    padding: 3px;
-    margin-right: 5px;
-    margin-bottom: 7px;
-    color: black;
-    width: 60%;
+  border: solid 1px silver;
+  background-color: #e0b4dc;
+  padding: 3px;
+  margin-right: 5px;
+  margin-bottom: 7px;
+  color: black;
+  width: 60%;
 }
 
 #gotoverse {
-    border: solid 1px silver;
-    background-color: purple; 
+  border: solid 1px silver;
+  background-color: purple;
 }
 
 /* Go To Chapter */
 
 .chapternavigation {
-    margin-top: 5px;
-    margin-bottom: 5px;
-    table-layout: fixed;
-    width: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  table-layout: fixed;
+  width: 100%;
 }
 
 .chapternavigation td {
-    border: solid #b388ff 1px;
-    padding: 7px;
-    text-align: center;
+  border: solid #b388ff 1px;
+  padding: 7px;
+  text-align: center;
 }
 
 #currentchapterhighlight {
-    background-color: #b388ff; 
-    color: #790079; /* purple */
+  background-color: #b388ff;
+  color: #790079; /* purple */
 }
 
 .chapternavigation a {
-    display: block;
-    color: #b388ff;
-    text-decoration: none;
+  display: block;
+  color: #b388ff;
+  text-decoration: none;
 }
 
 /* Bible page related styling */
 
 .biblepage {
-    margin-top: 0px;
-    background-color: #FFFFFF;
-    padding-top: 7px;
-    padding-bottom: 5px;
-    padding-left: 15px;
-    padding-right: 15px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
-    border: solid 1px purple;
+  margin-top: 0px;
+  background-color: #ffffff;
+  padding-top: 7px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  border: solid 1px purple;
 }
 
 .bp_head_foot {
-    width: 100%;
-    border-top: solid 1px black;
-    border-bottom: solid 1px black;
-    background-color: #EEEEEE;
-    margin-bottom: 7px;
-    margin-top: 7px;
+  width: 100%;
+  border-top: solid 1px black;
+  border-bottom: solid 1px black;
+  background-color: #eeeeee;
+  margin-bottom: 7px;
+  margin-top: 7px;
 }
 
 .bp_head_foot img {
-    display:block;
+  display: block;
 }
 
 .nav-arrow {
-    width: 20px;
+  width: 20px;
 }
 
 .highlightverse {
-    padding: 6px;
-    text-indent: 1.3rem;
-    line-height: 1.3rem;
-    font-size: 1rem;
-    background-color: #fce4ec;
-    /* 
+  padding: 6px;
+  text-indent: 1.3rem;
+  line-height: 1.3rem;
+  font-size: 1rem;
+  background-color: #fce4ec;
+  /* 
     color: #707070;
     font-weight: 200;
     */
-    color: black;
-    position: relative; 
-    border-right: solid 6px #6a1b9a;
+  color: black;
+  position: relative;
+  border-right: solid 6px #6a1b9a;
 }
 
 .highlightverse b {
-    color: black;
+  color: black;
 }
 
 .verse {
-    position: relative;
-    padding: 6px;
-    text-indent: 1.3rem;
-    line-height: 1.3rem;
-    font-size: 1rem;
-    color: black;
+  position: relative;
+  padding: 6px;
+  text-indent: 1.3rem;
+  line-height: 1.3rem;
+  font-size: 1rem;
+  color: black;
 }
 
 .verse b {
-    color: black;
+  color: black;
 }
 
 .verse:hover {
-    background-color: lemonchiffon;
+  background-color: lemonchiffon;
 }
 
-/* Verse todo list styling */ 
+/* Verse todo list styling */
 
 .tl-btn-open {
-    position: absolute;
-    top: 7px;
-    left: 0px;
-    width: 20px;
-    color: blue;
+  position: absolute;
+  top: 7px;
+  left: 0px;
+  width: 20px;
+  color: blue;
 }
 
 .tl-btn-open:hover {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .tl-btn-close:hover {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .tl-btn-close {
-    position: absolute;
-    top: 7px;
-    left: 0px;
-    width: 20px;
-    color: blue;
+  position: absolute;
+  top: 7px;
+  left: 0px;
+  width: 20px;
+  color: blue;
 }
 
 .tl-in-line-btn-close:hover {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .tl-in-line-btn-close {
-    width: 20px;
-    vertical-align: middle;
-    margin-top: 3px;
-    margin-right: 2px;
+  width: 20px;
+  vertical-align: middle;
+  margin-top: 3px;
+  margin-right: 2px;
 }
 
 .tl-btn-hide {
-    display: none;
+  display: none;
 }
 .tl-hide {
-    display: none;
+  display: none;
 }
 .verse-todo-list {
-    margin-left: 3%;
-    background-color: lavender;
-    border-left: solid 1px purple;
-    border-right: solid 1px purple;
-    border-bottom: solid 1px purple;
+  margin-left: 3%;
+  background-color: lavender;
+  border-left: solid 1px purple;
+  border-right: solid 1px purple;
+  border-bottom: solid 1px purple;
 }
 .verse-todo-list-title {
-    background-color: purple;
-    color: white;
-    text-align: center;
+  background-color: purple;
+  color: white;
+  text-align: center;
 }
 .verse-todo-item {
-    padding: 3px;
-    border-top: solid 1px purple;
+  padding: 3px;
+  border-top: solid 1px purple;
 }
 
-h1, h2 {
-    font-size: 1.4rem;
-    font-weight: bold;
-    color: purple;
-    text-align: center;
-    margin-bottom: 4px;
-    margin-top: 0px;
+h1,
+h2 {
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: purple;
+  text-align: center;
+  margin-bottom: 4px;
+  margin-top: 0px;
 }
 
 h3 {
-    font-size: 1.3rem;
-    font-weight: bold;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    text-align: center;
-    border-top:solid 1px #b388ff;
-    border-bottom:solid 1px #b388ff;
-    color:purple;
-    background-color: #ce93d8;
-    padding: 2px;
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  border-top: solid 1px #b388ff;
+  border-bottom: solid 1px #b388ff;
+  color: purple;
+  background-color: #ce93d8;
+  padding: 2px;
 }
 
 h4 {
-    font-size: 1.2rem;
-    font-weight: bold;
-    color: #b388ff;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #b388ff;
 }
 
 /* bible index page styling */
 .indexnavigation {
-    background-color: #a7a7a7;
-    width: 100%;
-    background: transparent;
-    table-layout: fixed;
-    margin-top: 3px;
-    margin-bottom: 3px;
+  background-color: #a7a7a7;
+  width: 100%;
+  background: transparent;
+  table-layout: fixed;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
 
 .indexnavigation td {
-    border: solid #D37BDD 1px;
-    padding: 7px;
-    background-color: #F0D1F3;
-    text-align: center;
+  border: solid #d37bdd 1px;
+  padding: 7px;
+  background-color: #f0d1f3;
+  text-align: center;
 }
 
 .indexnavigation a {
-    display: block;
-    color: purple;
-    text-decoration: none;
+  display: block;
+  color: purple;
+  text-decoration: none;
 }
 
+/* bible reading plan page styling */
+.plannavigation {
+  background-color: #a7a7a7;
+  width: 100%;
+  /*
+  table-layout: fixed;
+  */
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.plannavigation td {
+  border: solid #d37bdd 1px;
+  padding: 4px;
+  background-color: #f0d1f3;
+  text-align: center;
+}
+
+.plannavigation a {
+  display: block;
+  color: purple;
+  text-decoration: none;
+}
+
+/* daily reading plan styling */
+#reading-today {
+  font-weight: normal;
+  border: solid 1px silver;
+  background-color: purple;
+}
+
+.dailyplannavigation {
+  background-color: #8544b1; /* rgb(95, 17, 141);  */
+  margin-top: 0px;
+  padding-top: 5px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.dailynavigation {
+  width: 100%;
+  /*
+  table-layout: fixed;
+  */
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.dailynavigation td {
+  border: solid #d37bdd 1px;
+  padding: 4px;
+  /*
+  background-color: #f0d1f3;
+  */
+}
+
+.dailynavigation a {
+  display: block;
+  width: 100%;
+  color: #b388ff;
+  text-decoration: none;
+  text-align: center;
+}
+
+.dailynavigation a:visited {
+  display: block;
+  width: 100%;
+  color: #b388ff;
+  text-decoration: underline;
+  text-decoration-color: #b388ff;
+  text-align: center;
+}
+
+.dailynavigationbook {
+  font-weight: bold;
+  color: #b388ff;
+  text-align: left;
+}
