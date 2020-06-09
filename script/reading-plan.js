@@ -885,7 +885,7 @@ function GetReadingPlanTableRows(today) {
           {
             books: [
               { book: 8, chapters: [1, 2] },
-              { book: 19, chapters: [53] },
+              { book: 19, chapters: [53, 61] },
               { book: 47, chapters: [5] },
             ],
           },
@@ -2148,6 +2148,7 @@ function GetReadingPlanTableRows(today) {
           {
             books: [
               { book: 27, chapters: [3, 4] },
+              { book: 19, chapters: [81] },
               { book: 66, chapters: [17] },
             ],
           },
