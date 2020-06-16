@@ -29,6 +29,27 @@
   padding-right: 2px;
 }
 
+.event-day {
+  color: purple;
+  background-color: gray;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
+.event-year {
+  color: purple;
+  background-color: gray;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
+.event-month {
+  color: lightgray;
+  background-color: steelblue;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
 /* Bible navigation */
 .biblenavigation {
   background-color: #64091d; /* wine red */

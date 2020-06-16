@@ -1,0 +1,12 @@
+// mixin for blog article navigation
+mixin BLOG_NAVIGATE(prev, next)
+  p.text-center
+    -if (prev!="") {
+      a.btn.btn-lg.btn-primary(href=prev, role='button') &laquo; Previous Blog Post
+      | &nbsp;
+    -}
+      a.btn.btn-lg.btn-primary(href='/blog/blog-index.html', role='button') Blog Index
+    -if (next!="") {
+      | &nbsp;
+      a.btn.btn-lg.btn-primary(href=next, role='button') Next Blog Post »
+    -}

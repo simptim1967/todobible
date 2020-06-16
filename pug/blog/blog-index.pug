@@ -14,14 +14,13 @@ html(lang='en-GB')
     link(href='../css/blog_page.css', rel='stylesheet')
   body
     mixin BLOG_DATE(day,month,year)
-      span.text-center
+      .text-right
         span.blog-day
           | &nbsp;#{day}&nbsp;
         span.blog-month
           | &nbsp;#{month}&nbsp;
         span.blog-year
           | &nbsp;#{year}&nbsp;
-        | &nbsp;
     include ../includes/root_page_menu.pug
     include ../includes/resource_page_header.pug
     main
@@ -45,6 +44,16 @@ html(lang='en-GB')
               span.badge.hashtag #ChristianDogWalker
 
             h2 2020
+
+            .panel.panel-default
+              .panel-heading
+                a(href="/blog/2020/02-signs-of-the-times.html", title="Signs Of The Times") Signs Of The Times
+              .panel-body
+                div
+                  | The devil doesn't want you to see or hear the real news. Otherwise you might
+                  | begin to recognise the warning signs that the bible foretells about the times in which we now live.
+                  br
+                  +BLOG_DATE("16","JUN","2020")
 
             .panel.panel-default
               .panel-heading
