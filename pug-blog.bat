@@ -3,6 +3,7 @@ rem Use node.js to generate blog pages
 
 echo Rendering pug blog pages via node.js ...
 call Pug C:\TIM\Dev\MBP\Source\WebSite\pug\blog\blog-index.pug --pretty --out C:\TIM\Dev\MBP\Source\live\blog 
+call Pug C:\TIM\Dev\MBP\Source\WebSite\pug\blog\2020\06-under-attack.pug --pretty --out C:\TIM\Dev\MBP\Source\live\blog\2020
 call Pug C:\TIM\Dev\MBP\Source\WebSite\pug\blog\2020\05-promises-of-protection.pug --pretty --out C:\TIM\Dev\MBP\Source\live\blog\2020
 call Pug C:\TIM\Dev\MBP\Source\WebSite\pug\blog\2020\04-spiritual-warfare.pug --pretty --out C:\TIM\Dev\MBP\Source\live\blog\2020
 call Pug C:\TIM\Dev\MBP\Source\WebSite\pug\blog\2020\03-all-change.pug --pretty --out C:\TIM\Dev\MBP\Source\live\blog\2020

@@ -1,0 +1,172 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    // The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags
+    meta(name='keywords', content='bible todo list, King James holy bible, words of Jesus, commandments of Jesus, bible index, bible to do items')
+    meta(name='description', content="The wonderful promises of God's protection described in Psalm 91.")
+    title Under Attack
+    // Bootstrap
+    link(href='../../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../../css/common_page.css', rel='stylesheet')
+    link(href='../../css/blog_page.css', rel='stylesheet')
+  body
+    mixin EVENT_DATE(day,month,year)
+      span.event-day
+        | &nbsp;#{day}&nbsp;
+      span.event-month
+        | &nbsp;#{month}&nbsp;
+      span.event-year
+        | &nbsp;#{year}&nbsp;
+      |&nbsp;
+    include ../../includes/root_page_menu.pug
+    include ../../includes/resource_page_header.pug
+    //
+      Main content
+      ==================================================
+    main
+      .container
+        .row
+          // Main content block
+          .col-md-8
+            article
+              h1 Under Attack
+              hr.featurette-divider
+
+              p
+                span.firstcharacter
+                  | T
+                |his has been an interesting week. It started in an unexpected way and it soon became apparent that our church was under attack.
+
+              p
+                | Having a mature church leadership team is a great blessing as they know how to respond when attacks come,
+                | in this case helping to defuse a tricky situation that might otherwise have proven much more serious and far more damaging.
+
+              h2 Sad News
+
+              p
+                | Two people I knew in the past died this week. My mum delivered the news in separate phone calls.
+                
+              p
+                | One, someone of my own age, after a long battle with Cancer. I said I would have prayed for him if I'd known.
+                | We went to Junior Boys Brigade and church together.
+                
+              p
+                | The other, the father of an old school friend, who died from a heart attack unexpectedly.
+                | I remember he took me to watch my first football match (Hull City versus Oldham Athletic at Boothferry Park).
+                | Other memories, decades old, flooded back. He also went to the same church.
+
+              p
+                | I believe the Lord uses death with a purpose so both of these events got me thinking.
+                | What does the Lord want me to do or to learn from this? Hmmm.
+
+              h2 Attacks Will Come
+
+              p
+                | As soldiers of Christ, it is not a matter of if an attack will come but rather when they will come.
+
+              h2 Forms Of Attack
+
+              p
+                | Attacks of the enemy can come in many forms and rarely unfold as a single event. Often multiple things happen in
+                | rapid succession as the enemy seeks to overwhelm and undermine the faith of believers.
+
+              p
+                | Attacks may manifest in any of the following ways:
+                ul
+                  li Sickness or a bad diagnosis
+                  li Unexpected changes of circumstance
+                  li Disruption
+                  li Death of someone
+                  li Persecution
+                  li Accidents or injury
+                  li False accusations
+                  li Division in friendships or family
+                  li Feelings of resentment or discontent
+
+              p
+                | These may manifest as personal attacks, on friends and family, at church or work, between neighbours etc.
+
+              h2 A Brutal Attack
+
+              p
+                | The Corona Virus is a brutal example of a severe spiritual attack by the enemy which has been wreaking havoc in the earth
+                | for some months now.
+              
+              p
+                | Hundreds of thousands have lost their lives since the devil embarked on a killing spree devouring whom he may.
+
+              p
+                | Fear has taken root and division has taken centre stage, stopping social inetractions of family, friends, workers etc. 
+                | and closing many establishments.
+
+              p
+                | The world, so confident in its own wisdom, has been turned upside down.
+                | Many have lost their jobs and income overnight.
+                | Everything in which they placed their security has been swept away and
+                | financial meltdown looms. Not just for individuals but the whole global economy as the effects of the pandemic begin to bite.
+
+              h2 In God We Trust
+
+              p
+                | Regradless of the circumstances in which we find ourselves, we always have an advocate in whom we can trust.
+                | He speaks words of encouragement like no other and is faithful to keep His promises.
+                
+              .quoteverse
+                p
+                  b 17 
+                  | No weapon that is formed against thee shall prosper;
+                  | and every tongue that shall rise against thee in judgment thou shalt condemn.
+                  | This is the heritage of the servants of the LORD, and their righteousness is of me, saith the LORD.
+                a(href="/kjv/isaiah_54.html?goto=17") Isaiah 54:17
+
+              .quoteverse
+                p
+                  b 28  
+                  | And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
+                a(href="/kjv/romans_8.html?goto=28") Romans 8:28
+
+
+              p.text-right
+                | Tim Simpson
+                br
+                | 17th July, 2020
+                br 
+                span.badge.hashtag #ChristianDogWalker
+
+              include ../../includes/page_blog_navigate.pug
+              +BLOG_NAVIGATE("/blog/2020/05-promises-of-protection.html","")
+    
+          .col-md-4.hidden-print
+            hr.featurette-divider.hidden-md.hidden-lg
+            aside
+              .rightsidebar.hidden-print
+                h3 Stuff
+
+                h4 All Nations
+                p
+                  | Sunday 12th July, 2020
+
+                .embed-responsive.embed-responsive-16by9
+                  iframe.embed-responsive-item(src="https://www.youtube.com/embed/sp_p947Pp7M")
+
+                br
+                p
+                  | Thursday 16th July, 2020
+
+                .embed-responsive.embed-responsive-16by9
+                  iframe.embed-responsive-item(src="https://www.youtube.com/embed/EgOkRBzlHfI")
+
+
+        // /row
+      // /container
+    include ../../includes/page_footer.pug
+    script(type='text/javascript', src='../../script/biblenav.js')
+    //
+      jQuery (necessary for Bootstrap's JavaScript plugins)
+      originally from: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+    script(src='../../script/jquery-1.12.4.min.js')
+    // Include all compiled plugins (below), or include individual files as needed
+    script(src='../../script/bootstrap.min.js')
