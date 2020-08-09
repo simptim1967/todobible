@@ -1,0 +1,188 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    // The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags
+    meta(name='keywords', content='bible todo list, King James holy bible, words of Jesus, commandments of Jesus, bible index, bible to do items')
+    meta(name='description', content="xxx")
+    title Grounded
+    // Bootstrap
+    link(href='../../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../../css/common_page.css', rel='stylesheet')
+    link(href='../../css/blog_page.css', rel='stylesheet')
+  body
+    mixin EVENT_DATE(day,month,year)
+      span.event-day
+        | &nbsp;#{day}&nbsp;
+      span.event-month
+        | &nbsp;#{month}&nbsp;
+      span.event-year
+        | &nbsp;#{year}&nbsp;
+      |&nbsp;
+    include ../../includes/root_page_menu.pug
+    include ../../includes/resource_page_header.pug
+    //
+      Main content
+      ==================================================
+    main
+      .container
+        .row
+          // Main content block
+          .col-md-8
+            article
+              h1 Grounded
+              hr.featurette-divider
+
+              p
+                span.firstcharacter
+                  | T
+                |he last couple of weeks I somehow got "out of synch". What I mean is that I lost the usual rhythm of my life.
+                | This happens from time to time and it always seems to take some effort to get back into the groove.
+
+              h2 Warning Signs
+
+              p
+                | The warning signs are always easy to spot in hindsight but usually look like this:
+                ul
+                  li Not praying on-line as much
+                  li Not watching services on-line as much
+                  li Not reading my bible as much
+                  li Not listening to worship music as much
+                  li Not walking the dogs (praying in the secret place) as much 
+                  li Not taking communion each day
+                  li Not sleeping well
+                  li Getting up late
+                  li Finding it difficult to get the time to fulfil regular habits
+                  li Getting frustrated by not having done something I wanted to do
+                  li Feeling out of control of my time
+                  li Starting to rely on my own capabilities ...
+
+              p
+                | Thumbing through the pages of my daily journal also exhibits the various warning signs as the usual daily activities
+                | start to diminish and the daily entries become shorter.
+
+              h2 Distractions Abound
+
+              p
+                | There are so many distractions in life that it can be all too easy to get distracted and fail to see the initial warning signs.
+                | It can and does happen to anyone and everyone.
+                | Especially because our enemy the devil makes every effort to distract us all the time!
+
+              h2 Life Is Unpredictable
+
+              p
+                | However, some of these "distractions" are actually life events that rightly demand our time and need to be addressed
+                | as a priority ahead of other things.
+                | These things may break our routine and leave us feeling "out of synch", albeit for all the right reasons.
+
+              p
+                | Life is unpredictable and we never know what circumstance we might suddenly find ourselves in. The recent Beruit port explosion (6th August, 2020)
+                | is a devestating and shocking example of how life can abruptly change without any warning, as if the Corona Virus pandemic wasn't already
+                | enough of an example.
+
+              p
+                | "Losing the plot" is not an option in life. We have to remain "grounded", whatever situation we find ourselves in. But how do you do that?
+
+              h2 Sure and Steadfast
+
+              p
+                | As a child, I was in the Junior Boys Brigade. One Monday night, at my first meeting, I learned their motto: "Sure and Steadfast". 
+
+              p
+                | At the time I didn't realise it was a quote from the bible (see 
+                a(href="/kjv/hebrews_6.html?goto=18-20") Hebrews 6:18-20
+                |).
+
+              h2 We Have An Anchor
+
+              
+              img(src="/images/bb-logo.jpg", align="right", alt="Boys Brigade Logo" title="Boys Brigade Logo").img-rounded.img-responsive#mugshot
+
+              p
+                | The Boys Brigade also had a hymn that we would sing called "We Have An Anchor" which included the "Sure and Steadfast" motto
+                | in the chorus. Here's the first verse and chorus to give you a flavour:
+
+              p
+                quote
+                  b
+                    | Hymn: We Have An Anchor
+                    br
+                  | Will your anchor hold in the storms of life,
+                  br
+                  | When the clouds unfold their wings of strife?
+                  br
+                  | When the strong tides lift and the cables strain,
+                  br
+                  | Will your anchor drift, or firm remain?
+              
+              p
+                quote
+                  b
+                    | Chorus
+                    br
+                  | We have an anchor that keeps the soul
+                  br
+                  | Steadfast and sure while the billows roll,
+                  br
+                  | Fastened to the Rock which cannot move
+                  br
+                  | Grounded firm and deep in the Saviour's love.
+
+              h2 Jesus Is My Anchor
+
+              p
+                | It seems strange to me now to realise just how important that Boys Brigade motto is, and even more so to have such a thing in life to be able to cling
+                | to and depend on no matter what happens, ready or not, when the billows roll.
+
+              p
+                | I thank God that as a Christian I have such an anchor Jesus, whose love keeps me "grounded" in the storms of life.
+
+              p
+                | When I'm way beyond my own limitations, I can always let go and let God!
+
+              p
+                | I may not know what the future holds but I know who holds my future. Why not put your trust in Jesus too?              
+
+              p.text-right
+                | Tim Simpson
+                br
+                | 9th August, 2020
+                br 
+                span.badge.hashtag #ChristianDogWalker
+
+              include ../../includes/page_blog_navigate.pug
+              +BLOG_NAVIGATE("/blog/2020/07-he-is-faithful.html","")
+    
+          .col-md-4.hidden-print
+            hr.featurette-divider.hidden-md.hidden-lg
+            aside
+              .rightsidebar.hidden-print
+                h3 Stuff
+
+                h4 Article
+
+                p
+                  a(href="https://carm.org/apologetics/verses-examined/what-does-day-redemption-mean-mentioned-eph-430")
+                    | What does the Day of Redemption mean as mentioned in Ephesians 4:30?
+
+
+                h4 All Nations
+                p
+                  | Thursday 6th August, 2020
+
+                .embed-responsive.embed-responsive-16by9
+                  iframe.embed-responsive-item(src="https://www.youtube.com/embed/QUik6AuqcTU")
+
+
+        // /row
+      // /container
+    include ../../includes/page_footer.pug
+    script(type='text/javascript', src='../../script/biblenav.js')
+    //
+      jQuery (necessary for Bootstrap's JavaScript plugins)
+      originally from: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+    script(src='../../script/jquery-1.12.4.min.js')
+    // Include all compiled plugins (below), or include individual files as needed
+    script(src='../../script/bootstrap.min.js')

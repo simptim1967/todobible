@@ -46,25 +46,32 @@ html(lang='en-GB')
                     a(href='bible_todo_list_disclaimer.html#key') Key
                     | ]
                 th(width='25%') Bible Reference
-            //- Output row header followed by todo items for specified book 
+            //-Output topic row header followed by todo items for specified topic 
             //-Define mixin to list topics for book
             mixin MIXIN_LIST_TODO_ITEMS_FOR_TOPIC(i)
               - var displayName = topics[i].topic;
               - var idName = "todo_" + topics[i].topicId;
+              //-Generate class name list for each bible book referenced by a todo item
+              - var classList = "topic topicrow";
+              //-!!!
               //-Generate table row header for this topic
-              tr.topic
+              tr(class=classList)
                 td(id=idName)
                   | #{displayName} 
-                  span.badge.groupcount
-                    |   #{topics[i].items.length}  
+                  //-Don't display topic total item count any more as will confuse filtering
+                  //-span.badge.groupcount
+                    //-|   #{topics[i].items.length}  
                 td.gotop
                   a(href='#') Top of page
-              //-Generate todo items for this topic      
+              //-Generate rows for each todo item for this topic      
               - var loop = 0;
               - var items = topics[i].items;
               - while (loop < items.length) {
               - var todo = items[loop];
-                tr
+                //-Generate class name list for each bible book referenced by this todo item
+                - var classList = "topicrow";
+                //-!!!
+                tr(class=classList)
                   td
                     case todo.type
                       when "C"
