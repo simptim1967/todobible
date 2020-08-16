@@ -1,203 +1,235 @@
 /* todo_page.css */
 
+.filteritems {
+  border: solid 1px #b388ff;
+  width: 100%;
+  padding-left: 5px;
+  margin-bottom: 5px;
+}
+.biblenavigation {
+  background-color: #64091d; /* wine red */
+  margin-top: 0px;
+  margin-bottom: 8px;
+  color: #b388ff;
+  padding-top: 5px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.biblenavigation h3 {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  border-top: solid 1px #b388ff;
+  border-bottom: solid 1px #b388ff;
+  color: purple;
+  background-color: #ce93d8;
+  padding: 2px;
+}
+
 .col-md-4 {
-    padding-left: 0px;
+  padding-left: 0px;
 }
 @media (max-width: 991px) {
-    .col-md-4 {
-        padding-left: 15px;
-    }
+  .col-md-4 {
+    padding-left: 15px;
+  }
 }
 
 .btn-primary {
-    margin: 3px;
+  margin: 3px;
 }
 
 /* ToDo page related styling */
 
 h1 {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color:purple;
-    margin-bottom:2px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: purple;
+  margin-bottom: 2px;
 }
 h2 {
-    font-size: 1.4rem;
-    font-weight: bold;
-    color:#AA2EB8;
-    margin-top:12px;
-    margin-bottom:10px;
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: #aa2eb8;
+  margin-top: 12px;
+  margin-bottom: 10px;
 }
 h3 {
-    font-size: 1.2rem;
-    font-weight: bold;
-    color:purple;
-    margin-top:10px;
-    margin-bottom:8px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: purple;
+  margin-top: 10px;
+  margin-bottom: 8px;
 }
 
 .woc {
-    color:#d32f2f;
+  color: #d32f2f;
 }
 
 /* ToDo List page tab header */
 
 .tabheading {
-     width:100%;
-     margin-top: 5px;
-     margin-bottom:10px;
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
 .tabheading tr td a {
-     color:purple;
-     text-decoration: underline;
-     display: block;
+  color: purple;
+  text-decoration: underline;
+  display: block;
 }
 .tabheading td {
-     padding: 3px;
-     text-align:center;
-     border-left:solid 2px purple;
-     border-right:solid 2px purple;
-     border-top:solid 2px purple;
-     border-bottom:solid 3px purple;
-     background-color:#b39ddb; 
-     font-size: 1rem;
+  padding: 3px;
+  text-align: center;
+  border-left: solid 2px purple;
+  border-right: solid 2px purple;
+  border-top: solid 2px purple;
+  border-bottom: solid 3px purple;
+  background-color: #b39ddb;
+  font-size: 1rem;
 }
 #current {
-     padding: 3px;
-     text-align:center;
-     border-left:solid 5px purple;
-     border-right:solid 5px purple;
-     border-top:solid 5px purple;
-     border-bottom:none;
-     background-color:transparent;
+  padding: 3px;
+  text-align: center;
+  border-left: solid 5px purple;
+  border-right: solid 5px purple;
+  border-top: solid 5px purple;
+  border-bottom: none;
+  background-color: transparent;
 }
 #filler {
-     width: 80px;
-     padding: 5px;
-     border-left: none;
-     border-right: none;
-     border-top: none;
-     border-bottom: solid 3px purple;
-     background-color: transparent;
+  width: 80px;
+  padding: 5px;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom: solid 3px purple;
+  background-color: transparent;
 }
 
 .bibletodolist {
-     width: 100%;
-     font-size: 1.1rem;
-     border:solid 1px purple;
-     margin-bottom: 5px;
+  width: 100%;
+  font-size: 1.1rem;
+  border: solid 1px purple;
+  margin-bottom: 5px;
 }
 .bibletodolist td {
-     margin-right: 15px;
-     margin-top: 3px;
-     border: solid purple 1px;
-     padding: 3px;
-     font-size: 1.1rem;
-     vertical-align: top;
+  margin-right: 15px;
+  margin-top: 3px;
+  border: solid purple 1px;
+  padding: 3px;
+  font-size: 1.1rem;
+  vertical-align: top;
 }
 .bibletodolist th {
-     text-align: left;
-     color:#AA2EB8;
-     background-color:#9e9e9e ; /* #E0B4DC; */
-     border:solid 1px purple;
-     padding: 3px;
-     font-size: 1.3rem;
+  text-align: left;
+  color: #aa2eb8;
+  background-color: #9e9e9e; /* #E0B4DC; */
+  border: solid 1px purple;
+  padding: 3px;
+  font-size: 1.3rem;
 }
 .groupcount {
-    background-color: #b39ddb;
-    color: purple;
-    font-size: 0.9rem;
+  background-color: #b39ddb;
+  color: purple;
+  font-size: 0.9rem;
 }
 .letter {
-    font-size: 2rem;
-    color: purple;
-    background-color: #b39ddb;
-    text-align: left;
-    margin-bottom: 5px;
+  font-size: 2rem;
+  color: purple;
+  background-color: #b39ddb;
+  text-align: left;
+  margin-bottom: 5px;
 }
 .topiclist {
-    vertical-align: top;
-    margin-bottom: 10px;
-    font-size:1.1rem;
+  vertical-align: top;
+  margin-bottom: 10px;
+  font-size: 1.1rem;
 }
 .topic {
-     text-align: left;
-     color:purple;
-     background-color:#bdbdbd; /* #E2E2E2; */
-     border:solid 1px purple;
-     font-size: 1.3rem;
+  text-align: left;
+  color: purple;
+  background-color: #bdbdbd; /* #E2E2E2; */
+  border: solid 1px purple;
+  font-size: 1.3rem;
 }
 
 .a2z {
-     width: 100%;
-     margin-top: 5px;
-     margin-bottom: 10px;
-     /* used monospaced font size for A-Z link buttons */
-     font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-     font-size: 1rem;
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  /* used monospaced font size for A-Z link buttons */
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter",
+    "Lucida Typewriter", monospace;
+  font-size: 1rem;
 }
 
 .biblebooks {
-     width:100%;
-     margin-top:5px;
-     margin-bottom:10px;
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
 .booklist {
-     background-color: #F0D1F3;
-     padding: 3px;
+  background-color: #f0d1f3;
+  padding: 3px;
 }
 
 .biblebook {
-     text-align:left;
-     color:purple;
-     background-color:silver;
-     border:solid 1px purple;
-     font-size:1.2rem;
+  text-align: left;
+  color: purple;
+  background-color: silver;
+  border: solid 1px purple;
+  font-size: 1.2rem;
 }
 
 .gotop {
-     text-align:center;
+  text-align: center;
 }
 
 .gotop a {
-     color:purple;
-     font-size:0.9rem;
-     text-decoration:none;
-     display: block;
+  color: purple;
+  font-size: 0.9rem;
+  text-decoration: none;
+  display: block;
 }
 
 .gotop small {
-    font-size: 1rem;
-    vertical-align: middle;
+  font-size: 1rem;
+  vertical-align: middle;
 }
 
 .keylink {
-    font-size: 0.9rem;
-    margin: 5px;
-    vertical-align: middle;
-    color: inherit;
+  font-size: 0.9rem;
+  margin: 5px;
+  vertical-align: middle;
+  color: inherit;
 }
 
 .todokey {
-    width: 80%;
-    margin: 10px auto;
-    border: solid 1px purple;
+  width: 80%;
+  margin: 10px auto;
+  border: solid 1px purple;
 }
 .todokey td {
-     margin-right: 15px;
-     margin-top: 3px;
-     border: solid purple 1px;
-     padding: 3px;
-     font-size: 1.1rem;
-     vertical-align: top;
-     text-align: center;
+  margin-right: 15px;
+  margin-top: 3px;
+  border: solid purple 1px;
+  padding: 3px;
+  font-size: 1.1rem;
+  vertical-align: top;
+  text-align: center;
 }
 .todokey th {
-     text-align: center;
-     color:#AA2EB8;
-     background-color:#9e9e9e ; /* #E0B4DC; */
-     border:solid 1px purple;
-     padding: 3px;
-     font-size: 1.3rem;
+  text-align: center;
+  color: #aa2eb8;
+  background-color: #9e9e9e; /* #E0B4DC; */
+  border: solid 1px purple;
+  padding: 3px;
+  font-size: 1.3rem;
 }
-

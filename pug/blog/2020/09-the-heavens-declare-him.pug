@@ -1,0 +1,158 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    // The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags
+    meta(name='keywords', content='bible todo list, King James holy bible, words of Jesus, commandments of Jesus, bible index, bible to do items')
+    meta(name='description', content="We have to remain 'grounded', whatever situation we find ourselves in. But how do you do that?")
+    title The Heavens Declare Him
+    // Bootstrap
+    link(href='../../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../../css/common_page.css', rel='stylesheet')
+    link(href='../../css/blog_page.css', rel='stylesheet')
+  body
+    mixin EVENT_DATE(day,month,year)
+      span.event-day
+        | &nbsp;#{day}&nbsp;
+      span.event-month
+        | &nbsp;#{month}&nbsp;
+      span.event-year
+        | &nbsp;#{year}&nbsp;
+      |&nbsp;
+    include ../../includes/root_page_menu.pug
+    include ../../includes/resource_page_header.pug
+    //
+      Main content
+      ==================================================
+    main
+      .container
+        .row
+          // Main content block
+          .col-md-8
+            article
+              h1 The Heavens Declare Him
+              hr.featurette-divider
+
+              p
+                span.firstcharacter
+                  | A
+                |s a child, my dad took me to some of the meetings of the Astronomical Society at Hull University.
+                | There I was able to attend sessions by a variety of speakers, often elaborated by slide shows of the heavens.
+
+              p
+                | I also had the opportunity to stare through some home-made telescopes at stars and planets and even witness
+                | a star passing behind mountains on the moon. I've been hooked on staring up at the night sky ever since.
+
+              p
+                | As a Christian, I often find myself looking up to heaven, even during the day, knowing that one day I'll be there. Yay!
+
+              h2 The Perseids Meteor Shower
+
+              img(src="/images/perseid-meteor-shower.jpg", align="right", alt="The Perseids Meteor Shower" title="The Perseids Meteor Shower").img-rounded.img-responsive
+
+              p
+                | This month was the annual peak period of the Perseids meteor shower. Apparently it peaked on the 11th of August
+                | when around 100 meteors per hour could potentially be witnessed (clouds and light pollution permitting) streaking
+                | across the night sky.
+
+              p
+                | Unfortunately I missed the peak day due to cloud thanks to an electrical storm but luckily I'm always happy to watch
+                | some amazing thunder and lightning and even managed to film some of it.
+
+              p
+                | I did eventually manage to see some of the meteor shower on the 14th of August which was pleasing as I'd not seen a meteor
+                | for a while and the last two years, when I tried to watch the Perseids, each time had been cloudy.
+
+              h2 Comet Neowise
+
+              img(src="/images/comet-neowise.jpg", align="right", alt="Comet Neowise" title="Comet Neowise").img-rounded.img-responsive
+
+              p
+                | Last month I was able see comet Neowise on several occasions in the early hours of the morning.
+                | My first thought on seeing it with the naked eye
+                | was how bright it was and that it looked like the "Star of Bethlehem" (the star that announced the birth of Jesus
+                | more than two thousand years ago).
+
+              p
+                | It also struck me that this was a "bright and morning star" which happens to be how Jesus describes Himself in  
+                a(href="/kjv/revelation_22.html?goto=16") Revelation 22:16
+                |. 
+
+              p
+                | If a star announced His first coming, why not have a star announce His second coming too? Especially a bright and
+                | morning star?
+
+              h2 The Heavens Declare The Glory Of God
+              
+              .quoteverse
+                p
+                  b 1 
+                  | The heavens declare the glory of God;
+                  br
+                  | and the firmament sheweth his handywork.
+                a(href="/kjv/psalms_19.html") Psalm 19:1
+
+              p
+                | Anyone that reads the bible regularly will recognise that the "glory of God" is Jesus. To say that
+                | "the heavens declare the glory of God" fits with His birth being announced by a star over Bethlehem
+                | and such a sign might perhaps announce His second coming too.
+              
+              .quoteverse
+                p
+                  b 19 
+                  |And I will shew wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke:
+                p
+                  b 20 
+                  | The sun shall be turned into darkness, and the moon into blood, before that great and notable day of the Lord come:
+                p
+                  b 21 
+                  | And it shall come to pass, that whosoever shall call on the name of the Lord shall be saved.
+                a(href="/kjv/acts_2.html?goto=19-21") Acts 2:19-21
+
+              p
+                | The bible says that wonders will be seen in heaven above as signs of the return of Jesus. There are plenty of other signs
+                | going on in the earth right now, flooding probably being the most common. (See blog article 
+                a(href="/blog/2020/02-signs-of-the-times.html") Signs Of The Times
+                |.)
+                
+              p
+                | Thankfully, it's not too late to call upon the promise "
+                b that whosoever shall call on the name of the Lord shall be saved
+                |" but in my opinion, that time is running out fast!
+
+              p.text-right
+                | Tim Simpson
+                br
+                | 16th August, 2020
+                br 
+                span.badge.hashtag #ChristianDogWalker
+
+              include ../../includes/page_blog_navigate.pug
+              +BLOG_NAVIGATE("/blog/2020/08-grounded.html","")
+    
+          .col-md-4.hidden-print
+            hr.featurette-divider.hidden-md.hidden-lg
+            aside
+              .rightsidebar.hidden-print
+                h3 Stuff
+
+                h4 All Nations
+                p
+                  | Thursday 13th August, 2020
+
+                .embed-responsive.embed-responsive-16by9
+                  iframe.embed-responsive-item(src="https://www.youtube.com/embed/FY8HQ57GrOI")
+
+
+        // /row
+      // /container
+    include ../../includes/page_footer.pug
+    script(type='text/javascript', src='../../script/biblenav.js')
+    //
+      jQuery (necessary for Bootstrap's JavaScript plugins)
+      originally from: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+    script(src='../../script/jquery-1.12.4.min.js')
+    // Include all compiled plugins (below), or include individual files as needed
+    script(src='../../script/bootstrap.min.js')
