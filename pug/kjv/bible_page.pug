@@ -136,7 +136,7 @@ html(lang='en-GB')
               .verse(id="v" + page.items[i].number)
                 - if (page.todo[vno-1].length > 0) {
                 //-Include open/close drop-down image for todo item list
-                img.tl-btn-open(id="v" + vno + "o", src="../images/down-arrow.svg", alt="Show verse " + vno + " ToDo items", title="Show verse " + vno + " ToDo items")
+                img.tl-btn-open.hidden-print(id="v" + vno + "o", src="../images/down-arrow.svg", alt="Show verse " + vno + " ToDo items", title="Show verse " + vno + " ToDo items")
                 img.tl-btn-close.tl-btn-hide(id="v" + vno + "c", src="../images/up-arrow.svg", alt="Hide verse " + vno + " ToDo items", title="Hide verse " + vno + " ToDo items")
                 - }
                 //-Display bible verse number followed by bible verse text

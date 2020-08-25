@@ -1,0 +1,132 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    // The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags
+    meta(name='keywords', content='bible todo list, King James holy bible, words of Jesus, commandments of Jesus, bible index, bible to do items')
+    meta(name='description', content="Nothing compares to the sweet, unconditional, sustaining love of God.")
+    title The Love Of God
+    // Bootstrap
+    link(href='../../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../../css/common_page.css', rel='stylesheet')
+    link(href='../../css/blog_page.css', rel='stylesheet')
+  body
+    mixin EVENT_DATE(day,month,year)
+      span.event-day
+        | &nbsp;#{day}&nbsp;
+      span.event-month
+        | &nbsp;#{month}&nbsp;
+      span.event-year
+        | &nbsp;#{year}&nbsp;
+      |&nbsp;
+    include ../../includes/root_page_menu.pug
+    include ../../includes/resource_page_header.pug
+    //
+      Main content
+      ==================================================
+    main
+      .container
+        .row
+          // Main content block
+          .col-md-8
+            article
+              h1 The Love Of God
+              hr.featurette-divider
+
+              p
+                span.firstcharacter
+                  | T
+                |here is nothing like the unconditional, sustaining love of God.
+                | Nothing can be compared to it.
+                | Oh, that the world would see and taste that the Lord is good.
+
+              h2 God Is Love
+
+              p
+                | The bible says that "God is love" (see 
+                a(href="/kjv/1john_4.html?goto=8") 1 John 4:8
+                |  and 
+                a(href="/kjv/1john_4.html?goto=16") 1 John 4:16
+                |). The bible also defines what love "looks like" in 
+                a(href="/kjv/1corinthians_13.html") 1 Corinthians 13
+                |  where it describes all of the beautiful traits of love.
+
+              p
+                | Here's how it describes love (God):
+
+              p
+                | Love is patient, love is kind.
+                br
+                | It does not envy, it does not boast, it is not proud.
+                br
+                | It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs.
+                br
+                | Love does not delight in evil but rejoices with the truth.
+                br
+                | It always protects, always trusts, always hopes, always perseveres.
+                br
+                | Love never fails.
+
+              h2 The Comforter
+
+              p
+                | God is gracious and full of compassion. No matter what circumstances we find ourselves in, He is there for us.
+              
+              p
+                | He is there for the heart-broken, for those in dismay, for the hurt, for the lonely and for the lost.
+
+              h2 Freely Given
+
+              p
+                | His love is freely given. It's unconditional. Truly no strings attached. God even loves His enemies.
+                | His love is sacrificial.
+
+              p
+                | Thank you Father for your love.
+
+              p
+                | Oh, to be loved and to love like You Lord!
+
+              p.text-right
+                | Tim Simpson
+                br
+                | 25th August, 2020
+                br 
+                span.badge.hashtag #ChristianDogWalker
+
+              include ../../includes/page_blog_navigate.pug
+              +BLOG_NAVIGATE("/blog/2020/09-the-heavens-declare-him.html","")
+    
+          .col-md-4.hidden-print
+            hr.featurette-divider.hidden-md.hidden-lg
+            aside
+              .rightsidebar.hidden-print
+                h3 Stuff
+
+                h4 Music
+                p
+                  | Reckless Love
+
+                .embed-responsive.embed-responsive-16by9
+                  iframe.embed-responsive-item(src="https://www.youtube.com/embed/6xx0d3R2LoU")
+
+                h4 All Nations
+                p
+                  | Thursday 20th August, 2020
+
+                .embed-responsive.embed-responsive-16by9
+                  iframe.embed-responsive-item(src="https://www.youtube.com/embed/68zQ1dG5xwY")
+
+
+        // /row
+      // /container
+    include ../../includes/page_footer.pug
+    script(type='text/javascript', src='../../script/biblenav.js')
+    //
+      jQuery (necessary for Bootstrap's JavaScript plugins)
+      originally from: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+    script(src='../../script/jquery-1.12.4.min.js')
+    // Include all compiled plugins (below), or include individual files as needed
+    script(src='../../script/bootstrap.min.js')
