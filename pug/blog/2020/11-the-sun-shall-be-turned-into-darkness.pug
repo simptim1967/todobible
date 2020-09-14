@@ -1,0 +1,147 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    // The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags
+    meta(name='keywords', content='bible todo list, King James holy bible, words of Jesus, commandments of Jesus, bible index, bible to do items')
+    meta(name='description', content="Bible prophecy is being fulfilled in our time around the world.")
+    title The Sun Shall Be Turned Into Darkness
+    // Bootstrap
+    link(href='../../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../../css/common_page.css', rel='stylesheet')
+    link(href='../../css/blog_page.css', rel='stylesheet')
+  body
+    mixin EVENT_DATE(day,month,year)
+      span.event-day
+        | &nbsp;#{day}&nbsp;
+      span.event-month
+        | &nbsp;#{month}&nbsp;
+      span.event-year
+        | &nbsp;#{year}&nbsp;
+      |&nbsp;
+    include ../../includes/root_page_menu.pug
+    include ../../includes/resource_page_header.pug
+    //
+      Main content
+      ==================================================
+    main
+      .container
+        .row
+          // Main content block
+          .col-md-8
+            article
+              h1 The Sun Shall Be Turned Into Darkness
+              hr.featurette-divider
+
+              p
+                span.firstcharacter
+                  | B
+                |ible prophecy is being fulfilled before our eyes in this generation as fires burn out of control around the globe!
+
+              h2 Bible Prophecy
+
+              p
+                | Fire is described in the bible as one of the signs that will occur in the earth before the second-coming of Jesus.
+
+              p
+                | Throughout 2020, fires have been
+                | burning at unprecedented levels across the planet with smoke clouds visible from space.
+
+              p
+                | The book of Joel declares the following:
+
+              .quoteverse
+                p
+                  b 30 
+                  | And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.
+                p
+                  b 31 
+                  | The sun shall be turned into darkness, and the moon into blood,
+                  | before the great and the terrible day of the LORD come.
+                a(href="/kjv/joel_2.html?goto=32") Joel 2:30-31
+
+              h2 Oregon Fires
+
+              p.text-center
+                img(src="/images/blood-red-sky-fires-oregon.jpg", alt="Sky turns blood red at noon while apocalyptic fires engulf Oregon" title="Sky turns blood red at noon while apocalyptic fires engulf Oregon").img-rounded.img-responsive#mugshot
+                | Sky turns blood red at noon in Oregon.
+
+              p
+                | A recent article posted on 9th Spetember said: "And the wild-land fires burning in Western Oregon are so apocalyptic
+                | that skies are turning blood red and the area
+                | is dark from the smoke, in the morning, at noon and during the whole day." (
+                a(href="https://strangesounds.org/2020/09/blood-red-sky-oregon-fires-videos.html", target="_blank") Read the article for yourself.
+                |)
+
+              p
+                | This is just one example of many articles, news reports and videos that talk about fires burning out of control around the globe.
+
+              h2 Advice For The Church
+
+              p
+                | The book of Joel offers the following advice to the church:
+
+              .quoteverse
+                p
+                  b 13 
+                  | Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth,
+                  | ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.
+                p
+                  b 14 
+                  | Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the
+                  | house of the LORD your God, and cry unto the LORD,
+                p
+                  b 15 
+                  | Alas for the day! for the day of the LORD is at hand, and as a destruction from the Almighty shall it come.
+                a(href="/kjv/joel_1.html?goto=13-15") Joel 1:13-15
+
+              p.text-right
+                | Tim Simpson
+                br
+                | 14th September, 2020
+                br 
+                span.badge.hashtag #ChristianDogWalker
+
+              include ../../includes/page_blog_navigate.pug
+              +BLOG_NAVIGATE("/blog/2020/10-the-love-of-god.html","")
+    
+          .col-md-4.hidden-print
+            hr.featurette-divider.hidden-md.hidden-lg
+            aside
+              .rightsidebar.hidden-print
+                h3 Stuff
+
+                h4 Video
+                p
+                  | Oregon Wildfire Smoke
+
+                .embed-responsive.embed-responsive-16by9
+                  iframe.embed-responsive-item(src="https://www.youtube.com/embed/lvvnNMTiFbs")
+
+                h4 Teaching
+                p
+                  | Amir Tsarfati
+
+                .embed-responsive.embed-responsive-16by9
+                  iframe.embed-responsive-item(src="https://www.youtube.com/embed/Fu-ph3rq5G0")
+
+                h4 All Nations
+                p
+                  | Thursday 10th September, 2020
+
+                .embed-responsive.embed-responsive-16by9
+                  iframe.embed-responsive-item(src="https://www.youtube.com/embed/r7jC2WmapQs")
+
+
+        // /row
+      // /container
+    include ../../includes/page_footer.pug
+    script(type='text/javascript', src='../../script/biblenav.js')
+    //
+      jQuery (necessary for Bootstrap's JavaScript plugins)
+      originally from: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+    script(src='../../script/jquery-1.12.4.min.js')
+    // Include all compiled plugins (below), or include individual files as needed
+    script(src='../../script/bootstrap.min.js')
