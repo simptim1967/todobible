@@ -1,0 +1,184 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    // The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags
+    meta(name='keywords', content='bible todo list, King James holy bible, words of Jesus, commandments of Jesus, bible index, bible to do items')
+    meta(name='description', content='The spiritual growth challenge set forth at our recent life group meeting.')
+    title Life Group Challenge
+    // Bootstrap
+    link(href='../../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../../css/common_page.css', rel='stylesheet')
+    link(href='../../css/blog_page.css', rel='stylesheet')
+  body
+    mixin EVENT_DATE(day,month,year)
+      span.event-day
+        | &nbsp;#{day}&nbsp;
+      span.event-month
+        | &nbsp;#{month}&nbsp;
+      span.event-year
+        | &nbsp;#{year}&nbsp;
+      |&nbsp;
+    include ../../includes/root_page_menu.pug
+    include ../../includes/resource_page_header.pug
+    //
+      Main content
+      ==================================================
+    main
+      .container
+        .row
+          // Main content block
+          .col-md-8
+            article
+              h1 Life Group Challenge
+              hr.featurette-divider
+
+              p
+                span.firstcharacter
+                  | O
+                | ur church has a number of life groups that each meet during the week between church services.
+
+              p
+                | This Tuesday night was our life group meeting (held on Skype these days) and earlier that day I had been wondering what we could
+                | discuss that would be helpful for our group as it was my turn to lead the session.
+
+              p
+                | Whilst walking dog #2 before the meeting I was praying and asking God exactly what the devil is trying to achieve with COVID-19.
+              
+              p
+                | The Lord told me that the devil is attempting to stop spiritual growth in the church.
+              
+              p
+                | This got me thinking about how we might discuss spiritual growth at our life group that evening and I decided to
+                | present the discussion as a direct challenge to our life group members.
+
+              p
+                | Here is the gist of how the meeting went ...
+
+              h2 Opening Statement And Prophesy
+
+              p
+                | God wants each of us to live life in all its fullness with passion and purpose for His glory. 
+
+              p
+                | I prophesy that everyone in this life group:
+                ul
+                  li will live life to the full! 
+                  li will achieve great things for God! 
+                  li will be wildly successful! 
+
+              h2 Parts Of The Body
+
+              p
+                | The body has different parts, each of which are essential to the whole.
+                | Each has a unique part to play therefore the parts are not in competition but intended to work together in harmony.
+
+              p
+                | The church, the body of Christ, is likened to the human body as also having many members who each have a unique role to play
+                | and whom God expects to work together in harmony for His glory.
+
+              h2 Spiritual Growth
+
+              p 
+                | Christians are expected to grow continually so as to become spiritually mature.
+                | To enable this God has given various gifts to His church
+                | (see 
+                a(href="") Ephesians 4:11-16
+                |).
+
+              p
+                b
+                  | Challenge: We 
+                  u
+                    | all
+                  |  need to keep growing spiritually.
+
+              h2 Levels Of Spiritual Maturity
+
+              p
+                | The bible describes different levels of spiritual maturity and metaphorically compares them to the different
+                | stages of human growth and development.
+                
+              p
+                | The different levels include:
+                ul
+                  li Baby (least mature)
+                  li Child
+                  li Young adult
+                  li Adult
+                  li Elder (or father)
+                  li Jesus (fully mature - our role model)
+
+              p
+                b
+                  | Challenge: How can we all  
+                  u
+                    | help each other
+                  |  to level-up and keep growing?
+
+              p  
+                | Newly born-again believers are likened to newborn babes, requiring milk in order to grow and not yet able to tolerate meat or walk.
+
+              p  
+                | Mature Christians are described as being of full age, able to tolerate strong meat and skilled in the word of righteousness and able to teach.
+
+              p
+                | Not all believers grow to become spiritually mature as they should and whilst it is easy to determine human maturity,
+                | determining a person's spiritual maturity is not so straightforward.
+
+              p
+                b
+                  | Group discussion: Are you growing spiritually?
+                |  [Some yes, some no.] 
+
+              h2 The Spiritual Growth Challenge
+
+              p
+                b
+                  | Knowing that we all need to be growing spiritually, what can we each do to help 
+                  | make that happen within our life group and beyond?
+
+              p
+                | Some initial suggestions included:
+                ul
+                  li Read and study the bible together more often.
+                  li Pray together more often.
+                  li Keep in closer contact with one another.
+                  li Hold separate "mens" and "ladies" meetings.
+
+              p.text-right
+                | Tim Simpson
+                br
+                | 8th October, 2020
+                br 
+                span.badge.hashtag #ChristianDogWalker
+
+              include ../../includes/page_blog_navigate.pug
+              +BLOG_NAVIGATE("/blog/2020/11-the-sun-shall-be-turned-into-darkness.html","")
+    
+          .col-md-4.hidden-print
+            hr.featurette-divider.hidden-md.hidden-lg
+            aside
+              .rightsidebar.hidden-print
+                h3 Stuff
+
+                h4 All Nations
+                p
+                  | Thursday 8th October, 2020
+
+                .embed-responsive.embed-responsive-16by9
+                  iframe.embed-responsive-item(src="https://www.youtube.com/embed/Qs3uV3knDbs")
+
+
+        // /row
+      // /container
+    include ../../includes/page_footer.pug
+    script(type='text/javascript', src='../../script/biblenav.js')
+    //
+      jQuery (necessary for Bootstrap's JavaScript plugins)
+      originally from: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+    script(src='../../script/jquery-1.12.4.min.js')
+    // Include all compiled plugins (below), or include individual files as needed
+    script(src='../../script/bootstrap.min.js')

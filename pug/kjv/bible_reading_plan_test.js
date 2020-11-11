@@ -3016,6 +3016,6 @@ for (var month = 0; month < 12; month++) {
   } // day
 } // month
 
-// for (var b = 0; b < 66; b++) {
-//   console.log(displayName[b] + " " + readStatus[b]);
-// }
+for (var b = 0; b < 66; b++) {
+  console.log(displayName[b] + " " + readStatus[b]);
+}

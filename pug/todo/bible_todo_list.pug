@@ -35,6 +35,183 @@ html(lang='en-GB')
             | See the 
             a(href='bible_todo_topics_index.html') Bible ToDo List Topic Index
             |  for a list of topics.
+          //-TODO: Filter content by bible book and/or todo item type !!!
+            div.biblenavigation
+            h3 Filter Options
+            form
+              label(for='book') Filter by bible book:
+              select(name='book',id="books")
+                option(value="all")
+                  | All Bible Books
+                option(value="b01")
+                  | Genesis
+                option(value="b02")
+                  | Exodus
+                option(value="b03")
+                  | Leviticus
+                option(value="b04")
+                  | Numbers
+                option(value="b05")
+                  | Deuteronomy
+                option(value="b06")
+                  | Joshua
+                option(value="b07")
+                  | Judges
+                option(value="b08")
+                  | Ruth
+                option(value="b09")
+                  | 1 Samuel
+                option(value="b10")
+                  | 2 Samuel
+                option(value="b11")
+                  | 1 Kings
+                option(value="b12")
+                  | 2 Kings
+                option(value="b13")
+                  | 1 Chronicles
+                option(value="b14")
+                  | 2 Chronicles
+                option(value="b15")
+                  | Ezra
+                option(value="b16")
+                  | Nehemiah
+                option(value="b17")
+                  | Esther
+                option(value="b18")
+                  | Job
+                option(value="b19")
+                  | Psalms
+                option(value="b20")
+                  | Proverbs
+                option(value="b21")
+                  | Ecclesiastes
+                option(value="b22")
+                  | Song Of Solomon
+                option(value="b23")
+                  | Isaiah
+                option(value="b24")
+                  | Jeremiah
+                option(value="b25")
+                  | Lamentations
+                option(value="b26")
+                  | Ezekiel
+                option(value="b27")
+                  | Daniel
+                option(value="b28")
+                  | Hosea
+                option(value="b29")
+                  | Joel
+                option(value="b30")
+                  | Amos
+                option(value="b31")
+                  | Obadiah
+                option(value="b32")
+                  | Jonah
+                option(value="b33")
+                  | Micah
+                option(value="b34")
+                  | Nahum
+                option(value="b35")
+                  | Habakkuk
+                option(value="b36")
+                  | Zephaniah
+                option(value="b37")
+                  | Haggai
+                option(value="b38")
+                  | Zechariah
+                option(value="b39")
+                  | Malachi
+                option(value="b40")
+                  | Matthew
+                option(value="b41")
+                  | Mark
+                option(value="b42")
+                  | Luke
+                option(value="b43")
+                  | John
+                option(value="b44")
+                  | Acts
+                option(value="b45")
+                  | Romans
+                option(value="b46")
+                  | 1 Corinthians
+                option(value="b47")
+                  | 2 Corinthians
+                option(value="b48")
+                  | Galatians
+                option(value="b49")
+                  | Ephesians
+                option(value="b50")
+                  | Philippians
+                option(value="b51")
+                  | Colossians
+                option(value="b52")
+                  | 1 Thessalonians
+                option(value="b53")
+                  | 2 Thessalonians
+                option(value="b54")
+                  | 1 Timothy
+                option(value="b55")
+                  | 2 Timothy
+                option(value="b56")
+                  | Titus
+                option(value="b57")
+                  | Philemon
+                option(value="b58")
+                  | Hebrews
+                option(value="b59")
+                  | James
+                option(value="b60")
+                  | 1 Peter
+                option(value="b61")
+                  | 2 Peter
+                option(value="b62")
+                  | 1 John
+                option(value="b63")
+                  | 2 John
+                option(value="b64")
+                  | 3 John
+                option(value="b65")
+                  | Jude
+                option(value="b66")
+                  | Revelation
+              br
+              .filteritems
+                label(for='types') Include item types:
+                fieldset(name="types")
+                  input(type="checkbox",id="checkC",name="cog",value="cog",checked)
+                  label(for="fact")
+                    span.badge.itemcog C
+                    |  Character Of God Items
+                  br
+                  input(type="checkbox",id="checkF",name="fact",value="fact",checked)
+                  label(for="fact")
+                    span.badge.itemfact F
+                    |  Fact Items
+                  br
+                  input(type="checkbox",id="checkI",name="iic",value="iic",checked)
+                  label(for="todo")
+                    span.badge.itemiic I
+                    |  Identity In Christ Items
+                  br
+                  input(type="checkbox",id="checkP",name="promise",value="promise",checked)
+                  label(for="todo")
+                    span.badge.itempromise P
+                    |  Promise Items
+                  br
+                  input(type="checkbox",id="checkT",name="todo",value="todo",checked)
+                  label(for="todo")
+                    span.badge.itemtodo T
+                    |  ToDo Items
+                  br
+                input(type="checkbox",id="checkW",name="warn",value="warn",checked)
+                label(for="warn")
+                  span.badge.itemwarn W
+                  |  Warning Items
+                br
+              button#filter.btn-md.btn-primary(type='submit', onclick='FilterToDoList(); return false') Apply
+              button#resetFilter.btn-md.btn-primary(type='reset', onclick='ResetFilter(); return false') Reset
+
           // ToDo List Items By Topic
           table.bibletodolist
             thead
