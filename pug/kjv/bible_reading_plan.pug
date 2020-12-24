@@ -4,8 +4,8 @@ html(lang='en-GB')
     meta(charset='utf-8')
     meta(http-equiv='X-UA-Compatible', content='IE=edge')
     meta(name='viewport', content='width=device-width, initial-scale=1')
-    title Daily Bible Reading Plan
-    meta(name='description', content='King James Bible Reading Plan')
+    title One Year Reading Plan
+    meta(name='description', content='King James Bible One Year Reading Plan')
     meta(name='keywords', content='king james bible reading plan, KJV reading plan')
     link(href='../css/bootstrap.min.css', rel='stylesheet')
     link(href='../css/common_page.css', rel='stylesheet')
@@ -84,13 +84,19 @@ html(lang='en-GB')
     .container
       .row
         .col-md-8
-          h1(style="text-align: left;") Bible Reading Plan
+          h1(style="text-align: left;") One Year Reading Plan
           hr.featurette-divider
 
           p
             | This daily bible reading plan reads through the Old Testament once and the New Testament twice in a single year
             | with the assumed starting date of January 1st. 
 
+          p
+            | (Download printable version: 
+            a(href="/one-year-bible-reading-plan.docx", title="Microsoft Word Format") Microsoft Word Format
+            |  | 
+            a(href="/one-year-bible-reading-plan.pdf", title="PDF Format") PDF Format
+            |)
           //-Now generate the bootstrap panel for each OT book and the page links to each chapter for it.
           //-Each book has a display name, id name, filename prefix and chapter count.
           //-If the number of chapters in a book exceeds 99 then the number of links per row is reduced from 10 to 7.  

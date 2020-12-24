@@ -18,6 +18,8 @@ call pug-all.bat
 echo Copying root files ...
 copy .\sitemap.xml ..\live
 copy .\robots.txt ..\live
+copy .\one-year-bible-reading-plan.docx ..\live
+copy .\one-year-bible-reading-plan.pdf ..\live
 
 echo Running bootlint against HTML files ...
 call bootlint ..\live\about_todo_bible.html
