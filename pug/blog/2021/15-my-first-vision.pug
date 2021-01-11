@@ -1,0 +1,144 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    // The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags
+    meta(name='keywords', content='bible todo list, King James holy bible, words of Jesus, commandments of Jesus, bible index, bible to do items')
+    meta(name='description', content='Throughout the bible God speaks to people through visions and dreams. Find out what heppened when I had my first vision.')
+    title My First Vision
+    // Bootstrap
+    link(href='../../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../../css/common_page.css', rel='stylesheet')
+    link(href='../../css/blog_page.css', rel='stylesheet')
+  body
+    mixin EVENT_DATE(day,month,year)
+      span.event-day
+        | &nbsp;#{day}&nbsp;
+      span.event-month
+        | &nbsp;#{month}&nbsp;
+      span.event-year
+        | &nbsp;#{year}&nbsp;
+      |&nbsp;
+    include ../../includes/root_page_menu.pug
+    include ../../includes/resource_page_header.pug
+    //
+      Main content
+      ==================================================
+    main
+      .container
+        .row
+          // Main content block
+          .col-md-8
+            article
+              h1 My First Vision
+              hr.featurette-divider
+
+              p
+                span.firstcharacter
+                  | T
+                | hroughout the bible God speaks to people through visions and dreams.
+                | In such circumstances God often speaks in advance of something that
+                | will happen in the future. 
+
+              h2 An Eventful Prayer Meeting
+
+              p
+                | Many years ago, I chose to attend one of our church's 6:00 AM prayer meetings.
+                | I arrived and remember greeting the usual regular attendees.
+
+              p
+                | People started praying so I decided to close my eyes and asked the Lord to show me something.
+
+              p
+                | This wasn't the way I would normally start praying but for some reason that was what I said that morning.
+
+              p
+                | At first I couldn't see anything, just blackness and kind of like I was watching static on a TV with no signal.
+
+              h2 Suddenly I Could See Something
+
+              p
+                | All of the sudden I started to see something. It was like I was watching a video in high definition.
+
+              p
+                | I could see the silver blade of a scimitar-like (Aladdin-style) sword.
+              
+              p
+                | The sword was suspended horizontally in darkness and it
+                | was as if a camera was slowly panning along the blade from left to right.
+
+              p
+                | The blade was perfectly clean and looked very sharp on both the top and bottom edges.
+
+              p
+                | Eventually a thick gold handle came into view. The handle was jewelled with many precious stones.
+
+              h2 Then I Heard A Voice
+
+              p
+                | After I had viewed the whole sword I heard a voice in my head say "My Word Is A Weapon. Love My Word."
+
+              p
+                | The whole thing probably lasted around ten seconds and after it happened I ended up joining in the prayer
+                | meeting and going back home without telling anyone what I had seen and heard.
+
+              p
+                | This was the first time I had ever experienced a vision. The imagery was so vivid.
+
+              h2 Visions And Dreams Are Not Unusual
+
+              p
+                | It is not unusual for people within the church to have visions and dreams.
+                | It's one of the ways that God communicates to His church and is something that we should expect and desire.
+
+              p
+                | 
+                a(href="/kjv/proverbs_29.html?goto=18") Proverbs 29:18
+                |  tells us that "where there is no vision the people perish".
+
+              p
+                | 
+                a(href="/kjv/acts_2.html?goto=17") Acts 2:17
+                |  talks about how God will pour out His Spirit upon all flesh in the last days and that 
+                | sons and daughters shall prophesy, young men shall see visions and old men shall dream dreams.
+
+              p
+                | We are living in the last days right now. Come quickly Lord Jesus
+                | but while you tarry Lord, let your children prophesy and send us many visions and dreams. Amen
+
+              p.text-right
+                | Tim Simpson
+                br
+                | 11th January, 2021
+                br 
+                span.badge.hashtag #ChristianDogWalker
+
+              include ../../includes/page_blog_navigate.pug
+              +BLOG_NAVIGATE("/blog/2020/14-the-greatest-gift.html","")
+    
+          .col-md-4.hidden-print
+            hr.featurette-divider.hidden-md.hidden-lg
+            aside
+              .rightsidebar.hidden-print
+                h3 Stuff
+
+                h4 All Nations
+                p
+                  | Sunday 3rd January, 2021
+
+                .embed-responsive.embed-responsive-16by9
+                  iframe.embed-responsive-item(src="https://www.youtube.com/embed/-n4JbEWXAXw")
+
+
+        // /row
+      // /container
+    include ../../includes/page_footer.pug
+    script(type='text/javascript', src='../../script/biblenav.js')
+    //
+      jQuery (necessary for Bootstrap's JavaScript plugins)
+      originally from: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+    script(src='../../script/jquery-1.12.4.min.js')
+    // Include all compiled plugins (below), or include individual files as needed
+    script(src='../../script/bootstrap.min.js')
