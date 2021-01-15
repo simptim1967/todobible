@@ -195,6 +195,10 @@ html(lang='en-GB')
                     - if (todo.verseStart != todo.verseEnd) {
                       small  [v#{todo.verseRange}]
                     - }
+                    //-Display see also bible reference(s) if appropriate
+                    - if (todo.seeAlso.length > 0) {
+                      |!{" [See "+todo.seeAlso+"]"}
+                    - }
                 - } //- end for each todo item
                 img.tl-in-line-btn-close(align="right", src="../images/tl-close-button.svg", alt="Hide verse " + vno + " ToDo items", title="Hide verse " + vno + " ToDo items")
                 .verse-todo-list-title
