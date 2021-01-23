@@ -1,13 +1,9 @@
 call css-all.bat
 
 echo Copying image files ...
-del ..\live\images\*.png
-del ..\live\images\*.jpg
-del ..\live\images\*.svg
+del ..\live\images\*.*
 
-copy .\images\*.png ..\live\images
-copy .\images\*.jpg ..\live\images
-copy .\images\*.svg ..\live\images
+copy .\images\*.* ..\live\images
 
 call script-all.bat
 

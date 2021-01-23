@@ -1,0 +1,172 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    // The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags
+    meta(name='keywords', content='bible todo list, King James holy bible, words of Jesus, commandments of Jesus, bible index, bible to do items')
+    meta(name='description', content='Jesus only did what He saw the Father do.')
+    title Listen With Your Eyes
+    // Bootstrap
+    link(href='../../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../../css/common_page.css', rel='stylesheet')
+    link(href='../../css/blog_page.css', rel='stylesheet')
+  body
+    mixin EVENT_DATE(day,month,year)
+      span.event-day
+        | &nbsp;#{day}&nbsp;
+      span.event-month
+        | &nbsp;#{month}&nbsp;
+      span.event-year
+        | &nbsp;#{year}&nbsp;
+      |&nbsp;
+    include ../../includes/root_page_menu.pug
+    include ../../includes/resource_page_header.pug
+    //
+      Main content
+      ==================================================
+    main
+      .container
+        .row
+          // Main content block
+          .col-md-8
+            article
+              h1 Listen With Your Eyes
+              hr.featurette-divider
+
+              p
+                span.firstcharacter
+                  | O
+                | ften when I am walking the dog in the woods I will hear a bird of prey call.
+
+              p
+                | My first reaction is to try and determine which direction I heard the call
+                | come from.
+
+              p
+                | Of course listening intently doesn't help until the bird makes another call and
+                | while I'm waiting for that next bird call I will often hear the Lord say "listen
+                | with your eyes".
+
+              p
+                | I immediately start scanning to see if I can see the bird on a branch somewhere
+                | and sometimes manage to see it, usually as it flies off at my noisy arrival.
+
+              h2 I Need God (More Than Ever)
+
+              p
+                | Hearing from God is an important part of my life.
+              
+              p
+                | As I get older I find myself needing
+                | God more and more. Even more so during the challenges of lockdown!
+              
+              p
+                | He's the one who keeps me on the rails and helps me navigate the trials of life.
+
+              p
+                | I often wonder how people cope without God in their life.
+
+              h2 God Wants Us To Use Our Eyes As Well As Our Ears
+
+              p
+                | Jesus only did what He saw the Father do and would do everything that the Father showed Him
+                | (see 
+                a(href="/kjv/john_5.html?goto=19-20") John 5:19-20
+                |).
+
+              p
+                | We know that in these end times, God will speak through visions and dreams (see 
+                a(href="/kjv/acts_2.html?goto=17") Acts 2:17
+                |!{")"}
+                | so we need to learn to listen to God with our eyes, as well as our ears, so that
+                | we can see what He wants to tell us.
+              
+              p
+                | Did you dream recently? Ask God to interpret the dream for you.
+
+              p
+                | Is God showing you a picture or a vision of something?
+                | Ask God to interpret it for you.
+              
+              p
+                | God may reveal His plans for us as individuals or for the church. He may send us an advanced warning of something to come.
+
+              p
+                | Share what you see with others.
+                | Often God gives a similar vision or picture to different people in the church at the same time.
+
+              p
+                | Better still, share your faith. Be a light in these dark times.
+
+              h2 God Wants Us To See What He Is Doing
+              
+              p
+                | If you can see what is going on in the world then you may well be convinced that we are living in the last days, the
+                | "end times" described in the bible.
+
+              p
+                a(href="/kjv/luke_13.html?goto=6-9") Luke 13:6-9
+                |  presents the parable of the fig tree where a man comes to the fig tree looking for fruit and demands the tree to be
+                | cut down when he finds none three years in succession. However the gardener pleads for tending to the tree and allowing it another
+                | year before cutting it down if it still fails to bear fruit.
+
+              p
+                | I believe that the moral of this parable is that God expects us (His trees) to bear fruit that He should receive and that He is
+                | prepared to wait patiently for it but only so long.
+
+              p
+                | Our time is short, we don't know the number of our days but we need to
+                | focus on serving our God to deliver to Him the fruit that He deserves.
+
+              p
+                | I believe that in His mercy, God is granting the Earth more time before He returns in judgement.
+
+              p
+                | In the mean time the devil is accelerating his attacks on the Earth to kill, steal and destroy. He's trying to 
+                | destroy all hope and fuel massive division and hatred. 
+
+              p
+                | Listen with your eyes. Keep your eyes on Jesus. Do not look to people or the world. Look up!
+
+              p.text-right
+                | Tim Simpson
+                br
+                | 23rd January, 2021
+                br 
+                span.badge.hashtag #ChristianDogWalker
+
+              include ../../includes/page_blog_navigate.pug
+              +BLOG_NAVIGATE("/blog/2021/15-my-first-vision.html","")
+    
+          .col-md-4.hidden-print
+            hr.featurette-divider.hidden-md.hidden-lg
+            aside
+              .rightsidebar.hidden-print
+                h3 Stuff
+
+                h4 COVID-19
+                p
+                  | Amir Tsarfati: Covid Vaccines, Faith and The End Times
+
+                .embed-responsive.embed-responsive-16by9
+                  iframe.embed-responsive-item(src="https://www.youtube.com/embed/CWPkGh1rzx0")
+
+                h4 All Nations
+                p
+                  | Eyes on Jesus | Thursday 21st January, 2021
+
+                .embed-responsive.embed-responsive-16by9
+                  iframe.embed-responsive-item(src="https://www.youtube.com/embed/UfTNl_JT6No")
+
+        // /row
+      // /container
+    include ../../includes/page_footer.pug
+    script(type='text/javascript', src='../../script/biblenav.js')
+    //
+      jQuery (necessary for Bootstrap's JavaScript plugins)
+      originally from: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+    script(src='../../script/jquery-1.12.4.min.js')
+    // Include all compiled plugins (below), or include individual files as needed
+    script(src='../../script/bootstrap.min.js')
