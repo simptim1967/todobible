@@ -1010,7 +1010,9 @@
 ,
 { "type": "T", "todoItem": "Do not accept a bribe.", 
   "bibleRefs": [
-    { "linkText": "Exodus 23:8", "link": "exodus_23.html?goto=8" }
+    { "linkText": "Exodus 23:8", "link": "exodus_23.html?goto=8" },
+    { "linkText": "Deuteronomy 16:19", "link": "deuteronomy_16.html?goto=19" },
+    { "linkText": "Proverbs 29:4", "link": "proverbs_29.html?goto=4" }
   ]
 }
 ,
@@ -1355,12 +1357,6 @@
   "bibleRefs": [
     { "linkText": "Matthew 7:12", "link": "matthew_7.html?goto=12" },
     { "linkText": "Luke 6:31", "link": "luke_6.html?goto=31" }
-  ]
-}
-,
-{ "type": "T", "todoItem": "Don&rsquo;t accept bribes.", 
-  "bibleRefs": [
-    { "linkText": "Proverbs 29:4", "link": "proverbs_29.html?goto=4" }
   ]
 }
 ,
@@ -2265,6 +2261,12 @@
   ]
 }
 ,
+{ "type": "TR", "todoItem": "<span class=\"woc\">Have faith in God.</span>", 
+  "bibleRefs": [
+    { "linkText": "Mark 11:22", "link": "mark_11.html?goto=22" }
+  ]
+}
+,
 { "type": "T", "todoItem": "Having chosen to lay aside your old nature, now clothe yourself in righteousness and true holiness after the likeness of God.", 
   "bibleRefs": [
     { "linkText": "Ephesians 4:22-24", "link": "ephesians_4.html?goto=22-24" }
@@ -2534,6 +2536,12 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that a bribe blinds the eyes of the wise and perverts the words of the righteous.", 
+  "bibleRefs": [
+    { "linkText": "Deuteronomy 16:19", "link": "deuteronomy_16.html?goto=19" }
+  ]
+}
+,
 { "type": "F", "todoItem": "Know that a child should not obey parents if they ask the child to do something that does not accord with God&rsquo;s standards.", 
   "bibleRefs": [
     { "linkText": "Ephesians 6:1", "link": "ephesians_6.html?goto=1" }
@@ -2615,6 +2623,12 @@
 { "type": "F", "todoItem": "Know that after faith has come we are no longer under the law.", 
   "bibleRefs": [
     { "linkText": "Galatians 3:25", "link": "galatians_3.html?goto=25" }
+  ]
+}
+,
+{ "type": "FR", "todoItem": "<span class=\"woc\">Know that all authority in heaven and on Earth has been given to Jesus.</span>", 
+  "bibleRefs": [
+    { "linkText": "Matthew 28:18", "link": "matthew_28.html?goto=18" }
   ]
 }
 ,
@@ -2702,6 +2716,12 @@
   ]
 }
 ,
+{ "type": "PR", "todoItem": "<span class=\"woc\">Know that as disciples of Jesus we have received the promised Holy Spirit and have been endowed with the miraculous power of God from on high.</span>", 
+  "bibleRefs": [
+    { "linkText": "Luke 24:49", "link": "luke_24.html?goto=49" }
+  ]
+}
+,
 { "type": "F", "todoItem": "Know that as head of the church Jesus leads by example.", 
   "bibleRefs": [
     { "linkText": "Ephesians 4:15", "link": "ephesians_4.html?goto=15" }
@@ -2756,7 +2776,7 @@
   ]
 }
 ,
-{ "type": "P", "todoItem": "Know that believers receive power after the Holy Spirit comes upon them.", 
+{ "type": "PR", "todoItem": "<span class=\"woc\">Know that believers receive the miraculous power of God when they receive the Holy Spirit.</span>", 
   "bibleRefs": [
     { "linkText": "Acts 1:8", "link": "acts_1.html?goto=8" }
   ]
@@ -4728,7 +4748,7 @@
   ]
 }
 ,
-{ "type": "F", "todoItem": "Know that it was God&rsquo;s continual gift of grace that Paul said enabled him to minister the gospel with miraculous power to the Gentiles.", 
+{ "type": "F", "todoItem": "Know that it was God&rsquo;s continual gift of grace and His miraculous power that Paul said enabled him to minister the gospel to the Gentiles.", 
   "bibleRefs": [
     { "linkText": "Ephesians 3:7", "link": "ephesians_3.html?goto=7" }
   ]
@@ -4854,6 +4874,12 @@
   ]
 }
 ,
+{ "type": "FR", "todoItem": "<span class=\"woc\">Know that Jesus has delegated authority to His servants and assigned work to each until His return.</span>", 
+  "bibleRefs": [
+    { "linkText": "Mark 13:34", "link": "mark_13.html?goto=34" }
+  ]
+}
+,
 { "type": "I", "todoItem": "Know that Jesus has destroyed all barriers that once separated Jews and Gentiles.", 
   "bibleRefs": [
     { "linkText": "Ephesians 2:14", "link": "ephesians_2.html?goto=14" }
@@ -4869,6 +4895,14 @@
 { "type": "I", "todoItem": "Know that Jesus has fully reconciled both Jews and Gentiles to each other and to God in His body (the church) by the cross.", 
   "bibleRefs": [
     { "linkText": "Ephesians 2:15-16", "link": "ephesians_2.html?goto=15-16" }
+  ]
+}
+,
+{ "type": "FR", "todoItem": "<span class=\"woc\">Know that Jesus has the authority on Earth to forgive sins.</span>", 
+  "bibleRefs": [
+    { "linkText": "Matthew 9:6", "link": "matthew_9.html?goto=6" },
+    { "linkText": "Mark 2:10", "link": "mark_2.html?goto=10" },
+    { "linkText": "Luke 5:24", "link": "luke_5.html?goto=24" }
   ]
 }
 ,
@@ -6356,6 +6390,12 @@
   ]
 }
 ,
+{ "type": "F", "todoItem": "Know that the manifestation of the miraculous power of the Holy Spirit given to us is for the benefit of all.", 
+  "bibleRefs": [
+    { "linkText": "1 Corinthians 12:7", "link": "1corinthians_12.html?goto=7" }
+  ]
+}
+,
 { "type": "FR", "todoItem": "<span class=\"woc\">Know that the measure that you deal to others will be dealt to you.</span>", 
   "bibleRefs": [
     { "linkText": "Matthew 7:2", "link": "matthew_7.html?goto=2" }
@@ -7034,6 +7074,12 @@
   ]
 }
 ,
+{ "type": "I", "todoItem": "Know that we are complete in Christ who has supreme authority over all things.", 
+  "bibleRefs": [
+    { "linkText": "Colossians 2:10", "link": "colossians_2.html?goto=10" }
+  ]
+}
+,
 { "type": "I", "todoItem": "Know that we are dead to sin.", 
   "bibleRefs": [
     { "linkText": "Romans 6:2", "link": "romans_6.html?goto=2" }
@@ -7286,6 +7332,12 @@
   ]
 }
 ,
+{ "type": "PR", "todoItem": "<span class=\"woc\">Know that whatever you say shall come to pass if you believe what you say will happen and do not doubt in your heart.</span>", 
+  "bibleRefs": [
+    { "linkText": "Mark 11:23", "link": "mark_11.html?goto=23" }
+  ]
+}
+,
 { "type": "P", "todoItem": "Know that whatsoever good thing any man does, the same shall he receive of the Lord, whether he is under authority or not.", 
   "bibleRefs": [
     { "linkText": "Ephesians 6:5-8", "link": "ephesians_6.html?goto=5-8" }
@@ -7355,6 +7407,12 @@
 { "type": "P", "todoItem": "Know that when you give to the poor the Lord will bless you in all your works and all that you put your hand to.", 
   "bibleRefs": [
     { "linkText": "Deuteronomy 15:10", "link": "deuteronomy_15.html?goto=10" }
+  ]
+}
+,
+{ "type": "P", "todoItem": "Know that when you receive Christ, you receive authority and power.", 
+  "bibleRefs": [
+    { "linkText": "John 1:12", "link": "john_1.html?goto=12" }
   ]
 }
 ,
@@ -9277,6 +9335,12 @@
 { "type": "T", "todoItem": "Turn around at wisdom&rsquo;s reproof and stop ignoring good advice.", 
   "bibleRefs": [
     { "linkText": "Proverbs 1:23", "link": "proverbs_1.html?goto=23" }
+  ]
+}
+,
+{ "type": "W", "todoItem": "Turn away from those with a form of godliness but who deny that the miraculous power of God is given to believers.", 
+  "bibleRefs": [
+    { "linkText": "2 Timothy 3:1-5", "link": "2timothy_3.html?goto=1-5" }
   ]
 }
 ,
