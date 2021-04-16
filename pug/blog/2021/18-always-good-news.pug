@@ -1,0 +1,135 @@
+doctype html
+html(lang='en-GB')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    // The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags
+    meta(name='keywords', content='bible todo list, King James holy bible, words of Jesus, commandments of Jesus, bible index, bible to do items')
+    meta(name='description', content='Jesus only did what He saw the Father do.')
+    title Always Good News
+    // Bootstrap
+    link(href='../../css/bootstrap.min.css', rel='stylesheet')
+    link(href='../../css/common_page.css', rel='stylesheet')
+    link(href='../../css/blog_page.css', rel='stylesheet')
+  body
+    mixin EVENT_DATE(day,month,year)
+      span.event-day
+        | &nbsp;#{day}&nbsp;
+      span.event-month
+        | &nbsp;#{month}&nbsp;
+      span.event-year
+        | &nbsp;#{year}&nbsp;
+      |&nbsp;
+    include ../../includes/root_page_menu.pug
+    include ../../includes/resource_page_header.pug
+    //
+      Main content
+      ==================================================
+    main
+      .container
+        .row
+          // Main content block
+          .col-md-8
+            article
+              h1 Always Good News
+              hr.featurette-divider
+
+              p
+                span.firstcharacter
+                  | T
+                | ired of hearing or reading bad news? The gospel of Jesus Christ is always good news!
+                | Here's why ...
+
+              h2 God Loves Us 
+
+              ul
+                li God is for us, not against us! 
+                li God wants to be part of our daily lives.
+                li God wants us to be part of His eternal plan.
+                li God wants us to know Him personally.
+                li God wants to give purpose and meaning to our lives through relationship with Him and our collaboration in His plan.
+
+              h2 Jesus Is Our Saviour 
+
+              ul
+                li Sin separates man from God. 
+                li Jesus has made a way to reconcile sinful man back to God.
+                li Jesus is the atonement for the sins of the world.
+                li Through faith in Jesus all of our sins are forgiven. Blotted out!
+                li Man can now enter back into full relationship with God once more as a child of God.
+
+              h2 God Is Our Provider 
+
+              ul
+                li God knows our needs before we ask.
+                li God wants to bless us abundantly in every area of our lives.
+                li God is a loving and gracious Father.
+                li God will not withhold any good thing from His children.
+                li Jesus is our good shepherd who cares for His sheep so that we shall not want.
+
+              h2 Jesus Is Our Healer 
+
+              ul
+                li Jesus heals all of our sicknesses, diseases and infirmities.
+                li Jesus mends the broken-hearted and binds up their wounds.
+                li Jesus restores broken relationships and cleanses us from all guilt, shame and regret.
+                li Jesus casts out our every doubt and fear.
+                li Jesus breaks the chain of every addiction and sets us free.
+
+              h2 Jesus Is Our Peace
+
+              ul
+                li God is our protector from all evil. His angels camp around us and deliver us.
+                li God is our security and refuge in times of trouble. He is our hiding place and shield.
+                li We have the Holy Spirit of God as our helper, teacher and comforter. He leads us in the paths of righteousness.
+                li Jesus will never leave us nor forsake us. We need never be anxious nor afraid.
+                li God is faithful and trustworthy. We can have full confidence in all His great and precious promises.
+
+              p.text-right
+                | Tim Simpson
+                br
+                | 14th April, 2021
+                br 
+                span.badge.hashtag #ChristianDogWalker
+
+              include ../../includes/page_blog_navigate.pug
+              +BLOG_NAVIGATE("/blog/2021/17-learning-to-walk.html","")
+    
+          .col-md-4.hidden-print
+            hr.featurette-divider.hidden-md.hidden-lg
+            aside
+              .rightsidebar.hidden-print
+                h3 Stuff
+
+                h4 The Power Of God 
+
+                p 
+                  | A Study guide for Leaders in the Body of Christ.
+
+                a(href="https://timothy2.org/studyguides/THE-POWER-OF-GOD-FOR-WEB.pdf") The Power Of God
+
+                h4 Exousia Dunamos Study Guide 
+
+                p 
+                  | Exousia and Dunamis study guide by Timothy Jorgensen.
+
+                a(href="https://secureservercdn.net/166.62.107.20/k6t.02b.myftpupload.com/wp-content/uploads/2011/07/Exousia-and-Dunamis-study-guide.pdf") Exousia Dunamis Study Guide
+
+                h4 Steve Goodall
+                p
+                  | A Series on Habakkuk - Part 1
+
+                .embed-responsive.embed-responsive-16by9
+                  iframe.embed-responsive-item(src="https://www.youtube.com/embed/_40HgRveTfU")
+
+        // /row
+      // /container
+    include ../../includes/page_footer.pug
+    script(type='text/javascript', src='../../script/biblenav.js')
+    //
+      jQuery (necessary for Bootstrap's JavaScript plugins)
+      originally from: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+    script(src='../../script/jquery-1.12.4.min.js')
+    // Include all compiled plugins (below), or include individual files as needed
+    script(src='../../script/bootstrap.min.js')

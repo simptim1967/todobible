@@ -6,6 +6,7 @@ rem Blog index
 call Pug C:\TIM\Dev\MBP\Source\WebSite\pug\blog\blog-index.pug --pretty --out C:\TIM\Dev\MBP\Source\live\blog 
 
 rem 2021
+call Pug C:\TIM\Dev\MBP\Source\WebSite\pug\blog\2021\18-always-good-news.pug --pretty --out C:\TIM\Dev\MBP\Source\live\blog\2021
 call Pug C:\TIM\Dev\MBP\Source\WebSite\pug\blog\2021\17-learning-to-walk.pug --pretty --out C:\TIM\Dev\MBP\Source\live\blog\2021
 call Pug C:\TIM\Dev\MBP\Source\WebSite\pug\blog\2021\16-listen-with-your-eyes.pug --pretty --out C:\TIM\Dev\MBP\Source\live\blog\2021
 call Pug C:\TIM\Dev\MBP\Source\WebSite\pug\blog\2021\15-my-first-vision.pug --pretty --out C:\TIM\Dev\MBP\Source\live\blog\2021
