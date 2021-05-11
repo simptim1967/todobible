@@ -12,6 +12,7 @@
     "nextTitle": "1 Corinthians",
     "prevBook": "acts_1.html",
     "prevTitle": "Acts",
+    "tooltipwords": true,
     "interlinear": false
   },
   "chapter": {
@@ -30,7 +31,7 @@
       "id": "v1",
       "number": "1",
       "absolute": "28118",
-      "text": "<span class='extra'>There is</span> therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+      "text": "<span class='extra'>There is</span> therefore now <span class='ttw'; data-toggle='tooltip' data-placement='top' title='not even one, none, no exception'>no</span> condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
       "plainText": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit."
     },
     {
