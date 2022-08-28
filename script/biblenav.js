@@ -51,7 +51,7 @@ function GoToVerse() {
     bookName = bookName.replace(" ", "");
 
     // find specified bookname in list
-    var booklist = "#genesis#exodus#leviticus#numbers#deuteronomy#joshua#judges#ruth#1samuel#2samuel#1kings#2kings#1chronicles#2chronicles#ezra#nehemiah#esther#job#psalms#proverbs#ecclesiastes#song of solomon#isaiah#jeremiah#lamentations#ezekiel#daniel#hosea#joel#amos#obadiah#jonah#micah#nahum#habakkuk#zepheniah#haggai#zechariah#malachi#matthew#mark#luke#john#acts#romans#1corinthians#2corinthians#galatians#ephesians#philippians#colossians#1thessalonians#2thessalonians#1timothy#2timothy#titus#philemon#hebrews#james#1peter#2peter#1john#2john#3john#jude#revelation#";
+    var booklist = "#genesis#exodus#leviticus#numbers#deuteronomy#joshua#judges#ruth#1samuel#2samuel#1kings#2kings#1chronicles#2chronicles#ezra#nehemiah#esther#job#psalms#proverbs#ecclesiastes#song of solomon#isaiah#jeremiah#lamentations#ezekiel#daniel#hosea#joel#amos#obadiah#jonah#micah#nahum#habakkuk#zephaniah#haggai#zechariah#malachi#matthew#mark#luke#john#acts#romans#1corinthians#2corinthians#galatians#ephesians#philippians#colossians#1thessalonians#2thessalonians#1timothy#2timothy#titus#philemon#hebrews#james#1peter#2peter#1john#2john#3john#jude#revelation#";
     var i = booklist.indexOf("#" + bookName);
     if (i == -1) {
         // Not found so report as invalid
